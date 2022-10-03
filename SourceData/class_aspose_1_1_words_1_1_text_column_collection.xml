@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_text_column_collection" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::TextColumnCollection</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_text_column_collection_8h" local="no">Aspose.Words.Cpp/TextColumnCollection.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_text_column_collection_1afe5e5b78b27b53809e7928ed956e689d" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::TextColumnCollection::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::TextColumnCollection::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TextColumnCollection.h" line="67" column="28" bodyfile="Aspose.Words.Cpp/TextColumnCollection.h" bodystart="67" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_text_column_collection_1a0ea3399e1e82e96ddca9923ba916c8d9" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_text_column_collection" kindref="compound">TextColumnCollection</ref></type>
+        <definition>typedef TextColumnCollection Aspose::Words::TextColumnCollection::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::TextColumnCollection::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TextColumnCollection.h" line="66" column="34" bodyfile="Aspose.Words.Cpp/TextColumnCollection.h" bodystart="66" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_text_column_collection_1ad618a7e4cd1cd82a7bbf6c13081d54c5" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::TextColumnCollection::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::TextColumnCollection::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TextColumnCollection.h" line="69" column="37" bodyfile="Aspose.Words.Cpp/TextColumnCollection.h" bodystart="69" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_text_column_collection_1a30f818f703eeac0120a9b64555f3aee0" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::TextColumnCollection::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::TextColumnCollection::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TextColumnCollection.h" line="241" column="21" bodyfile="Aspose.Words.Cpp/TextColumnCollection.h" bodystart="241" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_text_column_collection_1a9db24400e19be16922e9f413269db613" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::TextColumnCollection::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::TextColumnCollection::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TextColumnCollection.h" line="70" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_text_column_collection_1a5f4ddee85911a817e5e2857fa4ce48e5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::TextColumnCollection::get_Count</definition>
+        <argsstring>()</argsstring>
+        <name>get_Count</name>
+        <qualifiedname>Aspose::Words::TextColumnCollection::get_Count</qualifiedname>
+        <briefdescription>
+<para>Gets the number of columns in the section of a document. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TextColumnCollection.h" line="172" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_text_column_collection_1a0c502d13beed32d1616a9b882c9e7cfa" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::TextColumnCollection::get_EvenlySpaced</definition>
+        <argsstring>()</argsstring>
+        <name>get_EvenlySpaced</name>
+        <qualifiedname>Aspose::Words::TextColumnCollection::get_EvenlySpaced</qualifiedname>
+        <briefdescription>
+<para><bold>True</bold> if text columns are of equal width and evenly spaced. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create unevenly spaced columns. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;PageSetup&gt;<sp/>pageSetup<sp/>=<sp/>builder-&gt;get_PageSetup();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextColumnCollection&gt;<sp/>columns<sp/>=<sp/>pageSetup-&gt;get_TextColumns();</highlight></codeline>
+<codeline><highlight class="normal">columns-&gt;set_EvenlySpaced(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">columns-&gt;SetCount(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Determine<sp/>the<sp/>amount<sp/>of<sp/>room<sp/>that<sp/>we<sp/>have<sp/>available<sp/>for<sp/>arranging<sp/>columns.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordtype">double</highlight><highlight class="normal"><sp/>contentWidth<sp/>=<sp/>pageSetup-&gt;get_PageWidth()<sp/>-<sp/>pageSetup-&gt;get_LeftMargin()<sp/>-<sp/>pageSetup-&gt;get_RightMargin();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(470.30,<sp/>contentWidth,<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>first<sp/>column<sp/>to<sp/>be<sp/>narrow.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextColumn&gt;<sp/>column<sp/>=<sp/>columns-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal">column-&gt;set_Width(100);</highlight></codeline>
+<codeline><highlight class="normal">column-&gt;set_SpaceAfter(20);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>second<sp/>column<sp/>to<sp/>take<sp/>the<sp/>rest<sp/>of<sp/>the<sp/>space<sp/>available<sp/>within<sp/>the<sp/>margins<sp/>of<sp/>the<sp/>page.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">column<sp/>=<sp/>columns-&gt;idx_get(1);</highlight></codeline>
+<codeline><highlight class="normal">column-&gt;set_Width(contentWidth<sp/>-<sp/>column-&gt;get_Width()<sp/>-<sp/>column-&gt;get_SpaceAfter());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Narrow<sp/>column<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eaa25e2f84973d0cc3ec4560e03e85cb2e" kindref="member" tooltip="Explicit column break.">BreakType::ColumnBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Wide<sp/>column<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PageSetup.CustomColumnWidth.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TextColumnCollection.h" line="108" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_text_column_collection_1a932c47a8677cc8243a5b952af828385c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::TextColumnCollection::get_LineBetween</definition>
+        <argsstring>()</argsstring>
+        <name>get_LineBetween</name>
+        <qualifiedname>Aspose::Words::TextColumnCollection::get_LineBetween</qualifiedname>
+        <briefdescription>
+<para>When <bold>true</bold>, adds a vertical line between columns. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to separate columns with a vertical line. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Configure<sp/>the<sp/>current<sp/>section&apos;s<sp/>PageSetup<sp/>object<sp/>to<sp/>divide<sp/>the<sp/>text<sp/>into<sp/>several<sp/>columns.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;LineBetween&quot;<sp/>property<sp/>to<sp/>&quot;true&quot;<sp/>to<sp/>put<sp/>a<sp/>dividing<sp/>line<sp/>between<sp/>columns.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;LineBetween&quot;<sp/>property<sp/>to<sp/>&quot;false&quot;<sp/>to<sp/>leave<sp/>the<sp/>space<sp/>between<sp/>columns<sp/>blank.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextColumnCollection&gt;<sp/>columns<sp/>=<sp/>builder-&gt;get_PageSetup()-&gt;get_TextColumns();</highlight></codeline>
+<codeline><highlight class="normal">columns-&gt;set_LineBetween(lineBetween);</highlight></codeline>
+<codeline><highlight class="normal">columns-&gt;SetCount(3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Column<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eaa25e2f84973d0cc3ec4560e03e85cb2e" kindref="member" tooltip="Explicit column break.">BreakType::ColumnBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Column<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eaa25e2f84973d0cc3ec4560e03e85cb2e" kindref="member" tooltip="Explicit column break.">BreakType::ColumnBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Column<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PageSetup.VerticalLineBetweenColumns.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TextColumnCollection.h" line="166" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_text_column_collection_1ad4a468317ed7c0c0e423e7d4926a31fa" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::TextColumnCollection::get_Spacing</definition>
+        <argsstring>()</argsstring>
+        <name>get_Spacing</name>
+        <qualifiedname>Aspose::Words::TextColumnCollection::get_Spacing</qualifiedname>
+        <briefdescription>
+<para>When columns are evenly spaced, gets or sets the amount of space between each column in points. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create multiple evenly spaced columns in a section. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextColumnCollection&gt;<sp/>columns<sp/>=<sp/>builder-&gt;get_PageSetup()-&gt;get_TextColumns();</highlight></codeline>
+<codeline><highlight class="normal">columns-&gt;set_Spacing(100);</highlight></codeline>
+<codeline><highlight class="normal">columns-&gt;SetCount(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Column<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eaa25e2f84973d0cc3ec4560e03e85cb2e" kindref="member" tooltip="Explicit column break.">BreakType::ColumnBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Column<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PageSetup.ColumnsSameWidth.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TextColumnCollection.h" line="132" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_text_column_collection_1a30a2572a44af401c4ed3660990314903" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::TextColumnCollection::get_Width</definition>
+        <argsstring>()</argsstring>
+        <name>get_Width</name>
+        <qualifiedname>Aspose::Words::TextColumnCollection::get_Width</qualifiedname>
+        <briefdescription>
+<para>When columns are evenly spaced, gets the width of the columns. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Has effect only when <ref refid="class_aspose_1_1_words_1_1_text_column_collection_1a0c502d13beed32d1616a9b882c9e7cfa" kindref="member">EvenlySpaced</ref> is set to <bold>true</bold>. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TextColumnCollection.h" line="140" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_text_column_collection_1a0b09f650ffe3a45374376ae5365720cd" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_text_column" kindref="compound">Aspose::Words::TextColumn</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::TextColumn &gt; Aspose::Words::TextColumnCollection::idx_get</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>idx_get</name>
+        <qualifiedname>Aspose::Words::TextColumnCollection::idx_get</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Returns a text column at the specified index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create unevenly spaced columns. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;PageSetup&gt;<sp/>pageSetup<sp/>=<sp/>builder-&gt;get_PageSetup();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextColumnCollection&gt;<sp/>columns<sp/>=<sp/>pageSetup-&gt;get_TextColumns();</highlight></codeline>
+<codeline><highlight class="normal">columns-&gt;set_EvenlySpaced(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">columns-&gt;SetCount(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Determine<sp/>the<sp/>amount<sp/>of<sp/>room<sp/>that<sp/>we<sp/>have<sp/>available<sp/>for<sp/>arranging<sp/>columns.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordtype">double</highlight><highlight class="normal"><sp/>contentWidth<sp/>=<sp/>pageSetup-&gt;get_PageWidth()<sp/>-<sp/>pageSetup-&gt;get_LeftMargin()<sp/>-<sp/>pageSetup-&gt;get_RightMargin();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(470.30,<sp/>contentWidth,<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>first<sp/>column<sp/>to<sp/>be<sp/>narrow.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextColumn&gt;<sp/>column<sp/>=<sp/>columns-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal">column-&gt;set_Width(100);</highlight></codeline>
+<codeline><highlight class="normal">column-&gt;set_SpaceAfter(20);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>second<sp/>column<sp/>to<sp/>take<sp/>the<sp/>rest<sp/>of<sp/>the<sp/>space<sp/>available<sp/>within<sp/>the<sp/>margins<sp/>of<sp/>the<sp/>page.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">column<sp/>=<sp/>columns-&gt;idx_get(1);</highlight></codeline>
+<codeline><highlight class="normal">column-&gt;set_Width(contentWidth<sp/>-<sp/>column-&gt;get_Width()<sp/>-<sp/>column-&gt;get_SpaceAfter());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Narrow<sp/>column<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eaa25e2f84973d0cc3ec4560e03e85cb2e" kindref="member" tooltip="Explicit column break.">BreakType::ColumnBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Wide<sp/>column<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PageSetup.CustomColumnWidth.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TextColumnCollection.h" line="235" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_text_column_collection_1a8e4a50265fbf9112b2d156c8920a7047" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::TextColumnCollection::set_EvenlySpaced</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_EvenlySpaced</name>
+        <qualifiedname>Aspose::Words::TextColumnCollection::set_EvenlySpaced</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_text_column_collection_1a0c502d13beed32d1616a9b882c9e7cfa" kindref="member">Aspose::Words::TextColumnCollection::get_EvenlySpaced</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TextColumnCollection.h" line="111" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_text_column_collection_1aaf8fdebcd17a715232955e74cb563014" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::TextColumnCollection::set_LineBetween</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_LineBetween</name>
+        <qualifiedname>Aspose::Words::TextColumnCollection::set_LineBetween</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_text_column_collection_1a932c47a8677cc8243a5b952af828385c" kindref="member">Aspose::Words::TextColumnCollection::get_LineBetween</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TextColumnCollection.h" line="169" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_text_column_collection_1a5bbfeac604ebb784d3f0653ae067d56a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::TextColumnCollection::set_Spacing</definition>
+        <argsstring>(double value)</argsstring>
+        <name>set_Spacing</name>
+        <qualifiedname>Aspose::Words::TextColumnCollection::set_Spacing</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_text_column_collection_1ad4a468317ed7c0c0e423e7d4926a31fa" kindref="member">Aspose::Words::TextColumnCollection::get_Spacing</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TextColumnCollection.h" line="135" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_text_column_collection_1af5bb03e56fa16fef07e0428f6de87528" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::TextColumnCollection::SetCount</definition>
+        <argsstring>(int32_t newCount)</argsstring>
+        <name>SetCount</name>
+        <qualifiedname>Aspose::Words::TextColumnCollection::SetCount</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>newCount</declname>
+        </param>
+        <briefdescription>
+<para>Arranges text into the specified number of text columns. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>When <ref refid="class_aspose_1_1_words_1_1_text_column_collection_1a0c502d13beed32d1616a9b882c9e7cfa" kindref="member">EvenlySpaced</ref> is <bold>false</bold> and you increase the number of columns, new <ref refid="class_aspose_1_1_words_1_1_text_column" kindref="compound">TextColumn</ref> objects are created with zero width and spacing. You need to set width and spacing for the new columns.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>newCount</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The number of columns the text is to be arranged into.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create multiple evenly spaced columns in a section. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextColumnCollection&gt;<sp/>columns<sp/>=<sp/>builder-&gt;get_PageSetup()-&gt;get_TextColumns();</highlight></codeline>
+<codeline><highlight class="normal">columns-&gt;set_Spacing(100);</highlight></codeline>
+<codeline><highlight class="normal">columns-&gt;SetCount(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Column<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eaa25e2f84973d0cc3ec4560e03e85cb2e" kindref="member" tooltip="Explicit column break.">BreakType::ColumnBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Column<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PageSetup.ColumnsSameWidth.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TextColumnCollection.h" line="199" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>A collection of <ref refid="class_aspose_1_1_words_1_1_text_column" kindref="compound">TextColumn</ref> objects that represent all the columns of text in a section of a document. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>Use <ref refid="class_aspose_1_1_words_1_1_text_column_collection_1af5bb03e56fa16fef07e0428f6de87528" kindref="member">SetCount()</ref> to set the number of text columns.</para>
+<para>To make all columns equal width and spaced evenly, set <ref refid="class_aspose_1_1_words_1_1_text_column_collection_1a0c502d13beed32d1616a9b882c9e7cfa" kindref="member">EvenlySpaced</ref> to <bold>true</bold> and specify the amount of space between the columns in <ref refid="class_aspose_1_1_words_1_1_text_column_collection_1ad4a468317ed7c0c0e423e7d4926a31fa" kindref="member">Spacing</ref>. MS Word will automatically calculate column widths.</para>
+<para>If you have <bold>EvenlySpaced</bold> set to <bold>false</bold>, you need to specify width and spacing for each column individually. Use the indexer to access individual <ref refid="class_aspose_1_1_words_1_1_text_column" kindref="compound">TextColumn</ref> objects.</para>
+<para>When using custom column widths, make sure the sum of all column widths and spacings between them equals page width minus left and right page margins.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_page_setup" kindref="compound">Aspose::Words::PageSetup</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_section" kindref="compound">Aspose::Words::Section</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create multiple evenly spaced columns in a section. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextColumnCollection&gt;<sp/>columns<sp/>=<sp/>builder-&gt;get_PageSetup()-&gt;get_TextColumns();</highlight></codeline>
+<codeline><highlight class="normal">columns-&gt;set_Spacing(100);</highlight></codeline>
+<codeline><highlight class="normal">columns-&gt;SetCount(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Column<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eaa25e2f84973d0cc3ec4560e03e85cb2e" kindref="member" tooltip="Explicit column break.">BreakType::ColumnBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Column<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PageSetup.ColumnsSameWidth.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::TextColumnCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_text_column_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::TextColumnCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_text_column_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/TextColumnCollection.h" line="64" column="1" bodyfile="Aspose.Words.Cpp/TextColumnCollection.h" bodystart="65" bodyend="243"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_text_column_collection_1afe5e5b78b27b53809e7928ed956e689d" prot="private" virt="non-virtual"><scope>Aspose::Words::TextColumnCollection</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_text_column_collection_1a5f4ddee85911a817e5e2857fa4ce48e5" prot="public" virt="non-virtual"><scope>Aspose::Words::TextColumnCollection</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_text_column_collection_1a0c502d13beed32d1616a9b882c9e7cfa" prot="public" virt="non-virtual"><scope>Aspose::Words::TextColumnCollection</scope><name>get_EvenlySpaced</name></member>
+      <member refid="class_aspose_1_1_words_1_1_text_column_collection_1a932c47a8677cc8243a5b952af828385c" prot="public" virt="non-virtual"><scope>Aspose::Words::TextColumnCollection</scope><name>get_LineBetween</name></member>
+      <member refid="class_aspose_1_1_words_1_1_text_column_collection_1ad4a468317ed7c0c0e423e7d4926a31fa" prot="public" virt="non-virtual"><scope>Aspose::Words::TextColumnCollection</scope><name>get_Spacing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_text_column_collection_1a30a2572a44af401c4ed3660990314903" prot="public" virt="non-virtual"><scope>Aspose::Words::TextColumnCollection</scope><name>get_Width</name></member>
+      <member refid="class_aspose_1_1_words_1_1_text_column_collection_1a0b09f650ffe3a45374376ae5365720cd" prot="public" virt="non-virtual"><scope>Aspose::Words::TextColumnCollection</scope><name>idx_get</name></member>
+      <member refid="class_aspose_1_1_words_1_1_text_column_collection_1a30f818f703eeac0120a9b64555f3aee0" prot="private" virt="non-virtual"><scope>Aspose::Words::TextColumnCollection</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_text_column_collection_1a9db24400e19be16922e9f413269db613" prot="private" virt="non-virtual"><scope>Aspose::Words::TextColumnCollection</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_text_column_collection_1a8e4a50265fbf9112b2d156c8920a7047" prot="public" virt="non-virtual"><scope>Aspose::Words::TextColumnCollection</scope><name>set_EvenlySpaced</name></member>
+      <member refid="class_aspose_1_1_words_1_1_text_column_collection_1aaf8fdebcd17a715232955e74cb563014" prot="public" virt="non-virtual"><scope>Aspose::Words::TextColumnCollection</scope><name>set_LineBetween</name></member>
+      <member refid="class_aspose_1_1_words_1_1_text_column_collection_1a5bbfeac604ebb784d3f0653ae067d56a" prot="public" virt="non-virtual"><scope>Aspose::Words::TextColumnCollection</scope><name>set_Spacing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_text_column_collection_1af5bb03e56fa16fef07e0428f6de87528" prot="public" virt="non-virtual"><scope>Aspose::Words::TextColumnCollection</scope><name>SetCount</name></member>
+      <member refid="class_aspose_1_1_words_1_1_text_column_collection_1a0ea3399e1e82e96ddca9923ba916c8d9" prot="private" virt="non-virtual"><scope>Aspose::Words::TextColumnCollection</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_text_column_collection_1ad618a7e4cd1cd82a7bbf6c13081d54c5" prot="private" virt="non-virtual"><scope>Aspose::Words::TextColumnCollection</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

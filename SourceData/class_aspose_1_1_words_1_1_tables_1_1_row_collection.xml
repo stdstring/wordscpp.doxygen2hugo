@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_tables_1_1_row_collection" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Tables::RowCollection</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_node_collection" prot="public" virt="non-virtual">Aspose::Words::NodeCollection</basecompoundref>
+    <includes refid="_row_collection_8h" local="no">Aspose.Words.Cpp/Tables/RowCollection.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_tables_1_1_row_collection_1abaeb61ed2fb7ef93f1a8e62f62599b2e" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_node_collection" kindref="compound">Aspose::Words::NodeCollection</ref></type>
+        <definition>typedef Aspose::Words::NodeCollection Aspose::Words::Tables::RowCollection::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Tables::RowCollection::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Tables/RowCollection.h" line="79" column="43" bodyfile="Aspose.Words.Cpp/Tables/RowCollection.h" bodystart="79" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_tables_1_1_row_collection_1a688c7187bc859a0a8cd6747f8a0c306d" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_tables_1_1_row_collection" kindref="compound">RowCollection</ref></type>
+        <definition>typedef RowCollection Aspose::Words::Tables::RowCollection::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Tables::RowCollection::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Tables/RowCollection.h" line="78" column="27" bodyfile="Aspose.Words.Cpp/Tables/RowCollection.h" bodystart="78" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_tables_1_1_row_collection_1a9a0c783521ce907f5438a085108035ce" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node_collection" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Tables::RowCollection::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Tables::RowCollection::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Tables/RowCollection.h" line="81" column="37" bodyfile="Aspose.Words.Cpp/Tables/RowCollection.h" bodystart="81" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_tables_1_1_row_collection_1a7895fff1badfc8de0018b971d973e313" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Tables::RowCollection::~RowCollection</definition>
+        <argsstring>()</argsstring>
+        <name>~RowCollection</name>
+        <qualifiedname>Aspose::Words::Tables::RowCollection::~RowCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Tables/RowCollection.h" line="191" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_tables_1_1_row_collection_1a92eaa18401e2aa4577eaa4ae7370f7b2" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Tables::RowCollection::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Tables::RowCollection::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Tables/RowCollection.h" line="82" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_tables_1_1_row_collection_1ab03c5a92ed79222ddd0c5f829757cb66" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tables_1_1_row" kindref="compound">Aspose::Words::Tables::Row</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Tables::Row &gt; Aspose::Words::Tables::RowCollection::idx_get</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>idx_get</name>
+        <qualifiedname>Aspose::Words::Tables::RowCollection::idx_get</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Retrieves a <bold>Row</bold> at the given index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The index is zero-based.</para>
+<para>Negative indexes are allowed and indicate access from the back of the collection. For example -1 means the last item, -2 means the second before last and so on.</para>
+<para>If index is greater than or equal to the number of items in the list, this returns a null reference.</para>
+<para>If index is negative and its absolute value is greater than the number of items in the list, this returns a null reference.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>index</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>An index into the collection.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to iterate through all tables in the document and print the contents of each cell. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Tables.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TableCollection&gt;<sp/>tables<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Tables();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>tables-&gt;ToArray()-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>tables-&gt;get_Count();<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Start<sp/>of<sp/>Table<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>i<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;RowCollection&gt;<sp/>rows<sp/>=<sp/>tables-&gt;idx_get(i)-&gt;get_Rows();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>the<sp/>&quot;ToArray&quot;<sp/>method<sp/>on<sp/>a<sp/>row<sp/>collection<sp/>to<sp/>clone<sp/>it<sp/>into<sp/>an<sp/>array.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(rows,<sp/>rows-&gt;ToArray());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_NS(rows,<sp/>rows-&gt;ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>j<sp/>=<sp/>0;<sp/>j<sp/>&lt;<sp/>rows-&gt;get_Count();<sp/>j++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tStart<sp/>of<sp/>Row<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>j<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;CellCollection&gt;<sp/>cells<sp/>=<sp/>rows-&gt;idx_get(j)-&gt;get_Cells();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>the<sp/>&quot;ToArray&quot;<sp/>method<sp/>on<sp/>a<sp/>cell<sp/>collection<sp/>to<sp/>clone<sp/>it<sp/>into<sp/>an<sp/>array.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(cells,<sp/>cells-&gt;ToArray());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_NS(cells,<sp/>cells-&gt;ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>k<sp/>=<sp/>0;<sp/>k<sp/>&lt;<sp/>cells-&gt;get_Count();<sp/>k++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>cellText<sp/>=<sp/>cells-&gt;idx_get(k)-&gt;ToString(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Saves the document in the plain text format.">SaveFormat::Text</ref>).Trim();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t\tContents<sp/>of<sp/>Cell:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>k<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>=<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>cellText<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tEnd<sp/>of<sp/>Row<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>j<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;End<sp/>of<sp/>Table<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>i<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\n&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Tables/RowCollection.h" line="140" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_tables_1_1_row_collection_1aaadb0fab335011a8b977fc9f24b66a01" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tables_1_1_row" kindref="compound">Aspose::Words::Tables::Row</ref> &gt; &gt;</type>
+        <definition>System::ArrayPtr&lt; System::SharedPtr&lt; Aspose::Words::Tables::Row &gt; &gt; Aspose::Words::Tables::RowCollection::ToArray</definition>
+        <argsstring>()</argsstring>
+        <name>ToArray</name>
+        <qualifiedname>Aspose::Words::Tables::RowCollection::ToArray</qualifiedname>
+        <briefdescription>
+<para>Copies all rows from the collection to a new array of rows. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>An array of rows.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to iterate through all tables in the document and print the contents of each cell. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Tables.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TableCollection&gt;<sp/>tables<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Tables();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>tables-&gt;ToArray()-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>tables-&gt;get_Count();<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Start<sp/>of<sp/>Table<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>i<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;RowCollection&gt;<sp/>rows<sp/>=<sp/>tables-&gt;idx_get(i)-&gt;get_Rows();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>the<sp/>&quot;ToArray&quot;<sp/>method<sp/>on<sp/>a<sp/>row<sp/>collection<sp/>to<sp/>clone<sp/>it<sp/>into<sp/>an<sp/>array.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(rows,<sp/>rows-&gt;ToArray());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_NS(rows,<sp/>rows-&gt;ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>j<sp/>=<sp/>0;<sp/>j<sp/>&lt;<sp/>rows-&gt;get_Count();<sp/>j++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tStart<sp/>of<sp/>Row<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>j<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;CellCollection&gt;<sp/>cells<sp/>=<sp/>rows-&gt;idx_get(j)-&gt;get_Cells();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>the<sp/>&quot;ToArray&quot;<sp/>method<sp/>on<sp/>a<sp/>cell<sp/>collection<sp/>to<sp/>clone<sp/>it<sp/>into<sp/>an<sp/>array.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(cells,<sp/>cells-&gt;ToArray());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_NS(cells,<sp/>cells-&gt;ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>k<sp/>=<sp/>0;<sp/>k<sp/>&lt;<sp/>cells-&gt;get_Count();<sp/>k++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>cellText<sp/>=<sp/>cells-&gt;idx_get(k)-&gt;ToString(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Saves the document in the plain text format.">SaveFormat::Text</ref>).Trim();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t\tContents<sp/>of<sp/>Cell:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>k<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>=<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>cellText<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tEnd<sp/>of<sp/>Row<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>j<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;End<sp/>of<sp/>Table<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>i<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\n&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Tables/RowCollection.h" line="187" column="25"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Provides typed access to a collection of <ref refid="class_aspose_1_1_words_1_1_tables_1_1_row" kindref="compound">Row</ref> nodes. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to iterate through all tables in the document and print the contents of each cell. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Tables.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TableCollection&gt;<sp/>tables<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Tables();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>tables-&gt;ToArray()-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>tables-&gt;get_Count();<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Start<sp/>of<sp/>Table<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>i<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;RowCollection&gt;<sp/>rows<sp/>=<sp/>tables-&gt;idx_get(i)-&gt;get_Rows();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>the<sp/>&quot;ToArray&quot;<sp/>method<sp/>on<sp/>a<sp/>row<sp/>collection<sp/>to<sp/>clone<sp/>it<sp/>into<sp/>an<sp/>array.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(rows,<sp/>rows-&gt;ToArray());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_NS(rows,<sp/>rows-&gt;ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>j<sp/>=<sp/>0;<sp/>j<sp/>&lt;<sp/>rows-&gt;get_Count();<sp/>j++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tStart<sp/>of<sp/>Row<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>j<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;CellCollection&gt;<sp/>cells<sp/>=<sp/>rows-&gt;idx_get(j)-&gt;get_Cells();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>the<sp/>&quot;ToArray&quot;<sp/>method<sp/>on<sp/>a<sp/>cell<sp/>collection<sp/>to<sp/>clone<sp/>it<sp/>into<sp/>an<sp/>array.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(cells,<sp/>cells-&gt;ToArray());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_NS(cells,<sp/>cells-&gt;ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>k<sp/>=<sp/>0;<sp/>k<sp/>&lt;<sp/>cells-&gt;get_Count();<sp/>k++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>cellText<sp/>=<sp/>cells-&gt;idx_get(k)-&gt;ToString(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Saves the document in the plain text format.">SaveFormat::Text</ref>).Trim();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t\tContents<sp/>of<sp/>Cell:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>k<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>=<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>cellText<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tEnd<sp/>of<sp/>Row<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>j<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;End<sp/>of<sp/>Table<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>i<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\n&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="3">
+        <label>Aspose::Words::INodeCollection</label>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::NodeCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_node_collection"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Tables::RowCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_tables_1_1_row_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Node &gt; &gt;</label>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>Aspose::Words::INodeCollection</label>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::NodeCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_node_collection"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Tables::RowCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_tables_1_1_row_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Node &gt; &gt;</label>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Tables/RowCollection.h" line="76" column="1" bodyfile="Aspose.Words.Cpp/Tables/RowCollection.h" bodystart="77" bodyend="193"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a068f070b5bbd81992e895bd3a9b7a909" prot="public" virt="non-virtual"><scope>Aspose::Words::Tables::RowCollection</scope><name>Add</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tables_1_1_row_collection_1abaeb61ed2fb7ef93f1a8e62f62599b2e" prot="private" virt="non-virtual"><scope>Aspose::Words::Tables::RowCollection</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a5c84bf176a96e3f048ff328ef0ef67aa" prot="public" virt="non-virtual"><scope>Aspose::Words::Tables::RowCollection</scope><name>Clear</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1afb103bc9c0ef36a0593141c957dec4ad" prot="public" virt="non-virtual"><scope>Aspose::Words::Tables::RowCollection</scope><name>Contains</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a08e6dd6c87c6f40972781651e176742a" prot="public" virt="non-virtual"><scope>Aspose::Words::Tables::RowCollection</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a8d9e67dd4a36be575fdce2a6802cb917" prot="public" virt="non-virtual"><scope>Aspose::Words::Tables::RowCollection</scope><name>GetEnumerator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tables_1_1_row_collection_1ab03c5a92ed79222ddd0c5f829757cb66" prot="public" virt="non-virtual"><scope>Aspose::Words::Tables::RowCollection</scope><name>idx_get</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a99ff7fa6245f5be6b1830877cc6e641c" prot="public" virt="non-virtual"><scope>Aspose::Words::Tables::RowCollection</scope><name>IndexOf</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1ae0e08870652837402e08e2e56647795c" prot="public" virt="non-virtual"><scope>Aspose::Words::Tables::RowCollection</scope><name>Insert</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a86977ff4ddee5f0781a774868b8ad5a8" prot="public" virt="non-virtual"><scope>Aspose::Words::Tables::RowCollection</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a9c1ce160d192c038c1e740c3ddc309eb" prot="public" virt="non-virtual"><scope>Aspose::Words::Tables::RowCollection</scope><name>RemoveAt</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tables_1_1_row_collection_1a92eaa18401e2aa4577eaa4ae7370f7b2" prot="private" virt="non-virtual"><scope>Aspose::Words::Tables::RowCollection</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tables_1_1_row_collection_1a688c7187bc859a0a8cd6747f8a0c306d" prot="private" virt="non-virtual"><scope>Aspose::Words::Tables::RowCollection</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tables_1_1_row_collection_1a9a0c783521ce907f5438a085108035ce" prot="private" virt="non-virtual"><scope>Aspose::Words::Tables::RowCollection</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tables_1_1_row_collection_1aaadb0fab335011a8b977fc9f24b66a01" prot="public" virt="non-virtual"><scope>Aspose::Words::Tables::RowCollection</scope><name>ToArray</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tables_1_1_row_collection_1a7895fff1badfc8de0018b971d973e313" prot="private" virt="virtual"><scope>Aspose::Words::Tables::RowCollection</scope><name>~RowCollection</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

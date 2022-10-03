@@ -1,0 +1,656 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::FieldAddressBlock</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field" prot="public" virt="non-virtual">Aspose::Words::Fields::Field</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IFieldCodeTokenInfoProvider</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IFormattableMergeField</basecompoundref>
+    <includes refid="_field_address_block_8h" local="no">Aspose.Words.Cpp/Fields/FieldAddressBlock.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1ab75bcc2dc4665742e286e8603cb84e28" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref></type>
+        <definition>typedef Aspose::Words::Fields::Field Aspose::Words::Fields::FieldAddressBlock::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="62" column="42" bodyfile="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" bodystart="62" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1aed369304c047146ddcb1420a5d9e8eb5" prot="private" static="no">
+        <type>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</type>
+        <definition>typedef Aspose::Words::Fields::IFieldCodeTokenInfoProvider Aspose::Words::Fields::FieldAddressBlock::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="63" column="64" bodyfile="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" bodystart="63" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1aedcadf723681fac900c76f352b04a24a" prot="private" static="no">
+        <type>Aspose::Words::Fields::IFormattableMergeField</type>
+        <definition>typedef Aspose::Words::Fields::IFormattableMergeField Aspose::Words::Fields::FieldAddressBlock::BaseType2</definition>
+        <argsstring></argsstring>
+        <name>BaseType2</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::BaseType2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="64" column="59" bodyfile="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" bodystart="64" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1a1788fe2900eb48a0bfca5b58cbf89a26" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block" kindref="compound">FieldAddressBlock</ref></type>
+        <definition>typedef FieldAddressBlock Aspose::Words::Fields::FieldAddressBlock::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="61" column="31" bodyfile="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" bodystart="61" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1a6e1b694648a8c70f91552e39921613fe" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1, BaseType2 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1, BaseType2&gt; Aspose::Words::Fields::FieldAddressBlock::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="66" column="37" bodyfile="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" bodystart="66" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1abf40eb8c365c3e361eac5bb56db067bf" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Fields::FieldAddressBlock::~FieldAddressBlock</definition>
+        <argsstring>()</argsstring>
+        <name>~FieldAddressBlock</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::~FieldAddressBlock</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="259" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1a4ef50f59ae41535b49047f06ff1d8c5d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldAddressBlock::get_MergeFormat</definition>
+        <argsstring>() override</argsstring>
+        <name>get_MergeFormat</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::get_MergeFormat</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="263" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1acd3c69803dbc9ab4c637f4c498f6da08" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Collections::StringToObjDictionary&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt; &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Collections::StringToObjDictionary&lt; System::String &gt; &gt; Aspose::Words::Fields::FieldAddressBlock::get_PlaceholdersToFieldsMap</definition>
+        <argsstring>() override</argsstring>
+        <name>get_PlaceholdersToFieldsMap</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::get_PlaceholdersToFieldsMap</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="264" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1ae610b53d419a45cf12ed9d8ee7cb4456" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldAddressBlock::GetPlaceholderValue</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::Fields::IMergeFormatContext &gt;, System::SharedPtr&lt; Aspose::Words::Fields::MergeFormatPlaceholder &gt;) override</argsstring>
+        <name>GetPlaceholderValue</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::GetPlaceholderValue</qualifiedname>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::IMergeFormatContext &gt;</type>
+        </param>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::MergeFormatPlaceholder &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="268" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1a8243b63b9a6a8ff8feb3d03cecb19717" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>Aspose::Words::Fields::FieldSwitchType</type>
+        <definition>Aspose::Words::Fields::FieldSwitchType Aspose::Words::Fields::FieldAddressBlock::GetSwitchType</definition>
+        <argsstring>(System::String) override</argsstring>
+        <name>GetSwitchType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::GetSwitchType</qualifiedname>
+        <param>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="266" column="44"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1acbcff24955e9705ecb0065a82ff1268f" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Aspose::Words::Document</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Document &gt; Aspose::Words::Fields::FieldAddressBlock::IFormattableMergeField_FetchDocument</definition>
+        <argsstring>() override</argsstring>
+        <name>IFormattableMergeField_FetchDocument</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::IFormattableMergeField_FetchDocument</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="267" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1ae9e7799dbef59c64ec2a9246f485d68c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldAddressBlock::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="67" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1ace372fef77f6336edbb15d4ac67d45e5" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldUpdateAction &gt; Aspose::Words::Fields::FieldAddressBlock::UpdateCore</definition>
+        <argsstring>() override</argsstring>
+        <name>UpdateCore</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::UpdateCore</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afd2f4d29a84550a38375396538654ab8">UpdateCore</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="257" column="26"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1ab845fa509b3b2835a9896631f45e8b9b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldAddressBlock::FieldAddressBlock</definition>
+        <argsstring>()</argsstring>
+        <name>FieldAddressBlock</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::FieldAddressBlock</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="253" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1ad2afc9ccb563dd8f25add3f78b3f23b0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldAddressBlock::get_ExcludedCountryOrRegionName</definition>
+        <argsstring>()</argsstring>
+        <name>get_ExcludedCountryOrRegionName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::get_ExcludedCountryOrRegionName</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the excluded country/region name. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert an ADDRESSBLOCK field. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldAddressBlock&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca59df4f4923c854f50987c7ee11d112b9" kindref="member" tooltip="Specifies the ADDRESSBLOCK field.">FieldType::FieldAddressBlock</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>ADDRESSBLOCK<sp/>&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Setting<sp/>this<sp/>to<sp/>&quot;2&quot;<sp/>will<sp/>include<sp/>all<sp/>countries<sp/>and<sp/>regions,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>unless<sp/>it<sp/>is<sp/>the<sp/>one<sp/>specified<sp/>in<sp/>the<sp/>ExcludedCountryOrRegionName<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_IncludeCountryOrRegionName(u</highlight><highlight class="stringliteral">&quot;2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FormatAddressOnCountryOrRegion(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ExcludedCountryOrRegionName(u</highlight><highlight class="stringliteral">&quot;United<sp/>States&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_NameAndAddressFormat(u</highlight><highlight class="stringliteral">&quot;&lt;Title&gt;<sp/>&lt;Forename&gt;<sp/>&lt;Surname&gt;<sp/>&lt;Address<sp/>Line<sp/>1&gt;<sp/>&lt;Region&gt;<sp/>&lt;Postcode&gt;<sp/>&lt;Country&gt;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>this<sp/>property<sp/>will<sp/>contain<sp/>the<sp/>language<sp/>ID<sp/>of<sp/>the<sp/>first<sp/>character<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>a<sp/>different<sp/>culture<sp/>for<sp/>the<sp/>field<sp/>to<sp/>format<sp/>the<sp/>result<sp/>with<sp/>like<sp/>this.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LanguageId(<ref refid="struct/system.convert/_1a8da6a3aaf0b91afba166691a08bc3ac0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Convert::ToString</ref>(MakeObject&lt;System::Globalization::CultureInfo&gt;(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">)-&gt;get_LCID()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>ADDRESSBLOCK<sp/><sp/>\\c<sp/>2<sp/>\\d<sp/>\\e<sp/>\&quot;United<sp/>States\&quot;<sp/>\\f<sp/>\&quot;&lt;Title&gt;<sp/>&lt;Forename&gt;<sp/>&lt;Surname&gt;<sp/>&lt;Address<sp/>Line<sp/>1&gt;<sp/>&lt;Region&gt;<sp/>&lt;Postcode&gt;<sp/>&lt;Country&gt;\&quot;<sp/>\\l<sp/>1033&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;GetFieldCode());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="166" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1a3c605f58037589b35661987957726676" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldAddressBlock::get_FormatAddressOnCountryOrRegion</definition>
+        <argsstring>()</argsstring>
+        <name>get_FormatAddressOnCountryOrRegion</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::get_FormatAddressOnCountryOrRegion</qualifiedname>
+        <briefdescription>
+<para>Gets or sets whether to format the address according to the country/region of the recipient as defined by POST*CODE (Universal Postal Union 2006). </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert an ADDRESSBLOCK field. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldAddressBlock&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca59df4f4923c854f50987c7ee11d112b9" kindref="member" tooltip="Specifies the ADDRESSBLOCK field.">FieldType::FieldAddressBlock</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>ADDRESSBLOCK<sp/>&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Setting<sp/>this<sp/>to<sp/>&quot;2&quot;<sp/>will<sp/>include<sp/>all<sp/>countries<sp/>and<sp/>regions,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>unless<sp/>it<sp/>is<sp/>the<sp/>one<sp/>specified<sp/>in<sp/>the<sp/>ExcludedCountryOrRegionName<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_IncludeCountryOrRegionName(u</highlight><highlight class="stringliteral">&quot;2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FormatAddressOnCountryOrRegion(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ExcludedCountryOrRegionName(u</highlight><highlight class="stringliteral">&quot;United<sp/>States&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_NameAndAddressFormat(u</highlight><highlight class="stringliteral">&quot;&lt;Title&gt;<sp/>&lt;Forename&gt;<sp/>&lt;Surname&gt;<sp/>&lt;Address<sp/>Line<sp/>1&gt;<sp/>&lt;Region&gt;<sp/>&lt;Postcode&gt;<sp/>&lt;Country&gt;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>this<sp/>property<sp/>will<sp/>contain<sp/>the<sp/>language<sp/>ID<sp/>of<sp/>the<sp/>first<sp/>character<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>a<sp/>different<sp/>culture<sp/>for<sp/>the<sp/>field<sp/>to<sp/>format<sp/>the<sp/>result<sp/>with<sp/>like<sp/>this.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LanguageId(<ref refid="struct/system.convert/_1a8da6a3aaf0b91afba166691a08bc3ac0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Convert::ToString</ref>(MakeObject&lt;System::Globalization::CultureInfo&gt;(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">)-&gt;get_LCID()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>ADDRESSBLOCK<sp/><sp/>\\c<sp/>2<sp/>\\d<sp/>\\e<sp/>\&quot;United<sp/>States\&quot;<sp/>\\f<sp/>\&quot;&lt;Title&gt;<sp/>&lt;Forename&gt;<sp/>&lt;Surname&gt;<sp/>&lt;Address<sp/>Line<sp/>1&gt;<sp/>&lt;Region&gt;<sp/>&lt;Postcode&gt;<sp/>&lt;Country&gt;\&quot;<sp/>\\l<sp/>1033&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;GetFieldCode());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="100" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1aeb30f1206085c3fc676bccf759c78d03" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldAddressBlock::get_IncludeCountryOrRegionName</definition>
+        <argsstring>()</argsstring>
+        <name>get_IncludeCountryOrRegionName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::get_IncludeCountryOrRegionName</qualifiedname>
+        <briefdescription>
+<para>Gets or sets whether to include the name of the country/region. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert an ADDRESSBLOCK field. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldAddressBlock&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca59df4f4923c854f50987c7ee11d112b9" kindref="member" tooltip="Specifies the ADDRESSBLOCK field.">FieldType::FieldAddressBlock</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>ADDRESSBLOCK<sp/>&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Setting<sp/>this<sp/>to<sp/>&quot;2&quot;<sp/>will<sp/>include<sp/>all<sp/>countries<sp/>and<sp/>regions,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>unless<sp/>it<sp/>is<sp/>the<sp/>one<sp/>specified<sp/>in<sp/>the<sp/>ExcludedCountryOrRegionName<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_IncludeCountryOrRegionName(u</highlight><highlight class="stringliteral">&quot;2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FormatAddressOnCountryOrRegion(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ExcludedCountryOrRegionName(u</highlight><highlight class="stringliteral">&quot;United<sp/>States&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_NameAndAddressFormat(u</highlight><highlight class="stringliteral">&quot;&lt;Title&gt;<sp/>&lt;Forename&gt;<sp/>&lt;Surname&gt;<sp/>&lt;Address<sp/>Line<sp/>1&gt;<sp/>&lt;Region&gt;<sp/>&lt;Postcode&gt;<sp/>&lt;Country&gt;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>this<sp/>property<sp/>will<sp/>contain<sp/>the<sp/>language<sp/>ID<sp/>of<sp/>the<sp/>first<sp/>character<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>a<sp/>different<sp/>culture<sp/>for<sp/>the<sp/>field<sp/>to<sp/>format<sp/>the<sp/>result<sp/>with<sp/>like<sp/>this.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LanguageId(<ref refid="struct/system.convert/_1a8da6a3aaf0b91afba166691a08bc3ac0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Convert::ToString</ref>(MakeObject&lt;System::Globalization::CultureInfo&gt;(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">)-&gt;get_LCID()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>ADDRESSBLOCK<sp/><sp/>\\c<sp/>2<sp/>\\d<sp/>\\e<sp/>\&quot;United<sp/>States\&quot;<sp/>\\f<sp/>\&quot;&lt;Title&gt;<sp/>&lt;Forename&gt;<sp/>&lt;Surname&gt;<sp/>&lt;Address<sp/>Line<sp/>1&gt;<sp/>&lt;Region&gt;<sp/>&lt;Postcode&gt;<sp/>&lt;Country&gt;\&quot;<sp/>\\l<sp/>1033&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;GetFieldCode());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="133" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1ab0994c9f8e30697d587014629492c290" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldAddressBlock::get_LanguageId</definition>
+        <argsstring>()</argsstring>
+        <name>get_LanguageId</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::get_LanguageId</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the language ID used to format the address. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert an ADDRESSBLOCK field. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldAddressBlock&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca59df4f4923c854f50987c7ee11d112b9" kindref="member" tooltip="Specifies the ADDRESSBLOCK field.">FieldType::FieldAddressBlock</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>ADDRESSBLOCK<sp/>&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Setting<sp/>this<sp/>to<sp/>&quot;2&quot;<sp/>will<sp/>include<sp/>all<sp/>countries<sp/>and<sp/>regions,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>unless<sp/>it<sp/>is<sp/>the<sp/>one<sp/>specified<sp/>in<sp/>the<sp/>ExcludedCountryOrRegionName<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_IncludeCountryOrRegionName(u</highlight><highlight class="stringliteral">&quot;2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FormatAddressOnCountryOrRegion(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ExcludedCountryOrRegionName(u</highlight><highlight class="stringliteral">&quot;United<sp/>States&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_NameAndAddressFormat(u</highlight><highlight class="stringliteral">&quot;&lt;Title&gt;<sp/>&lt;Forename&gt;<sp/>&lt;Surname&gt;<sp/>&lt;Address<sp/>Line<sp/>1&gt;<sp/>&lt;Region&gt;<sp/>&lt;Postcode&gt;<sp/>&lt;Country&gt;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>this<sp/>property<sp/>will<sp/>contain<sp/>the<sp/>language<sp/>ID<sp/>of<sp/>the<sp/>first<sp/>character<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>a<sp/>different<sp/>culture<sp/>for<sp/>the<sp/>field<sp/>to<sp/>format<sp/>the<sp/>result<sp/>with<sp/>like<sp/>this.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LanguageId(<ref refid="struct/system.convert/_1a8da6a3aaf0b91afba166691a08bc3ac0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Convert::ToString</ref>(MakeObject&lt;System::Globalization::CultureInfo&gt;(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">)-&gt;get_LCID()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>ADDRESSBLOCK<sp/><sp/>\\c<sp/>2<sp/>\\d<sp/>\\e<sp/>\&quot;United<sp/>States\&quot;<sp/>\\f<sp/>\&quot;&lt;Title&gt;<sp/>&lt;Forename&gt;<sp/>&lt;Surname&gt;<sp/>&lt;Address<sp/>Line<sp/>1&gt;<sp/>&lt;Region&gt;<sp/>&lt;Postcode&gt;<sp/>&lt;Country&gt;\&quot;<sp/>\\l<sp/>1033&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;GetFieldCode());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="232" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1a79dff4941be561016e62d522abd3abc5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldAddressBlock::get_NameAndAddressFormat</definition>
+        <argsstring>()</argsstring>
+        <name>get_NameAndAddressFormat</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::get_NameAndAddressFormat</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the name and address format. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert an ADDRESSBLOCK field. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldAddressBlock&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca59df4f4923c854f50987c7ee11d112b9" kindref="member" tooltip="Specifies the ADDRESSBLOCK field.">FieldType::FieldAddressBlock</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>ADDRESSBLOCK<sp/>&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Setting<sp/>this<sp/>to<sp/>&quot;2&quot;<sp/>will<sp/>include<sp/>all<sp/>countries<sp/>and<sp/>regions,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>unless<sp/>it<sp/>is<sp/>the<sp/>one<sp/>specified<sp/>in<sp/>the<sp/>ExcludedCountryOrRegionName<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_IncludeCountryOrRegionName(u</highlight><highlight class="stringliteral">&quot;2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FormatAddressOnCountryOrRegion(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ExcludedCountryOrRegionName(u</highlight><highlight class="stringliteral">&quot;United<sp/>States&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_NameAndAddressFormat(u</highlight><highlight class="stringliteral">&quot;&lt;Title&gt;<sp/>&lt;Forename&gt;<sp/>&lt;Surname&gt;<sp/>&lt;Address<sp/>Line<sp/>1&gt;<sp/>&lt;Region&gt;<sp/>&lt;Postcode&gt;<sp/>&lt;Country&gt;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>this<sp/>property<sp/>will<sp/>contain<sp/>the<sp/>language<sp/>ID<sp/>of<sp/>the<sp/>first<sp/>character<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>a<sp/>different<sp/>culture<sp/>for<sp/>the<sp/>field<sp/>to<sp/>format<sp/>the<sp/>result<sp/>with<sp/>like<sp/>this.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LanguageId(<ref refid="struct/system.convert/_1a8da6a3aaf0b91afba166691a08bc3ac0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Convert::ToString</ref>(MakeObject&lt;System::Globalization::CultureInfo&gt;(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">)-&gt;get_LCID()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>ADDRESSBLOCK<sp/><sp/>\\c<sp/>2<sp/>\\d<sp/>\\e<sp/>\&quot;United<sp/>States\&quot;<sp/>\\f<sp/>\&quot;&lt;Title&gt;<sp/>&lt;Forename&gt;<sp/>&lt;Surname&gt;<sp/>&lt;Address<sp/>Line<sp/>1&gt;<sp/>&lt;Region&gt;<sp/>&lt;Postcode&gt;<sp/>&lt;Country&gt;\&quot;<sp/>\\l<sp/>1033&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;GetFieldCode());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="199" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1a23d40226905b7d994530de3ff69948a0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt;</type>
+        <definition>System::ArrayPtr&lt; System::String &gt; Aspose::Words::Fields::FieldAddressBlock::GetFieldNames</definition>
+        <argsstring>() override</argsstring>
+        <name>GetFieldNames</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::GetFieldNames</qualifiedname>
+        <briefdescription>
+<para>Returns a collection of mail merge field names used by the field. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to get mail merge field names used by a field. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field<sp/>sample<sp/>-<sp/>ADDRESSBLOCK.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;String&gt;<sp/>addressFieldsExpect<sp/>=<sp/>MakeArray&lt;String&gt;(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{u</highlight><highlight class="stringliteral">&quot;Company&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;First<sp/>Name&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Middle<sp/>Name&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Last<sp/>Name&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Suffix&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Address<sp/>1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;City&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;State&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Country<sp/>or<sp/>Region&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Postal<sp/>Code&quot;</highlight><highlight class="normal">});</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>addressBlockField<sp/>=<sp/>System::DynamicCast&lt;FieldAddressBlock&gt;(doc-&gt;get_Range()-&gt;get_Fields()-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;String&gt;<sp/>addressBlockFieldNames<sp/>=<sp/>addressBlockField-&gt;GetFieldNames();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="251" column="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1ac1fe809ec4fd8f162ce9dc7a554960f0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldAddressBlock::set_ExcludedCountryOrRegionName</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ExcludedCountryOrRegionName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::set_ExcludedCountryOrRegionName</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1ad2afc9ccb563dd8f25add3f78b3f23b0" kindref="member">Aspose::Words::Fields::FieldAddressBlock::get_ExcludedCountryOrRegionName</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="169" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1a1b49985298cbcee501b29ab8a7cff79e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldAddressBlock::set_FormatAddressOnCountryOrRegion</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_FormatAddressOnCountryOrRegion</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::set_FormatAddressOnCountryOrRegion</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1a3c605f58037589b35661987957726676" kindref="member">Aspose::Words::Fields::FieldAddressBlock::get_FormatAddressOnCountryOrRegion</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="103" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1a2c9b65f85d304583cc10c3a52d16dbf7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldAddressBlock::set_IncludeCountryOrRegionName</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_IncludeCountryOrRegionName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::set_IncludeCountryOrRegionName</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1aeb30f1206085c3fc676bccf759c78d03" kindref="member">Aspose::Words::Fields::FieldAddressBlock::get_IncludeCountryOrRegionName</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="136" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1acd1b596c5a74e4974de72a57a63970c8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldAddressBlock::set_LanguageId</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_LanguageId</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::set_LanguageId</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1ab0994c9f8e30697d587014629492c290" kindref="member">Aspose::Words::Fields::FieldAddressBlock::get_LanguageId</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="235" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1a4e45bdd4f92fcf0098fe9f7b3521b62e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldAddressBlock::set_NameAndAddressFormat</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_NameAndAddressFormat</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAddressBlock::set_NameAndAddressFormat</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1a79dff4941be561016e62d522abd3abc5" kindref="member">Aspose::Words::Fields::FieldAddressBlock::get_NameAndAddressFormat</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="202" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implements the ADDRESSBLOCK field. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to get mail merge field names used by a field. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field<sp/>sample<sp/>-<sp/>ADDRESSBLOCK.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;String&gt;<sp/>addressFieldsExpect<sp/>=<sp/>MakeArray&lt;String&gt;(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{u</highlight><highlight class="stringliteral">&quot;Company&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;First<sp/>Name&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Middle<sp/>Name&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Last<sp/>Name&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Suffix&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Address<sp/>1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;City&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;State&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Country<sp/>or<sp/>Region&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Postal<sp/>Code&quot;</highlight><highlight class="normal">});</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>addressBlockField<sp/>=<sp/>System::DynamicCast&lt;FieldAddressBlock&gt;(doc-&gt;get_Range()-&gt;get_Fields()-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;String&gt;<sp/>addressBlockFieldNames<sp/>=<sp/>addressBlockField-&gt;GetFieldNames();</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldAddressBlock</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="5">
+        <label>Aspose::Words::Fields::IFormattableMergeField</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldAddressBlock</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="5">
+        <label>Aspose::Words::Fields::IFormattableMergeField</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" line="59" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldAddressBlock.h" bodystart="60" bodyend="270"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1ab75bcc2dc4665742e286e8603cb84e28" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1aed369304c047146ddcb1420a5d9e8eb5" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1aedcadf723681fac900c76f352b04a24a" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>BaseType2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1ab845fa509b3b2835a9896631f45e8b9b" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>FieldAddressBlock</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a5c2d01019c517ea8098f296903e37a34" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>get_DisplayResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad5f0995c85cce833806e847cf25809b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1ad2afc9ccb563dd8f25add3f78b3f23b0" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>get_ExcludedCountryOrRegionName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a399c14463916724cac0015b430175589" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>get_FieldEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abc40cddc1325f7fec80d8530e5287448" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>get_FieldStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a090c5d09915e2ead6cc54fda736dd7c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>get_Format</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1a3c605f58037589b35661987957726676" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>get_FormatAddressOnCountryOrRegion</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1aeb30f1206085c3fc676bccf759c78d03" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>get_IncludeCountryOrRegionName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ae68851d4a88a1fc867d3ddee2e4e88c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>get_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afda4c46db80761545c89e21aae5b717d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>get_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1ab0994c9f8e30697d587014629492c290" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>get_LanguageId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a93719d071099487b6aea1eaa241dd6e8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>get_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1a4ef50f59ae41535b49047f06ff1d8c5d" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>get_MergeFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1a79dff4941be561016e62d522abd3abc5" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>get_NameAndAddressFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1acd3c69803dbc9ab4c637f4c498f6da08" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>get_PlaceholdersToFieldsMap</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a012c93472901dc077815970a9b2ab650" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>get_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abbc83ad66d5fb391a21980126ea96847" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>get_Separator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afa7cd5d4cf1a87b05058982f26786456" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad68196653db5cfca30c1ba18ed44c76e" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa40bc0e4a5be11f0df785cc8bb2ff042" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1a23d40226905b7d994530de3ff69948a0" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>GetFieldNames</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1ae610b53d419a45cf12ed9d8ee7cb4456" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>GetPlaceholderValue</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1a8243b63b9a6a8ff8feb3d03cecb19717" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>GetSwitchType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1acbcff24955e9705ecb0065a82ff1268f" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>IFormattableMergeField_FetchDocument</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad26a8021af3dbdc5bf0a1360a201222f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1ae9e7799dbef59c64ec2a9246f485d68c" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1ac1fe809ec4fd8f162ce9dc7a554960f0" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>set_ExcludedCountryOrRegionName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1a1b49985298cbcee501b29ab8a7cff79e" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>set_FormatAddressOnCountryOrRegion</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1a2c9b65f85d304583cc10c3a52d16dbf7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>set_IncludeCountryOrRegionName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa637d825865724665fb8ed856e664d95" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>set_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ac70b125adbe7f0ba5b889280cd282c47" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>set_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1acd1b596c5a74e4974de72a57a63970c8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>set_LanguageId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a165f748dd5ba33844f1d765f6c710f88" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>set_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1a4e45bdd4f92fcf0098fe9f7b3521b62e" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>set_NameAndAddressFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa6af1e900c84ae806f071098dfe8f087" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>set_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1a1788fe2900eb48a0bfca5b58cbf89a26" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1a6e1b694648a8c70f91552e39921613fe" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab9f908becb16b26bed76d58dbcee9929" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>Unlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aaec82418b2b6493aa2827b8e282b2e82" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a1298d7daa07c863bf97cb3f37a4d7a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1ace372fef77f6336edbb15d4ac67d45e5" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>UpdateCore</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block_1abf40eb8c365c3e361eac5bb56db067bf" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldAddressBlock</scope><name>~FieldAddressBlock</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

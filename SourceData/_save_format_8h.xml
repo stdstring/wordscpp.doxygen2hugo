@@ -1,0 +1,573 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="_save_format_8h" kind="file" language="C++">
+    <compoundname>SaveFormat.h</compoundname>
+    <includes local="no">system/object_ext.h</includes>
+    <includes local="no">system/enum_helpers.h</includes>
+    <includes local="no">system/enum.h</includes>
+    <includes refid="aspose__words__api__defs_8h" local="no">Aspose.Words.Cpp/aspose_words_api_defs.h</includes>
+    <includedby refid="_document_8h" local="no">Aspose.Words.Cpp/Document.h</includedby>
+    <includedby refid="_file_format_util_8h" local="no">Aspose.Words.Cpp/FileFormatUtil.h</includedby>
+    <includedby refid="_node_8h" local="no">Aspose.Words.Cpp/Node.h</includedby>
+    <includedby refid="_doc_save_options_8h" local="no">Aspose.Words.Cpp/Saving/DocSaveOptions.h</includedby>
+    <includedby refid="_html_fixed_save_options_8h" local="no">Aspose.Words.Cpp/Saving/HtmlFixedSaveOptions.h</includedby>
+    <includedby refid="_html_save_options_8h" local="no">Aspose.Words.Cpp/Saving/HtmlSaveOptions.h</includedby>
+    <includedby refid="_image_save_options_8h" local="no">Aspose.Words.Cpp/Saving/ImageSaveOptions.h</includedby>
+    <includedby refid="_markdown_save_options_8h" local="no">Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h</includedby>
+    <includedby refid="_odt_save_options_8h" local="no">Aspose.Words.Cpp/Saving/OdtSaveOptions.h</includedby>
+    <includedby refid="_ooxml_save_options_8h" local="no">Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h</includedby>
+    <includedby refid="_pcl_save_options_8h" local="no">Aspose.Words.Cpp/Saving/PclSaveOptions.h</includedby>
+    <includedby refid="_pdf_save_options_8h" local="no">Aspose.Words.Cpp/Saving/PdfSaveOptions.h</includedby>
+    <includedby refid="_ps_save_options_8h" local="no">Aspose.Words.Cpp/Saving/PsSaveOptions.h</includedby>
+    <includedby refid="_rtf_save_options_8h" local="no">Aspose.Words.Cpp/Saving/RtfSaveOptions.h</includedby>
+    <includedby refid="_save_options_8h" local="no">Aspose.Words.Cpp/Saving/SaveOptions.h</includedby>
+    <includedby refid="_svg_save_options_8h" local="no">Aspose.Words.Cpp/Saving/SvgSaveOptions.h</includedby>
+    <includedby refid="_txt_save_options_8h" local="no">Aspose.Words.Cpp/Saving/TxtSaveOptions.h</includedby>
+    <includedby refid="_word_m_l2003_save_options_8h" local="no">Aspose.Words.Cpp/Saving/WordML2003SaveOptions.h</includedby>
+    <includedby refid="_xaml_fixed_save_options_8h" local="no">Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h</includedby>
+    <includedby refid="_xaml_flow_save_options_8h" local="no">Aspose.Words.Cpp/Saving/XamlFlowSaveOptions.h</includedby>
+    <includedby refid="_xps_save_options_8h" local="no">Aspose.Words.Cpp/Saving/XpsSaveOptions.h</includedby>
+    <incdepgraph>
+      <node id="1">
+        <label>Aspose.Words.Cpp/SaveFormat.h</label>
+        <link refid="_save_format_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="5" relation="include">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>Aspose.Words.Cpp/aspose_words_api_defs.h</label>
+        <link refid="aspose__words__api__defs_8h_source"/>
+      </node>
+      <node id="4">
+        <label>system/enum.h</label>
+      </node>
+      <node id="3">
+        <label>system/enum_helpers.h</label>
+      </node>
+      <node id="2">
+        <label>system/object_ext.h</label>
+      </node>
+    </incdepgraph>
+    <invincdepgraph>
+      <node id="46">
+        <label>Aspose.Words.Cpp/AbsolutePositionTab.h</label>
+        <link refid="_absolute_position_tab_8h_source"/>
+      </node>
+      <node id="36">
+        <label>Aspose.Words.Cpp/Body.h</label>
+        <link refid="_body_8h_source"/>
+      </node>
+      <node id="5">
+        <label>Aspose.Words.Cpp/BookmarkEnd.h</label>
+        <link refid="_bookmark_end_8h_source"/>
+      </node>
+      <node id="6">
+        <label>Aspose.Words.Cpp/BookmarkStart.h</label>
+        <link refid="_bookmark_start_8h_source"/>
+      </node>
+      <node id="10">
+        <label>Aspose.Words.Cpp/BuildingBlocks/BuildingBlock.h</label>
+        <link refid="_building_block_8h_source"/>
+      </node>
+      <node id="24">
+        <label>Aspose.Words.Cpp/BuildingBlocks/BuildingBlockCollection.h</label>
+        <link refid="_building_block_collection_8h_source"/>
+      </node>
+      <node id="12">
+        <label>Aspose.Words.Cpp/BuildingBlocks/GlossaryDocument.h</label>
+        <link refid="_glossary_document_8h_source"/>
+      </node>
+      <node id="17">
+        <label>Aspose.Words.Cpp/Comment.h</label>
+        <link refid="_comment_8h_source"/>
+      </node>
+      <node id="25">
+        <label>Aspose.Words.Cpp/CommentCollection.h</label>
+        <link refid="_comment_collection_8h_source"/>
+      </node>
+      <node id="7">
+        <label>Aspose.Words.Cpp/CommentRangeEnd.h</label>
+        <link refid="_comment_range_end_8h_source"/>
+      </node>
+      <node id="8">
+        <label>Aspose.Words.Cpp/CommentRangeStart.h</label>
+        <link refid="_comment_range_start_8h_source"/>
+      </node>
+      <node id="9">
+        <label>Aspose.Words.Cpp/CompositeNode.h</label>
+        <link refid="_composite_node_8h_source"/>
+        <childnode refid="10" relation="include">
+        </childnode>
+        <childnode refid="11" relation="include">
+        </childnode>
+        <childnode refid="13" relation="include">
+        </childnode>
+        <childnode refid="16" relation="include">
+        </childnode>
+        <childnode refid="19" relation="include">
+        </childnode>
+        <childnode refid="20" relation="include">
+        </childnode>
+        <childnode refid="21" relation="include">
+        </childnode>
+        <childnode refid="22" relation="include">
+        </childnode>
+        <childnode refid="33" relation="include">
+        </childnode>
+        <childnode refid="34" relation="include">
+        </childnode>
+        <childnode refid="35" relation="include">
+        </childnode>
+        <childnode refid="38" relation="include">
+        </childnode>
+        <childnode refid="39" relation="include">
+        </childnode>
+        <childnode refid="40" relation="include">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose.Words.Cpp/Document.h</label>
+        <link refid="_document_8h_source"/>
+      </node>
+      <node id="11">
+        <label>Aspose.Words.Cpp/DocumentBase.h</label>
+        <link refid="_document_base_8h_source"/>
+        <childnode refid="12" relation="include">
+        </childnode>
+        <childnode refid="2" relation="include">
+        </childnode>
+      </node>
+      <node id="14">
+        <label>Aspose.Words.Cpp/Drawing/GroupShape.h</label>
+        <link refid="_group_shape_8h_source"/>
+      </node>
+      <node id="15">
+        <label>Aspose.Words.Cpp/Drawing/Shape.h</label>
+        <link refid="_shape_8h_source"/>
+      </node>
+      <node id="13">
+        <label>Aspose.Words.Cpp/Drawing/ShapeBase.h</label>
+        <link refid="_shape_base_8h_source"/>
+        <childnode refid="14" relation="include">
+        </childnode>
+        <childnode refid="15" relation="include">
+        </childnode>
+      </node>
+      <node id="41">
+        <label>Aspose.Words.Cpp/EditableRangeEnd.h</label>
+        <link refid="_editable_range_end_8h_source"/>
+      </node>
+      <node id="42">
+        <label>Aspose.Words.Cpp/EditableRangeStart.h</label>
+        <link refid="_editable_range_start_8h_source"/>
+      </node>
+      <node id="47">
+        <label>Aspose.Words.Cpp/Fields/FieldChar.h</label>
+        <link refid="_field_char_8h_source"/>
+        <childnode refid="48" relation="include">
+        </childnode>
+        <childnode refid="49" relation="include">
+        </childnode>
+        <childnode refid="50" relation="include">
+        </childnode>
+      </node>
+      <node id="48">
+        <label>Aspose.Words.Cpp/Fields/FieldEnd.h</label>
+        <link refid="_field_end_8h_source"/>
+      </node>
+      <node id="49">
+        <label>Aspose.Words.Cpp/Fields/FieldSeparator.h</label>
+        <link refid="_field_separator_8h_source"/>
+      </node>
+      <node id="50">
+        <label>Aspose.Words.Cpp/Fields/FieldStart.h</label>
+        <link refid="_field_start_8h_source"/>
+      </node>
+      <node id="51">
+        <label>Aspose.Words.Cpp/Fields/FormField.h</label>
+        <link refid="_form_field_8h_source"/>
+      </node>
+      <node id="3">
+        <label>Aspose.Words.Cpp/FileFormatUtil.h</label>
+        <link refid="_file_format_util_8h_source"/>
+      </node>
+      <node id="37">
+        <label>Aspose.Words.Cpp/HeaderFooter.h</label>
+        <link refid="_header_footer_8h_source"/>
+      </node>
+      <node id="26">
+        <label>Aspose.Words.Cpp/HeaderFooterCollection.h</label>
+        <link refid="_header_footer_collection_8h_source"/>
+      </node>
+      <node id="43">
+        <label>Aspose.Words.Cpp/Inline.h</label>
+        <link refid="_inline_8h_source"/>
+        <childnode refid="44" relation="include">
+        </childnode>
+        <childnode refid="45" relation="include">
+        </childnode>
+      </node>
+      <node id="16">
+        <label>Aspose.Words.Cpp/InlineStory.h</label>
+        <link refid="_inline_story_8h_source"/>
+        <childnode refid="17" relation="include">
+        </childnode>
+        <childnode refid="18" relation="include">
+        </childnode>
+      </node>
+      <node id="19">
+        <label>Aspose.Words.Cpp/Markup/SmartTag.h</label>
+        <link refid="_smart_tag_8h_source"/>
+      </node>
+      <node id="20">
+        <label>Aspose.Words.Cpp/Markup/StructuredDocumentTag.h</label>
+        <link refid="_structured_document_tag_8h_source"/>
+      </node>
+      <node id="52">
+        <label>Aspose.Words.Cpp/Markup/StructuredDocumentTagRangeEnd.h</label>
+        <link refid="_structured_document_tag_range_end_8h_source"/>
+      </node>
+      <node id="53">
+        <label>Aspose.Words.Cpp/Markup/StructuredDocumentTagRangeStart.h</label>
+        <link refid="_structured_document_tag_range_start_8h_source"/>
+      </node>
+      <node id="21">
+        <label>Aspose.Words.Cpp/Math/OfficeMath.h</label>
+        <link refid="_office_math_8h_source"/>
+      </node>
+      <node id="4">
+        <label>Aspose.Words.Cpp/Node.h</label>
+        <link refid="_node_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+        <childnode refid="9" relation="include">
+        </childnode>
+        <childnode refid="41" relation="include">
+        </childnode>
+        <childnode refid="42" relation="include">
+        </childnode>
+        <childnode refid="43" relation="include">
+        </childnode>
+        <childnode refid="52" relation="include">
+        </childnode>
+        <childnode refid="53" relation="include">
+        </childnode>
+        <childnode refid="23" relation="include">
+        </childnode>
+        <childnode refid="22" relation="include">
+        </childnode>
+        <childnode refid="54" relation="include">
+        </childnode>
+        <childnode refid="55" relation="include">
+        </childnode>
+      </node>
+      <node id="23">
+        <label>Aspose.Words.Cpp/NodeCollection.h</label>
+        <link refid="_node_collection_8h_source"/>
+        <childnode refid="24" relation="include">
+        </childnode>
+        <childnode refid="25" relation="include">
+        </childnode>
+        <childnode refid="26" relation="include">
+        </childnode>
+        <childnode refid="27" relation="include">
+        </childnode>
+        <childnode refid="28" relation="include">
+        </childnode>
+        <childnode refid="29" relation="include">
+        </childnode>
+        <childnode refid="30" relation="include">
+        </childnode>
+        <childnode refid="31" relation="include">
+        </childnode>
+        <childnode refid="32" relation="include">
+        </childnode>
+      </node>
+      <node id="22">
+        <label>Aspose.Words.Cpp/NodeCollectionEnumerator.h</label>
+        <link refid="_node_collection_enumerator_8h_source"/>
+        <childnode refid="23" relation="include">
+        </childnode>
+      </node>
+      <node id="54">
+        <label>Aspose.Words.Cpp/NodeList.h</label>
+        <link refid="_node_list_8h_source"/>
+      </node>
+      <node id="18">
+        <label>Aspose.Words.Cpp/Notes/Footnote.h</label>
+        <link refid="_footnote_8h_source"/>
+      </node>
+      <node id="33">
+        <label>Aspose.Words.Cpp/Paragraph.h</label>
+        <link refid="_paragraph_8h_source"/>
+      </node>
+      <node id="27">
+        <label>Aspose.Words.Cpp/ParagraphCollection.h</label>
+        <link refid="_paragraph_collection_8h_source"/>
+      </node>
+      <node id="44">
+        <label>Aspose.Words.Cpp/Run.h</label>
+        <link refid="_run_8h_source"/>
+      </node>
+      <node id="28">
+        <label>Aspose.Words.Cpp/RunCollection.h</label>
+        <link refid="_run_collection_8h_source"/>
+      </node>
+      <node id="1">
+        <label>Aspose.Words.Cpp/SaveFormat.h</label>
+        <link refid="_save_format_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="56" relation="include">
+        </childnode>
+        <childnode refid="57" relation="include">
+        </childnode>
+        <childnode refid="58" relation="include">
+        </childnode>
+        <childnode refid="59" relation="include">
+        </childnode>
+        <childnode refid="60" relation="include">
+        </childnode>
+        <childnode refid="61" relation="include">
+        </childnode>
+        <childnode refid="62" relation="include">
+        </childnode>
+        <childnode refid="63" relation="include">
+        </childnode>
+        <childnode refid="64" relation="include">
+        </childnode>
+        <childnode refid="65" relation="include">
+        </childnode>
+        <childnode refid="66" relation="include">
+        </childnode>
+        <childnode refid="67" relation="include">
+        </childnode>
+        <childnode refid="69" relation="include">
+        </childnode>
+        <childnode refid="73" relation="include">
+        </childnode>
+        <childnode refid="74" relation="include">
+        </childnode>
+        <childnode refid="70" relation="include">
+        </childnode>
+        <childnode refid="75" relation="include">
+        </childnode>
+        <childnode refid="71" relation="include">
+        </childnode>
+      </node>
+      <node id="56">
+        <label>Aspose.Words.Cpp/Saving/DocSaveOptions.h</label>
+        <link refid="_doc_save_options_8h_source"/>
+      </node>
+      <node id="68">
+        <label>Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h</label>
+        <link refid="_fixed_page_save_options_8h_source"/>
+        <childnode refid="57" relation="include">
+        </childnode>
+        <childnode refid="59" relation="include">
+        </childnode>
+        <childnode refid="63" relation="include">
+        </childnode>
+        <childnode refid="64" relation="include">
+        </childnode>
+        <childnode refid="65" relation="include">
+        </childnode>
+        <childnode refid="69" relation="include">
+        </childnode>
+        <childnode refid="70" relation="include">
+        </childnode>
+        <childnode refid="71" relation="include">
+        </childnode>
+      </node>
+      <node id="57">
+        <label>Aspose.Words.Cpp/Saving/HtmlFixedSaveOptions.h</label>
+        <link refid="_html_fixed_save_options_8h_source"/>
+      </node>
+      <node id="58">
+        <label>Aspose.Words.Cpp/Saving/HtmlSaveOptions.h</label>
+        <link refid="_html_save_options_8h_source"/>
+      </node>
+      <node id="59">
+        <label>Aspose.Words.Cpp/Saving/ImageSaveOptions.h</label>
+        <link refid="_image_save_options_8h_source"/>
+      </node>
+      <node id="60">
+        <label>Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h</label>
+        <link refid="_markdown_save_options_8h_source"/>
+      </node>
+      <node id="61">
+        <label>Aspose.Words.Cpp/Saving/OdtSaveOptions.h</label>
+        <link refid="_odt_save_options_8h_source"/>
+      </node>
+      <node id="62">
+        <label>Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h</label>
+        <link refid="_ooxml_save_options_8h_source"/>
+      </node>
+      <node id="63">
+        <label>Aspose.Words.Cpp/Saving/PclSaveOptions.h</label>
+        <link refid="_pcl_save_options_8h_source"/>
+      </node>
+      <node id="64">
+        <label>Aspose.Words.Cpp/Saving/PdfSaveOptions.h</label>
+        <link refid="_pdf_save_options_8h_source"/>
+      </node>
+      <node id="65">
+        <label>Aspose.Words.Cpp/Saving/PsSaveOptions.h</label>
+        <link refid="_ps_save_options_8h_source"/>
+      </node>
+      <node id="66">
+        <label>Aspose.Words.Cpp/Saving/RtfSaveOptions.h</label>
+        <link refid="_rtf_save_options_8h_source"/>
+      </node>
+      <node id="67">
+        <label>Aspose.Words.Cpp/Saving/SaveOptions.h</label>
+        <link refid="_save_options_8h_source"/>
+        <childnode refid="56" relation="include">
+        </childnode>
+        <childnode refid="68" relation="include">
+        </childnode>
+        <childnode refid="58" relation="include">
+        </childnode>
+        <childnode refid="61" relation="include">
+        </childnode>
+        <childnode refid="62" relation="include">
+        </childnode>
+        <childnode refid="66" relation="include">
+        </childnode>
+        <childnode refid="72" relation="include">
+        </childnode>
+        <childnode refid="74" relation="include">
+        </childnode>
+        <childnode refid="75" relation="include">
+        </childnode>
+      </node>
+      <node id="69">
+        <label>Aspose.Words.Cpp/Saving/SvgSaveOptions.h</label>
+        <link refid="_svg_save_options_8h_source"/>
+      </node>
+      <node id="73">
+        <label>Aspose.Words.Cpp/Saving/TxtSaveOptions.h</label>
+        <link refid="_txt_save_options_8h_source"/>
+      </node>
+      <node id="72">
+        <label>Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h</label>
+        <link refid="_txt_save_options_base_8h_source"/>
+        <childnode refid="60" relation="include">
+        </childnode>
+        <childnode refid="73" relation="include">
+        </childnode>
+      </node>
+      <node id="74">
+        <label>Aspose.Words.Cpp/Saving/WordML2003SaveOptions.h</label>
+        <link refid="_word_m_l2003_save_options_8h_source"/>
+      </node>
+      <node id="70">
+        <label>Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h</label>
+        <link refid="_xaml_fixed_save_options_8h_source"/>
+      </node>
+      <node id="75">
+        <label>Aspose.Words.Cpp/Saving/XamlFlowSaveOptions.h</label>
+        <link refid="_xaml_flow_save_options_8h_source"/>
+      </node>
+      <node id="71">
+        <label>Aspose.Words.Cpp/Saving/XpsSaveOptions.h</label>
+        <link refid="_xps_save_options_8h_source"/>
+      </node>
+      <node id="34">
+        <label>Aspose.Words.Cpp/Section.h</label>
+        <link refid="_section_8h_source"/>
+      </node>
+      <node id="29">
+        <label>Aspose.Words.Cpp/SectionCollection.h</label>
+        <link refid="_section_collection_8h_source"/>
+      </node>
+      <node id="45">
+        <label>Aspose.Words.Cpp/SpecialChar.h</label>
+        <link refid="_special_char_8h_source"/>
+        <childnode refid="46" relation="include">
+        </childnode>
+        <childnode refid="47" relation="include">
+        </childnode>
+        <childnode refid="51" relation="include">
+        </childnode>
+      </node>
+      <node id="35">
+        <label>Aspose.Words.Cpp/Story.h</label>
+        <link refid="_story_8h_source"/>
+        <childnode refid="36" relation="include">
+        </childnode>
+        <childnode refid="37" relation="include">
+        </childnode>
+      </node>
+      <node id="55">
+        <label>Aspose.Words.Cpp/SubDocument.h</label>
+        <link refid="_sub_document_8h_source"/>
+      </node>
+      <node id="38">
+        <label>Aspose.Words.Cpp/Tables/Cell.h</label>
+        <link refid="_cell_8h_source"/>
+      </node>
+      <node id="30">
+        <label>Aspose.Words.Cpp/Tables/CellCollection.h</label>
+        <link refid="_cell_collection_8h_source"/>
+      </node>
+      <node id="39">
+        <label>Aspose.Words.Cpp/Tables/Row.h</label>
+        <link refid="_row_8h_source"/>
+      </node>
+      <node id="31">
+        <label>Aspose.Words.Cpp/Tables/RowCollection.h</label>
+        <link refid="_row_collection_8h_source"/>
+      </node>
+      <node id="40">
+        <label>Aspose.Words.Cpp/Tables/Table.h</label>
+        <link refid="_table_8h_source"/>
+      </node>
+      <node id="32">
+        <label>Aspose.Words.Cpp/Tables/TableCollection.h</label>
+        <link refid="_table_collection_8h_source"/>
+      </node>
+    </invincdepgraph>
+    <innernamespace refid="namespace_aspose">Aspose</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words">Aspose::Words</innernamespace>
+      <sectiondef kind="func">
+      <memberdef kind="function" id="_save_format_8h_1afca65f79d604497a11e7a9b86a839e12" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>DECLARE_USING_ENUM_OPERATORS</definition>
+        <argsstring>(Aspose::Words)</argsstring>
+        <name>DECLARE_USING_ENUM_OPERATORS</name>
+        <param>
+          <type>Aspose::Words</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/SaveFormat.h" line="156" column="1" declfile="Aspose.Words.Cpp/SaveFormat.h" declline="156" declcolumn="1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/SaveFormat.h"/>
+  </compounddef>
+</doxygen>

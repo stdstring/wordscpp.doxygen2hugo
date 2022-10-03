@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_field_embed" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::FieldEmbed</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field" prot="public" virt="non-virtual">Aspose::Words::Fields::Field</basecompoundref>
+    <includes refid="_field_embed_8h" local="no">Aspose.Words.Cpp/Fields/FieldEmbed.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_embed_1a3088874f36deb53807360cde12c845da" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref></type>
+        <definition>typedef Aspose::Words::Fields::Field Aspose::Words::Fields::FieldEmbed::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldEmbed::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldEmbed.h" line="58" column="42" bodyfile="Aspose.Words.Cpp/Fields/FieldEmbed.h" bodystart="58" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_embed_1aefb4c463e8a35287452bd81cc98559ea" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_embed" kindref="compound">FieldEmbed</ref></type>
+        <definition>typedef FieldEmbed Aspose::Words::Fields::FieldEmbed::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldEmbed::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldEmbed.h" line="57" column="24" bodyfile="Aspose.Words.Cpp/Fields/FieldEmbed.h" bodystart="57" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_embed_1a2f84a76b2b3cd730ccfeabab7bdb334c" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Fields::FieldEmbed::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::FieldEmbed::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldEmbed.h" line="60" column="37" bodyfile="Aspose.Words.Cpp/Fields/FieldEmbed.h" bodystart="60" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_embed_1a5fbc8c642dfceabad9b5ce0d70c5d905" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldEmbed::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::FieldEmbed::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldEmbed.h" line="61" column="5"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implements the EMBED field. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how some older Microsoft Word fields such as SHAPE and EMBED are handled during loading. <programlisting><codeline><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>that<sp/>was<sp/>created<sp/>in<sp/>Microsoft<sp/>Word<sp/>2003.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Legacy<sp/>fields.doc&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>open<sp/>the<sp/>Word<sp/>document<sp/>and<sp/>press<sp/>Alt+F9,<sp/>we<sp/>will<sp/>see<sp/>a<sp/>SHAPE<sp/>and<sp/>an<sp/>EMBED<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>SHAPE<sp/>field<sp/>is<sp/>the<sp/>anchor/canvas<sp/>for<sp/>an<sp/>AutoShape<sp/>object<sp/>with<sp/>the<sp/>&quot;In<sp/>line<sp/>with<sp/>text&quot;<sp/>wrapping<sp/>style<sp/>enabled.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>An<sp/>EMBED<sp/>field<sp/>has<sp/>the<sp/>same<sp/>function,<sp/>but<sp/>for<sp/>an<sp/>embedded<sp/>object,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>such<sp/>as<sp/>a<sp/>spreadsheet<sp/>from<sp/>an<sp/>external<sp/>Excel<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>However,<sp/>these<sp/>fields<sp/>will<sp/>not<sp/>appear<sp/>in<sp/>the<sp/>document&apos;s<sp/>Fields<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>doc-&gt;get_Range()-&gt;get_Fields()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>fields<sp/>are<sp/>supported<sp/>only<sp/>by<sp/>old<sp/>versions<sp/>of<sp/>Microsoft<sp/>Word.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>document<sp/>loading<sp/>process<sp/>will<sp/>convert<sp/>these<sp/>fields<sp/>into<sp/>Shape<sp/>objects,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>we<sp/>can<sp/>access<sp/>in<sp/>the<sp/>document&apos;s<sp/>node<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;NodeCollection&gt;<sp/>shapes<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>shapes-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>first<sp/>Shape<sp/>node<sp/>corresponds<sp/>to<sp/>the<sp/>SHAPE<sp/>field<sp/>in<sp/>the<sp/>input<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>is<sp/>the<sp/>inline<sp/>canvas<sp/>for<sp/>the<sp/>AutoShape.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>shape<sp/>=<sp/>System::DynamicCast&lt;Shape&gt;(shapes-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(ShapeType::Image,<sp/>shape-&gt;get_ShapeType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>second<sp/>Shape<sp/>node<sp/>is<sp/>the<sp/>AutoShape<sp/>itself.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">shape<sp/>=<sp/>System::DynamicCast&lt;Shape&gt;(shapes-&gt;idx_get(1));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(ShapeType::Can,<sp/>shape-&gt;get_ShapeType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>third<sp/>Shape<sp/>is<sp/>what<sp/>was<sp/>the<sp/>EMBED<sp/>field<sp/>that<sp/>contained<sp/>the<sp/>external<sp/>spreadsheet.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">shape<sp/>=<sp/>System::DynamicCast&lt;Shape&gt;(shapes-&gt;idx_get(2));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(ShapeType::OleObject,<sp/>shape-&gt;get_ShapeType());</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldEmbed</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_embed"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldEmbed</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_embed"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/FieldEmbed.h" line="55" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldEmbed.h" bodystart="56" bodyend="63"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_embed_1a3088874f36deb53807360cde12c845da" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEmbed</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a5c2d01019c517ea8098f296903e37a34" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEmbed</scope><name>get_DisplayResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad5f0995c85cce833806e847cf25809b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEmbed</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a399c14463916724cac0015b430175589" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEmbed</scope><name>get_FieldEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abc40cddc1325f7fec80d8530e5287448" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEmbed</scope><name>get_FieldStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a090c5d09915e2ead6cc54fda736dd7c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEmbed</scope><name>get_Format</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ae68851d4a88a1fc867d3ddee2e4e88c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEmbed</scope><name>get_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afda4c46db80761545c89e21aae5b717d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEmbed</scope><name>get_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a93719d071099487b6aea1eaa241dd6e8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEmbed</scope><name>get_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a012c93472901dc077815970a9b2ab650" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEmbed</scope><name>get_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abbc83ad66d5fb391a21980126ea96847" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEmbed</scope><name>get_Separator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afa7cd5d4cf1a87b05058982f26786456" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEmbed</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad68196653db5cfca30c1ba18ed44c76e" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldEmbed</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEmbed</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa40bc0e4a5be11f0df785cc8bb2ff042" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEmbed</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad26a8021af3dbdc5bf0a1360a201222f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEmbed</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_embed_1a5fbc8c642dfceabad9b5ce0d70c5d905" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEmbed</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa637d825865724665fb8ed856e664d95" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEmbed</scope><name>set_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ac70b125adbe7f0ba5b889280cd282c47" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEmbed</scope><name>set_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a165f748dd5ba33844f1d765f6c710f88" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEmbed</scope><name>set_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa6af1e900c84ae806f071098dfe8f087" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEmbed</scope><name>set_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_embed_1aefb4c463e8a35287452bd81cc98559ea" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEmbed</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_embed_1a2f84a76b2b3cd730ccfeabab7bdb334c" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEmbed</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab9f908becb16b26bed76d58dbcee9929" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEmbed</scope><name>Unlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aaec82418b2b6493aa2827b8e282b2e82" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEmbed</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a1298d7daa07c863bf97cb3f37a4d7a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEmbed</scope><name>Update</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

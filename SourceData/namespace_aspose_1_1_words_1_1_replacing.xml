@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="namespace_aspose_1_1_words_1_1_replacing" kind="namespace" language="C++">
+    <compoundname>Aspose::Words::Replacing</compoundname>
+    <innerclass refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options" prot="public">Aspose::Words::Replacing::FindReplaceOptions</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_replacing_1_1_i_replacing_callback" prot="public">Aspose::Words::Replacing::IReplacingCallback</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args" prot="public">Aspose::Words::Replacing::ReplacingArgs</innerclass>
+      <sectiondef kind="enum">
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_replacing_1ab46f3c47efd2255602d947b2f117889c" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>FindReplaceDirection</name>
+        <qualifiedname>Aspose::Words::Replacing::FindReplaceDirection</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_replacing_1ab46f3c47efd2255602d947b2f117889ca67d2f6740a8eaebf4d5c6f79be8da481" prot="public">
+          <name>Forward</name>
+          <briefdescription>
+<para>Matched items are replaced from first to last. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_replacing_1ab46f3c47efd2255602d947b2f117889cab3263eb38f8903efc271cc7a760da510" prot="public">
+          <name>Backward</name>
+          <briefdescription>
+<para>Matched items are replaced from last back to first. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies direction for replace operations. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to determine which direction a find-and-replace operation traverses the document in. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>Direction(<ref refid="namespace_aspose_1_1_words_1_1_replacing_1ab46f3c47efd2255602d947b2f117889c" kindref="member" tooltip="Specifies direction for replace operations.">FindReplaceDirection</ref><sp/>findReplaceDirection)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Insert<sp/>three<sp/>runs<sp/>which<sp/>we<sp/>can<sp/>search<sp/>for<sp/>using<sp/>a<sp/>regex<sp/>pattern.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Place<sp/>one<sp/>of<sp/>those<sp/>runs<sp/>inside<sp/>a<sp/>text<sp/>box.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Match<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Match<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Match<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Match<sp/>4.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>a<sp/>&quot;FindReplaceOptions&quot;<sp/>object<sp/>to<sp/>modify<sp/>the<sp/>find-and-replace<sp/>process.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;FindReplaceOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Assign<sp/>a<sp/>custom<sp/>callback<sp/>to<sp/>the<sp/>&quot;ReplacingCallback&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>callback<sp/>=<sp/>MakeObject&lt;ExRange::TextReplacementRecorder&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ReplacingCallback(callback);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;Direction&quot;<sp/>property<sp/>to<sp/>&quot;FindReplaceDirection.Backward&quot;<sp/>to<sp/>get<sp/>the<sp/>find-and-replace</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>operation<sp/>to<sp/>start<sp/>from<sp/>the<sp/>end<sp/>of<sp/>the<sp/>range,<sp/>and<sp/>traverse<sp/>back<sp/>to<sp/>the<sp/>beginning.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;Direction&quot;<sp/>property<sp/>to<sp/>&quot;FindReplaceDirection.Backward&quot;<sp/>to<sp/>get<sp/>the<sp/>find-and-replace</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>operation<sp/>to<sp/>start<sp/>from<sp/>the<sp/>beginning<sp/>of<sp/>the<sp/>range,<sp/>and<sp/>traverse<sp/>to<sp/>the<sp/>end.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_Direction(findReplaceDirection);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_Range()-&gt;Replace(MakeObject&lt;System::Text::RegularExpressions::Regex&gt;(u</highlight><highlight class="stringliteral">&quot;Match<sp/>\\d*&quot;</highlight><highlight class="normal">),<sp/>u</highlight><highlight class="stringliteral">&quot;Replacement&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(String(u</highlight><highlight class="stringliteral">&quot;Replacement.\r&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Replacement.\r&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Replacement.\r&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Replacement.&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(findReplaceDirection)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_replacing_1ab46f3c47efd2255602d947b2f117889ca67d2f6740a8eaebf4d5c6f79be8da481" kindref="member" tooltip="Matched items are replaced from first to last.">FindReplaceDirection::Forward</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Match<sp/>1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Match<sp/>2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Match<sp/>3&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Match<sp/>4&quot;</highlight><highlight class="normal">}),<sp/>callback-&gt;get_Matches());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_replacing_1ab46f3c47efd2255602d947b2f117889cab3263eb38f8903efc271cc7a760da510" kindref="member" tooltip="Matched items are replaced from last back to first.">FindReplaceDirection::Backward</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Match<sp/>4&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Match<sp/>3&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Match<sp/>2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Match<sp/>1&quot;</highlight><highlight class="normal">}),<sp/>callback-&gt;get_Matches());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">TextReplacementRecorder<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IReplacingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::List&lt;String&gt;&gt;<sp/>get_Matches()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mMatches;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>TextReplacementRecorder()<sp/>:<sp/>mMatches(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::Collections::Generic::<ref refid="namespace/system.collections.generic/_1a7ec398a591f371359828b1eb724b34d4" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">List</ref>&lt;<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>&gt;&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::List&lt;String&gt;&gt;<sp/>mMatches;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_replacing_1af9076a3b0db42719d6e5fff0cecd794b" kindref="member" tooltip="Allows the user to specify what happens to the current match during a replace operation.">ReplaceAction</ref><sp/>Replacing(SharedPtr&lt;ReplacingArgs&gt;<sp/>e)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>get_Matches()-&gt;Add(e-&gt;get_Match()-&gt;get_Value());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>ReplaceAction::Replace;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Replacing/FindReplaceDirection.h" line="94" column="1" bodyfile="Aspose.Words.Cpp/Replacing/FindReplaceDirection.h" bodystart="95" bodyend="102"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_replacing_1af9076a3b0db42719d6e5fff0cecd794b" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>ReplaceAction</name>
+        <qualifiedname>Aspose::Words::Replacing::ReplaceAction</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_replacing_1af9076a3b0db42719d6e5fff0cecd794ba0ebe6df8a3ac338e0512acc741823fdb" prot="public">
+          <name>Replace</name>
+          <briefdescription>
+<para>Replace the current match. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_replacing_1af9076a3b0db42719d6e5fff0cecd794ba72ef2b9b6965d078e3c7f95487a82d1c" prot="public">
+          <name>Skip</name>
+          <briefdescription>
+<para>Skip the current match. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_replacing_1af9076a3b0db42719d6e5fff0cecd794ba11a755d598c0c417f9a36758c3da7481" prot="public">
+          <name>Stop</name>
+          <briefdescription>
+<para>Terminate the replace operation. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Allows the user to specify what happens to the current match during a replace operation. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_replacing_1_1_i_replacing_callback" kindref="compound">Aspose::Words::Replacing::IReplacingCallback</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_range" kindref="compound">Aspose::Words::Range</ref> </para>
+</simplesect>
+<simplesect kind="see"><para>Aspose::Words::Range::Replace(System::String, System::String, System::SharedPtr&lt;Aspose::Words::Replacing::FindReplaceOptions&gt;)</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert an entire document&apos;s contents as a replacement of a match in a find-and-replace operation. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertDocumentAtReplace()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>mainDoc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document<sp/>insertion<sp/>destination.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>a<sp/>&quot;FindReplaceOptions&quot;<sp/>object<sp/>to<sp/>modify<sp/>the<sp/>find-and-replace<sp/>process.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;FindReplaceOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ReplacingCallback(MakeObject&lt;ExRange::InsertDocumentAtReplaceHandler&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>mainDoc-&gt;get_Range()-&gt;Replace(MakeObject&lt;System::Text::RegularExpressions::Regex&gt;(u</highlight><highlight class="stringliteral">&quot;\\[MY_DOCUMENT\\]&quot;</highlight><highlight class="normal">),<sp/>u</highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>mainDoc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;InsertDocument.InsertDocumentAtReplace.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">InsertDocumentAtReplaceHandler<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IReplacingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ReplaceAction<sp/>Replacing(SharedPtr&lt;ReplacingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>subDoc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>document<sp/>after<sp/>the<sp/>paragraph<sp/>containing<sp/>the<sp/>matched<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>para<sp/>=<sp/>System::DynamicCast&lt;Paragraph&gt;(args-&gt;get_MatchNode()-&gt;get_ParentNode());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>InsertDocument(para,<sp/>subDoc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Remove<sp/>the<sp/>paragraph<sp/>with<sp/>the<sp/>matched<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>para-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>ReplaceAction::Skip;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertDocument(SharedPtr&lt;Node&gt;<sp/>insertionDestination,<sp/>SharedPtr&lt;Document&gt;<sp/>docToInsert)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(insertionDestination-&gt;get_NodeType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref><sp/>||<sp/>insertionDestination-&gt;get_NodeType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="A Table object that represents a table in a Word document. A Table node can have Row nodes.">NodeType::Table</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;CompositeNode&gt;<sp/>dstStory<sp/>=<sp/>insertionDestination-&gt;get_ParentNode();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>importer<sp/>=<sp/>MakeObject&lt;NodeImporter&gt;(docToInsert,<sp/>insertionDestination-&gt;get_Document(),<sp/><ref refid="namespace_aspose_1_1_words_1aafaa52cbf0baa49c3225787c23a8c949a4cf454c612a2ed0c3ee75ac5175497c3" kindref="member" tooltip="Copy all required styles to the destination document, generate unique style names if needed.">ImportFormatMode::KeepSourceFormatting</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>srcSection<sp/>:<sp/>System::IterateOver(docToInsert-&gt;get_Sections()-&gt;LINQ_OfType&lt;SharedPtr&lt;Section&gt;&gt;()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>srcNode<sp/>:<sp/>System::IterateOver(srcSection-&gt;get_Body()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Skip<sp/>the<sp/>node<sp/>if<sp/>it<sp/>is<sp/>the<sp/>last<sp/>empty<sp/>paragraph<sp/>in<sp/>a<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(srcNode-&gt;get_NodeType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>para<sp/>=<sp/>System::DynamicCast&lt;Paragraph&gt;(srcNode);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(para-&gt;get_IsEndOfSection()<sp/>&amp;&amp;<sp/>!para-&gt;get_HasChildNodes())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">continue</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;Node&gt;<sp/>newNode<sp/>=<sp/>importer-&gt;ImportNode(srcNode,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>dstStory-&gt;InsertAfter(newNode,<sp/>insertionDestination);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>insertionDestination<sp/>=<sp/>newNode;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">throw</highlight><highlight class="normal"><sp/>System::ArgumentException(u</highlight><highlight class="stringliteral">&quot;The<sp/>destination<sp/>node<sp/>must<sp/>be<sp/>either<sp/>a<sp/>paragraph<sp/>or<sp/>table.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Replacing/ReplaceAction.h" line="101" column="1" bodyfile="Aspose.Words.Cpp/Replacing/ReplaceAction.h" bodystart="102" bodyend="112"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>The <bold>Aspose.Words.Replacing</bold> namespace provides classes to manipulate with find/replace operations over the document tree. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/Range.h" line="32" column="1"/>
+  </compounddef>
+</doxygen>

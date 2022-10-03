@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_saving_1_1_i_font_saving_callback" kind="interface" language="C++" prot="public" abstract="yes">
+    <compoundname>Aspose::Words::Saving::IFontSavingCallback</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="virtual">System::Object</basecompoundref>
+    <includes refid="_i_font_saving_callback_8h" local="no">Aspose.Words.Cpp/Saving/IFontSavingCallback.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_i_font_saving_callback_1a3850655313ccdee3b54eda21bee6d106" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Saving::IFontSavingCallback::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Saving::IFontSavingCallback::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/IFontSavingCallback.h" line="105" column="28" bodyfile="Aspose.Words.Cpp/Saving/IFontSavingCallback.h" bodystart="105" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_i_font_saving_callback_1ace23bec671ec867e0d2f2077a8f2bcdc" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_i_font_saving_callback" kindref="compound">IFontSavingCallback</ref></type>
+        <definition>typedef IFontSavingCallback Aspose::Words::Saving::IFontSavingCallback::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Saving::IFontSavingCallback::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/IFontSavingCallback.h" line="104" column="33" bodyfile="Aspose.Words.Cpp/Saving/IFontSavingCallback.h" bodystart="104" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_i_font_saving_callback_1ad50fc5a15f9b54db8a73e4e7cb5cd3c7" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::IFontSavingCallback::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Saving::IFontSavingCallback::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/IFontSavingCallback.h" line="107" column="37" bodyfile="Aspose.Words.Cpp/Saving/IFontSavingCallback.h" bodystart="107" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_i_font_saving_callback_1ac753293715d378cc9b1611b83f9bd0e2" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::IFontSavingCallback::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Saving::IFontSavingCallback::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/IFontSavingCallback.h" line="108" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_i_font_saving_callback_1aa2a982d53de95614307743189027fe84" prot="public" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
+        <type>void</type>
+        <definition>virtual void Aspose::Words::Saving::IFontSavingCallback::FontSaving</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::Saving::FontSavingArgs &gt; args)=0</argsstring>
+        <name>FontSaving</name>
+        <qualifiedname>Aspose::Words::Saving::IFontSavingCallback::FontSaving</qualifiedname>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_font_saving_args" kindref="compound">Aspose::Words::Saving::FontSavingArgs</ref> &gt;</type>
+          <declname>args</declname>
+        </param>
+        <briefdescription>
+<para>Called when Aspose.Words is about to save a font resource. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to define custom logic for exporting fonts when saving to HTML. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>SaveExportedFonts()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Configure<sp/>a<sp/>SaveOptions<sp/>object<sp/>to<sp/>export<sp/>fonts<sp/>to<sp/>separate<sp/>files.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>callback<sp/>that<sp/>will<sp/>handle<sp/>font<sp/>saving<sp/>in<sp/>a<sp/>custom<sp/>manner.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;HtmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ExportFontResources(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_FontSavingCallback(MakeObject&lt;ExHtmlSaveOptions::HandleFontSaving&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>callback<sp/>will<sp/>export<sp/>.ttf<sp/>files<sp/>and<sp/>save<sp/>them<sp/>alongside<sp/>the<sp/>output<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlSaveOptions.SaveExportedFonts.html&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::function&lt;bool(String<sp/>s)&gt;<sp/>endsWithTtf<sp/>=<sp/>[](<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>s)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>s.EndsWith(u</highlight><highlight class="stringliteral">&quot;.ttf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>};</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(String<sp/>fontFilename<sp/>:<sp/><ref refid="class/system.array/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Array&lt;String&gt;::FindAll</ref>(<ref refid="class/system.i_o.directory/_1a175e3c7c67d67de4fc93cd54b8fb6f2d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::GetFiles</ref>(ArtifactsDir),<sp/>endsWithTtf))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>fontFilename<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">HandleFontSaving<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IFontSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FontSaving(SharedPtr&lt;FontSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Font:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>args-&gt;get_FontFamilyName();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(args-&gt;get_Bold())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>bold&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(args-&gt;get_Italic())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>italic&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\nSource:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>args-&gt;get_OriginalFileName()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>args-&gt;get_OriginalFileSize()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>bytes\n&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>access<sp/>the<sp/>source<sp/>document<sp/>from<sp/>here.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_Document()-&gt;get_OriginalFileName().EndsWith(u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_IsExportNeeded());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_IsSubsettingNeeded());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>saving<sp/>an<sp/>exported<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Save<sp/>it<sp/>to<sp/>a<sp/>local<sp/>file<sp/>system<sp/>location:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_FontFileName(args-&gt;get_OriginalFileName().Split(MakeArray&lt;char16_t&gt;({System::IO::Path::DirectorySeparatorChar}))-&gt;LINQ_Last());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Save<sp/>it<sp/>to<sp/>a<sp/>stream:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_FontStream(MakeObject&lt;System::IO::FileStream&gt;(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ArtifactsDir<sp/>+<sp/>args-&gt;get_OriginalFileName().Split(MakeArray&lt;char16_t&gt;({System::IO::Path::DirectorySeparatorChar}))-&gt;LINQ_Last(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(args-&gt;get_KeepFontStreamOpen());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/IFontSavingCallback.h" line="180" column="18"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implement this interface if you want to receive notifications and control how Aspose.Words saves fonts when exporting a document to HTML format. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to define custom logic for exporting fonts when saving to HTML. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>SaveExportedFonts()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Configure<sp/>a<sp/>SaveOptions<sp/>object<sp/>to<sp/>export<sp/>fonts<sp/>to<sp/>separate<sp/>files.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>callback<sp/>that<sp/>will<sp/>handle<sp/>font<sp/>saving<sp/>in<sp/>a<sp/>custom<sp/>manner.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;HtmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ExportFontResources(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_FontSavingCallback(MakeObject&lt;ExHtmlSaveOptions::HandleFontSaving&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>callback<sp/>will<sp/>export<sp/>.ttf<sp/>files<sp/>and<sp/>save<sp/>them<sp/>alongside<sp/>the<sp/>output<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlSaveOptions.SaveExportedFonts.html&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::function&lt;bool(String<sp/>s)&gt;<sp/>endsWithTtf<sp/>=<sp/>[](<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>s)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>s.EndsWith(u</highlight><highlight class="stringliteral">&quot;.ttf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>};</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(String<sp/>fontFilename<sp/>:<sp/><ref refid="class/system.array/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Array&lt;String&gt;::FindAll</ref>(<ref refid="class/system.i_o.directory/_1a175e3c7c67d67de4fc93cd54b8fb6f2d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::GetFiles</ref>(ArtifactsDir),<sp/>endsWithTtf))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>fontFilename<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">HandleFontSaving<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IFontSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FontSaving(SharedPtr&lt;FontSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Font:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>args-&gt;get_FontFamilyName();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(args-&gt;get_Bold())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>bold&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(args-&gt;get_Italic())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>italic&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\nSource:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>args-&gt;get_OriginalFileName()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>args-&gt;get_OriginalFileSize()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>bytes\n&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>access<sp/>the<sp/>source<sp/>document<sp/>from<sp/>here.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_Document()-&gt;get_OriginalFileName().EndsWith(u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_IsExportNeeded());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_IsSubsettingNeeded());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>saving<sp/>an<sp/>exported<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Save<sp/>it<sp/>to<sp/>a<sp/>local<sp/>file<sp/>system<sp/>location:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_FontFileName(args-&gt;get_OriginalFileName().Split(MakeArray&lt;char16_t&gt;({System::IO::Path::DirectorySeparatorChar}))-&gt;LINQ_Last());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Save<sp/>it<sp/>to<sp/>a<sp/>stream:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_FontStream(MakeObject&lt;System::IO::FileStream&gt;(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ArtifactsDir<sp/>+<sp/>args-&gt;get_OriginalFileName().Split(MakeArray&lt;char16_t&gt;({System::IO::Path::DirectorySeparatorChar}))-&gt;LINQ_Last(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(args-&gt;get_KeepFontStreamOpen());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::IFontSavingCallback</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_i_font_saving_callback"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::IFontSavingCallback</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_i_font_saving_callback"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Saving/IFontSavingCallback.h" line="102" column="1" bodyfile="Aspose.Words.Cpp/Saving/IFontSavingCallback.h" bodystart="103" bodyend="182"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_i_font_saving_callback_1a3850655313ccdee3b54eda21bee6d106" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::IFontSavingCallback</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_i_font_saving_callback_1aa2a982d53de95614307743189027fe84" prot="public" virt="pure-virtual"><scope>Aspose::Words::Saving::IFontSavingCallback</scope><name>FontSaving</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_i_font_saving_callback_1ac753293715d378cc9b1611b83f9bd0e2" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::IFontSavingCallback</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_i_font_saving_callback_1ace23bec671ec867e0d2f2077a8f2bcdc" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::IFontSavingCallback</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_i_font_saving_callback_1ad50fc5a15f9b54db8a73e4e7cb5cd3c7" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::IFontSavingCallback</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

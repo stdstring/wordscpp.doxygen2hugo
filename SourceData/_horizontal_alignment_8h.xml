@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="_horizontal_alignment_8h" kind="file" language="C++">
+    <compoundname>HorizontalAlignment.h</compoundname>
+    <includes local="no">system/object_ext.h</includes>
+    <includes local="no">system/enum.h</includes>
+    <includes local="no">cstdint</includes>
+    <includes refid="aspose__words__api__defs_8h" local="no">Aspose.Words.Cpp/aspose_words_api_defs.h</includes>
+    <includedby refid="_shape_base_8h" local="no">Aspose.Words.Cpp/Drawing/ShapeBase.h</includedby>
+    <includedby refid="_frame_format_8h" local="no">Aspose.Words.Cpp/FrameFormat.h</includedby>
+    <includedby refid="_revision_options_8h" local="no">Aspose.Words.Cpp/Layout/RevisionOptions.h</includedby>
+    <includedby refid="_table_8h" local="no">Aspose.Words.Cpp/Tables/Table.h</includedby>
+    <incdepgraph>
+      <node id="1">
+        <label>Aspose.Words.Cpp/Drawing/HorizontalAlignment.h</label>
+        <link refid="_horizontal_alignment_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="5" relation="include">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>Aspose.Words.Cpp/aspose_words_api_defs.h</label>
+        <link refid="aspose__words__api__defs_8h_source"/>
+      </node>
+      <node id="4">
+        <label>cstdint</label>
+      </node>
+      <node id="3">
+        <label>system/enum.h</label>
+      </node>
+      <node id="2">
+        <label>system/object_ext.h</label>
+      </node>
+    </incdepgraph>
+    <invincdepgraph>
+      <node id="3">
+        <label>Aspose.Words.Cpp/Drawing/GroupShape.h</label>
+        <link refid="_group_shape_8h_source"/>
+      </node>
+      <node id="1">
+        <label>Aspose.Words.Cpp/Drawing/HorizontalAlignment.h</label>
+        <link refid="_horizontal_alignment_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose.Words.Cpp/Drawing/Shape.h</label>
+        <link refid="_shape_8h_source"/>
+      </node>
+      <node id="2">
+        <label>Aspose.Words.Cpp/Drawing/ShapeBase.h</label>
+        <link refid="_shape_base_8h_source"/>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="4" relation="include">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>Aspose.Words.Cpp/FrameFormat.h</label>
+        <link refid="_frame_format_8h_source"/>
+      </node>
+      <node id="7">
+        <label>Aspose.Words.Cpp/Layout/Public/RevisionOptions.h</label>
+        <link refid="_public_2_revision_options_8h_source"/>
+      </node>
+      <node id="6">
+        <label>Aspose.Words.Cpp/Layout/RevisionOptions.h</label>
+        <link refid="_revision_options_8h_source"/>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>Aspose.Words.Cpp/Tables/Table.h</label>
+        <link refid="_table_8h_source"/>
+      </node>
+    </invincdepgraph>
+    <innernamespace refid="namespace_aspose">Aspose</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words">Aspose::Words</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words_1_1_drawing">Aspose::Words::Drawing</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/Drawing/HorizontalAlignment.h"/>
+  </compounddef>
+</doxygen>

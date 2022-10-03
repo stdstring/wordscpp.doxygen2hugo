@@ -1,0 +1,292 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_paragraph_collection" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::ParagraphCollection</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_node_collection" prot="public" virt="non-virtual">Aspose::Words::NodeCollection</basecompoundref>
+    <includes refid="_paragraph_collection_8h" local="no">Aspose.Words.Cpp/ParagraphCollection.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_paragraph_collection_1a659d3232d80b5b3ecb1ec0618d25207a" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_node_collection" kindref="compound">Aspose::Words::NodeCollection</ref></type>
+        <definition>typedef Aspose::Words::NodeCollection Aspose::Words::ParagraphCollection::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::ParagraphCollection::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ParagraphCollection.h" line="63" column="43" bodyfile="Aspose.Words.Cpp/ParagraphCollection.h" bodystart="63" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_paragraph_collection_1ab5b8b91b27d8931c95625e9b43041afb" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_paragraph_collection" kindref="compound">ParagraphCollection</ref></type>
+        <definition>typedef ParagraphCollection Aspose::Words::ParagraphCollection::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::ParagraphCollection::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ParagraphCollection.h" line="62" column="33" bodyfile="Aspose.Words.Cpp/ParagraphCollection.h" bodystart="62" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_paragraph_collection_1a23a862d6b1ed79571da35ce6f85c91dd" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node_collection" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::ParagraphCollection::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::ParagraphCollection::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ParagraphCollection.h" line="65" column="37" bodyfile="Aspose.Words.Cpp/ParagraphCollection.h" bodystart="65" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_paragraph_collection_1a373277b82567b0f63b9a80f9d6395bec" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::ParagraphCollection::~ParagraphCollection</definition>
+        <argsstring>()</argsstring>
+        <name>~ParagraphCollection</name>
+        <qualifiedname>Aspose::Words::ParagraphCollection::~ParagraphCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ParagraphCollection.h" line="154" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_paragraph_collection_1a8598125a2ae1123f08c2940e4b421ad3" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::ParagraphCollection::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::ParagraphCollection::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ParagraphCollection.h" line="66" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_paragraph_collection_1ac7e3fd96a07c3c5b6295fda460bef108" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_paragraph" kindref="compound">Aspose::Words::Paragraph</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Paragraph &gt; Aspose::Words::ParagraphCollection::idx_get</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>idx_get</name>
+        <qualifiedname>Aspose::Words::ParagraphCollection::idx_get</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Retrieves a <bold>Paragraph</bold> at the given index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The index is zero-based.</para>
+<para>Negative indexes are allowed and indicate access from the back of the collection. For example -1 means the last item, -2 means the second before last and so on.</para>
+<para>If index is greater than or equal to the number of items in the list, this returns a null reference.</para>
+<para>If index is negative and its absolute value is greater than the number of items in the list, this returns a null reference.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>index</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>An index into the collection.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to check whether a paragraph is a move revision. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Revisions.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>document<sp/>contains<sp/>&quot;Move&quot;<sp/>revisions,<sp/>which<sp/>appear<sp/>when<sp/>we<sp/>highlight<sp/>text<sp/>with<sp/>the<sp/>cursor,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>drag<sp/>it<sp/>to<sp/>move<sp/>it<sp/>to<sp/>another<sp/>location</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>while<sp/>tracking<sp/>revisions<sp/>in<sp/>Microsoft<sp/>Word<sp/>via<sp/>&quot;Review&quot;<sp/>-&gt;<sp/>&quot;Track<sp/>changes&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(6,<sp/>doc-&gt;get_Revisions()-&gt;LINQ_Count([](SharedPtr&lt;Revision&gt;<sp/>r)<sp/>{<sp/>return<sp/>r-&gt;get_RevisionType()<sp/>==<sp/>RevisionType::Moving;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ParagraphCollection&gt;<sp/>paragraphs<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Move<sp/>revisions<sp/>consist<sp/>of<sp/>pairs<sp/>of<sp/>&quot;Move<sp/>from&quot;,<sp/>and<sp/>&quot;Move<sp/>to&quot;<sp/>revisions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>revisions<sp/>are<sp/>potential<sp/>changes<sp/>to<sp/>the<sp/>document<sp/>that<sp/>we<sp/>can<sp/>either<sp/>accept<sp/>or<sp/>reject.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Before<sp/>we<sp/>accept/reject<sp/>a<sp/>move<sp/>revision,<sp/>the<sp/>document</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>must<sp/>keep<sp/>track<sp/>of<sp/>both<sp/>the<sp/>departure<sp/>and<sp/>arrival<sp/>destinations<sp/>of<sp/>the<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>second<sp/>and<sp/>the<sp/>fourth<sp/>paragraph<sp/>define<sp/>one<sp/>such<sp/>revision,<sp/>and<sp/>thus<sp/>both<sp/>have<sp/>the<sp/>same<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(paragraphs-&gt;idx_get(1)-&gt;GetText(),<sp/>paragraphs-&gt;idx_get(3)-&gt;GetText());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;Move<sp/>from&quot;<sp/>revision<sp/>is<sp/>the<sp/>paragraph<sp/>where<sp/>we<sp/>dragged<sp/>the<sp/>text<sp/>from.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>accept<sp/>the<sp/>revision,<sp/>this<sp/>paragraph<sp/>will<sp/>disappear,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>other<sp/>will<sp/>remain<sp/>and<sp/>no<sp/>longer<sp/>be<sp/>a<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(paragraphs-&gt;idx_get(1)-&gt;get_IsMoveFromRevision());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;Move<sp/>to&quot;<sp/>revision<sp/>is<sp/>the<sp/>paragraph<sp/>where<sp/>we<sp/>dragged<sp/>the<sp/>text<sp/>to.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>reject<sp/>the<sp/>revision,<sp/>this<sp/>paragraph<sp/>instead<sp/>will<sp/>disappear,<sp/>and<sp/>the<sp/>other<sp/>will<sp/>remain.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(paragraphs-&gt;idx_get(3)-&gt;get_IsMoveToRevision());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ParagraphCollection.h" line="112" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_paragraph_collection_1ac5a890b6ee19ef3379b1b23d8ba84188" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_paragraph" kindref="compound">Aspose::Words::Paragraph</ref> &gt; &gt;</type>
+        <definition>System::ArrayPtr&lt; System::SharedPtr&lt; Aspose::Words::Paragraph &gt; &gt; Aspose::Words::ParagraphCollection::ToArray</definition>
+        <argsstring>()</argsstring>
+        <name>ToArray</name>
+        <qualifiedname>Aspose::Words::ParagraphCollection::ToArray</qualifiedname>
+        <briefdescription>
+<para>Copies all paragraphs from the collection to a new array of paragraphs. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>An array of paragraphs.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create an array from a <ref refid="class_aspose_1_1_words_1_1_node_collection" kindref="compound">NodeCollection</ref>. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraphs.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;Paragraph&gt;&gt;<sp/>paras<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;ToArray();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(22,<sp/>paras-&gt;get_Length());</highlight></codeline>
+</programlisting></para>
+<para>Shows how to use &quot;hot remove&quot; to remove a node during enumeration. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;The<sp/>first<sp/>paragraph&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;The<sp/>second<sp/>paragraph&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;The<sp/>third<sp/>paragraph&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;The<sp/>fourth<sp/>paragraph&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>a<sp/>node<sp/>from<sp/>the<sp/>collection<sp/>in<sp/>the<sp/>middle<sp/>of<sp/>an<sp/>enumeration.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(SharedPtr&lt;Paragraph&gt;<sp/>para<sp/>:<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;ToArray())</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(para-&gt;get_Range()-&gt;get_Text().Contains(u</highlight><highlight class="stringliteral">&quot;third&quot;</highlight><highlight class="normal">))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>para-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(doc-&gt;GetText().Contains(u</highlight><highlight class="stringliteral">&quot;The<sp/>third<sp/>paragraph&quot;</highlight><highlight class="normal">));</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ParagraphCollection.h" line="150" column="25"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Provides typed access to a collection of <ref refid="class_aspose_1_1_words_1_1_paragraph" kindref="compound">Paragraph</ref> nodes. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to check whether a paragraph is a move revision. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Revisions.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>document<sp/>contains<sp/>&quot;Move&quot;<sp/>revisions,<sp/>which<sp/>appear<sp/>when<sp/>we<sp/>highlight<sp/>text<sp/>with<sp/>the<sp/>cursor,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>drag<sp/>it<sp/>to<sp/>move<sp/>it<sp/>to<sp/>another<sp/>location</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>while<sp/>tracking<sp/>revisions<sp/>in<sp/>Microsoft<sp/>Word<sp/>via<sp/>&quot;Review&quot;<sp/>-&gt;<sp/>&quot;Track<sp/>changes&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(6,<sp/>doc-&gt;get_Revisions()-&gt;LINQ_Count([](SharedPtr&lt;Revision&gt;<sp/>r)<sp/>{<sp/>return<sp/>r-&gt;get_RevisionType()<sp/>==<sp/>RevisionType::Moving;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ParagraphCollection&gt;<sp/>paragraphs<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Move<sp/>revisions<sp/>consist<sp/>of<sp/>pairs<sp/>of<sp/>&quot;Move<sp/>from&quot;,<sp/>and<sp/>&quot;Move<sp/>to&quot;<sp/>revisions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>revisions<sp/>are<sp/>potential<sp/>changes<sp/>to<sp/>the<sp/>document<sp/>that<sp/>we<sp/>can<sp/>either<sp/>accept<sp/>or<sp/>reject.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Before<sp/>we<sp/>accept/reject<sp/>a<sp/>move<sp/>revision,<sp/>the<sp/>document</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>must<sp/>keep<sp/>track<sp/>of<sp/>both<sp/>the<sp/>departure<sp/>and<sp/>arrival<sp/>destinations<sp/>of<sp/>the<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>second<sp/>and<sp/>the<sp/>fourth<sp/>paragraph<sp/>define<sp/>one<sp/>such<sp/>revision,<sp/>and<sp/>thus<sp/>both<sp/>have<sp/>the<sp/>same<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(paragraphs-&gt;idx_get(1)-&gt;GetText(),<sp/>paragraphs-&gt;idx_get(3)-&gt;GetText());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;Move<sp/>from&quot;<sp/>revision<sp/>is<sp/>the<sp/>paragraph<sp/>where<sp/>we<sp/>dragged<sp/>the<sp/>text<sp/>from.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>accept<sp/>the<sp/>revision,<sp/>this<sp/>paragraph<sp/>will<sp/>disappear,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>other<sp/>will<sp/>remain<sp/>and<sp/>no<sp/>longer<sp/>be<sp/>a<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(paragraphs-&gt;idx_get(1)-&gt;get_IsMoveFromRevision());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;Move<sp/>to&quot;<sp/>revision<sp/>is<sp/>the<sp/>paragraph<sp/>where<sp/>we<sp/>dragged<sp/>the<sp/>text<sp/>to.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>reject<sp/>the<sp/>revision,<sp/>this<sp/>paragraph<sp/>instead<sp/>will<sp/>disappear,<sp/>and<sp/>the<sp/>other<sp/>will<sp/>remain.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(paragraphs-&gt;idx_get(3)-&gt;get_IsMoveToRevision());</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="3">
+        <label>Aspose::Words::INodeCollection</label>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::NodeCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_node_collection"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::ParagraphCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_paragraph_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Node &gt; &gt;</label>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>Aspose::Words::INodeCollection</label>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::NodeCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_node_collection"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::ParagraphCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_paragraph_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Node &gt; &gt;</label>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/ParagraphCollection.h" line="60" column="1" bodyfile="Aspose.Words.Cpp/ParagraphCollection.h" bodystart="61" bodyend="156"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a068f070b5bbd81992e895bd3a9b7a909" prot="public" virt="non-virtual"><scope>Aspose::Words::ParagraphCollection</scope><name>Add</name></member>
+      <member refid="class_aspose_1_1_words_1_1_paragraph_collection_1a659d3232d80b5b3ecb1ec0618d25207a" prot="private" virt="non-virtual"><scope>Aspose::Words::ParagraphCollection</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a5c84bf176a96e3f048ff328ef0ef67aa" prot="public" virt="non-virtual"><scope>Aspose::Words::ParagraphCollection</scope><name>Clear</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1afb103bc9c0ef36a0593141c957dec4ad" prot="public" virt="non-virtual"><scope>Aspose::Words::ParagraphCollection</scope><name>Contains</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a08e6dd6c87c6f40972781651e176742a" prot="public" virt="non-virtual"><scope>Aspose::Words::ParagraphCollection</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a8d9e67dd4a36be575fdce2a6802cb917" prot="public" virt="non-virtual"><scope>Aspose::Words::ParagraphCollection</scope><name>GetEnumerator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_paragraph_collection_1ac7e3fd96a07c3c5b6295fda460bef108" prot="public" virt="non-virtual"><scope>Aspose::Words::ParagraphCollection</scope><name>idx_get</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a99ff7fa6245f5be6b1830877cc6e641c" prot="public" virt="non-virtual"><scope>Aspose::Words::ParagraphCollection</scope><name>IndexOf</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1ae0e08870652837402e08e2e56647795c" prot="public" virt="non-virtual"><scope>Aspose::Words::ParagraphCollection</scope><name>Insert</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a86977ff4ddee5f0781a774868b8ad5a8" prot="public" virt="non-virtual"><scope>Aspose::Words::ParagraphCollection</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a9c1ce160d192c038c1e740c3ddc309eb" prot="public" virt="non-virtual"><scope>Aspose::Words::ParagraphCollection</scope><name>RemoveAt</name></member>
+      <member refid="class_aspose_1_1_words_1_1_paragraph_collection_1a8598125a2ae1123f08c2940e4b421ad3" prot="private" virt="non-virtual"><scope>Aspose::Words::ParagraphCollection</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_paragraph_collection_1ab5b8b91b27d8931c95625e9b43041afb" prot="private" virt="non-virtual"><scope>Aspose::Words::ParagraphCollection</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_paragraph_collection_1a23a862d6b1ed79571da35ce6f85c91dd" prot="private" virt="non-virtual"><scope>Aspose::Words::ParagraphCollection</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_paragraph_collection_1ac5a890b6ee19ef3379b1b23d8ba84188" prot="public" virt="non-virtual"><scope>Aspose::Words::ParagraphCollection</scope><name>ToArray</name></member>
+      <member refid="class_aspose_1_1_words_1_1_paragraph_collection_1a373277b82567b0f63b9a80f9d6395bec" prot="private" virt="virtual"><scope>Aspose::Words::ParagraphCollection</scope><name>~ParagraphCollection</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

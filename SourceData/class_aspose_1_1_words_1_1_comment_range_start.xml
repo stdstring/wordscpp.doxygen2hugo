@@ -1,0 +1,998 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_comment_range_start" kind="class" language="C++" prot="public" final="yes">
+    <compoundname>Aspose::Words::CommentRangeStart</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_node" prot="public" virt="non-virtual">Aspose::Words::Node</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::IDisplaceableByCustomXml</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::INodeWithAnnotationId</basecompoundref>
+    <includes refid="_comment_range_start_8h" local="no">Aspose.Words.Cpp/CommentRangeStart.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_comment_range_start_1ab6b3f2d5ac315bee350675f5809cb02b" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref></type>
+        <definition>typedef Aspose::Words::Node Aspose::Words::CommentRangeStart::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::CommentRangeStart::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CommentRangeStart.h" line="215" column="33" bodyfile="Aspose.Words.Cpp/CommentRangeStart.h" bodystart="215" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_comment_range_start_1a51e86e4b6ca100ac02a7cc05977faf3a" prot="private" static="no">
+        <type>Aspose::Words::IDisplaceableByCustomXml</type>
+        <definition>typedef Aspose::Words::IDisplaceableByCustomXml Aspose::Words::CommentRangeStart::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::CommentRangeStart::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CommentRangeStart.h" line="216" column="53" bodyfile="Aspose.Words.Cpp/CommentRangeStart.h" bodystart="216" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_comment_range_start_1aceb65ec285b8b09df16dc283c27ef3b5" prot="private" static="no">
+        <type>Aspose::Words::INodeWithAnnotationId</type>
+        <definition>typedef Aspose::Words::INodeWithAnnotationId Aspose::Words::CommentRangeStart::BaseType2</definition>
+        <argsstring></argsstring>
+        <name>BaseType2</name>
+        <qualifiedname>Aspose::Words::CommentRangeStart::BaseType2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CommentRangeStart.h" line="217" column="50" bodyfile="Aspose.Words.Cpp/CommentRangeStart.h" bodystart="217" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_comment_range_start_1a14690b3f23bf8aefe7ee6fd8fa6e0ae2" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_comment_range_start" kindref="compound">CommentRangeStart</ref></type>
+        <definition>typedef CommentRangeStart Aspose::Words::CommentRangeStart::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::CommentRangeStart::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CommentRangeStart.h" line="214" column="31" bodyfile="Aspose.Words.Cpp/CommentRangeStart.h" bodystart="214" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_comment_range_start_1a020cc537d1ad1afa93e592c6b3d1f8ee" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">BaseType</ref>, BaseType1, BaseType2 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1, BaseType2&gt; Aspose::Words::CommentRangeStart::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::CommentRangeStart::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CommentRangeStart.h" line="219" column="37" bodyfile="Aspose.Words.Cpp/CommentRangeStart.h" bodystart="219" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_comment_range_start_1ad3d95b247dc252f37d5ea5b4aea0f81b" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::CommentRangeStart::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::CommentRangeStart::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CommentRangeStart.h" line="813" column="23" bodyfile="Aspose.Words.Cpp/CommentRangeStart.h" bodystart="813" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_comment_range_start_1a4bf23de0c93f1e3b56fa84894a44a2d4" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::CommentRangeStart::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::CommentRangeStart::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CommentRangeStart.h" line="814" column="23" bodyfile="Aspose.Words.Cpp/CommentRangeStart.h" bodystart="814" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_comment_range_start_1aa85a2e027b1e0d5e3ffe3238283427db" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::CommentRangeStart::~CommentRangeStart</definition>
+        <argsstring>()</argsstring>
+        <name>~CommentRangeStart</name>
+        <qualifiedname>Aspose::Words::CommentRangeStart::~CommentRangeStart</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CommentRangeStart.h" line="802" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_comment_range_start_1ab278e9b993a9b3b5beeff1bb867faee8" prot="private" static="no" const="yes" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_comment_range_start" kindref="compound">ThisType</ref> *</type>
+        <definition>ThisType * Aspose::Words::CommentRangeStart::CppMemberwiseClone</definition>
+        <argsstring>() const override</argsstring>
+        <name>CppMemberwiseClone</name>
+        <qualifiedname>Aspose::Words::CommentRangeStart::CppMemberwiseClone</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_node_1a9358fb4208d077e8411fdf0d4e8553e5">CppMemberwiseClone</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CommentRangeStart.h" line="816" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_comment_range_start_1a198254936954985ad6368a8b2e70b57e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>Aspose::Words::Revisions::DisplacedByType</type>
+        <definition>Aspose::Words::Revisions::DisplacedByType Aspose::Words::CommentRangeStart::get_DisplacedByCustomXml</definition>
+        <argsstring>() override</argsstring>
+        <name>get_DisplacedByCustomXml</name>
+        <qualifiedname>Aspose::Words::CommentRangeStart::get_DisplacedByCustomXml</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CommentRangeStart.h" line="806" column="47"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_comment_range_start_1ae50dcfa83b1ef857b7273fa163867db6" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::CommentRangeStart::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::CommentRangeStart::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CommentRangeStart.h" line="220" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_comment_range_start_1a87c021a0b20bab0bda83d6f4d5596fe8" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::CommentRangeStart::set_DisplacedByCustomXml</definition>
+        <argsstring>(Aspose::Words::Revisions::DisplacedByType) override</argsstring>
+        <name>set_DisplacedByCustomXml</name>
+        <qualifiedname>Aspose::Words::CommentRangeStart::set_DisplacedByCustomXml</qualifiedname>
+        <param>
+          <type>Aspose::Words::Revisions::DisplacedByType</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CommentRangeStart.h" line="807" column="10"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_comment_range_start_1a370e5c38709089e0f01f31bbb656110d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::CommentRangeStart::CommentRangeStart</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::DocumentBase &gt; &amp;doc, int32_t id)</argsstring>
+        <name>CommentRangeStart</name>
+        <qualifiedname>Aspose::Words::CommentRangeStart::CommentRangeStart</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">Aspose::Words::DocumentBase</ref> &gt; &amp;</type>
+          <declname>doc</declname>
+        </param>
+        <param>
+          <type>int32_t</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+<para>Initializes a new instance of this class. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>When <ref refid="class_aspose_1_1_words_1_1_comment_range_start" kindref="compound">CommentRangeStart</ref> is created, it belongs to the specified document, but is not yet part of the document and <ref refid="class_aspose_1_1_words_1_1_node_1ab9e608488885c65a2a165dea6645d15e" kindref="member">ParentNode</ref> is null.</para>
+<para>To append a <ref refid="class_aspose_1_1_words_1_1_comment_range_start" kindref="compound">CommentRangeStart</ref> to the document use InsertAfter or InsertBefore on the paragraph where you want the comment inserted.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>doc</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The owner document. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>id</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The comment identifier to which this object is linked.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how print the contents of all comments and their comment ranges using a document visitor. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>CreateCommentsAndPrintAllInfo()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>newComment<sp/>=<sp/>MakeObject&lt;Comment&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>newComment-&gt;set_Author(u</highlight><highlight class="stringliteral">&quot;VDeryushev&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>newComment-&gt;set_Initial(u</highlight><highlight class="stringliteral">&quot;VD&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>newComment-&gt;set_DateTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>newComment-&gt;SetText(u</highlight><highlight class="stringliteral">&quot;Comment<sp/>regarding<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Add<sp/>text<sp/>to<sp/>the<sp/>document,<sp/>warp<sp/>it<sp/>in<sp/>a<sp/>comment<sp/>range,<sp/>and<sp/>then<sp/>add<sp/>your<sp/>comment.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Paragraph&gt;<sp/>para<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>para-&gt;AppendChild(MakeObject&lt;CommentRangeStart&gt;(doc,<sp/>newComment-&gt;get_Id()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>para-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;Commented<sp/>text.&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>para-&gt;AppendChild(MakeObject&lt;CommentRangeEnd&gt;(doc,<sp/>newComment-&gt;get_Id()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>para-&gt;AppendChild(newComment);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Add<sp/>two<sp/>replies<sp/>to<sp/>the<sp/>comment.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>newComment-&gt;AddReply(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;JD&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>(),<sp/>u</highlight><highlight class="stringliteral">&quot;New<sp/>reply.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>newComment-&gt;AddReply(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;JD&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>(),<sp/>u</highlight><highlight class="stringliteral">&quot;Another<sp/>reply.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>PrintAllCommentInfo(doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a0be8406951cdfda82f00f79328cf4efc" kindref="member" tooltip="A comment in a Word document. A Comment node can have Paragraph and Table nodes.">NodeType::Comment</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>PrintAllCommentInfo(SharedPtr&lt;NodeCollection&gt;<sp/>comments)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>commentVisitor<sp/>=<sp/>MakeObject&lt;ExComment::CommentInfoPrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Iterate<sp/>over<sp/>all<sp/>top-level<sp/>comments.<sp/>Unlike<sp/>reply-type<sp/>comments,<sp/>top-level<sp/>comments<sp/>have<sp/>no<sp/>ancestor.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::function&lt;bool(SharedPtr&lt;Node&gt;<sp/>c)&gt;<sp/>haveNoAncestor<sp/>=<sp/>[](SharedPtr&lt;Node&gt;<sp/>c)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>(System::DynamicCast&lt;Comment&gt;(c))-&gt;get_Ancestor()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>};</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>comment<sp/>:<sp/>System::IterateOver&lt;Comment&gt;(comments-&gt;LINQ_Where(haveNoAncestor)))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>First,<sp/>visit<sp/>the<sp/>start<sp/>of<sp/>the<sp/>comment<sp/>range.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>commentRangeStart<sp/>=<sp/>System::DynamicCast&lt;CommentRangeStart&gt;(comment-&gt;get_PreviousSibling()-&gt;get_PreviousSibling()-&gt;get_PreviousSibling());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>commentRangeStart-&gt;Accept(commentVisitor);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Then,<sp/>visit<sp/>the<sp/>comment,<sp/>and<sp/>any<sp/>replies<sp/>that<sp/>it<sp/>may<sp/>have.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>comment-&gt;Accept(commentVisitor);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>reply<sp/>:<sp/>System::IterateOver&lt;Comment&gt;(comment-&gt;get_Replies()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>reply-&gt;Accept(commentVisitor);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Finally,<sp/>visit<sp/>the<sp/>end<sp/>of<sp/>the<sp/>comment<sp/>range,<sp/>and<sp/>then<sp/>print<sp/>the<sp/>visitor&apos;s<sp/>text<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>commentRangeEnd<sp/>=<sp/>System::DynamicCast&lt;CommentRangeEnd&gt;(comment-&gt;get_PreviousSibling());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>commentRangeEnd-&gt;Accept(commentVisitor);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>commentVisitor-&gt;GetText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">CommentInfoPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>CommentInfoPrinter()<sp/>:<sp/>mVisitorIsInsideComment(false),<sp/>mDocTraversalDepth(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder<sp/>=<sp/>MakeObject&lt;System::Text::StringBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideComment<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>GetText()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mBuilder-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitRun(SharedPtr&lt;Run&gt;<sp/>run)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(mVisitorIsInsideComment)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Run]<sp/>\&quot;&quot;</highlight><highlight class="normal">)<sp/>+<sp/>run-&gt;get_Text()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitCommentRangeStart(SharedPtr&lt;CommentRangeStart&gt;<sp/>commentRangeStart)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Comment<sp/>range<sp/>start]<sp/>ID:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>commentRangeStart-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideComment<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitCommentRangeEnd(SharedPtr&lt;CommentRangeEnd&gt;<sp/>commentRangeEnd)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth--;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Comment<sp/>range<sp/>end]<sp/>ID:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>commentRangeEnd-&gt;get_Id()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\n&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideComment<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitCommentStart(SharedPtr&lt;Comment&gt;<sp/>comment)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;[Comment<sp/>start]<sp/>For<sp/>comment<sp/>range<sp/>ID<sp/>{0},<sp/>By<sp/>{1}<sp/>on<sp/>{2}&quot;</highlight><highlight class="normal">,<sp/>comment-&gt;get_Id(),<sp/>comment-&gt;get_Author(),<sp/>comment-&gt;get_DateTime()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideComment<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitCommentEnd(SharedPtr&lt;Comment&gt;<sp/>comment)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth--;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(u</highlight><highlight class="stringliteral">&quot;[Comment<sp/>end]&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideComment<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>mVisitorIsInsideComment;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mDocTraversalDepth;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mBuilder;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>IndentAndAppendLine(String<sp/>text)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>mDocTraversalDepth;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;Append(u</highlight><highlight class="stringliteral">&quot;|<sp/><sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(text);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CommentRangeStart.h" line="620" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_comment_range_start_1a2e76e303997f8b92170afafe98452de3" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::CommentRangeStart::Accept</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::DocumentVisitor &gt; visitor) override</argsstring>
+        <name>Accept</name>
+        <qualifiedname>Aspose::Words::CommentRangeStart::Accept</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_node_1a556472e35a86820cf189f10594933f3e">Accept</reimplements>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
+          <declname>visitor</declname>
+        </param>
+        <briefdescription>
+<para>Accepts a visitor. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Calls <ref refid="class_aspose_1_1_words_1_1_document_visitor_1ac2ab2920921f8e32c62291ce280dbcdb" kindref="member">VisitCommentRangeStart()</ref>.</para>
+<para>For more info see the Visitor design pattern.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>visitor</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The visitor that will visit the node.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>False if the visitor requested the enumeration to stop.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how print the contents of all comments and their comment ranges using a document visitor. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>CreateCommentsAndPrintAllInfo()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>newComment<sp/>=<sp/>MakeObject&lt;Comment&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>newComment-&gt;set_Author(u</highlight><highlight class="stringliteral">&quot;VDeryushev&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>newComment-&gt;set_Initial(u</highlight><highlight class="stringliteral">&quot;VD&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>newComment-&gt;set_DateTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>newComment-&gt;SetText(u</highlight><highlight class="stringliteral">&quot;Comment<sp/>regarding<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Add<sp/>text<sp/>to<sp/>the<sp/>document,<sp/>warp<sp/>it<sp/>in<sp/>a<sp/>comment<sp/>range,<sp/>and<sp/>then<sp/>add<sp/>your<sp/>comment.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Paragraph&gt;<sp/>para<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>para-&gt;AppendChild(MakeObject&lt;CommentRangeStart&gt;(doc,<sp/>newComment-&gt;get_Id()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>para-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;Commented<sp/>text.&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>para-&gt;AppendChild(MakeObject&lt;CommentRangeEnd&gt;(doc,<sp/>newComment-&gt;get_Id()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>para-&gt;AppendChild(newComment);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Add<sp/>two<sp/>replies<sp/>to<sp/>the<sp/>comment.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>newComment-&gt;AddReply(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;JD&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>(),<sp/>u</highlight><highlight class="stringliteral">&quot;New<sp/>reply.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>newComment-&gt;AddReply(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;JD&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>(),<sp/>u</highlight><highlight class="stringliteral">&quot;Another<sp/>reply.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>PrintAllCommentInfo(doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a0be8406951cdfda82f00f79328cf4efc" kindref="member" tooltip="A comment in a Word document. A Comment node can have Paragraph and Table nodes.">NodeType::Comment</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>PrintAllCommentInfo(SharedPtr&lt;NodeCollection&gt;<sp/>comments)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>commentVisitor<sp/>=<sp/>MakeObject&lt;ExComment::CommentInfoPrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Iterate<sp/>over<sp/>all<sp/>top-level<sp/>comments.<sp/>Unlike<sp/>reply-type<sp/>comments,<sp/>top-level<sp/>comments<sp/>have<sp/>no<sp/>ancestor.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::function&lt;bool(SharedPtr&lt;Node&gt;<sp/>c)&gt;<sp/>haveNoAncestor<sp/>=<sp/>[](SharedPtr&lt;Node&gt;<sp/>c)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>(System::DynamicCast&lt;Comment&gt;(c))-&gt;get_Ancestor()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>};</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>comment<sp/>:<sp/>System::IterateOver&lt;Comment&gt;(comments-&gt;LINQ_Where(haveNoAncestor)))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>First,<sp/>visit<sp/>the<sp/>start<sp/>of<sp/>the<sp/>comment<sp/>range.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>commentRangeStart<sp/>=<sp/>System::DynamicCast&lt;CommentRangeStart&gt;(comment-&gt;get_PreviousSibling()-&gt;get_PreviousSibling()-&gt;get_PreviousSibling());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>commentRangeStart-&gt;Accept(commentVisitor);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Then,<sp/>visit<sp/>the<sp/>comment,<sp/>and<sp/>any<sp/>replies<sp/>that<sp/>it<sp/>may<sp/>have.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>comment-&gt;Accept(commentVisitor);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>reply<sp/>:<sp/>System::IterateOver&lt;Comment&gt;(comment-&gt;get_Replies()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>reply-&gt;Accept(commentVisitor);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Finally,<sp/>visit<sp/>the<sp/>end<sp/>of<sp/>the<sp/>comment<sp/>range,<sp/>and<sp/>then<sp/>print<sp/>the<sp/>visitor&apos;s<sp/>text<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>commentRangeEnd<sp/>=<sp/>System::DynamicCast&lt;CommentRangeEnd&gt;(comment-&gt;get_PreviousSibling());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>commentRangeEnd-&gt;Accept(commentVisitor);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>commentVisitor-&gt;GetText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">CommentInfoPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>CommentInfoPrinter()<sp/>:<sp/>mVisitorIsInsideComment(false),<sp/>mDocTraversalDepth(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder<sp/>=<sp/>MakeObject&lt;System::Text::StringBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideComment<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>GetText()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mBuilder-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitRun(SharedPtr&lt;Run&gt;<sp/>run)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(mVisitorIsInsideComment)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Run]<sp/>\&quot;&quot;</highlight><highlight class="normal">)<sp/>+<sp/>run-&gt;get_Text()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitCommentRangeStart(SharedPtr&lt;CommentRangeStart&gt;<sp/>commentRangeStart)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Comment<sp/>range<sp/>start]<sp/>ID:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>commentRangeStart-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideComment<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitCommentRangeEnd(SharedPtr&lt;CommentRangeEnd&gt;<sp/>commentRangeEnd)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth--;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Comment<sp/>range<sp/>end]<sp/>ID:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>commentRangeEnd-&gt;get_Id()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\n&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideComment<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitCommentStart(SharedPtr&lt;Comment&gt;<sp/>comment)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;[Comment<sp/>start]<sp/>For<sp/>comment<sp/>range<sp/>ID<sp/>{0},<sp/>By<sp/>{1}<sp/>on<sp/>{2}&quot;</highlight><highlight class="normal">,<sp/>comment-&gt;get_Id(),<sp/>comment-&gt;get_Author(),<sp/>comment-&gt;get_DateTime()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideComment<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitCommentEnd(SharedPtr&lt;Comment&gt;<sp/>comment)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth--;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(u</highlight><highlight class="stringliteral">&quot;[Comment<sp/>end]&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideComment<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>mVisitorIsInsideComment;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mDocTraversalDepth;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mBuilder;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>IndentAndAppendLine(String<sp/>text)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>mDocTraversalDepth;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;Append(u</highlight><highlight class="stringliteral">&quot;|<sp/><sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(text);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CommentRangeStart.h" line="798" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_comment_range_start_1a474c817fe9d4053fc0f9f9dbc68a04bd" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::CommentRangeStart::get_Id</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Id</name>
+        <qualifiedname>Aspose::Words::CommentRangeStart::get_Id</qualifiedname>
+        <briefdescription>
+<para>Specifies the identifier of the comment to which this region is linked. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how print the contents of all comments and their comment ranges using a document visitor. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>CreateCommentsAndPrintAllInfo()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>newComment<sp/>=<sp/>MakeObject&lt;Comment&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>newComment-&gt;set_Author(u</highlight><highlight class="stringliteral">&quot;VDeryushev&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>newComment-&gt;set_Initial(u</highlight><highlight class="stringliteral">&quot;VD&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>newComment-&gt;set_DateTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>newComment-&gt;SetText(u</highlight><highlight class="stringliteral">&quot;Comment<sp/>regarding<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Add<sp/>text<sp/>to<sp/>the<sp/>document,<sp/>warp<sp/>it<sp/>in<sp/>a<sp/>comment<sp/>range,<sp/>and<sp/>then<sp/>add<sp/>your<sp/>comment.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Paragraph&gt;<sp/>para<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>para-&gt;AppendChild(MakeObject&lt;CommentRangeStart&gt;(doc,<sp/>newComment-&gt;get_Id()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>para-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;Commented<sp/>text.&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>para-&gt;AppendChild(MakeObject&lt;CommentRangeEnd&gt;(doc,<sp/>newComment-&gt;get_Id()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>para-&gt;AppendChild(newComment);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Add<sp/>two<sp/>replies<sp/>to<sp/>the<sp/>comment.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>newComment-&gt;AddReply(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;JD&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>(),<sp/>u</highlight><highlight class="stringliteral">&quot;New<sp/>reply.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>newComment-&gt;AddReply(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;JD&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>(),<sp/>u</highlight><highlight class="stringliteral">&quot;Another<sp/>reply.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>PrintAllCommentInfo(doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a0be8406951cdfda82f00f79328cf4efc" kindref="member" tooltip="A comment in a Word document. A Comment node can have Paragraph and Table nodes.">NodeType::Comment</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>PrintAllCommentInfo(SharedPtr&lt;NodeCollection&gt;<sp/>comments)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>commentVisitor<sp/>=<sp/>MakeObject&lt;ExComment::CommentInfoPrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Iterate<sp/>over<sp/>all<sp/>top-level<sp/>comments.<sp/>Unlike<sp/>reply-type<sp/>comments,<sp/>top-level<sp/>comments<sp/>have<sp/>no<sp/>ancestor.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::function&lt;bool(SharedPtr&lt;Node&gt;<sp/>c)&gt;<sp/>haveNoAncestor<sp/>=<sp/>[](SharedPtr&lt;Node&gt;<sp/>c)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>(System::DynamicCast&lt;Comment&gt;(c))-&gt;get_Ancestor()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>};</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>comment<sp/>:<sp/>System::IterateOver&lt;Comment&gt;(comments-&gt;LINQ_Where(haveNoAncestor)))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>First,<sp/>visit<sp/>the<sp/>start<sp/>of<sp/>the<sp/>comment<sp/>range.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>commentRangeStart<sp/>=<sp/>System::DynamicCast&lt;CommentRangeStart&gt;(comment-&gt;get_PreviousSibling()-&gt;get_PreviousSibling()-&gt;get_PreviousSibling());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>commentRangeStart-&gt;Accept(commentVisitor);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Then,<sp/>visit<sp/>the<sp/>comment,<sp/>and<sp/>any<sp/>replies<sp/>that<sp/>it<sp/>may<sp/>have.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>comment-&gt;Accept(commentVisitor);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>reply<sp/>:<sp/>System::IterateOver&lt;Comment&gt;(comment-&gt;get_Replies()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>reply-&gt;Accept(commentVisitor);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Finally,<sp/>visit<sp/>the<sp/>end<sp/>of<sp/>the<sp/>comment<sp/>range,<sp/>and<sp/>then<sp/>print<sp/>the<sp/>visitor&apos;s<sp/>text<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>commentRangeEnd<sp/>=<sp/>System::DynamicCast&lt;CommentRangeEnd&gt;(comment-&gt;get_PreviousSibling());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>commentRangeEnd-&gt;Accept(commentVisitor);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>commentVisitor-&gt;GetText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">CommentInfoPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>CommentInfoPrinter()<sp/>:<sp/>mVisitorIsInsideComment(false),<sp/>mDocTraversalDepth(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder<sp/>=<sp/>MakeObject&lt;System::Text::StringBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideComment<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>GetText()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mBuilder-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitRun(SharedPtr&lt;Run&gt;<sp/>run)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(mVisitorIsInsideComment)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Run]<sp/>\&quot;&quot;</highlight><highlight class="normal">)<sp/>+<sp/>run-&gt;get_Text()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitCommentRangeStart(SharedPtr&lt;CommentRangeStart&gt;<sp/>commentRangeStart)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Comment<sp/>range<sp/>start]<sp/>ID:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>commentRangeStart-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideComment<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitCommentRangeEnd(SharedPtr&lt;CommentRangeEnd&gt;<sp/>commentRangeEnd)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth--;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Comment<sp/>range<sp/>end]<sp/>ID:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>commentRangeEnd-&gt;get_Id()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\n&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideComment<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitCommentStart(SharedPtr&lt;Comment&gt;<sp/>comment)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;[Comment<sp/>start]<sp/>For<sp/>comment<sp/>range<sp/>ID<sp/>{0},<sp/>By<sp/>{1}<sp/>on<sp/>{2}&quot;</highlight><highlight class="normal">,<sp/>comment-&gt;get_Id(),<sp/>comment-&gt;get_Author(),<sp/>comment-&gt;get_DateTime()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideComment<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitCommentEnd(SharedPtr&lt;Comment&gt;<sp/>comment)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth--;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(u</highlight><highlight class="stringliteral">&quot;[Comment<sp/>end]&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideComment<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>mVisitorIsInsideComment;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mDocTraversalDepth;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mBuilder;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>IndentAndAppendLine(String<sp/>text)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>mDocTraversalDepth;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;Append(u</highlight><highlight class="stringliteral">&quot;|<sp/><sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(text);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CommentRangeStart.h" line="392" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_comment_range_start_1a0a1eb2a3e1befd7900e84c02b1ede76d" prot="public" static="no" const="yes" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379" kindref="member">Aspose::Words::NodeType</ref></type>
+        <definition>Aspose::Words::NodeType Aspose::Words::CommentRangeStart::get_NodeType</definition>
+        <argsstring>() const override</argsstring>
+        <name>get_NodeType</name>
+        <qualifiedname>Aspose::Words::CommentRangeStart::get_NodeType</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_node_1a7f80e8d96b7a072fca14157b25ae025e">get_NodeType</reimplements>
+        <briefdescription>
+<para>Returns <ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a40b58c0ad22195d3fdb17716ff22c403" kindref="member">CommentRangeStart</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to traverse a composite node&apos;s tree of child nodes. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>RecurseChildren()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraphs.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Any<sp/>node<sp/>that<sp/>can<sp/>contain<sp/>child<sp/>nodes,<sp/>such<sp/>as<sp/>the<sp/>document<sp/>itself,<sp/>is<sp/>composite.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(doc-&gt;get_IsComposite());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Invoke<sp/>the<sp/>recursive<sp/>function<sp/>that<sp/>will<sp/>go<sp/>through<sp/>and<sp/>print<sp/>all<sp/>the<sp/>child<sp/>nodes<sp/>of<sp/>a<sp/>composite<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>TraverseAllNodes(doc,<sp/>0);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>TraverseAllNodes(SharedPtr&lt;CompositeNode&gt;<sp/>parentNode,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>depth)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(SharedPtr&lt;Node&gt;<sp/>childNode<sp/>=<sp/>parentNode-&gt;get_FirstChild();<sp/>childNode<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">;<sp/>childNode<sp/>=<sp/>childNode-&gt;get_NextSibling())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="charliteral">&apos;\t&apos;</highlight><highlight class="normal">,<sp/>depth))<sp/>&lt;&lt;<sp/><ref refid="class_aspose_1_1_words_1_1_node_1a0e46189d6dfa7a81c8fa2e2bd2354d61" kindref="member" tooltip="A utility method that converts a node type enum value into a user friendly string.">Node::NodeTypeToString</ref>(childNode-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Recurse<sp/>into<sp/>the<sp/>node<sp/>if<sp/>it<sp/>is<sp/>a<sp/>composite<sp/>node.<sp/>Otherwise,<sp/>print<sp/>its<sp/>contents<sp/>if<sp/>it<sp/>is<sp/>an<sp/>inline<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(childNode-&gt;get_IsComposite())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>TraverseAllNodes(System::DynamicCast&lt;CompositeNode&gt;(childNode),<sp/>depth<sp/>+<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(System::ObjectExt::Is&lt;Inline&gt;(childNode))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>-<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>childNode-&gt;GetText().Trim()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CommentRangeStart.h" line="441" column="32"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_comment_range_start_1abb00e00fb12d1fc9fb4e1e3988ed741c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::CommentRangeStart::set_Id</definition>
+        <argsstring>(int32_t value)</argsstring>
+        <name>set_Id</name>
+        <qualifiedname>Aspose::Words::CommentRangeStart::set_Id</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_comment_range_start_1a474c817fe9d4053fc0f9f9dbc68a04bd" kindref="member">Aspose::Words::CommentRangeStart::get_Id</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CommentRangeStart.h" line="395" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Denotes the start of a region of text that has a comment associated with it. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>To create a comment anchored to a region of text, you need to create a <ref refid="class_aspose_1_1_words_1_1_comment" kindref="compound">Comment</ref> and then create <ref refid="class_aspose_1_1_words_1_1_comment_range_start" kindref="compound">CommentRangeStart</ref> and <ref refid="class_aspose_1_1_words_1_1_comment_range_end" kindref="compound">CommentRangeEnd</ref> and set their identifiers to the same <ref refid="class_aspose_1_1_words_1_1_comment_1ab8722b61e10737bce19c19a43cf2d652" kindref="member">Id</ref> value.</para>
+<para><ref refid="class_aspose_1_1_words_1_1_comment_range_start" kindref="compound">CommentRangeStart</ref> is an inline-level node and can only be a child of <ref refid="class_aspose_1_1_words_1_1_paragraph" kindref="compound">Paragraph</ref>.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_comment" kindref="compound">Aspose::Words::Comment</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_comment_range_end" kindref="compound">Aspose::Words::CommentRangeEnd</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how print the contents of all comments and their comment ranges using a document visitor. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>CreateCommentsAndPrintAllInfo()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>newComment<sp/>=<sp/>MakeObject&lt;Comment&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>newComment-&gt;set_Author(u</highlight><highlight class="stringliteral">&quot;VDeryushev&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>newComment-&gt;set_Initial(u</highlight><highlight class="stringliteral">&quot;VD&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>newComment-&gt;set_DateTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>newComment-&gt;SetText(u</highlight><highlight class="stringliteral">&quot;Comment<sp/>regarding<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Add<sp/>text<sp/>to<sp/>the<sp/>document,<sp/>warp<sp/>it<sp/>in<sp/>a<sp/>comment<sp/>range,<sp/>and<sp/>then<sp/>add<sp/>your<sp/>comment.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Paragraph&gt;<sp/>para<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>para-&gt;AppendChild(MakeObject&lt;CommentRangeStart&gt;(doc,<sp/>newComment-&gt;get_Id()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>para-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;Commented<sp/>text.&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>para-&gt;AppendChild(MakeObject&lt;CommentRangeEnd&gt;(doc,<sp/>newComment-&gt;get_Id()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>para-&gt;AppendChild(newComment);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Add<sp/>two<sp/>replies<sp/>to<sp/>the<sp/>comment.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>newComment-&gt;AddReply(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;JD&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>(),<sp/>u</highlight><highlight class="stringliteral">&quot;New<sp/>reply.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>newComment-&gt;AddReply(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;JD&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>(),<sp/>u</highlight><highlight class="stringliteral">&quot;Another<sp/>reply.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>PrintAllCommentInfo(doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a0be8406951cdfda82f00f79328cf4efc" kindref="member" tooltip="A comment in a Word document. A Comment node can have Paragraph and Table nodes.">NodeType::Comment</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>PrintAllCommentInfo(SharedPtr&lt;NodeCollection&gt;<sp/>comments)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>commentVisitor<sp/>=<sp/>MakeObject&lt;ExComment::CommentInfoPrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Iterate<sp/>over<sp/>all<sp/>top-level<sp/>comments.<sp/>Unlike<sp/>reply-type<sp/>comments,<sp/>top-level<sp/>comments<sp/>have<sp/>no<sp/>ancestor.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::function&lt;bool(SharedPtr&lt;Node&gt;<sp/>c)&gt;<sp/>haveNoAncestor<sp/>=<sp/>[](SharedPtr&lt;Node&gt;<sp/>c)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>(System::DynamicCast&lt;Comment&gt;(c))-&gt;get_Ancestor()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>};</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>comment<sp/>:<sp/>System::IterateOver&lt;Comment&gt;(comments-&gt;LINQ_Where(haveNoAncestor)))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>First,<sp/>visit<sp/>the<sp/>start<sp/>of<sp/>the<sp/>comment<sp/>range.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>commentRangeStart<sp/>=<sp/>System::DynamicCast&lt;CommentRangeStart&gt;(comment-&gt;get_PreviousSibling()-&gt;get_PreviousSibling()-&gt;get_PreviousSibling());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>commentRangeStart-&gt;Accept(commentVisitor);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Then,<sp/>visit<sp/>the<sp/>comment,<sp/>and<sp/>any<sp/>replies<sp/>that<sp/>it<sp/>may<sp/>have.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>comment-&gt;Accept(commentVisitor);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>reply<sp/>:<sp/>System::IterateOver&lt;Comment&gt;(comment-&gt;get_Replies()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>reply-&gt;Accept(commentVisitor);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Finally,<sp/>visit<sp/>the<sp/>end<sp/>of<sp/>the<sp/>comment<sp/>range,<sp/>and<sp/>then<sp/>print<sp/>the<sp/>visitor&apos;s<sp/>text<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>commentRangeEnd<sp/>=<sp/>System::DynamicCast&lt;CommentRangeEnd&gt;(comment-&gt;get_PreviousSibling());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>commentRangeEnd-&gt;Accept(commentVisitor);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>commentVisitor-&gt;GetText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">CommentInfoPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>CommentInfoPrinter()<sp/>:<sp/>mVisitorIsInsideComment(false),<sp/>mDocTraversalDepth(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder<sp/>=<sp/>MakeObject&lt;System::Text::StringBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideComment<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>GetText()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mBuilder-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitRun(SharedPtr&lt;Run&gt;<sp/>run)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(mVisitorIsInsideComment)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Run]<sp/>\&quot;&quot;</highlight><highlight class="normal">)<sp/>+<sp/>run-&gt;get_Text()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitCommentRangeStart(SharedPtr&lt;CommentRangeStart&gt;<sp/>commentRangeStart)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Comment<sp/>range<sp/>start]<sp/>ID:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>commentRangeStart-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideComment<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitCommentRangeEnd(SharedPtr&lt;CommentRangeEnd&gt;<sp/>commentRangeEnd)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth--;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Comment<sp/>range<sp/>end]<sp/>ID:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>commentRangeEnd-&gt;get_Id()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\n&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideComment<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitCommentStart(SharedPtr&lt;Comment&gt;<sp/>comment)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;[Comment<sp/>start]<sp/>For<sp/>comment<sp/>range<sp/>ID<sp/>{0},<sp/>By<sp/>{1}<sp/>on<sp/>{2}&quot;</highlight><highlight class="normal">,<sp/>comment-&gt;get_Id(),<sp/>comment-&gt;get_Author(),<sp/>comment-&gt;get_DateTime()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideComment<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitCommentEnd(SharedPtr&lt;Comment&gt;<sp/>comment)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth--;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(u</highlight><highlight class="stringliteral">&quot;[Comment<sp/>end]&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideComment<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>mVisitorIsInsideComment;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mDocTraversalDepth;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mBuilder;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>IndentAndAppendLine(String<sp/>text)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>mDocTraversalDepth;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;Append(u</highlight><highlight class="stringliteral">&quot;|<sp/><sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(text);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::CommentRangeStart</label>
+        <link refid="class_aspose_1_1_words_1_1_comment_range_start"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::IDisplaceableByCustomXml</label>
+      </node>
+      <node id="5">
+        <label>Aspose::Words::INodeWithAnnotationId</label>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Node</label>
+        <link refid="class_aspose_1_1_words_1_1_node"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::CommentRangeStart</label>
+        <link refid="class_aspose_1_1_words_1_1_comment_range_start"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::IDisplaceableByCustomXml</label>
+      </node>
+      <node id="5">
+        <label>Aspose::Words::INodeWithAnnotationId</label>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Node</label>
+        <link refid="class_aspose_1_1_words_1_1_node"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/CommentRangeStart.h" line="212" column="1" bodyfile="Aspose.Words.Cpp/CommentRangeStart.h" bodystart="213" bodyend="818"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_comment_range_start_1a2e76e303997f8b92170afafe98452de3" prot="public" virt="virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>Accept</name></member>
+      <member refid="class_aspose_1_1_words_1_1_comment_range_start_1ab6b3f2d5ac315bee350675f5809cb02b" prot="private" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_comment_range_start_1a51e86e4b6ca100ac02a7cc05977faf3a" prot="private" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_comment_range_start_1aceb65ec285b8b09df16dc283c27ef3b5" prot="private" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>BaseType2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a81dedd9b241b09760112b5e5068f1daa" prot="public" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>Clone</name></member>
+      <member refid="class_aspose_1_1_words_1_1_comment_range_start_1a370e5c38709089e0f01f31bbb656110d" prot="public" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>CommentRangeStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_comment_range_start_1ab278e9b993a9b3b5beeff1bb867faee8" prot="private" virt="virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>CppMemberwiseClone</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a941120df17372b25f9a7127a9d9b3816" prot="public" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>get_CustomNodeId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_comment_range_start_1a198254936954985ad6368a8b2e70b57e" prot="private" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>get_DisplacedByCustomXml</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a2a69f84e3ccd323199299c999ab32d46" prot="public" virt="virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>get_Document</name></member>
+      <member refid="class_aspose_1_1_words_1_1_comment_range_start_1a474c817fe9d4053fc0f9f9dbc68a04bd" prot="public" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>get_Id</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a670ce0649c755bec895c34d7d7b4e46b" prot="public" virt="virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>get_IsComposite</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a938ff32d060619d89ecefdf57984abf8" prot="public" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>get_NextSibling</name></member>
+      <member refid="class_aspose_1_1_words_1_1_comment_range_start_1a0a1eb2a3e1befd7900e84c02b1ede76d" prot="public" virt="virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>get_NodeType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1ab9e608488885c65a2a165dea6645d15e" prot="public" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>get_ParentNode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a6013fe75e5859c54d12a87f9b97fa7f3" prot="public" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>get_PreviousSibling</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a0f8077bf80409ba331148095b95bc3e5" prot="public" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>get_Range</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a951706cfa681573e79a56204a2029e9e" prot="public" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>GetAncestor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1ae19991f4d5aa7ccb60ce6d7207495f1c" prot="public" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>GetAncestorOf</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a8fa0ad395d10ff21e0ac404c0e965007" prot="public" virt="virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>GetText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_comment_range_start_1ad3d95b247dc252f37d5ea5b4aea0f81b" prot="private" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_comment_range_start_1a4bf23de0c93f1e3b56fa84894a44a2d4" prot="private" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a4f6979e06a5914aeb37a9cb8448658a6" prot="public" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>NextPreOrder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a0e46189d6dfa7a81c8fa2e2bd2354d61" prot="public" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>NodeTypeToString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1af40f9573daf950d978d211d3e75c6a95" prot="public" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>PreviousPreOrder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a75a9cc0fda5ec9c8aaa1c4910af8f28c" prot="public" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_comment_range_start_1ae50dcfa83b1ef857b7273fa163867db6" prot="private" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a0d412cc05de7836acb92332e55eea267" prot="public" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>set_CustomNodeId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_comment_range_start_1a87c021a0b20bab0bda83d6f4d5596fe8" prot="private" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>set_DisplacedByCustomXml</name></member>
+      <member refid="class_aspose_1_1_words_1_1_comment_range_start_1abb00e00fb12d1fc9fb4e1e3988ed741c" prot="public" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>set_Id</name></member>
+      <member refid="class_aspose_1_1_words_1_1_comment_range_start_1a14690b3f23bf8aefe7ee6fd8fa6e0ae2" prot="private" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_comment_range_start_1a020cc537d1ad1afa93e592c6b3d1f8ee" prot="private" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1af7aa71ab5f185ee2463406dab7727595" prot="public" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>ToString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1ad18f64c5586b84a071957824b24426a2" prot="public" virt="non-virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>ToString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_comment_range_start_1aa85a2e027b1e0d5e3ffe3238283427db" prot="private" virt="virtual"><scope>Aspose::Words::CommentRangeStart</scope><name>~CommentRangeStart</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

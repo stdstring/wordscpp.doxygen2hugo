@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_field_bidi_outline" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::FieldBidiOutline</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field" prot="public" virt="non-virtual">Aspose::Words::Fields::Field</basecompoundref>
+    <includes refid="_field_bidi_outline_8h" local="no">Aspose.Words.Cpp/Fields/FieldBidiOutline.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_bidi_outline_1a6923a45220f4d290b7b4d3fb5b20b528" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref></type>
+        <definition>typedef Aspose::Words::Fields::Field Aspose::Words::Fields::FieldBidiOutline::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldBidiOutline::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldBidiOutline.h" line="56" column="42" bodyfile="Aspose.Words.Cpp/Fields/FieldBidiOutline.h" bodystart="56" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_bidi_outline_1a0828b7427680be46b268b403f3bc9a95" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_bidi_outline" kindref="compound">FieldBidiOutline</ref></type>
+        <definition>typedef FieldBidiOutline Aspose::Words::Fields::FieldBidiOutline::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldBidiOutline::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldBidiOutline.h" line="55" column="30" bodyfile="Aspose.Words.Cpp/Fields/FieldBidiOutline.h" bodystart="55" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_bidi_outline_1a8f82596ea2fd38388b1faeb0293e19b1" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Fields::FieldBidiOutline::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::FieldBidiOutline::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldBidiOutline.h" line="58" column="37" bodyfile="Aspose.Words.Cpp/Fields/FieldBidiOutline.h" bodystart="58" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_bidi_outline_1a42ffea3abb65b33b4146cae90c585a2a" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldBidiOutline::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::FieldBidiOutline::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldBidiOutline.h" line="59" column="5"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implements the BIDIOUTLINE field. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create right-to-left language-compatible lists with BIDIOUTLINE fields. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>BIDIOUTLINE<sp/>field<sp/>numbers<sp/>paragraphs<sp/>like<sp/>the<sp/>AUTONUM/LISTNUM<sp/>fields,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>but<sp/>is<sp/>only<sp/>visible<sp/>when<sp/>a<sp/>right-to-left<sp/>editing<sp/>language<sp/>is<sp/>enabled,<sp/>such<sp/>as<sp/>Hebrew<sp/>or<sp/>Arabic.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>following<sp/>field<sp/>will<sp/>display<sp/>&quot;.1&quot;,<sp/>the<sp/>RTL<sp/>equivalent<sp/>of<sp/>list<sp/>number<sp/>&quot;1.&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldBidiOutline&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaa66b53692c30396286dffa38967722a7" kindref="member" tooltip="Specifies the BIDIOUTLINE field.">FieldType::FieldBidiOutline</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;שלום&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>BIDIOUTLINE<sp/>&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>two<sp/>more<sp/>BIDIOUTLINE<sp/>fields,<sp/>which<sp/>will<sp/>display<sp/>&quot;.2&quot;<sp/>and<sp/>&quot;.3&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaa66b53692c30396286dffa38967722a7" kindref="member" tooltip="Specifies the BIDIOUTLINE field.">FieldType::FieldBidiOutline</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;שלום&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaa66b53692c30396286dffa38967722a7" kindref="member" tooltip="Specifies the BIDIOUTLINE field.">FieldType::FieldBidiOutline</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;שלום&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>horizontal<sp/>text<sp/>alignment<sp/>for<sp/>every<sp/>paragraph<sp/>in<sp/>the<sp/>document<sp/>to<sp/>RTL.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>para<sp/>:<sp/>System::IterateOver&lt;Paragraph&gt;(doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>para-&gt;get_ParagraphFormat()-&gt;set_Bidi(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>enable<sp/>a<sp/>right-to-left<sp/>editing<sp/>language<sp/>in<sp/>Microsoft<sp/>Word,<sp/>our<sp/>fields<sp/>will<sp/>display<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Otherwise,<sp/>they<sp/>will<sp/>display<sp/>&quot;###&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.BIDIOUTLINE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldBidiOutline</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_bidi_outline"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldBidiOutline</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_bidi_outline"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/FieldBidiOutline.h" line="53" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldBidiOutline.h" bodystart="54" bodyend="61"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_bidi_outline_1a6923a45220f4d290b7b4d3fb5b20b528" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldBidiOutline</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a5c2d01019c517ea8098f296903e37a34" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldBidiOutline</scope><name>get_DisplayResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad5f0995c85cce833806e847cf25809b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldBidiOutline</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a399c14463916724cac0015b430175589" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldBidiOutline</scope><name>get_FieldEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abc40cddc1325f7fec80d8530e5287448" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldBidiOutline</scope><name>get_FieldStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a090c5d09915e2ead6cc54fda736dd7c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldBidiOutline</scope><name>get_Format</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ae68851d4a88a1fc867d3ddee2e4e88c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldBidiOutline</scope><name>get_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afda4c46db80761545c89e21aae5b717d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldBidiOutline</scope><name>get_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a93719d071099487b6aea1eaa241dd6e8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldBidiOutline</scope><name>get_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a012c93472901dc077815970a9b2ab650" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldBidiOutline</scope><name>get_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abbc83ad66d5fb391a21980126ea96847" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldBidiOutline</scope><name>get_Separator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afa7cd5d4cf1a87b05058982f26786456" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldBidiOutline</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad68196653db5cfca30c1ba18ed44c76e" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldBidiOutline</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldBidiOutline</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa40bc0e4a5be11f0df785cc8bb2ff042" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldBidiOutline</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad26a8021af3dbdc5bf0a1360a201222f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldBidiOutline</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_bidi_outline_1a42ffea3abb65b33b4146cae90c585a2a" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldBidiOutline</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa637d825865724665fb8ed856e664d95" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldBidiOutline</scope><name>set_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ac70b125adbe7f0ba5b889280cd282c47" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldBidiOutline</scope><name>set_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a165f748dd5ba33844f1d765f6c710f88" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldBidiOutline</scope><name>set_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa6af1e900c84ae806f071098dfe8f087" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldBidiOutline</scope><name>set_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_bidi_outline_1a0828b7427680be46b268b403f3bc9a95" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldBidiOutline</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_bidi_outline_1a8f82596ea2fd38388b1faeb0293e19b1" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldBidiOutline</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab9f908becb16b26bed76d58dbcee9929" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldBidiOutline</scope><name>Unlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aaec82418b2b6493aa2827b8e282b2e82" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldBidiOutline</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a1298d7daa07c863bf97cb3f37a4d7a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldBidiOutline</scope><name>Update</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

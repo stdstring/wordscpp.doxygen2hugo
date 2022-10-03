@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_rendering_1_1_shape_renderer" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Rendering::ShapeRenderer</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base" prot="public" virt="non-virtual">Aspose::Words::Rendering::NodeRendererBase</basecompoundref>
+    <includes refid="_shape_renderer_8h" local="no">Aspose.Words.Cpp/Rendering/ShapeRenderer.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_rendering_1_1_shape_renderer_1af044c1a5180cc80ad10df3f9018da923" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base" kindref="compound">Aspose::Words::Rendering::NodeRendererBase</ref></type>
+        <definition>typedef Aspose::Words::Rendering::NodeRendererBase Aspose::Words::Rendering::ShapeRenderer::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Rendering::ShapeRenderer::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/ShapeRenderer.h" line="37" column="56" bodyfile="Aspose.Words.Cpp/Rendering/ShapeRenderer.h" bodystart="37" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_rendering_1_1_shape_renderer_1a1445f293a99186ba1e67c2737ec25039" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_rendering_1_1_shape_renderer" kindref="compound">ShapeRenderer</ref></type>
+        <definition>typedef ShapeRenderer Aspose::Words::Rendering::ShapeRenderer::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Rendering::ShapeRenderer::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/ShapeRenderer.h" line="36" column="27" bodyfile="Aspose.Words.Cpp/Rendering/ShapeRenderer.h" bodystart="36" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_rendering_1_1_shape_renderer_1a67ca5dc48c0ed898366967e537c546da" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Rendering::ShapeRenderer::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Rendering::ShapeRenderer::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/ShapeRenderer.h" line="39" column="37" bodyfile="Aspose.Words.Cpp/Rendering/ShapeRenderer.h" bodystart="39" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_shape_renderer_1aeb7eef22334b6435e53e7b6d3f35be6c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Rendering::ShapeRenderer::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Rendering::ShapeRenderer::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/ShapeRenderer.h" line="40" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_shape_renderer_1a79719fca278b1fac85714d35a8320638" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Rendering::ShapeRenderer::ShapeRenderer</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Drawing::ShapeBase &gt; &amp;shape)</argsstring>
+        <name>ShapeRenderer</name>
+        <qualifiedname>Aspose::Words::Rendering::ShapeRenderer::ShapeRenderer</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base" kindref="compound">Aspose::Words::Drawing::ShapeBase</ref> &gt; &amp;</type>
+          <declname>shape</declname>
+        </param>
+        <briefdescription>
+<para>Initializes a new instance of this class. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>shape</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The DrawinML shape object that you want to render. </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/ShapeRenderer.h" line="47" column="8"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Provides methods to render an individual <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape" kindref="compound">Shape</ref> or <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape" kindref="compound">GroupShape</ref> to a raster or vector image or to a Graphics object. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Rendering::NodeRendererBase</label>
+        <link refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Rendering::ShapeRenderer</label>
+        <link refid="class_aspose_1_1_words_1_1_rendering_1_1_shape_renderer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Rendering::NodeRendererBase</label>
+        <link refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Rendering::ShapeRenderer</label>
+        <link refid="class_aspose_1_1_words_1_1_rendering_1_1_shape_renderer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Rendering/ShapeRenderer.h" line="34" column="1" bodyfile="Aspose.Words.Cpp/Rendering/ShapeRenderer.h" bodystart="35" bodyend="51"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_shape_renderer_1af044c1a5180cc80ad10df3f9018da923" prot="private" virt="non-virtual"><scope>Aspose::Words::Rendering::ShapeRenderer</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a170426eac804aba5edd310bc106b15ae" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::ShapeRenderer</scope><name>get_BoundsInPoints</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a085e99b0033d4249cf54a6964122333b" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::ShapeRenderer</scope><name>get_OpaqueBoundsInPoints</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a29741f3e30d534db6e163c206def0372" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::ShapeRenderer</scope><name>get_SizeInPoints</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1ac744188e67c8572372978c159d8e11ef" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::ShapeRenderer</scope><name>GetBoundsInPixels</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a31998ab716d8cd7ab4fb6ca16c75c063" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::ShapeRenderer</scope><name>GetBoundsInPixels</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a81835566c9fb1f97f9a9c1b99a87a705" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::ShapeRenderer</scope><name>GetOpaqueBoundsInPixels</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a41627c04bb81c05be89ee8d279a3c490" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::ShapeRenderer</scope><name>GetOpaqueBoundsInPixels</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a3584bc103bc95061a9202861d128a59e" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::ShapeRenderer</scope><name>GetSizeInPixels</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1adb105cb9920c90a2fd5787720bfc371a" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::ShapeRenderer</scope><name>GetSizeInPixels</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a54c7dc4e469052972b2244cf52f7b311" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::ShapeRenderer</scope><name>NodeRendererBase</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a49d291af2e22c038f0b0733705f16d45" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::ShapeRenderer</scope><name>RenderToScale</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a2e6865d81ce7332a801398c16b9fb7a2" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::ShapeRenderer</scope><name>RenderToSize</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_shape_renderer_1aeb7eef22334b6435e53e7b6d3f35be6c" prot="private" virt="non-virtual"><scope>Aspose::Words::Rendering::ShapeRenderer</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a734e17d22caf48cb7627e453c160917b" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::ShapeRenderer</scope><name>Save</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1ac001f2b6db7fa79c65a69d15990d0bfc" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::ShapeRenderer</scope><name>Save</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a3cc920392b90fb8da500dc8db12b794e" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::ShapeRenderer</scope><name>Save</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_shape_renderer_1a79719fca278b1fac85714d35a8320638" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::ShapeRenderer</scope><name>ShapeRenderer</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_shape_renderer_1a1445f293a99186ba1e67c2737ec25039" prot="private" virt="non-virtual"><scope>Aspose::Words::Rendering::ShapeRenderer</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_shape_renderer_1a67ca5dc48c0ed898366967e537c546da" prot="private" virt="non-virtual"><scope>Aspose::Words::Rendering::ShapeRenderer</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

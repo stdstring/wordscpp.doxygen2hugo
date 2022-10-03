@@ -1,0 +1,519 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_field_char" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::FieldChar</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_special_char" prot="public" virt="non-virtual">Aspose::Words::SpecialChar</basecompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field_end" prot="public" virt="non-virtual">Aspose::Words::Fields::FieldEnd</derivedcompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field_separator" prot="public" virt="non-virtual">Aspose::Words::Fields::FieldSeparator</derivedcompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field_start" prot="public" virt="non-virtual">Aspose::Words::Fields::FieldStart</derivedcompoundref>
+    <includes refid="_field_char_8h" local="no">Aspose.Words.Cpp/Fields/FieldChar.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_char_1a06ecb63b73186f1ffbab59b061cb3e65" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_special_char" kindref="compound">Aspose::Words::SpecialChar</ref></type>
+        <definition>typedef Aspose::Words::SpecialChar Aspose::Words::Fields::FieldChar::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldChar::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldChar.h" line="80" column="40" bodyfile="Aspose.Words.Cpp/Fields/FieldChar.h" bodystart="80" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_char_1a103e1f4595d4bd4395914c90f34dd053" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_char" kindref="compound">FieldChar</ref></type>
+        <definition>typedef FieldChar Aspose::Words::Fields::FieldChar::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldChar::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldChar.h" line="79" column="23" bodyfile="Aspose.Words.Cpp/Fields/FieldChar.h" bodystart="79" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_char_1a6ebd33f9ecd336d73056b8e2448fe2c2" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_special_char" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Fields::FieldChar::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::FieldChar::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldChar.h" line="82" column="37" bodyfile="Aspose.Words.Cpp/Fields/FieldChar.h" bodystart="82" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_field_char_1ac12548b7042a0facdd64b35cd68d8de3" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Fields::FieldChar::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Fields::FieldChar::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldChar.h" line="222" column="23" bodyfile="Aspose.Words.Cpp/Fields/FieldChar.h" bodystart="222" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_field_char_1a508a731aa3e092fefe03dbedc36d1240" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Fields::FieldChar::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Fields::FieldChar::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldChar.h" line="223" column="23" bodyfile="Aspose.Words.Cpp/Fields/FieldChar.h" bodystart="223" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_field_char_1af692ea64390d6725391efb4bd5f7e992" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Fields::FieldChar::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Fields::FieldChar::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldChar.h" line="224" column="23" bodyfile="Aspose.Words.Cpp/Fields/FieldChar.h" bodystart="224" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_field_char_1ad6bece04ffdbba286d132247b760a6d1" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Fields::FieldChar::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Fields::FieldChar::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldChar.h" line="225" column="23" bodyfile="Aspose.Words.Cpp/Fields/FieldChar.h" bodystart="225" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_char_1a415ec377156bbec8bb8cf9c7e20ee91d" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Fields::FieldChar::~FieldChar</definition>
+        <argsstring>()</argsstring>
+        <name>~FieldChar</name>
+        <qualifiedname>Aspose::Words::Fields::FieldChar::~FieldChar</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldChar.h" line="218" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_char_1aaa91ace953a2b925437e8358d589309d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldChar::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::FieldChar::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldChar.h" line="83" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_char_1a1766753378fd78bcd49bb034c3ab8f05" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edec" kindref="member">Aspose::Words::Fields::FieldType</ref></type>
+        <definition>Aspose::Words::Fields::FieldType Aspose::Words::Fields::FieldChar::get_FieldType</definition>
+        <argsstring>() const</argsstring>
+        <name>get_FieldType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldChar::get_FieldType</qualifiedname>
+        <briefdescription>
+<para>Returns the type of the field. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with a <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_start" kindref="compound">FieldStart</ref> node. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldDate&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca971f227975af74a7cd530642031cb487" kindref="member" tooltip="Specifies the DATE field.">FieldType::FieldDate</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;get_Format()-&gt;set_DateTimeFormat(u</highlight><highlight class="stringliteral">&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldChar&gt;<sp/>fieldStart<sp/>=<sp/>field-&gt;get_Start();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca971f227975af74a7cd530642031cb487" kindref="member" tooltip="Specifies the DATE field.">FieldType::FieldDate</ref>,<sp/>fieldStart-&gt;get_FieldType());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>fieldStart-&gt;get_IsDirty());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>fieldStart-&gt;get_IsLocked());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Retrieve<sp/>the<sp/>facade<sp/>object<sp/>which<sp/>represents<sp/>the<sp/>field<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDate&gt;(fieldStart-&gt;GetField());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>field-&gt;get_IsLocked());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DATE<sp/><sp/>\\@<sp/>\&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy\&quot;&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Update<sp/>the<sp/>field<sp/>to<sp/>show<sp/>the<sp/>current<sp/>date.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldChar.h" line="115" column="41"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_char_1a364b32a2ae295e80932ba4df7a6bb0a2" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldChar::get_IsDirty</definition>
+        <argsstring>() const</argsstring>
+        <name>get_IsDirty</name>
+        <qualifiedname>Aspose::Words::Fields::FieldChar::get_IsDirty</qualifiedname>
+        <briefdescription>
+<para>Gets or sets whether the current result of the field is no longer correct (stale) due to other modifications made to the document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with a <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_start" kindref="compound">FieldStart</ref> node. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldDate&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca971f227975af74a7cd530642031cb487" kindref="member" tooltip="Specifies the DATE field.">FieldType::FieldDate</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;get_Format()-&gt;set_DateTimeFormat(u</highlight><highlight class="stringliteral">&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldChar&gt;<sp/>fieldStart<sp/>=<sp/>field-&gt;get_Start();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca971f227975af74a7cd530642031cb487" kindref="member" tooltip="Specifies the DATE field.">FieldType::FieldDate</ref>,<sp/>fieldStart-&gt;get_FieldType());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>fieldStart-&gt;get_IsDirty());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>fieldStart-&gt;get_IsLocked());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Retrieve<sp/>the<sp/>facade<sp/>object<sp/>which<sp/>represents<sp/>the<sp/>field<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDate&gt;(fieldStart-&gt;GetField());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>field-&gt;get_IsLocked());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DATE<sp/><sp/>\\@<sp/>\&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy\&quot;&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Update<sp/>the<sp/>field<sp/>to<sp/>show<sp/>the<sp/>current<sp/>date.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldChar.h" line="179" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_char_1a3932af05d20e8ff85d2f6f2bc749f204" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldChar::get_IsLocked</definition>
+        <argsstring>() const</argsstring>
+        <name>get_IsLocked</name>
+        <qualifiedname>Aspose::Words::Fields::FieldChar::get_IsLocked</qualifiedname>
+        <briefdescription>
+<para>Gets or sets whether the parent field is locked (should not recalculate its result). </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with a <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_start" kindref="compound">FieldStart</ref> node. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldDate&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca971f227975af74a7cd530642031cb487" kindref="member" tooltip="Specifies the DATE field.">FieldType::FieldDate</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;get_Format()-&gt;set_DateTimeFormat(u</highlight><highlight class="stringliteral">&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldChar&gt;<sp/>fieldStart<sp/>=<sp/>field-&gt;get_Start();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca971f227975af74a7cd530642031cb487" kindref="member" tooltip="Specifies the DATE field.">FieldType::FieldDate</ref>,<sp/>fieldStart-&gt;get_FieldType());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>fieldStart-&gt;get_IsDirty());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>fieldStart-&gt;get_IsLocked());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Retrieve<sp/>the<sp/>facade<sp/>object<sp/>which<sp/>represents<sp/>the<sp/>field<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDate&gt;(fieldStart-&gt;GetField());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>field-&gt;get_IsLocked());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DATE<sp/><sp/>\\@<sp/>\&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy\&quot;&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Update<sp/>the<sp/>field<sp/>to<sp/>show<sp/>the<sp/>current<sp/>date.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldChar.h" line="145" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_char_1a8aa05ba8bac0c5561cbe4ae25bd75900" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::Field &gt; Aspose::Words::Fields::FieldChar::GetField</definition>
+        <argsstring>()</argsstring>
+        <name>GetField</name>
+        <qualifiedname>Aspose::Words::Fields::FieldChar::GetField</qualifiedname>
+        <briefdescription>
+<para>Returns a field for the field char. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>A field for the field char.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with a <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_start" kindref="compound">FieldStart</ref> node. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldDate&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca971f227975af74a7cd530642031cb487" kindref="member" tooltip="Specifies the DATE field.">FieldType::FieldDate</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;get_Format()-&gt;set_DateTimeFormat(u</highlight><highlight class="stringliteral">&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldChar&gt;<sp/>fieldStart<sp/>=<sp/>field-&gt;get_Start();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca971f227975af74a7cd530642031cb487" kindref="member" tooltip="Specifies the DATE field.">FieldType::FieldDate</ref>,<sp/>fieldStart-&gt;get_FieldType());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>fieldStart-&gt;get_IsDirty());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>fieldStart-&gt;get_IsLocked());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Retrieve<sp/>the<sp/>facade<sp/>object<sp/>which<sp/>represents<sp/>the<sp/>field<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDate&gt;(fieldStart-&gt;GetField());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>field-&gt;get_IsLocked());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DATE<sp/><sp/>\\@<sp/>\&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy\&quot;&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Update<sp/>the<sp/>field<sp/>to<sp/>show<sp/>the<sp/>current<sp/>date.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldChar.h" line="214" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_char_1ab2a38e0ebb06adf1f14235e63bc8607e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldChar::set_IsDirty</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_IsDirty</name>
+        <qualifiedname>Aspose::Words::Fields::FieldChar::set_IsDirty</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_char_1a364b32a2ae295e80932ba4df7a6bb0a2" kindref="member">Aspose::Words::Fields::FieldChar::get_IsDirty</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldChar.h" line="182" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_char_1a7802154415be7fed62674b855a6cf51a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldChar::set_IsLocked</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_IsLocked</name>
+        <qualifiedname>Aspose::Words::Fields::FieldChar::set_IsLocked</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_char_1a3932af05d20e8ff85d2f6f2bc749f204" kindref="member">Aspose::Words::Fields::FieldChar::get_IsLocked</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldChar.h" line="148" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Base class for nodes that represent field characters in a document. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>A complete field in a Microsoft Word document is a complex structure consisting of a field start character, field code, field separator character, field result and field end character. Some fields only have field start, field code and field end.</para>
+<para>To easily insert a new field into a document, use the <ref refid="" kindref="compound">InsertField()</ref> method.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_start" kindref="compound">Aspose::Words::Fields::FieldStart</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_separator" kindref="compound">Aspose::Words::Fields::FieldSeparator</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_end" kindref="compound">Aspose::Words::Fields::FieldEnd</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with a <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_start" kindref="compound">FieldStart</ref> node. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldDate&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca971f227975af74a7cd530642031cb487" kindref="member" tooltip="Specifies the DATE field.">FieldType::FieldDate</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;get_Format()-&gt;set_DateTimeFormat(u</highlight><highlight class="stringliteral">&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldChar&gt;<sp/>fieldStart<sp/>=<sp/>field-&gt;get_Start();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca971f227975af74a7cd530642031cb487" kindref="member" tooltip="Specifies the DATE field.">FieldType::FieldDate</ref>,<sp/>fieldStart-&gt;get_FieldType());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>fieldStart-&gt;get_IsDirty());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>fieldStart-&gt;get_IsLocked());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Retrieve<sp/>the<sp/>facade<sp/>object<sp/>which<sp/>represents<sp/>the<sp/>field<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDate&gt;(fieldStart-&gt;GetField());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>field-&gt;get_IsLocked());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DATE<sp/><sp/>\\@<sp/>\&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy\&quot;&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Update<sp/>the<sp/>field<sp/>to<sp/>show<sp/>the<sp/>current<sp/>date.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldChar</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_char"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>Aspose::Words::Fields::FieldEnd</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_end"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="9">
+        <label>Aspose::Words::Fields::FieldSeparator</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_separator"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="10">
+        <label>Aspose::Words::Fields::FieldStart</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_start"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>Aspose::Words::IInline</label>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::Inline</label>
+        <link refid="class_aspose_1_1_words_1_1_inline"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Node</label>
+        <link refid="class_aspose_1_1_words_1_1_node"/>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>Aspose::Words::Revisions::ITrackableNode</label>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::SpecialChar</label>
+        <link refid="class_aspose_1_1_words_1_1_special_char"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldChar</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_char"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>Aspose::Words::IInline</label>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::Inline</label>
+        <link refid="class_aspose_1_1_words_1_1_inline"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Node</label>
+        <link refid="class_aspose_1_1_words_1_1_node"/>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>Aspose::Words::Revisions::ITrackableNode</label>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::SpecialChar</label>
+        <link refid="class_aspose_1_1_words_1_1_special_char"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/FieldChar.h" line="77" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldChar.h" bodystart="78" bodyend="227"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_special_char_1a182be4ec7effb9b2833f61c60710e472" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>Accept</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_char_1a06ecb63b73186f1ffbab59b061cb3e65" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a81dedd9b241b09760112b5e5068f1daa" prot="public" virt="non-virtual" ambiguityscope="Aspose::Words::Node::"><scope>Aspose::Words::Fields::FieldChar</scope><name>Clone</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a941120df17372b25f9a7127a9d9b3816" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>get_CustomNodeId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a2a69f84e3ccd323199299c999ab32d46" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>get_Document</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_char_1a1766753378fd78bcd49bb034c3ab8f05" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>get_FieldType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_inline_1a82fffea44646d5acccb4d90637917283" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>get_Font</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a670ce0649c755bec895c34d7d7b4e46b" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>get_IsComposite</name></member>
+      <member refid="class_aspose_1_1_words_1_1_inline_1ad0beb416cfbf3364084abe0f4953449d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>get_IsDeleteRevision</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_char_1a364b32a2ae295e80932ba4df7a6bb0a2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>get_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_inline_1a0f5429ed420b09883de9df99220f5f91" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>get_IsFormatRevision</name></member>
+      <member refid="class_aspose_1_1_words_1_1_inline_1a79d947ed19ffc663dd04cc94dc661ad2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>get_IsInsertRevision</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_char_1a3932af05d20e8ff85d2f6f2bc749f204" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>get_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_inline_1acfa4632236f4caf0c744fa5b50be94d2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>get_IsMoveFromRevision</name></member>
+      <member refid="class_aspose_1_1_words_1_1_inline_1a11ebb4b8566fe5952a5d671445aa33a4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>get_IsMoveToRevision</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a938ff32d060619d89ecefdf57984abf8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>get_NextSibling</name></member>
+      <member refid="class_aspose_1_1_words_1_1_special_char_1a6e9df6da5e2fba06885e9cda96156954" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>get_NodeType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1ab9e608488885c65a2a165dea6645d15e" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>get_ParentNode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_inline_1a876a68e54181d8aa4e61f5020e69028c" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>get_ParentParagraph</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a6013fe75e5859c54d12a87f9b97fa7f3" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>get_PreviousSibling</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a0f8077bf80409ba331148095b95bc3e5" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>get_Range</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a951706cfa681573e79a56204a2029e9e" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>GetAncestor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1ae19991f4d5aa7ccb60ce6d7207495f1c" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>GetAncestorOf</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_char_1a8aa05ba8bac0c5561cbe4ae25bd75900" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>GetField</name></member>
+      <member refid="class_aspose_1_1_words_1_1_special_char_1a699e9579deaf607e2da76eeb001d2784" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>GetText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_char_1ac12548b7042a0facdd64b35cd68d8de3" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_char_1a508a731aa3e092fefe03dbedc36d1240" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_char_1af692ea64390d6725391efb4bd5f7e992" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_char_1ad6bece04ffdbba286d132247b760a6d1" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a4f6979e06a5914aeb37a9cb8448658a6" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>NextPreOrder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a0e46189d6dfa7a81c8fa2e2bd2354d61" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>NodeTypeToString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1af40f9573daf950d978d211d3e75c6a95" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>PreviousPreOrder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a75a9cc0fda5ec9c8aaa1c4910af8f28c" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_char_1aaa91ace953a2b925437e8358d589309d" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a0d412cc05de7836acb92332e55eea267" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>set_CustomNodeId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_char_1ab2a38e0ebb06adf1f14235e63bc8607e" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>set_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_char_1a7802154415be7fed62674b855a6cf51a" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>set_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_char_1a103e1f4595d4bd4395914c90f34dd053" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_char_1a6ebd33f9ecd336d73056b8e2448fe2c2" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1af7aa71ab5f185ee2463406dab7727595" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>ToString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1ad18f64c5586b84a071957824b24426a2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>ToString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_char_1a415ec377156bbec8bb8cf9c7e20ee91d" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldChar</scope><name>~FieldChar</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

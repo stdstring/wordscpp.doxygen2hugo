@@ -1,0 +1,691 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_shading" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Shading</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_internable_complex_attr" prot="public" virt="non-virtual">Aspose::Words::InternableComplexAttr</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::IComplexAttr</basecompoundref>
+    <includes refid="_shading_8h" local="no">Aspose.Words.Cpp/Shading.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_shading_1a042015ce214b823d4690380267ba571d" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_internable_complex_attr" kindref="compound">Aspose::Words::InternableComplexAttr</ref></type>
+        <definition>typedef Aspose::Words::InternableComplexAttr Aspose::Words::Shading::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Shading::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="93" column="50" bodyfile="Aspose.Words.Cpp/Shading.h" bodystart="93" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_shading_1af9cdb0f2e1b670e23424fbf3df31212c" prot="private" static="no">
+        <type>Aspose::Words::IComplexAttr</type>
+        <definition>typedef Aspose::Words::IComplexAttr Aspose::Words::Shading::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Shading::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="94" column="41" bodyfile="Aspose.Words.Cpp/Shading.h" bodystart="94" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_shading_1a42aa83da7dc999721a0f1762b6d7ed42" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_shading" kindref="compound">Shading</ref></type>
+        <definition>typedef Shading Aspose::Words::Shading::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Shading::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="92" column="21" bodyfile="Aspose.Words.Cpp/Shading.h" bodystart="92" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_shading_1a7d1de279411f4dee42a5e03584ab4a57" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_internable_complex_attr" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Shading::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Shading::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="96" column="37" bodyfile="Aspose.Words.Cpp/Shading.h" bodystart="96" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_shading_1a98e46d60f9a77d531f987442e4f4b5e9" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::Shading::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Shading::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="272" column="21" bodyfile="Aspose.Words.Cpp/Shading.h" bodystart="272" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_shading_1aec8d12beebb19790953c5a0131e508a6" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Shading::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Shading::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="273" column="23" bodyfile="Aspose.Words.Cpp/Shading.h" bodystart="273" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_shading_1af887be820ab0056ccf4893736e23a5c3" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Shading::mField10</definition>
+        <argsstring></argsstring>
+        <name>mField10</name>
+        <qualifiedname>Aspose::Words::Shading::mField10</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="282" column="20" bodyfile="Aspose.Words.Cpp/Shading.h" bodystart="282" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_shading_1af15af3040f8abb0c2e4a31a3e7795954" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Shading::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Shading::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="274" column="23" bodyfile="Aspose.Words.Cpp/Shading.h" bodystart="274" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_shading_1a066bd1050c22076bb56e1516c0f28c36" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Shading::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Shading::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="275" column="23" bodyfile="Aspose.Words.Cpp/Shading.h" bodystart="275" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_shading_1ad4392e3e777149edc7aeec773a8edbee" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Shading::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Shading::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="276" column="23" bodyfile="Aspose.Words.Cpp/Shading.h" bodystart="276" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_shading_1a59f9b65b44c63bc1734c0478ebfe0401" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Shading::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::Shading::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="277" column="20" bodyfile="Aspose.Words.Cpp/Shading.h" bodystart="277" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_shading_1ab6e657e20c757f724ee1cee4422708bd" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Shading::mField6</definition>
+        <argsstring></argsstring>
+        <name>mField6</name>
+        <qualifiedname>Aspose::Words::Shading::mField6</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="278" column="20" bodyfile="Aspose.Words.Cpp/Shading.h" bodystart="278" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_shading_1a0f4aa8980c4e62478d2707b02e1006f5" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Shading::mField7</definition>
+        <argsstring></argsstring>
+        <name>mField7</name>
+        <qualifiedname>Aspose::Words::Shading::mField7</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="279" column="20" bodyfile="Aspose.Words.Cpp/Shading.h" bodystart="279" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_shading_1ac40e366407c3f7a993e38e9d332a0ea1" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Shading::mField8</definition>
+        <argsstring></argsstring>
+        <name>mField8</name>
+        <qualifiedname>Aspose::Words::Shading::mField8</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="280" column="20" bodyfile="Aspose.Words.Cpp/Shading.h" bodystart="280" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_shading_1af89f020a36acbacfb14140f157ed24b8" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Shading::mField9</definition>
+        <argsstring></argsstring>
+        <name>mField9</name>
+        <qualifiedname>Aspose::Words::Shading::mField9</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="281" column="20" bodyfile="Aspose.Words.Cpp/Shading.h" bodystart="281" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_shading_1aed9f68e15b6e0a6d0ff971e9af812bd0" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Shading::Shading</definition>
+        <argsstring>()</argsstring>
+        <name>Shading</name>
+        <qualifiedname>Aspose::Words::Shading::Shading</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="264" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_shading_1ac5adef85ab755e8284b29dcd3deb1853" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Shading::~Shading</definition>
+        <argsstring>()</argsstring>
+        <name>~Shading</name>
+        <qualifiedname>Aspose::Words::Shading::~Shading</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="266" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_shading_1afa074de4071fc2a8527ec51b4239c657" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Shading::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Shading::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="97" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_shading_1a5c7dfbdf848cd541ab13414298bd9f84" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Shading::ClearFormatting</definition>
+        <argsstring>()</argsstring>
+        <name>ClearFormatting</name>
+        <qualifiedname>Aspose::Words::Shading::ClearFormatting</qualifiedname>
+        <briefdescription>
+<para>Removes shading from the object. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to build a table with custom borders. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Setting<sp/>table<sp/>formatting<sp/>options<sp/>for<sp/>a<sp/>document<sp/>builder</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>will<sp/>apply<sp/>them<sp/>to<sp/>every<sp/>row<sp/>and<sp/>cell<sp/>that<sp/>we<sp/>add<sp/>with<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1ae0fabf27a56cdd6988da762600dd9007a4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is centered horizontally.">ParagraphAlignment::Center</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;ClearFormatting();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_Width(150);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_VerticalAlignment(CellVerticalAlignment::Center);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a186a4a03d76eeba314f392f91da04011" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_GreenYellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_WrapText(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_FitText(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;ClearFormatting();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;set_HeightRule(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccba32f01c1611a4a80b752afe034a7210a5" kindref="member" tooltip="The height is specified exactly in points. Please note that if the text cannot fit inside the object ...">HeightRule::Exactly</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;set_Height(50);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dafd80474b6c09afcb4bedd1a3bdab0b83" kindref="member">LineStyle::Engrave3D</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Row<sp/>1,<sp/>Col<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Row<sp/>1,<sp/>Col<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Changing<sp/>the<sp/>formatting<sp/>will<sp/>apply<sp/>it<sp/>to<sp/>the<sp/>current<sp/>cell,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>any<sp/>new<sp/>cells<sp/>that<sp/>we<sp/>create<sp/>with<sp/>the<sp/>builder<sp/>afterward.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>will<sp/>not<sp/>affect<sp/>the<sp/>cells<sp/>that<sp/>we<sp/>have<sp/>added<sp/>previously.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;ClearFormatting();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Row<sp/>2,<sp/>Col<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Row<sp/>2,<sp/>Col<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Increase<sp/>row<sp/>height<sp/>to<sp/>fit<sp/>the<sp/>vertical<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;set_Height(150);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_Orientation(<ref refid="namespace_aspose_1_1_words_1a22518c6919e497447ac00018a4f45394a2fad4fd9e0a2737fdcac5ff87ffe403c" kindref="member" tooltip="Text is rotated 90 degrees to the left to appear from bottom to top (bt-lr).">TextOrientation::Upward</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Row<sp/>3,<sp/>Col<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_Orientation(<ref refid="namespace_aspose_1_1_words_1a22518c6919e497447ac00018a4f45394a021f1340f5979a4f4f9642940221ad53" kindref="member" tooltip="Text is rotated 90 degrees to the right to appear from top to bottom (tb-rl).">TextOrientation::Downward</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Row<sp/>3,<sp/>Col<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBuilder.InsertTable.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="251" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_shading_1af45ef7bfb0e4959bc1e74ed622494e28" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Shading::Equals</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Shading &gt; &amp;rhs)</argsstring>
+        <name>Equals</name>
+        <qualifiedname>Aspose::Words::Shading::Equals</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_shading" kindref="compound">Aspose::Words::Shading</ref> &gt; &amp;</type>
+          <declname>rhs</declname>
+        </param>
+        <briefdescription>
+<para>Determines whether the specified <ref refid="class_aspose_1_1_words_1_1_shading" kindref="compound">Shading</ref> is equal in value to the current <ref refid="class_aspose_1_1_words_1_1_shading" kindref="compound">Shading</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="254" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_shading_1ac361600cc2e0a476d96ad1e162a97894" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Shading::Equals</definition>
+        <argsstring>(System::SharedPtr&lt; System::Object &gt; obj) override</argsstring>
+        <name>Equals</name>
+        <qualifiedname>Aspose::Words::Shading::Equals</qualifiedname>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+<para>Determines whether the specified object is equal in value to the current object. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="257" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_shading_1a695fff1b54761dc6a23554d9bee9cdcc" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+        <definition>System::Drawing::Color Aspose::Words::Shading::get_BackgroundPatternColor</definition>
+        <argsstring>()</argsstring>
+        <name>get_BackgroundPatternColor</name>
+        <qualifiedname>Aspose::Words::Shading::get_BackgroundPatternColor</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the color that&apos;s applied to the background of the <ref refid="class_aspose_1_1_words_1_1_shading" kindref="compound">Shading</ref> object. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to decorate text with borders and shading. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;BorderCollection&gt;<sp/>borders<sp/>=<sp/>builder-&gt;get_ParagraphFormat()-&gt;get_Borders();</highlight></codeline>
+<codeline><highlight class="normal">borders-&gt;set_DistanceFromText(20);</highlight></codeline>
+<codeline><highlight class="normal">borders-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54a945d5e233cf7d6240f6b783b36a374ff" kindref="member" tooltip="Specifies the left border of a paragraph or a table cell.">BorderType::Left</ref>)-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dad909d38d705ce75386dd86e611a82f5b" kindref="member">LineStyle::Double</ref>);</highlight></codeline>
+<codeline><highlight class="normal">borders-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54a92b09c7c48c520c3c55e497875da437c" kindref="member" tooltip="Specifies the right border of a paragraph or a table cell.">BorderType::Right</ref>)-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dad909d38d705ce75386dd86e611a82f5b" kindref="member">LineStyle::Double</ref>);</highlight></codeline>
+<codeline><highlight class="normal">borders-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54aa4ffdcf0dc1f31b9acaf295d75b51d00" kindref="member" tooltip="Specifies the top border of a paragraph or a table cell.">BorderType::Top</ref>)-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dad909d38d705ce75386dd86e611a82f5b" kindref="member">LineStyle::Double</ref>);</highlight></codeline>
+<codeline><highlight class="normal">borders-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54a2ad9d63b69c4a10a5cc9cad923133bc4" kindref="member" tooltip="Specifies the bottom border of a paragraph or a table cell.">BorderType::Bottom</ref>)-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dad909d38d705ce75386dd86e611a82f5b" kindref="member">LineStyle::Double</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shading&gt;<sp/>shading<sp/>=<sp/>builder-&gt;get_ParagraphFormat()-&gt;get_Shading();</highlight></codeline>
+<codeline><highlight class="normal">shading-&gt;set_Texture(<ref refid="namespace_aspose_1_1_words_1af4457ef004db1cfbdfafbaea990d3674a1827a4bf8c6aa5527c075110473e2b05" kindref="member">TextureIndex::TextureDiagonalCross</ref>);</highlight></codeline>
+<codeline><highlight class="normal">shading-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1ac05f5d8b24e1d3b83e2550e61b1eb3f7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightCoral</ref>());</highlight></codeline>
+<codeline><highlight class="normal">shading-&gt;set_ForegroundPatternColor(<ref refid="class/system.drawing.color/_1a3b99013db35f14f1ede42c93a2543596" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightSalmon</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>is<sp/>formatted<sp/>with<sp/>a<sp/>double<sp/>border<sp/>and<sp/>shading.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBuilder.ApplyBordersAndShading.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="125" column="31"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_shading_1ada4fe7a0dc137966d0a20af98f4cb08d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+        <definition>System::Drawing::Color Aspose::Words::Shading::get_ForegroundPatternColor</definition>
+        <argsstring>()</argsstring>
+        <name>get_ForegroundPatternColor</name>
+        <qualifiedname>Aspose::Words::Shading::get_ForegroundPatternColor</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the color that&apos;s applied to the foreground of the <ref refid="class_aspose_1_1_words_1_1_shading" kindref="compound">Shading</ref> object. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to decorate text with borders and shading. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;BorderCollection&gt;<sp/>borders<sp/>=<sp/>builder-&gt;get_ParagraphFormat()-&gt;get_Borders();</highlight></codeline>
+<codeline><highlight class="normal">borders-&gt;set_DistanceFromText(20);</highlight></codeline>
+<codeline><highlight class="normal">borders-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54a945d5e233cf7d6240f6b783b36a374ff" kindref="member" tooltip="Specifies the left border of a paragraph or a table cell.">BorderType::Left</ref>)-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dad909d38d705ce75386dd86e611a82f5b" kindref="member">LineStyle::Double</ref>);</highlight></codeline>
+<codeline><highlight class="normal">borders-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54a92b09c7c48c520c3c55e497875da437c" kindref="member" tooltip="Specifies the right border of a paragraph or a table cell.">BorderType::Right</ref>)-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dad909d38d705ce75386dd86e611a82f5b" kindref="member">LineStyle::Double</ref>);</highlight></codeline>
+<codeline><highlight class="normal">borders-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54aa4ffdcf0dc1f31b9acaf295d75b51d00" kindref="member" tooltip="Specifies the top border of a paragraph or a table cell.">BorderType::Top</ref>)-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dad909d38d705ce75386dd86e611a82f5b" kindref="member">LineStyle::Double</ref>);</highlight></codeline>
+<codeline><highlight class="normal">borders-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54a2ad9d63b69c4a10a5cc9cad923133bc4" kindref="member" tooltip="Specifies the bottom border of a paragraph or a table cell.">BorderType::Bottom</ref>)-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dad909d38d705ce75386dd86e611a82f5b" kindref="member">LineStyle::Double</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shading&gt;<sp/>shading<sp/>=<sp/>builder-&gt;get_ParagraphFormat()-&gt;get_Shading();</highlight></codeline>
+<codeline><highlight class="normal">shading-&gt;set_Texture(<ref refid="namespace_aspose_1_1_words_1af4457ef004db1cfbdfafbaea990d3674a1827a4bf8c6aa5527c075110473e2b05" kindref="member">TextureIndex::TextureDiagonalCross</ref>);</highlight></codeline>
+<codeline><highlight class="normal">shading-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1ac05f5d8b24e1d3b83e2550e61b1eb3f7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightCoral</ref>());</highlight></codeline>
+<codeline><highlight class="normal">shading-&gt;set_ForegroundPatternColor(<ref refid="class/system.drawing.color/_1a3b99013db35f14f1ede42c93a2543596" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightSalmon</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>is<sp/>formatted<sp/>with<sp/>a<sp/>double<sp/>border<sp/>and<sp/>shading.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBuilder.ApplyBordersAndShading.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="154" column="31"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_shading_1afc923888178ede425877731b73bfdee6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1af4457ef004db1cfbdfafbaea990d3674" kindref="member">Aspose::Words::TextureIndex</ref></type>
+        <definition>Aspose::Words::TextureIndex Aspose::Words::Shading::get_Texture</definition>
+        <argsstring>()</argsstring>
+        <name>get_Texture</name>
+        <qualifiedname>Aspose::Words::Shading::get_Texture</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the shading texture. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to decorate text with borders and shading. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;BorderCollection&gt;<sp/>borders<sp/>=<sp/>builder-&gt;get_ParagraphFormat()-&gt;get_Borders();</highlight></codeline>
+<codeline><highlight class="normal">borders-&gt;set_DistanceFromText(20);</highlight></codeline>
+<codeline><highlight class="normal">borders-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54a945d5e233cf7d6240f6b783b36a374ff" kindref="member" tooltip="Specifies the left border of a paragraph or a table cell.">BorderType::Left</ref>)-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dad909d38d705ce75386dd86e611a82f5b" kindref="member">LineStyle::Double</ref>);</highlight></codeline>
+<codeline><highlight class="normal">borders-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54a92b09c7c48c520c3c55e497875da437c" kindref="member" tooltip="Specifies the right border of a paragraph or a table cell.">BorderType::Right</ref>)-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dad909d38d705ce75386dd86e611a82f5b" kindref="member">LineStyle::Double</ref>);</highlight></codeline>
+<codeline><highlight class="normal">borders-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54aa4ffdcf0dc1f31b9acaf295d75b51d00" kindref="member" tooltip="Specifies the top border of a paragraph or a table cell.">BorderType::Top</ref>)-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dad909d38d705ce75386dd86e611a82f5b" kindref="member">LineStyle::Double</ref>);</highlight></codeline>
+<codeline><highlight class="normal">borders-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54a2ad9d63b69c4a10a5cc9cad923133bc4" kindref="member" tooltip="Specifies the bottom border of a paragraph or a table cell.">BorderType::Bottom</ref>)-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dad909d38d705ce75386dd86e611a82f5b" kindref="member">LineStyle::Double</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shading&gt;<sp/>shading<sp/>=<sp/>builder-&gt;get_ParagraphFormat()-&gt;get_Shading();</highlight></codeline>
+<codeline><highlight class="normal">shading-&gt;set_Texture(<ref refid="namespace_aspose_1_1_words_1af4457ef004db1cfbdfafbaea990d3674a1827a4bf8c6aa5527c075110473e2b05" kindref="member">TextureIndex::TextureDiagonalCross</ref>);</highlight></codeline>
+<codeline><highlight class="normal">shading-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1ac05f5d8b24e1d3b83e2550e61b1eb3f7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightCoral</ref>());</highlight></codeline>
+<codeline><highlight class="normal">shading-&gt;set_ForegroundPatternColor(<ref refid="class/system.drawing.color/_1a3b99013db35f14f1ede42c93a2543596" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightSalmon</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>is<sp/>formatted<sp/>with<sp/>a<sp/>double<sp/>border<sp/>and<sp/>shading.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBuilder.ApplyBordersAndShading.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="183" column="36"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_shading_1ab8e56b4c59b07cc1f66e37a1c52f5106" prot="public" static="no" const="yes" explicit="no" inline="no" virt="virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Shading::GetHashCode</definition>
+        <argsstring>() const override</argsstring>
+        <name>GetHashCode</name>
+        <qualifiedname>Aspose::Words::Shading::GetHashCode</qualifiedname>
+        <reimplements refid="class/system.object/_1a00ddaaa824a71dbaa2b3a0f688d044a9">GetHashCode</reimplements>
+        <briefdescription>
+<para>Serves as a hash function for this type. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="260" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_shading_1a296e4b357509da5934f10444efb4f6b8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Shading::set_BackgroundPatternColor</definition>
+        <argsstring>(System::Drawing::Color value)</argsstring>
+        <name>set_BackgroundPatternColor</name>
+        <qualifiedname>Aspose::Words::Shading::set_BackgroundPatternColor</qualifiedname>
+        <param>
+          <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_shading_1a695fff1b54761dc6a23554d9bee9cdcc" kindref="member">Aspose::Words::Shading::get_BackgroundPatternColor</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="128" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_shading_1abc2b85c97baf6d3242cc5a11da83e456" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Shading::set_ForegroundPatternColor</definition>
+        <argsstring>(System::Drawing::Color value)</argsstring>
+        <name>set_ForegroundPatternColor</name>
+        <qualifiedname>Aspose::Words::Shading::set_ForegroundPatternColor</qualifiedname>
+        <param>
+          <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_shading_1ada4fe7a0dc137966d0a20af98f4cb08d" kindref="member">Aspose::Words::Shading::get_ForegroundPatternColor</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="157" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_shading_1a0bec0cb82b50ba9c8b340b3108b95edf" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Shading::set_Texture</definition>
+        <argsstring>(Aspose::Words::TextureIndex value)</argsstring>
+        <name>set_Texture</name>
+        <qualifiedname>Aspose::Words::Shading::set_Texture</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1af4457ef004db1cfbdfafbaea990d3674" kindref="member">Aspose::Words::TextureIndex</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_shading_1afc923888178ede425877731b73bfdee6" kindref="member">Aspose::Words::Shading::get_Texture</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Shading.h" line="186" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Contains shading attributes for an object. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to apply border and shading color while building a table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Start<sp/>a<sp/>table<sp/>and<sp/>set<sp/>a<sp/>default<sp/>color/thickness<sp/>for<sp/>its<sp/>borders.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">table-&gt;SetBorders(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da66ba162102bbf6ae31b522aec561735e" kindref="member">LineStyle::Single</ref>,<sp/>2.0,<sp/><ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>row<sp/>with<sp/>two<sp/>cells<sp/>with<sp/>different<sp/>background<sp/>colors.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1ac66bac3caa0b1d1637307ace3972b140" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightSkyBlue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Row<sp/>1,<sp/>Cell<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a8c00b1d8ade4eff88b5bf0e054650dd0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Orange</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Row<sp/>1,<sp/>Cell<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Reset<sp/>cell<sp/>formatting<sp/>to<sp/>disable<sp/>the<sp/>background<sp/>colors</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>set<sp/>a<sp/>custom<sp/>border<sp/>thickness<sp/>for<sp/>all<sp/>new<sp/>cells<sp/>created<sp/>by<sp/>the<sp/>builder,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>then<sp/>build<sp/>a<sp/>second<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;ClearFormatting();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Borders()-&gt;get_Left()-&gt;set_LineWidth(4.0);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Borders()-&gt;get_Right()-&gt;set_LineWidth(4.0);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Borders()-&gt;get_Top()-&gt;set_LineWidth(4.0);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;get_Borders()-&gt;get_Bottom()-&gt;set_LineWidth(4.0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Row<sp/>2,<sp/>Cell<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Row<sp/>2,<sp/>Cell<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBuilder.TableBordersAndShading.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to decorate text with borders and shading. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;BorderCollection&gt;<sp/>borders<sp/>=<sp/>builder-&gt;get_ParagraphFormat()-&gt;get_Borders();</highlight></codeline>
+<codeline><highlight class="normal">borders-&gt;set_DistanceFromText(20);</highlight></codeline>
+<codeline><highlight class="normal">borders-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54a945d5e233cf7d6240f6b783b36a374ff" kindref="member" tooltip="Specifies the left border of a paragraph or a table cell.">BorderType::Left</ref>)-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dad909d38d705ce75386dd86e611a82f5b" kindref="member">LineStyle::Double</ref>);</highlight></codeline>
+<codeline><highlight class="normal">borders-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54a92b09c7c48c520c3c55e497875da437c" kindref="member" tooltip="Specifies the right border of a paragraph or a table cell.">BorderType::Right</ref>)-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dad909d38d705ce75386dd86e611a82f5b" kindref="member">LineStyle::Double</ref>);</highlight></codeline>
+<codeline><highlight class="normal">borders-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54aa4ffdcf0dc1f31b9acaf295d75b51d00" kindref="member" tooltip="Specifies the top border of a paragraph or a table cell.">BorderType::Top</ref>)-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dad909d38d705ce75386dd86e611a82f5b" kindref="member">LineStyle::Double</ref>);</highlight></codeline>
+<codeline><highlight class="normal">borders-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54a2ad9d63b69c4a10a5cc9cad923133bc4" kindref="member" tooltip="Specifies the bottom border of a paragraph or a table cell.">BorderType::Bottom</ref>)-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dad909d38d705ce75386dd86e611a82f5b" kindref="member">LineStyle::Double</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shading&gt;<sp/>shading<sp/>=<sp/>builder-&gt;get_ParagraphFormat()-&gt;get_Shading();</highlight></codeline>
+<codeline><highlight class="normal">shading-&gt;set_Texture(<ref refid="namespace_aspose_1_1_words_1af4457ef004db1cfbdfafbaea990d3674a1827a4bf8c6aa5527c075110473e2b05" kindref="member">TextureIndex::TextureDiagonalCross</ref>);</highlight></codeline>
+<codeline><highlight class="normal">shading-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1ac05f5d8b24e1d3b83e2550e61b1eb3f7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightCoral</ref>());</highlight></codeline>
+<codeline><highlight class="normal">shading-&gt;set_ForegroundPatternColor(<ref refid="class/system.drawing.color/_1a3b99013db35f14f1ede42c93a2543596" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightSalmon</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>is<sp/>formatted<sp/>with<sp/>a<sp/>double<sp/>border<sp/>and<sp/>shading.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBuilder.ApplyBordersAndShading.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="4">
+        <label>Aspose::Words::IComplexAttr</label>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::InternableComplexAttr</label>
+        <link refid="class_aspose_1_1_words_1_1_internable_complex_attr"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Shading</label>
+        <link refid="class_aspose_1_1_words_1_1_shading"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="4">
+        <label>Aspose::Words::IComplexAttr</label>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::InternableComplexAttr</label>
+        <link refid="class_aspose_1_1_words_1_1_internable_complex_attr"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Shading</label>
+        <link refid="class_aspose_1_1_words_1_1_shading"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Shading.h" line="90" column="1" bodyfile="Aspose.Words.Cpp/Shading.h" bodystart="91" bodyend="286"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_shading_1a042015ce214b823d4690380267ba571d" prot="private" virt="non-virtual"><scope>Aspose::Words::Shading</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1af9cdb0f2e1b670e23424fbf3df31212c" prot="private" virt="non-virtual"><scope>Aspose::Words::Shading</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1a5c7dfbdf848cd541ab13414298bd9f84" prot="public" virt="non-virtual"><scope>Aspose::Words::Shading</scope><name>ClearFormatting</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1af45ef7bfb0e4959bc1e74ed622494e28" prot="public" virt="non-virtual"><scope>Aspose::Words::Shading</scope><name>Equals</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1ac361600cc2e0a476d96ad1e162a97894" prot="public" virt="non-virtual"><scope>Aspose::Words::Shading</scope><name>Equals</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1a695fff1b54761dc6a23554d9bee9cdcc" prot="public" virt="non-virtual"><scope>Aspose::Words::Shading</scope><name>get_BackgroundPatternColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1ada4fe7a0dc137966d0a20af98f4cb08d" prot="public" virt="non-virtual"><scope>Aspose::Words::Shading</scope><name>get_ForegroundPatternColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1afc923888178ede425877731b73bfdee6" prot="public" virt="non-virtual"><scope>Aspose::Words::Shading</scope><name>get_Texture</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1ab8e56b4c59b07cc1f66e37a1c52f5106" prot="public" virt="virtual"><scope>Aspose::Words::Shading</scope><name>GetHashCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1a98e46d60f9a77d531f987442e4f4b5e9" prot="private" virt="non-virtual"><scope>Aspose::Words::Shading</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1aec8d12beebb19790953c5a0131e508a6" prot="private" virt="non-virtual"><scope>Aspose::Words::Shading</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1af887be820ab0056ccf4893736e23a5c3" prot="private" virt="non-virtual"><scope>Aspose::Words::Shading</scope><name>mField10</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1af15af3040f8abb0c2e4a31a3e7795954" prot="private" virt="non-virtual"><scope>Aspose::Words::Shading</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1a066bd1050c22076bb56e1516c0f28c36" prot="private" virt="non-virtual"><scope>Aspose::Words::Shading</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1ad4392e3e777149edc7aeec773a8edbee" prot="private" virt="non-virtual"><scope>Aspose::Words::Shading</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1a59f9b65b44c63bc1734c0478ebfe0401" prot="private" virt="non-virtual"><scope>Aspose::Words::Shading</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1ab6e657e20c757f724ee1cee4422708bd" prot="private" virt="non-virtual"><scope>Aspose::Words::Shading</scope><name>mField6</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1a0f4aa8980c4e62478d2707b02e1006f5" prot="private" virt="non-virtual"><scope>Aspose::Words::Shading</scope><name>mField7</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1ac40e366407c3f7a993e38e9d332a0ea1" prot="private" virt="non-virtual"><scope>Aspose::Words::Shading</scope><name>mField8</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1af89f020a36acbacfb14140f157ed24b8" prot="private" virt="non-virtual"><scope>Aspose::Words::Shading</scope><name>mField9</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1afa074de4071fc2a8527ec51b4239c657" prot="private" virt="non-virtual"><scope>Aspose::Words::Shading</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1a296e4b357509da5934f10444efb4f6b8" prot="public" virt="non-virtual"><scope>Aspose::Words::Shading</scope><name>set_BackgroundPatternColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1abc2b85c97baf6d3242cc5a11da83e456" prot="public" virt="non-virtual"><scope>Aspose::Words::Shading</scope><name>set_ForegroundPatternColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1a0bec0cb82b50ba9c8b340b3108b95edf" prot="public" virt="non-virtual"><scope>Aspose::Words::Shading</scope><name>set_Texture</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1aed9f68e15b6e0a6d0ff971e9af812bd0" prot="private" virt="non-virtual"><scope>Aspose::Words::Shading</scope><name>Shading</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1a42aa83da7dc999721a0f1762b6d7ed42" prot="private" virt="non-virtual"><scope>Aspose::Words::Shading</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1a7d1de279411f4dee42a5e03584ab4a57" prot="private" virt="non-virtual"><scope>Aspose::Words::Shading</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_shading_1ac5adef85ab755e8284b29dcd3deb1853" prot="private" virt="virtual"><scope>Aspose::Words::Shading</scope><name>~Shading</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

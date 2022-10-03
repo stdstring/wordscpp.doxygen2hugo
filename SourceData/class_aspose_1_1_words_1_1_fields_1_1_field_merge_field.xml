@@ -1,0 +1,654 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::FieldMergeField</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field" prot="public" virt="non-virtual">Aspose::Words::Fields::Field</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IFieldCodeTokenInfoProvider</basecompoundref>
+    <includes refid="_field_merge_field_8h" local="no">Aspose.Words.Cpp/Fields/FieldMergeField.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a877f807ee8cab663582301eaeae373ea" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref></type>
+        <definition>typedef Aspose::Words::Fields::Field Aspose::Words::Fields::FieldMergeField::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="60" column="42" bodyfile="Aspose.Words.Cpp/Fields/FieldMergeField.h" bodystart="60" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a4bff66f4ca03f550117c31a57d821c5f" prot="private" static="no">
+        <type>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</type>
+        <definition>typedef Aspose::Words::Fields::IFieldCodeTokenInfoProvider Aspose::Words::Fields::FieldMergeField::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="61" column="64" bodyfile="Aspose.Words.Cpp/Fields/FieldMergeField.h" bodystart="61" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="enum" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a84bf9e169f17f2f91cb3bb90185b4377" prot="private" static="no" strong="yes">
+        <type></type>
+        <name>MergeFieldType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::MergeFieldType</qualifiedname>
+        <enumvalue id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a84bf9e169f17f2f91cb3bb90185b4377ad13bc5b68b2bd9e18f29777db17cc563" prot="private">
+          <name>Common</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a84bf9e169f17f2f91cb3bb90185b4377abe53a0541a6d36f6ecb879fa2c584b08" prot="private">
+          <name>Image</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a84bf9e169f17f2f91cb3bb90185b4377ab93eaef026c32ad9b73e53ba24a5875e" prot="private">
+          <name>Barcode</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a84bf9e169f17f2f91cb3bb90185b4377a7f7ece0f31d6d17e4921575d60dd6b40" prot="private">
+          <name>RegionStart</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a84bf9e169f17f2f91cb3bb90185b4377a886bd8060dc806a42a50ee5931979c0a" prot="private">
+          <name>RegionEnd</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>MergeFieldType enumeration. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="69" column="5" bodyfile="Aspose.Words.Cpp/Fields/FieldMergeField.h" bodystart="70" bodyend="76"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a47c08dcbaac83beb291500f9d409f52c" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field" kindref="compound">FieldMergeField</ref></type>
+        <definition>typedef FieldMergeField Aspose::Words::Fields::FieldMergeField::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="59" column="29" bodyfile="Aspose.Words.Cpp/Fields/FieldMergeField.h" bodystart="59" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a1814c7fb2d6e86f9067d7406571601f6" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Fields::FieldMergeField::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="63" column="37" bodyfile="Aspose.Words.Cpp/Fields/FieldMergeField.h" bodystart="63" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a240cd1e9b23537f0f52f998fd5b19911" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldMergeField::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="131" column="20" bodyfile="Aspose.Words.Cpp/Fields/FieldMergeField.h" bodystart="131" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a71b49ee4da238213058f89214fd19463" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldMergeField::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="133" column="20" bodyfile="Aspose.Words.Cpp/Fields/FieldMergeField.h" bodystart="133" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1af748e7797e11d56d3d4532caddbd2d13" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Fields::FieldMergeField::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="135" column="23" bodyfile="Aspose.Words.Cpp/Fields/FieldMergeField.h" bodystart="135" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a2108404c841483f98bbc35fae45acc3c" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Fields::FieldMergeField::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="136" column="23" bodyfile="Aspose.Words.Cpp/Fields/FieldMergeField.h" bodystart="136" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1ad5b3bd533e986a2b5a4c6b5621d962e0" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fields::FieldMergeField::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="137" column="23" bodyfile="Aspose.Words.Cpp/Fields/FieldMergeField.h" bodystart="137" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a25d5af801909bde4321e8daf81195ce0" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fields::FieldMergeField::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="138" column="23" bodyfile="Aspose.Words.Cpp/Fields/FieldMergeField.h" bodystart="138" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1ad09c069d54591bad3c90ffdd5fdc11d8" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldMergeField::FieldMergeField</definition>
+        <argsstring>()</argsstring>
+        <name>FieldMergeField</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::FieldMergeField</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="118" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a0614f329d5d0d7b7769a562e366c2827" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Fields::FieldMergeField::~FieldMergeField</definition>
+        <argsstring>()</argsstring>
+        <name>~FieldMergeField</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::~FieldMergeField</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="127" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a406639622b48e91038d218fe67c4a6d7" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldMergeField::EndUpdate</definition>
+        <argsstring>() override</argsstring>
+        <name>EndUpdate</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::EndUpdate</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a6e14601b83c997736fcdecb55bcafdb3">EndUpdate</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="124" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a175ed61438844613e52fef4f49d1abb8" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Bidi::IBidiParagraphLevelOverride &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Bidi::IBidiParagraphLevelOverride &gt; Aspose::Words::Fields::FieldMergeField::GetBidiParagraphLevelOverride</definition>
+        <argsstring>() override</argsstring>
+        <name>GetBidiParagraphLevelOverride</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::GetBidiParagraphLevelOverride</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab9dae9f00016d302428b0e284c0198fd">GetBidiParagraphLevelOverride</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="125" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a293d9b4164449d583313fe09e3de4d7e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>Aspose::Words::Fields::FieldSwitchType</type>
+        <definition>Aspose::Words::Fields::FieldSwitchType Aspose::Words::Fields::FieldMergeField::GetSwitchType</definition>
+        <argsstring>(System::String) override</argsstring>
+        <name>GetSwitchType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::GetSwitchType</qualifiedname>
+        <param>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="140" column="44"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a4576937dd479d08196a29592f229c2ec" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldMergeField::Initialize</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::Fields::FieldStart &gt;, System::SharedPtr&lt; Aspose::Words::Fields::FieldSeparator &gt;, System::SharedPtr&lt; Aspose::Words::Fields::FieldEnd &gt;) override</argsstring>
+        <name>Initialize</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::Initialize</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab53ef8533b2f7220e8ea664367f8a601">Initialize</reimplements>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_start" kindref="compound">Aspose::Words::Fields::FieldStart</ref> &gt;</type>
+        </param>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_separator" kindref="compound">Aspose::Words::Fields::FieldSeparator</ref> &gt;</type>
+        </param>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_end" kindref="compound">Aspose::Words::Fields::FieldEnd</ref> &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="120" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a89e9ba33d263ac949d7c9cc497e637ff" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldMergeField::ParseFieldCode</definition>
+        <argsstring>() override</argsstring>
+        <name>ParseFieldCode</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::ParseFieldCode</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afd175a349099f9cae71188f36b6666d0">ParseFieldCode</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="121" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a14fb1ca70c4150419d9c06d8b01c62c2" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldMergeField::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="64" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a41f8e43aeb3a0376f34b3b735a32ecbd" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldUpdateAction &gt; Aspose::Words::Fields::FieldMergeField::UpdateCore</definition>
+        <argsstring>() override</argsstring>
+        <name>UpdateCore</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::UpdateCore</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afd2f4d29a84550a38375396538654ab8">UpdateCore</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="123" column="26"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1acd546696c51693e1d4266c9c96c782fe" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldMergeField::get_FieldName</definition>
+        <argsstring>()</argsstring>
+        <name>get_FieldName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::get_FieldName</qualifiedname>
+        <briefdescription>
+<para>Gets the name of a data field. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="87" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1ad86fbdb70e2bfa4fdeee410ce6c9105e" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldMergeField::get_FieldNameNoPrefix</definition>
+        <argsstring>() const</argsstring>
+        <name>get_FieldNameNoPrefix</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::get_FieldNameNoPrefix</qualifiedname>
+        <briefdescription>
+<para>Returns just the name of the data field. Any prefix is stripped to the prefix property. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="84" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a368332d21e4980e8becc0e69d9ac1527" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldMergeField::get_IsMapped</definition>
+        <argsstring>()</argsstring>
+        <name>get_IsMapped</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::get_IsMapped</qualifiedname>
+        <briefdescription>
+<para>Gets whether this field is a mapped field. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="105" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1aec8e659107d72652d7bd2bc2d80795a0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldMergeField::get_IsVerticalFormatting</definition>
+        <argsstring>()</argsstring>
+        <name>get_IsVerticalFormatting</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::get_IsVerticalFormatting</qualifiedname>
+        <briefdescription>
+<para>Gets whether to enable character conversion for vertical formatting. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="111" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1aa8409b782b8d34c8ee43c0ad10858c19" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldMergeField::get_TextAfter</definition>
+        <argsstring>()</argsstring>
+        <name>get_TextAfter</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::get_TextAfter</qualifiedname>
+        <briefdescription>
+<para>Gets the text to be inserted after the field if the field is not blank. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="99" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a6bd45fd1328fdf4fe3e7e9a3c196902e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldMergeField::get_TextBefore</definition>
+        <argsstring>()</argsstring>
+        <name>get_TextBefore</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::get_TextBefore</qualifiedname>
+        <briefdescription>
+<para>Gets the text to be inserted before the field if the field is not blank. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="93" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1ab46d6829c186785be80df35b07076ddf" prot="public" static="no" const="yes" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edec" kindref="member">Aspose::Words::Fields::FieldType</ref></type>
+        <definition>Aspose::Words::Fields::FieldType Aspose::Words::Fields::FieldMergeField::get_Type</definition>
+        <argsstring>() const override</argsstring>
+        <name>get_Type</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::get_Type</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad68196653db5cfca30c1ba18ed44c76e">get_Type</reimplements>
+        <briefdescription>
+<para>Gets the Microsoft Word field type. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="81" column="41"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a023e198e873da3d826b520a93a041e12" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldMergeField::set_FieldName</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_FieldName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::set_FieldName</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets the name of a data field. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="90" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a303566ba5e55fd8f53570cdbafe2d3a7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldMergeField::set_IsMapped</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_IsMapped</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::set_IsMapped</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets whether this field is a mapped field. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="108" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1af16b73a47dbd7865090eb5c2e62ecb7e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldMergeField::set_IsVerticalFormatting</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_IsVerticalFormatting</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::set_IsVerticalFormatting</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets whether to enable character conversion for vertical formatting. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="114" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1aee11a71ecb5f838d0f38c0a1609e6e33" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldMergeField::set_TextAfter</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_TextAfter</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::set_TextAfter</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets the text to be inserted after the field if the field is not blank. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="102" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a41d29a869dfea887ebf453313b9d571f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldMergeField::set_TextBefore</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_TextBefore</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeField::set_TextBefore</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets the text to be inserted before the field if the field is not blank. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="96" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implements the MERGEFIELD field. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldMergeField</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldMergeField</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/FieldMergeField.h" line="57" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldMergeField.h" bodystart="58" bodyend="144"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a877f807ee8cab663582301eaeae373ea" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a4bff66f4ca03f550117c31a57d821c5f" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a406639622b48e91038d218fe67c4a6d7" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>EndUpdate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1ad09c069d54591bad3c90ffdd5fdc11d8" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>FieldMergeField</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a5c2d01019c517ea8098f296903e37a34" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>get_DisplayResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad5f0995c85cce833806e847cf25809b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a399c14463916724cac0015b430175589" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>get_FieldEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1acd546696c51693e1d4266c9c96c782fe" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>get_FieldName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1ad86fbdb70e2bfa4fdeee410ce6c9105e" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>get_FieldNameNoPrefix</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abc40cddc1325f7fec80d8530e5287448" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>get_FieldStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a090c5d09915e2ead6cc54fda736dd7c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>get_Format</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ae68851d4a88a1fc867d3ddee2e4e88c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>get_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afda4c46db80761545c89e21aae5b717d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>get_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a368332d21e4980e8becc0e69d9ac1527" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>get_IsMapped</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1aec8e659107d72652d7bd2bc2d80795a0" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>get_IsVerticalFormatting</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a93719d071099487b6aea1eaa241dd6e8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>get_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a012c93472901dc077815970a9b2ab650" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>get_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abbc83ad66d5fb391a21980126ea96847" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>get_Separator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afa7cd5d4cf1a87b05058982f26786456" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1aa8409b782b8d34c8ee43c0ad10858c19" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>get_TextAfter</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a6bd45fd1328fdf4fe3e7e9a3c196902e" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>get_TextBefore</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1ab46d6829c186785be80df35b07076ddf" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a175ed61438844613e52fef4f49d1abb8" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>GetBidiParagraphLevelOverride</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa40bc0e4a5be11f0df785cc8bb2ff042" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a293d9b4164449d583313fe09e3de4d7e" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>GetSwitchType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a4576937dd479d08196a29592f229c2ec" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>Initialize</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a84bf9e169f17f2f91cb3bb90185b4377" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>MergeFieldType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a240cd1e9b23537f0f52f998fd5b19911" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a71b49ee4da238213058f89214fd19463" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1af748e7797e11d56d3d4532caddbd2d13" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a2108404c841483f98bbc35fae45acc3c" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1ad5b3bd533e986a2b5a4c6b5621d962e0" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a25d5af801909bde4321e8daf81195ce0" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a89e9ba33d263ac949d7c9cc497e637ff" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>ParseFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad26a8021af3dbdc5bf0a1360a201222f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a14fb1ca70c4150419d9c06d8b01c62c2" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a023e198e873da3d826b520a93a041e12" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>set_FieldName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa637d825865724665fb8ed856e664d95" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>set_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ac70b125adbe7f0ba5b889280cd282c47" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>set_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a303566ba5e55fd8f53570cdbafe2d3a7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>set_IsMapped</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1af16b73a47dbd7865090eb5c2e62ecb7e" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>set_IsVerticalFormatting</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a165f748dd5ba33844f1d765f6c710f88" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>set_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa6af1e900c84ae806f071098dfe8f087" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>set_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1aee11a71ecb5f838d0f38c0a1609e6e33" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>set_TextAfter</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a41d29a869dfea887ebf453313b9d571f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>set_TextBefore</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a47c08dcbaac83beb291500f9d409f52c" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a1814c7fb2d6e86f9067d7406571601f6" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab9f908becb16b26bed76d58dbcee9929" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>Unlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aaec82418b2b6493aa2827b8e282b2e82" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a1298d7daa07c863bf97cb3f37a4d7a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a41f8e43aeb3a0376f34b3b735a32ecbd" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>UpdateCore</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field_1a0614f329d5d0d7b7769a562e366c2827" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldMergeField</scope><name>~FieldMergeField</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

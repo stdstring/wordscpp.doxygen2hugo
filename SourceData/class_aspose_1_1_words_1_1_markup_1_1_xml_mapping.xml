@@ -1,0 +1,599 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Markup::XmlMapping</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_xml_mapping_8h" local="no">Aspose.Words.Cpp/Markup/XmlMapping.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1a431199f0ffbdab9a1f663dbaf68ad934" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Markup::XmlMapping::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Markup::XmlMapping::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/XmlMapping.h" line="86" column="28" bodyfile="Aspose.Words.Cpp/Markup/XmlMapping.h" bodystart="86" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1a0fa0cf759b6c312a4f84d1f41db22da5" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping" kindref="compound">XmlMapping</ref></type>
+        <definition>typedef XmlMapping Aspose::Words::Markup::XmlMapping::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Markup::XmlMapping::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/XmlMapping.h" line="85" column="24" bodyfile="Aspose.Words.Cpp/Markup/XmlMapping.h" bodystart="85" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1a96c3f2ff22421e388c379e492a3e191e" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Markup::XmlMapping::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Markup::XmlMapping::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/XmlMapping.h" line="88" column="37" bodyfile="Aspose.Words.Cpp/Markup/XmlMapping.h" bodystart="88" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1ad1126a85ab2beec2a2d497fbe2c1269d" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Markup::XmlMapping::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Markup::XmlMapping::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/XmlMapping.h" line="359" column="20" bodyfile="Aspose.Words.Cpp/Markup/XmlMapping.h" bodystart="359" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1ad1495f82d87921d575dfb7106571f39e" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Markup::XmlMapping::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Markup::XmlMapping::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/XmlMapping.h" line="361" column="20" bodyfile="Aspose.Words.Cpp/Markup/XmlMapping.h" bodystart="361" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1af7e1fe8b694cf116e5647535b748a338" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Markup::XmlMapping::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Markup::XmlMapping::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/XmlMapping.h" line="362" column="20" bodyfile="Aspose.Words.Cpp/Markup/XmlMapping.h" bodystart="362" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1a3322a8ed7cc9124ba69d321add34c80f" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Markup::XmlMapping::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Markup::XmlMapping::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/XmlMapping.h" line="363" column="20" bodyfile="Aspose.Words.Cpp/Markup/XmlMapping.h" bodystart="363" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1a9c3777c2413c8328a63b05e718a8d193" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Markup::XmlMapping::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Markup::XmlMapping::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/XmlMapping.h" line="364" column="23" bodyfile="Aspose.Words.Cpp/Markup/XmlMapping.h" bodystart="364" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1a5edf874cc7e12f2130228f2b457086d8" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::Markup::XmlMapping::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::Markup::XmlMapping::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/XmlMapping.h" line="365" column="21" bodyfile="Aspose.Words.Cpp/Markup/XmlMapping.h" bodystart="365" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1a9202bd2ae51a8196a70a9733fa4b785d" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Markup::XmlMapping::~XmlMapping</definition>
+        <argsstring>()</argsstring>
+        <name>~XmlMapping</name>
+        <qualifiedname>Aspose::Words::Markup::XmlMapping::~XmlMapping</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/XmlMapping.h" line="355" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1a69bee4f65dad9bdfef56f95a49281b8c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Markup::XmlMapping::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Markup::XmlMapping::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/XmlMapping.h" line="89" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1a3ab67fa77a332b0c1ff06137f6dbec1a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Markup::XmlMapping::Delete</definition>
+        <argsstring>()</argsstring>
+        <name>Delete</name>
+        <qualifiedname>Aspose::Words::Markup::XmlMapping::Delete</qualifiedname>
+        <briefdescription>
+<para>Deletes mapping of the parent structured document to XML data. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set XML mappings for custom XML parts. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Construct<sp/>an<sp/>XML<sp/>part<sp/>that<sp/>contains<sp/>text<sp/>and<sp/>add<sp/>it<sp/>to<sp/>the<sp/>document&apos;s<sp/>CustomXmlPart<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartId<sp/>=<sp/><ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>().ToString(u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartContent<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;root&gt;&lt;text&gt;Text<sp/>element<sp/>#1&lt;/text&gt;&lt;text&gt;Text<sp/>element<sp/>#2&lt;/text&gt;&lt;/root&gt;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlPart&gt;<sp/>xmlPart<sp/>=<sp/>doc-&gt;get_CustomXmlParts()-&gt;Add(xmlPartId,<sp/>xmlPartContent);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;&lt;root&gt;&lt;text&gt;Text<sp/>element<sp/>#1&lt;/text&gt;&lt;text&gt;Text<sp/>element<sp/>#2&lt;/text&gt;&lt;/root&gt;&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.text.encoding/_1a95985d0da959aa35a89574de5fb4bfd8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_UTF8</ref>()-&gt;GetString(xmlPart-&gt;get_Data()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>structured<sp/>document<sp/>tag<sp/>that<sp/>will<sp/>display<sp/>the<sp/>contents<sp/>of<sp/>our<sp/>CustomXmlPart.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tag<sp/>=<sp/>MakeObject&lt;StructuredDocumentTag&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7ab7ebbf7f254ef646928dd58f62383a85" kindref="member" tooltip="The SDT represents a plain text box when displayed in the document.">SdtType::PlainText</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a57672f3522526bfeb73e0b7539583751ae1e4c8c9ccd9fc39c391da4bcd093fb2" kindref="member" tooltip="The element occurs at the block level (e.g. among tables and paragraphs).">MarkupLevel::Block</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>mapping<sp/>for<sp/>our<sp/>structured<sp/>document<sp/>tag.<sp/>This<sp/>mapping<sp/>will<sp/>instruct</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>our<sp/>structured<sp/>document<sp/>tag<sp/>to<sp/>display<sp/>a<sp/>portion<sp/>of<sp/>the<sp/>XML<sp/>part&apos;s<sp/>text<sp/>contents<sp/>that<sp/>the<sp/>XPath<sp/>points<sp/>to.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>it<sp/>will<sp/>be<sp/>contents<sp/>of<sp/>the<sp/>the<sp/>second<sp/>&quot;&lt;text&gt;&quot;<sp/>element<sp/>of<sp/>the<sp/>first<sp/>&quot;&lt;root&gt;&quot;<sp/>element:<sp/>&quot;Text<sp/>element<sp/>#2&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tag-&gt;get_XmlMapping()-&gt;SetMapping(xmlPart,<sp/>u</highlight><highlight class="stringliteral">&quot;/root[1]/text[2]&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;xmlns:ns=&apos;http://www.w3.org/2001/XMLSchema&apos;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(tag-&gt;get_XmlMapping()-&gt;get_IsMapped());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(xmlPart,<sp/>tag-&gt;get_XmlMapping()-&gt;get_CustomXmlPart());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;/root[1]/text[2]&quot;</highlight><highlight class="normal">,<sp/>tag-&gt;get_XmlMapping()-&gt;get_XPath());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;xmlns:ns=&apos;http://www.w3.org/2001/XMLSchema&apos;&quot;</highlight><highlight class="normal">,<sp/>tag-&gt;get_XmlMapping()-&gt;get_PrefixMappings());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>the<sp/>structured<sp/>document<sp/>tag<sp/>to<sp/>the<sp/>document<sp/>to<sp/>display<sp/>the<sp/>content<sp/>from<sp/>our<sp/>custom<sp/>part.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;AppendChild(tag);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;StructuredDocumentTag.XmlMapping.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/XmlMapping.h" line="351" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1aa213d86c3e884a96b6b666f907806878" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_part" kindref="compound">Aspose::Words::Markup::CustomXmlPart</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Markup::CustomXmlPart &gt; Aspose::Words::Markup::XmlMapping::get_CustomXmlPart</definition>
+        <argsstring>()</argsstring>
+        <name>get_CustomXmlPart</name>
+        <qualifiedname>Aspose::Words::Markup::XmlMapping::get_CustomXmlPart</qualifiedname>
+        <briefdescription>
+<para>Returns the custom XML data part to which the parent structured document tag is mapped. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set XML mappings for custom XML parts. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Construct<sp/>an<sp/>XML<sp/>part<sp/>that<sp/>contains<sp/>text<sp/>and<sp/>add<sp/>it<sp/>to<sp/>the<sp/>document&apos;s<sp/>CustomXmlPart<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartId<sp/>=<sp/><ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>().ToString(u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartContent<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;root&gt;&lt;text&gt;Text<sp/>element<sp/>#1&lt;/text&gt;&lt;text&gt;Text<sp/>element<sp/>#2&lt;/text&gt;&lt;/root&gt;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlPart&gt;<sp/>xmlPart<sp/>=<sp/>doc-&gt;get_CustomXmlParts()-&gt;Add(xmlPartId,<sp/>xmlPartContent);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;&lt;root&gt;&lt;text&gt;Text<sp/>element<sp/>#1&lt;/text&gt;&lt;text&gt;Text<sp/>element<sp/>#2&lt;/text&gt;&lt;/root&gt;&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.text.encoding/_1a95985d0da959aa35a89574de5fb4bfd8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_UTF8</ref>()-&gt;GetString(xmlPart-&gt;get_Data()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>structured<sp/>document<sp/>tag<sp/>that<sp/>will<sp/>display<sp/>the<sp/>contents<sp/>of<sp/>our<sp/>CustomXmlPart.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tag<sp/>=<sp/>MakeObject&lt;StructuredDocumentTag&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7ab7ebbf7f254ef646928dd58f62383a85" kindref="member" tooltip="The SDT represents a plain text box when displayed in the document.">SdtType::PlainText</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a57672f3522526bfeb73e0b7539583751ae1e4c8c9ccd9fc39c391da4bcd093fb2" kindref="member" tooltip="The element occurs at the block level (e.g. among tables and paragraphs).">MarkupLevel::Block</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>mapping<sp/>for<sp/>our<sp/>structured<sp/>document<sp/>tag.<sp/>This<sp/>mapping<sp/>will<sp/>instruct</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>our<sp/>structured<sp/>document<sp/>tag<sp/>to<sp/>display<sp/>a<sp/>portion<sp/>of<sp/>the<sp/>XML<sp/>part&apos;s<sp/>text<sp/>contents<sp/>that<sp/>the<sp/>XPath<sp/>points<sp/>to.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>it<sp/>will<sp/>be<sp/>contents<sp/>of<sp/>the<sp/>the<sp/>second<sp/>&quot;&lt;text&gt;&quot;<sp/>element<sp/>of<sp/>the<sp/>first<sp/>&quot;&lt;root&gt;&quot;<sp/>element:<sp/>&quot;Text<sp/>element<sp/>#2&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tag-&gt;get_XmlMapping()-&gt;SetMapping(xmlPart,<sp/>u</highlight><highlight class="stringliteral">&quot;/root[1]/text[2]&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;xmlns:ns=&apos;http://www.w3.org/2001/XMLSchema&apos;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(tag-&gt;get_XmlMapping()-&gt;get_IsMapped());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(xmlPart,<sp/>tag-&gt;get_XmlMapping()-&gt;get_CustomXmlPart());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;/root[1]/text[2]&quot;</highlight><highlight class="normal">,<sp/>tag-&gt;get_XmlMapping()-&gt;get_XPath());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;xmlns:ns=&apos;http://www.w3.org/2001/XMLSchema&apos;&quot;</highlight><highlight class="normal">,<sp/>tag-&gt;get_XmlMapping()-&gt;get_PrefixMappings());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>the<sp/>structured<sp/>document<sp/>tag<sp/>to<sp/>the<sp/>document<sp/>to<sp/>display<sp/>the<sp/>content<sp/>from<sp/>our<sp/>custom<sp/>part.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;AppendChild(tag);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;StructuredDocumentTag.XmlMapping.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/XmlMapping.h" line="194" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1addd5241159e8ebf50f03ef486fac7c82" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Markup::XmlMapping::get_IsMapped</definition>
+        <argsstring>()</argsstring>
+        <name>get_IsMapped</name>
+        <qualifiedname>Aspose::Words::Markup::XmlMapping::get_IsMapped</qualifiedname>
+        <briefdescription>
+<para>Returns <bold>true</bold> if the parent structured document tag is successfully mapped to XML data. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set XML mappings for custom XML parts. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Construct<sp/>an<sp/>XML<sp/>part<sp/>that<sp/>contains<sp/>text<sp/>and<sp/>add<sp/>it<sp/>to<sp/>the<sp/>document&apos;s<sp/>CustomXmlPart<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartId<sp/>=<sp/><ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>().ToString(u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartContent<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;root&gt;&lt;text&gt;Text<sp/>element<sp/>#1&lt;/text&gt;&lt;text&gt;Text<sp/>element<sp/>#2&lt;/text&gt;&lt;/root&gt;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlPart&gt;<sp/>xmlPart<sp/>=<sp/>doc-&gt;get_CustomXmlParts()-&gt;Add(xmlPartId,<sp/>xmlPartContent);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;&lt;root&gt;&lt;text&gt;Text<sp/>element<sp/>#1&lt;/text&gt;&lt;text&gt;Text<sp/>element<sp/>#2&lt;/text&gt;&lt;/root&gt;&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.text.encoding/_1a95985d0da959aa35a89574de5fb4bfd8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_UTF8</ref>()-&gt;GetString(xmlPart-&gt;get_Data()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>structured<sp/>document<sp/>tag<sp/>that<sp/>will<sp/>display<sp/>the<sp/>contents<sp/>of<sp/>our<sp/>CustomXmlPart.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tag<sp/>=<sp/>MakeObject&lt;StructuredDocumentTag&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7ab7ebbf7f254ef646928dd58f62383a85" kindref="member" tooltip="The SDT represents a plain text box when displayed in the document.">SdtType::PlainText</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a57672f3522526bfeb73e0b7539583751ae1e4c8c9ccd9fc39c391da4bcd093fb2" kindref="member" tooltip="The element occurs at the block level (e.g. among tables and paragraphs).">MarkupLevel::Block</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>mapping<sp/>for<sp/>our<sp/>structured<sp/>document<sp/>tag.<sp/>This<sp/>mapping<sp/>will<sp/>instruct</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>our<sp/>structured<sp/>document<sp/>tag<sp/>to<sp/>display<sp/>a<sp/>portion<sp/>of<sp/>the<sp/>XML<sp/>part&apos;s<sp/>text<sp/>contents<sp/>that<sp/>the<sp/>XPath<sp/>points<sp/>to.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>it<sp/>will<sp/>be<sp/>contents<sp/>of<sp/>the<sp/>the<sp/>second<sp/>&quot;&lt;text&gt;&quot;<sp/>element<sp/>of<sp/>the<sp/>first<sp/>&quot;&lt;root&gt;&quot;<sp/>element:<sp/>&quot;Text<sp/>element<sp/>#2&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tag-&gt;get_XmlMapping()-&gt;SetMapping(xmlPart,<sp/>u</highlight><highlight class="stringliteral">&quot;/root[1]/text[2]&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;xmlns:ns=&apos;http://www.w3.org/2001/XMLSchema&apos;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(tag-&gt;get_XmlMapping()-&gt;get_IsMapped());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(xmlPart,<sp/>tag-&gt;get_XmlMapping()-&gt;get_CustomXmlPart());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;/root[1]/text[2]&quot;</highlight><highlight class="normal">,<sp/>tag-&gt;get_XmlMapping()-&gt;get_XPath());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;xmlns:ns=&apos;http://www.w3.org/2001/XMLSchema&apos;&quot;</highlight><highlight class="normal">,<sp/>tag-&gt;get_XmlMapping()-&gt;get_PrefixMappings());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>the<sp/>structured<sp/>document<sp/>tag<sp/>to<sp/>the<sp/>document<sp/>to<sp/>display<sp/>the<sp/>content<sp/>from<sp/>our<sp/>custom<sp/>part.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;AppendChild(tag);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;StructuredDocumentTag.XmlMapping.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/XmlMapping.h" line="228" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1a4ba42dac79e6559e79c7925241229363" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Markup::XmlMapping::get_PrefixMappings</definition>
+        <argsstring>() const</argsstring>
+        <name>get_PrefixMappings</name>
+        <qualifiedname>Aspose::Words::Markup::XmlMapping::get_PrefixMappings</qualifiedname>
+        <briefdescription>
+<para>Returns XML namespace prefix mappings to evaluate the <ref refid="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1a0973b2d92d63776b9f259a28c68138bd" kindref="member">XPath</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set XML mappings for custom XML parts. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Construct<sp/>an<sp/>XML<sp/>part<sp/>that<sp/>contains<sp/>text<sp/>and<sp/>add<sp/>it<sp/>to<sp/>the<sp/>document&apos;s<sp/>CustomXmlPart<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartId<sp/>=<sp/><ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>().ToString(u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartContent<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;root&gt;&lt;text&gt;Text<sp/>element<sp/>#1&lt;/text&gt;&lt;text&gt;Text<sp/>element<sp/>#2&lt;/text&gt;&lt;/root&gt;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlPart&gt;<sp/>xmlPart<sp/>=<sp/>doc-&gt;get_CustomXmlParts()-&gt;Add(xmlPartId,<sp/>xmlPartContent);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;&lt;root&gt;&lt;text&gt;Text<sp/>element<sp/>#1&lt;/text&gt;&lt;text&gt;Text<sp/>element<sp/>#2&lt;/text&gt;&lt;/root&gt;&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.text.encoding/_1a95985d0da959aa35a89574de5fb4bfd8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_UTF8</ref>()-&gt;GetString(xmlPart-&gt;get_Data()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>structured<sp/>document<sp/>tag<sp/>that<sp/>will<sp/>display<sp/>the<sp/>contents<sp/>of<sp/>our<sp/>CustomXmlPart.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tag<sp/>=<sp/>MakeObject&lt;StructuredDocumentTag&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7ab7ebbf7f254ef646928dd58f62383a85" kindref="member" tooltip="The SDT represents a plain text box when displayed in the document.">SdtType::PlainText</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a57672f3522526bfeb73e0b7539583751ae1e4c8c9ccd9fc39c391da4bcd093fb2" kindref="member" tooltip="The element occurs at the block level (e.g. among tables and paragraphs).">MarkupLevel::Block</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>mapping<sp/>for<sp/>our<sp/>structured<sp/>document<sp/>tag.<sp/>This<sp/>mapping<sp/>will<sp/>instruct</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>our<sp/>structured<sp/>document<sp/>tag<sp/>to<sp/>display<sp/>a<sp/>portion<sp/>of<sp/>the<sp/>XML<sp/>part&apos;s<sp/>text<sp/>contents<sp/>that<sp/>the<sp/>XPath<sp/>points<sp/>to.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>it<sp/>will<sp/>be<sp/>contents<sp/>of<sp/>the<sp/>the<sp/>second<sp/>&quot;&lt;text&gt;&quot;<sp/>element<sp/>of<sp/>the<sp/>first<sp/>&quot;&lt;root&gt;&quot;<sp/>element:<sp/>&quot;Text<sp/>element<sp/>#2&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tag-&gt;get_XmlMapping()-&gt;SetMapping(xmlPart,<sp/>u</highlight><highlight class="stringliteral">&quot;/root[1]/text[2]&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;xmlns:ns=&apos;http://www.w3.org/2001/XMLSchema&apos;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(tag-&gt;get_XmlMapping()-&gt;get_IsMapped());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(xmlPart,<sp/>tag-&gt;get_XmlMapping()-&gt;get_CustomXmlPart());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;/root[1]/text[2]&quot;</highlight><highlight class="normal">,<sp/>tag-&gt;get_XmlMapping()-&gt;get_XPath());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;xmlns:ns=&apos;http://www.w3.org/2001/XMLSchema&apos;&quot;</highlight><highlight class="normal">,<sp/>tag-&gt;get_XmlMapping()-&gt;get_PrefixMappings());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>the<sp/>structured<sp/>document<sp/>tag<sp/>to<sp/>the<sp/>document<sp/>to<sp/>display<sp/>the<sp/>content<sp/>from<sp/>our<sp/>custom<sp/>part.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;AppendChild(tag);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;StructuredDocumentTag.XmlMapping.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/XmlMapping.h" line="125" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1afb908272e6e7a1a87542822d7121e52b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Markup::XmlMapping::get_StoreItemId</definition>
+        <argsstring>()</argsstring>
+        <name>get_StoreItemId</name>
+        <qualifiedname>Aspose::Words::Markup::XmlMapping::get_StoreItemId</qualifiedname>
+        <briefdescription>
+<para>Specifies the custom XML data identifier for the custom XML data part which shall be used to evaluate the <ref refid="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1a0973b2d92d63776b9f259a28c68138bd" kindref="member">XPath</ref> expression. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to get the custom XML data identifier of an XML part. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Custom<sp/>XML<sp/>part<sp/>in<sp/>structured<sp/>document<sp/>tag.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Structured<sp/>document<sp/>tags<sp/>have<sp/>IDs<sp/>in<sp/>the<sp/>form<sp/>of<sp/>GUIDs.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tag<sp/>=<sp/>System::DynamicCast&lt;StructuredDocumentTag&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a68e4c6ed96f1d85ba56be9178fdbd738" kindref="member" tooltip="Allows to define customer-specific information and its means of presentation.">NodeType::StructuredDocumentTag</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;{F3029283-4FF8-4DD2-9F31-395F19ACEE85}&quot;</highlight><highlight class="normal">,<sp/>tag-&gt;get_XmlMapping()-&gt;get_StoreItemId());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/XmlMapping.h" line="244" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1a0973b2d92d63776b9f259a28c68138bd" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Markup::XmlMapping::get_XPath</definition>
+        <argsstring>() const</argsstring>
+        <name>get_XPath</name>
+        <qualifiedname>Aspose::Words::Markup::XmlMapping::get_XPath</qualifiedname>
+        <briefdescription>
+<para>Returns the XPath expression, which is evaluated to find the custom XML node that is mapped to the parent structured document tag. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set XML mappings for custom XML parts. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Construct<sp/>an<sp/>XML<sp/>part<sp/>that<sp/>contains<sp/>text<sp/>and<sp/>add<sp/>it<sp/>to<sp/>the<sp/>document&apos;s<sp/>CustomXmlPart<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartId<sp/>=<sp/><ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>().ToString(u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartContent<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;root&gt;&lt;text&gt;Text<sp/>element<sp/>#1&lt;/text&gt;&lt;text&gt;Text<sp/>element<sp/>#2&lt;/text&gt;&lt;/root&gt;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlPart&gt;<sp/>xmlPart<sp/>=<sp/>doc-&gt;get_CustomXmlParts()-&gt;Add(xmlPartId,<sp/>xmlPartContent);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;&lt;root&gt;&lt;text&gt;Text<sp/>element<sp/>#1&lt;/text&gt;&lt;text&gt;Text<sp/>element<sp/>#2&lt;/text&gt;&lt;/root&gt;&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.text.encoding/_1a95985d0da959aa35a89574de5fb4bfd8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_UTF8</ref>()-&gt;GetString(xmlPart-&gt;get_Data()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>structured<sp/>document<sp/>tag<sp/>that<sp/>will<sp/>display<sp/>the<sp/>contents<sp/>of<sp/>our<sp/>CustomXmlPart.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tag<sp/>=<sp/>MakeObject&lt;StructuredDocumentTag&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7ab7ebbf7f254ef646928dd58f62383a85" kindref="member" tooltip="The SDT represents a plain text box when displayed in the document.">SdtType::PlainText</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a57672f3522526bfeb73e0b7539583751ae1e4c8c9ccd9fc39c391da4bcd093fb2" kindref="member" tooltip="The element occurs at the block level (e.g. among tables and paragraphs).">MarkupLevel::Block</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>mapping<sp/>for<sp/>our<sp/>structured<sp/>document<sp/>tag.<sp/>This<sp/>mapping<sp/>will<sp/>instruct</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>our<sp/>structured<sp/>document<sp/>tag<sp/>to<sp/>display<sp/>a<sp/>portion<sp/>of<sp/>the<sp/>XML<sp/>part&apos;s<sp/>text<sp/>contents<sp/>that<sp/>the<sp/>XPath<sp/>points<sp/>to.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>it<sp/>will<sp/>be<sp/>contents<sp/>of<sp/>the<sp/>the<sp/>second<sp/>&quot;&lt;text&gt;&quot;<sp/>element<sp/>of<sp/>the<sp/>first<sp/>&quot;&lt;root&gt;&quot;<sp/>element:<sp/>&quot;Text<sp/>element<sp/>#2&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tag-&gt;get_XmlMapping()-&gt;SetMapping(xmlPart,<sp/>u</highlight><highlight class="stringliteral">&quot;/root[1]/text[2]&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;xmlns:ns=&apos;http://www.w3.org/2001/XMLSchema&apos;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(tag-&gt;get_XmlMapping()-&gt;get_IsMapped());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(xmlPart,<sp/>tag-&gt;get_XmlMapping()-&gt;get_CustomXmlPart());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;/root[1]/text[2]&quot;</highlight><highlight class="normal">,<sp/>tag-&gt;get_XmlMapping()-&gt;get_XPath());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;xmlns:ns=&apos;http://www.w3.org/2001/XMLSchema&apos;&quot;</highlight><highlight class="normal">,<sp/>tag-&gt;get_XmlMapping()-&gt;get_PrefixMappings());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>the<sp/>structured<sp/>document<sp/>tag<sp/>to<sp/>the<sp/>document<sp/>to<sp/>display<sp/>the<sp/>content<sp/>from<sp/>our<sp/>custom<sp/>part.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;AppendChild(tag);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;StructuredDocumentTag.XmlMapping.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/XmlMapping.h" line="160" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1adee155230dd62d9fa047cddd0956d480" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Markup::XmlMapping::SetMapping</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Markup::CustomXmlPart &gt; &amp;customXmlPart, const System::String &amp;xPath, const System::String &amp;prefixMapping)</argsstring>
+        <name>SetMapping</name>
+        <qualifiedname>Aspose::Words::Markup::XmlMapping::SetMapping</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_part" kindref="compound">Aspose::Words::Markup::CustomXmlPart</ref> &gt; &amp;</type>
+          <declname>customXmlPart</declname>
+        </param>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>xPath</declname>
+        </param>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>prefixMapping</declname>
+        </param>
+        <briefdescription>
+<para>Sets a mapping between the parent structured document tag and an XML node of a custom XML data part. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>customXmlPart</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>A custom XML data part to map to. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>xPath</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>An XPath expression to find the XML node. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>prefixMapping</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>XML namespace prefix mappings to evaluate the XPath.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>A flag indicating whether the parent structured document tag is successfully mapped to the XML node.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create a structured document tag with custom XML data. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Construct<sp/>an<sp/>XML<sp/>part<sp/>that<sp/>contains<sp/>data<sp/>and<sp/>add<sp/>it<sp/>to<sp/>the<sp/>document&apos;s<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>enable<sp/>the<sp/>&quot;Developer&quot;<sp/>tab<sp/>in<sp/>Microsoft<sp/>Word,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>we<sp/>can<sp/>find<sp/>elements<sp/>from<sp/>this<sp/>collection<sp/>in<sp/>the<sp/>&quot;XML<sp/>Mapping<sp/>Pane&quot;,<sp/>along<sp/>with<sp/>a<sp/>few<sp/>default<sp/>elements.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartId<sp/>=<sp/><ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>().ToString(u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartContent<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;root&gt;&lt;text&gt;Hello<sp/>world!&lt;/text&gt;&lt;/root&gt;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlPart&gt;<sp/>xmlPart<sp/>=<sp/>doc-&gt;get_CustomXmlParts()-&gt;Add(xmlPartId,<sp/>xmlPartContent);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(<ref refid="class/system.text.encoding/_1ae1508feb411c49a70249109d1caddb9c" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_ASCII</ref>()-&gt;GetBytes(xmlPartContent),<sp/>xmlPart-&gt;get_Data());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(xmlPartId,<sp/>xmlPart-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>to<sp/>refer<sp/>to<sp/>XML<sp/>parts.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>By<sp/>an<sp/>index<sp/>in<sp/>the<sp/>custom<sp/>XML<sp/>part<sp/>collection:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(xmlPart,<sp/>doc-&gt;get_CustomXmlParts()-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>By<sp/>GUID:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(xmlPart,<sp/>doc-&gt;get_CustomXmlParts()-&gt;GetById(xmlPartId));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>an<sp/>XML<sp/>schema<sp/>association.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">xmlPart-&gt;get_Schemas()-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clone<sp/>a<sp/>part,<sp/>and<sp/>then<sp/>insert<sp/>it<sp/>into<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlPart&gt;<sp/>xmlPartClone<sp/>=<sp/>xmlPart-&gt;Clone();</highlight></codeline>
+<codeline><highlight class="normal">xmlPartClone-&gt;set_Id(<ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>().<ref refid="class/system.object/_1a5f519d7ae99b64426cc20862bd6211fa" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">ToString</ref>(u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_CustomXmlParts()-&gt;Add(xmlPartClone);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_CustomXmlParts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Iterate<sp/>through<sp/>the<sp/>collection<sp/>and<sp/>print<sp/>the<sp/>contents<sp/>of<sp/>each<sp/>part.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;CustomXmlPart&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>doc-&gt;get_CustomXmlParts()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>0;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;XML<sp/>part<sp/>index<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>index<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>ID:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_Id()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tContent:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/><ref refid="class/system.text.encoding/_1a95985d0da959aa35a89574de5fb4bfd8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_UTF8</ref>()-&gt;GetString(enumerator-&gt;get_Current()-&gt;get_Data())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>index++;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;RemoveAt&quot;<sp/>method<sp/>to<sp/>remove<sp/>the<sp/>cloned<sp/>part<sp/>by<sp/>index.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_CustomXmlParts()-&gt;RemoveAt(1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>doc-&gt;get_CustomXmlParts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clone<sp/>the<sp/>XML<sp/>parts<sp/>collection,<sp/>and<sp/>then<sp/>use<sp/>the<sp/>&quot;Clear&quot;<sp/>method<sp/>to<sp/>remove<sp/>all<sp/>its<sp/>elements<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlPartCollection&gt;<sp/>customXmlParts<sp/>=<sp/>doc-&gt;get_CustomXmlParts()-&gt;Clone();</highlight></codeline>
+<codeline><highlight class="normal">customXmlParts-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>structured<sp/>document<sp/>tag<sp/>that<sp/>will<sp/>display<sp/>our<sp/>part&apos;s<sp/>contents<sp/>and<sp/>insert<sp/>it<sp/>into<sp/>the<sp/>document<sp/>body.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tag<sp/>=<sp/>MakeObject&lt;StructuredDocumentTag&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7ab7ebbf7f254ef646928dd58f62383a85" kindref="member" tooltip="The SDT represents a plain text box when displayed in the document.">SdtType::PlainText</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a57672f3522526bfeb73e0b7539583751ae1e4c8c9ccd9fc39c391da4bcd093fb2" kindref="member" tooltip="The element occurs at the block level (e.g. among tables and paragraphs).">MarkupLevel::Block</ref>);</highlight></codeline>
+<codeline><highlight class="normal">tag-&gt;get_XmlMapping()-&gt;SetMapping(xmlPart,<sp/>u</highlight><highlight class="stringliteral">&quot;/root[1]/text[1]&quot;</highlight><highlight class="normal">,<sp/>String::Empty);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;AppendChild(tag);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;StructuredDocumentTag.CustomXml.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/XmlMapping.h" line="317" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Specifies the information that is used to establish a mapping between the parent structured document tag and an XML element stored within a custom XML data part in the document. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set XML mappings for custom XML parts. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Construct<sp/>an<sp/>XML<sp/>part<sp/>that<sp/>contains<sp/>text<sp/>and<sp/>add<sp/>it<sp/>to<sp/>the<sp/>document&apos;s<sp/>CustomXmlPart<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartId<sp/>=<sp/><ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>().ToString(u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartContent<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;root&gt;&lt;text&gt;Text<sp/>element<sp/>#1&lt;/text&gt;&lt;text&gt;Text<sp/>element<sp/>#2&lt;/text&gt;&lt;/root&gt;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlPart&gt;<sp/>xmlPart<sp/>=<sp/>doc-&gt;get_CustomXmlParts()-&gt;Add(xmlPartId,<sp/>xmlPartContent);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;&lt;root&gt;&lt;text&gt;Text<sp/>element<sp/>#1&lt;/text&gt;&lt;text&gt;Text<sp/>element<sp/>#2&lt;/text&gt;&lt;/root&gt;&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.text.encoding/_1a95985d0da959aa35a89574de5fb4bfd8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_UTF8</ref>()-&gt;GetString(xmlPart-&gt;get_Data()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>structured<sp/>document<sp/>tag<sp/>that<sp/>will<sp/>display<sp/>the<sp/>contents<sp/>of<sp/>our<sp/>CustomXmlPart.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tag<sp/>=<sp/>MakeObject&lt;StructuredDocumentTag&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7ab7ebbf7f254ef646928dd58f62383a85" kindref="member" tooltip="The SDT represents a plain text box when displayed in the document.">SdtType::PlainText</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a57672f3522526bfeb73e0b7539583751ae1e4c8c9ccd9fc39c391da4bcd093fb2" kindref="member" tooltip="The element occurs at the block level (e.g. among tables and paragraphs).">MarkupLevel::Block</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>mapping<sp/>for<sp/>our<sp/>structured<sp/>document<sp/>tag.<sp/>This<sp/>mapping<sp/>will<sp/>instruct</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>our<sp/>structured<sp/>document<sp/>tag<sp/>to<sp/>display<sp/>a<sp/>portion<sp/>of<sp/>the<sp/>XML<sp/>part&apos;s<sp/>text<sp/>contents<sp/>that<sp/>the<sp/>XPath<sp/>points<sp/>to.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>it<sp/>will<sp/>be<sp/>contents<sp/>of<sp/>the<sp/>the<sp/>second<sp/>&quot;&lt;text&gt;&quot;<sp/>element<sp/>of<sp/>the<sp/>first<sp/>&quot;&lt;root&gt;&quot;<sp/>element:<sp/>&quot;Text<sp/>element<sp/>#2&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tag-&gt;get_XmlMapping()-&gt;SetMapping(xmlPart,<sp/>u</highlight><highlight class="stringliteral">&quot;/root[1]/text[2]&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;xmlns:ns=&apos;http://www.w3.org/2001/XMLSchema&apos;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(tag-&gt;get_XmlMapping()-&gt;get_IsMapped());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(xmlPart,<sp/>tag-&gt;get_XmlMapping()-&gt;get_CustomXmlPart());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;/root[1]/text[2]&quot;</highlight><highlight class="normal">,<sp/>tag-&gt;get_XmlMapping()-&gt;get_XPath());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;xmlns:ns=&apos;http://www.w3.org/2001/XMLSchema&apos;&quot;</highlight><highlight class="normal">,<sp/>tag-&gt;get_XmlMapping()-&gt;get_PrefixMappings());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>the<sp/>structured<sp/>document<sp/>tag<sp/>to<sp/>the<sp/>document<sp/>to<sp/>display<sp/>the<sp/>content<sp/>from<sp/>our<sp/>custom<sp/>part.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;AppendChild(tag);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;StructuredDocumentTag.XmlMapping.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Markup::XmlMapping</label>
+        <link refid="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Markup::XmlMapping</label>
+        <link refid="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Markup/XmlMapping.h" line="83" column="1" bodyfile="Aspose.Words.Cpp/Markup/XmlMapping.h" bodystart="84" bodyend="367"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1a431199f0ffbdab9a1f663dbaf68ad934" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::XmlMapping</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1a3ab67fa77a332b0c1ff06137f6dbec1a" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::XmlMapping</scope><name>Delete</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1aa213d86c3e884a96b6b666f907806878" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::XmlMapping</scope><name>get_CustomXmlPart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1addd5241159e8ebf50f03ef486fac7c82" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::XmlMapping</scope><name>get_IsMapped</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1a4ba42dac79e6559e79c7925241229363" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::XmlMapping</scope><name>get_PrefixMappings</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1afb908272e6e7a1a87542822d7121e52b" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::XmlMapping</scope><name>get_StoreItemId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1a0973b2d92d63776b9f259a28c68138bd" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::XmlMapping</scope><name>get_XPath</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1ad1126a85ab2beec2a2d497fbe2c1269d" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::XmlMapping</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1ad1495f82d87921d575dfb7106571f39e" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::XmlMapping</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1af7e1fe8b694cf116e5647535b748a338" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::XmlMapping</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1a3322a8ed7cc9124ba69d321add34c80f" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::XmlMapping</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1a9c3777c2413c8328a63b05e718a8d193" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::XmlMapping</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1a5edf874cc7e12f2130228f2b457086d8" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::XmlMapping</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1a69bee4f65dad9bdfef56f95a49281b8c" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::XmlMapping</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1adee155230dd62d9fa047cddd0956d480" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::XmlMapping</scope><name>SetMapping</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1a0fa0cf759b6c312a4f84d1f41db22da5" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::XmlMapping</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1a96c3f2ff22421e388c379e492a3e191e" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::XmlMapping</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping_1a9202bd2ae51a8196a70a9733fa4b785d" prot="private" virt="virtual"><scope>Aspose::Words::Markup::XmlMapping</scope><name>~XmlMapping</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

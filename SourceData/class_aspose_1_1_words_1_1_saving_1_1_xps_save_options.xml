@@ -1,0 +1,590 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Saving::XpsSaveOptions</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options" prot="public" virt="non-virtual">Aspose::Words::Saving::FixedPageSaveOptions</basecompoundref>
+    <includes refid="_xps_save_options_8h" local="no">Aspose.Words.Cpp/Saving/XpsSaveOptions.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1a243bd991ecb9b0b8b2275ed815f3bd00" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options" kindref="compound">Aspose::Words::Saving::FixedPageSaveOptions</ref></type>
+        <definition>typedef Aspose::Words::Saving::FixedPageSaveOptions Aspose::Words::Saving::XpsSaveOptions::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Saving::XpsSaveOptions::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XpsSaveOptions.h" line="77" column="57" bodyfile="Aspose.Words.Cpp/Saving/XpsSaveOptions.h" bodystart="77" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1a5f8a6af0c0f2de379955775d8e230331" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options" kindref="compound">XpsSaveOptions</ref></type>
+        <definition>typedef XpsSaveOptions Aspose::Words::Saving::XpsSaveOptions::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Saving::XpsSaveOptions::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XpsSaveOptions.h" line="76" column="28" bodyfile="Aspose.Words.Cpp/Saving/XpsSaveOptions.h" bodystart="76" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1a2f5ab1ff277778fd5fccb4323028b0a7" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::XpsSaveOptions::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Saving::XpsSaveOptions::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XpsSaveOptions.h" line="79" column="37" bodyfile="Aspose.Words.Cpp/Saving/XpsSaveOptions.h" bodystart="79" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1a165c0d54740a96ea9c479f8d8a246577" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Saving::XpsSaveOptions::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Saving::XpsSaveOptions::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XpsSaveOptions.h" line="299" column="23" bodyfile="Aspose.Words.Cpp/Saving/XpsSaveOptions.h" bodystart="299" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1afb17958d4f9fb0b5239a348c4795c69a" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::XpsSaveOptions::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Saving::XpsSaveOptions::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XpsSaveOptions.h" line="300" column="23" bodyfile="Aspose.Words.Cpp/Saving/XpsSaveOptions.h" bodystart="300" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1abd1a2e572517e38d253a920c08200d0b" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::XpsSaveOptions::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Saving::XpsSaveOptions::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XpsSaveOptions.h" line="301" column="23" bodyfile="Aspose.Words.Cpp/Saving/XpsSaveOptions.h" bodystart="301" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1a10b07db988a68535f35ccb27b9e451db" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Saving::XpsSaveOptions::get_CreateOutlinesForHeadingsInTables</definition>
+        <argsstring>() override</argsstring>
+        <name>get_CreateOutlinesForHeadingsInTables</name>
+        <qualifiedname>Aspose::Words::Saving::XpsSaveOptions::get_CreateOutlinesForHeadingsInTables</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1aecb512ec263417e2e01c63dd53a91d0b">get_CreateOutlinesForHeadingsInTables</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XpsSaveOptions.h" line="294" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1ab4a90b519ac027d3abc48380e0cfefd4" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Saving::XpsSaveOptions::get_IsShapingSupported</definition>
+        <argsstring>() override</argsstring>
+        <name>get_IsShapingSupported</name>
+        <qualifiedname>Aspose::Words::Saving::XpsSaveOptions::get_IsShapingSupported</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a0d614cafba12f933e85316d18fc6f052">get_IsShapingSupported</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XpsSaveOptions.h" line="295" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1a742459c09c46b04a22c10b31009d9f02" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::XpsSaveOptions::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Saving::XpsSaveOptions::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XpsSaveOptions.h" line="80" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1a03e2150d11ac6e068ffc1dccf351ee74" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::XpsSaveOptions::XpsSaveOptions</definition>
+        <argsstring>()</argsstring>
+        <name>XpsSaveOptions</name>
+        <qualifiedname>Aspose::Words::Saving::XpsSaveOptions::XpsSaveOptions</qualifiedname>
+        <briefdescription>
+<para>Initializes a new instance of this class that can be used to save a document in the <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a5b036e2f7ccf88d75c6b643f9a660d24" kindref="member">Xps</ref> format. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to limit the headings&apos; level that will appear in the outline of a saved XPS document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>headings<sp/>that<sp/>can<sp/>serve<sp/>as<sp/>TOC<sp/>entries<sp/>of<sp/>levels<sp/>1,<sp/>2,<sp/>and<sp/>then<sp/>3.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_StyleIdentifier(<ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a87f33c2e9209edfc0333a264ec3085a2" kindref="member" tooltip="The Heading 1 style.">StyleIdentifier::Heading1</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(builder-&gt;get_ParagraphFormat()-&gt;get_IsHeading());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_StyleIdentifier(<ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34aa6bef18a8a766b5e3c9facc5b87ed2c8" kindref="member" tooltip="The Heading 2 style.">StyleIdentifier::Heading2</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1.1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1.2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_StyleIdentifier(<ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a5c20c643b1731618a5eddb7660b10a3e" kindref="member" tooltip="The Heading 3 style.">StyleIdentifier::Heading3</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1.2.1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1.2.2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;XpsSaveOptions&quot;<sp/>object<sp/>that<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>that<sp/>method<sp/>converts<sp/>the<sp/>document<sp/>to<sp/>.XPS.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;XpsSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a5b036e2f7ccf88d75c6b643f9a660d24" kindref="member" tooltip="Saves the document in the XPS (XML Paper Specification) format.">SaveFormat::Xps</ref>,<sp/>saveOptions-&gt;get_SaveFormat());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>output<sp/>XPS<sp/>document<sp/>will<sp/>contain<sp/>an<sp/>outline,<sp/>a<sp/>table<sp/>of<sp/>contents<sp/>that<sp/>lists<sp/>headings<sp/>in<sp/>the<sp/>document<sp/>body.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clicking<sp/>on<sp/>an<sp/>entry<sp/>in<sp/>this<sp/>outline<sp/>will<sp/>take<sp/>us<sp/>to<sp/>the<sp/>location<sp/>of<sp/>its<sp/>respective<sp/>heading.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;HeadingsOutlineLevels&quot;<sp/>property<sp/>to<sp/>&quot;2&quot;<sp/>to<sp/>exclude<sp/>all<sp/>headings<sp/>whose<sp/>levels<sp/>are<sp/>above<sp/>2<sp/>from<sp/>the<sp/>outline.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>last<sp/>two<sp/>headings<sp/>we<sp/>have<sp/>inserted<sp/>above<sp/>will<sp/>not<sp/>appear.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;get_OutlineOptions()-&gt;set_HeadingsOutlineLevels(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;XpsSaveOptions.OutlineLevels.xps&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XpsSaveOptions.h" line="256" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1ace4773436b9da22c7c7aa938a78c17ad" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::XpsSaveOptions::XpsSaveOptions</definition>
+        <argsstring>(Aspose::Words::SaveFormat saveFormat)</argsstring>
+        <name>XpsSaveOptions</name>
+        <qualifiedname>Aspose::Words::Saving::XpsSaveOptions::XpsSaveOptions</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" kindref="member">Aspose::Words::SaveFormat</ref></type>
+          <declname>saveFormat</declname>
+        </param>
+        <briefdescription>
+<para>Initializes a new instance of this class that can be used to save a document in the <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a5b036e2f7ccf88d75c6b643f9a660d24" kindref="member">Xps</ref> or <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a993106e06ab4738b58fc83817dcb3476" kindref="member">OpenXps</ref> format. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to save a document to the XPS format in the form of a book fold. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraphs.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;XpsSaveOptions&quot;<sp/>object<sp/>that<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>that<sp/>method<sp/>converts<sp/>the<sp/>document<sp/>to<sp/>.XPS.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>xpsOptions<sp/>=<sp/>MakeObject&lt;XpsSaveOptions&gt;(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a5b036e2f7ccf88d75c6b643f9a660d24" kindref="member" tooltip="Saves the document in the XPS (XML Paper Specification) format.">SaveFormat::Xps</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;UseBookFoldPrintingSettings&quot;<sp/>property<sp/>to<sp/>&quot;true&quot;<sp/>to<sp/>arrange<sp/>the<sp/>contents</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>in<sp/>the<sp/>output<sp/>XPS<sp/>in<sp/>a<sp/>way<sp/>that<sp/>helps<sp/>us<sp/>use<sp/>it<sp/>to<sp/>make<sp/>a<sp/>booklet.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;UseBookFoldPrintingSettings&quot;<sp/>property<sp/>to<sp/>&quot;false&quot;<sp/>to<sp/>render<sp/>the<sp/>XPS<sp/>normally.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">xpsOptions-&gt;set_UseBookFoldPrintingSettings(renderTextAsBookFold);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>are<sp/>rendering<sp/>the<sp/>document<sp/>as<sp/>a<sp/>booklet,<sp/>we<sp/>must<sp/>set<sp/>the<sp/>&quot;MultiplePages&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>properties<sp/>of<sp/>the<sp/>page<sp/>setup<sp/>objects<sp/>of<sp/>all<sp/>sections<sp/>to<sp/>&quot;MultiplePagesType.BookFoldPrinting&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(renderTextAsBookFold)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>s<sp/>:<sp/>System::IterateOver&lt;Section&gt;(doc-&gt;get_Sections()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>s-&gt;get_PageSetup()-&gt;set_MultiplePages(MultiplePagesType::BookFoldPrinting);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Once<sp/>we<sp/>print<sp/>this<sp/>document,<sp/>we<sp/>can<sp/>turn<sp/>it<sp/>into<sp/>a<sp/>booklet<sp/>by<sp/>stacking<sp/>the<sp/>pages</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>come<sp/>out<sp/>of<sp/>the<sp/>printer<sp/>and<sp/>folding<sp/>down<sp/>the<sp/>middle.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;XpsSaveOptions.BookFold.xps&quot;</highlight><highlight class="normal">,<sp/>xpsOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XpsSaveOptions.h" line="290" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1ae9f6aabb8c5c908f41272edb46cf626f" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_outline_options" kindref="compound">Aspose::Words::Saving::OutlineOptions</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Saving::OutlineOptions &gt; Aspose::Words::Saving::XpsSaveOptions::get_OutlineOptions</definition>
+        <argsstring>() const</argsstring>
+        <name>get_OutlineOptions</name>
+        <qualifiedname>Aspose::Words::Saving::XpsSaveOptions::get_OutlineOptions</qualifiedname>
+        <briefdescription>
+<para>Allows to specify outline options. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Note that ExpandedOutlineLevels option will not work when saving to XPS.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to limit the headings&apos; level that will appear in the outline of a saved XPS document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>headings<sp/>that<sp/>can<sp/>serve<sp/>as<sp/>TOC<sp/>entries<sp/>of<sp/>levels<sp/>1,<sp/>2,<sp/>and<sp/>then<sp/>3.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_StyleIdentifier(<ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a87f33c2e9209edfc0333a264ec3085a2" kindref="member" tooltip="The Heading 1 style.">StyleIdentifier::Heading1</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(builder-&gt;get_ParagraphFormat()-&gt;get_IsHeading());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_StyleIdentifier(<ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34aa6bef18a8a766b5e3c9facc5b87ed2c8" kindref="member" tooltip="The Heading 2 style.">StyleIdentifier::Heading2</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1.1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1.2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_StyleIdentifier(<ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a5c20c643b1731618a5eddb7660b10a3e" kindref="member" tooltip="The Heading 3 style.">StyleIdentifier::Heading3</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1.2.1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1.2.2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;XpsSaveOptions&quot;<sp/>object<sp/>that<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>that<sp/>method<sp/>converts<sp/>the<sp/>document<sp/>to<sp/>.XPS.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;XpsSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a5b036e2f7ccf88d75c6b643f9a660d24" kindref="member" tooltip="Saves the document in the XPS (XML Paper Specification) format.">SaveFormat::Xps</ref>,<sp/>saveOptions-&gt;get_SaveFormat());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>output<sp/>XPS<sp/>document<sp/>will<sp/>contain<sp/>an<sp/>outline,<sp/>a<sp/>table<sp/>of<sp/>contents<sp/>that<sp/>lists<sp/>headings<sp/>in<sp/>the<sp/>document<sp/>body.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clicking<sp/>on<sp/>an<sp/>entry<sp/>in<sp/>this<sp/>outline<sp/>will<sp/>take<sp/>us<sp/>to<sp/>the<sp/>location<sp/>of<sp/>its<sp/>respective<sp/>heading.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;HeadingsOutlineLevels&quot;<sp/>property<sp/>to<sp/>&quot;2&quot;<sp/>to<sp/>exclude<sp/>all<sp/>headings<sp/>whose<sp/>levels<sp/>are<sp/>above<sp/>2<sp/>from<sp/>the<sp/>outline.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>last<sp/>two<sp/>headings<sp/>we<sp/>have<sp/>inserted<sp/>above<sp/>will<sp/>not<sp/>appear.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;get_OutlineOptions()-&gt;set_HeadingsOutlineLevels(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;XpsSaveOptions.OutlineLevels.xps&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XpsSaveOptions.h" line="172" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1a23e95fa0239003270a638f044121a0da" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" kindref="member">Aspose::Words::SaveFormat</ref></type>
+        <definition>Aspose::Words::SaveFormat Aspose::Words::Saving::XpsSaveOptions::get_SaveFormat</definition>
+        <argsstring>() override</argsstring>
+        <name>get_SaveFormat</name>
+        <qualifiedname>Aspose::Words::Saving::XpsSaveOptions::get_SaveFormat</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6df9e8d37cc7794640ea5c5932134253">get_SaveFormat</reimplements>
+        <briefdescription>
+<para>Specifies the format in which the document will be saved if this save options object is used. Can only be <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a5b036e2f7ccf88d75c6b643f9a660d24" kindref="member">Xps</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to limit the headings&apos; level that will appear in the outline of a saved XPS document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>headings<sp/>that<sp/>can<sp/>serve<sp/>as<sp/>TOC<sp/>entries<sp/>of<sp/>levels<sp/>1,<sp/>2,<sp/>and<sp/>then<sp/>3.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_StyleIdentifier(<ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a87f33c2e9209edfc0333a264ec3085a2" kindref="member" tooltip="The Heading 1 style.">StyleIdentifier::Heading1</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(builder-&gt;get_ParagraphFormat()-&gt;get_IsHeading());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_StyleIdentifier(<ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34aa6bef18a8a766b5e3c9facc5b87ed2c8" kindref="member" tooltip="The Heading 2 style.">StyleIdentifier::Heading2</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1.1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1.2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_StyleIdentifier(<ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a5c20c643b1731618a5eddb7660b10a3e" kindref="member" tooltip="The Heading 3 style.">StyleIdentifier::Heading3</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1.2.1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1.2.2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;XpsSaveOptions&quot;<sp/>object<sp/>that<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>that<sp/>method<sp/>converts<sp/>the<sp/>document<sp/>to<sp/>.XPS.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;XpsSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a5b036e2f7ccf88d75c6b643f9a660d24" kindref="member" tooltip="Saves the document in the XPS (XML Paper Specification) format.">SaveFormat::Xps</ref>,<sp/>saveOptions-&gt;get_SaveFormat());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>output<sp/>XPS<sp/>document<sp/>will<sp/>contain<sp/>an<sp/>outline,<sp/>a<sp/>table<sp/>of<sp/>contents<sp/>that<sp/>lists<sp/>headings<sp/>in<sp/>the<sp/>document<sp/>body.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clicking<sp/>on<sp/>an<sp/>entry<sp/>in<sp/>this<sp/>outline<sp/>will<sp/>take<sp/>us<sp/>to<sp/>the<sp/>location<sp/>of<sp/>its<sp/>respective<sp/>heading.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;HeadingsOutlineLevels&quot;<sp/>property<sp/>to<sp/>&quot;2&quot;<sp/>to<sp/>exclude<sp/>all<sp/>headings<sp/>whose<sp/>levels<sp/>are<sp/>above<sp/>2<sp/>from<sp/>the<sp/>outline.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>last<sp/>two<sp/>headings<sp/>we<sp/>have<sp/>inserted<sp/>above<sp/>will<sp/>not<sp/>appear.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;get_OutlineOptions()-&gt;set_HeadingsOutlineLevels(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;XpsSaveOptions.OutlineLevels.xps&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XpsSaveOptions.h" line="125" column="34"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1abfeb4c7a2e4e1dd570492ad71a83a127" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Saving::XpsSaveOptions::get_UseBookFoldPrintingSettings</definition>
+        <argsstring>() const</argsstring>
+        <name>get_UseBookFoldPrintingSettings</name>
+        <qualifiedname>Aspose::Words::Saving::XpsSaveOptions::get_UseBookFoldPrintingSettings</qualifiedname>
+        <briefdescription>
+<para>Gets or sets a boolean value indicating whether the document should be saved using a booklet printing layout, if it is specified via <ref refid="class_aspose_1_1_words_1_1_page_setup_1a6fda3ee15d315babdbd97f18962cbcbe" kindref="member">MultiplePages</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>If this option is specified, <ref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ae5425719ba374cba63e3262e18f285eb" kindref="member">PageSet</ref> is ignored when saving. This behavior matches MS Word. If book fold printing settings are not specified in page setup, this option will have no effect.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to save a document to the XPS format in the form of a book fold. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraphs.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;XpsSaveOptions&quot;<sp/>object<sp/>that<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>that<sp/>method<sp/>converts<sp/>the<sp/>document<sp/>to<sp/>.XPS.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>xpsOptions<sp/>=<sp/>MakeObject&lt;XpsSaveOptions&gt;(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a5b036e2f7ccf88d75c6b643f9a660d24" kindref="member" tooltip="Saves the document in the XPS (XML Paper Specification) format.">SaveFormat::Xps</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;UseBookFoldPrintingSettings&quot;<sp/>property<sp/>to<sp/>&quot;true&quot;<sp/>to<sp/>arrange<sp/>the<sp/>contents</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>in<sp/>the<sp/>output<sp/>XPS<sp/>in<sp/>a<sp/>way<sp/>that<sp/>helps<sp/>us<sp/>use<sp/>it<sp/>to<sp/>make<sp/>a<sp/>booklet.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;UseBookFoldPrintingSettings&quot;<sp/>property<sp/>to<sp/>&quot;false&quot;<sp/>to<sp/>render<sp/>the<sp/>XPS<sp/>normally.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">xpsOptions-&gt;set_UseBookFoldPrintingSettings(renderTextAsBookFold);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>are<sp/>rendering<sp/>the<sp/>document<sp/>as<sp/>a<sp/>booklet,<sp/>we<sp/>must<sp/>set<sp/>the<sp/>&quot;MultiplePages&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>properties<sp/>of<sp/>the<sp/>page<sp/>setup<sp/>objects<sp/>of<sp/>all<sp/>sections<sp/>to<sp/>&quot;MultiplePagesType.BookFoldPrinting&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(renderTextAsBookFold)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>s<sp/>:<sp/>System::IterateOver&lt;Section&gt;(doc-&gt;get_Sections()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>s-&gt;get_PageSetup()-&gt;set_MultiplePages(MultiplePagesType::BookFoldPrinting);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Once<sp/>we<sp/>print<sp/>this<sp/>document,<sp/>we<sp/>can<sp/>turn<sp/>it<sp/>into<sp/>a<sp/>booklet<sp/>by<sp/>stacking<sp/>the<sp/>pages</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>come<sp/>out<sp/>of<sp/>the<sp/>printer<sp/>and<sp/>folding<sp/>down<sp/>the<sp/>middle.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;XpsSaveOptions.BookFold.xps&quot;</highlight><highlight class="normal">,<sp/>xpsOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XpsSaveOptions.h" line="210" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1a80258f22302103df7feafe6034c73919" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::XpsSaveOptions::set_SaveFormat</definition>
+        <argsstring>(Aspose::Words::SaveFormat value) override</argsstring>
+        <name>set_SaveFormat</name>
+        <qualifiedname>Aspose::Words::Saving::XpsSaveOptions::set_SaveFormat</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a75d9ec81ad960179eba172764d2c60b9">set_SaveFormat</reimplements>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" kindref="member">Aspose::Words::SaveFormat</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1a23e95fa0239003270a638f044121a0da" kindref="member">Aspose::Words::Saving::XpsSaveOptions::get_SaveFormat</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XpsSaveOptions.h" line="128" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1a019198efd1f0e28c00f165d92566653d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::XpsSaveOptions::set_UseBookFoldPrintingSettings</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_UseBookFoldPrintingSettings</name>
+        <qualifiedname>Aspose::Words::Saving::XpsSaveOptions::set_UseBookFoldPrintingSettings</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1abfeb4c7a2e4e1dd570492ad71a83a127" kindref="member">Aspose::Words::Saving::XpsSaveOptions::get_UseBookFoldPrintingSettings</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XpsSaveOptions.h" line="213" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Can be used to specify additional options when saving a document into the <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a5b036e2f7ccf88d75c6b643f9a660d24" kindref="member">Xps</ref> format. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to limit the headings&apos; level that will appear in the outline of a saved XPS document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>headings<sp/>that<sp/>can<sp/>serve<sp/>as<sp/>TOC<sp/>entries<sp/>of<sp/>levels<sp/>1,<sp/>2,<sp/>and<sp/>then<sp/>3.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_StyleIdentifier(<ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a87f33c2e9209edfc0333a264ec3085a2" kindref="member" tooltip="The Heading 1 style.">StyleIdentifier::Heading1</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(builder-&gt;get_ParagraphFormat()-&gt;get_IsHeading());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_StyleIdentifier(<ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34aa6bef18a8a766b5e3c9facc5b87ed2c8" kindref="member" tooltip="The Heading 2 style.">StyleIdentifier::Heading2</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1.1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1.2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_StyleIdentifier(<ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a5c20c643b1731618a5eddb7660b10a3e" kindref="member" tooltip="The Heading 3 style.">StyleIdentifier::Heading3</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1.2.1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1.2.2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;XpsSaveOptions&quot;<sp/>object<sp/>that<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>that<sp/>method<sp/>converts<sp/>the<sp/>document<sp/>to<sp/>.XPS.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;XpsSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a5b036e2f7ccf88d75c6b643f9a660d24" kindref="member" tooltip="Saves the document in the XPS (XML Paper Specification) format.">SaveFormat::Xps</ref>,<sp/>saveOptions-&gt;get_SaveFormat());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>output<sp/>XPS<sp/>document<sp/>will<sp/>contain<sp/>an<sp/>outline,<sp/>a<sp/>table<sp/>of<sp/>contents<sp/>that<sp/>lists<sp/>headings<sp/>in<sp/>the<sp/>document<sp/>body.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clicking<sp/>on<sp/>an<sp/>entry<sp/>in<sp/>this<sp/>outline<sp/>will<sp/>take<sp/>us<sp/>to<sp/>the<sp/>location<sp/>of<sp/>its<sp/>respective<sp/>heading.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;HeadingsOutlineLevels&quot;<sp/>property<sp/>to<sp/>&quot;2&quot;<sp/>to<sp/>exclude<sp/>all<sp/>headings<sp/>whose<sp/>levels<sp/>are<sp/>above<sp/>2<sp/>from<sp/>the<sp/>outline.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>last<sp/>two<sp/>headings<sp/>we<sp/>have<sp/>inserted<sp/>above<sp/>will<sp/>not<sp/>appear.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;get_OutlineOptions()-&gt;set_HeadingsOutlineLevels(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;XpsSaveOptions.OutlineLevels.xps&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Saving::FixedPageSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::Saving::SaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_save_options"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Saving::XpsSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Saving::FixedPageSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::Saving::SaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_save_options"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Saving::XpsSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Saving/XpsSaveOptions.h" line="74" column="1" bodyfile="Aspose.Words.Cpp/Saving/XpsSaveOptions.h" bodystart="75" bodyend="303"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1a243bd991ecb9b0b8b2275ed815f3bd00" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a5f8b7264160980e775d0ebc2bb87ec6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>CreateSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a92aa5f878a1d0f3e06f620fd1376142f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>CreateSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a0957be75c5d5e6c01c685b589b706366" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>Equals</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9fecca2156a70f1834bd1c913a129d47" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_AllowEmbeddingPostScriptFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ac1a855cc8feceb3d1cbe331b282931ef" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_ColorMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1a10b07db988a68535f35ccb27b9e451db" prot="private" virt="virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_CreateOutlinesForHeadingsInTables</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab9a4c7be9e7070ecbd5248bf01535ef3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_CustomTimeZoneInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a327b0f9146d84c39d72f09dffb55970d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_DefaultTemplate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ac309d37b349e0fd18de204c4b3493113" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_Dml3DEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0ad6a41669029f8bcb5d56ccd8eb1f25" prot="public" virt="virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_DmlEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a40d3faab0e88622c6fac579bbc050772" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_DmlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1add57516835dfbc84b4ac55117e03a6a5" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_ExportGeneratorName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab3a4c36623e1cba81e21fb0c18fc27d6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a4032bbd708177dd64e3ba455a509e470" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_ImlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1ab4a90b519ac027d3abc48380e0cfefd4" prot="private" virt="virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_IsShapingSupported</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a97d6477b73da72eb08d9d68e61e464c6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_JpegQuality</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a00434e0916cf24f88a1cff9f4952bff3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_MemoryOptimization</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a9aa8454e978e8bc63738b7646e73496c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_MetafileRenderingOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a342c8937835bd912528d137767001e22" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_NumeralFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a5b5ba06ac381a275da60e5f7bfaf0fec" prot="public" virt="virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_OptimizeOutput</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1ae9f6aabb8c5c908f41272edb46cf626f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_OutlineOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a946c829e55d34cdc9b730134b0569fd5" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_PageSavingCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ae5425719ba374cba63e3262e18f285eb" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_PageSet</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1af3590697cf94e5b1f546536a3bb20089" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_PrettyFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aabbd691992af320129ecf001454428b1" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1a23e95fa0239003270a638f044121a0da" prot="public" virt="virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_SaveFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2eb22d168e7885c69f1a5ee73dfa9a9c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aafd986a59939576b688baf70ae2982b9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_UpdateCreatedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9058403d0bf8ef363c7265927c7d9689" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_UpdateFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ae00124e73b7ed35821a822f59a98456d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_UpdateLastPrintedProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aa37a14113e46f96d6a4100f33dbb41cd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_UpdateLastSavedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6ba4c67d7befc1d3959119554bc6ca0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_UpdateSdtContent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ac07a919eda7dd3104c3539643caab82f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_UseAntiAliasing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1abfeb4c7a2e4e1dd570492ad71a83a127" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_UseBookFoldPrintingSettings</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a926127b8a13db96c893d2e327d1ac458" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>get_UseHighQualityRendering</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1a165c0d54740a96ea9c479f8d8a246577" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1afb17958d4f9fb0b5239a348c4795c69a" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1abd1a2e572517e38d253a920c08200d0b" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1a742459c09c46b04a22c10b31009d9f02" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9bf0591a869b2046558fac161fb5c8b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_AllowEmbeddingPostScriptFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a1374624908c0c4ca45b73f9974787de8" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_ColorMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a70292d5b6ed5dd4ed81ab6779ada5037" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_CustomTimeZoneInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6d50c71651e23523dd4edae9c8e03b0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_DefaultTemplate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a52f28c6f920bd4829f304f586dd52a4e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_Dml3DEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0415bb8f17f114f5b8bfbf77822f3e33" prot="public" virt="virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_DmlEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a925282153c1c7004637ce406968cd6bd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_DmlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2b3bada9094a54559b832d5051f5be6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_ExportGeneratorName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f2f79ea57714961156f913867823fc2" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afe2fd3cb5119a04f528a9da4b6c643b6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_ImlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1af228e06a02d9af4afd279a5cba926e0c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_JpegQuality</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1b432af0d799842b6939005904d924b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_MemoryOptimization</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a1b8abe12e2961656a28d0be53c60feef" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_MetafileRenderingOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1adb586e7d583e068e2823237d0ae2617e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_NumeralFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a11799e324c1e6fe42583f49e697690b9" prot="public" virt="virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_OptimizeOutput</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ac9c030c94c0c536539a1f725fa70be77" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_PageSavingCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a0b9356a6ec3e79daa4a976f9ae1eb7ca" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_PageSet</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0333c9e934c7b7066c108975a65291c9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_PrettyFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3ca5c36f7f1922b1f7b1f6e8528e29c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1a80258f22302103df7feafe6034c73919" prot="public" virt="virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_SaveFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a7488c6e1d35b21dda1fb3a6b24eb077c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aa6b3c59d2b5d93ecd4af333e7731a57a" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_UpdateCreatedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1ca0e9e7685d9cfdacad9b0c1c47fede" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_UpdateFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9253b0a7481cec6751f2d6e186d15f89" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_UpdateLastPrintedProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f8626f9e2fdd5ea38f656ecffea4433" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_UpdateLastSavedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afc31fd439351d75447554d3196522687" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_UpdateSdtContent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aee6a47d5aa51895c89fb99333990b15c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_UseAntiAliasing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1a019198efd1f0e28c00f165d92566653d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_UseBookFoldPrintingSettings</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aadd8de8195c06388cf619673c020dad3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>set_UseHighQualityRendering</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1a5f8a6af0c0f2de379955775d8e230331" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1a2f5ab1ff277778fd5fccb4323028b0a7" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1a03e2150d11ac6e068ffc1dccf351ee74" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>XpsSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1ace4773436b9da22c7c7aa938a78c17ad" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XpsSaveOptions</scope><name>XpsSaveOptions</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

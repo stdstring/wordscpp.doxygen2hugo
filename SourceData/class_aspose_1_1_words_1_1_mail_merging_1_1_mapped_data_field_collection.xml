@@ -1,0 +1,622 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::MailMerging::MappedDataFieldCollection</compoundname>
+    <basecompoundref refid="class/system.collections.generic.i_enumerable/" prot="public" virt="non-virtual">System::Collections::Generic::IEnumerable&lt; System::Collections::Generic::KeyValuePair&lt; System::String, System::String &gt; &gt;</basecompoundref>
+    <includes refid="_mapped_data_field_collection_8h" local="no">Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a07a6cf1a6e5d21411a5ea832fc7d470e" prot="private" static="no">
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="class/system.collections.generic.key_value_pair/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::KeyValuePair</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref>, <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt; &gt;</type>
+        <definition>typedef System::Collections::Generic::IEnumerable&lt;System::Collections::Generic::KeyValuePair&lt;System::String, System::String&gt; &gt; Aspose::Words::MailMerging::MappedDataFieldCollection::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="48" column="55" bodyfile="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" bodystart="48" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1ac80156d6ffb1764d24c9e10234427069" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection" kindref="compound">MappedDataFieldCollection</ref></type>
+        <definition>typedef MappedDataFieldCollection Aspose::Words::MailMerging::MappedDataFieldCollection::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="47" column="39" bodyfile="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" bodystart="47" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a6def74886e0500bac9d4fa32160abc4a" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::MailMerging::MappedDataFieldCollection::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="50" column="37" bodyfile="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" bodystart="50" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a82c24fa485e4c03b7e57bbe1217d46ca" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a558a770586847f43521ca201dddfabdf" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
+        <definition>using Aspose::Words::MailMerging::MappedDataFieldCollection::const_iterator =  typename iterator_holder_type::const_iterator</definition>
+        <argsstring></argsstring>
+        <name>const_iterator</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::const_iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="59" column="5" bodyfile="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" bodystart="59" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1ae13e7f3777afa293ffb0471b2cb5011d" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1aa026f5695c128b72d17c672cf16b0d6b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
+        <definition>using Aspose::Words::MailMerging::MappedDataFieldCollection::iterator =  typename iterator_holder_type::iterator</definition>
+        <argsstring></argsstring>
+        <name>iterator</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="57" column="5" bodyfile="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" bodystart="57" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a16b03638bbb9594625ab0b43abd84a85" prot="public" static="no">
+        <type><ref refid="class/system.collections.generic.dictionary/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::Dictionary</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref>, <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt;</type>
+        <definition>using Aspose::Words::MailMerging::MappedDataFieldCollection::iterator_holder_type =  System::Collections::Generic::Dictionary&lt;System::String, System::String&gt;</definition>
+        <argsstring></argsstring>
+        <name>iterator_holder_type</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::iterator_holder_type</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="55" column="5" bodyfile="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" bodystart="55" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1aafd1eaf0c1318f34971b6d1838dd7322" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
+        <definition>using Aspose::Words::MailMerging::MappedDataFieldCollection::virtualized_iterator =  typename iterator_holder_type::virtualized_iterator</definition>
+        <argsstring></argsstring>
+        <name>virtualized_iterator</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::virtualized_iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="63" column="5" bodyfile="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" bodystart="63" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1abf32869644b0b51534ccdd95e09dc08a" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
+        <definition>using Aspose::Words::MailMerging::MappedDataFieldCollection::virtualized_iterator_element =  typename iterator_holder_type::virtualized_iterator_element</definition>
+        <argsstring></argsstring>
+        <name>virtualized_iterator_element</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::virtualized_iterator_element</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="61" column="5" bodyfile="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" bodystart="61" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a2bf25490491fb8d0f76ec66f6faa618c" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::MailMerging::MappedDataFieldCollection::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="135" column="23" bodyfile="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" bodystart="135" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a402bfd43eba2b585555720e4db2148de" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::MailMerging::MappedDataFieldCollection::MappedDataFieldCollection</definition>
+        <argsstring>()</argsstring>
+        <name>MappedDataFieldCollection</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::MappedDataFieldCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="129" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a59c43dc4324fe5bafb7e9c02740632a4" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::MailMerging::MappedDataFieldCollection::~MappedDataFieldCollection</definition>
+        <argsstring>()</argsstring>
+        <name>~MappedDataFieldCollection</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::~MappedDataFieldCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="131" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a51a4d3ad3a72989affdbd95db57231a6" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::MailMerging::MappedDataFieldCollection::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="51" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a5a75f163dd623341db5677de53fded02" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::MailMerging::MappedDataFieldCollection::Add</definition>
+        <argsstring>(const System::String &amp;documentFieldName, const System::String &amp;dataSourceFieldName)</argsstring>
+        <name>Add</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::Add</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>documentFieldName</declname>
+        </param>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>dataSourceFieldName</declname>
+        </param>
+        <briefdescription>
+<para>Adds a new field mapping. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>documentFieldName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Case-sensitive name of the mail merge field in the document. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>dataSourceFieldName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Case-sensitive name of the field in the data source. </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="83" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a49ac7cddc596ee6b7a2c462ef94c7e5b" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a82c24fa485e4c03b7e57bbe1217d46ca" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::MailMerging::MappedDataFieldCollection::begin</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>begin</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::begin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="111" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1afaa0cbe4abc2b277dba8401355fbc5b7" prot="public" static="no" const="no" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1ae13e7f3777afa293ffb0471b2cb5011d" kindref="member">iterator</ref></type>
+        <definition>iterator Aspose::Words::MailMerging::MappedDataFieldCollection::begin</definition>
+        <argsstring>() noexcept</argsstring>
+        <name>begin</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::begin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="107" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1ac7c6a4527a9278b8bbefc213534d7553" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a82c24fa485e4c03b7e57bbe1217d46ca" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::MailMerging::MappedDataFieldCollection::cbegin</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>cbegin</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::cbegin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="115" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a5e2f0f0fb3626389bb30c247d75d7739" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a82c24fa485e4c03b7e57bbe1217d46ca" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::MailMerging::MappedDataFieldCollection::cend</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>cend</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::cend</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="117" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1ad94f933f05c77461f8ea685b27e7ea24" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::MailMerging::MappedDataFieldCollection::Clear</definition>
+        <argsstring>()</argsstring>
+        <name>Clear</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::Clear</qualifiedname>
+        <briefdescription>
+<para>Removes all elements from the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="105" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a95f7e2a34f966780cf97eba10ce24d38" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::MailMerging::MappedDataFieldCollection::ContainsKey</definition>
+        <argsstring>(const System::String &amp;documentFieldName)</argsstring>
+        <name>ContainsKey</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::ContainsKey</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>documentFieldName</declname>
+        </param>
+        <briefdescription>
+<para>Determines whether a mapping from the specified field in the document exists in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>documentFieldName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Case-sensitive name of the mail merge field in the document.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>True if item is found in the collection; otherwise, false. </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="90" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a0ba196b7d293e3126728fe347a694820" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::MailMerging::MappedDataFieldCollection::ContainsValue</definition>
+        <argsstring>(const System::String &amp;dataSourceFieldName)</argsstring>
+        <name>ContainsValue</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::ContainsValue</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>dataSourceFieldName</declname>
+        </param>
+        <briefdescription>
+<para>Determines whether a mapping from the specified field in the data source exists in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>dataSourceFieldName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Case-sensitive name of the field in the data source.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>True if item is found in the collection; otherwise, false. </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="97" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a95da7b0c436f6fce60b01e3e58826ddc" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a82c24fa485e4c03b7e57bbe1217d46ca" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::MailMerging::MappedDataFieldCollection::end</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>end</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::end</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="113" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a74c91d508ab6fa44c4eb390e16fbd962" prot="public" static="no" const="no" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1ae13e7f3777afa293ffb0471b2cb5011d" kindref="member">iterator</ref></type>
+        <definition>iterator Aspose::Words::MailMerging::MappedDataFieldCollection::end</definition>
+        <argsstring>() noexcept</argsstring>
+        <name>end</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::end</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="109" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1aa0fc22e2741656d13c519c97604ac232" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::MailMerging::MappedDataFieldCollection::get_Count</definition>
+        <argsstring>()</argsstring>
+        <name>get_Count</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::get_Count</qualifiedname>
+        <briefdescription>
+<para>Gets the number of elements contained in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="68" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a139a8104496890938d3ae59e9208bdfc" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="class/system.collections.generic.key_value_pair/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::KeyValuePair</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref>, <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt; &gt; &gt;</type>
+        <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::Collections::Generic::KeyValuePair&lt; System::String, System::String &gt; &gt; &gt; Aspose::Words::MailMerging::MappedDataFieldCollection::GetEnumerator</definition>
+        <argsstring>() override</argsstring>
+        <name>GetEnumerator</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::GetEnumerator</qualifiedname>
+        <briefdescription>
+<para>Returns a dictionary enumerator object that can be used to iterate over all items in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="77" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a64a905badf6f99c799711ec1a07fe3cf" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::MailMerging::MappedDataFieldCollection::idx_get</definition>
+        <argsstring>(const System::String &amp;documentFieldName)</argsstring>
+        <name>idx_get</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::idx_get</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>documentFieldName</declname>
+        </param>
+        <briefdescription>
+<para>Gets or sets the name of the field in the data source associated with the specified mail merge field. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="71" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a887af2e6712e032b28c0c1ccda5846dc" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::MailMerging::MappedDataFieldCollection::idx_set</definition>
+        <argsstring>(const System::String &amp;documentFieldName, const System::String &amp;value)</argsstring>
+        <name>idx_set</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::idx_set</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>documentFieldName</declname>
+        </param>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Gets or sets the name of the field in the data source associated with the specified mail merge field. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="74" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a76f14a29e17b11c049711a0d2d6f25cf" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::MailMerging::MappedDataFieldCollection::Remove</definition>
+        <argsstring>(const System::String &amp;documentFieldName)</argsstring>
+        <name>Remove</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::Remove</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>documentFieldName</declname>
+        </param>
+        <briefdescription>
+<para>Removes a field mapping. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>documentFieldName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Case-sensitive name of the mail merge field in the document. </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="102" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1aa3bd0b4daca669abd1eb9e913d0935b3" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1aafd1eaf0c1318f34971b6d1838dd7322" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::MailMerging::MappedDataFieldCollection::virtualizeBeginConstIterator</definition>
+        <argsstring>() const override</argsstring>
+        <name>virtualizeBeginConstIterator</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::virtualizeBeginConstIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="123" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a8ed574ccec011dcf8c8477b7bd503564" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1aafd1eaf0c1318f34971b6d1838dd7322" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::MailMerging::MappedDataFieldCollection::virtualizeBeginIterator</definition>
+        <argsstring>() override</argsstring>
+        <name>virtualizeBeginIterator</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::virtualizeBeginIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="119" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a143fc10c46ac4c669e8c1dac577ce1e7" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1aafd1eaf0c1318f34971b6d1838dd7322" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::MailMerging::MappedDataFieldCollection::virtualizeEndConstIterator</definition>
+        <argsstring>() const override</argsstring>
+        <name>virtualizeEndConstIterator</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::virtualizeEndConstIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="125" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a2d9db2e5d37760351acd16791d82959e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1aafd1eaf0c1318f34971b6d1838dd7322" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::MailMerging::MappedDataFieldCollection::virtualizeEndIterator</definition>
+        <argsstring>() override</argsstring>
+        <name>virtualizeEndIterator</name>
+        <qualifiedname>Aspose::Words::MailMerging::MappedDataFieldCollection::virtualizeEndIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="121" column="29"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Allows to automatically map between names of fields in your data source and names of mail merge fields in the document. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>This is implemented as a collection of string keys into string values. The keys are the names of mail merge fields in the document and the values are the names of fields in your data source.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge" kindref="compound">Aspose::Words::MailMerging::MailMerge</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_1a86c94c254a9dadd4f64771d6519a8c05" kindref="member">Aspose::Words::MailMerging::MailMerge::get_MappedDataFields</ref> </para>
+</simplesect>
+</para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::MailMerging::MappedDataFieldCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; System::Collections::Generic::KeyValuePair&lt; System::String, System::String &gt; &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::MailMerging::MappedDataFieldCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; System::Collections::Generic::KeyValuePair&lt; System::String, System::String &gt; &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" line="45" column="1" bodyfile="Aspose.Words.Cpp/MailMerging/MappedDataFieldCollection.h" bodystart="46" bodyend="137"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a5a75f163dd623341db5677de53fded02" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>Add</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a07a6cf1a6e5d21411a5ea832fc7d470e" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1afaa0cbe4abc2b277dba8401355fbc5b7" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>begin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a49ac7cddc596ee6b7a2c462ef94c7e5b" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>begin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1ac7c6a4527a9278b8bbefc213534d7553" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>cbegin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a5e2f0f0fb3626389bb30c247d75d7739" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>cend</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1ad94f933f05c77461f8ea685b27e7ea24" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>Clear</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a82c24fa485e4c03b7e57bbe1217d46ca" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>const_iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a95f7e2a34f966780cf97eba10ce24d38" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>ContainsKey</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a0ba196b7d293e3126728fe347a694820" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>ContainsValue</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a74c91d508ab6fa44c4eb390e16fbd962" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>end</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a95da7b0c436f6fce60b01e3e58826ddc" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>end</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1aa0fc22e2741656d13c519c97604ac232" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a139a8104496890938d3ae59e9208bdfc" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>GetEnumerator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a64a905badf6f99c799711ec1a07fe3cf" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>idx_get</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a887af2e6712e032b28c0c1ccda5846dc" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>idx_set</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1ae13e7f3777afa293ffb0471b2cb5011d" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a16b03638bbb9594625ab0b43abd84a85" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>iterator_holder_type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a402bfd43eba2b585555720e4db2148de" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>MappedDataFieldCollection</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a2bf25490491fb8d0f76ec66f6faa618c" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a76f14a29e17b11c049711a0d2d6f25cf" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a51a4d3ad3a72989affdbd95db57231a6" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1ac80156d6ffb1764d24c9e10234427069" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a6def74886e0500bac9d4fa32160abc4a" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1aa3bd0b4daca669abd1eb9e913d0935b3" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>virtualizeBeginConstIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a8ed574ccec011dcf8c8477b7bd503564" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>virtualizeBeginIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1aafd1eaf0c1318f34971b6d1838dd7322" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>virtualized_iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1abf32869644b0b51534ccdd95e09dc08a" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>virtualized_iterator_element</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a143fc10c46ac4c669e8c1dac577ce1e7" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>virtualizeEndConstIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a2d9db2e5d37760351acd16791d82959e" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>virtualizeEndIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection_1a59c43dc4324fe5bafb7e9c02740632a4" prot="private" virt="virtual"><scope>Aspose::Words::MailMerging::MappedDataFieldCollection</scope><name>~MappedDataFieldCollection</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

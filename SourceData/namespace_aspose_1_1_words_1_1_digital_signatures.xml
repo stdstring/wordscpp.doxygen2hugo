@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="namespace_aspose_1_1_words_1_1_digital_signatures" kind="namespace" language="C++">
+    <compoundname>Aspose::Words::DigitalSignatures</compoundname>
+    <innerclass refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder" prot="public">Aspose::Words::DigitalSignatures::CertificateHolder</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature" prot="public">Aspose::Words::DigitalSignatures::DigitalSignature</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection" prot="public">Aspose::Words::DigitalSignatures::DigitalSignatureCollection</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_util" prot="public">Aspose::Words::DigitalSignatures::DigitalSignatureUtil</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options" prot="public">Aspose::Words::DigitalSignatures::SignOptions</innerclass>
+      <sectiondef kind="enum">
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_digital_signatures_1ad0f5ce1802c83e610c2b7797db20aff7" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>DigitalSignatureType</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureType</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_digital_signatures_1ad0f5ce1802c83e610c2b7797db20aff7a88183b946cc5f0e8c96b2e66e1c74a7e" prot="public">
+          <name>Unknown</name>
+          <briefdescription>
+<para>Indicates an error, unknown digital signature type. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_digital_signatures_1ad0f5ce1802c83e610c2b7797db20aff7ac02310f710d5b557840f5674f7ae259e" prot="public">
+          <name>CryptoApi</name>
+          <briefdescription>
+<para>The Crypto API signature method used in Microsoft Word 97-2003 .DOC binary documents. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_digital_signatures_1ad0f5ce1802c83e610c2b7797db20aff7a29afa82ce86aca427a1216507bdd23e1" prot="public">
+          <name>XmlDsig</name>
+          <briefdescription>
+<para>The XmlDsig signature method used in OOXML and OpenDocument documents. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies the type of a digital signature. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to sign documents with X.509 certificates. <programlisting><codeline><highlight class="comment">//<sp/>Verify<sp/>that<sp/>a<sp/>document<sp/>is<sp/>not<sp/>signed.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class_aspose_1_1_words_1_1_file_format_util_1a0f7aae337dbe4dee5b3c025faf1ced64" kindref="member" tooltip="Detects and returns the information about a format of a document stored in a disk file.">FileFormatUtil::DetectFileFormat</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">)-&gt;get_HasDigitalSignature());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>CertificateHolder<sp/>object<sp/>from<sp/>a<sp/>PKCS12<sp/>file,<sp/>which<sp/>we<sp/>will<sp/>use<sp/>to<sp/>sign<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CertificateHolder&gt;<sp/>certificateHolder<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder_1a0fd6423e6d95a9b92a170da169d3fa25" kindref="member" tooltip="Creates CertificateHolder object using byte array of PKCS12 store and its password.">CertificateHolder::Create</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;morzal.pfx&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;aw&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>saving<sp/>a<sp/>signed<sp/>copy<sp/>of<sp/>a<sp/>document<sp/>to<sp/>the<sp/>local<sp/>file<sp/>system:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/>Designate<sp/>a<sp/>document<sp/>by<sp/>a<sp/>local<sp/>system<sp/>filename<sp/>and<sp/>save<sp/>a<sp/>signed<sp/>copy<sp/>at<sp/>a<sp/>location<sp/>specified<sp/>by<sp/>another<sp/>filename.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signOptions<sp/>=<sp/>MakeObject&lt;SignOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">signOptions-&gt;set_SignTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_util_1af869532f846e545c8cd7436d45af6530" kindref="member" tooltip="Signs source document using given CertificateHolder and SignOptions with digital signature and writes...">DigitalSignatureUtil::Sign</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">,<sp/>ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">,<sp/>certificateHolder,<sp/>signOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class_aspose_1_1_words_1_1_file_format_util_1a0f7aae337dbe4dee5b3c025faf1ced64" kindref="member" tooltip="Detects and returns the information about a format of a document stored in a disk file.">FileFormatUtil::DetectFileFormat</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">)-&gt;get_HasDigitalSignature());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/>Take<sp/>a<sp/>document<sp/>from<sp/>a<sp/>stream<sp/>and<sp/>save<sp/>a<sp/>signed<sp/>copy<sp/>to<sp/>another<sp/>stream.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>inDoc<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Open);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>outDoc<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Create);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_util_1af869532f846e545c8cd7436d45af6530" kindref="member" tooltip="Signs source document using given CertificateHolder and SignOptions with digital signature and writes...">DigitalSignatureUtil::Sign</ref>(inDoc,<sp/>outDoc,<sp/>certificateHolder);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class_aspose_1_1_words_1_1_file_format_util_1a0f7aae337dbe4dee5b3c025faf1ced64" kindref="member" tooltip="Detects and returns the information about a format of a document stored in a disk file.">FileFormatUtil::DetectFileFormat</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">)-&gt;get_HasDigitalSignature());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Please<sp/>verify<sp/>that<sp/>all<sp/>of<sp/>the<sp/>document&apos;s<sp/>digital<sp/>signatures<sp/>are<sp/>valid<sp/>and<sp/>check<sp/>their<sp/>details.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signedDoc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;DigitalSignatureCollection&gt;<sp/>digitalSignatureCollection<sp/>=<sp/>signedDoc-&gt;get_DigitalSignatures();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(digitalSignatureCollection-&gt;get_IsValid());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>digitalSignatureCollection-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_digital_signatures_1ad0f5ce1802c83e610c2b7797db20aff7a29afa82ce86aca427a1216507bdd23e1" kindref="member" tooltip="The XmlDsig signature method used in OOXML and OpenDocument documents.">DigitalSignatureType::XmlDsig</ref>,<sp/>digitalSignatureCollection-&gt;idx_get(0)-&gt;get_SignatureType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;CN=Morzal.Me&quot;</highlight><highlight class="normal">,<sp/>signedDoc-&gt;get_DigitalSignatures()-&gt;idx_get(0)-&gt;get_IssuerName());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;CN=Morzal.Me&quot;</highlight><highlight class="normal">,<sp/>signedDoc-&gt;get_DigitalSignatures()-&gt;idx_get(0)-&gt;get_SubjectName());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureType.h" line="64" column="1" bodyfile="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureType.h" bodystart="65" bodyend="75"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>The <bold>Aspose.Words.DigitalSignatures</bold> namespace provides classes to sign documents and verify signatures. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/DigitalSignatures/CertificateHolder.h" line="35" column="1"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,1017 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_drawing_1_1_text_box" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Drawing::TextBox</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_text_box_8h" local="no">Aspose.Words.Cpp/Drawing/TextBox.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a464470e532d39b688eefa36fa3c799a0" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Drawing::TextBox::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="112" column="28" bodyfile="Aspose.Words.Cpp/Drawing/TextBox.h" bodystart="112" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a5cfe8246c5e5d70e534a9349622b1f7a" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box" kindref="compound">TextBox</ref></type>
+        <definition>typedef TextBox Aspose::Words::Drawing::TextBox::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="111" column="21" bodyfile="Aspose.Words.Cpp/Drawing/TextBox.h" bodystart="111" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1ad5c611a3b33385e1d8c6285708a0572a" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Drawing::TextBox::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="114" column="37" bodyfile="Aspose.Words.Cpp/Drawing/TextBox.h" bodystart="114" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1ae592faf00d0af44db015909b70aadd46" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::Drawing::TextBox::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="641" column="21" bodyfile="Aspose.Words.Cpp/Drawing/TextBox.h" bodystart="641" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1afeff2edb099d6ed294a6d77648f01579" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::TextBox::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="642" column="23" bodyfile="Aspose.Words.Cpp/Drawing/TextBox.h" bodystart="642" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1abc756e35041091acd4314547609c456b" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::TextBox::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="643" column="23" bodyfile="Aspose.Words.Cpp/Drawing/TextBox.h" bodystart="643" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1acea1052fafda99ab5066f62cb060c6e2" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Drawing::TextBox::~TextBox</definition>
+        <argsstring>()</argsstring>
+        <name>~TextBox</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::~TextBox</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="637" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a4cd3e972b9ba4a4e78f066b4cf00a779" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Drawing::TextBox::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="115" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a4ac7755155372569038ac578ade82726" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::TextBox::BreakForwardLink</definition>
+        <argsstring>()</argsstring>
+        <name>BreakForwardLink</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::BreakForwardLink</qualifiedname>
+        <briefdescription>
+<para>Breaks the link to the next <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box" kindref="compound">TextBox</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to link text boxes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>textBoxShape1<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>100,<sp/>100);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextBox&gt;<sp/>textBox1<sp/>=<sp/>textBoxShape1-&gt;get_TextBox();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>textBoxShape2<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>100,<sp/>100);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextBox&gt;<sp/>textBox2<sp/>=<sp/>textBoxShape2-&gt;get_TextBox();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>textBoxShape3<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>100,<sp/>100);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextBox&gt;<sp/>textBox3<sp/>=<sp/>textBoxShape3-&gt;get_TextBox();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>textBoxShape4<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>100,<sp/>100);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextBox&gt;<sp/>textBox4<sp/>=<sp/>textBoxShape4-&gt;get_TextBox();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>links<sp/>between<sp/>some<sp/>of<sp/>the<sp/>text<sp/>boxes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(textBox1-&gt;IsValidLinkTarget(textBox2))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>textBox1-&gt;set_Next(textBox2);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(textBox2-&gt;IsValidLinkTarget(textBox3))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>textBox2-&gt;set_Next(textBox3);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Only<sp/>an<sp/>empty<sp/>text<sp/>box<sp/>may<sp/>have<sp/>a<sp/>link.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(textBox3-&gt;IsValidLinkTarget(textBox4));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveTo(textBoxShape4-&gt;get_LastParagraph());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(textBox3-&gt;IsValidLinkTarget(textBox4));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(textBox1-&gt;get_Next()<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal"><sp/>&amp;&amp;<sp/>textBox1-&gt;get_Previous()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;This<sp/>TextBox<sp/>is<sp/>the<sp/>head<sp/>of<sp/>the<sp/>sequence&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(textBox2-&gt;get_Next()<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal"><sp/>&amp;&amp;<sp/>textBox2-&gt;get_Previous()<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;This<sp/>TextBox<sp/>is<sp/>the<sp/>middle<sp/>of<sp/>the<sp/>sequence&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(textBox3-&gt;get_Next()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal"><sp/>&amp;&amp;<sp/>textBox3-&gt;get_Previous()<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;This<sp/>TextBox<sp/>is<sp/>the<sp/>tail<sp/>of<sp/>the<sp/>sequence&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Break<sp/>the<sp/>forward<sp/>link<sp/>between<sp/>textBox2<sp/>and<sp/>textBox3,<sp/>and<sp/>then<sp/>verify<sp/>that<sp/>they<sp/>are<sp/>no<sp/>longer<sp/>linked.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>textBox3-&gt;get_Previous()-&gt;BreakForwardLink();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(textBox2-&gt;get_Next()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(textBox3-&gt;get_Previous()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.CreateLinkBetweenTextBoxes.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="633" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1acb92f03d92085d811c16b406bae4ac1b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Drawing::TextBox::get_FitShapeToText</definition>
+        <argsstring>()</argsstring>
+        <name>get_FitShapeToText</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::get_FitShapeToText</qualifiedname>
+        <briefdescription>
+<para>Determines whether Microsoft Word will grow the shape to fit text. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The default value is <bold>false</bold>.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to get a text box to resize itself to fit its contents tightly. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>textBoxShape<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>150,<sp/>100);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextBox&gt;<sp/>textBox<sp/>=<sp/>textBoxShape-&gt;get_TextBox();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>these<sp/>values<sp/>to<sp/>both<sp/>these<sp/>members<sp/>to<sp/>get<sp/>the<sp/>parent<sp/>shape<sp/>to<sp/>fit</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>tightly<sp/>around<sp/>the<sp/>text<sp/>contents,<sp/>ignoring<sp/>the<sp/>dimensions<sp/>we<sp/>have<sp/>set.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_FitShapeToText(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_TextBoxWrapMode(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1ade44d6ac98c2050a3958c6701381b267a6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="Text does not wrap inside a shape.">TextBoxWrapMode::None</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveTo(textBoxShape-&gt;get_LastParagraph());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>fit<sp/>tightly<sp/>inside<sp/>textbox.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.TextBoxFitShapeToText.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="259" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1ac71f5383ce620420ef9d70bb213524f4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::Drawing::TextBox::get_InternalMarginBottom</definition>
+        <argsstring>()</argsstring>
+        <name>get_InternalMarginBottom</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::get_InternalMarginBottom</qualifiedname>
+        <briefdescription>
+<para>Specifies the inner bottom margin in points for a shape. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The default value is 1/20 inch.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set internal margins for a text box. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>another<sp/>textbox<sp/>with<sp/>specific<sp/>margins.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>textBoxShape<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>100,<sp/>100);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextBox&gt;<sp/>textBox<sp/>=<sp/>textBoxShape-&gt;get_TextBox();</highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_InternalMarginTop(15);</highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_InternalMarginBottom(15);</highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_InternalMarginLeft(15);</highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_InternalMarginRight(15);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveTo(textBoxShape-&gt;get_LastParagraph());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>placed<sp/>according<sp/>to<sp/>textbox<sp/>margins.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.TextBoxMargins.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="230" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a825b240d3680adf04f308ee0e8007093" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::Drawing::TextBox::get_InternalMarginLeft</definition>
+        <argsstring>()</argsstring>
+        <name>get_InternalMarginLeft</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::get_InternalMarginLeft</qualifiedname>
+        <briefdescription>
+<para>Specifies the inner left margin in points for a shape. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The default value is 1/10 inch.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set internal margins for a text box. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>another<sp/>textbox<sp/>with<sp/>specific<sp/>margins.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>textBoxShape<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>100,<sp/>100);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextBox&gt;<sp/>textBox<sp/>=<sp/>textBoxShape-&gt;get_TextBox();</highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_InternalMarginTop(15);</highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_InternalMarginBottom(15);</highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_InternalMarginLeft(15);</highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_InternalMarginRight(15);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveTo(textBoxShape-&gt;get_LastParagraph());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>placed<sp/>according<sp/>to<sp/>textbox<sp/>margins.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.TextBoxMargins.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="143" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a559d7c5e8f37b7e13a398b5935b58bfb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::Drawing::TextBox::get_InternalMarginRight</definition>
+        <argsstring>()</argsstring>
+        <name>get_InternalMarginRight</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::get_InternalMarginRight</qualifiedname>
+        <briefdescription>
+<para>Specifies the inner right margin in points for a shape. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The default value is 1/10 inch.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set internal margins for a text box. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>another<sp/>textbox<sp/>with<sp/>specific<sp/>margins.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>textBoxShape<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>100,<sp/>100);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextBox&gt;<sp/>textBox<sp/>=<sp/>textBoxShape-&gt;get_TextBox();</highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_InternalMarginTop(15);</highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_InternalMarginBottom(15);</highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_InternalMarginLeft(15);</highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_InternalMarginRight(15);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveTo(textBoxShape-&gt;get_LastParagraph());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>placed<sp/>according<sp/>to<sp/>textbox<sp/>margins.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.TextBoxMargins.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="172" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a216be0d05d1a91568b6f9b6d9e1202a4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::Drawing::TextBox::get_InternalMarginTop</definition>
+        <argsstring>()</argsstring>
+        <name>get_InternalMarginTop</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::get_InternalMarginTop</qualifiedname>
+        <briefdescription>
+<para>Specifies the inner top margin in points for a shape. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The default value is 1/20 inch.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set internal margins for a text box. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>another<sp/>textbox<sp/>with<sp/>specific<sp/>margins.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>textBoxShape<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>100,<sp/>100);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextBox&gt;<sp/>textBox<sp/>=<sp/>textBoxShape-&gt;get_TextBox();</highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_InternalMarginTop(15);</highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_InternalMarginBottom(15);</highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_InternalMarginLeft(15);</highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_InternalMarginRight(15);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveTo(textBoxShape-&gt;get_LastParagraph());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>placed<sp/>according<sp/>to<sp/>textbox<sp/>margins.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.TextBoxMargins.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="201" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a9dd7f0e3c0c63c3e1e24cc060542e387" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a23e23067dfc7a097e9d41a86b3074de9" kindref="member">Aspose::Words::Drawing::LayoutFlow</ref></type>
+        <definition>Aspose::Words::Drawing::LayoutFlow Aspose::Words::Drawing::TextBox::get_LayoutFlow</definition>
+        <argsstring>()</argsstring>
+        <name>get_LayoutFlow</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::get_LayoutFlow</qualifiedname>
+        <briefdescription>
+<para>Determines the flow of the text layout in a shape. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The default value is <ref refid="namespace_aspose_1_1_words_1_1_drawing_1a23e23067dfc7a097e9d41a86b3074de9ac1b5fa03ecdb95d4a45dd1c40b02527f" kindref="member">Horizontal</ref>.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set the orientation of text inside a text box. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>textBoxShape<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>150,<sp/>100);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextBox&gt;<sp/>textBox<sp/>=<sp/>textBoxShape-&gt;get_TextBox();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Move<sp/>the<sp/>document<sp/>builder<sp/>to<sp/>inside<sp/>the<sp/>TextBox<sp/>and<sp/>add<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveTo(textBoxShape-&gt;get_LastParagraph());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>again!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;LayoutFlow&quot;<sp/>property<sp/>to<sp/>set<sp/>an<sp/>orientation<sp/>for<sp/>the<sp/>text<sp/>contents<sp/>of<sp/>this<sp/>text<sp/>box.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_LayoutFlow(layoutFlow);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.TextBoxLayoutFlow.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="288" column="43"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a1ff342a971c758782f7e16f5385722e3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box" kindref="compound">Aspose::Words::Drawing::TextBox</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::TextBox &gt; Aspose::Words::Drawing::TextBox::get_Next</definition>
+        <argsstring>()</argsstring>
+        <name>get_Next</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::get_Next</qualifiedname>
+        <briefdescription>
+<para>Returns or sets a <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box" kindref="compound">TextBox</ref> that represents the next <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box" kindref="compound">TextBox</ref> in a sequence of shapes. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to link text boxes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>textBoxShape1<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>100,<sp/>100);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextBox&gt;<sp/>textBox1<sp/>=<sp/>textBoxShape1-&gt;get_TextBox();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>textBoxShape2<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>100,<sp/>100);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextBox&gt;<sp/>textBox2<sp/>=<sp/>textBoxShape2-&gt;get_TextBox();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>textBoxShape3<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>100,<sp/>100);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextBox&gt;<sp/>textBox3<sp/>=<sp/>textBoxShape3-&gt;get_TextBox();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>textBoxShape4<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>100,<sp/>100);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextBox&gt;<sp/>textBox4<sp/>=<sp/>textBoxShape4-&gt;get_TextBox();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>links<sp/>between<sp/>some<sp/>of<sp/>the<sp/>text<sp/>boxes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(textBox1-&gt;IsValidLinkTarget(textBox2))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>textBox1-&gt;set_Next(textBox2);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(textBox2-&gt;IsValidLinkTarget(textBox3))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>textBox2-&gt;set_Next(textBox3);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Only<sp/>an<sp/>empty<sp/>text<sp/>box<sp/>may<sp/>have<sp/>a<sp/>link.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(textBox3-&gt;IsValidLinkTarget(textBox4));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveTo(textBoxShape4-&gt;get_LastParagraph());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(textBox3-&gt;IsValidLinkTarget(textBox4));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(textBox1-&gt;get_Next()<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal"><sp/>&amp;&amp;<sp/>textBox1-&gt;get_Previous()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;This<sp/>TextBox<sp/>is<sp/>the<sp/>head<sp/>of<sp/>the<sp/>sequence&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(textBox2-&gt;get_Next()<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal"><sp/>&amp;&amp;<sp/>textBox2-&gt;get_Previous()<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;This<sp/>TextBox<sp/>is<sp/>the<sp/>middle<sp/>of<sp/>the<sp/>sequence&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(textBox3-&gt;get_Next()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal"><sp/>&amp;&amp;<sp/>textBox3-&gt;get_Previous()<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;This<sp/>TextBox<sp/>is<sp/>the<sp/>tail<sp/>of<sp/>the<sp/>sequence&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Break<sp/>the<sp/>forward<sp/>link<sp/>between<sp/>textBox2<sp/>and<sp/>textBox3,<sp/>and<sp/>then<sp/>verify<sp/>that<sp/>they<sp/>are<sp/>no<sp/>longer<sp/>linked.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>textBox3-&gt;get_Previous()-&gt;BreakForwardLink();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(textBox2-&gt;get_Next()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(textBox3-&gt;get_Previous()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.CreateLinkBetweenTextBoxes.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="423" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1af251c5fcf76bda5f31520e7129b3f989" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape" kindref="compound">Aspose::Words::Drawing::Shape</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::Shape &gt; Aspose::Words::Drawing::TextBox::get_Parent</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Parent</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::get_Parent</qualifiedname>
+        <briefdescription>
+<para>Gets a parent shape for the <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box" kindref="compound">TextBox</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="497" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1ae8972ddd9fc7504c7f503097f39bde3a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box" kindref="compound">Aspose::Words::Drawing::TextBox</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::TextBox &gt; Aspose::Words::Drawing::TextBox::get_Previous</definition>
+        <argsstring>()</argsstring>
+        <name>get_Previous</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::get_Previous</qualifiedname>
+        <briefdescription>
+<para>Returns a <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box" kindref="compound">TextBox</ref> that represents the previous <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box" kindref="compound">TextBox</ref> in a sequence of shapes. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to link text boxes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>textBoxShape1<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>100,<sp/>100);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextBox&gt;<sp/>textBox1<sp/>=<sp/>textBoxShape1-&gt;get_TextBox();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>textBoxShape2<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>100,<sp/>100);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextBox&gt;<sp/>textBox2<sp/>=<sp/>textBoxShape2-&gt;get_TextBox();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>textBoxShape3<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>100,<sp/>100);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextBox&gt;<sp/>textBox3<sp/>=<sp/>textBoxShape3-&gt;get_TextBox();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>textBoxShape4<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>100,<sp/>100);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextBox&gt;<sp/>textBox4<sp/>=<sp/>textBoxShape4-&gt;get_TextBox();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>links<sp/>between<sp/>some<sp/>of<sp/>the<sp/>text<sp/>boxes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(textBox1-&gt;IsValidLinkTarget(textBox2))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>textBox1-&gt;set_Next(textBox2);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(textBox2-&gt;IsValidLinkTarget(textBox3))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>textBox2-&gt;set_Next(textBox3);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Only<sp/>an<sp/>empty<sp/>text<sp/>box<sp/>may<sp/>have<sp/>a<sp/>link.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(textBox3-&gt;IsValidLinkTarget(textBox4));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveTo(textBoxShape4-&gt;get_LastParagraph());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(textBox3-&gt;IsValidLinkTarget(textBox4));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(textBox1-&gt;get_Next()<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal"><sp/>&amp;&amp;<sp/>textBox1-&gt;get_Previous()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;This<sp/>TextBox<sp/>is<sp/>the<sp/>head<sp/>of<sp/>the<sp/>sequence&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(textBox2-&gt;get_Next()<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal"><sp/>&amp;&amp;<sp/>textBox2-&gt;get_Previous()<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;This<sp/>TextBox<sp/>is<sp/>the<sp/>middle<sp/>of<sp/>the<sp/>sequence&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(textBox3-&gt;get_Next()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal"><sp/>&amp;&amp;<sp/>textBox3-&gt;get_Previous()<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;This<sp/>TextBox<sp/>is<sp/>the<sp/>tail<sp/>of<sp/>the<sp/>sequence&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Break<sp/>the<sp/>forward<sp/>link<sp/>between<sp/>textBox2<sp/>and<sp/>textBox3,<sp/>and<sp/>then<sp/>verify<sp/>that<sp/>they<sp/>are<sp/>no<sp/>longer<sp/>linked.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>textBox3-&gt;get_Previous()-&gt;BreakForwardLink();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(textBox2-&gt;get_Next()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(textBox3-&gt;get_Previous()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.CreateLinkBetweenTextBoxes.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="494" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a552f9bf14907bf54e86f444b6b67963d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1ade44d6ac98c2050a3958c6701381b267" kindref="member">Aspose::Words::Drawing::TextBoxWrapMode</ref></type>
+        <definition>Aspose::Words::Drawing::TextBoxWrapMode Aspose::Words::Drawing::TextBox::get_TextBoxWrapMode</definition>
+        <argsstring>()</argsstring>
+        <name>get_TextBoxWrapMode</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::get_TextBoxWrapMode</qualifiedname>
+        <briefdescription>
+<para>Determines how text wraps inside a shape. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The default value is <ref refid="namespace_aspose_1_1_words_1_1_drawing_1ade44d6ac98c2050a3958c6701381b267aceb46ca115d05c51aa5a16a8867c3304" kindref="member">Square</ref>.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set a wrapping mode for the contents of a text box. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>textBoxShape<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>300,<sp/>300);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextBox&gt;<sp/>textBox<sp/>=<sp/>textBoxShape-&gt;get_TextBox();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;TextBoxWrapMode&quot;<sp/>property<sp/>to<sp/>&quot;TextBoxWrapMode.None&quot;<sp/>to<sp/>increase<sp/>the<sp/>text<sp/>box&apos;s<sp/>width</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>accommodate<sp/>text,<sp/>should<sp/>it<sp/>be<sp/>large<sp/>enough.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;TextBoxWrapMode&quot;<sp/>property<sp/>to<sp/>&quot;TextBoxWrapMode.Square&quot;<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>wrap<sp/>all<sp/>text<sp/>inside<sp/>the<sp/>text<sp/>box,<sp/>preserving<sp/>its<sp/>dimensions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_TextBoxWrapMode(textBoxWrapMode);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveTo(textBoxShape-&gt;get_LastParagraph());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Size(32);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Lorem<sp/>ipsum<sp/>dolor<sp/>sit<sp/>amet,<sp/>consectetur<sp/>adipiscing<sp/>elit,<sp/>sed<sp/>do<sp/>eiusmod<sp/>tempor<sp/>incididunt<sp/>ut<sp/>labore<sp/>et<sp/>dolore<sp/>magna<sp/>aliqua.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.TextBoxContentsWrapMode.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="319" column="48"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a046d21e49c71ed57ed84a67a2e5d8ce5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1ae0b433e0bc745f8fb62ddc48f96b9461" kindref="member">Aspose::Words::Drawing::TextBoxAnchor</ref></type>
+        <definition>Aspose::Words::Drawing::TextBoxAnchor Aspose::Words::Drawing::TextBox::get_VerticalAnchor</definition>
+        <argsstring>()</argsstring>
+        <name>get_VerticalAnchor</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::get_VerticalAnchor</qualifiedname>
+        <briefdescription>
+<para>Specifies the vertical alignment of the text within a shape. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The default value is <ref refid="namespace_aspose_1_1_words_1_1_drawing_1ae0b433e0bc745f8fb62ddc48f96b9461aa4ffdcf0dc1f31b9acaf295d75b51d00" kindref="member">Top</ref>.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to vertically align the text contents of a text box. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>200,<sp/>200);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;VerticalAnchor&quot;<sp/>property<sp/>to<sp/>&quot;TextBoxAnchor.Top&quot;<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>align<sp/>the<sp/>text<sp/>in<sp/>this<sp/>text<sp/>box<sp/>with<sp/>the<sp/>top<sp/>side<sp/>of<sp/>the<sp/>shape.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;VerticalAnchor&quot;<sp/>property<sp/>to<sp/>&quot;TextBoxAnchor.Middle&quot;<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>align<sp/>the<sp/>text<sp/>in<sp/>this<sp/>text<sp/>box<sp/>to<sp/>the<sp/>center<sp/>of<sp/>the<sp/>shape.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;VerticalAnchor&quot;<sp/>property<sp/>to<sp/>&quot;TextBoxAnchor.Bottom&quot;<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>align<sp/>the<sp/>text<sp/>in<sp/>this<sp/>text<sp/>box<sp/>to<sp/>the<sp/>bottom<sp/>of<sp/>the<sp/>shape.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;get_TextBox()-&gt;set_VerticalAnchor(verticalAnchor);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveTo(shape-&gt;get_FirstParagraph());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>vertical<sp/>aligning<sp/>of<sp/>text<sp/>inside<sp/>text<sp/>boxes<sp/>is<sp/>available<sp/>from<sp/>Microsoft<sp/>Word<sp/>2007<sp/>onwards.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_CompatibilityOptions()-&gt;OptimizeFor(MsWordVersion::Word2007);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.VerticalAnchor.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="352" column="46"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a3aaf340faf350ec465b569d03fa73f6c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Drawing::TextBox::IsValidLinkTarget</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Drawing::TextBox &gt; &amp;target)</argsstring>
+        <name>IsValidLinkTarget</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::IsValidLinkTarget</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box" kindref="compound">Aspose::Words::Drawing::TextBox</ref> &gt; &amp;</type>
+          <declname>target</declname>
+        </param>
+        <briefdescription>
+<para>Determines whether this <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box" kindref="compound">TextBox</ref> can be linked to the target Textbox. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to link text boxes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>textBoxShape1<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>100,<sp/>100);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextBox&gt;<sp/>textBox1<sp/>=<sp/>textBoxShape1-&gt;get_TextBox();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>textBoxShape2<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>100,<sp/>100);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextBox&gt;<sp/>textBox2<sp/>=<sp/>textBoxShape2-&gt;get_TextBox();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>textBoxShape3<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>100,<sp/>100);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextBox&gt;<sp/>textBox3<sp/>=<sp/>textBoxShape3-&gt;get_TextBox();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>textBoxShape4<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>100,<sp/>100);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextBox&gt;<sp/>textBox4<sp/>=<sp/>textBoxShape4-&gt;get_TextBox();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>links<sp/>between<sp/>some<sp/>of<sp/>the<sp/>text<sp/>boxes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(textBox1-&gt;IsValidLinkTarget(textBox2))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>textBox1-&gt;set_Next(textBox2);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(textBox2-&gt;IsValidLinkTarget(textBox3))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>textBox2-&gt;set_Next(textBox3);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Only<sp/>an<sp/>empty<sp/>text<sp/>box<sp/>may<sp/>have<sp/>a<sp/>link.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(textBox3-&gt;IsValidLinkTarget(textBox4));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveTo(textBoxShape4-&gt;get_LastParagraph());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(textBox3-&gt;IsValidLinkTarget(textBox4));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(textBox1-&gt;get_Next()<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal"><sp/>&amp;&amp;<sp/>textBox1-&gt;get_Previous()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;This<sp/>TextBox<sp/>is<sp/>the<sp/>head<sp/>of<sp/>the<sp/>sequence&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(textBox2-&gt;get_Next()<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal"><sp/>&amp;&amp;<sp/>textBox2-&gt;get_Previous()<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;This<sp/>TextBox<sp/>is<sp/>the<sp/>middle<sp/>of<sp/>the<sp/>sequence&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(textBox3-&gt;get_Next()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal"><sp/>&amp;&amp;<sp/>textBox3-&gt;get_Previous()<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;This<sp/>TextBox<sp/>is<sp/>the<sp/>tail<sp/>of<sp/>the<sp/>sequence&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Break<sp/>the<sp/>forward<sp/>link<sp/>between<sp/>textBox2<sp/>and<sp/>textBox3,<sp/>and<sp/>then<sp/>verify<sp/>that<sp/>they<sp/>are<sp/>no<sp/>longer<sp/>linked.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>textBox3-&gt;get_Previous()-&gt;BreakForwardLink();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(textBox2-&gt;get_Next()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(textBox3-&gt;get_Previous()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.CreateLinkBetweenTextBoxes.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="565" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a18c05366c9db22ca33843d6ae82dd249" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::TextBox::set_FitShapeToText</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_FitShapeToText</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::set_FitShapeToText</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1acb92f03d92085d811c16b406bae4ac1b" kindref="member">Aspose::Words::Drawing::TextBox::get_FitShapeToText</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="262" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1af5d84bea91b85768a72259d3b4c528ff" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::TextBox::set_InternalMarginBottom</definition>
+        <argsstring>(double value)</argsstring>
+        <name>set_InternalMarginBottom</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::set_InternalMarginBottom</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1ac71f5383ce620420ef9d70bb213524f4" kindref="member">Aspose::Words::Drawing::TextBox::get_InternalMarginBottom</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="233" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1af06536a27f82f66e1e14eb409f076c69" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::TextBox::set_InternalMarginLeft</definition>
+        <argsstring>(double value)</argsstring>
+        <name>set_InternalMarginLeft</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::set_InternalMarginLeft</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a825b240d3680adf04f308ee0e8007093" kindref="member">Aspose::Words::Drawing::TextBox::get_InternalMarginLeft</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="146" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a9b82c011880b8048ba9d68381a1adc49" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::TextBox::set_InternalMarginRight</definition>
+        <argsstring>(double value)</argsstring>
+        <name>set_InternalMarginRight</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::set_InternalMarginRight</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a559d7c5e8f37b7e13a398b5935b58bfb" kindref="member">Aspose::Words::Drawing::TextBox::get_InternalMarginRight</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="175" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a7f59040ba7f4cd844ca054d3884b65a7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::TextBox::set_InternalMarginTop</definition>
+        <argsstring>(double value)</argsstring>
+        <name>set_InternalMarginTop</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::set_InternalMarginTop</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a216be0d05d1a91568b6f9b6d9e1202a4" kindref="member">Aspose::Words::Drawing::TextBox::get_InternalMarginTop</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="204" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a4299fecfc7803f07655cf6a7da0fecf4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::TextBox::set_LayoutFlow</definition>
+        <argsstring>(Aspose::Words::Drawing::LayoutFlow value)</argsstring>
+        <name>set_LayoutFlow</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::set_LayoutFlow</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a23e23067dfc7a097e9d41a86b3074de9" kindref="member">Aspose::Words::Drawing::LayoutFlow</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a9dd7f0e3c0c63c3e1e24cc060542e387" kindref="member">Aspose::Words::Drawing::TextBox::get_LayoutFlow</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="291" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a5666eb4457c7fbea6e3ad5514993e780" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::TextBox::set_Next</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Drawing::TextBox &gt; &amp;value)</argsstring>
+        <name>set_Next</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::set_Next</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box" kindref="compound">Aspose::Words::Drawing::TextBox</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a1ff342a971c758782f7e16f5385722e3" kindref="member">Aspose::Words::Drawing::TextBox::get_Next</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="426" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1acee97979bcccfd952e6da1b4844e189c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::TextBox::set_TextBoxWrapMode</definition>
+        <argsstring>(Aspose::Words::Drawing::TextBoxWrapMode value)</argsstring>
+        <name>set_TextBoxWrapMode</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::set_TextBoxWrapMode</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1ade44d6ac98c2050a3958c6701381b267" kindref="member">Aspose::Words::Drawing::TextBoxWrapMode</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a552f9bf14907bf54e86f444b6b67963d" kindref="member">Aspose::Words::Drawing::TextBox::get_TextBoxWrapMode</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="322" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1ab9d49a60049fde0c9909760c8711a0ad" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::TextBox::set_VerticalAnchor</definition>
+        <argsstring>(Aspose::Words::Drawing::TextBoxAnchor value)</argsstring>
+        <name>set_VerticalAnchor</name>
+        <qualifiedname>Aspose::Words::Drawing::TextBox::set_VerticalAnchor</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1ae0b433e0bc745f8fb62ddc48f96b9461" kindref="member">Aspose::Words::Drawing::TextBoxAnchor</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a046d21e49c71ed57ed84a67a2e5d8ce5" kindref="member">Aspose::Words::Drawing::TextBox::get_VerticalAnchor</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="355" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Defines attributes that specify how a text is displayed inside a shape. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>Use the <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_1a33a6da4fe64876c5e11f5a8df5281d4f" kindref="member">TextBox</ref> property to access text properties of a shape. You do not create instances of the <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box" kindref="compound">TextBox</ref> class directly.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_1a33a6da4fe64876c5e11f5a8df5281d4f" kindref="member">Aspose::Words::Drawing::Shape::get_TextBox</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set the orientation of text inside a text box. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>textBoxShape<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>150,<sp/>100);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextBox&gt;<sp/>textBox<sp/>=<sp/>textBoxShape-&gt;get_TextBox();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Move<sp/>the<sp/>document<sp/>builder<sp/>to<sp/>inside<sp/>the<sp/>TextBox<sp/>and<sp/>add<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveTo(textBoxShape-&gt;get_LastParagraph());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>again!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;LayoutFlow&quot;<sp/>property<sp/>to<sp/>set<sp/>an<sp/>orientation<sp/>for<sp/>the<sp/>text<sp/>contents<sp/>of<sp/>this<sp/>text<sp/>box.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_LayoutFlow(layoutFlow);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.TextBoxLayoutFlow.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to get a text box to resize itself to fit its contents tightly. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>textBoxShape<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>150,<sp/>100);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextBox&gt;<sp/>textBox<sp/>=<sp/>textBoxShape-&gt;get_TextBox();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>these<sp/>values<sp/>to<sp/>both<sp/>these<sp/>members<sp/>to<sp/>get<sp/>the<sp/>parent<sp/>shape<sp/>to<sp/>fit</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>tightly<sp/>around<sp/>the<sp/>text<sp/>contents,<sp/>ignoring<sp/>the<sp/>dimensions<sp/>we<sp/>have<sp/>set.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_FitShapeToText(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_TextBoxWrapMode(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1ade44d6ac98c2050a3958c6701381b267a6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="Text does not wrap inside a shape.">TextBoxWrapMode::None</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveTo(textBoxShape-&gt;get_LastParagraph());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>fit<sp/>tightly<sp/>inside<sp/>textbox.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.TextBoxFitShapeToText.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to set internal margins for a text box. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>another<sp/>textbox<sp/>with<sp/>specific<sp/>margins.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>textBoxShape<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccafbe16470e116e861d9fdf08f036ea22f" kindref="member" tooltip="The shape is a textbox. Note that shapes of many other types can also have text inside them too....">ShapeType::TextBox</ref>,<sp/>100,<sp/>100);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TextBox&gt;<sp/>textBox<sp/>=<sp/>textBoxShape-&gt;get_TextBox();</highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_InternalMarginTop(15);</highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_InternalMarginBottom(15);</highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_InternalMarginLeft(15);</highlight></codeline>
+<codeline><highlight class="normal">textBox-&gt;set_InternalMarginRight(15);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveTo(textBoxShape-&gt;get_LastParagraph());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>placed<sp/>according<sp/>to<sp/>textbox<sp/>margins.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.TextBoxMargins.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Drawing::TextBox</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Drawing::TextBox</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Drawing/TextBox.h" line="109" column="1" bodyfile="Aspose.Words.Cpp/Drawing/TextBox.h" bodystart="110" bodyend="645"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a464470e532d39b688eefa36fa3c799a0" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a4ac7755155372569038ac578ade82726" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>BreakForwardLink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1acb92f03d92085d811c16b406bae4ac1b" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>get_FitShapeToText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1ac71f5383ce620420ef9d70bb213524f4" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>get_InternalMarginBottom</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a825b240d3680adf04f308ee0e8007093" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>get_InternalMarginLeft</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a559d7c5e8f37b7e13a398b5935b58bfb" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>get_InternalMarginRight</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a216be0d05d1a91568b6f9b6d9e1202a4" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>get_InternalMarginTop</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a9dd7f0e3c0c63c3e1e24cc060542e387" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>get_LayoutFlow</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a1ff342a971c758782f7e16f5385722e3" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>get_Next</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1af251c5fcf76bda5f31520e7129b3f989" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>get_Parent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1ae8972ddd9fc7504c7f503097f39bde3a" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>get_Previous</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a552f9bf14907bf54e86f444b6b67963d" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>get_TextBoxWrapMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a046d21e49c71ed57ed84a67a2e5d8ce5" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>get_VerticalAnchor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a3aaf340faf350ec465b569d03fa73f6c" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>IsValidLinkTarget</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1ae592faf00d0af44db015909b70aadd46" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1afeff2edb099d6ed294a6d77648f01579" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1abc756e35041091acd4314547609c456b" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a4cd3e972b9ba4a4e78f066b4cf00a779" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a18c05366c9db22ca33843d6ae82dd249" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>set_FitShapeToText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1af5d84bea91b85768a72259d3b4c528ff" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>set_InternalMarginBottom</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1af06536a27f82f66e1e14eb409f076c69" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>set_InternalMarginLeft</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a9b82c011880b8048ba9d68381a1adc49" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>set_InternalMarginRight</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a7f59040ba7f4cd844ca054d3884b65a7" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>set_InternalMarginTop</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a4299fecfc7803f07655cf6a7da0fecf4" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>set_LayoutFlow</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a5666eb4457c7fbea6e3ad5514993e780" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>set_Next</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1acee97979bcccfd952e6da1b4844e189c" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>set_TextBoxWrapMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1ab9d49a60049fde0c9909760c8711a0ad" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>set_VerticalAnchor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1a5cfe8246c5e5d70e534a9349622b1f7a" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1ad5c611a3b33385e1d8c6285708a0572a" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_text_box_1acea1052fafda99ab5066f62cb060c6e2" prot="private" virt="virtual"><scope>Aspose::Words::Drawing::TextBox</scope><name>~TextBox</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

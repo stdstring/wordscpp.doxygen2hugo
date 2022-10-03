@@ -1,0 +1,667 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="namespace_aspose_1_1_words_1_1_tables" kind="namespace" language="C++">
+    <compoundname>Aspose::Words::Tables</compoundname>
+    <innerclass refid="class_aspose_1_1_words_1_1_tables_1_1_cell" prot="public">Aspose::Words::Tables::Cell</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_tables_1_1_cell_collection" prot="public">Aspose::Words::Tables::CellCollection</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_tables_1_1_cell_format" prot="public">Aspose::Words::Tables::CellFormat</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_tables_1_1_preferred_width" prot="public">Aspose::Words::Tables::PreferredWidth</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_tables_1_1_row" prot="public">Aspose::Words::Tables::Row</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_tables_1_1_row_collection" prot="public">Aspose::Words::Tables::RowCollection</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_tables_1_1_row_format" prot="public">Aspose::Words::Tables::RowFormat</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_tables_1_1_table" prot="public">Aspose::Words::Tables::Table</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_tables_1_1_table_collection" prot="public">Aspose::Words::Tables::TableCollection</innerclass>
+      <sectiondef kind="enum">
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_tables_1afc7e00101c52535908974bc2157ecc74" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>AutoFitBehavior</name>
+        <qualifiedname>Aspose::Words::Tables::AutoFitBehavior</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1afc7e00101c52535908974bc2157ecc74ac884be3c64d634b68b0e2880abf26c94" prot="public">
+          <name>AutoFitToContents</name>
+          <briefdescription>
+<para>Aspose.Words enables the AutoFit option, removes the preferred width from the table and all cells and then updates the table layout. In the resulting table, cell widths are updated to fit the table contents. Most likely, the table will shrink. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1afc7e00101c52535908974bc2157ecc74af5607c497b37c50f068b488ce58a9828" prot="public">
+          <name>AutoFitToWindow</name>
+          <briefdescription>
+<para>When you use this value, Aspose.Words enables the AutoFit option, sets the preferred width for the table to 100%, removes preferred widths from all cells and then updates the table layout. As a result, the table occupies all available width and the cell widths are updated to fit table contents. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1afc7e00101c52535908974bc2157ecc74a5d1cb2ce08d26bb8b7f5a3da89f72d07" prot="public">
+          <name>FixedColumnWidths</name>
+          <briefdescription>
+<para>Aspose.Words disables the AutoFit option and removes the preferred with from the table. The widths of the cells remain as they are specified by their <ref refid="class_aspose_1_1_words_1_1_tables_1_1_cell_format_1af3bd44fd0d4326dd2a663157ea96b442" kindref="member">Width</ref> properties. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Determines how Aspose.Words resizes the table when you invoke the <ref refid="class_aspose_1_1_words_1_1_tables_1_1_table_1a62836eef672e87165cfa56fe8463782e" kindref="member">AutoFit()</ref> method. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to build a new table while applying a style. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>must<sp/>insert<sp/>at<sp/>least<sp/>one<sp/>row<sp/>before<sp/>setting<sp/>any<sp/>table<sp/>formatting.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>table<sp/>style<sp/>used<sp/>based<sp/>on<sp/>the<sp/>style<sp/>identifier.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Note<sp/>that<sp/>not<sp/>all<sp/>table<sp/>styles<sp/>are<sp/>available<sp/>when<sp/>saving<sp/>to<sp/>.doc<sp/>format.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_StyleIdentifier(<ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34aff04cdab6cfeeca12e12894207b56f29" kindref="member">StyleIdentifier::MediumShading1Accent1</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Partially<sp/>apply<sp/>the<sp/>style<sp/>to<sp/>features<sp/>of<sp/>the<sp/>table<sp/>based<sp/>on<sp/>predicates,<sp/>then<sp/>build<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_StyleOptions(<ref refid="namespace_aspose_1_1_words_1_1_tables_1a17a23aaf9c940a3864e2d74ed1948282ac66be781983573173868e4dd82455c15" kindref="member" tooltip="Apply 1 first column conditional formatting.">TableStyleOptions::FirstColumn</ref><sp/>|<sp/><ref refid="namespace_aspose_1_1_words_1_1_tables_1a17a23aaf9c940a3864e2d74ed1948282a8c64488dc0029c1b69ac46e647c2117b" kindref="member" tooltip="Apply row banding conditional formatting.">TableStyleOptions::RowBands</ref><sp/>|<sp/><ref refid="namespace_aspose_1_1_words_1_1_tables_1a17a23aaf9c940a3864e2d74ed1948282a6f90473812d5f788bddfb1470840e651" kindref="member" tooltip="Apply first row conditional formatting.">TableStyleOptions::FirstRow</ref>);</highlight></codeline>
+<codeline><highlight class="normal">table-&gt;AutoFit(<ref refid="namespace_aspose_1_1_words_1_1_tables_1afc7e00101c52535908974bc2157ecc74ac884be3c64d634b68b0e2880abf26c94" kindref="member" tooltip="Aspose.Words enables the AutoFit option, removes the preferred width from the table and all cells and...">AutoFitBehavior::AutoFitToContents</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Item&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_RightPadding(40);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Quantity<sp/>(kg)&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Apples&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;20&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Bananas&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;40&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Carrots&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;50&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBuilder.InsertTableWithStyle.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to build a formatted 2x2 table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_VerticalAlignment(<ref refid="namespace_aspose_1_1_words_1_1_tables_1a4c33d97f9cfe518aa1864baeb6533c6da4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is aligned in the middle of a cell.">CellVerticalAlignment::Center</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Row<sp/>1,<sp/>cell<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Row<sp/>1,<sp/>cell<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>While<sp/>building<sp/>the<sp/>table,<sp/>the<sp/>document<sp/>builder<sp/>will<sp/>apply<sp/>its<sp/>current<sp/>RowFormat/CellFormat<sp/>property<sp/>values</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>the<sp/>current<sp/>row/cell<sp/>that<sp/>its<sp/>cursor<sp/>is<sp/>in<sp/>and<sp/>any<sp/>new<sp/>rows/cells<sp/>as<sp/>it<sp/>creates<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_tables_1a4c33d97f9cfe518aa1864baeb6533c6da4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is aligned in the middle of a cell.">CellVerticalAlignment::Center</ref>,<sp/>table-&gt;get_Rows()-&gt;idx_get(0)-&gt;get_Cells()-&gt;idx_get(0)-&gt;get_CellFormat()-&gt;get_VerticalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_tables_1a4c33d97f9cfe518aa1864baeb6533c6da4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is aligned in the middle of a cell.">CellVerticalAlignment::Center</ref>,<sp/>table-&gt;get_Rows()-&gt;idx_get(0)-&gt;get_Cells()-&gt;idx_get(1)-&gt;get_CellFormat()-&gt;get_VerticalAlignment());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;set_Height(100);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;set_HeightRule(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccba32f01c1611a4a80b752afe034a7210a5" kindref="member" tooltip="The height is specified exactly in points. Please note that if the text cannot fit inside the object ...">HeightRule::Exactly</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_Orientation(<ref refid="namespace_aspose_1_1_words_1a22518c6919e497447ac00018a4f45394a2fad4fd9e0a2737fdcac5ff87ffe403c" kindref="member" tooltip="Text is rotated 90 degrees to the left to appear from bottom to top (bt-lr).">TextOrientation::Upward</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Row<sp/>2,<sp/>cell<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_Orientation(<ref refid="namespace_aspose_1_1_words_1a22518c6919e497447ac00018a4f45394a021f1340f5979a4f4f9642940221ad53" kindref="member" tooltip="Text is rotated 90 degrees to the right to appear from top to bottom (tb-rl).">TextOrientation::Downward</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Row<sp/>2,<sp/>cell<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Previously<sp/>added<sp/>rows<sp/>and<sp/>cells<sp/>are<sp/>not<sp/>retroactively<sp/>affected<sp/>by<sp/>changes<sp/>to<sp/>the<sp/>builder&apos;s<sp/>formatting.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(0,<sp/>table-&gt;get_Rows()-&gt;idx_get(0)-&gt;get_RowFormat()-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccba06b9281e396db002010bde1de57262eb" kindref="member" tooltip="The height will grow automatically to accommodate all text inside an object.">HeightRule::Auto</ref>,<sp/>table-&gt;get_Rows()-&gt;idx_get(0)-&gt;get_RowFormat()-&gt;get_HeightRule());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(100,<sp/>table-&gt;get_Rows()-&gt;idx_get(1)-&gt;get_RowFormat()-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccba32f01c1611a4a80b752afe034a7210a5" kindref="member" tooltip="The height is specified exactly in points. Please note that if the text cannot fit inside the object ...">HeightRule::Exactly</ref>,<sp/>table-&gt;get_Rows()-&gt;idx_get(1)-&gt;get_RowFormat()-&gt;get_HeightRule());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a22518c6919e497447ac00018a4f45394a2fad4fd9e0a2737fdcac5ff87ffe403c" kindref="member" tooltip="Text is rotated 90 degrees to the left to appear from bottom to top (bt-lr).">TextOrientation::Upward</ref>,<sp/>table-&gt;get_Rows()-&gt;idx_get(1)-&gt;get_Cells()-&gt;idx_get(0)-&gt;get_CellFormat()-&gt;get_Orientation());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a22518c6919e497447ac00018a4f45394a021f1340f5979a4f4f9642940221ad53" kindref="member" tooltip="Text is rotated 90 degrees to the right to appear from top to bottom (tb-rl).">TextOrientation::Downward</ref>,<sp/>table-&gt;get_Rows()-&gt;idx_get(1)-&gt;get_Cells()-&gt;idx_get(1)-&gt;get_CellFormat()-&gt;get_Orientation());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBuilder.BuildTable.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Tables/AutoFitBehavior.h" line="109" column="1" bodyfile="Aspose.Words.Cpp/Tables/AutoFitBehavior.h" bodystart="110" bodyend="124"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_tables_1ab35de21af4b94ae47786873927d89c36" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>CellMerge</name>
+        <qualifiedname>Aspose::Words::Tables::CellMerge</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1ab35de21af4b94ae47786873927d89c36a6adf97f83acf6453d4a6a4b1070f3754" prot="public">
+          <name>None</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+<para>The cell is not merged. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1ab35de21af4b94ae47786873927d89c36a7fb55ed0b7a30342ba6da306428cae04" prot="public">
+          <name>First</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+<para>The cell is the first cell in a range of merged cells. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1ab35de21af4b94ae47786873927d89c36add1f775e443ff3b9a89270713580a51b" prot="public">
+          <name>Previous</name>
+          <initializer>= 2</initializer>
+          <briefdescription>
+<para>The cell is merged to the previous cell horizontally or vertically. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies how a cell in a table is merged with other cells. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to merge table cells vertically. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>cell<sp/>into<sp/>the<sp/>first<sp/>column<sp/>of<sp/>the<sp/>first<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>cell<sp/>will<sp/>be<sp/>the<sp/>first<sp/>in<sp/>a<sp/>range<sp/>of<sp/>vertically<sp/>merged<sp/>cells.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_VerticalMerge(<ref refid="namespace_aspose_1_1_words_1_1_tables_1ab35de21af4b94ae47786873927d89c36a7fb55ed0b7a30342ba6da306428cae04" kindref="member" tooltip="The cell is the first cell in a range of merged cells.">CellMerge::First</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>in<sp/>merged<sp/>cells.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>cell<sp/>into<sp/>the<sp/>second<sp/>column<sp/>of<sp/>the<sp/>first<sp/>row,<sp/>then<sp/>end<sp/>the<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Also,<sp/>configure<sp/>the<sp/>builder<sp/>to<sp/>disable<sp/>vertical<sp/>merging<sp/>in<sp/>created<sp/>cells.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_VerticalMerge(<ref refid="namespace_aspose_1_1_words_1_1_tables_1ab35de21af4b94ae47786873927d89c36a6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="The cell is not merged.">CellMerge::None</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>in<sp/>unmerged<sp/>cell.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>cell<sp/>into<sp/>the<sp/>first<sp/>column<sp/>of<sp/>the<sp/>second<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Instead<sp/>of<sp/>adding<sp/>text<sp/>contents,<sp/>we<sp/>will<sp/>merge<sp/>this<sp/>cell<sp/>with<sp/>the<sp/>first<sp/>cell<sp/>that<sp/>we<sp/>added<sp/>directly<sp/>above.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_VerticalMerge(<ref refid="namespace_aspose_1_1_words_1_1_tables_1ab35de21af4b94ae47786873927d89c36add1f775e443ff3b9a89270713580a51b" kindref="member" tooltip="The cell is merged to the previous cell horizontally or vertically.">CellMerge::Previous</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>another<sp/>independent<sp/>cell<sp/>in<sp/>the<sp/>second<sp/>column<sp/>of<sp/>the<sp/>second<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_VerticalMerge(<ref refid="namespace_aspose_1_1_words_1_1_tables_1ab35de21af4b94ae47786873927d89c36a6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="The cell is not merged.">CellMerge::None</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>in<sp/>unmerged<sp/>cell.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CellFormat.VerticalMerge.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to merge table cells horizontally. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>cell<sp/>into<sp/>the<sp/>first<sp/>column<sp/>of<sp/>the<sp/>first<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>cell<sp/>will<sp/>be<sp/>the<sp/>first<sp/>in<sp/>a<sp/>range<sp/>of<sp/>horizontally<sp/>merged<sp/>cells.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_HorizontalMerge(<ref refid="namespace_aspose_1_1_words_1_1_tables_1ab35de21af4b94ae47786873927d89c36a7fb55ed0b7a30342ba6da306428cae04" kindref="member" tooltip="The cell is the first cell in a range of merged cells.">CellMerge::First</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>in<sp/>merged<sp/>cells.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>cell<sp/>into<sp/>the<sp/>second<sp/>column<sp/>of<sp/>the<sp/>first<sp/>row.<sp/>Instead<sp/>of<sp/>adding<sp/>text<sp/>contents,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>we<sp/>will<sp/>merge<sp/>this<sp/>cell<sp/>with<sp/>the<sp/>first<sp/>cell<sp/>that<sp/>we<sp/>added<sp/>directly<sp/>to<sp/>the<sp/>left.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_HorizontalMerge(<ref refid="namespace_aspose_1_1_words_1_1_tables_1ab35de21af4b94ae47786873927d89c36add1f775e443ff3b9a89270713580a51b" kindref="member" tooltip="The cell is merged to the previous cell horizontally or vertically.">CellMerge::Previous</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>two<sp/>more<sp/>unmerged<sp/>cells<sp/>to<sp/>the<sp/>second<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_HorizontalMerge(<ref refid="namespace_aspose_1_1_words_1_1_tables_1ab35de21af4b94ae47786873927d89c36a6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="The cell is not merged.">CellMerge::None</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>in<sp/>unmerged<sp/>cell.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>in<sp/>unmerged<sp/>cell.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CellFormat.HorizontalMerge.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Prints the horizontal and vertical merge type of a cell. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>CheckCellsMerged()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table<sp/>with<sp/>merged<sp/>cells.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Tables()-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>row<sp/>:<sp/>System::IterateOver(table-&gt;get_Rows()-&gt;LINQ_OfType&lt;SharedPtr&lt;Row&gt;&gt;()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>cell<sp/>:<sp/>System::IterateOver(row-&gt;get_Cells()-&gt;LINQ_OfType&lt;SharedPtr&lt;Cell&gt;&gt;()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>PrintCellMergeType(cell)<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">String<sp/>PrintCellMergeType(SharedPtr&lt;Cell&gt;<sp/>cell)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>isHorizontallyMerged<sp/>=<sp/>cell-&gt;get_CellFormat()-&gt;get_HorizontalMerge()<sp/>!=<sp/><ref refid="namespace_aspose_1_1_words_1_1_tables_1ab35de21af4b94ae47786873927d89c36a6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="The cell is not merged.">CellMerge::None</ref>;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>isVerticallyMerged<sp/>=<sp/>cell-&gt;get_CellFormat()-&gt;get_VerticalMerge()<sp/>!=<sp/><ref refid="namespace_aspose_1_1_words_1_1_tables_1ab35de21af4b94ae47786873927d89c36a6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="The cell is not merged.">CellMerge::None</ref>;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String<sp/>cellLocation<sp/>=<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;R{0},<sp/>C{1}&quot;</highlight><highlight class="normal">,<sp/>cell-&gt;get_ParentRow()-&gt;get_ParentTable()-&gt;IndexOf(cell-&gt;get_ParentRow())<sp/>+<sp/>1,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>cell-&gt;get_ParentRow()-&gt;IndexOf(cell)<sp/>+<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(isHorizontallyMerged<sp/>&amp;&amp;<sp/>isVerticallyMerged)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;The<sp/>cell<sp/>at<sp/>{0}<sp/>is<sp/>both<sp/>horizontally<sp/>and<sp/>vertically<sp/>merged&quot;</highlight><highlight class="normal">,<sp/>cellLocation);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(isHorizontallyMerged)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;The<sp/>cell<sp/>at<sp/>{0}<sp/>is<sp/>horizontally<sp/>merged.&quot;</highlight><highlight class="normal">,<sp/>cellLocation);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>isVerticallyMerged<sp/>?<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;The<sp/>cell<sp/>at<sp/>{0}<sp/>is<sp/>vertically<sp/>merged&quot;</highlight><highlight class="normal">,<sp/>cellLocation)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>:<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>::<ref refid="namespace_aspose_1_1_words_1_1_layout_1adb5f76ea5244567304b83f53d4477351a520d0db389f362bf79ef56ca0af3dcab" kindref="member" tooltip="Renders insert and delete revisions inline, format revisions in balloons.">Format</ref>(u</highlight><highlight class="stringliteral">&quot;The<sp/>cell<sp/>at<sp/>{0}<sp/>is<sp/>not<sp/>merged&quot;</highlight><highlight class="normal">,<sp/>cellLocation);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Tables/CellMerge.h" line="124" column="1" bodyfile="Aspose.Words.Cpp/Tables/CellMerge.h" bodystart="125" bodyend="135"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_tables_1a4c33d97f9cfe518aa1864baeb6533c6d" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>CellVerticalAlignment</name>
+        <qualifiedname>Aspose::Words::Tables::CellVerticalAlignment</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1a4c33d97f9cfe518aa1864baeb6533c6daa4ffdcf0dc1f31b9acaf295d75b51d00" prot="public">
+          <name>Top</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+<para>Text is aligned at the top of a cell. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1a4c33d97f9cfe518aa1864baeb6533c6da4f1f6016fc9f3f2353c0cc7c67b292bd" prot="public">
+          <name>Center</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+<para>Text is aligned in the middle of a cell. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1a4c33d97f9cfe518aa1864baeb6533c6da2ad9d63b69c4a10a5cc9cad923133bc4" prot="public">
+          <name>Bottom</name>
+          <initializer>= 2</initializer>
+          <briefdescription>
+<para>Text is aligned at the bottom of the cell. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies vertical justification of text inside a table cell. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to build a formatted 2x2 table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_VerticalAlignment(<ref refid="namespace_aspose_1_1_words_1_1_tables_1a4c33d97f9cfe518aa1864baeb6533c6da4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is aligned in the middle of a cell.">CellVerticalAlignment::Center</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Row<sp/>1,<sp/>cell<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Row<sp/>1,<sp/>cell<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>While<sp/>building<sp/>the<sp/>table,<sp/>the<sp/>document<sp/>builder<sp/>will<sp/>apply<sp/>its<sp/>current<sp/>RowFormat/CellFormat<sp/>property<sp/>values</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>the<sp/>current<sp/>row/cell<sp/>that<sp/>its<sp/>cursor<sp/>is<sp/>in<sp/>and<sp/>any<sp/>new<sp/>rows/cells<sp/>as<sp/>it<sp/>creates<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_tables_1a4c33d97f9cfe518aa1864baeb6533c6da4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is aligned in the middle of a cell.">CellVerticalAlignment::Center</ref>,<sp/>table-&gt;get_Rows()-&gt;idx_get(0)-&gt;get_Cells()-&gt;idx_get(0)-&gt;get_CellFormat()-&gt;get_VerticalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_tables_1a4c33d97f9cfe518aa1864baeb6533c6da4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is aligned in the middle of a cell.">CellVerticalAlignment::Center</ref>,<sp/>table-&gt;get_Rows()-&gt;idx_get(0)-&gt;get_Cells()-&gt;idx_get(1)-&gt;get_CellFormat()-&gt;get_VerticalAlignment());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;set_Height(100);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_RowFormat()-&gt;set_HeightRule(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccba32f01c1611a4a80b752afe034a7210a5" kindref="member" tooltip="The height is specified exactly in points. Please note that if the text cannot fit inside the object ...">HeightRule::Exactly</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_Orientation(<ref refid="namespace_aspose_1_1_words_1a22518c6919e497447ac00018a4f45394a2fad4fd9e0a2737fdcac5ff87ffe403c" kindref="member" tooltip="Text is rotated 90 degrees to the left to appear from bottom to top (bt-lr).">TextOrientation::Upward</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Row<sp/>2,<sp/>cell<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_Orientation(<ref refid="namespace_aspose_1_1_words_1a22518c6919e497447ac00018a4f45394a021f1340f5979a4f4f9642940221ad53" kindref="member" tooltip="Text is rotated 90 degrees to the right to appear from top to bottom (tb-rl).">TextOrientation::Downward</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Row<sp/>2,<sp/>cell<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Previously<sp/>added<sp/>rows<sp/>and<sp/>cells<sp/>are<sp/>not<sp/>retroactively<sp/>affected<sp/>by<sp/>changes<sp/>to<sp/>the<sp/>builder&apos;s<sp/>formatting.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(0,<sp/>table-&gt;get_Rows()-&gt;idx_get(0)-&gt;get_RowFormat()-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccba06b9281e396db002010bde1de57262eb" kindref="member" tooltip="The height will grow automatically to accommodate all text inside an object.">HeightRule::Auto</ref>,<sp/>table-&gt;get_Rows()-&gt;idx_get(0)-&gt;get_RowFormat()-&gt;get_HeightRule());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(100,<sp/>table-&gt;get_Rows()-&gt;idx_get(1)-&gt;get_RowFormat()-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccba32f01c1611a4a80b752afe034a7210a5" kindref="member" tooltip="The height is specified exactly in points. Please note that if the text cannot fit inside the object ...">HeightRule::Exactly</ref>,<sp/>table-&gt;get_Rows()-&gt;idx_get(1)-&gt;get_RowFormat()-&gt;get_HeightRule());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a22518c6919e497447ac00018a4f45394a2fad4fd9e0a2737fdcac5ff87ffe403c" kindref="member" tooltip="Text is rotated 90 degrees to the left to appear from bottom to top (bt-lr).">TextOrientation::Upward</ref>,<sp/>table-&gt;get_Rows()-&gt;idx_get(1)-&gt;get_Cells()-&gt;idx_get(0)-&gt;get_CellFormat()-&gt;get_Orientation());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a22518c6919e497447ac00018a4f45394a021f1340f5979a4f4f9642940221ad53" kindref="member" tooltip="Text is rotated 90 degrees to the right to appear from top to bottom (tb-rl).">TextOrientation::Downward</ref>,<sp/>table-&gt;get_Rows()-&gt;idx_get(1)-&gt;get_Cells()-&gt;idx_get(1)-&gt;get_CellFormat()-&gt;get_Orientation());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBuilder.BuildTable.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Tables/CellVerticalAlignment.h" line="65" column="1" bodyfile="Aspose.Words.Cpp/Tables/CellVerticalAlignment.h" bodystart="66" bodyend="76"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_tables_1a3348b09538e376cd9f07d9c38ae22e3e" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>PreferredWidthType</name>
+        <qualifiedname>Aspose::Words::Tables::PreferredWidthType</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1a3348b09538e376cd9f07d9c38ae22e3ea06b9281e396db002010bde1de57262eb" prot="public">
+          <name>Auto</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+<para>The preferred width is not specified. The actual width of the table or cell is either specified using the explicit width or will be determined automatically by the table layout algorithm when the table is displayed, depending on the table auto fit setting. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1a3348b09538e376cd9f07d9c38ae22e3eaadaaee4b22041c27198d410c68d952c9" prot="public">
+          <name>Percent</name>
+          <initializer>= 2</initializer>
+          <briefdescription>
+<para>Measure the current item width using a specified percentage. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1a3348b09538e376cd9f07d9c38ae22e3ea75dd5f1160a3f02b6fae89c54361a1b3" prot="public">
+          <name>Points</name>
+          <initializer>= 3</initializer>
+          <briefdescription>
+<para>Measure the current item width using a specified number of points (1/72 inch). </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies the unit of measurement for the preferred width of a table or cell. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_tables_1_1_preferred_width" kindref="compound">Aspose::Words::Tables::PreferredWidth</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to verify the preferred width type and value of a table cell. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Tables.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Tables()-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Cell&gt;<sp/>firstCell<sp/>=<sp/>table-&gt;get_FirstRow()-&gt;get_FirstCell();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_tables_1a3348b09538e376cd9f07d9c38ae22e3eaadaaee4b22041c27198d410c68d952c9" kindref="member" tooltip="Measure the current item width using a specified percentage.">PreferredWidthType::Percent</ref>,<sp/>firstCell-&gt;get_CellFormat()-&gt;get_PreferredWidth()-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(11.16,<sp/>firstCell-&gt;get_CellFormat()-&gt;get_PreferredWidth()-&gt;get_Value());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Tables/PreferredWidthType.h" line="38" column="1" bodyfile="Aspose.Words.Cpp/Tables/PreferredWidthType.h" bodystart="39" bodyend="50"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_tables_1afed607c8f2cc443c5cc260268a364734" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>TableAlignment</name>
+        <qualifiedname>Aspose::Words::Tables::TableAlignment</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1afed607c8f2cc443c5cc260268a364734a945d5e233cf7d6240f6b783b36a374ff" prot="public">
+          <name>Left</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+<para>The table is aligned to the left. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1afed607c8f2cc443c5cc260268a364734a4f1f6016fc9f3f2353c0cc7c67b292bd" prot="public">
+          <name>Center</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+<para>The table is centered. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1afed607c8f2cc443c5cc260268a364734a92b09c7c48c520c3c55e497875da437c" prot="public">
+          <name>Right</name>
+          <initializer>= 2</initializer>
+          <briefdescription>
+<para>The table is aligned to the right. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies alignment for an inline table. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to apply an outline border to a table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Tables.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Tables()-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Align<sp/>the<sp/>table<sp/>to<sp/>the<sp/>center<sp/>of<sp/>the<sp/>page.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1_1_tables_1afed607c8f2cc443c5cc260268a364734a4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="The table is centered.">TableAlignment::Center</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clear<sp/>any<sp/>existing<sp/>borders<sp/>and<sp/>shading<sp/>from<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;ClearBorders();</highlight></codeline>
+<codeline><highlight class="normal">table-&gt;ClearShading();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>green<sp/>borders<sp/>to<sp/>the<sp/>outline<sp/>of<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;SetBorder(<ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54a945d5e233cf7d6240f6b783b36a374ff" kindref="member" tooltip="Specifies the left border of a paragraph or a table cell.">BorderType::Left</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da66ba162102bbf6ae31b522aec561735e" kindref="member">LineStyle::Single</ref>,<sp/>1.5,<sp/><ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>(),<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">table-&gt;SetBorder(<ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54a92b09c7c48c520c3c55e497875da437c" kindref="member" tooltip="Specifies the right border of a paragraph or a table cell.">BorderType::Right</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da66ba162102bbf6ae31b522aec561735e" kindref="member">LineStyle::Single</ref>,<sp/>1.5,<sp/><ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>(),<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">table-&gt;SetBorder(<ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54aa4ffdcf0dc1f31b9acaf295d75b51d00" kindref="member" tooltip="Specifies the top border of a paragraph or a table cell.">BorderType::Top</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da66ba162102bbf6ae31b522aec561735e" kindref="member">LineStyle::Single</ref>,<sp/>1.5,<sp/><ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>(),<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">table-&gt;SetBorder(<ref refid="namespace_aspose_1_1_words_1a4d30a833e0d716f386fa8d31c3b70c54a2ad9d63b69c4a10a5cc9cad923133bc4" kindref="member" tooltip="Specifies the bottom border of a paragraph or a table cell.">BorderType::Bottom</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da66ba162102bbf6ae31b522aec561735e" kindref="member">LineStyle::Single</ref>,<sp/>1.5,<sp/><ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>(),<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Fill<sp/>the<sp/>cells<sp/>with<sp/>a<sp/>light<sp/>green<sp/>solid<sp/>color.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;SetShading(<ref refid="namespace_aspose_1_1_words_1af4457ef004db1cfbdfafbaea990d3674ae4cbed1cbf8df80d762b1bac0e7b1f8b" kindref="member">TextureIndex::TextureSolid</ref>,<sp/><ref refid="class/system.drawing.color/_1ade19139d99999253a0c54558020c90d3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightGreen</ref>(),<sp/><ref refid="class/system.drawing.color/_1a41736737b8045f7ffbed1c8dc84182fe" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::Empty</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.SetOutlineBorders.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Tables/TableAlignment.h" line="49" column="1" bodyfile="Aspose.Words.Cpp/Tables/TableAlignment.h" bodystart="50" bodyend="60"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_tables_1a17a23aaf9c940a3864e2d74ed1948282" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>TableStyleOptions</name>
+        <qualifiedname>Aspose::Words::Tables::TableStyleOptions</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1a17a23aaf9c940a3864e2d74ed1948282a6adf97f83acf6453d4a6a4b1070f3754" prot="public">
+          <name>None</name>
+          <initializer>= 0x0000</initializer>
+          <briefdescription>
+<para>No table style formatting is applied. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1a17a23aaf9c940a3864e2d74ed1948282a6f90473812d5f788bddfb1470840e651" prot="public">
+          <name>FirstRow</name>
+          <initializer>= 0x0020</initializer>
+          <briefdescription>
+<para>Apply first row conditional formatting. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1a17a23aaf9c940a3864e2d74ed1948282a9f3fb1aadaebfff5b2877d19526fd46f" prot="public">
+          <name>LastRow</name>
+          <initializer>= 0x0040</initializer>
+          <briefdescription>
+<para>Apply last row conditional formatting. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1a17a23aaf9c940a3864e2d74ed1948282ac66be781983573173868e4dd82455c15" prot="public">
+          <name>FirstColumn</name>
+          <initializer>= 0x0080</initializer>
+          <briefdescription>
+<para>Apply 1 first column conditional formatting. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1a17a23aaf9c940a3864e2d74ed1948282a0302589a1f7ef4fd6d374f7db9c32572" prot="public">
+          <name>LastColumn</name>
+          <initializer>= 0x0100</initializer>
+          <briefdescription>
+<para>Apply last column conditional formatting. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1a17a23aaf9c940a3864e2d74ed1948282a8c64488dc0029c1b69ac46e647c2117b" prot="public">
+          <name>RowBands</name>
+          <initializer>= 0x0200</initializer>
+          <briefdescription>
+<para>Apply row banding conditional formatting. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1a17a23aaf9c940a3864e2d74ed1948282a7bf7fad01c1548caf54225de03513ed5" prot="public">
+          <name>ColumnBands</name>
+          <initializer>= 0x0400</initializer>
+          <briefdescription>
+<para>Apply column banding conditional formatting. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1a17a23aaf9c940a3864e2d74ed1948282a89cc4c5a2197f94772d301caee4f3cf7" prot="public">
+          <name>Default2003</name>
+          <initializer>= static_cast&lt;int32_t&gt;(RowBands | ColumnBands)</initializer>
+          <briefdescription>
+<para><ref refid="class_aspose_1_1_words_1_1_tables_1_1_row" kindref="compound">Row</ref> and column banding is applied. This is Microsoft Word default for old formats such as DOC, WML and RTF. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1a17a23aaf9c940a3864e2d74ed1948282a7a1920d61156abc05a60135aefe8bc67" prot="public">
+          <name>Default</name>
+          <initializer>= static_cast&lt;int32_t&gt;(FirstRow | FirstColumn | RowBands)</initializer>
+          <briefdescription>
+<para>This is Microsoft Word defaults. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies how table style is applied to a table. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_tables_1_1_table_1aef1b8024f0398e55144af5d13713e351" kindref="member">Aspose::Words::Tables::Table::get_StyleOptions</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to build a new table while applying a style. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>must<sp/>insert<sp/>at<sp/>least<sp/>one<sp/>row<sp/>before<sp/>setting<sp/>any<sp/>table<sp/>formatting.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>table<sp/>style<sp/>used<sp/>based<sp/>on<sp/>the<sp/>style<sp/>identifier.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Note<sp/>that<sp/>not<sp/>all<sp/>table<sp/>styles<sp/>are<sp/>available<sp/>when<sp/>saving<sp/>to<sp/>.doc<sp/>format.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_StyleIdentifier(<ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34aff04cdab6cfeeca12e12894207b56f29" kindref="member">StyleIdentifier::MediumShading1Accent1</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Partially<sp/>apply<sp/>the<sp/>style<sp/>to<sp/>features<sp/>of<sp/>the<sp/>table<sp/>based<sp/>on<sp/>predicates,<sp/>then<sp/>build<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_StyleOptions(<ref refid="namespace_aspose_1_1_words_1_1_tables_1a17a23aaf9c940a3864e2d74ed1948282ac66be781983573173868e4dd82455c15" kindref="member" tooltip="Apply 1 first column conditional formatting.">TableStyleOptions::FirstColumn</ref><sp/>|<sp/><ref refid="namespace_aspose_1_1_words_1_1_tables_1a17a23aaf9c940a3864e2d74ed1948282a8c64488dc0029c1b69ac46e647c2117b" kindref="member" tooltip="Apply row banding conditional formatting.">TableStyleOptions::RowBands</ref><sp/>|<sp/><ref refid="namespace_aspose_1_1_words_1_1_tables_1a17a23aaf9c940a3864e2d74ed1948282a6f90473812d5f788bddfb1470840e651" kindref="member" tooltip="Apply first row conditional formatting.">TableStyleOptions::FirstRow</ref>);</highlight></codeline>
+<codeline><highlight class="normal">table-&gt;AutoFit(<ref refid="namespace_aspose_1_1_words_1_1_tables_1afc7e00101c52535908974bc2157ecc74ac884be3c64d634b68b0e2880abf26c94" kindref="member" tooltip="Aspose.Words enables the AutoFit option, removes the preferred width from the table and all cells and...">AutoFitBehavior::AutoFitToContents</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Item&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CellFormat()-&gt;set_RightPadding(40);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Quantity<sp/>(kg)&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Apples&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;20&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Bananas&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;40&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Carrots&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;50&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBuilder.InsertTableWithStyle.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Tables/TableStyleOptions.h" line="73" column="1" bodyfile="Aspose.Words.Cpp/Tables/TableStyleOptions.h" bodystart="74" bodyend="102"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_tables_1a83e7d7bac479485cbdad3de2bdc2e5f9" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>TextWrapping</name>
+        <qualifiedname>Aspose::Words::Tables::TextWrapping</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1a83e7d7bac479485cbdad3de2bdc2e5f9a6adf97f83acf6453d4a6a4b1070f3754" prot="public">
+          <name>None</name>
+          <briefdescription>
+<para>Text and table is displayed in the order of their appearance in the document. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1a83e7d7bac479485cbdad3de2bdc2e5f9a9bf348d86c06e843ab3bb4fd6871ab6b" prot="public">
+          <name>Around</name>
+          <briefdescription>
+<para>Text is wrapped around the table occupying available side space. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_tables_1a83e7d7bac479485cbdad3de2bdc2e5f9a7a1920d61156abc05a60135aefe8bc67" prot="public">
+          <name>Default</name>
+          <initializer>= static_cast&lt;int32_t&gt;(None)</initializer>
+          <briefdescription>
+<para>Default value. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies how text is wrapped around the table. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with table text wrapping. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_PreferredWidth(<ref refid="class_aspose_1_1_words_1_1_tables_1_1_preferred_width_1a6ade9ec15a397cbfcc193503ac606245" kindref="member" tooltip="A creation method that returns a new instance that represents a preferred width specified using a num...">PreferredWidth::FromPoints</ref>(300));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Size(16);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Lorem<sp/>ipsum<sp/>dolor<sp/>sit<sp/>amet,<sp/>consectetur<sp/>adipiscing<sp/>elit,<sp/>sed<sp/>do<sp/>eiusmod<sp/>tempor<sp/>incididunt<sp/>ut<sp/>labore<sp/>et<sp/>dolore<sp/>magna<sp/>aliqua.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;TextWrapping&quot;<sp/>property<sp/>to<sp/>&quot;TextWrapping.Around&quot;<sp/>to<sp/>get<sp/>the<sp/>table<sp/>to<sp/>wrap<sp/>text<sp/>around<sp/>it,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>push<sp/>it<sp/>down<sp/>into<sp/>the<sp/>paragraph<sp/>below<sp/>by<sp/>setting<sp/>the<sp/>position.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_TextWrapping(<ref refid="namespace_aspose_1_1_words_1_1_tables_1a83e7d7bac479485cbdad3de2bdc2e5f9a9bf348d86c06e843ab3bb4fd6871ab6b" kindref="member" tooltip="Text is wrapped around the table occupying available side space.">TextWrapping::Around</ref>);</highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_AbsoluteHorizontalDistance(100);</highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_AbsoluteVerticalDistance(20);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.WrapText.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Tables/TextWrapping.h" line="51" column="1" bodyfile="Aspose.Words.Cpp/Tables/TextWrapping.h" bodystart="52" bodyend="62"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>The <bold>Aspose.Words.Tables</bold> namespace contains classes that represent tables, rows, cells and their formatting. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/DocumentBuilder.h" line="83" column="1"/>
+  </compounddef>
+</doxygen>

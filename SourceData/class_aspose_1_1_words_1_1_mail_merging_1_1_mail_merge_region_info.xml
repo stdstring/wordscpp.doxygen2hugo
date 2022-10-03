@@ -1,0 +1,667 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::MailMerging::MailMergeRegionInfo</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_mail_merge_region_info_8h" local="no">Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a9a8719c2a4cf10230e99dcd44823b8dc" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::MailMerging::MailMergeRegionInfo::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::MailMerging::MailMergeRegionInfo::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" line="91" column="28" bodyfile="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" bodystart="91" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a0b2e97658dc6484d702fb5e1c138baea" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info" kindref="compound">MailMergeRegionInfo</ref></type>
+        <definition>typedef MailMergeRegionInfo Aspose::Words::MailMerging::MailMergeRegionInfo::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::MailMerging::MailMergeRegionInfo::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" line="90" column="33" bodyfile="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" bodystart="90" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1ac720734f8bbe35557e806d49766bbfb5" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::MailMerging::MailMergeRegionInfo::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::MailMerging::MailMergeRegionInfo::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" line="93" column="37" bodyfile="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" bodystart="93" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1ab00452daa0b5981861e4f31af80fa41e" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::MailMerging::MailMergeRegionInfo::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::MailMerging::MailMergeRegionInfo::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" line="424" column="23" bodyfile="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" bodystart="424" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a5e50f3a848fd5be9f6be7dce2466817c" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::MailMerging::MailMergeRegionInfo::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::MailMerging::MailMergeRegionInfo::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" line="425" column="20" bodyfile="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" bodystart="425" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a7d8b27da0226c5fbf5a55db24a9f650a" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::MailMerging::MailMergeRegionInfo::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::MailMerging::MailMergeRegionInfo::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" line="426" column="23" bodyfile="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" bodystart="426" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1ae497c3a9c0a8d0b26244ea3a4c7ca0fe" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::MailMerging::MailMergeRegionInfo::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::MailMerging::MailMergeRegionInfo::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" line="427" column="23" bodyfile="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" bodystart="427" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a4324251eab558666cb8d852358ed3bcf" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::MailMerging::MailMergeRegionInfo::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::MailMerging::MailMergeRegionInfo::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" line="429" column="23" bodyfile="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" bodystart="429" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1afd9a001e5b47829962959686018c5bbb" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::MailMerging::MailMergeRegionInfo::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::MailMerging::MailMergeRegionInfo::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" line="430" column="23" bodyfile="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" bodystart="430" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1ac30d6215a61ae4ad7269032d4041cf26" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::MailMerging::MailMergeRegionInfo::mField6</definition>
+        <argsstring></argsstring>
+        <name>mField6</name>
+        <qualifiedname>Aspose::Words::MailMerging::MailMergeRegionInfo::mField6</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" line="431" column="23" bodyfile="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" bodystart="431" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a3889592933d972170566a14cba5f4146" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::MailMerging::MailMergeRegionInfo::MailMergeRegionInfo</definition>
+        <argsstring>()</argsstring>
+        <name>MailMergeRegionInfo</name>
+        <qualifiedname>Aspose::Words::MailMerging::MailMergeRegionInfo::MailMergeRegionInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" line="418" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a8e02837f65af43fb3b54f938e466b51f" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::MailMerging::MailMergeRegionInfo::~MailMergeRegionInfo</definition>
+        <argsstring>()</argsstring>
+        <name>~MailMergeRegionInfo</name>
+        <qualifiedname>Aspose::Words::MailMerging::MailMergeRegionInfo::~MailMergeRegionInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" line="420" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a77a4b830387cf4ce0db678ac2c8fb839" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::MailMerging::MailMergeRegionInfo::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::MailMerging::MailMergeRegionInfo::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" line="94" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a83ef2afcdbfc848b51a747d842ba55a2" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field" kindref="compound">Aspose::Words::Fields::FieldMergeField</ref> &gt; &amp;</type>
+        <definition>const System::SharedPtr&lt; Aspose::Words::Fields::FieldMergeField &gt; &amp; Aspose::Words::MailMerging::MailMergeRegionInfo::get_EndField</definition>
+        <argsstring>() const</argsstring>
+        <name>get_EndField</name>
+        <qualifiedname>Aspose::Words::MailMerging::MailMergeRegionInfo::get_EndField</qualifiedname>
+        <briefdescription>
+<para>Returns an end field for the region. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to verify mail merge regions. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Mail<sp/>merge<sp/>regions.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Returns<sp/>a<sp/>full<sp/>hierarchy<sp/>of<sp/>merge<sp/>regions<sp/>that<sp/>contain<sp/>MERGEFIELDs<sp/>available<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;MailMergeRegionInfo&gt;<sp/>regionInfo<sp/>=<sp/>doc-&gt;get_MailMerge()-&gt;GetRegionsHierarchy();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>top<sp/>regions<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IList&lt;SharedPtr&lt;MailMergeRegionInfo&gt;&gt;&gt;<sp/>topRegions<sp/>=<sp/>regionInfo-&gt;get_Regions();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>topRegions-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Region1&quot;</highlight><highlight class="normal">,<sp/>topRegions-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Region2&quot;</highlight><highlight class="normal">,<sp/>topRegions-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>topRegions-&gt;idx_get(0)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>topRegions-&gt;idx_get(1)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>nested<sp/>region<sp/>in<sp/>first<sp/>top<sp/>region.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IList&lt;SharedPtr&lt;MailMergeRegionInfo&gt;&gt;&gt;<sp/>nestedRegions<sp/>=<sp/>topRegions-&gt;idx_get(0)-&gt;get_Regions();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>nestedRegions-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;NestedRegion1&quot;</highlight><highlight class="normal">,<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;NestedRegion2&quot;</highlight><highlight class="normal">,<sp/>nestedRegions-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>nestedRegions-&gt;idx_get(1)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>list<sp/>of<sp/>fields<sp/>inside<sp/>the<sp/>first<sp/>top<sp/>region.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IList&lt;SharedPtr&lt;Field&gt;&gt;&gt;<sp/>fieldList<sp/>=<sp/>topRegions-&gt;idx_get(0)-&gt;get_Fields();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>fieldList-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldMergeField&gt;<sp/>startFieldMergeField<sp/>=<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_StartField();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;TableStart:NestedRegion1&quot;</highlight><highlight class="normal">,<sp/>startFieldMergeField-&gt;get_FieldName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldMergeField&gt;<sp/>endFieldMergeField<sp/>=<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_EndField();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;TableEnd:NestedRegion1&quot;</highlight><highlight class="normal">,<sp/>endFieldMergeField-&gt;get_FieldName());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" line="370" column="32"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a932affc920abbe8402b4606733472f14" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_list/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IList</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref> &gt; &gt; &gt;</type>
+        <definition>System::SharedPtr&lt; System::Collections::Generic::IList&lt; System::SharedPtr&lt; Aspose::Words::Fields::Field &gt; &gt; &gt; Aspose::Words::MailMerging::MailMergeRegionInfo::get_Fields</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Fields</name>
+        <qualifiedname>Aspose::Words::MailMerging::MailMergeRegionInfo::get_Fields</qualifiedname>
+        <briefdescription>
+<para>Returns a list of child fields. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to verify mail merge regions. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Mail<sp/>merge<sp/>regions.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Returns<sp/>a<sp/>full<sp/>hierarchy<sp/>of<sp/>merge<sp/>regions<sp/>that<sp/>contain<sp/>MERGEFIELDs<sp/>available<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;MailMergeRegionInfo&gt;<sp/>regionInfo<sp/>=<sp/>doc-&gt;get_MailMerge()-&gt;GetRegionsHierarchy();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>top<sp/>regions<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IList&lt;SharedPtr&lt;MailMergeRegionInfo&gt;&gt;&gt;<sp/>topRegions<sp/>=<sp/>regionInfo-&gt;get_Regions();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>topRegions-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Region1&quot;</highlight><highlight class="normal">,<sp/>topRegions-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Region2&quot;</highlight><highlight class="normal">,<sp/>topRegions-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>topRegions-&gt;idx_get(0)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>topRegions-&gt;idx_get(1)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>nested<sp/>region<sp/>in<sp/>first<sp/>top<sp/>region.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IList&lt;SharedPtr&lt;MailMergeRegionInfo&gt;&gt;&gt;<sp/>nestedRegions<sp/>=<sp/>topRegions-&gt;idx_get(0)-&gt;get_Regions();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>nestedRegions-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;NestedRegion1&quot;</highlight><highlight class="normal">,<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;NestedRegion2&quot;</highlight><highlight class="normal">,<sp/>nestedRegions-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>nestedRegions-&gt;idx_get(1)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>list<sp/>of<sp/>fields<sp/>inside<sp/>the<sp/>first<sp/>top<sp/>region.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IList&lt;SharedPtr&lt;Field&gt;&gt;&gt;<sp/>fieldList<sp/>=<sp/>topRegions-&gt;idx_get(0)-&gt;get_Fields();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>fieldList-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldMergeField&gt;<sp/>startFieldMergeField<sp/>=<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_StartField();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;TableStart:NestedRegion1&quot;</highlight><highlight class="normal">,<sp/>startFieldMergeField-&gt;get_FieldName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldMergeField&gt;<sp/>endFieldMergeField<sp/>=<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_EndField();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;TableEnd:NestedRegion1&quot;</highlight><highlight class="normal">,<sp/>endFieldMergeField-&gt;get_FieldName());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" line="238" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a977656c7ef6337e9c5f3ea64a820a373" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::MailMerging::MailMergeRegionInfo::get_Level</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Level</name>
+        <qualifiedname>Aspose::Words::MailMerging::MailMergeRegionInfo::get_Level</qualifiedname>
+        <briefdescription>
+<para>Returns the nesting level for the region. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to verify mail merge regions. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Mail<sp/>merge<sp/>regions.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Returns<sp/>a<sp/>full<sp/>hierarchy<sp/>of<sp/>merge<sp/>regions<sp/>that<sp/>contain<sp/>MERGEFIELDs<sp/>available<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;MailMergeRegionInfo&gt;<sp/>regionInfo<sp/>=<sp/>doc-&gt;get_MailMerge()-&gt;GetRegionsHierarchy();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>top<sp/>regions<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IList&lt;SharedPtr&lt;MailMergeRegionInfo&gt;&gt;&gt;<sp/>topRegions<sp/>=<sp/>regionInfo-&gt;get_Regions();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>topRegions-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Region1&quot;</highlight><highlight class="normal">,<sp/>topRegions-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Region2&quot;</highlight><highlight class="normal">,<sp/>topRegions-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>topRegions-&gt;idx_get(0)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>topRegions-&gt;idx_get(1)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>nested<sp/>region<sp/>in<sp/>first<sp/>top<sp/>region.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IList&lt;SharedPtr&lt;MailMergeRegionInfo&gt;&gt;&gt;<sp/>nestedRegions<sp/>=<sp/>topRegions-&gt;idx_get(0)-&gt;get_Regions();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>nestedRegions-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;NestedRegion1&quot;</highlight><highlight class="normal">,<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;NestedRegion2&quot;</highlight><highlight class="normal">,<sp/>nestedRegions-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>nestedRegions-&gt;idx_get(1)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>list<sp/>of<sp/>fields<sp/>inside<sp/>the<sp/>first<sp/>top<sp/>region.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IList&lt;SharedPtr&lt;Field&gt;&gt;&gt;<sp/>fieldList<sp/>=<sp/>topRegions-&gt;idx_get(0)-&gt;get_Fields();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>fieldList-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldMergeField&gt;<sp/>startFieldMergeField<sp/>=<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_StartField();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;TableStart:NestedRegion1&quot;</highlight><highlight class="normal">,<sp/>startFieldMergeField-&gt;get_FieldName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldMergeField&gt;<sp/>endFieldMergeField<sp/>=<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_EndField();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;TableEnd:NestedRegion1&quot;</highlight><highlight class="normal">,<sp/>endFieldMergeField-&gt;get_FieldName());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" line="414" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1abe45418fb17e814afa53fa10ef90c7ea" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::MailMerging::MailMergeRegionInfo::get_Name</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Name</name>
+        <qualifiedname>Aspose::Words::MailMerging::MailMergeRegionInfo::get_Name</qualifiedname>
+        <briefdescription>
+<para>Returns the name of region. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to verify mail merge regions. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Mail<sp/>merge<sp/>regions.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Returns<sp/>a<sp/>full<sp/>hierarchy<sp/>of<sp/>merge<sp/>regions<sp/>that<sp/>contain<sp/>MERGEFIELDs<sp/>available<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;MailMergeRegionInfo&gt;<sp/>regionInfo<sp/>=<sp/>doc-&gt;get_MailMerge()-&gt;GetRegionsHierarchy();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>top<sp/>regions<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IList&lt;SharedPtr&lt;MailMergeRegionInfo&gt;&gt;&gt;<sp/>topRegions<sp/>=<sp/>regionInfo-&gt;get_Regions();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>topRegions-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Region1&quot;</highlight><highlight class="normal">,<sp/>topRegions-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Region2&quot;</highlight><highlight class="normal">,<sp/>topRegions-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>topRegions-&gt;idx_get(0)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>topRegions-&gt;idx_get(1)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>nested<sp/>region<sp/>in<sp/>first<sp/>top<sp/>region.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IList&lt;SharedPtr&lt;MailMergeRegionInfo&gt;&gt;&gt;<sp/>nestedRegions<sp/>=<sp/>topRegions-&gt;idx_get(0)-&gt;get_Regions();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>nestedRegions-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;NestedRegion1&quot;</highlight><highlight class="normal">,<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;NestedRegion2&quot;</highlight><highlight class="normal">,<sp/>nestedRegions-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>nestedRegions-&gt;idx_get(1)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>list<sp/>of<sp/>fields<sp/>inside<sp/>the<sp/>first<sp/>top<sp/>region.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IList&lt;SharedPtr&lt;Field&gt;&gt;&gt;<sp/>fieldList<sp/>=<sp/>topRegions-&gt;idx_get(0)-&gt;get_Fields();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>fieldList-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldMergeField&gt;<sp/>startFieldMergeField<sp/>=<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_StartField();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;TableStart:NestedRegion1&quot;</highlight><highlight class="normal">,<sp/>startFieldMergeField-&gt;get_FieldName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldMergeField&gt;<sp/>endFieldMergeField<sp/>=<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_EndField();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;TableEnd:NestedRegion1&quot;</highlight><highlight class="normal">,<sp/>endFieldMergeField-&gt;get_FieldName());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" line="282" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a2dcbf951b46d49656b60fd03b332fb3e" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info" kindref="compound">Aspose::Words::MailMerging::MailMergeRegionInfo</ref> &gt; &amp;</type>
+        <definition>const System::SharedPtr&lt; Aspose::Words::MailMerging::MailMergeRegionInfo &gt; &amp; Aspose::Words::MailMerging::MailMergeRegionInfo::get_ParentRegion</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ParentRegion</name>
+        <qualifiedname>Aspose::Words::MailMerging::MailMergeRegionInfo::get_ParentRegion</qualifiedname>
+        <briefdescription>
+<para>Returns parent region info (null for top-level region). </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create, list, and read mail merge regions. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;TableStart&quot;<sp/>and<sp/>&quot;TableEnd&quot;<sp/>tags,<sp/>which<sp/>go<sp/>inside<sp/>MERGEFIELDs,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>denote<sp/>the<sp/>strings<sp/>that<sp/>signify<sp/>the<sp/>starts<sp/>and<sp/>ends<sp/>of<sp/>mail<sp/>merge<sp/>regions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;TableStart&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_MailMerge()-&gt;get_RegionStartTag());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;TableEnd&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_MailMerge()-&gt;get_RegionEndTag());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>these<sp/>tags<sp/>to<sp/>start<sp/>and<sp/>end<sp/>a<sp/>mail<sp/>merge<sp/>region<sp/>named<sp/>&quot;MailMergeRegion1&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>contain<sp/>MERGEFIELDs<sp/>for<sp/>two<sp/>columns.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>MERGEFIELD<sp/>TableStart:MailMergeRegion1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>MERGEFIELD<sp/>Column1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;,<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>MERGEFIELD<sp/>Column2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>MERGEFIELD<sp/>TableEnd:MailMergeRegion1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>keep<sp/>track<sp/>of<sp/>merge<sp/>regions<sp/>and<sp/>their<sp/>columns<sp/>by<sp/>looking<sp/>at<sp/>these<sp/>collections.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IList&lt;SharedPtr&lt;MailMergeRegionInfo&gt;&gt;&gt;<sp/>regions<sp/>=<sp/>doc-&gt;get_MailMerge()-&gt;GetRegionsByName(u</highlight><highlight class="stringliteral">&quot;MailMergeRegion1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>regions-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;MailMergeRegion1&quot;</highlight><highlight class="normal">,<sp/>regions-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;String&gt;<sp/>mergeFieldNames<sp/>=<sp/>doc-&gt;get_MailMerge()-&gt;GetFieldNamesForRegion(u</highlight><highlight class="stringliteral">&quot;MailMergeRegion1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Column1&quot;</highlight><highlight class="normal">,<sp/>mergeFieldNames[0]);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Column2&quot;</highlight><highlight class="normal">,<sp/>mergeFieldNames[1]);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>region<sp/>with<sp/>the<sp/>same<sp/>name<sp/>inside<sp/>the<sp/>existing<sp/>region,<sp/>which<sp/>will<sp/>make<sp/>it<sp/>a<sp/>parent.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Now<sp/>a<sp/>&quot;Column2&quot;<sp/>field<sp/>will<sp/>be<sp/>inside<sp/>a<sp/>new<sp/>region.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveToField(regions-&gt;idx_get(0)-&gt;get_Fields()-&gt;idx_get(1),<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>MERGEFIELD<sp/>TableStart:MailMergeRegion1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveToField(regions-&gt;idx_get(0)-&gt;get_Fields()-&gt;idx_get(1),<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>MERGEFIELD<sp/>TableEnd:MailMergeRegion1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>look<sp/>up<sp/>the<sp/>name<sp/>of<sp/>duplicate<sp/>regions<sp/>using<sp/>the<sp/>&quot;GetRegionsByName&quot;<sp/>method,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>it<sp/>will<sp/>return<sp/>all<sp/>such<sp/>regions<sp/>in<sp/>a<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">regions<sp/>=<sp/>doc-&gt;get_MailMerge()-&gt;GetRegionsByName(u</highlight><highlight class="stringliteral">&quot;MailMergeRegion1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>regions-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Check<sp/>that<sp/>the<sp/>second<sp/>region<sp/>now<sp/>has<sp/>a<sp/>parent<sp/>region.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;MailMergeRegion1&quot;</highlight><highlight class="normal">,<sp/>regions-&gt;idx_get(1)-&gt;get_ParentRegion()-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">mergeFieldNames<sp/>=<sp/>doc-&gt;get_MailMerge()-&gt;GetFieldNamesForRegion(u</highlight><highlight class="stringliteral">&quot;MailMergeRegion1&quot;</highlight><highlight class="normal">,<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Column2&quot;</highlight><highlight class="normal">,<sp/>mergeFieldNames[0]);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" line="150" column="32"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a617f07c0855ebeee58f0102e5394b494" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_list/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IList</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info" kindref="compound">Aspose::Words::MailMerging::MailMergeRegionInfo</ref> &gt; &gt; &gt;</type>
+        <definition>System::SharedPtr&lt; System::Collections::Generic::IList&lt; System::SharedPtr&lt; Aspose::Words::MailMerging::MailMergeRegionInfo &gt; &gt; &gt; Aspose::Words::MailMerging::MailMergeRegionInfo::get_Regions</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Regions</name>
+        <qualifiedname>Aspose::Words::MailMerging::MailMergeRegionInfo::get_Regions</qualifiedname>
+        <briefdescription>
+<para>Returns a list of child regions. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to verify mail merge regions. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Mail<sp/>merge<sp/>regions.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Returns<sp/>a<sp/>full<sp/>hierarchy<sp/>of<sp/>merge<sp/>regions<sp/>that<sp/>contain<sp/>MERGEFIELDs<sp/>available<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;MailMergeRegionInfo&gt;<sp/>regionInfo<sp/>=<sp/>doc-&gt;get_MailMerge()-&gt;GetRegionsHierarchy();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>top<sp/>regions<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IList&lt;SharedPtr&lt;MailMergeRegionInfo&gt;&gt;&gt;<sp/>topRegions<sp/>=<sp/>regionInfo-&gt;get_Regions();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>topRegions-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Region1&quot;</highlight><highlight class="normal">,<sp/>topRegions-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Region2&quot;</highlight><highlight class="normal">,<sp/>topRegions-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>topRegions-&gt;idx_get(0)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>topRegions-&gt;idx_get(1)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>nested<sp/>region<sp/>in<sp/>first<sp/>top<sp/>region.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IList&lt;SharedPtr&lt;MailMergeRegionInfo&gt;&gt;&gt;<sp/>nestedRegions<sp/>=<sp/>topRegions-&gt;idx_get(0)-&gt;get_Regions();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>nestedRegions-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;NestedRegion1&quot;</highlight><highlight class="normal">,<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;NestedRegion2&quot;</highlight><highlight class="normal">,<sp/>nestedRegions-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>nestedRegions-&gt;idx_get(1)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>list<sp/>of<sp/>fields<sp/>inside<sp/>the<sp/>first<sp/>top<sp/>region.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IList&lt;SharedPtr&lt;Field&gt;&gt;&gt;<sp/>fieldList<sp/>=<sp/>topRegions-&gt;idx_get(0)-&gt;get_Fields();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>fieldList-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldMergeField&gt;<sp/>startFieldMergeField<sp/>=<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_StartField();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;TableStart:NestedRegion1&quot;</highlight><highlight class="normal">,<sp/>startFieldMergeField-&gt;get_FieldName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldMergeField&gt;<sp/>endFieldMergeField<sp/>=<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_EndField();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;TableEnd:NestedRegion1&quot;</highlight><highlight class="normal">,<sp/>endFieldMergeField-&gt;get_FieldName());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" line="194" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a77a0d9504c6a7cd7bb4a3764cec15ff7" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field" kindref="compound">Aspose::Words::Fields::FieldMergeField</ref> &gt; &amp;</type>
+        <definition>const System::SharedPtr&lt; Aspose::Words::Fields::FieldMergeField &gt; &amp; Aspose::Words::MailMerging::MailMergeRegionInfo::get_StartField</definition>
+        <argsstring>() const</argsstring>
+        <name>get_StartField</name>
+        <qualifiedname>Aspose::Words::MailMerging::MailMergeRegionInfo::get_StartField</qualifiedname>
+        <briefdescription>
+<para>Returns a start field for the region. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to verify mail merge regions. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Mail<sp/>merge<sp/>regions.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Returns<sp/>a<sp/>full<sp/>hierarchy<sp/>of<sp/>merge<sp/>regions<sp/>that<sp/>contain<sp/>MERGEFIELDs<sp/>available<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;MailMergeRegionInfo&gt;<sp/>regionInfo<sp/>=<sp/>doc-&gt;get_MailMerge()-&gt;GetRegionsHierarchy();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>top<sp/>regions<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IList&lt;SharedPtr&lt;MailMergeRegionInfo&gt;&gt;&gt;<sp/>topRegions<sp/>=<sp/>regionInfo-&gt;get_Regions();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>topRegions-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Region1&quot;</highlight><highlight class="normal">,<sp/>topRegions-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Region2&quot;</highlight><highlight class="normal">,<sp/>topRegions-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>topRegions-&gt;idx_get(0)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>topRegions-&gt;idx_get(1)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>nested<sp/>region<sp/>in<sp/>first<sp/>top<sp/>region.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IList&lt;SharedPtr&lt;MailMergeRegionInfo&gt;&gt;&gt;<sp/>nestedRegions<sp/>=<sp/>topRegions-&gt;idx_get(0)-&gt;get_Regions();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>nestedRegions-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;NestedRegion1&quot;</highlight><highlight class="normal">,<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;NestedRegion2&quot;</highlight><highlight class="normal">,<sp/>nestedRegions-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>nestedRegions-&gt;idx_get(1)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>list<sp/>of<sp/>fields<sp/>inside<sp/>the<sp/>first<sp/>top<sp/>region.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IList&lt;SharedPtr&lt;Field&gt;&gt;&gt;<sp/>fieldList<sp/>=<sp/>topRegions-&gt;idx_get(0)-&gt;get_Fields();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>fieldList-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldMergeField&gt;<sp/>startFieldMergeField<sp/>=<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_StartField();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;TableStart:NestedRegion1&quot;</highlight><highlight class="normal">,<sp/>startFieldMergeField-&gt;get_FieldName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldMergeField&gt;<sp/>endFieldMergeField<sp/>=<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_EndField();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;TableEnd:NestedRegion1&quot;</highlight><highlight class="normal">,<sp/>endFieldMergeField-&gt;get_FieldName());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" line="326" column="32"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Contains information about a mail merge region. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to verify mail merge regions. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Mail<sp/>merge<sp/>regions.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Returns<sp/>a<sp/>full<sp/>hierarchy<sp/>of<sp/>merge<sp/>regions<sp/>that<sp/>contain<sp/>MERGEFIELDs<sp/>available<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;MailMergeRegionInfo&gt;<sp/>regionInfo<sp/>=<sp/>doc-&gt;get_MailMerge()-&gt;GetRegionsHierarchy();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>top<sp/>regions<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IList&lt;SharedPtr&lt;MailMergeRegionInfo&gt;&gt;&gt;<sp/>topRegions<sp/>=<sp/>regionInfo-&gt;get_Regions();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>topRegions-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Region1&quot;</highlight><highlight class="normal">,<sp/>topRegions-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Region2&quot;</highlight><highlight class="normal">,<sp/>topRegions-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>topRegions-&gt;idx_get(0)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>topRegions-&gt;idx_get(1)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>nested<sp/>region<sp/>in<sp/>first<sp/>top<sp/>region.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IList&lt;SharedPtr&lt;MailMergeRegionInfo&gt;&gt;&gt;<sp/>nestedRegions<sp/>=<sp/>topRegions-&gt;idx_get(0)-&gt;get_Regions();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>nestedRegions-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;NestedRegion1&quot;</highlight><highlight class="normal">,<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;NestedRegion2&quot;</highlight><highlight class="normal">,<sp/>nestedRegions-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>nestedRegions-&gt;idx_get(1)-&gt;get_Level());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>list<sp/>of<sp/>fields<sp/>inside<sp/>the<sp/>first<sp/>top<sp/>region.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IList&lt;SharedPtr&lt;Field&gt;&gt;&gt;<sp/>fieldList<sp/>=<sp/>topRegions-&gt;idx_get(0)-&gt;get_Fields();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>fieldList-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldMergeField&gt;<sp/>startFieldMergeField<sp/>=<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_StartField();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;TableStart:NestedRegion1&quot;</highlight><highlight class="normal">,<sp/>startFieldMergeField-&gt;get_FieldName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldMergeField&gt;<sp/>endFieldMergeField<sp/>=<sp/>nestedRegions-&gt;idx_get(0)-&gt;get_EndField();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;TableEnd:NestedRegion1&quot;</highlight><highlight class="normal">,<sp/>endFieldMergeField-&gt;get_FieldName());</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::MailMerging::MailMergeRegionInfo</label>
+        <link refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::MailMerging::MailMergeRegionInfo</label>
+        <link refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" line="88" column="1" bodyfile="Aspose.Words.Cpp/MailMerging/MailMergeRegionInfo.h" bodystart="89" bodyend="433"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a9a8719c2a4cf10230e99dcd44823b8dc" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::MailMergeRegionInfo</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a83ef2afcdbfc848b51a747d842ba55a2" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MailMergeRegionInfo</scope><name>get_EndField</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a932affc920abbe8402b4606733472f14" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MailMergeRegionInfo</scope><name>get_Fields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a977656c7ef6337e9c5f3ea64a820a373" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MailMergeRegionInfo</scope><name>get_Level</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1abe45418fb17e814afa53fa10ef90c7ea" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MailMergeRegionInfo</scope><name>get_Name</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a2dcbf951b46d49656b60fd03b332fb3e" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MailMergeRegionInfo</scope><name>get_ParentRegion</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a617f07c0855ebeee58f0102e5394b494" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MailMergeRegionInfo</scope><name>get_Regions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a77a0d9504c6a7cd7bb4a3764cec15ff7" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::MailMergeRegionInfo</scope><name>get_StartField</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a3889592933d972170566a14cba5f4146" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::MailMergeRegionInfo</scope><name>MailMergeRegionInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1ab00452daa0b5981861e4f31af80fa41e" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::MailMergeRegionInfo</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a5e50f3a848fd5be9f6be7dce2466817c" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::MailMergeRegionInfo</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a7d8b27da0226c5fbf5a55db24a9f650a" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::MailMergeRegionInfo</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1ae497c3a9c0a8d0b26244ea3a4c7ca0fe" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::MailMergeRegionInfo</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a4324251eab558666cb8d852358ed3bcf" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::MailMergeRegionInfo</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1afd9a001e5b47829962959686018c5bbb" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::MailMergeRegionInfo</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1ac30d6215a61ae4ad7269032d4041cf26" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::MailMergeRegionInfo</scope><name>mField6</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a77a4b830387cf4ce0db678ac2c8fb839" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::MailMergeRegionInfo</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a0b2e97658dc6484d702fb5e1c138baea" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::MailMergeRegionInfo</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1ac720734f8bbe35557e806d49766bbfb5" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::MailMergeRegionInfo</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info_1a8e02837f65af43fb3b54f938e466b51f" prot="private" virt="virtual"><scope>Aspose::Words::MailMerging::MailMergeRegionInfo</scope><name>~MailMergeRegionInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

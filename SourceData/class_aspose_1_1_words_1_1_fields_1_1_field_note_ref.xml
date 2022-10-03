@@ -1,0 +1,637 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::FieldNoteRef</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field" prot="public" virt="non-virtual">Aspose::Words::Fields::Field</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IFieldCodeTokenInfoProvider</basecompoundref>
+    <includes refid="_field_note_ref_8h" local="no">Aspose.Words.Cpp/Fields/FieldNoteRef.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a196ce1aa9466ad65bbee32b562554c61" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref></type>
+        <definition>typedef Aspose::Words::Fields::Field Aspose::Words::Fields::FieldNoteRef::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldNoteRef::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldNoteRef.h" line="111" column="42" bodyfile="Aspose.Words.Cpp/Fields/FieldNoteRef.h" bodystart="111" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1ace241fe8ef5761357119bc519214ac83" prot="private" static="no">
+        <type>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</type>
+        <definition>typedef Aspose::Words::Fields::IFieldCodeTokenInfoProvider Aspose::Words::Fields::FieldNoteRef::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Fields::FieldNoteRef::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldNoteRef.h" line="112" column="64" bodyfile="Aspose.Words.Cpp/Fields/FieldNoteRef.h" bodystart="112" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a4ad78524adb0951b1aaad8de1c8c99e7" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref" kindref="compound">FieldNoteRef</ref></type>
+        <definition>typedef FieldNoteRef Aspose::Words::Fields::FieldNoteRef::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldNoteRef::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldNoteRef.h" line="110" column="26" bodyfile="Aspose.Words.Cpp/Fields/FieldNoteRef.h" bodystart="110" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1abcf2e7e621a261d15b5f5b64ed14f748" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Fields::FieldNoteRef::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::FieldNoteRef::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldNoteRef.h" line="114" column="37" bodyfile="Aspose.Words.Cpp/Fields/FieldNoteRef.h" bodystart="114" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a6c1ea75a5f776268756c67ec67ec70c8" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Fields::FieldNoteRef::~FieldNoteRef</definition>
+        <argsstring>()</argsstring>
+        <name>~FieldNoteRef</name>
+        <qualifiedname>Aspose::Words::Fields::FieldNoteRef::~FieldNoteRef</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldNoteRef.h" line="408" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a3a44d11461494318a1316cb33dd5c050" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>Aspose::Words::Fields::FieldSwitchType</type>
+        <definition>Aspose::Words::Fields::FieldSwitchType Aspose::Words::Fields::FieldNoteRef::GetSwitchType</definition>
+        <argsstring>(System::String) override</argsstring>
+        <name>GetSwitchType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldNoteRef::GetSwitchType</qualifiedname>
+        <param>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldNoteRef.h" line="412" column="44"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a25c26c7c11223a9aab7c7982a27553f3" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldNoteRef::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::FieldNoteRef::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldNoteRef.h" line="115" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a76fa2345ebb5ec26462b6d64463ba366" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldUpdateAction &gt; Aspose::Words::Fields::FieldNoteRef::UpdateCore</definition>
+        <argsstring>() override</argsstring>
+        <name>UpdateCore</name>
+        <qualifiedname>Aspose::Words::Fields::FieldNoteRef::UpdateCore</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afd2f4d29a84550a38375396538654ab8">UpdateCore</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldNoteRef.h" line="406" column="26"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a47fb64af848749aec5e9bc42a89e45fb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldNoteRef::get_BookmarkName</definition>
+        <argsstring>()</argsstring>
+        <name>get_BookmarkName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldNoteRef::get_BookmarkName</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the name of the bookmark. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows to insert NOTEREF fields, and modify their appearance. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldNoteRef_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>bookmark<sp/>with<sp/>a<sp/>footnote<sp/>that<sp/>the<sp/>NOTEREF<sp/>field<sp/>will<sp/>reference.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertBookmarkWithFootnote(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Contents<sp/>of<sp/>MyBookmark1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>from<sp/>MyBookmark1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>NOTEREF<sp/>field<sp/>will<sp/>display<sp/>the<sp/>number<sp/>of<sp/>the<sp/>footnote<sp/>inside<sp/>the<sp/>referenced<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Setting<sp/>the<sp/>InsertHyperlink<sp/>property<sp/>lets<sp/>us<sp/>jump<sp/>to<sp/>the<sp/>bookmark<sp/>by<sp/>Ctrl<sp/>+<sp/>clicking<sp/>the<sp/>field<sp/>in<sp/>Microsoft<sp/>Word.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>NOTEREF<sp/><sp/>MyBookmark2<sp/>\\h&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>InsertFieldNoteRef(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark2&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Hyperlink<sp/>to<sp/>Bookmark2,<sp/>with<sp/>footnote<sp/>number<sp/>&quot;</highlight><highlight class="normal">)-&gt;<ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" kindref="member" tooltip="Returns text between field start and field separator (or field end if there is no separator)....">GetFieldCode</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>using<sp/>the<sp/>\p<sp/>flag,<sp/>after<sp/>the<sp/>footnote<sp/>number,<sp/>the<sp/>field<sp/>also<sp/>displays<sp/>the<sp/>bookmark&apos;s<sp/>position<sp/>relative<sp/>to<sp/>the<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Bookmark1<sp/>is<sp/>above<sp/>this<sp/>field<sp/>and<sp/>contains<sp/>footnote<sp/>number<sp/>1,<sp/>so<sp/>the<sp/>result<sp/>will<sp/>be<sp/>&quot;1<sp/>above&quot;<sp/>on<sp/>update.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>NOTEREF<sp/><sp/>MyBookmark1<sp/>\\h<sp/>\\p&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>InsertFieldNoteRef(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark1&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Bookmark1,<sp/>with<sp/>footnote<sp/>number<sp/>&quot;</highlight><highlight class="normal">)-&gt;<ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" kindref="member" tooltip="Returns text between field start and field separator (or field end if there is no separator)....">GetFieldCode</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Bookmark2<sp/>is<sp/>below<sp/>this<sp/>field<sp/>and<sp/>contains<sp/>footnote<sp/>number<sp/>2,<sp/>so<sp/>the<sp/>field<sp/>will<sp/>display<sp/>&quot;2<sp/>below&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>\f<sp/>flag<sp/>makes<sp/>the<sp/>number<sp/>2<sp/>appear<sp/>in<sp/>the<sp/>same<sp/>format<sp/>as<sp/>the<sp/>footnote<sp/>number<sp/>label<sp/>in<sp/>the<sp/>actual<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>NOTEREF<sp/><sp/>MyBookmark2<sp/>\\h<sp/>\\p<sp/>\\f&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>InsertFieldNoteRef(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark2&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Bookmark2,<sp/>with<sp/>footnote<sp/>number<sp/>&quot;</highlight><highlight class="normal">)-&gt;<ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" kindref="member" tooltip="Returns text between field start and field separator (or field end if there is no separator)....">GetFieldCode</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertBookmarkWithFootnote(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Contents<sp/>of<sp/>MyBookmark2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>from<sp/>MyBookmark2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.NOTEREF.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/>SharedPtr&lt;FieldNoteRef&gt;<sp/>InsertFieldNoteRef(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>bookmarkName,<sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>insertHyperlink,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>insertRelativePosition,<sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>insertReferenceMark,<sp/>String<sp/>textBefore)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(textBefore);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldNoteRef&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca793d14811921efc1981ce3360d42374c" kindref="member" tooltip="Specifies the NOTEREF field.">FieldType::FieldNoteRef</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_BookmarkName(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_InsertHyperlink(insertHyperlink);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_InsertRelativePosition(insertRelativePosition);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_InsertReferenceMark(insertReferenceMark);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>field;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertBookmarkWithFootnote(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>bookmarkName,<sp/>String<sp/>bookmarkText,<sp/>String<sp/>footnoteText)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(bookmarkText);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertFootnote(FootnoteType::Footnote,<sp/>footnoteText);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldNoteRef.h" line="185" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1ab9e5222ce51f2b91c9f53c7266b0e6f1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldNoteRef::get_InsertHyperlink</definition>
+        <argsstring>()</argsstring>
+        <name>get_InsertHyperlink</name>
+        <qualifiedname>Aspose::Words::Fields::FieldNoteRef::get_InsertHyperlink</qualifiedname>
+        <briefdescription>
+<para>Gets or sets whether to insert a hyperlink to the bookmarked paragraph. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows to insert NOTEREF fields, and modify their appearance. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldNoteRef_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>bookmark<sp/>with<sp/>a<sp/>footnote<sp/>that<sp/>the<sp/>NOTEREF<sp/>field<sp/>will<sp/>reference.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertBookmarkWithFootnote(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Contents<sp/>of<sp/>MyBookmark1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>from<sp/>MyBookmark1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>NOTEREF<sp/>field<sp/>will<sp/>display<sp/>the<sp/>number<sp/>of<sp/>the<sp/>footnote<sp/>inside<sp/>the<sp/>referenced<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Setting<sp/>the<sp/>InsertHyperlink<sp/>property<sp/>lets<sp/>us<sp/>jump<sp/>to<sp/>the<sp/>bookmark<sp/>by<sp/>Ctrl<sp/>+<sp/>clicking<sp/>the<sp/>field<sp/>in<sp/>Microsoft<sp/>Word.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>NOTEREF<sp/><sp/>MyBookmark2<sp/>\\h&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>InsertFieldNoteRef(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark2&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Hyperlink<sp/>to<sp/>Bookmark2,<sp/>with<sp/>footnote<sp/>number<sp/>&quot;</highlight><highlight class="normal">)-&gt;<ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" kindref="member" tooltip="Returns text between field start and field separator (or field end if there is no separator)....">GetFieldCode</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>using<sp/>the<sp/>\p<sp/>flag,<sp/>after<sp/>the<sp/>footnote<sp/>number,<sp/>the<sp/>field<sp/>also<sp/>displays<sp/>the<sp/>bookmark&apos;s<sp/>position<sp/>relative<sp/>to<sp/>the<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Bookmark1<sp/>is<sp/>above<sp/>this<sp/>field<sp/>and<sp/>contains<sp/>footnote<sp/>number<sp/>1,<sp/>so<sp/>the<sp/>result<sp/>will<sp/>be<sp/>&quot;1<sp/>above&quot;<sp/>on<sp/>update.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>NOTEREF<sp/><sp/>MyBookmark1<sp/>\\h<sp/>\\p&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>InsertFieldNoteRef(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark1&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Bookmark1,<sp/>with<sp/>footnote<sp/>number<sp/>&quot;</highlight><highlight class="normal">)-&gt;<ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" kindref="member" tooltip="Returns text between field start and field separator (or field end if there is no separator)....">GetFieldCode</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Bookmark2<sp/>is<sp/>below<sp/>this<sp/>field<sp/>and<sp/>contains<sp/>footnote<sp/>number<sp/>2,<sp/>so<sp/>the<sp/>field<sp/>will<sp/>display<sp/>&quot;2<sp/>below&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>\f<sp/>flag<sp/>makes<sp/>the<sp/>number<sp/>2<sp/>appear<sp/>in<sp/>the<sp/>same<sp/>format<sp/>as<sp/>the<sp/>footnote<sp/>number<sp/>label<sp/>in<sp/>the<sp/>actual<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>NOTEREF<sp/><sp/>MyBookmark2<sp/>\\h<sp/>\\p<sp/>\\f&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>InsertFieldNoteRef(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark2&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Bookmark2,<sp/>with<sp/>footnote<sp/>number<sp/>&quot;</highlight><highlight class="normal">)-&gt;<ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" kindref="member" tooltip="Returns text between field start and field separator (or field end if there is no separator)....">GetFieldCode</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertBookmarkWithFootnote(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Contents<sp/>of<sp/>MyBookmark2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>from<sp/>MyBookmark2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.NOTEREF.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/>SharedPtr&lt;FieldNoteRef&gt;<sp/>InsertFieldNoteRef(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>bookmarkName,<sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>insertHyperlink,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>insertRelativePosition,<sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>insertReferenceMark,<sp/>String<sp/>textBefore)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(textBefore);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldNoteRef&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca793d14811921efc1981ce3360d42374c" kindref="member" tooltip="Specifies the NOTEREF field.">FieldType::FieldNoteRef</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_BookmarkName(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_InsertHyperlink(insertHyperlink);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_InsertRelativePosition(insertRelativePosition);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_InsertReferenceMark(insertReferenceMark);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>field;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertBookmarkWithFootnote(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>bookmarkName,<sp/>String<sp/>bookmarkText,<sp/>String<sp/>footnoteText)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(bookmarkText);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertFootnote(FootnoteType::Footnote,<sp/>footnoteText);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldNoteRef.h" line="328" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a611a934d60ec66f8c9d52d330de356c5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldNoteRef::get_InsertReferenceMark</definition>
+        <argsstring>()</argsstring>
+        <name>get_InsertReferenceMark</name>
+        <qualifiedname>Aspose::Words::Fields::FieldNoteRef::get_InsertReferenceMark</qualifiedname>
+        <briefdescription>
+<para>Inserts the reference mark with the same character formatting as the Footnote Reference or Endnote Reference style. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows to insert NOTEREF fields, and modify their appearance. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldNoteRef_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>bookmark<sp/>with<sp/>a<sp/>footnote<sp/>that<sp/>the<sp/>NOTEREF<sp/>field<sp/>will<sp/>reference.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertBookmarkWithFootnote(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Contents<sp/>of<sp/>MyBookmark1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>from<sp/>MyBookmark1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>NOTEREF<sp/>field<sp/>will<sp/>display<sp/>the<sp/>number<sp/>of<sp/>the<sp/>footnote<sp/>inside<sp/>the<sp/>referenced<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Setting<sp/>the<sp/>InsertHyperlink<sp/>property<sp/>lets<sp/>us<sp/>jump<sp/>to<sp/>the<sp/>bookmark<sp/>by<sp/>Ctrl<sp/>+<sp/>clicking<sp/>the<sp/>field<sp/>in<sp/>Microsoft<sp/>Word.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>NOTEREF<sp/><sp/>MyBookmark2<sp/>\\h&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>InsertFieldNoteRef(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark2&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Hyperlink<sp/>to<sp/>Bookmark2,<sp/>with<sp/>footnote<sp/>number<sp/>&quot;</highlight><highlight class="normal">)-&gt;<ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" kindref="member" tooltip="Returns text between field start and field separator (or field end if there is no separator)....">GetFieldCode</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>using<sp/>the<sp/>\p<sp/>flag,<sp/>after<sp/>the<sp/>footnote<sp/>number,<sp/>the<sp/>field<sp/>also<sp/>displays<sp/>the<sp/>bookmark&apos;s<sp/>position<sp/>relative<sp/>to<sp/>the<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Bookmark1<sp/>is<sp/>above<sp/>this<sp/>field<sp/>and<sp/>contains<sp/>footnote<sp/>number<sp/>1,<sp/>so<sp/>the<sp/>result<sp/>will<sp/>be<sp/>&quot;1<sp/>above&quot;<sp/>on<sp/>update.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>NOTEREF<sp/><sp/>MyBookmark1<sp/>\\h<sp/>\\p&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>InsertFieldNoteRef(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark1&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Bookmark1,<sp/>with<sp/>footnote<sp/>number<sp/>&quot;</highlight><highlight class="normal">)-&gt;<ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" kindref="member" tooltip="Returns text between field start and field separator (or field end if there is no separator)....">GetFieldCode</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Bookmark2<sp/>is<sp/>below<sp/>this<sp/>field<sp/>and<sp/>contains<sp/>footnote<sp/>number<sp/>2,<sp/>so<sp/>the<sp/>field<sp/>will<sp/>display<sp/>&quot;2<sp/>below&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>\f<sp/>flag<sp/>makes<sp/>the<sp/>number<sp/>2<sp/>appear<sp/>in<sp/>the<sp/>same<sp/>format<sp/>as<sp/>the<sp/>footnote<sp/>number<sp/>label<sp/>in<sp/>the<sp/>actual<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>NOTEREF<sp/><sp/>MyBookmark2<sp/>\\h<sp/>\\p<sp/>\\f&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>InsertFieldNoteRef(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark2&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Bookmark2,<sp/>with<sp/>footnote<sp/>number<sp/>&quot;</highlight><highlight class="normal">)-&gt;<ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" kindref="member" tooltip="Returns text between field start and field separator (or field end if there is no separator)....">GetFieldCode</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertBookmarkWithFootnote(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Contents<sp/>of<sp/>MyBookmark2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>from<sp/>MyBookmark2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.NOTEREF.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/>SharedPtr&lt;FieldNoteRef&gt;<sp/>InsertFieldNoteRef(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>bookmarkName,<sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>insertHyperlink,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>insertRelativePosition,<sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>insertReferenceMark,<sp/>String<sp/>textBefore)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(textBefore);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldNoteRef&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca793d14811921efc1981ce3360d42374c" kindref="member" tooltip="Specifies the NOTEREF field.">FieldType::FieldNoteRef</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_BookmarkName(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_InsertHyperlink(insertHyperlink);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_InsertRelativePosition(insertRelativePosition);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_InsertReferenceMark(insertReferenceMark);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>field;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertBookmarkWithFootnote(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>bookmarkName,<sp/>String<sp/>bookmarkText,<sp/>String<sp/>footnoteText)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(bookmarkText);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertFootnote(FootnoteType::Footnote,<sp/>footnoteText);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldNoteRef.h" line="257" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a5e6f96e4cb8a957cf82990883a65cf62" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldNoteRef::get_InsertRelativePosition</definition>
+        <argsstring>()</argsstring>
+        <name>get_InsertRelativePosition</name>
+        <qualifiedname>Aspose::Words::Fields::FieldNoteRef::get_InsertRelativePosition</qualifiedname>
+        <briefdescription>
+<para>Gets or sets whether to insert a relative position of the bookmarked paragraph. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows to insert NOTEREF fields, and modify their appearance. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldNoteRef_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>bookmark<sp/>with<sp/>a<sp/>footnote<sp/>that<sp/>the<sp/>NOTEREF<sp/>field<sp/>will<sp/>reference.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertBookmarkWithFootnote(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Contents<sp/>of<sp/>MyBookmark1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>from<sp/>MyBookmark1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>NOTEREF<sp/>field<sp/>will<sp/>display<sp/>the<sp/>number<sp/>of<sp/>the<sp/>footnote<sp/>inside<sp/>the<sp/>referenced<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Setting<sp/>the<sp/>InsertHyperlink<sp/>property<sp/>lets<sp/>us<sp/>jump<sp/>to<sp/>the<sp/>bookmark<sp/>by<sp/>Ctrl<sp/>+<sp/>clicking<sp/>the<sp/>field<sp/>in<sp/>Microsoft<sp/>Word.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>NOTEREF<sp/><sp/>MyBookmark2<sp/>\\h&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>InsertFieldNoteRef(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark2&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Hyperlink<sp/>to<sp/>Bookmark2,<sp/>with<sp/>footnote<sp/>number<sp/>&quot;</highlight><highlight class="normal">)-&gt;<ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" kindref="member" tooltip="Returns text between field start and field separator (or field end if there is no separator)....">GetFieldCode</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>using<sp/>the<sp/>\p<sp/>flag,<sp/>after<sp/>the<sp/>footnote<sp/>number,<sp/>the<sp/>field<sp/>also<sp/>displays<sp/>the<sp/>bookmark&apos;s<sp/>position<sp/>relative<sp/>to<sp/>the<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Bookmark1<sp/>is<sp/>above<sp/>this<sp/>field<sp/>and<sp/>contains<sp/>footnote<sp/>number<sp/>1,<sp/>so<sp/>the<sp/>result<sp/>will<sp/>be<sp/>&quot;1<sp/>above&quot;<sp/>on<sp/>update.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>NOTEREF<sp/><sp/>MyBookmark1<sp/>\\h<sp/>\\p&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>InsertFieldNoteRef(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark1&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Bookmark1,<sp/>with<sp/>footnote<sp/>number<sp/>&quot;</highlight><highlight class="normal">)-&gt;<ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" kindref="member" tooltip="Returns text between field start and field separator (or field end if there is no separator)....">GetFieldCode</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Bookmark2<sp/>is<sp/>below<sp/>this<sp/>field<sp/>and<sp/>contains<sp/>footnote<sp/>number<sp/>2,<sp/>so<sp/>the<sp/>field<sp/>will<sp/>display<sp/>&quot;2<sp/>below&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>\f<sp/>flag<sp/>makes<sp/>the<sp/>number<sp/>2<sp/>appear<sp/>in<sp/>the<sp/>same<sp/>format<sp/>as<sp/>the<sp/>footnote<sp/>number<sp/>label<sp/>in<sp/>the<sp/>actual<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>NOTEREF<sp/><sp/>MyBookmark2<sp/>\\h<sp/>\\p<sp/>\\f&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>InsertFieldNoteRef(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark2&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Bookmark2,<sp/>with<sp/>footnote<sp/>number<sp/>&quot;</highlight><highlight class="normal">)-&gt;<ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" kindref="member" tooltip="Returns text between field start and field separator (or field end if there is no separator)....">GetFieldCode</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertBookmarkWithFootnote(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Contents<sp/>of<sp/>MyBookmark2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>from<sp/>MyBookmark2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.NOTEREF.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/>SharedPtr&lt;FieldNoteRef&gt;<sp/>InsertFieldNoteRef(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>bookmarkName,<sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>insertHyperlink,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>insertRelativePosition,<sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>insertReferenceMark,<sp/>String<sp/>textBefore)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(textBefore);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldNoteRef&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca793d14811921efc1981ce3360d42374c" kindref="member" tooltip="Specifies the NOTEREF field.">FieldType::FieldNoteRef</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_BookmarkName(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_InsertHyperlink(insertHyperlink);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_InsertRelativePosition(insertRelativePosition);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_InsertReferenceMark(insertReferenceMark);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>field;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertBookmarkWithFootnote(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>bookmarkName,<sp/>String<sp/>bookmarkText,<sp/>String<sp/>footnoteText)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(bookmarkText);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertFootnote(FootnoteType::Footnote,<sp/>footnoteText);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldNoteRef.h" line="399" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a2f10b3832b88a2e2301e36a34b24818f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldNoteRef::set_BookmarkName</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_BookmarkName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldNoteRef::set_BookmarkName</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a47fb64af848749aec5e9bc42a89e45fb" kindref="member">Aspose::Words::Fields::FieldNoteRef::get_BookmarkName</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldNoteRef.h" line="188" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a05534b56dc0276d6e8b15d9c96bcc0c2" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldNoteRef::set_InsertHyperlink</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_InsertHyperlink</name>
+        <qualifiedname>Aspose::Words::Fields::FieldNoteRef::set_InsertHyperlink</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1ab9e5222ce51f2b91c9f53c7266b0e6f1" kindref="member">Aspose::Words::Fields::FieldNoteRef::get_InsertHyperlink</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldNoteRef.h" line="331" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1aeccec7f0ac989d5acc8254284eef0883" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldNoteRef::set_InsertReferenceMark</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_InsertReferenceMark</name>
+        <qualifiedname>Aspose::Words::Fields::FieldNoteRef::set_InsertReferenceMark</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a611a934d60ec66f8c9d52d330de356c5" kindref="member">Aspose::Words::Fields::FieldNoteRef::get_InsertReferenceMark</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldNoteRef.h" line="260" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a8e4ce810f618f873e64a0c2f827891c6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldNoteRef::set_InsertRelativePosition</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_InsertRelativePosition</name>
+        <qualifiedname>Aspose::Words::Fields::FieldNoteRef::set_InsertRelativePosition</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a5e6f96e4cb8a957cf82990883a65cf62" kindref="member">Aspose::Words::Fields::FieldNoteRef::get_InsertRelativePosition</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldNoteRef.h" line="402" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implements the NOTEREF field. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows to insert NOTEREF fields, and modify their appearance. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldNoteRef_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>bookmark<sp/>with<sp/>a<sp/>footnote<sp/>that<sp/>the<sp/>NOTEREF<sp/>field<sp/>will<sp/>reference.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertBookmarkWithFootnote(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Contents<sp/>of<sp/>MyBookmark1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>from<sp/>MyBookmark1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>NOTEREF<sp/>field<sp/>will<sp/>display<sp/>the<sp/>number<sp/>of<sp/>the<sp/>footnote<sp/>inside<sp/>the<sp/>referenced<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Setting<sp/>the<sp/>InsertHyperlink<sp/>property<sp/>lets<sp/>us<sp/>jump<sp/>to<sp/>the<sp/>bookmark<sp/>by<sp/>Ctrl<sp/>+<sp/>clicking<sp/>the<sp/>field<sp/>in<sp/>Microsoft<sp/>Word.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>NOTEREF<sp/><sp/>MyBookmark2<sp/>\\h&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>InsertFieldNoteRef(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark2&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Hyperlink<sp/>to<sp/>Bookmark2,<sp/>with<sp/>footnote<sp/>number<sp/>&quot;</highlight><highlight class="normal">)-&gt;<ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" kindref="member" tooltip="Returns text between field start and field separator (or field end if there is no separator)....">GetFieldCode</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>using<sp/>the<sp/>\p<sp/>flag,<sp/>after<sp/>the<sp/>footnote<sp/>number,<sp/>the<sp/>field<sp/>also<sp/>displays<sp/>the<sp/>bookmark&apos;s<sp/>position<sp/>relative<sp/>to<sp/>the<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Bookmark1<sp/>is<sp/>above<sp/>this<sp/>field<sp/>and<sp/>contains<sp/>footnote<sp/>number<sp/>1,<sp/>so<sp/>the<sp/>result<sp/>will<sp/>be<sp/>&quot;1<sp/>above&quot;<sp/>on<sp/>update.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>NOTEREF<sp/><sp/>MyBookmark1<sp/>\\h<sp/>\\p&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>InsertFieldNoteRef(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark1&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Bookmark1,<sp/>with<sp/>footnote<sp/>number<sp/>&quot;</highlight><highlight class="normal">)-&gt;<ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" kindref="member" tooltip="Returns text between field start and field separator (or field end if there is no separator)....">GetFieldCode</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Bookmark2<sp/>is<sp/>below<sp/>this<sp/>field<sp/>and<sp/>contains<sp/>footnote<sp/>number<sp/>2,<sp/>so<sp/>the<sp/>field<sp/>will<sp/>display<sp/>&quot;2<sp/>below&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>\f<sp/>flag<sp/>makes<sp/>the<sp/>number<sp/>2<sp/>appear<sp/>in<sp/>the<sp/>same<sp/>format<sp/>as<sp/>the<sp/>footnote<sp/>number<sp/>label<sp/>in<sp/>the<sp/>actual<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>NOTEREF<sp/><sp/>MyBookmark2<sp/>\\h<sp/>\\p<sp/>\\f&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>InsertFieldNoteRef(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark2&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Bookmark2,<sp/>with<sp/>footnote<sp/>number<sp/>&quot;</highlight><highlight class="normal">)-&gt;<ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" kindref="member" tooltip="Returns text between field start and field separator (or field end if there is no separator)....">GetFieldCode</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertBookmarkWithFootnote(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Contents<sp/>of<sp/>MyBookmark2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>from<sp/>MyBookmark2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.NOTEREF.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/>SharedPtr&lt;FieldNoteRef&gt;<sp/>InsertFieldNoteRef(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>bookmarkName,<sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>insertHyperlink,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>insertRelativePosition,<sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>insertReferenceMark,<sp/>String<sp/>textBefore)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(textBefore);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldNoteRef&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca793d14811921efc1981ce3360d42374c" kindref="member" tooltip="Specifies the NOTEREF field.">FieldType::FieldNoteRef</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_BookmarkName(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_InsertHyperlink(insertHyperlink);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_InsertRelativePosition(insertRelativePosition);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_InsertReferenceMark(insertReferenceMark);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>field;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertBookmarkWithFootnote(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>bookmarkName,<sp/>String<sp/>bookmarkText,<sp/>String<sp/>footnoteText)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(bookmarkText);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertFootnote(FootnoteType::Footnote,<sp/>footnoteText);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldNoteRef</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldNoteRef</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/FieldNoteRef.h" line="108" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldNoteRef.h" bodystart="109" bodyend="414"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a196ce1aa9466ad65bbee32b562554c61" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1ace241fe8ef5761357119bc519214ac83" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a47fb64af848749aec5e9bc42a89e45fb" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>get_BookmarkName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a5c2d01019c517ea8098f296903e37a34" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>get_DisplayResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad5f0995c85cce833806e847cf25809b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a399c14463916724cac0015b430175589" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>get_FieldEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abc40cddc1325f7fec80d8530e5287448" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>get_FieldStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a090c5d09915e2ead6cc54fda736dd7c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>get_Format</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1ab9e5222ce51f2b91c9f53c7266b0e6f1" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>get_InsertHyperlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a611a934d60ec66f8c9d52d330de356c5" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>get_InsertReferenceMark</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a5e6f96e4cb8a957cf82990883a65cf62" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>get_InsertRelativePosition</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ae68851d4a88a1fc867d3ddee2e4e88c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>get_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afda4c46db80761545c89e21aae5b717d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>get_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a93719d071099487b6aea1eaa241dd6e8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>get_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a012c93472901dc077815970a9b2ab650" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>get_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abbc83ad66d5fb391a21980126ea96847" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>get_Separator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afa7cd5d4cf1a87b05058982f26786456" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad68196653db5cfca30c1ba18ed44c76e" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa40bc0e4a5be11f0df785cc8bb2ff042" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a3a44d11461494318a1316cb33dd5c050" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>GetSwitchType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad26a8021af3dbdc5bf0a1360a201222f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a25c26c7c11223a9aab7c7982a27553f3" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a2f10b3832b88a2e2301e36a34b24818f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>set_BookmarkName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a05534b56dc0276d6e8b15d9c96bcc0c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>set_InsertHyperlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1aeccec7f0ac989d5acc8254284eef0883" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>set_InsertReferenceMark</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a8e4ce810f618f873e64a0c2f827891c6" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>set_InsertRelativePosition</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa637d825865724665fb8ed856e664d95" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>set_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ac70b125adbe7f0ba5b889280cd282c47" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>set_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a165f748dd5ba33844f1d765f6c710f88" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>set_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa6af1e900c84ae806f071098dfe8f087" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>set_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a4ad78524adb0951b1aaad8de1c8c99e7" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1abcf2e7e621a261d15b5f5b64ed14f748" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab9f908becb16b26bed76d58dbcee9929" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>Unlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aaec82418b2b6493aa2827b8e282b2e82" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a1298d7daa07c863bf97cb3f37a4d7a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a76fa2345ebb5ec26462b6d64463ba366" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>UpdateCore</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref_1a6c1ea75a5f776268756c67ec67ec70c8" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldNoteRef</scope><name>~FieldNoteRef</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

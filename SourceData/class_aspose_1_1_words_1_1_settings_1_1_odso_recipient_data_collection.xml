@@ -1,0 +1,545 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Settings::OdsoRecipientDataCollection</compoundname>
+    <basecompoundref refid="class/system.collections.generic.i_enumerable/" prot="public" virt="non-virtual">System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Settings::OdsoRecipientData &gt; &gt;</basecompoundref>
+    <includes refid="_odso_recipient_data_collection_8h" local="no">Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a126a6c4d0dbf482ab0ac777beedd7d0b" prot="private" static="no">
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data" kindref="compound">Aspose::Words::Settings::OdsoRecipientData</ref> &gt; &gt;</type>
+        <definition>typedef System::Collections::Generic::IEnumerable&lt;System::SharedPtr&lt;Aspose::Words::Settings::OdsoRecipientData&gt; &gt; Aspose::Words::Settings::OdsoRecipientDataCollection::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="52" column="55" bodyfile="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" bodystart="52" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1ad288078f9f8fb63b9d9f54e9aff2ff52" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection" kindref="compound">OdsoRecipientDataCollection</ref></type>
+        <definition>typedef OdsoRecipientDataCollection Aspose::Words::Settings::OdsoRecipientDataCollection::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="51" column="41" bodyfile="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" bodystart="51" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a0c78c6f7d98cee114190608e673e44d7" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Settings::OdsoRecipientDataCollection::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="54" column="37" bodyfile="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" bodystart="54" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a421f14eb551e763dc2f8420be4e2d52f" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.list/_1a0f284b9cbb583432336a9ce4f0b9c84a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
+        <definition>using Aspose::Words::Settings::OdsoRecipientDataCollection::const_iterator =  typename iterator_holder_type::const_iterator</definition>
+        <argsstring></argsstring>
+        <name>const_iterator</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::const_iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="63" column="5" bodyfile="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" bodystart="63" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1aa34dd1196dab2dcb5c1eee7440546783" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.list/_1ab0ac6ed1e49acd56e069fe8614c87f3d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
+        <definition>using Aspose::Words::Settings::OdsoRecipientDataCollection::iterator =  typename iterator_holder_type::iterator</definition>
+        <argsstring></argsstring>
+        <name>iterator</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="61" column="5" bodyfile="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" bodystart="61" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a6cca58d1d2f860828d7736aa0066d181" prot="public" static="no">
+        <type><ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data" kindref="compound">Aspose::Words::Settings::OdsoRecipientData</ref> &gt; &gt;</type>
+        <definition>using Aspose::Words::Settings::OdsoRecipientDataCollection::iterator_holder_type =  System::Collections::Generic::List&lt;System::SharedPtr&lt;Aspose::Words::Settings::OdsoRecipientData&gt; &gt;</definition>
+        <argsstring></argsstring>
+        <name>iterator_holder_type</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::iterator_holder_type</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="59" column="5" bodyfile="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" bodystart="59" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a1e663e35c0d5a7bc317ca90e65cf9afe" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
+        <definition>using Aspose::Words::Settings::OdsoRecipientDataCollection::virtualized_iterator =  typename iterator_holder_type::virtualized_iterator</definition>
+        <argsstring></argsstring>
+        <name>virtualized_iterator</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::virtualized_iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="67" column="5" bodyfile="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" bodystart="67" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1ab4c236a9c9eedddc57dbfdc61644fd74" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
+        <definition>using Aspose::Words::Settings::OdsoRecipientDataCollection::virtualized_iterator_element =  typename iterator_holder_type::virtualized_iterator_element</definition>
+        <argsstring></argsstring>
+        <name>virtualized_iterator_element</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::virtualized_iterator_element</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="65" column="5" bodyfile="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" bodystart="65" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1adceb0008eed0178b103f11106b839490" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Settings::OdsoRecipientDataCollection::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="124" column="23" bodyfile="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" bodystart="124" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a11e4c805742d1b651fe7edb8011f4efe" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Settings::OdsoRecipientDataCollection::~OdsoRecipientDataCollection</definition>
+        <argsstring>()</argsstring>
+        <name>~OdsoRecipientDataCollection</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::~OdsoRecipientDataCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="120" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a9525fb828196df65ae3661bdfa97d56e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Settings::OdsoRecipientDataCollection::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="55" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a762741cbfc88c35714eab20fd2d8f242" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Settings::OdsoRecipientDataCollection::OdsoRecipientDataCollection</definition>
+        <argsstring>()</argsstring>
+        <name>OdsoRecipientDataCollection</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::OdsoRecipientDataCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="96" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1af50596de51d8b514b95c38cb6126a747" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Settings::OdsoRecipientDataCollection::Add</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Settings::OdsoRecipientData &gt; &amp;value)</argsstring>
+        <name>Add</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::Add</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data" kindref="compound">Aspose::Words::Settings::OdsoRecipientData</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Adds an object to the end of this collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>value</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The object to add. Cannot be null. </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="86" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a5687aa44ac43c11f8f7582066ad596ba" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a421f14eb551e763dc2f8420be4e2d52f" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::Settings::OdsoRecipientDataCollection::begin</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>begin</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::begin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="102" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1ab6a5971464c0ab6c93d5f3c07763c235" prot="public" static="no" const="no" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1aa34dd1196dab2dcb5c1eee7440546783" kindref="member">iterator</ref></type>
+        <definition>iterator Aspose::Words::Settings::OdsoRecipientDataCollection::begin</definition>
+        <argsstring>() noexcept</argsstring>
+        <name>begin</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::begin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="98" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a09c5a331816489b1a9783838ab5fb750" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a421f14eb551e763dc2f8420be4e2d52f" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::Settings::OdsoRecipientDataCollection::cbegin</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>cbegin</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::cbegin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="106" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1aed6c17051cce0051dd3097b7bfeb5f13" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a421f14eb551e763dc2f8420be4e2d52f" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::Settings::OdsoRecipientDataCollection::cend</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>cend</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::cend</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="108" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a99b84c670e39a678cf125b8247c18bdd" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::OdsoRecipientDataCollection::Clear</definition>
+        <argsstring>()</argsstring>
+        <name>Clear</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::Clear</qualifiedname>
+        <briefdescription>
+<para>Removes all elements from this collection. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="89" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1ab15b8f461f5d9ab3150a29393dc15d98" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a421f14eb551e763dc2f8420be4e2d52f" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::Settings::OdsoRecipientDataCollection::end</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>end</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::end</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="104" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a4e13e37d580ec7849b2ca78f4454926c" prot="public" static="no" const="no" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1aa34dd1196dab2dcb5c1eee7440546783" kindref="member">iterator</ref></type>
+        <definition>iterator Aspose::Words::Settings::OdsoRecipientDataCollection::end</definition>
+        <argsstring>() noexcept</argsstring>
+        <name>end</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::end</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="100" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a9aef0303d6503fba9a1337d80306e180" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Settings::OdsoRecipientDataCollection::get_Count</definition>
+        <argsstring>()</argsstring>
+        <name>get_Count</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::get_Count</qualifiedname>
+        <briefdescription>
+<para>Gets the number of elements contained in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="72" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a561695d815038a4ece9459c234a99a57" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data" kindref="compound">Aspose::Words::Settings::OdsoRecipientData</ref> &gt; &gt; &gt;</type>
+        <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::SharedPtr&lt; Aspose::Words::Settings::OdsoRecipientData &gt; &gt; &gt; Aspose::Words::Settings::OdsoRecipientDataCollection::GetEnumerator</definition>
+        <argsstring>() override</argsstring>
+        <name>GetEnumerator</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::GetEnumerator</qualifiedname>
+        <briefdescription>
+<para>Returns an enumerator object that can be used to iterate over all items in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="81" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a2a51840ceaf7438f31a0daf754cdd4a2" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data" kindref="compound">Aspose::Words::Settings::OdsoRecipientData</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Settings::OdsoRecipientData &gt; Aspose::Words::Settings::OdsoRecipientDataCollection::idx_get</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>idx_get</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::idx_get</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Gets or sets an item in this collection. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="75" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a526e0dff783e4e43cd29823623a5e271" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::OdsoRecipientDataCollection::idx_set</definition>
+        <argsstring>(int32_t index, const System::SharedPtr&lt; Aspose::Words::Settings::OdsoRecipientData &gt; &amp;value)</argsstring>
+        <name>idx_set</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::idx_set</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data" kindref="compound">Aspose::Words::Settings::OdsoRecipientData</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Gets or sets an item in this collection. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="78" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1ac85910192c8fe9353d656b4197fbe7d3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::OdsoRecipientDataCollection::RemoveAt</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>RemoveAt</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::RemoveAt</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Removes the element at the specified index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>index</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The zero-based index of the element. </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="94" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1afa72376edeebd276c9f37e1dbb7e35cc" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a1e663e35c0d5a7bc317ca90e65cf9afe" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::Settings::OdsoRecipientDataCollection::virtualizeBeginConstIterator</definition>
+        <argsstring>() const override</argsstring>
+        <name>virtualizeBeginConstIterator</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::virtualizeBeginConstIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="114" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1aae41d57781ca71d5c756acb2969116af" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a1e663e35c0d5a7bc317ca90e65cf9afe" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::Settings::OdsoRecipientDataCollection::virtualizeBeginIterator</definition>
+        <argsstring>() override</argsstring>
+        <name>virtualizeBeginIterator</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::virtualizeBeginIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="110" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1aacc52b2a28aebb05b0d3f87ee5c9367f" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a1e663e35c0d5a7bc317ca90e65cf9afe" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::Settings::OdsoRecipientDataCollection::virtualizeEndConstIterator</definition>
+        <argsstring>() const override</argsstring>
+        <name>virtualizeEndConstIterator</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::virtualizeEndConstIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="116" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1abd05dc9ffc7356c249e99b9cbeec45bb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a1e663e35c0d5a7bc317ca90e65cf9afe" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::Settings::OdsoRecipientDataCollection::virtualizeEndIterator</definition>
+        <argsstring>() override</argsstring>
+        <name>virtualizeEndIterator</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoRecipientDataCollection::virtualizeEndIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="112" column="29"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>A typed collection of <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data" kindref="compound">OdsoRecipientData</ref> </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data" kindref="compound">Aspose::Words::Settings::OdsoRecipientData</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1a4fcb02d106cac6d717fcc49abc1fd7fc" kindref="member">Aspose::Words::Settings::Odso::get_RecipientDatas</ref> </para>
+</simplesect>
+</para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Settings::OdsoRecipientDataCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Settings::OdsoRecipientData &gt; &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Settings::OdsoRecipientDataCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Settings::OdsoRecipientData &gt; &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" line="49" column="1" bodyfile="Aspose.Words.Cpp/Settings/OdsoRecipientDataCollection.h" bodystart="50" bodyend="126"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1af50596de51d8b514b95c38cb6126a747" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>Add</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a126a6c4d0dbf482ab0ac777beedd7d0b" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1ab6a5971464c0ab6c93d5f3c07763c235" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>begin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a5687aa44ac43c11f8f7582066ad596ba" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>begin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a09c5a331816489b1a9783838ab5fb750" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>cbegin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1aed6c17051cce0051dd3097b7bfeb5f13" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>cend</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a99b84c670e39a678cf125b8247c18bdd" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>Clear</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a421f14eb551e763dc2f8420be4e2d52f" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>const_iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a4e13e37d580ec7849b2ca78f4454926c" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>end</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1ab15b8f461f5d9ab3150a29393dc15d98" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>end</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a9aef0303d6503fba9a1337d80306e180" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a561695d815038a4ece9459c234a99a57" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>GetEnumerator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a2a51840ceaf7438f31a0daf754cdd4a2" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>idx_get</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a526e0dff783e4e43cd29823623a5e271" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>idx_set</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1aa34dd1196dab2dcb5c1eee7440546783" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a6cca58d1d2f860828d7736aa0066d181" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>iterator_holder_type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1adceb0008eed0178b103f11106b839490" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a762741cbfc88c35714eab20fd2d8f242" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>OdsoRecipientDataCollection</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1ac85910192c8fe9353d656b4197fbe7d3" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>RemoveAt</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a9525fb828196df65ae3661bdfa97d56e" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1ad288078f9f8fb63b9d9f54e9aff2ff52" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a0c78c6f7d98cee114190608e673e44d7" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1afa72376edeebd276c9f37e1dbb7e35cc" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>virtualizeBeginConstIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1aae41d57781ca71d5c756acb2969116af" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>virtualizeBeginIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a1e663e35c0d5a7bc317ca90e65cf9afe" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>virtualized_iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1ab4c236a9c9eedddc57dbfdc61644fd74" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>virtualized_iterator_element</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1aacc52b2a28aebb05b0d3f87ee5c9367f" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>virtualizeEndConstIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1abd05dc9ffc7356c249e99b9cbeec45bb" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>virtualizeEndIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection_1a11e4c805742d1b651fe7edb8011f4efe" prot="private" virt="virtual"><scope>Aspose::Words::Settings::OdsoRecipientDataCollection</scope><name>~OdsoRecipientDataCollection</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

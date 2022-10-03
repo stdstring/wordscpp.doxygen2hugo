@@ -1,0 +1,463 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_field_import" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::FieldImport</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field" prot="public" virt="non-virtual">Aspose::Words::Fields::Field</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IFieldCodeTokenInfoProvider</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IFieldIncludePictureCode</basecompoundref>
+    <includes refid="_field_import_8h" local="no">Aspose.Words.Cpp/Fields/FieldImport.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_import_1a59525da46e2ad8fc46b983d47ad6e2db" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref></type>
+        <definition>typedef Aspose::Words::Fields::Field Aspose::Words::Fields::FieldImport::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldImport::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldImport.h" line="76" column="42" bodyfile="Aspose.Words.Cpp/Fields/FieldImport.h" bodystart="76" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_import_1a403de1c3662cb791568c67d1df15de95" prot="private" static="no">
+        <type>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</type>
+        <definition>typedef Aspose::Words::Fields::IFieldCodeTokenInfoProvider Aspose::Words::Fields::FieldImport::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Fields::FieldImport::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldImport.h" line="77" column="64" bodyfile="Aspose.Words.Cpp/Fields/FieldImport.h" bodystart="77" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_import_1a87891b2f3c09cab92753d963a68d243d" prot="private" static="no">
+        <type>Aspose::Words::Fields::IFieldIncludePictureCode</type>
+        <definition>typedef Aspose::Words::Fields::IFieldIncludePictureCode Aspose::Words::Fields::FieldImport::BaseType2</definition>
+        <argsstring></argsstring>
+        <name>BaseType2</name>
+        <qualifiedname>Aspose::Words::Fields::FieldImport::BaseType2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldImport.h" line="78" column="61" bodyfile="Aspose.Words.Cpp/Fields/FieldImport.h" bodystart="78" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_import_1a025764867b247dacd603d83403c024ab" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_import" kindref="compound">FieldImport</ref></type>
+        <definition>typedef FieldImport Aspose::Words::Fields::FieldImport::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldImport::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldImport.h" line="75" column="25" bodyfile="Aspose.Words.Cpp/Fields/FieldImport.h" bodystart="75" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_import_1a665732a6c6d1ab1ea34e0f98b8bf9748" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1, BaseType2 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1, BaseType2&gt; Aspose::Words::Fields::FieldImport::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::FieldImport::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldImport.h" line="80" column="37" bodyfile="Aspose.Words.Cpp/Fields/FieldImport.h" bodystart="80" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_import_1a68758efef218fa9798147872b67deece" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Fields::FieldImport::~FieldImport</definition>
+        <argsstring>()</argsstring>
+        <name>~FieldImport</name>
+        <qualifiedname>Aspose::Words::Fields::FieldImport::~FieldImport</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldImport.h" line="203" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_import_1a431673b273ed577fbbd367991d12d8af" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>Aspose::Words::Fields::FieldSwitchType</type>
+        <definition>Aspose::Words::Fields::FieldSwitchType Aspose::Words::Fields::FieldImport::GetSwitchType</definition>
+        <argsstring>(System::String) override</argsstring>
+        <name>GetSwitchType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldImport::GetSwitchType</qualifiedname>
+        <param>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldImport.h" line="207" column="44"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_import_1aa1b6b45dee819c28429ddef231a4da72" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldImport::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::FieldImport::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldImport.h" line="81" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_import_1aaad98edfb59269d0377879451fbd6bae" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldUpdateAction &gt; Aspose::Words::Fields::FieldImport::UpdateCore</definition>
+        <argsstring>() override</argsstring>
+        <name>UpdateCore</name>
+        <qualifiedname>Aspose::Words::Fields::FieldImport::UpdateCore</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afd2f4d29a84550a38375396538654ab8">UpdateCore</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldImport.h" line="201" column="26"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_import_1a9e1bca142c45dc662f1f43710f374a9f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldImport::get_GraphicFilter</definition>
+        <argsstring>()</argsstring>
+        <name>get_GraphicFilter</name>
+        <qualifiedname>Aspose::Words::Fields::FieldImport::get_GraphicFilter</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the name of the filter for the format of the graphic that is to be inserted. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert images using IMPORT and INCLUDEPICTURE fields. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>similar<sp/>field<sp/>types<sp/>that<sp/>we<sp/>can<sp/>use<sp/>to<sp/>display<sp/>images<sp/>linked<sp/>from<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>The<sp/>INCLUDEPICTURE<sp/>field:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldIncludePicture<sp/>=<sp/>System::DynamicCast&lt;FieldIncludePicture&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca04b6c3fde546a94093163717cbe6cee8" kindref="member" tooltip="Specifies the INCLUDEPICTURE field.">FieldType::FieldIncludePicture</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldIncludePicture-&gt;set_SourceFullName(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Transparent<sp/>background<sp/>logo.png&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(fieldIncludePicture-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>INCLUDEPICTURE<sp/><sp/>.*&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>the<sp/>PNG32.FLT<sp/>filter.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldIncludePicture-&gt;set_GraphicFilter(u</highlight><highlight class="stringliteral">&quot;PNG32&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldIncludePicture-&gt;set_IsLinked(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldIncludePicture-&gt;set_ResizeHorizontally(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldIncludePicture-&gt;set_ResizeVertically(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>The<sp/>IMPORT<sp/>field:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldImport<sp/>=<sp/>System::DynamicCast&lt;FieldImport&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecad457e8c26fcdef14bedb9f81458f6ca5" kindref="member" tooltip="Specifies the IMPORT field.">FieldType::FieldImport</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldImport-&gt;set_SourceFullName(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Transparent<sp/>background<sp/>logo.png&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldImport-&gt;set_GraphicFilter(u</highlight><highlight class="stringliteral">&quot;PNG32&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldImport-&gt;set_IsLinked(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(fieldImport-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>IMPORT<sp/><sp/>.*<sp/>\\\\c<sp/>PNG32<sp/>\\\\d&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.IMPORT.INCLUDEPICTURE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldImport.h" line="156" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_import_1ae2ef63dc6986484e9a0c8765b1bc9500" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldImport::get_IsLinked</definition>
+        <argsstring>() override</argsstring>
+        <name>get_IsLinked</name>
+        <qualifiedname>Aspose::Words::Fields::FieldImport::get_IsLinked</qualifiedname>
+        <briefdescription>
+<para>Gets or sets whether to reduce the file size by not storing graphics data with the document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert images using IMPORT and INCLUDEPICTURE fields. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>similar<sp/>field<sp/>types<sp/>that<sp/>we<sp/>can<sp/>use<sp/>to<sp/>display<sp/>images<sp/>linked<sp/>from<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>The<sp/>INCLUDEPICTURE<sp/>field:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldIncludePicture<sp/>=<sp/>System::DynamicCast&lt;FieldIncludePicture&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca04b6c3fde546a94093163717cbe6cee8" kindref="member" tooltip="Specifies the INCLUDEPICTURE field.">FieldType::FieldIncludePicture</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldIncludePicture-&gt;set_SourceFullName(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Transparent<sp/>background<sp/>logo.png&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(fieldIncludePicture-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>INCLUDEPICTURE<sp/><sp/>.*&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>the<sp/>PNG32.FLT<sp/>filter.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldIncludePicture-&gt;set_GraphicFilter(u</highlight><highlight class="stringliteral">&quot;PNG32&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldIncludePicture-&gt;set_IsLinked(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldIncludePicture-&gt;set_ResizeHorizontally(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldIncludePicture-&gt;set_ResizeVertically(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>The<sp/>IMPORT<sp/>field:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldImport<sp/>=<sp/>System::DynamicCast&lt;FieldImport&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecad457e8c26fcdef14bedb9f81458f6ca5" kindref="member" tooltip="Specifies the IMPORT field.">FieldType::FieldImport</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldImport-&gt;set_SourceFullName(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Transparent<sp/>background<sp/>logo.png&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldImport-&gt;set_GraphicFilter(u</highlight><highlight class="stringliteral">&quot;PNG32&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldImport-&gt;set_IsLinked(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(fieldImport-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>IMPORT<sp/><sp/>.*<sp/>\\\\c<sp/>PNG32<sp/>\\\\d&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.IMPORT.INCLUDEPICTURE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldImport.h" line="194" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_import_1a05ec728e02562f8bc7092fa768754e06" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldImport::get_SourceFullName</definition>
+        <argsstring>() override</argsstring>
+        <name>get_SourceFullName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldImport::get_SourceFullName</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the location of the picture. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert images using IMPORT and INCLUDEPICTURE fields. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>similar<sp/>field<sp/>types<sp/>that<sp/>we<sp/>can<sp/>use<sp/>to<sp/>display<sp/>images<sp/>linked<sp/>from<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>The<sp/>INCLUDEPICTURE<sp/>field:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldIncludePicture<sp/>=<sp/>System::DynamicCast&lt;FieldIncludePicture&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca04b6c3fde546a94093163717cbe6cee8" kindref="member" tooltip="Specifies the INCLUDEPICTURE field.">FieldType::FieldIncludePicture</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldIncludePicture-&gt;set_SourceFullName(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Transparent<sp/>background<sp/>logo.png&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(fieldIncludePicture-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>INCLUDEPICTURE<sp/><sp/>.*&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>the<sp/>PNG32.FLT<sp/>filter.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldIncludePicture-&gt;set_GraphicFilter(u</highlight><highlight class="stringliteral">&quot;PNG32&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldIncludePicture-&gt;set_IsLinked(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldIncludePicture-&gt;set_ResizeHorizontally(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldIncludePicture-&gt;set_ResizeVertically(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>The<sp/>IMPORT<sp/>field:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldImport<sp/>=<sp/>System::DynamicCast&lt;FieldImport&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecad457e8c26fcdef14bedb9f81458f6ca5" kindref="member" tooltip="Specifies the IMPORT field.">FieldType::FieldImport</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldImport-&gt;set_SourceFullName(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Transparent<sp/>background<sp/>logo.png&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldImport-&gt;set_GraphicFilter(u</highlight><highlight class="stringliteral">&quot;PNG32&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldImport-&gt;set_IsLinked(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(fieldImport-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>IMPORT<sp/><sp/>.*<sp/>\\\\c<sp/>PNG32<sp/>\\\\d&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.IMPORT.INCLUDEPICTURE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldImport.h" line="118" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_import_1aa66fda28ade70a2392ab81bce837cdc6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldImport::set_GraphicFilter</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_GraphicFilter</name>
+        <qualifiedname>Aspose::Words::Fields::FieldImport::set_GraphicFilter</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_import_1a9e1bca142c45dc662f1f43710f374a9f" kindref="member">Aspose::Words::Fields::FieldImport::get_GraphicFilter</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldImport.h" line="159" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_import_1abcb8a29e5c9d486a3c1cc2de5b5bad2a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldImport::set_IsLinked</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_IsLinked</name>
+        <qualifiedname>Aspose::Words::Fields::FieldImport::set_IsLinked</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_import_1ae2ef63dc6986484e9a0c8765b1bc9500" kindref="member">Aspose::Words::Fields::FieldImport::get_IsLinked</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldImport.h" line="197" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_import_1afc4aa9ce5a7f36c4afd5bf625a6e9465" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldImport::set_SourceFullName</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_SourceFullName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldImport::set_SourceFullName</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_import_1a05ec728e02562f8bc7092fa768754e06" kindref="member">Aspose::Words::Fields::FieldImport::get_SourceFullName</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldImport.h" line="121" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implements the IMPORT field. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert images using IMPORT and INCLUDEPICTURE fields. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>similar<sp/>field<sp/>types<sp/>that<sp/>we<sp/>can<sp/>use<sp/>to<sp/>display<sp/>images<sp/>linked<sp/>from<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>The<sp/>INCLUDEPICTURE<sp/>field:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldIncludePicture<sp/>=<sp/>System::DynamicCast&lt;FieldIncludePicture&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca04b6c3fde546a94093163717cbe6cee8" kindref="member" tooltip="Specifies the INCLUDEPICTURE field.">FieldType::FieldIncludePicture</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldIncludePicture-&gt;set_SourceFullName(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Transparent<sp/>background<sp/>logo.png&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(fieldIncludePicture-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>INCLUDEPICTURE<sp/><sp/>.*&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>the<sp/>PNG32.FLT<sp/>filter.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldIncludePicture-&gt;set_GraphicFilter(u</highlight><highlight class="stringliteral">&quot;PNG32&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldIncludePicture-&gt;set_IsLinked(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldIncludePicture-&gt;set_ResizeHorizontally(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldIncludePicture-&gt;set_ResizeVertically(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>The<sp/>IMPORT<sp/>field:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldImport<sp/>=<sp/>System::DynamicCast&lt;FieldImport&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecad457e8c26fcdef14bedb9f81458f6ca5" kindref="member" tooltip="Specifies the IMPORT field.">FieldType::FieldImport</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldImport-&gt;set_SourceFullName(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Transparent<sp/>background<sp/>logo.png&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldImport-&gt;set_GraphicFilter(u</highlight><highlight class="stringliteral">&quot;PNG32&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldImport-&gt;set_IsLinked(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class/system.text.regular_expressions.regex/_1a80bbc92cafa9d727e9c5e125a2d21585" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Regex::Match</ref>(fieldImport-&gt;GetFieldCode(),<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>IMPORT<sp/><sp/>.*<sp/>\\\\c<sp/>PNG32<sp/>\\\\d&quot;</highlight><highlight class="normal">)-&gt;get_Success());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.IMPORT.INCLUDEPICTURE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldImport</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_import"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="5">
+        <label>Aspose::Words::Fields::IFieldIncludePictureCode</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldImport</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_import"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="5">
+        <label>Aspose::Words::Fields::IFieldIncludePictureCode</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/FieldImport.h" line="73" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldImport.h" bodystart="74" bodyend="209"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_import_1a59525da46e2ad8fc46b983d47ad6e2db" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_import_1a403de1c3662cb791568c67d1df15de95" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_import_1a87891b2f3c09cab92753d963a68d243d" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>BaseType2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a5c2d01019c517ea8098f296903e37a34" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>get_DisplayResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad5f0995c85cce833806e847cf25809b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a399c14463916724cac0015b430175589" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>get_FieldEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abc40cddc1325f7fec80d8530e5287448" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>get_FieldStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a090c5d09915e2ead6cc54fda736dd7c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>get_Format</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_import_1a9e1bca142c45dc662f1f43710f374a9f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>get_GraphicFilter</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ae68851d4a88a1fc867d3ddee2e4e88c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>get_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_import_1ae2ef63dc6986484e9a0c8765b1bc9500" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>get_IsLinked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afda4c46db80761545c89e21aae5b717d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>get_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a93719d071099487b6aea1eaa241dd6e8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>get_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a012c93472901dc077815970a9b2ab650" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>get_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abbc83ad66d5fb391a21980126ea96847" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>get_Separator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_import_1a05ec728e02562f8bc7092fa768754e06" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>get_SourceFullName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afa7cd5d4cf1a87b05058982f26786456" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad68196653db5cfca30c1ba18ed44c76e" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa40bc0e4a5be11f0df785cc8bb2ff042" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_import_1a431673b273ed577fbbd367991d12d8af" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>GetSwitchType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad26a8021af3dbdc5bf0a1360a201222f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_import_1aa1b6b45dee819c28429ddef231a4da72" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_import_1aa66fda28ade70a2392ab81bce837cdc6" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>set_GraphicFilter</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa637d825865724665fb8ed856e664d95" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>set_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_import_1abcb8a29e5c9d486a3c1cc2de5b5bad2a" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>set_IsLinked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ac70b125adbe7f0ba5b889280cd282c47" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>set_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a165f748dd5ba33844f1d765f6c710f88" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>set_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa6af1e900c84ae806f071098dfe8f087" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>set_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_import_1afc4aa9ce5a7f36c4afd5bf625a6e9465" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>set_SourceFullName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_import_1a025764867b247dacd603d83403c024ab" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_import_1a665732a6c6d1ab1ea34e0f98b8bf9748" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab9f908becb16b26bed76d58dbcee9929" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>Unlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aaec82418b2b6493aa2827b8e282b2e82" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a1298d7daa07c863bf97cb3f37a4d7a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_import_1aaad98edfb59269d0377879451fbd6bae" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>UpdateCore</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_import_1a68758efef218fa9798147872b67deece" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldImport</scope><name>~FieldImport</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

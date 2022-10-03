@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_saving_1_1_word_m_l2003_save_options" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Saving::WordML2003SaveOptions</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_saving_1_1_save_options" prot="public" virt="non-virtual">Aspose::Words::Saving::SaveOptions</basecompoundref>
+    <includes refid="_word_m_l2003_save_options_8h" local="no">Aspose.Words.Cpp/Saving/WordML2003SaveOptions.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_word_m_l2003_save_options_1aece4e2d2697fd0fad1a0b71d97dd1c45" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_save_options" kindref="compound">Aspose::Words::Saving::SaveOptions</ref></type>
+        <definition>typedef Aspose::Words::Saving::SaveOptions Aspose::Words::Saving::WordML2003SaveOptions::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Saving::WordML2003SaveOptions::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/WordML2003SaveOptions.h" line="84" column="48" bodyfile="Aspose.Words.Cpp/Saving/WordML2003SaveOptions.h" bodystart="84" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_word_m_l2003_save_options_1a494338d4d5da581a576aff33cad6152d" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_word_m_l2003_save_options" kindref="compound">WordML2003SaveOptions</ref></type>
+        <definition>typedef WordML2003SaveOptions Aspose::Words::Saving::WordML2003SaveOptions::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Saving::WordML2003SaveOptions::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/WordML2003SaveOptions.h" line="83" column="35" bodyfile="Aspose.Words.Cpp/Saving/WordML2003SaveOptions.h" bodystart="83" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_word_m_l2003_save_options_1a7849c32f9561ce486f82c9ccbc468072" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_save_options" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::WordML2003SaveOptions::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Saving::WordML2003SaveOptions::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/WordML2003SaveOptions.h" line="86" column="37" bodyfile="Aspose.Words.Cpp/Saving/WordML2003SaveOptions.h" bodystart="86" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_word_m_l2003_save_options_1a7315876d127c0a894646041d6c4e21ab" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::WordML2003SaveOptions::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Saving::WordML2003SaveOptions::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/WordML2003SaveOptions.h" line="87" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_word_m_l2003_save_options_1ac2fa6c3071bd3a8a44f37805b60bd3d3" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" kindref="member">Aspose::Words::SaveFormat</ref></type>
+        <definition>Aspose::Words::SaveFormat Aspose::Words::Saving::WordML2003SaveOptions::get_SaveFormat</definition>
+        <argsstring>() override</argsstring>
+        <name>get_SaveFormat</name>
+        <qualifiedname>Aspose::Words::Saving::WordML2003SaveOptions::get_SaveFormat</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6df9e8d37cc7794640ea5c5932134253">get_SaveFormat</reimplements>
+        <briefdescription>
+<para>Specifies the format in which the document will be saved if this save options object is used. Can only be <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847ad3fc933a3ff97915dd1fa4b6c524230e" kindref="member">WordML</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to manage output document&apos;s raw content. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;WordML2003SaveOptions&quot;<sp/>object<sp/>to<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>save<sp/>the<sp/>document<sp/>to<sp/>the<sp/>WordML<sp/>save<sp/>format.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;WordML2003SaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847ad3fc933a3ff97915dd1fa4b6c524230e" kindref="member" tooltip="Saves the document in the Microsoft Word 2003 WordprocessingML format.">SaveFormat::WordML</ref>,<sp/>options-&gt;get_SaveFormat());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;PrettyFormat&quot;<sp/>property<sp/>to<sp/>&quot;true&quot;<sp/>to<sp/>apply<sp/>tab<sp/>character<sp/>indentation<sp/>and</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>newlines<sp/>to<sp/>make<sp/>the<sp/>output<sp/>document&apos;s<sp/>raw<sp/>content<sp/>easier<sp/>to<sp/>read.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;PrettyFormat&quot;<sp/>property<sp/>to<sp/>&quot;false&quot;<sp/>to<sp/>save<sp/>the<sp/>document&apos;s<sp/>raw<sp/>content<sp/>in<sp/>one<sp/>continuous<sp/>body<sp/>of<sp/>the<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_PrettyFormat(prettyFormat);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;WordML2003SaveOptions.PrettyFormat.xml&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>fileContents<sp/>=<sp/><ref refid="class/system.i_o.file/_1a44b456da9461cd60c432ed0efac1e6d8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::ReadAllText</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;WordML2003SaveOptions.PrettyFormat.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(prettyFormat)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(fileContents.Contains(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;&lt;o:DocumentProperties&gt;\r\n\t\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;o:Revision&gt;1&lt;/o:Revision&gt;\r\n\t\t&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;&lt;o:TotalTime&gt;0&lt;/o:TotalTime&gt;\r\n\t\t&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;o:Pages&gt;1&lt;/o:Pages&gt;\r\n\t\t&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;o:Words&gt;0&lt;/o:Words&gt;\r\n\t\t&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;&lt;o:Characters&gt;0&lt;/o:Characters&gt;\r\n\t\t&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;o:Lines&gt;1&lt;/o:Lines&gt;\r\n\t\t&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;&lt;o:Paragraphs&gt;1&lt;/o:Paragraphs&gt;\r\n\t\t&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;o:CharactersWithSpaces&gt;0&lt;/o:CharactersWithSpaces&gt;\r\n\t\t&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;&lt;o:Version&gt;11.5606&lt;/o:Version&gt;\r\n\t&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;/o:DocumentProperties&gt;&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(fileContents.Contains(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;&lt;o:DocumentProperties&gt;&lt;o:Revision&gt;1&lt;/o:Revision&gt;&lt;o:TotalTime&gt;0&lt;/o:TotalTime&gt;&lt;o:Pages&gt;1&lt;/o:Pages&gt;&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;&lt;o:Words&gt;0&lt;/o:Words&gt;&lt;o:Characters&gt;0&lt;/o:Characters&gt;&lt;o:Lines&gt;1&lt;/o:Lines&gt;&lt;o:Paragraphs&gt;1&lt;/o:Paragraphs&gt;&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;&lt;o:CharactersWithSpaces&gt;0&lt;/o:CharactersWithSpaces&gt;&lt;o:Version&gt;11.5606&lt;/o:Version&gt;&lt;/o:DocumentProperties&gt;&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/WordML2003SaveOptions.h" line="132" column="34"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_word_m_l2003_save_options_1a1b922709efc1458985323340fdd28aa0" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::WordML2003SaveOptions::set_SaveFormat</definition>
+        <argsstring>(Aspose::Words::SaveFormat value) override</argsstring>
+        <name>set_SaveFormat</name>
+        <qualifiedname>Aspose::Words::Saving::WordML2003SaveOptions::set_SaveFormat</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a75d9ec81ad960179eba172764d2c60b9">set_SaveFormat</reimplements>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" kindref="member">Aspose::Words::SaveFormat</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_word_m_l2003_save_options_1ac2fa6c3071bd3a8a44f37805b60bd3d3" kindref="member">Aspose::Words::Saving::WordML2003SaveOptions::get_SaveFormat</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/WordML2003SaveOptions.h" line="135" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Can be used to specify additional options when saving a document into the <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847ad3fc933a3ff97915dd1fa4b6c524230e" kindref="member">WordML</ref> format. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>At the moment provides only the <ref refid="class_aspose_1_1_words_1_1_saving_1_1_word_m_l2003_save_options_1ac2fa6c3071bd3a8a44f37805b60bd3d3" kindref="member">SaveFormat</ref> property, but in the future may have other options added.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to manage output document&apos;s raw content. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;WordML2003SaveOptions&quot;<sp/>object<sp/>to<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>save<sp/>the<sp/>document<sp/>to<sp/>the<sp/>WordML<sp/>save<sp/>format.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;WordML2003SaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847ad3fc933a3ff97915dd1fa4b6c524230e" kindref="member" tooltip="Saves the document in the Microsoft Word 2003 WordprocessingML format.">SaveFormat::WordML</ref>,<sp/>options-&gt;get_SaveFormat());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;PrettyFormat&quot;<sp/>property<sp/>to<sp/>&quot;true&quot;<sp/>to<sp/>apply<sp/>tab<sp/>character<sp/>indentation<sp/>and</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>newlines<sp/>to<sp/>make<sp/>the<sp/>output<sp/>document&apos;s<sp/>raw<sp/>content<sp/>easier<sp/>to<sp/>read.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;PrettyFormat&quot;<sp/>property<sp/>to<sp/>&quot;false&quot;<sp/>to<sp/>save<sp/>the<sp/>document&apos;s<sp/>raw<sp/>content<sp/>in<sp/>one<sp/>continuous<sp/>body<sp/>of<sp/>the<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_PrettyFormat(prettyFormat);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;WordML2003SaveOptions.PrettyFormat.xml&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>fileContents<sp/>=<sp/><ref refid="class/system.i_o.file/_1a44b456da9461cd60c432ed0efac1e6d8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::ReadAllText</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;WordML2003SaveOptions.PrettyFormat.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(prettyFormat)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(fileContents.Contains(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;&lt;o:DocumentProperties&gt;\r\n\t\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;o:Revision&gt;1&lt;/o:Revision&gt;\r\n\t\t&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;&lt;o:TotalTime&gt;0&lt;/o:TotalTime&gt;\r\n\t\t&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;o:Pages&gt;1&lt;/o:Pages&gt;\r\n\t\t&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;o:Words&gt;0&lt;/o:Words&gt;\r\n\t\t&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;&lt;o:Characters&gt;0&lt;/o:Characters&gt;\r\n\t\t&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;o:Lines&gt;1&lt;/o:Lines&gt;\r\n\t\t&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;&lt;o:Paragraphs&gt;1&lt;/o:Paragraphs&gt;\r\n\t\t&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;o:CharactersWithSpaces&gt;0&lt;/o:CharactersWithSpaces&gt;\r\n\t\t&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;&lt;o:Version&gt;11.5606&lt;/o:Version&gt;\r\n\t&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;/o:DocumentProperties&gt;&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(fileContents.Contains(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;&lt;o:DocumentProperties&gt;&lt;o:Revision&gt;1&lt;/o:Revision&gt;&lt;o:TotalTime&gt;0&lt;/o:TotalTime&gt;&lt;o:Pages&gt;1&lt;/o:Pages&gt;&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;&lt;o:Words&gt;0&lt;/o:Words&gt;&lt;o:Characters&gt;0&lt;/o:Characters&gt;&lt;o:Lines&gt;1&lt;/o:Lines&gt;&lt;o:Paragraphs&gt;1&lt;/o:Paragraphs&gt;&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;&lt;o:CharactersWithSpaces&gt;0&lt;/o:CharactersWithSpaces&gt;&lt;o:Version&gt;11.5606&lt;/o:Version&gt;&lt;/o:DocumentProperties&gt;&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting></para>
+<para>Shows how to manage memory optimization. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;WordML2003SaveOptions&quot;<sp/>object<sp/>to<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>save<sp/>the<sp/>document<sp/>to<sp/>the<sp/>WordML<sp/>save<sp/>format.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;WordML2003SaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;MemoryOptimization&quot;<sp/>flag<sp/>to<sp/>&quot;true&quot;<sp/>to<sp/>decrease<sp/>memory<sp/>consumption</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>during<sp/>the<sp/>document&apos;s<sp/>saving<sp/>operation<sp/>at<sp/>the<sp/>cost<sp/>of<sp/>a<sp/>longer<sp/>saving<sp/>time.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;MemoryOptimization&quot;<sp/>flag<sp/>to<sp/>&quot;false&quot;<sp/>to<sp/>save<sp/>the<sp/>document<sp/>normally.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_MemoryOptimization(memoryOptimization);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;WordML2003SaveOptions.MemoryOptimization.xml&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Saving::SaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_save_options"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Saving::WordML2003SaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_word_m_l2003_save_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Saving::SaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_save_options"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Saving::WordML2003SaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_word_m_l2003_save_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Saving/WordML2003SaveOptions.h" line="81" column="1" bodyfile="Aspose.Words.Cpp/Saving/WordML2003SaveOptions.h" bodystart="82" bodyend="137"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_word_m_l2003_save_options_1aece4e2d2697fd0fad1a0b71d97dd1c45" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a5f8b7264160980e775d0ebc2bb87ec6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>CreateSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a92aa5f878a1d0f3e06f620fd1376142f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>CreateSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9fecca2156a70f1834bd1c913a129d47" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>get_AllowEmbeddingPostScriptFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab9a4c7be9e7070ecbd5248bf01535ef3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>get_CustomTimeZoneInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a327b0f9146d84c39d72f09dffb55970d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>get_DefaultTemplate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ac309d37b349e0fd18de204c4b3493113" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>get_Dml3DEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0ad6a41669029f8bcb5d56ccd8eb1f25" prot="public" virt="virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>get_DmlEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a40d3faab0e88622c6fac579bbc050772" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>get_DmlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1add57516835dfbc84b4ac55117e03a6a5" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>get_ExportGeneratorName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab3a4c36623e1cba81e21fb0c18fc27d6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>get_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a4032bbd708177dd64e3ba455a509e470" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>get_ImlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a00434e0916cf24f88a1cff9f4952bff3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>get_MemoryOptimization</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1af3590697cf94e5b1f546536a3bb20089" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>get_PrettyFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aabbd691992af320129ecf001454428b1" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>get_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_word_m_l2003_save_options_1ac2fa6c3071bd3a8a44f37805b60bd3d3" prot="public" virt="virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>get_SaveFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2eb22d168e7885c69f1a5ee73dfa9a9c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>get_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aafd986a59939576b688baf70ae2982b9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>get_UpdateCreatedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9058403d0bf8ef363c7265927c7d9689" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>get_UpdateFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ae00124e73b7ed35821a822f59a98456d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>get_UpdateLastPrintedProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aa37a14113e46f96d6a4100f33dbb41cd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>get_UpdateLastSavedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6ba4c67d7befc1d3959119554bc6ca0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>get_UpdateSdtContent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ac07a919eda7dd3104c3539643caab82f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>get_UseAntiAliasing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a926127b8a13db96c893d2e327d1ac458" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>get_UseHighQualityRendering</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_word_m_l2003_save_options_1a7315876d127c0a894646041d6c4e21ab" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9bf0591a869b2046558fac161fb5c8b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>set_AllowEmbeddingPostScriptFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a70292d5b6ed5dd4ed81ab6779ada5037" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>set_CustomTimeZoneInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6d50c71651e23523dd4edae9c8e03b0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>set_DefaultTemplate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a52f28c6f920bd4829f304f586dd52a4e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>set_Dml3DEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0415bb8f17f114f5b8bfbf77822f3e33" prot="public" virt="virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>set_DmlEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a925282153c1c7004637ce406968cd6bd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>set_DmlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2b3bada9094a54559b832d5051f5be6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>set_ExportGeneratorName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f2f79ea57714961156f913867823fc2" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>set_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afe2fd3cb5119a04f528a9da4b6c643b6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>set_ImlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1b432af0d799842b6939005904d924b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>set_MemoryOptimization</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0333c9e934c7b7066c108975a65291c9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>set_PrettyFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3ca5c36f7f1922b1f7b1f6e8528e29c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>set_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_word_m_l2003_save_options_1a1b922709efc1458985323340fdd28aa0" prot="public" virt="virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>set_SaveFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a7488c6e1d35b21dda1fb3a6b24eb077c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>set_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aa6b3c59d2b5d93ecd4af333e7731a57a" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>set_UpdateCreatedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1ca0e9e7685d9cfdacad9b0c1c47fede" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>set_UpdateFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9253b0a7481cec6751f2d6e186d15f89" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>set_UpdateLastPrintedProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f8626f9e2fdd5ea38f656ecffea4433" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>set_UpdateLastSavedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afc31fd439351d75447554d3196522687" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>set_UpdateSdtContent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aee6a47d5aa51895c89fb99333990b15c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>set_UseAntiAliasing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aadd8de8195c06388cf619673c020dad3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>set_UseHighQualityRendering</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_word_m_l2003_save_options_1a494338d4d5da581a576aff33cad6152d" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_word_m_l2003_save_options_1a7849c32f9561ce486f82c9ccbc468072" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::WordML2003SaveOptions</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

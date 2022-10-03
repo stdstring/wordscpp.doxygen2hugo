@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="_i_run_attr_source_8h" kind="file" language="C++">
+    <compoundname>IRunAttrSource.h</compoundname>
+    <includes local="no">system/object.h</includes>
+    <includes local="no">cstdint</includes>
+    <includedby refid="_conditional_style_8h" local="no">Aspose.Words.Cpp/ConditionalStyle.h</includedby>
+    <includedby refid="_document_builder_8h" local="no">Aspose.Words.Cpp/DocumentBuilder.h</includedby>
+    <includedby refid="_chart_legend_entry_8h" local="no">Aspose.Words.Cpp/Drawing/Charts/ChartLegendEntry.h</includedby>
+    <includedby refid="_chart_title_8h" local="no">Aspose.Words.Cpp/Drawing/Charts/ChartTitle.h</includedby>
+    <includedby refid="_i_inline_8h" local="no">Aspose.Words.Cpp/IInline.h</includedby>
+    <includedby refid="_list_label_8h" local="no">Aspose.Words.Cpp/Lists/ListLabel.h</includedby>
+    <includedby refid="_list_level_8h" local="no">Aspose.Words.Cpp/Lists/ListLevel.h</includedby>
+    <includedby refid="_structured_document_tag_8h" local="no">Aspose.Words.Cpp/Markup/StructuredDocumentTag.h</includedby>
+    <includedby refid="_paragraph_8h" local="no">Aspose.Words.Cpp/Paragraph.h</includedby>
+    <includedby refid="_style_8h" local="no">Aspose.Words.Cpp/Style.h</includedby>
+    <incdepgraph>
+      <node id="1">
+        <label>Aspose.Words.Cpp/IRunAttrSource.h</label>
+        <link refid="_i_run_attr_source_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>cstdint</label>
+      </node>
+      <node id="2">
+        <label>system/object.h</label>
+      </node>
+    </incdepgraph>
+    <invincdepgraph>
+      <node id="13">
+        <label>Aspose.Words.Cpp/AbsolutePositionTab.h</label>
+        <link refid="_absolute_position_tab_8h_source"/>
+      </node>
+      <node id="20">
+        <label>Aspose.Words.Cpp/Comment.h</label>
+        <link refid="_comment_8h_source"/>
+      </node>
+      <node id="2">
+        <label>Aspose.Words.Cpp/ConditionalStyle.h</label>
+        <link refid="_conditional_style_8h_source"/>
+      </node>
+      <node id="3">
+        <label>Aspose.Words.Cpp/DocumentBuilder.h</label>
+        <link refid="_document_builder_8h_source"/>
+      </node>
+      <node id="4">
+        <label>Aspose.Words.Cpp/Drawing/Charts/ChartLegendEntry.h</label>
+        <link refid="_chart_legend_entry_8h_source"/>
+      </node>
+      <node id="5">
+        <label>Aspose.Words.Cpp/Drawing/Charts/ChartTitle.h</label>
+        <link refid="_chart_title_8h_source"/>
+      </node>
+      <node id="8">
+        <label>Aspose.Words.Cpp/Drawing/GroupShape.h</label>
+        <link refid="_group_shape_8h_source"/>
+      </node>
+      <node id="9">
+        <label>Aspose.Words.Cpp/Drawing/Shape.h</label>
+        <link refid="_shape_8h_source"/>
+      </node>
+      <node id="7">
+        <label>Aspose.Words.Cpp/Drawing/ShapeBase.h</label>
+        <link refid="_shape_base_8h_source"/>
+        <childnode refid="8" relation="include">
+        </childnode>
+        <childnode refid="9" relation="include">
+        </childnode>
+      </node>
+      <node id="14">
+        <label>Aspose.Words.Cpp/Fields/FieldChar.h</label>
+        <link refid="_field_char_8h_source"/>
+        <childnode refid="15" relation="include">
+        </childnode>
+        <childnode refid="16" relation="include">
+        </childnode>
+        <childnode refid="17" relation="include">
+        </childnode>
+      </node>
+      <node id="15">
+        <label>Aspose.Words.Cpp/Fields/FieldEnd.h</label>
+        <link refid="_field_end_8h_source"/>
+      </node>
+      <node id="16">
+        <label>Aspose.Words.Cpp/Fields/FieldSeparator.h</label>
+        <link refid="_field_separator_8h_source"/>
+      </node>
+      <node id="17">
+        <label>Aspose.Words.Cpp/Fields/FieldStart.h</label>
+        <link refid="_field_start_8h_source"/>
+      </node>
+      <node id="18">
+        <label>Aspose.Words.Cpp/Fields/FormField.h</label>
+        <link refid="_form_field_8h_source"/>
+      </node>
+      <node id="6">
+        <label>Aspose.Words.Cpp/IInline.h</label>
+        <link refid="_i_inline_8h_source"/>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="10" relation="include">
+        </childnode>
+        <childnode refid="19" relation="include">
+        </childnode>
+        <childnode refid="22" relation="include">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose.Words.Cpp/IRunAttrSource.h</label>
+        <link refid="_i_run_attr_source_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="23" relation="include">
+        </childnode>
+        <childnode refid="24" relation="include">
+        </childnode>
+        <childnode refid="25" relation="include">
+        </childnode>
+        <childnode refid="26" relation="include">
+        </childnode>
+        <childnode refid="27" relation="include">
+        </childnode>
+      </node>
+      <node id="10">
+        <label>Aspose.Words.Cpp/Inline.h</label>
+        <link refid="_inline_8h_source"/>
+        <childnode refid="11" relation="include">
+        </childnode>
+        <childnode refid="12" relation="include">
+        </childnode>
+      </node>
+      <node id="19">
+        <label>Aspose.Words.Cpp/InlineStory.h</label>
+        <link refid="_inline_story_8h_source"/>
+        <childnode refid="20" relation="include">
+        </childnode>
+        <childnode refid="21" relation="include">
+        </childnode>
+      </node>
+      <node id="23">
+        <label>Aspose.Words.Cpp/Lists/ListLabel.h</label>
+        <link refid="_list_label_8h_source"/>
+      </node>
+      <node id="24">
+        <label>Aspose.Words.Cpp/Lists/ListLevel.h</label>
+        <link refid="_list_level_8h_source"/>
+      </node>
+      <node id="25">
+        <label>Aspose.Words.Cpp/Markup/StructuredDocumentTag.h</label>
+        <link refid="_structured_document_tag_8h_source"/>
+      </node>
+      <node id="22">
+        <label>Aspose.Words.Cpp/Math/OfficeMath.h</label>
+        <link refid="_office_math_8h_source"/>
+      </node>
+      <node id="21">
+        <label>Aspose.Words.Cpp/Notes/Footnote.h</label>
+        <link refid="_footnote_8h_source"/>
+      </node>
+      <node id="26">
+        <label>Aspose.Words.Cpp/Paragraph.h</label>
+        <link refid="_paragraph_8h_source"/>
+      </node>
+      <node id="11">
+        <label>Aspose.Words.Cpp/Run.h</label>
+        <link refid="_run_8h_source"/>
+      </node>
+      <node id="12">
+        <label>Aspose.Words.Cpp/SpecialChar.h</label>
+        <link refid="_special_char_8h_source"/>
+        <childnode refid="13" relation="include">
+        </childnode>
+        <childnode refid="14" relation="include">
+        </childnode>
+        <childnode refid="18" relation="include">
+        </childnode>
+      </node>
+      <node id="27">
+        <label>Aspose.Words.Cpp/Style.h</label>
+        <link refid="_style_8h_source"/>
+        <childnode refid="28" relation="include">
+        </childnode>
+      </node>
+      <node id="28">
+        <label>Aspose.Words.Cpp/TableStyle.h</label>
+        <link refid="_table_style_8h_source"/>
+      </node>
+    </invincdepgraph>
+    <innernamespace refid="namespace_aspose">Aspose</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words">Aspose::Words</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/IRunAttrSource.h"/>
+  </compounddef>
+</doxygen>

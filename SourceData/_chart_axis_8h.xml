@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="_chart_axis_8h" kind="file" language="C++">
+    <compoundname>ChartAxis.h</compoundname>
+    <includes local="no">system/string.h</includes>
+    <includes local="no">drawing/rectangle_f.h</includes>
+    <includes local="no">cstdint</includes>
+    <includes refid="_paragraph_alignment_8h" local="no">Aspose.Words.Cpp/ParagraphAlignment.h</includes>
+    <includes refid="_i_dml_extension_list_source_8h" local="no">Aspose.Words.Cpp/Drawing/Core/Dml/IDmlExtensionListSource.h</includes>
+    <includes refid="_i_number_format_provider_8h" local="no">Aspose.Words.Cpp/Drawing/Charts/Core/INumberFormatProvider.h</includes>
+    <includes refid="_i_dml_chart_title_holder_8h" local="no">Aspose.Words.Cpp/Drawing/Charts/Core/IDmlChartTitleHolder.h</includes>
+    <includes refid="_chart_axis_type_8h" local="no">Aspose.Words.Cpp/Drawing/Charts/ChartAxisType.h</includes>
+    <includes refid="_axis_time_unit_8h" local="no">Aspose.Words.Cpp/Drawing/Charts/AxisTimeUnit.h</includes>
+    <includes refid="_axis_tick_mark_8h" local="no">Aspose.Words.Cpp/Drawing/Charts/AxisTickMark.h</includes>
+    <includes refid="_axis_tick_label_position_8h" local="no">Aspose.Words.Cpp/Drawing/Charts/AxisTickLabelPosition.h</includes>
+    <includes refid="_axis_crosses_8h" local="no">Aspose.Words.Cpp/Drawing/Charts/AxisCrosses.h</includes>
+    <includes refid="_axis_category_type_8h" local="no">Aspose.Words.Cpp/Drawing/Charts/AxisCategoryType.h</includes>
+    <includes refid="aspose__words__api__defs_8h" local="no">Aspose.Words.Cpp/aspose_words_api_defs.h</includes>
+    <incdepgraph>
+      <node id="13">
+        <label>Aspose.Words.Cpp/Model/Drawing/Charts/Core/SimpleTypes/TitlePosition.h</label>
+      </node>
+      <node id="19">
+        <label>Aspose.Words.Cpp/Drawing/Charts/AxisCategoryType.h</label>
+        <link refid="_axis_category_type_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="18">
+        <label>Aspose.Words.Cpp/Drawing/Charts/AxisCrosses.h</label>
+        <link refid="_axis_crosses_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="17">
+        <label>Aspose.Words.Cpp/Drawing/Charts/AxisTickLabelPosition.h</label>
+        <link refid="_axis_tick_label_position_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="16">
+        <label>Aspose.Words.Cpp/Drawing/Charts/AxisTickMark.h</label>
+        <link refid="_axis_tick_mark_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="15">
+        <label>Aspose.Words.Cpp/Drawing/Charts/AxisTimeUnit.h</label>
+        <link refid="_axis_time_unit_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose.Words.Cpp/Drawing/Charts/ChartAxis.h</label>
+        <link refid="_chart_axis_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="9" relation="include">
+        </childnode>
+        <childnode refid="11" relation="include">
+        </childnode>
+        <childnode refid="12" relation="include">
+        </childnode>
+        <childnode refid="14" relation="include">
+        </childnode>
+        <childnode refid="15" relation="include">
+        </childnode>
+        <childnode refid="16" relation="include">
+        </childnode>
+        <childnode refid="17" relation="include">
+        </childnode>
+        <childnode refid="18" relation="include">
+        </childnode>
+        <childnode refid="19" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="14">
+        <label>Aspose.Words.Cpp/Drawing/Charts/ChartAxisType.h</label>
+        <link refid="_chart_axis_type_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="12">
+        <label>Aspose.Words.Cpp/Drawing/Charts/Core/IDmlChartTitleHolder.h</label>
+        <link refid="_i_dml_chart_title_holder_8h_source"/>
+        <childnode refid="10" relation="include">
+        </childnode>
+        <childnode refid="13" relation="include">
+        </childnode>
+      </node>
+      <node id="11">
+        <label>Aspose.Words.Cpp/Drawing/Charts/Core/INumberFormatProvider.h</label>
+        <link refid="_i_number_format_provider_8h_source"/>
+        <childnode refid="10" relation="include">
+        </childnode>
+      </node>
+      <node id="9">
+        <label>Aspose.Words.Cpp/Drawing/Core/Dml/IDmlExtensionListSource.h</label>
+        <link refid="_i_dml_extension_list_source_8h_source"/>
+        <childnode refid="10" relation="include">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>Aspose.Words.Cpp/ParagraphAlignment.h</label>
+        <link refid="_paragraph_alignment_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>Aspose.Words.Cpp/aspose_words_api_defs.h</label>
+        <link refid="aspose__words__api__defs_8h_source"/>
+      </node>
+      <node id="4">
+        <label>cstdint</label>
+      </node>
+      <node id="3">
+        <label>drawing/rectangle_f.h</label>
+      </node>
+      <node id="7">
+        <label>system/enum.h</label>
+      </node>
+      <node id="10">
+        <label>system/object.h</label>
+      </node>
+      <node id="6">
+        <label>system/object_ext.h</label>
+      </node>
+      <node id="2">
+        <label>system/string.h</label>
+      </node>
+    </incdepgraph>
+    <innerclass refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_axis" prot="public">Aspose::Words::Drawing::Charts::ChartAxis</innerclass>
+    <innernamespace refid="namespace_aspose">Aspose</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words">Aspose::Words</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words_1_1_drawing">Aspose::Words::Drawing</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts">Aspose::Words::Drawing::Charts</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words_1_1_drawing_1_1_core">Aspose::Words::Drawing::Core</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/Drawing/Charts/ChartAxis.h"/>
+  </compounddef>
+</doxygen>

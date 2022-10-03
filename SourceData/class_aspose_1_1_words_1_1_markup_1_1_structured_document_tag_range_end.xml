@@ -1,0 +1,634 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_node" prot="public" virt="non-virtual">Aspose::Words::Node</basecompoundref>
+    <includes refid="_structured_document_tag_range_end_8h" local="no">Aspose.Words.Cpp/Markup/StructuredDocumentTagRangeEnd.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end_1a247dbd20f107b17d7c62d5123dfa3fb7" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref></type>
+        <definition>typedef Aspose::Words::Node Aspose::Words::Markup::StructuredDocumentTagRangeEnd::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Markup::StructuredDocumentTagRangeEnd::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/StructuredDocumentTagRangeEnd.h" line="68" column="33" bodyfile="Aspose.Words.Cpp/Markup/StructuredDocumentTagRangeEnd.h" bodystart="68" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end_1a6e88fe48333af59719f47ec57e82ddcd" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end" kindref="compound">StructuredDocumentTagRangeEnd</ref></type>
+        <definition>typedef StructuredDocumentTagRangeEnd Aspose::Words::Markup::StructuredDocumentTagRangeEnd::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Markup::StructuredDocumentTagRangeEnd::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/StructuredDocumentTagRangeEnd.h" line="67" column="43" bodyfile="Aspose.Words.Cpp/Markup/StructuredDocumentTagRangeEnd.h" bodystart="67" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end_1a6ce3b95f48aebe633cced9fb5c604bad" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Markup::StructuredDocumentTagRangeEnd::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Markup::StructuredDocumentTagRangeEnd::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/StructuredDocumentTagRangeEnd.h" line="70" column="37" bodyfile="Aspose.Words.Cpp/Markup/StructuredDocumentTagRangeEnd.h" bodystart="70" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end_1a119a27ed5cfa20870a45a7758a72dafb" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Markup::StructuredDocumentTagRangeEnd::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Markup::StructuredDocumentTagRangeEnd::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/StructuredDocumentTagRangeEnd.h" line="173" column="23" bodyfile="Aspose.Words.Cpp/Markup/StructuredDocumentTagRangeEnd.h" bodystart="173" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end_1ae44be544b1e4f73539e2d2063f73e2af" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Markup::StructuredDocumentTagRangeEnd::~StructuredDocumentTagRangeEnd</definition>
+        <argsstring>()</argsstring>
+        <name>~StructuredDocumentTagRangeEnd</name>
+        <qualifiedname>Aspose::Words::Markup::StructuredDocumentTagRangeEnd::~StructuredDocumentTagRangeEnd</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/StructuredDocumentTagRangeEnd.h" line="169" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end_1af667a62fb4188b43924607d25e753b08" prot="private" static="no" const="yes" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end" kindref="compound">ThisType</ref> *</type>
+        <definition>ThisType * Aspose::Words::Markup::StructuredDocumentTagRangeEnd::CppMemberwiseClone</definition>
+        <argsstring>() const override</argsstring>
+        <name>CppMemberwiseClone</name>
+        <qualifiedname>Aspose::Words::Markup::StructuredDocumentTagRangeEnd::CppMemberwiseClone</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_node_1a9358fb4208d077e8411fdf0d4e8553e5">CppMemberwiseClone</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/StructuredDocumentTagRangeEnd.h" line="175" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end_1ad0e5ec6469248d1fe3f3744b2e7e82dd" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Markup::StructuredDocumentTagRangeEnd::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Markup::StructuredDocumentTagRangeEnd::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/StructuredDocumentTagRangeEnd.h" line="71" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end_1ab695b7776c127b09923e4a062cc24fd8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Markup::StructuredDocumentTagRangeEnd::StructuredDocumentTagRangeEnd</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::DocumentBase &gt; &amp;doc, int32_t id)</argsstring>
+        <name>StructuredDocumentTagRangeEnd</name>
+        <qualifiedname>Aspose::Words::Markup::StructuredDocumentTagRangeEnd::StructuredDocumentTagRangeEnd</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">Aspose::Words::DocumentBase</ref> &gt; &amp;</type>
+          <declname>doc</declname>
+        </param>
+        <param>
+          <type>int32_t</type>
+          <declname>id</declname>
+        </param>
+        <briefdescription>
+<para>Initializes a new instance of the <bold>Structured document tag range end</bold> class. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>doc</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The owner document. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>id</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Identifier of the corresponding structured document tag range start.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create/remove structured document tag and its content. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>SdtRangeExtendedMethods()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;StructuredDocumentTag<sp/>element&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;StructuredDocumentTagRangeStart&gt;<sp/>rangeStart;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertStructuredDocumentTagRanges(doc,<sp/>rangeStart);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Removes<sp/>ranged<sp/>structured<sp/>document<sp/>tag,<sp/>but<sp/>keeps<sp/>content<sp/>inside.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>rangeStart-&gt;RemoveSelfOnly();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>rangeStart<sp/>=<sp/>System::DynamicCast&lt;StructuredDocumentTagRangeStart&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a09b0876d6e390af48f5dc77052fd2380" kindref="member" tooltip="A start of ranged structured document tag which accepts multi-sections content.">NodeType::StructuredDocumentTagRangeStart</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">,<sp/>rangeStart);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>rangeEnd<sp/>=<sp/>System::DynamicCast&lt;StructuredDocumentTagRangeEnd&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a7fe740404365ef2376a2085ba839f9ba" kindref="member" tooltip="A end of ranged structured document tag which accepts multi-sections content.">NodeType::StructuredDocumentTagRangeEnd</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">,<sp/>rangeEnd);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;StructuredDocumentTag<sp/>element&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertStructuredDocumentTagRanges(doc,<sp/>rangeStart);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Node&gt;<sp/>paragraphNode<sp/>=<sp/>rangeStart-&gt;LINQ_LastOrDefault();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;StructuredDocumentTag<sp/>element&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>paragraphNode<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal"><sp/>?<sp/>System::ObjectExt::Box&lt;String&gt;(paragraphNode-&gt;GetText().Trim())<sp/>:<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Removes<sp/>ranged<sp/>structured<sp/>document<sp/>tag<sp/>and<sp/>content<sp/>inside.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>rangeStart-&gt;RemoveAllChildren();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>paragraphNode<sp/>=<sp/>rangeStart-&gt;LINQ_LastOrDefault();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">,<sp/>paragraphNode<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal"><sp/>?<sp/>System::ObjectExt::Box&lt;String&gt;(paragraphNode-&gt;GetText())<sp/>:<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertStructuredDocumentTagRanges(SharedPtr&lt;Document&gt;<sp/>doc,<sp/>SharedPtr&lt;StructuredDocumentTagRangeStart&gt;&amp;<sp/>rangeStart)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>rangeStart<sp/>=<sp/>MakeObject&lt;StructuredDocumentTagRangeStart&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7ab7ebbf7f254ef646928dd58f62383a85" kindref="member" tooltip="The SDT represents a plain text box when displayed in the document.">SdtType::PlainText</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>rangeEnd<sp/>=<sp/>MakeObject&lt;StructuredDocumentTagRangeEnd&gt;(doc,<sp/>rangeStart-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;InsertBefore(rangeStart,<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_LastSection()-&gt;get_Body()-&gt;InsertAfter(rangeEnd,<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/StructuredDocumentTagRangeEnd.h" line="163" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end_1a0bc0a4045a0d7578f12107389c5251ee" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Markup::StructuredDocumentTagRangeEnd::Accept</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::DocumentVisitor &gt; visitor) override</argsstring>
+        <name>Accept</name>
+        <qualifiedname>Aspose::Words::Markup::StructuredDocumentTagRangeEnd::Accept</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_node_1a556472e35a86820cf189f10594933f3e">Accept</reimplements>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
+          <declname>visitor</declname>
+        </param>
+        <briefdescription>
+<para>Accepts a visitor. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Enumerates over this node and all of its children. Each node calls a corresponding method on <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">DocumentVisitor</ref>.</para>
+<para>For more info see the Visitor design pattern.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>visitor</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The visitor that will visit the nodes.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>True if all nodes were visited; false if <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">DocumentVisitor</ref> stopped the operation before visiting all nodes.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use a <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">DocumentVisitor</ref> implementation to remove all hidden content from a document. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>RemoveHiddenContentFromDocument()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Hidden<sp/>content.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>hiddenContentRemover<sp/>=<sp/>MakeObject&lt;ExFont::RemoveHiddenContentVisitor&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>types<sp/>of<sp/>fields<sp/>which<sp/>can<sp/>accept<sp/>a<sp/>document<sp/>visitor,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>allow<sp/>it<sp/>to<sp/>visit<sp/>the<sp/>accepting<sp/>node,<sp/>and<sp/>then<sp/>traverse<sp/>its<sp/>child<sp/>nodes<sp/>in<sp/>a<sp/>depth-first<sp/>manner.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Paragraph<sp/>node:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>para<sp/>=<sp/>System::DynamicCast&lt;Paragraph&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>,<sp/>4,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>para-&gt;Accept(hiddenContentRemover);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Table<sp/>node:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Tables()-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>table-&gt;Accept(hiddenContentRemover);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Document<sp/>node:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Accept(hiddenContentRemover);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font.RemoveHiddenContentFromDocument.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">RemoveHiddenContentVisitor<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitFieldStart(SharedPtr&lt;FieldStart&gt;<sp/>fieldStart)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(fieldStart-&gt;get_Font()-&gt;get_Hidden())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>fieldStart-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitFieldEnd(SharedPtr&lt;FieldEnd&gt;<sp/>fieldEnd)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(fieldEnd-&gt;get_Font()-&gt;get_Hidden())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>fieldEnd-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitFieldSeparator(SharedPtr&lt;FieldSeparator&gt;<sp/>fieldSeparator)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(fieldSeparator-&gt;get_Font()-&gt;get_Hidden())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>fieldSeparator-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitRun(SharedPtr&lt;Run&gt;<sp/>run)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(run-&gt;get_Font()-&gt;get_Hidden())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>run-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitParagraphStart(SharedPtr&lt;Paragraph&gt;<sp/>paragraph)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(paragraph-&gt;get_ParagraphBreakFont()-&gt;get_Hidden())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>paragraph-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitFormField(SharedPtr&lt;FormField&gt;<sp/>formField)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(formField-&gt;get_Font()-&gt;get_Hidden())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>formField-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitGroupShapeStart(SharedPtr&lt;GroupShape&gt;<sp/>groupShape)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(groupShape-&gt;get_Font()-&gt;get_Hidden())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>groupShape-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitShapeStart(SharedPtr&lt;Shape&gt;<sp/>shape)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(shape-&gt;get_Font()-&gt;get_Hidden())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>shape-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitCommentStart(SharedPtr&lt;Comment&gt;<sp/>comment)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(comment-&gt;get_Font()-&gt;get_Hidden())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>comment-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitFootnoteStart(SharedPtr&lt;Footnote&gt;<sp/>footnote)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(footnote-&gt;get_Font()-&gt;get_Hidden())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>footnote-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitSpecialChar(SharedPtr&lt;SpecialChar&gt;<sp/>specialChar)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(specialChar-&gt;get_Font()-&gt;get_Hidden())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>specialChar-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitTableEnd(SharedPtr&lt;Table&gt;<sp/>table)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>content<sp/>inside<sp/>table<sp/>cells<sp/>may<sp/>have<sp/>the<sp/>hidden<sp/>content<sp/>flag,<sp/>but<sp/>the<sp/>tables<sp/>themselves<sp/>cannot.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>this<sp/>table<sp/>had<sp/>nothing<sp/>but<sp/>hidden<sp/>content,<sp/>this<sp/>visitor<sp/>would<sp/>have<sp/>removed<sp/>all<sp/>of<sp/>it,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>and<sp/>there<sp/>would<sp/>be<sp/>no<sp/>child<sp/>nodes<sp/>left.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Thus,<sp/>we<sp/>can<sp/>also<sp/>treat<sp/>the<sp/>table<sp/>itself<sp/>as<sp/>hidden<sp/>content<sp/>and<sp/>remove<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Tables<sp/>which<sp/>are<sp/>empty<sp/>but<sp/>do<sp/>not<sp/>have<sp/>hidden<sp/>content<sp/>will<sp/>have<sp/>cells<sp/>with<sp/>empty<sp/>paragraphs<sp/>inside,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>which<sp/>this<sp/>visitor<sp/>will<sp/>not<sp/>remove.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(!table-&gt;get_HasChildNodes())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>table-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitCellEnd(SharedPtr&lt;Cell&gt;<sp/>cell)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(!cell-&gt;get_HasChildNodes()<sp/>&amp;&amp;<sp/>cell-&gt;get_ParentNode()<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>cell-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitRowEnd(SharedPtr&lt;Row&gt;<sp/>row)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(!row-&gt;get_HasChildNodes()<sp/>&amp;&amp;<sp/>row-&gt;get_ParentNode()<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>row-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/StructuredDocumentTagRangeEnd.h" line="165" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end_1a48c64652fef3cc0c404bb5bba6e65889" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Markup::StructuredDocumentTagRangeEnd::get_Id</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Id</name>
+        <qualifiedname>Aspose::Words::Markup::StructuredDocumentTagRangeEnd::get_Id</qualifiedname>
+        <briefdescription>
+<para>Specifies a unique read-only persistent numerical Id for this <bold>StructuredDocumentTagRange</bold> node. Corresponding <ref refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_start" kindref="compound">StructuredDocumentTagRangeStart</ref> node has the same <ref refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_start_1a5d3bc9dafa4d37c93ca525ec9ffa3752" kindref="member">Id</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to get the properties of multi-section structured document tags. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Multi-section<sp/>structured<sp/>document<sp/>tags.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>rangeStartTag<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>System::DynamicCast_noexcept&lt;StructuredDocumentTagRangeStart&gt;(doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a09b0876d6e390af48f5dc77052fd2380" kindref="member" tooltip="A start of ranged structured document tag which accepts multi-sections content.">NodeType::StructuredDocumentTagRangeStart</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>rangeEndTag<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>System::DynamicCast_noexcept&lt;StructuredDocumentTagRangeEnd&gt;(doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a7fe740404365ef2376a2085ba839f9ba" kindref="member" tooltip="A end of ranged structured document tag which accepts multi-sections content.">NodeType::StructuredDocumentTagRangeEnd</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;StructuredDocumentTagRangeStart<sp/>values:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t|Id:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>rangeStartTag-&gt;get_Id()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t|Title:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>rangeStartTag-&gt;get_Title()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t|PlaceholderName:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>rangeStartTag-&gt;get_PlaceholderName()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\t|IsShowingPlaceholderText:<sp/>{0}&quot;</highlight><highlight class="normal">,<sp/>rangeStartTag-&gt;get_IsShowingPlaceholderText())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\t|LockContentControl:<sp/>{0}&quot;</highlight><highlight class="normal">,<sp/>rangeStartTag-&gt;get_LockContentControl())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\t|LockContents:<sp/>{0}&quot;</highlight><highlight class="normal">,<sp/>rangeStartTag-&gt;get_LockContents())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\t|Level:<sp/>{0}&quot;</highlight><highlight class="normal">,<sp/>rangeStartTag-&gt;get_Level())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\t|NodeType:<sp/>{0}&quot;</highlight><highlight class="normal">,<sp/>rangeStartTag-&gt;get_NodeType())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t|RangeEnd:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>rangeStartTag-&gt;get_RangeEnd()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t|Color:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>rangeStartTag-&gt;get_Color().ToArgb()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\t|SdtType:<sp/>{0}&quot;</highlight><highlight class="normal">,<sp/>rangeStartTag-&gt;get_SdtType())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t|Tag:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>rangeStartTag-&gt;get_Tag()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\n&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;StructuredDocumentTagRangeEnd<sp/>values:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t|Id:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>rangeEndTag-&gt;get_Id()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\t|NodeType:<sp/>{0}&quot;</highlight><highlight class="normal">,<sp/>rangeEndTag-&gt;get_NodeType())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/StructuredDocumentTagRangeEnd.h" line="109" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end_1a3b0809340791cb15cfb9b4ec66edac15" prot="public" static="no" const="yes" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379" kindref="member">Aspose::Words::NodeType</ref></type>
+        <definition>Aspose::Words::NodeType Aspose::Words::Markup::StructuredDocumentTagRangeEnd::get_NodeType</definition>
+        <argsstring>() const override</argsstring>
+        <name>get_NodeType</name>
+        <qualifiedname>Aspose::Words::Markup::StructuredDocumentTagRangeEnd::get_NodeType</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_node_1a7f80e8d96b7a072fca14157b25ae025e">get_NodeType</reimplements>
+        <briefdescription>
+<para>Gets the type of this node. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to traverse a composite node&apos;s tree of child nodes. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>RecurseChildren()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraphs.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Any<sp/>node<sp/>that<sp/>can<sp/>contain<sp/>child<sp/>nodes,<sp/>such<sp/>as<sp/>the<sp/>document<sp/>itself,<sp/>is<sp/>composite.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(doc-&gt;get_IsComposite());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Invoke<sp/>the<sp/>recursive<sp/>function<sp/>that<sp/>will<sp/>go<sp/>through<sp/>and<sp/>print<sp/>all<sp/>the<sp/>child<sp/>nodes<sp/>of<sp/>a<sp/>composite<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>TraverseAllNodes(doc,<sp/>0);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>TraverseAllNodes(SharedPtr&lt;CompositeNode&gt;<sp/>parentNode,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>depth)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(SharedPtr&lt;Node&gt;<sp/>childNode<sp/>=<sp/>parentNode-&gt;get_FirstChild();<sp/>childNode<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">;<sp/>childNode<sp/>=<sp/>childNode-&gt;get_NextSibling())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="charliteral">&apos;\t&apos;</highlight><highlight class="normal">,<sp/>depth))<sp/>&lt;&lt;<sp/><ref refid="class_aspose_1_1_words_1_1_node_1a0e46189d6dfa7a81c8fa2e2bd2354d61" kindref="member" tooltip="A utility method that converts a node type enum value into a user friendly string.">Node::NodeTypeToString</ref>(childNode-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Recurse<sp/>into<sp/>the<sp/>node<sp/>if<sp/>it<sp/>is<sp/>a<sp/>composite<sp/>node.<sp/>Otherwise,<sp/>print<sp/>its<sp/>contents<sp/>if<sp/>it<sp/>is<sp/>an<sp/>inline<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(childNode-&gt;get_IsComposite())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>TraverseAllNodes(System::DynamicCast&lt;CompositeNode&gt;(childNode),<sp/>depth<sp/>+<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(System::ObjectExt::Is&lt;Inline&gt;(childNode))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>-<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>childNode-&gt;GetText().Trim()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting></para>
+<para>Shows how to remove all child nodes of a specific type from a composite node. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Tables.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="A Table object that represents a table in a Word document. A Table node can have Row nodes.">NodeType::Table</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Node&gt;<sp/>curNode<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstChild();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(curNode<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Save<sp/>the<sp/>next<sp/>sibling<sp/>node<sp/>as<sp/>a<sp/>variable<sp/>in<sp/>case<sp/>we<sp/>want<sp/>to<sp/>move<sp/>to<sp/>it<sp/>after<sp/>deleting<sp/>this<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Node&gt;<sp/>nextNode<sp/>=<sp/>curNode-&gt;get_NextSibling();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>section<sp/>body<sp/>can<sp/>contain<sp/>Paragraph<sp/>and<sp/>Table<sp/>nodes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>node<sp/>is<sp/>a<sp/>Table,<sp/>remove<sp/>it<sp/>from<sp/>the<sp/>parent.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(curNode-&gt;get_NodeType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="A Table object that represents a table in a Word document. A Table node can have Row nodes.">NodeType::Table</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>curNode-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>curNode<sp/>=<sp/>nextNode;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="A Table object that represents a table in a Word document. A Table node can have Row nodes.">NodeType::Table</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_Count());</highlight></codeline>
+</programlisting></para>
+<para>Shows how to use a node&apos;s NextSibling property to enumerate through its immediate children. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraphs.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(SharedPtr&lt;Node&gt;<sp/>node<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstChild();<sp/>node<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">;<sp/>node<sp/>=<sp/>node-&gt;get_NextSibling())</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Node<sp/>type:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/><ref refid="class_aspose_1_1_words_1_1_node_1a0e46189d6dfa7a81c8fa2e2bd2354d61" kindref="member" tooltip="A utility method that converts a node type enum value into a user friendly string.">Node::NodeTypeToString</ref>(node-&gt;get_NodeType())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>contents<sp/>=<sp/>node-&gt;GetText().Trim();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(contents<sp/>==<sp/>String::Empty<sp/>?<sp/>u</highlight><highlight class="stringliteral">&quot;This<sp/>node<sp/>contains<sp/>no<sp/>text&quot;</highlight><highlight class="normal"><sp/>:<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;Contents:<sp/>\&quot;{0}\&quot;&quot;</highlight><highlight class="normal">,<sp/>node-&gt;GetText().Trim()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/StructuredDocumentTagRangeEnd.h" line="75" column="32"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents an end of <bold>ranged</bold> structured document tag which accepts multi-sections content. See also <ref refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_start" kindref="compound">StructuredDocumentTagRangeStart</ref> node. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to get the properties of multi-section structured document tags. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Multi-section<sp/>structured<sp/>document<sp/>tags.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>rangeStartTag<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>System::DynamicCast_noexcept&lt;StructuredDocumentTagRangeStart&gt;(doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a09b0876d6e390af48f5dc77052fd2380" kindref="member" tooltip="A start of ranged structured document tag which accepts multi-sections content.">NodeType::StructuredDocumentTagRangeStart</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>rangeEndTag<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>System::DynamicCast_noexcept&lt;StructuredDocumentTagRangeEnd&gt;(doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a7fe740404365ef2376a2085ba839f9ba" kindref="member" tooltip="A end of ranged structured document tag which accepts multi-sections content.">NodeType::StructuredDocumentTagRangeEnd</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;StructuredDocumentTagRangeStart<sp/>values:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t|Id:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>rangeStartTag-&gt;get_Id()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t|Title:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>rangeStartTag-&gt;get_Title()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t|PlaceholderName:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>rangeStartTag-&gt;get_PlaceholderName()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\t|IsShowingPlaceholderText:<sp/>{0}&quot;</highlight><highlight class="normal">,<sp/>rangeStartTag-&gt;get_IsShowingPlaceholderText())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\t|LockContentControl:<sp/>{0}&quot;</highlight><highlight class="normal">,<sp/>rangeStartTag-&gt;get_LockContentControl())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\t|LockContents:<sp/>{0}&quot;</highlight><highlight class="normal">,<sp/>rangeStartTag-&gt;get_LockContents())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\t|Level:<sp/>{0}&quot;</highlight><highlight class="normal">,<sp/>rangeStartTag-&gt;get_Level())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\t|NodeType:<sp/>{0}&quot;</highlight><highlight class="normal">,<sp/>rangeStartTag-&gt;get_NodeType())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t|RangeEnd:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>rangeStartTag-&gt;get_RangeEnd()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t|Color:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>rangeStartTag-&gt;get_Color().ToArgb()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\t|SdtType:<sp/>{0}&quot;</highlight><highlight class="normal">,<sp/>rangeStartTag-&gt;get_SdtType())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t|Tag:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>rangeStartTag-&gt;get_Tag()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\n&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;StructuredDocumentTagRangeEnd<sp/>values:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t|Id:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>rangeEndTag-&gt;get_Id()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\t|NodeType:<sp/>{0}&quot;</highlight><highlight class="normal">,<sp/>rangeEndTag-&gt;get_NodeType())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</label>
+        <link refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Node</label>
+        <link refid="class_aspose_1_1_words_1_1_node"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</label>
+        <link refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Node</label>
+        <link refid="class_aspose_1_1_words_1_1_node"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Markup/StructuredDocumentTagRangeEnd.h" line="65" column="1" bodyfile="Aspose.Words.Cpp/Markup/StructuredDocumentTagRangeEnd.h" bodystart="66" bodyend="177"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end_1a0bc0a4045a0d7578f12107389c5251ee" prot="public" virt="virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>Accept</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end_1a247dbd20f107b17d7c62d5123dfa3fb7" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a81dedd9b241b09760112b5e5068f1daa" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>Clone</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end_1af667a62fb4188b43924607d25e753b08" prot="private" virt="virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>CppMemberwiseClone</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a941120df17372b25f9a7127a9d9b3816" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>get_CustomNodeId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a2a69f84e3ccd323199299c999ab32d46" prot="public" virt="virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>get_Document</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end_1a48c64652fef3cc0c404bb5bba6e65889" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>get_Id</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a670ce0649c755bec895c34d7d7b4e46b" prot="public" virt="virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>get_IsComposite</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a938ff32d060619d89ecefdf57984abf8" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>get_NextSibling</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end_1a3b0809340791cb15cfb9b4ec66edac15" prot="public" virt="virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>get_NodeType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1ab9e608488885c65a2a165dea6645d15e" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>get_ParentNode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a6013fe75e5859c54d12a87f9b97fa7f3" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>get_PreviousSibling</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a0f8077bf80409ba331148095b95bc3e5" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>get_Range</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a951706cfa681573e79a56204a2029e9e" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>GetAncestor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1ae19991f4d5aa7ccb60ce6d7207495f1c" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>GetAncestorOf</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a8fa0ad395d10ff21e0ac404c0e965007" prot="public" virt="virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>GetText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end_1a119a27ed5cfa20870a45a7758a72dafb" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a4f6979e06a5914aeb37a9cb8448658a6" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>NextPreOrder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a0e46189d6dfa7a81c8fa2e2bd2354d61" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>NodeTypeToString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1af40f9573daf950d978d211d3e75c6a95" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>PreviousPreOrder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a75a9cc0fda5ec9c8aaa1c4910af8f28c" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end_1ad0e5ec6469248d1fe3f3744b2e7e82dd" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a0d412cc05de7836acb92332e55eea267" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>set_CustomNodeId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end_1ab695b7776c127b09923e4a062cc24fd8" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>StructuredDocumentTagRangeEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end_1a6e88fe48333af59719f47ec57e82ddcd" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end_1a6ce3b95f48aebe633cced9fb5c604bad" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1af7aa71ab5f185ee2463406dab7727595" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>ToString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1ad18f64c5586b84a071957824b24426a2" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>ToString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end_1ae44be544b1e4f73539e2d2063f73e2af" prot="private" virt="virtual"><scope>Aspose::Words::Markup::StructuredDocumentTagRangeEnd</scope><name>~StructuredDocumentTagRangeEnd</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

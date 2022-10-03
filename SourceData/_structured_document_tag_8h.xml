@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="_structured_document_tag_8h" kind="file" language="C++">
+    <compoundname>StructuredDocumentTag.h</compoundname>
+    <includes local="no">system/string.h</includes>
+    <includes local="no">cstdint</includes>
+    <includes refid="_i_trackable_node_8h" local="no">Aspose.Words.Cpp/Revisions/ITrackableNode.h</includes>
+    <includes refid="_node_type_8h" local="no">Aspose.Words.Cpp/NodeType.h</includes>
+    <includes refid="_composite_node_8h" local="no">Aspose.Words.Cpp/CompositeNode.h</includes>
+    <includes refid="_sdt_type_8h" local="no">Aspose.Words.Cpp/Markup/SdtType.h</includes>
+    <includes refid="_sdt_date_storage_format_8h" local="no">Aspose.Words.Cpp/Markup/SdtDateStorageFormat.h</includes>
+    <includes refid="_sdt_calendar_type_8h" local="no">Aspose.Words.Cpp/Markup/SdtCalendarType.h</includes>
+    <includes refid="_sdt_appearance_8h" local="no">Aspose.Words.Cpp/Markup/SdtAppearance.h</includes>
+    <includes refid="_i_structured_document_tag_8h" local="no">Aspose.Words.Cpp/Markup/IStructuredDocumentTag.h</includes>
+    <includes refid="_markup_level_8h" local="no">Aspose.Words.Cpp/Markup/MarkupLevel.h</includes>
+    <includes refid="_i_markup_node_8h" local="no">Aspose.Words.Cpp/Markup/IMarkupNode.h</includes>
+    <includes refid="_i_run_attr_source_8h" local="no">Aspose.Words.Cpp/IRunAttrSource.h</includes>
+    <includes refid="aspose__words__api__defs_8h" local="no">Aspose.Words.Cpp/aspose_words_api_defs.h</includes>
+    <incdepgraph>
+      <node id="11">
+        <label>Aspose.Words.Cpp/CompositeNode.h</label>
+        <link refid="_composite_node_8h_source"/>
+        <childnode refid="12" relation="include">
+        </childnode>
+        <childnode refid="13" relation="include">
+        </childnode>
+        <childnode refid="14" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="15" relation="include">
+        </childnode>
+        <childnode refid="20" relation="include">
+        </childnode>
+        <childnode refid="10" relation="include">
+        </childnode>
+      </node>
+      <node id="17">
+        <label>Aspose.Words.Cpp/INodeCloningListener.h</label>
+        <link refid="_i_node_cloning_listener_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+      </node>
+      <node id="20">
+        <label>Aspose.Words.Cpp/INodeCollection.h</label>
+        <link refid="_i_node_collection_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="10" relation="include">
+        </childnode>
+      </node>
+      <node id="28">
+        <label>Aspose.Words.Cpp/IRunAttrSource.h</label>
+        <link refid="_i_run_attr_source_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+      </node>
+      <node id="27">
+        <label>Aspose.Words.Cpp/Markup/IMarkupNode.h</label>
+        <link refid="_i_markup_node_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="26" relation="include">
+        </childnode>
+      </node>
+      <node id="25">
+        <label>Aspose.Words.Cpp/Markup/IStructuredDocumentTag.h</label>
+        <link refid="_i_structured_document_tag_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="21" relation="include">
+        </childnode>
+        <childnode refid="26" relation="include">
+        </childnode>
+        <childnode refid="10" relation="include">
+        </childnode>
+      </node>
+      <node id="26">
+        <label>Aspose.Words.Cpp/Markup/MarkupLevel.h</label>
+        <link refid="_markup_level_8h_source"/>
+        <childnode refid="8" relation="include">
+        </childnode>
+        <childnode refid="9" relation="include">
+        </childnode>
+        <childnode refid="10" relation="include">
+        </childnode>
+      </node>
+      <node id="24">
+        <label>Aspose.Words.Cpp/Markup/SdtAppearance.h</label>
+        <link refid="_sdt_appearance_8h_source"/>
+        <childnode refid="8" relation="include">
+        </childnode>
+        <childnode refid="9" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="10" relation="include">
+        </childnode>
+      </node>
+      <node id="23">
+        <label>Aspose.Words.Cpp/Markup/SdtCalendarType.h</label>
+        <link refid="_sdt_calendar_type_8h_source"/>
+        <childnode refid="8" relation="include">
+        </childnode>
+        <childnode refid="9" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="10" relation="include">
+        </childnode>
+      </node>
+      <node id="22">
+        <label>Aspose.Words.Cpp/Markup/SdtDateStorageFormat.h</label>
+        <link refid="_sdt_date_storage_format_8h_source"/>
+        <childnode refid="8" relation="include">
+        </childnode>
+        <childnode refid="9" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="10" relation="include">
+        </childnode>
+      </node>
+      <node id="21">
+        <label>Aspose.Words.Cpp/Markup/SdtType.h</label>
+        <link refid="_sdt_type_8h_source"/>
+        <childnode refid="8" relation="include">
+        </childnode>
+        <childnode refid="9" relation="include">
+        </childnode>
+        <childnode refid="10" relation="include">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose.Words.Cpp/Markup/StructuredDocumentTag.h</label>
+        <link refid="_structured_document_tag_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="11" relation="include">
+        </childnode>
+        <childnode refid="21" relation="include">
+        </childnode>
+        <childnode refid="22" relation="include">
+        </childnode>
+        <childnode refid="23" relation="include">
+        </childnode>
+        <childnode refid="24" relation="include">
+        </childnode>
+        <childnode refid="25" relation="include">
+        </childnode>
+        <childnode refid="26" relation="include">
+        </childnode>
+        <childnode refid="27" relation="include">
+        </childnode>
+        <childnode refid="28" relation="include">
+        </childnode>
+        <childnode refid="10" relation="include">
+        </childnode>
+      </node>
+      <node id="15">
+        <label>Aspose.Words.Cpp/Node.h</label>
+        <link refid="_node_8h_source"/>
+        <childnode refid="16" relation="include">
+        </childnode>
+        <childnode refid="14" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="17" relation="include">
+        </childnode>
+        <childnode refid="18" relation="include">
+        </childnode>
+        <childnode refid="10" relation="include">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>Aspose.Words.Cpp/NodeType.h</label>
+        <link refid="_node_type_8h_source"/>
+        <childnode refid="8" relation="include">
+        </childnode>
+        <childnode refid="9" relation="include">
+        </childnode>
+        <childnode refid="10" relation="include">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>Aspose.Words.Cpp/Revisions/IMoveTrackableNode.h</label>
+        <link refid="_i_move_trackable_node_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose.Words.Cpp/Revisions/ITrackableNode.h</label>
+        <link refid="_i_trackable_node_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+      </node>
+      <node id="18">
+        <label>Aspose.Words.Cpp/SaveFormat.h</label>
+        <link refid="_save_format_8h_source"/>
+        <childnode refid="8" relation="include">
+        </childnode>
+        <childnode refid="19" relation="include">
+        </childnode>
+        <childnode refid="9" relation="include">
+        </childnode>
+        <childnode refid="10" relation="include">
+        </childnode>
+      </node>
+      <node id="10">
+        <label>Aspose.Words.Cpp/aspose_words_api_defs.h</label>
+        <link refid="aspose__words__api__defs_8h_source"/>
+      </node>
+      <node id="3">
+        <label>cstdint</label>
+      </node>
+      <node id="14">
+        <label>system/array.h</label>
+      </node>
+      <node id="13">
+        <label>system/collections/ienumerable.h</label>
+      </node>
+      <node id="16">
+        <label>system/constraints.h</label>
+      </node>
+      <node id="12">
+        <label>system/details/pointer_collection_helpers.h</label>
+      </node>
+      <node id="9">
+        <label>system/enum.h</label>
+      </node>
+      <node id="19">
+        <label>system/enum_helpers.h</label>
+      </node>
+      <node id="6">
+        <label>system/object.h</label>
+      </node>
+      <node id="8">
+        <label>system/object_ext.h</label>
+      </node>
+      <node id="2">
+        <label>system/string.h</label>
+      </node>
+    </incdepgraph>
+    <innerclass refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag" prot="public">Aspose::Words::Markup::StructuredDocumentTag</innerclass>
+    <innernamespace refid="namespace_aspose">Aspose</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words">Aspose::Words</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words_1_1_building_blocks">Aspose::Words::BuildingBlocks</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words_1_1_markup">Aspose::Words::Markup</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/Markup/StructuredDocumentTag.h"/>
+  </compounddef>
+</doxygen>

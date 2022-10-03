@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="_i_footnote_options_8h" kind="file" language="C++">
+    <compoundname>IFootnoteOptions.h</compoundname>
+    <includes local="no">system/object.h</includes>
+    <includes local="no">cstdint</includes>
+    <includes local="no">Aspose.Words.Cpp/Model/Footnotes/FootnoteLocation.h</includes>
+    <includes refid="_number_style_8h" local="no">Aspose.Words.Cpp/NumberStyle.h</includes>
+    <includes refid="_footnote_numbering_rule_8h" local="no">Aspose.Words.Cpp/Notes/FootnoteNumberingRule.h</includes>
+    <includedby refid="_endnote_options_8h" local="no">Aspose.Words.Cpp/Notes/EndnoteOptions.h</includedby>
+    <includedby refid="_footnote_options_8h" local="no">Aspose.Words.Cpp/Notes/FootnoteOptions.h</includedby>
+    <incdepgraph>
+      <node id="4">
+        <label>Aspose.Words.Cpp/Model/Footnotes/FootnoteLocation.h</label>
+      </node>
+      <node id="9">
+        <label>Aspose.Words.Cpp/Notes/FootnoteNumberingRule.h</label>
+        <link refid="_footnote_numbering_rule_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose.Words.Cpp/Notes/IFootnoteOptions.h</label>
+        <link refid="_i_footnote_options_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="9" relation="include">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>Aspose.Words.Cpp/NumberStyle.h</label>
+        <link refid="_number_style_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>Aspose.Words.Cpp/aspose_words_api_defs.h</label>
+        <link refid="aspose__words__api__defs_8h_source"/>
+      </node>
+      <node id="3">
+        <label>cstdint</label>
+      </node>
+      <node id="7">
+        <label>system/enum.h</label>
+      </node>
+      <node id="2">
+        <label>system/object.h</label>
+      </node>
+      <node id="6">
+        <label>system/object_ext.h</label>
+      </node>
+    </incdepgraph>
+    <invincdepgraph>
+      <node id="2">
+        <label>Aspose.Words.Cpp/Notes/EndnoteOptions.h</label>
+        <link refid="_endnote_options_8h_source"/>
+      </node>
+      <node id="3">
+        <label>Aspose.Words.Cpp/Notes/FootnoteOptions.h</label>
+        <link refid="_footnote_options_8h_source"/>
+      </node>
+      <node id="1">
+        <label>Aspose.Words.Cpp/Notes/IFootnoteOptions.h</label>
+        <link refid="_i_footnote_options_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+      </node>
+    </invincdepgraph>
+    <innernamespace refid="namespace_aspose">Aspose</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words">Aspose::Words</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words_1_1_notes">Aspose::Words::Notes</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/Notes/IFootnoteOptions.h"/>
+  </compounddef>
+</doxygen>

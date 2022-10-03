@@ -1,0 +1,860 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Saving::SvgSaveOptions</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options" prot="public" virt="non-virtual">Aspose::Words::Saving::FixedPageSaveOptions</basecompoundref>
+    <includes refid="_svg_save_options_8h" local="no">Aspose.Words.Cpp/Saving/SvgSaveOptions.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a9ef4b7ce9e056ade0bf205814c04562d" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options" kindref="compound">Aspose::Words::Saving::FixedPageSaveOptions</ref></type>
+        <definition>typedef Aspose::Words::Saving::FixedPageSaveOptions Aspose::Words::Saving::SvgSaveOptions::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="83" column="57" bodyfile="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" bodystart="83" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1ab88b4433bc891aaf73b4da1433504708" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options" kindref="compound">SvgSaveOptions</ref></type>
+        <definition>typedef SvgSaveOptions Aspose::Words::Saving::SvgSaveOptions::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="82" column="28" bodyfile="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" bodystart="82" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a05d7d1e8eab70c16059a2390b1b962a1" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::SvgSaveOptions::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="85" column="37" bodyfile="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" bodystart="85" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a57f73be44078a341d81a46ac504d3a1e" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::SvgSaveOptions::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="435" column="23" bodyfile="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" bodystart="435" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1af5e50a9bbb3f960548050131015ecf3d" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::SvgSaveOptions::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="436" column="23" bodyfile="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" bodystart="436" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a2f6a6ad630473fb2d81ce7d0ffe34137" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Saving::SvgSaveOptions::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="437" column="23" bodyfile="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" bodystart="437" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a118b07bce9eea4061b25a1fba7af9d35" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::SvgSaveOptions::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="438" column="20" bodyfile="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" bodystart="438" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1ab5338eab9fe983fc56deee4c11ec6ab9" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::SvgSaveOptions::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="439" column="20" bodyfile="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" bodystart="439" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a94ba45d3c1efd028c897d42ede046fa6" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::SvgSaveOptions::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="440" column="23" bodyfile="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" bodystart="440" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a2574e07ea8b0a8dbedde8dfcfe50c804" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::SvgSaveOptions::mField6</definition>
+        <argsstring></argsstring>
+        <name>mField6</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::mField6</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="441" column="23" bodyfile="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" bodystart="441" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a490b4bff9700aa474a3791bc76d8300d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::SvgSaveOptions::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="86" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a6031473cddd40ae5052662faa9417cec" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::SvgSaveOptions::SvgSaveOptions</definition>
+        <argsstring>()</argsstring>
+        <name>SvgSaveOptions</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::SvgSaveOptions</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="429" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1ac857fd598476ac0239cc510a5a3208d4" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Saving::SvgSaveOptions::get_ExportEmbeddedImages</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ExportEmbeddedImages</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::get_ExportEmbeddedImages</qualifiedname>
+        <briefdescription>
+<para>Specified whether images should be embedded into SVG document as base64. Note setting this flag can significantly increase size of output SVG file. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to manipulate and print the URIs of linked resources created while converting a document to .svg. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>SvgResourceFolder()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;SvgSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_SaveFormat(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a1a9a612a14f347adfbf122cc7c0e985b" kindref="member" tooltip="Saves the document in the Svg (Scalable Vector Graphics) format.">SaveFormat::Svg</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ExportEmbeddedImages(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourcesFolder(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgResourceFolder&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourcesFolderAlias(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgResourceFolderAlias&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ShowPageBorder(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourceSavingCallback(MakeObject&lt;ExSvgSaveOptions::ResourceUriPrinter&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgSaveOptions.SvgResourceFolder.svg&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">ResourceUriPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IResourceSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ResourceUriPrinter()<sp/>:<sp/>mSavedResourceCount(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mSavedResourceCount;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceSaving(SharedPtr&lt;ResourceSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Resource<sp/>#&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>++mSavedResourceCount<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>args-&gt;get_ResourceFileName()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/>args-&gt;get_ResourceFileUri())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="353" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1ab7b9051a5a9b6965758aa2261889ff69" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Saving::SvgSaveOptions::get_FitToViewPort</definition>
+        <argsstring>() const</argsstring>
+        <name>get_FitToViewPort</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::get_FitToViewPort</qualifiedname>
+        <briefdescription>
+<para>Specifies if the output SVG should fill the available viewport area (browser window or container). When set to true width and height of output SVG are set to 100%. The default value is false. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to mimic the properties of images when converting a .docx document to .svg. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Configure<sp/>the<sp/>SvgSaveOptions<sp/>object<sp/>to<sp/>save<sp/>with<sp/>no<sp/>page<sp/>borders<sp/>or<sp/>selectable<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;SvgSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_FitToViewPort(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_ShowPageBorder(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_TextOutputMode(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a0b2221faa1cdb7447ec9e8f839eef79aadbe1872dbdf22a53b3ff3a3ebfe49cd2" kindref="member" tooltip="Text is rendered using curves. Note, text selection will not work if you use this option.">SvgTextOutputMode::UsePlacedGlyphs</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgSaveOptions.SaveLikeImage.svg&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="376" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a196a65b03d67d07839e002db0f0e7a75" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_i_resource_saving_callback" kindref="compound">Aspose::Words::Saving::IResourceSavingCallback</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Saving::IResourceSavingCallback &gt; Aspose::Words::Saving::SvgSaveOptions::get_ResourceSavingCallback</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ResourceSavingCallback</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::get_ResourceSavingCallback</qualifiedname>
+        <briefdescription>
+<para>Allows to control how resources (images) are saved when a document is exported to SVG format. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to manipulate and print the URIs of linked resources created while converting a document to .svg. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>SvgResourceFolder()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;SvgSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_SaveFormat(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a1a9a612a14f347adfbf122cc7c0e985b" kindref="member" tooltip="Saves the document in the Svg (Scalable Vector Graphics) format.">SaveFormat::Svg</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ExportEmbeddedImages(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourcesFolder(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgResourceFolder&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourcesFolderAlias(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgResourceFolderAlias&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ShowPageBorder(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourceSavingCallback(MakeObject&lt;ExSvgSaveOptions::ResourceUriPrinter&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgSaveOptions.SvgResourceFolder.svg&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">ResourceUriPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IResourceSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ResourceUriPrinter()<sp/>:<sp/>mSavedResourceCount(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mSavedResourceCount;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceSaving(SharedPtr&lt;ResourceSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Resource<sp/>#&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>++mSavedResourceCount<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>args-&gt;get_ResourceFileName()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/>args-&gt;get_ResourceFileUri())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="424" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a911e99b0ee72e3ccfb1e42bd608353be" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::SvgSaveOptions::get_ResourcesFolder</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ResourcesFolder</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::get_ResourcesFolder</qualifiedname>
+        <briefdescription>
+<para>Specifies the physical folder where resources (images) are saved when exporting a document to Svg format. Default is <computeroutput>null</computeroutput>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Has effect only if <ref refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1ac857fd598476ac0239cc510a5a3208d4" kindref="member">ExportEmbeddedImages</ref> property is false.</para>
+<para>When you save a <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Document</ref> in SVG format, Aspose.Words needs to save all images embedded in the document as standalone files. <ref refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a911e99b0ee72e3ccfb1e42bd608353be" kindref="member">ResourcesFolder</ref> allows you to specify where the images will be saved and <ref refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1aa0b4cdb8e7bd50dfd4c93ac6cf5eda29" kindref="member">ResourcesFolderAlias</ref> allows to specify how the image URIs will be constructed.</para>
+<para>If you save a document into a file and provide a file name, Aspose.Words, by default, saves the images in the same folder where the document file is saved. Use <ref refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a911e99b0ee72e3ccfb1e42bd608353be" kindref="member">ResourcesFolder</ref> to override this behavior.</para>
+<para>If you save a document into a stream, Aspose.Words does not have a folder where to save the images, but still needs to save the images somewhere. In this case, you need to specify an accessible folder in the <ref refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a911e99b0ee72e3ccfb1e42bd608353be" kindref="member">ResourcesFolder</ref> property</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1aa0b4cdb8e7bd50dfd4c93ac6cf5eda29" kindref="member">Aspose::Words::Saving::SvgSaveOptions::get_ResourcesFolderAlias</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to manipulate and print the URIs of linked resources created while converting a document to .svg. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>SvgResourceFolder()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;SvgSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_SaveFormat(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a1a9a612a14f347adfbf122cc7c0e985b" kindref="member" tooltip="Saves the document in the Svg (Scalable Vector Graphics) format.">SaveFormat::Svg</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ExportEmbeddedImages(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourcesFolder(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgResourceFolder&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourcesFolderAlias(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgResourceFolderAlias&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ShowPageBorder(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourceSavingCallback(MakeObject&lt;ExSvgSaveOptions::ResourceUriPrinter&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgSaveOptions.SvgResourceFolder.svg&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">ResourceUriPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IResourceSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ResourceUriPrinter()<sp/>:<sp/>mSavedResourceCount(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mSavedResourceCount;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceSaving(SharedPtr&lt;ResourceSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Resource<sp/>#&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>++mSavedResourceCount<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>args-&gt;get_ResourceFileName()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/>args-&gt;get_ResourceFileUri())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="248" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1aa0b4cdb8e7bd50dfd4c93ac6cf5eda29" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::SvgSaveOptions::get_ResourcesFolderAlias</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ResourcesFolderAlias</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::get_ResourcesFolderAlias</qualifiedname>
+        <briefdescription>
+<para>Specifies the name of the folder used to construct image URIs written into an SVG document. Default is <computeroutput>null</computeroutput>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>When you save a <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Document</ref> in SVG format, Aspose.Words needs to save all images embedded in the document as standalone files. <ref refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a911e99b0ee72e3ccfb1e42bd608353be" kindref="member">ResourcesFolder</ref> allows you to specify where the images will be saved and <ref refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1aa0b4cdb8e7bd50dfd4c93ac6cf5eda29" kindref="member">ResourcesFolderAlias</ref> allows to specify how the image URIs will be constructed.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a911e99b0ee72e3ccfb1e42bd608353be" kindref="member">Aspose::Words::Saving::SvgSaveOptions::get_ResourcesFolder</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to manipulate and print the URIs of linked resources created while converting a document to .svg. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>SvgResourceFolder()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;SvgSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_SaveFormat(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a1a9a612a14f347adfbf122cc7c0e985b" kindref="member" tooltip="Saves the document in the Svg (Scalable Vector Graphics) format.">SaveFormat::Svg</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ExportEmbeddedImages(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourcesFolder(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgResourceFolder&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourcesFolderAlias(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgResourceFolderAlias&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ShowPageBorder(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourceSavingCallback(MakeObject&lt;ExSvgSaveOptions::ResourceUriPrinter&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgSaveOptions.SvgResourceFolder.svg&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">ResourceUriPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IResourceSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ResourceUriPrinter()<sp/>:<sp/>mSavedResourceCount(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mSavedResourceCount;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceSaving(SharedPtr&lt;ResourceSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Resource<sp/>#&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>++mSavedResourceCount<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>args-&gt;get_ResourceFileName()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/>args-&gt;get_ResourceFileUri())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="304" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1ac5b8deb58cb1a1dbcd05fda7c4942e92" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" kindref="member">Aspose::Words::SaveFormat</ref></type>
+        <definition>Aspose::Words::SaveFormat Aspose::Words::Saving::SvgSaveOptions::get_SaveFormat</definition>
+        <argsstring>() override</argsstring>
+        <name>get_SaveFormat</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::get_SaveFormat</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6df9e8d37cc7794640ea5c5932134253">get_SaveFormat</reimplements>
+        <briefdescription>
+<para>Specifies the format in which the document will be saved if this save options object is used. Can only be <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a1a9a612a14f347adfbf122cc7c0e985b" kindref="member">Svg</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to manipulate and print the URIs of linked resources created while converting a document to .svg. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>SvgResourceFolder()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;SvgSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_SaveFormat(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a1a9a612a14f347adfbf122cc7c0e985b" kindref="member" tooltip="Saves the document in the Svg (Scalable Vector Graphics) format.">SaveFormat::Svg</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ExportEmbeddedImages(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourcesFolder(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgResourceFolder&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourcesFolderAlias(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgResourceFolderAlias&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ShowPageBorder(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourceSavingCallback(MakeObject&lt;ExSvgSaveOptions::ResourceUriPrinter&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgSaveOptions.SvgResourceFolder.svg&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">ResourceUriPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IResourceSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ResourceUriPrinter()<sp/>:<sp/>mSavedResourceCount(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mSavedResourceCount;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceSaving(SharedPtr&lt;ResourceSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Resource<sp/>#&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>++mSavedResourceCount<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>args-&gt;get_ResourceFileName()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/>args-&gt;get_ResourceFileUri())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="134" column="34"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a9e86915cc96b40c53c613b40d712d4f2" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Saving::SvgSaveOptions::get_ShowPageBorder</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ShowPageBorder</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::get_ShowPageBorder</qualifiedname>
+        <briefdescription>
+<para>Controls whether a border is added to the outline of the page. Default is <computeroutput>true</computeroutput>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to mimic the properties of images when converting a .docx document to .svg. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Configure<sp/>the<sp/>SvgSaveOptions<sp/>object<sp/>to<sp/>save<sp/>with<sp/>no<sp/>page<sp/>borders<sp/>or<sp/>selectable<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;SvgSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_FitToViewPort(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_ShowPageBorder(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_TextOutputMode(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a0b2221faa1cdb7447ec9e8f839eef79aadbe1872dbdf22a53b3ff3a3ebfe49cd2" kindref="member" tooltip="Text is rendered using curves. Note, text selection will not work if you use this option.">SvgTextOutputMode::UsePlacedGlyphs</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgSaveOptions.SaveLikeImage.svg&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="156" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1afaef32facca781ad51bbb27b15369a9a" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_saving_1a0b2221faa1cdb7447ec9e8f839eef79a" kindref="member">Aspose::Words::Saving::SvgTextOutputMode</ref></type>
+        <definition>Aspose::Words::Saving::SvgTextOutputMode Aspose::Words::Saving::SvgSaveOptions::get_TextOutputMode</definition>
+        <argsstring>() const</argsstring>
+        <name>get_TextOutputMode</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::get_TextOutputMode</qualifiedname>
+        <briefdescription>
+<para>Gets or sets a value determining how text should be rendered in SVG. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Use this property to get or set the mode of how text inside a document should be rendered when saving in SVG format.</para>
+<para>The default value is <ref refid="namespace_aspose_1_1_words_1_1_saving_1a0b2221faa1cdb7447ec9e8f839eef79aa20bb03c291efa4d95ff13bdb67b85f53" kindref="member">UseTargetMachineFonts</ref>.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to mimic the properties of images when converting a .docx document to .svg. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Configure<sp/>the<sp/>SvgSaveOptions<sp/>object<sp/>to<sp/>save<sp/>with<sp/>no<sp/>page<sp/>borders<sp/>or<sp/>selectable<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;SvgSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_FitToViewPort(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_ShowPageBorder(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_TextOutputMode(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a0b2221faa1cdb7447ec9e8f839eef79aadbe1872dbdf22a53b3ff3a3ebfe49cd2" kindref="member" tooltip="Text is rendered using curves. Note, text selection will not work if you use this option.">SvgTextOutputMode::UsePlacedGlyphs</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgSaveOptions.SaveLikeImage.svg&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="182" column="49"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a9b042c4f533ac20b5bf4450d81101ea4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::SvgSaveOptions::set_ExportEmbeddedImages</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_ExportEmbeddedImages</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::set_ExportEmbeddedImages</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1ac857fd598476ac0239cc510a5a3208d4" kindref="member">Aspose::Words::Saving::SvgSaveOptions::get_ExportEmbeddedImages</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="356" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a218630bcfbbc425d025e164f0ed49f0d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::SvgSaveOptions::set_FitToViewPort</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_FitToViewPort</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::set_FitToViewPort</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1ab7b9051a5a9b6965758aa2261889ff69" kindref="member">Aspose::Words::Saving::SvgSaveOptions::get_FitToViewPort</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="379" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a3c059cc85773c7807edca81d1ef4e2b4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::SvgSaveOptions::set_ResourceSavingCallback</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Saving::IResourceSavingCallback &gt; &amp;value)</argsstring>
+        <name>set_ResourceSavingCallback</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::set_ResourceSavingCallback</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_i_resource_saving_callback" kindref="compound">Aspose::Words::Saving::IResourceSavingCallback</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a196a65b03d67d07839e002db0f0e7a75" kindref="member">Aspose::Words::Saving::SvgSaveOptions::get_ResourceSavingCallback</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="427" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1af8c6d7b938edb506c7ff7a6939f348e0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::SvgSaveOptions::set_ResourcesFolder</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ResourcesFolder</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::set_ResourcesFolder</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a911e99b0ee72e3ccfb1e42bd608353be" kindref="member">Aspose::Words::Saving::SvgSaveOptions::get_ResourcesFolder</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="251" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1acf60be8e73a06da9080a2d6d18243152" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::SvgSaveOptions::set_ResourcesFolderAlias</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ResourcesFolderAlias</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::set_ResourcesFolderAlias</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1aa0b4cdb8e7bd50dfd4c93ac6cf5eda29" kindref="member">Aspose::Words::Saving::SvgSaveOptions::get_ResourcesFolderAlias</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="307" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a61cb6341e98d9d3858a1644dedaf93cd" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::SvgSaveOptions::set_SaveFormat</definition>
+        <argsstring>(Aspose::Words::SaveFormat value) override</argsstring>
+        <name>set_SaveFormat</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::set_SaveFormat</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a75d9ec81ad960179eba172764d2c60b9">set_SaveFormat</reimplements>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" kindref="member">Aspose::Words::SaveFormat</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1ac5b8deb58cb1a1dbcd05fda7c4942e92" kindref="member">Aspose::Words::Saving::SvgSaveOptions::get_SaveFormat</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="137" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1afd644c9e3012e1af73c221c7d784c314" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::SvgSaveOptions::set_ShowPageBorder</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_ShowPageBorder</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::set_ShowPageBorder</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a9e86915cc96b40c53c613b40d712d4f2" kindref="member">Aspose::Words::Saving::SvgSaveOptions::get_ShowPageBorder</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="159" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a8b8aa1f9897588976e269e3eedb65bc2" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::SvgSaveOptions::set_TextOutputMode</definition>
+        <argsstring>(Aspose::Words::Saving::SvgTextOutputMode value)</argsstring>
+        <name>set_TextOutputMode</name>
+        <qualifiedname>Aspose::Words::Saving::SvgSaveOptions::set_TextOutputMode</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_saving_1a0b2221faa1cdb7447ec9e8f839eef79a" kindref="member">Aspose::Words::Saving::SvgTextOutputMode</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1afaef32facca781ad51bbb27b15369a9a" kindref="member">Aspose::Words::Saving::SvgSaveOptions::get_TextOutputMode</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="185" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Can be used to specify additional options when saving a document into the <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a1a9a612a14f347adfbf122cc7c0e985b" kindref="member">Svg</ref> format. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to manipulate and print the URIs of linked resources created while converting a document to .svg. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>SvgResourceFolder()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;SvgSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_SaveFormat(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a1a9a612a14f347adfbf122cc7c0e985b" kindref="member" tooltip="Saves the document in the Svg (Scalable Vector Graphics) format.">SaveFormat::Svg</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ExportEmbeddedImages(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourcesFolder(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgResourceFolder&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourcesFolderAlias(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgResourceFolderAlias&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ShowPageBorder(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourceSavingCallback(MakeObject&lt;ExSvgSaveOptions::ResourceUriPrinter&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SvgSaveOptions.SvgResourceFolder.svg&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">ResourceUriPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IResourceSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ResourceUriPrinter()<sp/>:<sp/>mSavedResourceCount(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mSavedResourceCount;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceSaving(SharedPtr&lt;ResourceSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Resource<sp/>#&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>++mSavedResourceCount<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>args-&gt;get_ResourceFileName()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/>args-&gt;get_ResourceFileUri())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Saving::FixedPageSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::Saving::SaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_save_options"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Saving::SvgSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Saving::FixedPageSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::Saving::SaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_save_options"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Saving::SvgSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" line="80" column="1" bodyfile="Aspose.Words.Cpp/Saving/SvgSaveOptions.h" bodystart="81" bodyend="443"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a9ef4b7ce9e056ade0bf205814c04562d" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a5f8b7264160980e775d0ebc2bb87ec6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>CreateSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a92aa5f878a1d0f3e06f620fd1376142f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>CreateSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a0957be75c5d5e6c01c685b589b706366" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>Equals</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9fecca2156a70f1834bd1c913a129d47" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_AllowEmbeddingPostScriptFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ac1a855cc8feceb3d1cbe331b282931ef" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_ColorMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab9a4c7be9e7070ecbd5248bf01535ef3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_CustomTimeZoneInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a327b0f9146d84c39d72f09dffb55970d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_DefaultTemplate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ac309d37b349e0fd18de204c4b3493113" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_Dml3DEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0ad6a41669029f8bcb5d56ccd8eb1f25" prot="public" virt="virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_DmlEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a40d3faab0e88622c6fac579bbc050772" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_DmlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1ac857fd598476ac0239cc510a5a3208d4" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_ExportEmbeddedImages</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1add57516835dfbc84b4ac55117e03a6a5" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_ExportGeneratorName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1ab7b9051a5a9b6965758aa2261889ff69" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_FitToViewPort</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab3a4c36623e1cba81e21fb0c18fc27d6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a4032bbd708177dd64e3ba455a509e470" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_ImlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a97d6477b73da72eb08d9d68e61e464c6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_JpegQuality</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a00434e0916cf24f88a1cff9f4952bff3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_MemoryOptimization</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a9aa8454e978e8bc63738b7646e73496c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_MetafileRenderingOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a342c8937835bd912528d137767001e22" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_NumeralFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a5b5ba06ac381a275da60e5f7bfaf0fec" prot="public" virt="virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_OptimizeOutput</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a946c829e55d34cdc9b730134b0569fd5" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_PageSavingCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ae5425719ba374cba63e3262e18f285eb" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_PageSet</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1af3590697cf94e5b1f546536a3bb20089" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_PrettyFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aabbd691992af320129ecf001454428b1" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a196a65b03d67d07839e002db0f0e7a75" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_ResourceSavingCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a911e99b0ee72e3ccfb1e42bd608353be" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_ResourcesFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1aa0b4cdb8e7bd50dfd4c93ac6cf5eda29" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_ResourcesFolderAlias</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1ac5b8deb58cb1a1dbcd05fda7c4942e92" prot="public" virt="virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_SaveFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a9e86915cc96b40c53c613b40d712d4f2" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_ShowPageBorder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2eb22d168e7885c69f1a5ee73dfa9a9c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1afaef32facca781ad51bbb27b15369a9a" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_TextOutputMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aafd986a59939576b688baf70ae2982b9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_UpdateCreatedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9058403d0bf8ef363c7265927c7d9689" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_UpdateFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ae00124e73b7ed35821a822f59a98456d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_UpdateLastPrintedProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aa37a14113e46f96d6a4100f33dbb41cd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_UpdateLastSavedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6ba4c67d7befc1d3959119554bc6ca0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_UpdateSdtContent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ac07a919eda7dd3104c3539643caab82f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_UseAntiAliasing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a926127b8a13db96c893d2e327d1ac458" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>get_UseHighQualityRendering</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a57f73be44078a341d81a46ac504d3a1e" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1af5e50a9bbb3f960548050131015ecf3d" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a2f6a6ad630473fb2d81ce7d0ffe34137" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a118b07bce9eea4061b25a1fba7af9d35" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1ab5338eab9fe983fc56deee4c11ec6ab9" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a94ba45d3c1efd028c897d42ede046fa6" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a2574e07ea8b0a8dbedde8dfcfe50c804" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>mField6</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a490b4bff9700aa474a3791bc76d8300d" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9bf0591a869b2046558fac161fb5c8b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_AllowEmbeddingPostScriptFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a1374624908c0c4ca45b73f9974787de8" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_ColorMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a70292d5b6ed5dd4ed81ab6779ada5037" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_CustomTimeZoneInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6d50c71651e23523dd4edae9c8e03b0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_DefaultTemplate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a52f28c6f920bd4829f304f586dd52a4e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_Dml3DEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0415bb8f17f114f5b8bfbf77822f3e33" prot="public" virt="virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_DmlEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a925282153c1c7004637ce406968cd6bd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_DmlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a9b042c4f533ac20b5bf4450d81101ea4" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_ExportEmbeddedImages</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2b3bada9094a54559b832d5051f5be6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_ExportGeneratorName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a218630bcfbbc425d025e164f0ed49f0d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_FitToViewPort</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f2f79ea57714961156f913867823fc2" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afe2fd3cb5119a04f528a9da4b6c643b6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_ImlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1af228e06a02d9af4afd279a5cba926e0c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_JpegQuality</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1b432af0d799842b6939005904d924b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_MemoryOptimization</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a1b8abe12e2961656a28d0be53c60feef" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_MetafileRenderingOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1adb586e7d583e068e2823237d0ae2617e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_NumeralFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a11799e324c1e6fe42583f49e697690b9" prot="public" virt="virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_OptimizeOutput</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ac9c030c94c0c536539a1f725fa70be77" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_PageSavingCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a0b9356a6ec3e79daa4a976f9ae1eb7ca" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_PageSet</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0333c9e934c7b7066c108975a65291c9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_PrettyFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3ca5c36f7f1922b1f7b1f6e8528e29c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a3c059cc85773c7807edca81d1ef4e2b4" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_ResourceSavingCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1af8c6d7b938edb506c7ff7a6939f348e0" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_ResourcesFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1acf60be8e73a06da9080a2d6d18243152" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_ResourcesFolderAlias</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a61cb6341e98d9d3858a1644dedaf93cd" prot="public" virt="virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_SaveFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1afd644c9e3012e1af73c221c7d784c314" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_ShowPageBorder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a7488c6e1d35b21dda1fb3a6b24eb077c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a8b8aa1f9897588976e269e3eedb65bc2" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_TextOutputMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aa6b3c59d2b5d93ecd4af333e7731a57a" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_UpdateCreatedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1ca0e9e7685d9cfdacad9b0c1c47fede" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_UpdateFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9253b0a7481cec6751f2d6e186d15f89" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_UpdateLastPrintedProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f8626f9e2fdd5ea38f656ecffea4433" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_UpdateLastSavedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afc31fd439351d75447554d3196522687" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_UpdateSdtContent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aee6a47d5aa51895c89fb99333990b15c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_UseAntiAliasing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aadd8de8195c06388cf619673c020dad3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>set_UseHighQualityRendering</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a6031473cddd40ae5052662faa9417cec" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>SvgSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1ab88b4433bc891aaf73b4da1433504708" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a05d7d1e8eab70c16059a2390b1b962a1" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::SvgSaveOptions</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

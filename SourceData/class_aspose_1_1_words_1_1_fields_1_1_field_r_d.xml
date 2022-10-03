@@ -1,0 +1,347 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_field_r_d" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::FieldRD</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field" prot="public" virt="non-virtual">Aspose::Words::Fields::Field</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IFieldCodeTokenInfoProvider</basecompoundref>
+    <includes refid="_field_r_d_8h" local="no">Aspose.Words.Cpp/Fields/FieldRD.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_r_d_1a0f26ebc6df64b60a3e8c2e464ee057e8" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref></type>
+        <definition>typedef Aspose::Words::Fields::Field Aspose::Words::Fields::FieldRD::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldRD::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldRD.h" line="76" column="42" bodyfile="Aspose.Words.Cpp/Fields/FieldRD.h" bodystart="76" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_r_d_1af5798df61a4962bf90af95d69ce025ce" prot="private" static="no">
+        <type>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</type>
+        <definition>typedef Aspose::Words::Fields::IFieldCodeTokenInfoProvider Aspose::Words::Fields::FieldRD::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Fields::FieldRD::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldRD.h" line="77" column="64" bodyfile="Aspose.Words.Cpp/Fields/FieldRD.h" bodystart="77" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_r_d_1acf8ecccbaf9a6c9fd543dfa2b7ddaca8" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_r_d" kindref="compound">FieldRD</ref></type>
+        <definition>typedef FieldRD Aspose::Words::Fields::FieldRD::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldRD::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldRD.h" line="75" column="21" bodyfile="Aspose.Words.Cpp/Fields/FieldRD.h" bodystart="75" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_r_d_1aa9373645a031e64888b70b89e7401eb2" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Fields::FieldRD::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::FieldRD::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldRD.h" line="79" column="37" bodyfile="Aspose.Words.Cpp/Fields/FieldRD.h" bodystart="79" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_r_d_1af1ba3213e7246f7f46763718e77b246b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>Aspose::Words::Fields::FieldSwitchType</type>
+        <definition>Aspose::Words::Fields::FieldSwitchType Aspose::Words::Fields::FieldRD::GetSwitchType</definition>
+        <argsstring>(System::String) override</argsstring>
+        <name>GetSwitchType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldRD::GetSwitchType</qualifiedname>
+        <param>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldRD.h" line="166" column="44"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_r_d_1a518ae5efadec7476c8df487b7afb12d9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldRD::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::FieldRD::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldRD.h" line="80" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_r_d_1acf40609a4b46cf70374518e39ce3a930" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldRD::get_FileName</definition>
+        <argsstring>()</argsstring>
+        <name>get_FileName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldRD::get_FileName</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the name of the file to include when generating a table of contents, table of authorities, or index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows to use the RD field to create a table of contents entries from headings in other documents. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>a<sp/>document<sp/>builder<sp/>to<sp/>insert<sp/>a<sp/>table<sp/>of<sp/>contents,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>add<sp/>one<sp/>entry<sp/>for<sp/>the<sp/>table<sp/>of<sp/>contents<sp/>on<sp/>the<sp/>following<sp/>page.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca951e4a34dbade8f358c5f9881337a0a1" kindref="member" tooltip="Specifies the TOC field.">FieldType::FieldTOC</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CurrentParagraph()-&gt;get_ParagraphFormat()-&gt;set_StyleName(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;TOC<sp/>entry<sp/>from<sp/>within<sp/>this<sp/>document&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>an<sp/>RD<sp/>field,<sp/>which<sp/>references<sp/>another<sp/>local<sp/>file<sp/>system<sp/>document<sp/>in<sp/>its<sp/>FileName<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>TOC<sp/>will<sp/>also<sp/>now<sp/>accept<sp/>all<sp/>headings<sp/>from<sp/>the<sp/>referenced<sp/>document<sp/>as<sp/>entries<sp/>for<sp/>its<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldRD&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca387bbf9195bccabcdca03321473b8dd8" kindref="member" tooltip="Specifies the RD field.">FieldType::FieldRefDoc</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FileName(u</highlight><highlight class="stringliteral">&quot;ReferencedDocument.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_IsPathRelative(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>RD<sp/><sp/>ReferencedDocument.docx<sp/>\\f&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>the<sp/>document<sp/>that<sp/>the<sp/>RD<sp/>field<sp/>is<sp/>referencing<sp/>and<sp/>insert<sp/>a<sp/>heading.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>heading<sp/>will<sp/>show<sp/>up<sp/>as<sp/>an<sp/>entry<sp/>in<sp/>the<sp/>TOC<sp/>field<sp/>in<sp/>our<sp/>first<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>referencedDoc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>refDocBuilder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(referencedDoc);</highlight></codeline>
+<codeline><highlight class="normal">refDocBuilder-&gt;get_CurrentParagraph()-&gt;get_ParagraphFormat()-&gt;set_StyleName(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">refDocBuilder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;TOC<sp/>entry<sp/>from<sp/>referenced<sp/>document&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">referencedDoc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;ReferencedDocument.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.RD.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldRD.h" line="119" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_r_d_1a99161b7e3f4325fd87bf9748e1ffb9f3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldRD::get_IsPathRelative</definition>
+        <argsstring>()</argsstring>
+        <name>get_IsPathRelative</name>
+        <qualifiedname>Aspose::Words::Fields::FieldRD::get_IsPathRelative</qualifiedname>
+        <briefdescription>
+<para>Gets or sets whether the path is relative to the current document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows to use the RD field to create a table of contents entries from headings in other documents. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>a<sp/>document<sp/>builder<sp/>to<sp/>insert<sp/>a<sp/>table<sp/>of<sp/>contents,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>add<sp/>one<sp/>entry<sp/>for<sp/>the<sp/>table<sp/>of<sp/>contents<sp/>on<sp/>the<sp/>following<sp/>page.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca951e4a34dbade8f358c5f9881337a0a1" kindref="member" tooltip="Specifies the TOC field.">FieldType::FieldTOC</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CurrentParagraph()-&gt;get_ParagraphFormat()-&gt;set_StyleName(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;TOC<sp/>entry<sp/>from<sp/>within<sp/>this<sp/>document&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>an<sp/>RD<sp/>field,<sp/>which<sp/>references<sp/>another<sp/>local<sp/>file<sp/>system<sp/>document<sp/>in<sp/>its<sp/>FileName<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>TOC<sp/>will<sp/>also<sp/>now<sp/>accept<sp/>all<sp/>headings<sp/>from<sp/>the<sp/>referenced<sp/>document<sp/>as<sp/>entries<sp/>for<sp/>its<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldRD&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca387bbf9195bccabcdca03321473b8dd8" kindref="member" tooltip="Specifies the RD field.">FieldType::FieldRefDoc</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FileName(u</highlight><highlight class="stringliteral">&quot;ReferencedDocument.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_IsPathRelative(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>RD<sp/><sp/>ReferencedDocument.docx<sp/>\\f&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>the<sp/>document<sp/>that<sp/>the<sp/>RD<sp/>field<sp/>is<sp/>referencing<sp/>and<sp/>insert<sp/>a<sp/>heading.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>heading<sp/>will<sp/>show<sp/>up<sp/>as<sp/>an<sp/>entry<sp/>in<sp/>the<sp/>TOC<sp/>field<sp/>in<sp/>our<sp/>first<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>referencedDoc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>refDocBuilder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(referencedDoc);</highlight></codeline>
+<codeline><highlight class="normal">refDocBuilder-&gt;get_CurrentParagraph()-&gt;get_ParagraphFormat()-&gt;set_StyleName(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">refDocBuilder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;TOC<sp/>entry<sp/>from<sp/>referenced<sp/>document&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">referencedDoc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;ReferencedDocument.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.RD.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldRD.h" line="159" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_r_d_1a7b6a1c20de7a8c5c41f5678fc050652b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldRD::set_FileName</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_FileName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldRD::set_FileName</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_r_d_1acf40609a4b46cf70374518e39ce3a930" kindref="member">Aspose::Words::Fields::FieldRD::get_FileName</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldRD.h" line="122" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_r_d_1aef6d9b3cc41cfdb04b1f51a6e6e3c47c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldRD::set_IsPathRelative</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_IsPathRelative</name>
+        <qualifiedname>Aspose::Words::Fields::FieldRD::set_IsPathRelative</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_r_d_1a99161b7e3f4325fd87bf9748e1ffb9f3" kindref="member">Aspose::Words::Fields::FieldRD::get_IsPathRelative</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldRD.h" line="162" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implements the RD field. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows to use the RD field to create a table of contents entries from headings in other documents. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>a<sp/>document<sp/>builder<sp/>to<sp/>insert<sp/>a<sp/>table<sp/>of<sp/>contents,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>add<sp/>one<sp/>entry<sp/>for<sp/>the<sp/>table<sp/>of<sp/>contents<sp/>on<sp/>the<sp/>following<sp/>page.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca951e4a34dbade8f358c5f9881337a0a1" kindref="member" tooltip="Specifies the TOC field.">FieldType::FieldTOC</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CurrentParagraph()-&gt;get_ParagraphFormat()-&gt;set_StyleName(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;TOC<sp/>entry<sp/>from<sp/>within<sp/>this<sp/>document&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>an<sp/>RD<sp/>field,<sp/>which<sp/>references<sp/>another<sp/>local<sp/>file<sp/>system<sp/>document<sp/>in<sp/>its<sp/>FileName<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>TOC<sp/>will<sp/>also<sp/>now<sp/>accept<sp/>all<sp/>headings<sp/>from<sp/>the<sp/>referenced<sp/>document<sp/>as<sp/>entries<sp/>for<sp/>its<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldRD&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca387bbf9195bccabcdca03321473b8dd8" kindref="member" tooltip="Specifies the RD field.">FieldType::FieldRefDoc</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FileName(u</highlight><highlight class="stringliteral">&quot;ReferencedDocument.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_IsPathRelative(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>RD<sp/><sp/>ReferencedDocument.docx<sp/>\\f&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>the<sp/>document<sp/>that<sp/>the<sp/>RD<sp/>field<sp/>is<sp/>referencing<sp/>and<sp/>insert<sp/>a<sp/>heading.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>heading<sp/>will<sp/>show<sp/>up<sp/>as<sp/>an<sp/>entry<sp/>in<sp/>the<sp/>TOC<sp/>field<sp/>in<sp/>our<sp/>first<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>referencedDoc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>refDocBuilder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(referencedDoc);</highlight></codeline>
+<codeline><highlight class="normal">refDocBuilder-&gt;get_CurrentParagraph()-&gt;get_ParagraphFormat()-&gt;set_StyleName(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">refDocBuilder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;TOC<sp/>entry<sp/>from<sp/>referenced<sp/>document&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">referencedDoc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;ReferencedDocument.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.RD.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldRD</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_r_d"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldRD</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_r_d"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/FieldRD.h" line="73" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldRD.h" bodystart="74" bodyend="168"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_r_d_1a0f26ebc6df64b60a3e8c2e464ee057e8" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_r_d_1af5798df61a4962bf90af95d69ce025ce" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a5c2d01019c517ea8098f296903e37a34" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>get_DisplayResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad5f0995c85cce833806e847cf25809b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a399c14463916724cac0015b430175589" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>get_FieldEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abc40cddc1325f7fec80d8530e5287448" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>get_FieldStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_r_d_1acf40609a4b46cf70374518e39ce3a930" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>get_FileName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a090c5d09915e2ead6cc54fda736dd7c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>get_Format</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ae68851d4a88a1fc867d3ddee2e4e88c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>get_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afda4c46db80761545c89e21aae5b717d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>get_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_r_d_1a99161b7e3f4325fd87bf9748e1ffb9f3" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>get_IsPathRelative</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a93719d071099487b6aea1eaa241dd6e8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>get_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a012c93472901dc077815970a9b2ab650" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>get_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abbc83ad66d5fb391a21980126ea96847" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>get_Separator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afa7cd5d4cf1a87b05058982f26786456" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad68196653db5cfca30c1ba18ed44c76e" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa40bc0e4a5be11f0df785cc8bb2ff042" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_r_d_1af1ba3213e7246f7f46763718e77b246b" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>GetSwitchType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad26a8021af3dbdc5bf0a1360a201222f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_r_d_1a518ae5efadec7476c8df487b7afb12d9" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_r_d_1a7b6a1c20de7a8c5c41f5678fc050652b" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>set_FileName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa637d825865724665fb8ed856e664d95" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>set_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ac70b125adbe7f0ba5b889280cd282c47" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>set_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_r_d_1aef6d9b3cc41cfdb04b1f51a6e6e3c47c" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>set_IsPathRelative</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a165f748dd5ba33844f1d765f6c710f88" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>set_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa6af1e900c84ae806f071098dfe8f087" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>set_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_r_d_1acf8ecccbaf9a6c9fd543dfa2b7ddaca8" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_r_d_1aa9373645a031e64888b70b89e7401eb2" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab9f908becb16b26bed76d58dbcee9929" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>Unlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aaec82418b2b6493aa2827b8e282b2e82" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a1298d7daa07c863bf97cb3f37a4d7a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldRD</scope><name>Update</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

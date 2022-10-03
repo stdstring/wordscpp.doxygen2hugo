@@ -1,0 +1,515 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_revision_group_collection" kind="class" language="C++" prot="public" final="yes">
+    <compoundname>Aspose::Words::RevisionGroupCollection</compoundname>
+    <basecompoundref refid="class/system.collections.generic.i_enumerable/" prot="public" virt="non-virtual">System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::RevisionGroup &gt; &gt;</basecompoundref>
+    <includes refid="_revision_group_collection_8h" local="no">Aspose.Words.Cpp/RevisionGroupCollection.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_revision_group_collection_1a72a01e6efcb06a789e1ff48b19f7b3be" prot="private" static="no">
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_revision_group" kindref="compound">Aspose::Words::RevisionGroup</ref> &gt; &gt;</type>
+        <definition>typedef System::Collections::Generic::IEnumerable&lt;System::SharedPtr&lt;Aspose::Words::RevisionGroup&gt; &gt; Aspose::Words::RevisionGroupCollection::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::RevisionGroupCollection::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionGroupCollection.h" line="72" column="55" bodyfile="Aspose.Words.Cpp/RevisionGroupCollection.h" bodystart="72" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_revision_group_collection_1ab36cfbd3e07a075f66eeefab011013f1" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_revision_group_collection" kindref="compound">RevisionGroupCollection</ref></type>
+        <definition>typedef RevisionGroupCollection Aspose::Words::RevisionGroupCollection::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::RevisionGroupCollection::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionGroupCollection.h" line="71" column="37" bodyfile="Aspose.Words.Cpp/RevisionGroupCollection.h" bodystart="71" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_revision_group_collection_1aaf753f23a3d40849cdf73b78f651a27b" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::RevisionGroupCollection::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::RevisionGroupCollection::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionGroupCollection.h" line="74" column="37" bodyfile="Aspose.Words.Cpp/RevisionGroupCollection.h" bodystart="74" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_revision_group_collection_1a2ef2e32512e82c1ef6fda2b257bb0649" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.list/_1a0f284b9cbb583432336a9ce4f0b9c84a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
+        <definition>using Aspose::Words::RevisionGroupCollection::const_iterator =  typename iterator_holder_type::const_iterator</definition>
+        <argsstring></argsstring>
+        <name>const_iterator</name>
+        <qualifiedname>Aspose::Words::RevisionGroupCollection::const_iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionGroupCollection.h" line="83" column="5" bodyfile="Aspose.Words.Cpp/RevisionGroupCollection.h" bodystart="83" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_revision_group_collection_1a01e4fbec61f70740898b0bf56aafb8bf" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.list/_1ab0ac6ed1e49acd56e069fe8614c87f3d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
+        <definition>using Aspose::Words::RevisionGroupCollection::iterator =  typename iterator_holder_type::iterator</definition>
+        <argsstring></argsstring>
+        <name>iterator</name>
+        <qualifiedname>Aspose::Words::RevisionGroupCollection::iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionGroupCollection.h" line="81" column="5" bodyfile="Aspose.Words.Cpp/RevisionGroupCollection.h" bodystart="81" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_revision_group_collection_1aa9526197fce12f3b226edace6d87f361" prot="public" static="no">
+        <type><ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_revision_group" kindref="compound">Aspose::Words::RevisionGroup</ref> &gt; &gt;</type>
+        <definition>using Aspose::Words::RevisionGroupCollection::iterator_holder_type =  System::Collections::Generic::List&lt;System::SharedPtr&lt;Aspose::Words::RevisionGroup&gt; &gt;</definition>
+        <argsstring></argsstring>
+        <name>iterator_holder_type</name>
+        <qualifiedname>Aspose::Words::RevisionGroupCollection::iterator_holder_type</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionGroupCollection.h" line="79" column="5" bodyfile="Aspose.Words.Cpp/RevisionGroupCollection.h" bodystart="79" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_revision_group_collection_1a20e1250f7001d942e065d894fcef6645" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
+        <definition>using Aspose::Words::RevisionGroupCollection::virtualized_iterator =  typename iterator_holder_type::virtualized_iterator</definition>
+        <argsstring></argsstring>
+        <name>virtualized_iterator</name>
+        <qualifiedname>Aspose::Words::RevisionGroupCollection::virtualized_iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionGroupCollection.h" line="87" column="5" bodyfile="Aspose.Words.Cpp/RevisionGroupCollection.h" bodystart="87" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_revision_group_collection_1a76d90373a021e95498f3e4646dbd692f" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
+        <definition>using Aspose::Words::RevisionGroupCollection::virtualized_iterator_element =  typename iterator_holder_type::virtualized_iterator_element</definition>
+        <argsstring></argsstring>
+        <name>virtualized_iterator_element</name>
+        <qualifiedname>Aspose::Words::RevisionGroupCollection::virtualized_iterator_element</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionGroupCollection.h" line="85" column="5" bodyfile="Aspose.Words.Cpp/RevisionGroupCollection.h" bodystart="85" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_revision_group_collection_1a9adbbb66b823434120258f29c3a4f34c" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::RevisionGroupCollection::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::RevisionGroupCollection::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionGroupCollection.h" line="207" column="23" bodyfile="Aspose.Words.Cpp/RevisionGroupCollection.h" bodystart="207" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_revision_group_collection_1a906a20a4e565c37d31437ada94819e7e" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::RevisionGroupCollection::~RevisionGroupCollection</definition>
+        <argsstring>()</argsstring>
+        <name>~RevisionGroupCollection</name>
+        <qualifiedname>Aspose::Words::RevisionGroupCollection::~RevisionGroupCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionGroupCollection.h" line="203" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_revision_group_collection_1adafbe056040aa5c2fe2c437445e42637" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::RevisionGroupCollection::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::RevisionGroupCollection::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionGroupCollection.h" line="75" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_revision_group_collection_1aeabe5513791c6f29695b9cb250e70060" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_revision_group_collection_1a2ef2e32512e82c1ef6fda2b257bb0649" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::RevisionGroupCollection::begin</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>begin</name>
+        <qualifiedname>Aspose::Words::RevisionGroupCollection::begin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionGroupCollection.h" line="185" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_revision_group_collection_1aaad26c046b1d2fd8c8150f9c8ef39960" prot="public" static="no" const="no" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_revision_group_collection_1a01e4fbec61f70740898b0bf56aafb8bf" kindref="member">iterator</ref></type>
+        <definition>iterator Aspose::Words::RevisionGroupCollection::begin</definition>
+        <argsstring>() noexcept</argsstring>
+        <name>begin</name>
+        <qualifiedname>Aspose::Words::RevisionGroupCollection::begin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionGroupCollection.h" line="181" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_revision_group_collection_1a1c3b36e9ac3aa6c3b1496d2b63f9e5f8" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_revision_group_collection_1a2ef2e32512e82c1ef6fda2b257bb0649" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::RevisionGroupCollection::cbegin</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>cbegin</name>
+        <qualifiedname>Aspose::Words::RevisionGroupCollection::cbegin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionGroupCollection.h" line="189" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_revision_group_collection_1a40094d2f8843fd38558517e7f0e99e44" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_revision_group_collection_1a2ef2e32512e82c1ef6fda2b257bb0649" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::RevisionGroupCollection::cend</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>cend</name>
+        <qualifiedname>Aspose::Words::RevisionGroupCollection::cend</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionGroupCollection.h" line="191" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_revision_group_collection_1a5db44cc04fad3eb45f474d976c4b8650" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_revision_group_collection_1a2ef2e32512e82c1ef6fda2b257bb0649" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::RevisionGroupCollection::end</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>end</name>
+        <qualifiedname>Aspose::Words::RevisionGroupCollection::end</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionGroupCollection.h" line="187" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_revision_group_collection_1a899bb71f9a77bfb741287f513eb59fdf" prot="public" static="no" const="no" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_revision_group_collection_1a01e4fbec61f70740898b0bf56aafb8bf" kindref="member">iterator</ref></type>
+        <definition>iterator Aspose::Words::RevisionGroupCollection::end</definition>
+        <argsstring>() noexcept</argsstring>
+        <name>end</name>
+        <qualifiedname>Aspose::Words::RevisionGroupCollection::end</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionGroupCollection.h" line="183" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_revision_group_collection_1a9666b215b7b4162efae8375ca598a8b0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::RevisionGroupCollection::get_Count</definition>
+        <argsstring>()</argsstring>
+        <name>get_Count</name>
+        <qualifiedname>Aspose::Words::RevisionGroupCollection::get_Count</qualifiedname>
+        <briefdescription>
+<para>Returns the number of revision groups in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to print info about a group of revisions in a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Revisions.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(7,<sp/>doc-&gt;get_Revisions()-&gt;get_Groups()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>group<sp/>:<sp/>doc-&gt;get_Revisions()-&gt;get_Groups())</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;Revision<sp/>author:<sp/>{0};<sp/>Revision<sp/>type:<sp/>{1}<sp/>\n\tRevision<sp/>text:<sp/>{2}&quot;</highlight><highlight class="normal">,<sp/>group-&gt;get_Author(),<sp/>group-&gt;get_RevisionType(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>group-&gt;get_Text())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionGroupCollection.h" line="108" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_revision_group_collection_1a16068a3ad24d5d132692b971724bf3a2" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_revision_group" kindref="compound">Aspose::Words::RevisionGroup</ref> &gt; &gt; &gt;</type>
+        <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::SharedPtr&lt; Aspose::Words::RevisionGroup &gt; &gt; &gt; Aspose::Words::RevisionGroupCollection::GetEnumerator</definition>
+        <argsstring>() override</argsstring>
+        <name>GetEnumerator</name>
+        <qualifiedname>Aspose::Words::RevisionGroupCollection::GetEnumerator</qualifiedname>
+        <briefdescription>
+<para>Returns an enumerator object. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with a document&apos;s collection of revisions. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Revisions.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;RevisionCollection&gt;<sp/>revisions<sp/>=<sp/>doc-&gt;get_Revisions();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>collection<sp/>itself<sp/>has<sp/>a<sp/>collection<sp/>of<sp/>revision<sp/>groups.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>group<sp/>is<sp/>a<sp/>sequence<sp/>of<sp/>adjacent<sp/>revisions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/>revisions-&gt;get_Groups()-&gt;get_Count()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>revision<sp/>groups:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Iterate<sp/>over<sp/>the<sp/>collection<sp/>of<sp/>groups<sp/>and<sp/>print<sp/>the<sp/>text<sp/>that<sp/>the<sp/>revision<sp/>concerns.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;RevisionGroup&gt;&gt;&gt;<sp/>e<sp/>=<sp/>revisions-&gt;get_Groups()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(e-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String::Format(u</highlight><highlight class="stringliteral">&quot;\tGroup<sp/>type<sp/>\&quot;{0}\&quot;,<sp/>&quot;</highlight><highlight class="normal">,<sp/>e-&gt;get_Current()-&gt;get_RevisionType())<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;author:<sp/>{0},<sp/>contents:<sp/>[{1}]&quot;</highlight><highlight class="normal">,<sp/>e-&gt;get_Current()-&gt;get_Author(),<sp/>e-&gt;get_Current()-&gt;get_Text().Trim()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>Run<sp/>that<sp/>a<sp/>revision<sp/>affects<sp/>gets<sp/>a<sp/>corresponding<sp/>Revision<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>revisions&apos;<sp/>collection<sp/>is<sp/>considerably<sp/>larger<sp/>than<sp/>the<sp/>condensed<sp/>form<sp/>we<sp/>printed<sp/>above,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>depending<sp/>on<sp/>how<sp/>many<sp/>Runs<sp/>we<sp/>have<sp/>segmented<sp/>the<sp/>document<sp/>into<sp/>during<sp/>Microsoft<sp/>Word<sp/>editing.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\n&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>revisions-&gt;get_Count()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>revisions:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;Revision&gt;&gt;&gt;<sp/>e<sp/>=<sp/>revisions-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(e-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>StyleDefinitionChange<sp/>strictly<sp/>affects<sp/>styles<sp/>and<sp/>not<sp/>document<sp/>nodes.<sp/>This<sp/>means<sp/>the<sp/>&quot;ParentStyle&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>property<sp/>will<sp/>always<sp/>be<sp/>in<sp/>use,<sp/>while<sp/>the<sp/>ParentNode<sp/>will<sp/>always<sp/>be<sp/>null.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Since<sp/>all<sp/>other<sp/>changes<sp/>affect<sp/>nodes,<sp/>ParentNode<sp/>will<sp/>conversely<sp/>be<sp/>in<sp/>use,<sp/>and<sp/>ParentStyle<sp/>will<sp/>be<sp/>null.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(e-&gt;get_Current()-&gt;get_RevisionType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1a43309065c8be1f20fae8bd689084cc2ba9c443956e1fce4c1c19d216b6ef77260" kindref="member" tooltip="Change of formatting was applied to the parent style.">RevisionType::StyleDefinitionChange</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String::Format(u</highlight><highlight class="stringliteral">&quot;\tRevision<sp/>type<sp/>\&quot;{0}\&quot;,<sp/>&quot;</highlight><highlight class="normal">,<sp/>e-&gt;get_Current()-&gt;get_RevisionType())<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;author:<sp/>{0},<sp/>style:<sp/>[{1}]&quot;</highlight><highlight class="normal">,<sp/>e-&gt;get_Current()-&gt;get_Author(),<sp/>e-&gt;get_Current()-&gt;get_ParentStyle()-&gt;get_Name()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String::Format(u</highlight><highlight class="stringliteral">&quot;\tRevision<sp/>type<sp/>\&quot;{0}\&quot;,<sp/>&quot;</highlight><highlight class="normal">,<sp/>e-&gt;get_Current()-&gt;get_RevisionType())<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;author:<sp/>{0},<sp/>contents:<sp/>[{1}]&quot;</highlight><highlight class="normal">,<sp/>e-&gt;get_Current()-&gt;get_Author(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>e-&gt;get_Current()-&gt;get_ParentNode()-&gt;GetText().Trim()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Reject<sp/>all<sp/>revisions<sp/>via<sp/>the<sp/>collection,<sp/>reverting<sp/>the<sp/>document<sp/>to<sp/>its<sp/>original<sp/>form.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">revisions-&gt;RejectAll();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>revisions-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionGroupCollection.h" line="167" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_revision_group_collection_1ae6756340b8e183efee7a8d309b51a896" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_revision_group" kindref="compound">Aspose::Words::RevisionGroup</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::RevisionGroup &gt; Aspose::Words::RevisionGroupCollection::idx_get</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>idx_get</name>
+        <qualifiedname>Aspose::Words::RevisionGroupCollection::idx_get</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Returns a revision group at the specified index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to get a group of revisions in a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Revisions.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;RevisionGroup&gt;<sp/>revisionGroup<sp/>=<sp/>doc-&gt;get_Revisions()-&gt;get_Groups()-&gt;idx_get(0);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionGroupCollection.h" line="179" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_revision_group_collection_1a932854f7e18d0b5a6a6700f76686f7fe" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_revision_group_collection_1a20e1250f7001d942e065d894fcef6645" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::RevisionGroupCollection::virtualizeBeginConstIterator</definition>
+        <argsstring>() const override</argsstring>
+        <name>virtualizeBeginConstIterator</name>
+        <qualifiedname>Aspose::Words::RevisionGroupCollection::virtualizeBeginConstIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionGroupCollection.h" line="197" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_revision_group_collection_1a12673eec2ea81696f74c349f7caf2cc1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_revision_group_collection_1a20e1250f7001d942e065d894fcef6645" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::RevisionGroupCollection::virtualizeBeginIterator</definition>
+        <argsstring>() override</argsstring>
+        <name>virtualizeBeginIterator</name>
+        <qualifiedname>Aspose::Words::RevisionGroupCollection::virtualizeBeginIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionGroupCollection.h" line="193" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_revision_group_collection_1a2e883627e6b40e4be01b145b0218124e" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_revision_group_collection_1a20e1250f7001d942e065d894fcef6645" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::RevisionGroupCollection::virtualizeEndConstIterator</definition>
+        <argsstring>() const override</argsstring>
+        <name>virtualizeEndConstIterator</name>
+        <qualifiedname>Aspose::Words::RevisionGroupCollection::virtualizeEndConstIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionGroupCollection.h" line="199" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_revision_group_collection_1ad6da14a40a62b839569ebdff59a4e0fc" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_revision_group_collection_1a20e1250f7001d942e065d894fcef6645" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::RevisionGroupCollection::virtualizeEndIterator</definition>
+        <argsstring>() override</argsstring>
+        <name>virtualizeEndIterator</name>
+        <qualifiedname>Aspose::Words::RevisionGroupCollection::virtualizeEndIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionGroupCollection.h" line="195" column="29"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>A collection of <ref refid="class_aspose_1_1_words_1_1_revision_group" kindref="compound">RevisionGroup</ref> objects that represent revision groups in the document. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>You do not create instances of this class directly. Use the <ref refid="class_aspose_1_1_words_1_1_revision_collection_1a0b053d3f0e9f581d9ca2cbd78e134684" kindref="member">Groups</ref> property to get revision groups present in a document.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to print info about a group of revisions in a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Revisions.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(7,<sp/>doc-&gt;get_Revisions()-&gt;get_Groups()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>group<sp/>:<sp/>doc-&gt;get_Revisions()-&gt;get_Groups())</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;Revision<sp/>author:<sp/>{0};<sp/>Revision<sp/>type:<sp/>{1}<sp/>\n\tRevision<sp/>text:<sp/>{2}&quot;</highlight><highlight class="normal">,<sp/>group-&gt;get_Author(),<sp/>group-&gt;get_RevisionType(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>group-&gt;get_Text())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting></para>
+<para>Shows how to get a group of revisions in a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Revisions.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;RevisionGroup&gt;<sp/>revisionGroup<sp/>=<sp/>doc-&gt;get_Revisions()-&gt;get_Groups()-&gt;idx_get(0);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::RevisionGroupCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_revision_group_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::RevisionGroup &gt; &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::RevisionGroupCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_revision_group_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::RevisionGroup &gt; &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/RevisionGroupCollection.h" line="69" column="1" bodyfile="Aspose.Words.Cpp/RevisionGroupCollection.h" bodystart="70" bodyend="209"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_revision_group_collection_1a72a01e6efcb06a789e1ff48b19f7b3be" prot="private" virt="non-virtual"><scope>Aspose::Words::RevisionGroupCollection</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_group_collection_1aaad26c046b1d2fd8c8150f9c8ef39960" prot="public" virt="non-virtual"><scope>Aspose::Words::RevisionGroupCollection</scope><name>begin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_group_collection_1aeabe5513791c6f29695b9cb250e70060" prot="public" virt="non-virtual"><scope>Aspose::Words::RevisionGroupCollection</scope><name>begin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_group_collection_1a1c3b36e9ac3aa6c3b1496d2b63f9e5f8" prot="public" virt="non-virtual"><scope>Aspose::Words::RevisionGroupCollection</scope><name>cbegin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_group_collection_1a40094d2f8843fd38558517e7f0e99e44" prot="public" virt="non-virtual"><scope>Aspose::Words::RevisionGroupCollection</scope><name>cend</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_group_collection_1a2ef2e32512e82c1ef6fda2b257bb0649" prot="public" virt="non-virtual"><scope>Aspose::Words::RevisionGroupCollection</scope><name>const_iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_group_collection_1a899bb71f9a77bfb741287f513eb59fdf" prot="public" virt="non-virtual"><scope>Aspose::Words::RevisionGroupCollection</scope><name>end</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_group_collection_1a5db44cc04fad3eb45f474d976c4b8650" prot="public" virt="non-virtual"><scope>Aspose::Words::RevisionGroupCollection</scope><name>end</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_group_collection_1a9666b215b7b4162efae8375ca598a8b0" prot="public" virt="non-virtual"><scope>Aspose::Words::RevisionGroupCollection</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_group_collection_1a16068a3ad24d5d132692b971724bf3a2" prot="public" virt="non-virtual"><scope>Aspose::Words::RevisionGroupCollection</scope><name>GetEnumerator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_group_collection_1ae6756340b8e183efee7a8d309b51a896" prot="public" virt="non-virtual"><scope>Aspose::Words::RevisionGroupCollection</scope><name>idx_get</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_group_collection_1a01e4fbec61f70740898b0bf56aafb8bf" prot="public" virt="non-virtual"><scope>Aspose::Words::RevisionGroupCollection</scope><name>iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_group_collection_1aa9526197fce12f3b226edace6d87f361" prot="public" virt="non-virtual"><scope>Aspose::Words::RevisionGroupCollection</scope><name>iterator_holder_type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_group_collection_1a9adbbb66b823434120258f29c3a4f34c" prot="private" virt="non-virtual"><scope>Aspose::Words::RevisionGroupCollection</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_group_collection_1adafbe056040aa5c2fe2c437445e42637" prot="private" virt="non-virtual"><scope>Aspose::Words::RevisionGroupCollection</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_group_collection_1ab36cfbd3e07a075f66eeefab011013f1" prot="private" virt="non-virtual"><scope>Aspose::Words::RevisionGroupCollection</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_group_collection_1aaf753f23a3d40849cdf73b78f651a27b" prot="private" virt="non-virtual"><scope>Aspose::Words::RevisionGroupCollection</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_group_collection_1a932854f7e18d0b5a6a6700f76686f7fe" prot="public" virt="non-virtual"><scope>Aspose::Words::RevisionGroupCollection</scope><name>virtualizeBeginConstIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_group_collection_1a12673eec2ea81696f74c349f7caf2cc1" prot="public" virt="non-virtual"><scope>Aspose::Words::RevisionGroupCollection</scope><name>virtualizeBeginIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_group_collection_1a20e1250f7001d942e065d894fcef6645" prot="public" virt="non-virtual"><scope>Aspose::Words::RevisionGroupCollection</scope><name>virtualized_iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_group_collection_1a76d90373a021e95498f3e4646dbd692f" prot="public" virt="non-virtual"><scope>Aspose::Words::RevisionGroupCollection</scope><name>virtualized_iterator_element</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_group_collection_1a2e883627e6b40e4be01b145b0218124e" prot="public" virt="non-virtual"><scope>Aspose::Words::RevisionGroupCollection</scope><name>virtualizeEndConstIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_group_collection_1ad6da14a40a62b839569ebdff59a4e0fc" prot="public" virt="non-virtual"><scope>Aspose::Words::RevisionGroupCollection</scope><name>virtualizeEndIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_group_collection_1a906a20a4e565c37d31437ada94819e7e" prot="private" virt="virtual"><scope>Aspose::Words::RevisionGroupCollection</scope><name>~RevisionGroupCollection</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

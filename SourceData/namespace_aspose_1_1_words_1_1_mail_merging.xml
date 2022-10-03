@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="namespace_aspose_1_1_words_1_1_mail_merging" kind="namespace" language="C++">
+    <compoundname>Aspose::Words::MailMerging</compoundname>
+    <innerclass refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args" prot="public">Aspose::Words::MailMerging::FieldMergingArgs</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base" prot="public">Aspose::Words::MailMerging::FieldMergingArgsBase</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_mail_merging_1_1_i_field_merging_callback" prot="public">Aspose::Words::MailMerging::IFieldMergingCallback</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args" prot="public">Aspose::Words::MailMerging::ImageFieldMergingArgs</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_mail_merging_1_1_i_mail_merge_callback" prot="public">Aspose::Words::MailMerging::IMailMergeCallback</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_mail_merging_1_1_i_mail_merge_data_source" prot="public">Aspose::Words::MailMerging::IMailMergeDataSource</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_mail_merging_1_1_i_mail_merge_data_source_root" prot="public">Aspose::Words::MailMerging::IMailMergeDataSourceRoot</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge" prot="public">Aspose::Words::MailMerging::MailMerge</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_region_info" prot="public">Aspose::Words::MailMerging::MailMergeRegionInfo</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mapped_data_field_collection" prot="public">Aspose::Words::MailMerging::MappedDataFieldCollection</innerclass>
+      <sectiondef kind="enum">
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_mail_merging_1a553422eee2f476b78f308c506fdae067" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>MailMergeCleanupOptions</name>
+        <qualifiedname>Aspose::Words::MailMerging::MailMergeCleanupOptions</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_mail_merging_1a553422eee2f476b78f308c506fdae067a6adf97f83acf6453d4a6a4b1070f3754" prot="public">
+          <name>None</name>
+          <initializer>= 0x00</initializer>
+          <briefdescription>
+<para>Specifies a default value. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_mail_merging_1a553422eee2f476b78f308c506fdae067a39bfd25b2387829338e7aff9f46af280" prot="public">
+          <name>RemoveEmptyParagraphs</name>
+          <initializer>= 0x01</initializer>
+          <briefdescription>
+<para>Specifies whether paragraphs that contained mail merge fields with no data should be removed from the document. When this option is set, paragraphs which contain region start and end merge fields which are otherwise empty are also removed. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_mail_merging_1a553422eee2f476b78f308c506fdae067ac3d829ef1c15f65d77b69d94fd8edd91" prot="public">
+          <name>RemoveUnusedRegions</name>
+          <initializer>= 0x02</initializer>
+          <briefdescription>
+<para>Specifies whether unused mail merge regions should be removed from the document. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_mail_merging_1a553422eee2f476b78f308c506fdae067a2a799c5162f49d56a9f514e20341cc11" prot="public">
+          <name>RemoveUnusedFields</name>
+          <initializer>= 0x04</initializer>
+          <briefdescription>
+<para>Specifies whether unused merge fields should be removed from the document. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_mail_merging_1a553422eee2f476b78f308c506fdae067aad6599cb327afaa6f2997ae34aed9ccc" prot="public">
+          <name>RemoveContainingFields</name>
+          <initializer>= 0x08</initializer>
+          <briefdescription>
+<para>Specifies whether fields that contain merge fields (for example, IFs) should be removed from the document if the nested merge fields are removed. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_mail_merging_1a553422eee2f476b78f308c506fdae067a88d97985fa858d4d4698327b6bffb82f" prot="public">
+          <name>RemoveStaticFields</name>
+          <initializer>= 0x10</initializer>
+          <briefdescription>
+<para>Specifies whether static fields should be removed from the document. Static fields are fields, which results remain the same upon any document change. <ref refid="namespace_aspose_1_1_words_1_1_fields" kindref="compound">Fields</ref>, which do not store their results in a document and are calculated on the fly (like <ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca376d045f2a0ed91c76dd0ed6ea065139" kindref="member">FieldListNum</ref>, <ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca35b6c0b5b0fdd0da6a7f0eec57d9b439" kindref="member">FieldSymbol</ref>, etc.) are not considered to be static. </para>
+          </briefdescription>
+          <detaileddescription>
+<para>Here is the full list of field types, which are not considered to be static:</para>
+<para><itemizedlist>
+<listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca8fbea641151c76ea8cd873a92aed1f65" kindref="member">FieldAdvance</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecac9316dac9ac2bdf608852c45f0374228" kindref="member">FieldAutoNum</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca057a45a85def5ee89a72e5940cc6fd47" kindref="member">FieldAutoNumLegal</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecabac1b10dea333c4672791d5b304f819a" kindref="member">FieldAutoNumOutline</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca3981a97b7ef433ad3ab7c829c10a9858" kindref="member">FieldBarcode</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaa66b53692c30396286dffa38967722a7" kindref="member">FieldBidiOutline</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca971f227975af74a7cd530642031cb487" kindref="member">FieldDate</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member">FieldDisplayBarcode</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca198a4337ca6d2d763e867fa1a207445b" kindref="member">FieldMergeBarcode</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf8c8a2fc1e398ea50a4fbc8c3335d7c2" kindref="member">FieldFormCheckBox</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca1068a13a4a20518cd80e61241b2c2eae" kindref="member">FieldFormDropDown</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca00ce93942fbfaabddfbbc26e8a8fc1da" kindref="member">FieldFormula</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca70b70e57cdfcb6d438459f7295d630dc" kindref="member">FieldGoToButton</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca9b82936be64568478515e63821413371" kindref="member">FieldHyperlink</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca83d1f8ca80d70a2bc52afd2351a25022" kindref="member">FieldIncludeText</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member">FieldIndexEntry</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab734809bc6f7ac351910501fca1036e3" kindref="member">FieldLink</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca376d045f2a0ed91c76dd0ed6ea065139" kindref="member">FieldListNum</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca03028b077ef377441516ab1fd5a6d9e7" kindref="member">FieldMacroButton</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca793d14811921efc1981ce3360d42374c" kindref="member">FieldNoteRef</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecabc1c89e758984a2af45e6bc13f27f550" kindref="member">FieldNumPages</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca4bd5b1f60d1aecd481edfd68a8f486ef" kindref="member">FieldPage</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecadd65f88c82050e060ee24964b9d8921a" kindref="member">FieldPageRef</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca97389e5605c05319855b95ffd915aae9" kindref="member">FieldPrint</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaae906380485f2f471565b9474fee22ae" kindref="member">FieldPrintDate</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca25193fb58a0e5b7f45e2e50e75882a07" kindref="member">FieldPrivate</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca387bbf9195bccabcdca03321473b8dd8" kindref="member">FieldRefDoc</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf8c49e94c0b7ae56779103613e030740" kindref="member">FieldSection</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaebdc2245c67db54df15bd82ccfaac61f" kindref="member">FieldSectionPages</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca35b6c0b5b0fdd0da6a7f0eec57d9b439" kindref="member">FieldSymbol</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca3af4f57120f24bb14c60b8d0e5ec91c4" kindref="member">FieldTime</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaa24c781f69f2b4e4a0021d907f9d4674" kindref="member">FieldTOAEntry</ref></para>
+</listitem><listitem><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca7446f162f3ce52e7c8816ed9d0039052" kindref="member">FieldTOCEntry</ref> </para>
+</listitem></itemizedlist>
+</para>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_mail_merging_1a553422eee2f476b78f308c506fdae067a9930ee5db01a9801a496aeab7c4376db" prot="public">
+          <name>RemoveEmptyTableRows</name>
+          <initializer>= 0x20</initializer>
+          <briefdescription>
+<para>Specifies whether empty rows that contain mail merge regions should be removed from the document. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies options that determine what items are removed during mail merge. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/MailMergeCleanupOptions.h" line="24" column="1" bodyfile="Aspose.Words.Cpp/MailMerging/MailMergeCleanupOptions.h" bodystart="25" bodyend="89"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>The <bold>Aspose.Words.MailMerging</bold> namespace contains classes of the &quot;original&quot; mail merge reporting engine. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>This reporting engine requires the document to be marked up with Microsoft Word mail merge fields, but supports more functionality than Microsoft Word&apos;s mail merge.</para>
+<para>The engine allows to quickly and easily populate a report template with data from various sources such as <bold>DataTable</bold>, <bold>DataSet</bold>, <bold>DataView</bold>, <bold>IDataReader</bold> or an array of values.</para>
+<para>The <ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge" kindref="compound">MailMerge</ref> object which provides access to the reporting functionality is available via the <ref refid="class_aspose_1_1_words_1_1_document_1aca65fc869b20b2b9cf303af49e4b6a37" kindref="member">Document.MailMerge</ref> property.</para>
+<para>For the newer and more advanced reporting engine based on the LINQ method syntax see <ref refid="namespace_aspose_1_1_words_1_1_reporting" kindref="compound">Reporting</ref>.</para>
+<para><simplesect kind="see"><para><ref refid="namespace_aspose_1_1_words_1_1_reporting" kindref="compound">Aspose::Words::Reporting</ref> </para>
+</simplesect>
+</para>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/Document.h" line="94" column="1"/>
+  </compounddef>
+</doxygen>

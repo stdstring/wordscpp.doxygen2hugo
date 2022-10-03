@@ -1,0 +1,252 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_loading_1_1_chm_load_options" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Loading::ChmLoadOptions</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" prot="public" virt="non-virtual">Aspose::Words::Loading::LoadOptions</basecompoundref>
+    <includes refid="_chm_load_options_8h" local="no">Aspose.Words.Cpp/Loading/ChmLoadOptions.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_loading_1_1_chm_load_options_1aeb26cd078ce88ba9ea38cf642bf00433" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" kindref="compound">Aspose::Words::Loading::LoadOptions</ref></type>
+        <definition>typedef Aspose::Words::Loading::LoadOptions Aspose::Words::Loading::ChmLoadOptions::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Loading::ChmLoadOptions::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/ChmLoadOptions.h" line="26" column="49" bodyfile="Aspose.Words.Cpp/Loading/ChmLoadOptions.h" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_loading_1_1_chm_load_options_1a6126cef27af8c762df81c898c33120da" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_loading_1_1_chm_load_options" kindref="compound">ChmLoadOptions</ref></type>
+        <definition>typedef ChmLoadOptions Aspose::Words::Loading::ChmLoadOptions::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Loading::ChmLoadOptions::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/ChmLoadOptions.h" line="25" column="28" bodyfile="Aspose.Words.Cpp/Loading/ChmLoadOptions.h" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_loading_1_1_chm_load_options_1aec9a344f17ad843bb1588f5a285ea4b8" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Loading::ChmLoadOptions::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Loading::ChmLoadOptions::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/ChmLoadOptions.h" line="28" column="37" bodyfile="Aspose.Words.Cpp/Loading/ChmLoadOptions.h" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_chm_load_options_1a5d9e828324a972e3251fe6f66d088c4c" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Loading::ChmLoadOptions::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Loading::ChmLoadOptions::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/ChmLoadOptions.h" line="59" column="20" bodyfile="Aspose.Words.Cpp/Loading/ChmLoadOptions.h" bodystart="59" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_chm_load_options_1a7d7484b943dcd015213943d1dffaf836" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Loading::ChmLoadOptions::~ChmLoadOptions</definition>
+        <argsstring>()</argsstring>
+        <name>~ChmLoadOptions</name>
+        <qualifiedname>Aspose::Words::Loading::ChmLoadOptions::~ChmLoadOptions</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/ChmLoadOptions.h" line="55" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_chm_load_options_1a8974b19c64eedaa5c1f82842cedbf629" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" kindref="compound">Aspose::Words::Loading::LoadOptions</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Loading::LoadOptions &gt; Aspose::Words::Loading::ChmLoadOptions::Clone</definition>
+        <argsstring>() override</argsstring>
+        <name>Clone</name>
+        <qualifiedname>Aspose::Words::Loading::ChmLoadOptions::Clone</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a609b68c3016b5a72bdcd4761689c0db6">Clone</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/ChmLoadOptions.h" line="53" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_chm_load_options_1abad54115ff1841680eea3b57bf33e971" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Loading::ChmLoadOptions::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Loading::ChmLoadOptions::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/ChmLoadOptions.h" line="29" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_chm_load_options_1a153e52f99643ac6eb08682c87712aa51" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Loading::ChmLoadOptions::ChmLoadOptions</definition>
+        <argsstring>()</argsstring>
+        <name>ChmLoadOptions</name>
+        <qualifiedname>Aspose::Words::Loading::ChmLoadOptions::ChmLoadOptions</qualifiedname>
+        <briefdescription>
+<para>Initializes a new instance of this class with default values. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/ChmLoadOptions.h" line="49" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_chm_load_options_1a1ed54c80c15ee75f40970f3b16584808" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Loading::ChmLoadOptions::get_OriginalFileName</definition>
+        <argsstring>() const</argsstring>
+        <name>get_OriginalFileName</name>
+        <qualifiedname>Aspose::Words::Loading::ChmLoadOptions::get_OriginalFileName</qualifiedname>
+        <briefdescription>
+<para>The name of the CHM file. Default value is <computeroutput>null</computeroutput>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>CHM documents may contain links that reference the same document by file name. Aspose.Words supports such links and normally uses <ref refid="class_aspose_1_1_words_1_1_document_1aeef5a15bccc35879b033ffd7dba7fdc4" kindref="member">OriginalFileName</ref> to check whether the file referenced by a link is the file that is being loaded. If a document is loaded from a stream, its original file name should be specified explicitly via this property, since it cannot be determined automatically.</para>
+<para>If a CHM document is loaded from a file and a non-null value for this property is specified, the value will take priority over the actual name of the file stored in <ref refid="class_aspose_1_1_words_1_1_document_1aeef5a15bccc35879b033ffd7dba7fdc4" kindref="member">OriginalFileName</ref>. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/ChmLoadOptions.h" line="43" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_chm_load_options_1a79871f0a31c5a5207a3ad53da035fab7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Loading::ChmLoadOptions::set_OriginalFileName</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_OriginalFileName</name>
+        <qualifiedname>Aspose::Words::Loading::ChmLoadOptions::set_OriginalFileName</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_loading_1_1_chm_load_options_1a1ed54c80c15ee75f40970f3b16584808" kindref="member">Aspose::Words::Loading::ChmLoadOptions::get_OriginalFileName</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/ChmLoadOptions.h" line="46" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Allows to specify additional options when loading CHM document into a <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Document</ref> object. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Loading::ChmLoadOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_loading_1_1_chm_load_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Loading::LoadOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_loading_1_1_load_options"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Loading::ChmLoadOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_loading_1_1_chm_load_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Loading::LoadOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_loading_1_1_load_options"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Loading/ChmLoadOptions.h" line="23" column="1" bodyfile="Aspose.Words.Cpp/Loading/ChmLoadOptions.h" bodystart="24" bodyend="61"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_chm_load_options_1aeb26cd078ce88ba9ea38cf642bf00433" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_chm_load_options_1a153e52f99643ac6eb08682c87712aa51" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>ChmLoadOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_chm_load_options_1a8974b19c64eedaa5c1f82842cedbf629" prot="private" virt="virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>Clone</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a0196af2dffdd53f6de6416c30f4cd89e" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>get_BaseUri</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ad67318fd720912ba8460d0d8635be0d7" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>get_ConvertMetafilesToPng</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a8a305c7ca7de0a900148187c3a1e6ad3" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>get_ConvertShapeToOfficeMath</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a1f024832c893f116802c60059ce25b13" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>get_Encoding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ae4da81e82a1ca5a3231b72f746a7986f" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>get_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a566b10007e64036a66710bf18d55a2a6" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>get_FontSettings</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1adb7ec99702984a8b14a0364593447d5f" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>get_LanguagePreferences</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1af9522ca2c1dd6eb41ce67d2e83640b16" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>get_LoadFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a4a35a3b868f2b012e17397b0e2f7727b" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>get_MswVersion</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_chm_load_options_1a1ed54c80c15ee75f40970f3b16584808" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>get_OriginalFileName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a1a45522476e3ce872d60c1adfc59fffd" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>get_Password</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a506351eadee7e43bb85df5f2d79addb4" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>get_PreserveIncludePictureField</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1acf271e71b7f8b3bf99c6b954a2930d4d" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>get_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ab965badd27ded5b5bfd2507e93fbcbb8" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>get_ResourceLoadingCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ad04bb42d6713c0eabe62f28861b7c255" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>get_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1abdf376bce2596056c843228b3b430d8b" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>get_UpdateDirtyFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a32191464471263de4bbd417d9ab8a1fb" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>get_WarningCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a91cce95575b98c82e8eea81af037508d" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>LoadOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a6d13f827b12c2b6048576119fe2f2814" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>LoadOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ab21ac0bed2d8c794e2021c36cc0f266d" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>LoadOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_chm_load_options_1a5d9e828324a972e3251fe6f66d088c4c" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_chm_load_options_1abad54115ff1841680eea3b57bf33e971" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a0355c11ce2a280ee61e1c0ce0ded1c46" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>set_BaseUri</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a4a49308e39ac82aa0644d0a19659f19e" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>set_ConvertMetafilesToPng</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1afd53c076e3abecee44064e9e070ebc42" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>set_ConvertShapeToOfficeMath</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1aeb49b43099f8965bd5b9871bbf3eca0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>set_Encoding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a53348e0de0f1d6aa102973c694b0485a" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>set_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a30f0211cd9e716036863efa5ce804de0" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>set_FontSettings</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a90d031c6751e7b2706001bf11a1629cd" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>set_LoadFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a816c70f5ed2d94a32504abda898f303e" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>set_MswVersion</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_chm_load_options_1a79871f0a31c5a5207a3ad53da035fab7" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>set_OriginalFileName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1afaba9f3eae741e632396a777dcb1ef6c" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>set_Password</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a65ccb68d9d17a3acfdf0092b3af58d8b" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>set_PreserveIncludePictureField</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a130e26077aab2b3865dbeca9e0b34a5c" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>set_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a7df189ed6d4c201066c5e1732d558dae" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>set_ResourceLoadingCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a5396b6b04fe87ecfb44db45c5f11934a" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>set_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a02643bf16d0e82a06d3cedab3f49ad65" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>set_UpdateDirtyFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a3651e35cc9b2ceb5e88f4eaaae8ed397" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>set_WarningCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_chm_load_options_1a6126cef27af8c762df81c898c33120da" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_chm_load_options_1aec9a344f17ad843bb1588f5a285ea4b8" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_chm_load_options_1a7d7484b943dcd015213943d1dffaf836" prot="private" virt="virtual"><scope>Aspose::Words::Loading::ChmLoadOptions</scope><name>~ChmLoadOptions</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

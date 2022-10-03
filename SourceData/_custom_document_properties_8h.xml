@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="_custom_document_properties_8h" kind="file" language="C++">
+    <compoundname>CustomDocumentProperties.h</compoundname>
+    <includes local="no">cstdint</includes>
+    <includes refid="_document_property_collection_8h" local="no">Aspose.Words.Cpp/Properties/DocumentPropertyCollection.h</includes>
+    <includes refid="aspose__words__api__defs_8h" local="no">Aspose.Words.Cpp/aspose_words_api_defs.h</includes>
+    <incdepgraph>
+      <node id="1">
+        <label>Aspose.Words.Cpp/Properties/CustomDocumentProperties.h</label>
+        <link refid="_custom_document_properties_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>Aspose.Words.Cpp/Properties/DocumentPropertyCollection.h</label>
+        <link refid="_document_property_collection_8h_source"/>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>Aspose.Words.Cpp/aspose_words_api_defs.h</label>
+        <link refid="aspose__words__api__defs_8h_source"/>
+      </node>
+      <node id="2">
+        <label>cstdint</label>
+      </node>
+      <node id="5">
+        <label>system/collections/ienumerable.h</label>
+      </node>
+      <node id="4">
+        <label>system/shared_ptr.h</label>
+      </node>
+    </incdepgraph>
+    <innerclass refid="class_aspose_1_1_words_1_1_properties_1_1_custom_document_properties" prot="public">Aspose::Words::Properties::CustomDocumentProperties</innerclass>
+    <innernamespace refid="namespace_aspose">Aspose</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words">Aspose::Words</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words_1_1_properties">Aspose::Words::Properties</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/Properties/CustomDocumentProperties.h"/>
+  </compounddef>
+</doxygen>

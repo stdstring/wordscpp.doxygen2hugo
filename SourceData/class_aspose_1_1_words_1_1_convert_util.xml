@@ -1,0 +1,632 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_convert_util" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::ConvertUtil</compoundname>
+    <includes refid="_convert_util_8h" local="no">Aspose.Words.Cpp/ConvertUtil.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_convert_util_1a5dddbeacfccdb6eb2a79ca9601eb5a24" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_convert_util" kindref="compound">ConvertUtil</ref></type>
+        <definition>typedef ConvertUtil Aspose::Words::ConvertUtil::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::ConvertUtil::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConvertUtil.h" line="73" column="25" bodyfile="Aspose.Words.Cpp/ConvertUtil.h" bodystart="73" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>static double Aspose::Words::ConvertUtil::InchToPoint</definition>
+        <argsstring>(double inches)</argsstring>
+        <name>InchToPoint</name>
+        <qualifiedname>Aspose::Words::ConvertUtil::InchToPoint</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>inches</declname>
+        </param>
+        <briefdescription>
+<para>Converts inches to points. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>inches</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The value to convert.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to adjust paper size, orientation, margins, along with other settings for a section. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_PageSetup()-&gt;set_PaperSize(<ref refid="namespace_aspose_1_1_words_1a1a2f6b44133c9bd897dabca36c39ba25aa10a9bcd450087de1ce1f80b35f44883" kindref="member" tooltip="8.5 x 14 inches.">PaperSize::Legal</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_PageSetup()-&gt;set_Orientation(<ref refid="namespace_aspose_1_1_words_1ae2ae8bf76a0ae07d1d85df205d98af0ba815dff01257e5ef182b25d4c1ef0a7a0" kindref="member" tooltip="Landscape page orientation (wide and short).">Orientation::Landscape</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_PageSetup()-&gt;set_TopMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(1.0));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_PageSetup()-&gt;set_BottomMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(1.0));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_PageSetup()-&gt;set_LeftMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(1.5));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_PageSetup()-&gt;set_RightMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(1.5));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_PageSetup()-&gt;set_HeaderDistance(<ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(0.2));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_PageSetup()-&gt;set_FooterDistance(<ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(0.2));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PageSetup.PageMargins.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to specify page properties in inches. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>section&apos;s<sp/>&quot;Page<sp/>Setup&quot;<sp/>defines<sp/>the<sp/>size<sp/>of<sp/>the<sp/>page<sp/>margins<sp/>in<sp/>points.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>use<sp/>the<sp/>&quot;ConvertUtil&quot;<sp/>class<sp/>to<sp/>use<sp/>a<sp/>more<sp/>familiar<sp/>measurement<sp/>unit,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>such<sp/>as<sp/>inches<sp/>when<sp/>defining<sp/>boundaries.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;PageSetup&gt;<sp/>pageSetup<sp/>=<sp/>builder-&gt;get_PageSetup();</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_TopMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(1.0));</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_BottomMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(2.0));</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_LeftMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(2.5));</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_RightMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(1.5));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>An<sp/>inch<sp/>is<sp/>72<sp/>points.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(72.0,<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(1));</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(1.0,<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1acde92ebb7a4061e56add6e0bd428c8fd" kindref="member" tooltip="Converts points to inches.">ConvertUtil::PointToInch</ref>(72));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>content<sp/>to<sp/>demonstrate<sp/>the<sp/>new<sp/>margins.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;This<sp/>Text<sp/>is<sp/>{0}<sp/>points/{1}<sp/>inches<sp/>from<sp/>the<sp/>left,<sp/>&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_LeftMargin(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1acde92ebb7a4061e56add6e0bd428c8fd" kindref="member" tooltip="Converts points to inches.">ConvertUtil::PointToInch</ref>(pageSetup-&gt;get_LeftMargin()))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>points/{1}<sp/>inches<sp/>from<sp/>the<sp/>right,<sp/>&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_RightMargin(),<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1acde92ebb7a4061e56add6e0bd428c8fd" kindref="member" tooltip="Converts points to inches.">ConvertUtil::PointToInch</ref>(pageSetup-&gt;get_RightMargin()))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>points/{1}<sp/>inches<sp/>from<sp/>the<sp/>top,<sp/>&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_TopMargin(),<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1acde92ebb7a4061e56add6e0bd428c8fd" kindref="member" tooltip="Converts points to inches.">ConvertUtil::PointToInch</ref>(pageSetup-&gt;get_TopMargin()))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;and<sp/>{0}<sp/>points/{1}<sp/>inches<sp/>from<sp/>the<sp/>bottom<sp/>of<sp/>the<sp/>page.&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_BottomMargin(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1acde92ebb7a4061e56add6e0bd428c8fd" kindref="member" tooltip="Converts points to inches.">ConvertUtil::PointToInch</ref>(pageSetup-&gt;get_BottomMargin())));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;UtilityClasses.PointsAndInches.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConvertUtil.h" line="332" column="22"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_convert_util_1a51ff8349adf8363e9903427114af4cdc" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>static double Aspose::Words::ConvertUtil::MillimeterToPoint</definition>
+        <argsstring>(double millimeters)</argsstring>
+        <name>MillimeterToPoint</name>
+        <qualifiedname>Aspose::Words::ConvertUtil::MillimeterToPoint</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>millimeters</declname>
+        </param>
+        <briefdescription>
+<para>Converts millimeters to points. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>millimeters</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The value to convert.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to specify page properties in millimeters. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>section&apos;s<sp/>&quot;Page<sp/>Setup&quot;<sp/>defines<sp/>the<sp/>size<sp/>of<sp/>the<sp/>page<sp/>margins<sp/>in<sp/>points.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>use<sp/>the<sp/>&quot;ConvertUtil&quot;<sp/>class<sp/>to<sp/>use<sp/>a<sp/>more<sp/>familiar<sp/>measurement<sp/>unit,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>such<sp/>as<sp/>millimeters<sp/>when<sp/>defining<sp/>boundaries.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;PageSetup&gt;<sp/>pageSetup<sp/>=<sp/>builder-&gt;get_PageSetup();</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_TopMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1a51ff8349adf8363e9903427114af4cdc" kindref="member" tooltip="Converts millimeters to points.">ConvertUtil::MillimeterToPoint</ref>(30));</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_BottomMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1a51ff8349adf8363e9903427114af4cdc" kindref="member" tooltip="Converts millimeters to points.">ConvertUtil::MillimeterToPoint</ref>(50));</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_LeftMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1a51ff8349adf8363e9903427114af4cdc" kindref="member" tooltip="Converts millimeters to points.">ConvertUtil::MillimeterToPoint</ref>(80));</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_RightMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1a51ff8349adf8363e9903427114af4cdc" kindref="member" tooltip="Converts millimeters to points.">ConvertUtil::MillimeterToPoint</ref>(40));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>centimeter<sp/>is<sp/>approximately<sp/>28.3<sp/>points.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(28.34,<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1a51ff8349adf8363e9903427114af4cdc" kindref="member" tooltip="Converts millimeters to points.">ConvertUtil::MillimeterToPoint</ref>(10),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>content<sp/>to<sp/>demonstrate<sp/>the<sp/>new<sp/>margins.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(String::Format(u</highlight><highlight class="stringliteral">&quot;This<sp/>Text<sp/>is<sp/>{0}<sp/>points<sp/>from<sp/>the<sp/>left,<sp/>&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_LeftMargin())<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>points<sp/>from<sp/>the<sp/>right,<sp/>&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_RightMargin())<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>points<sp/>from<sp/>the<sp/>top,<sp/>&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_TopMargin())<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;and<sp/>{0}<sp/>points<sp/>from<sp/>the<sp/>bottom<sp/>of<sp/>the<sp/>page.&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_BottomMargin()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;UtilityClasses.PointsAndMillimeters.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConvertUtil.h" line="402" column="22"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_convert_util_1a81db309b6f0d71acf6a7049fef49c6bd" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>static int32_t Aspose::Words::ConvertUtil::PixelToNewDpi</definition>
+        <argsstring>(double pixels, double oldDpi, double newDpi)</argsstring>
+        <name>PixelToNewDpi</name>
+        <qualifiedname>Aspose::Words::ConvertUtil::PixelToNewDpi</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>pixels</declname>
+        </param>
+        <param>
+          <type>double</type>
+          <declname>oldDpi</declname>
+        </param>
+        <param>
+          <type>double</type>
+          <declname>newDpi</declname>
+        </param>
+        <briefdescription>
+<para>Converts pixels from one resolution to another. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>pixels</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The value to convert. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>oldDpi</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The current dpi (dots per inch) resolution. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>newDpi</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The new dpi (dots per inch) resolution.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use convert points to pixels with default and custom resolution. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Define<sp/>the<sp/>size<sp/>of<sp/>the<sp/>top<sp/>margin<sp/>of<sp/>this<sp/>section<sp/>in<sp/>pixels,<sp/>according<sp/>to<sp/>a<sp/>custom<sp/>DPI.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">double</highlight><highlight class="normal"><sp/>myDpi<sp/>=<sp/>192;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;PageSetup&gt;<sp/>pageSetup<sp/>=<sp/>builder-&gt;get_PageSetup();</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_TopMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1aa9333641e2c7fa6de34eb0794062e149" kindref="member" tooltip="Converts pixels to points at 96 dpi.">ConvertUtil::PixelToPoint</ref>(100,<sp/>myDpi));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(37.5,<sp/>pageSetup-&gt;get_TopMargin(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>At<sp/>the<sp/>default<sp/>DPI<sp/>of<sp/>96,<sp/>a<sp/>pixel<sp/>is<sp/>0.75<sp/>points.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(0.75,<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1aa9333641e2c7fa6de34eb0794062e149" kindref="member" tooltip="Converts pixels to points at 96 dpi.">ConvertUtil::PixelToPoint</ref>(1));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;This<sp/>Text<sp/>is<sp/>{0}<sp/>points/{1}<sp/>&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_TopMargin(),<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1ae154837d40adf7638fd63672041e856b" kindref="member" tooltip="Converts points to pixels at 96 dpi.">ConvertUtil::PointToPixel</ref>(pageSetup-&gt;get_TopMargin(),<sp/>myDpi))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;pixels<sp/>(at<sp/>a<sp/>DPI<sp/>of<sp/>{0})<sp/>from<sp/>the<sp/>top<sp/>of<sp/>the<sp/>page.&quot;</highlight><highlight class="normal">,<sp/>myDpi));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>new<sp/>DPI<sp/>and<sp/>adjust<sp/>the<sp/>top<sp/>margin<sp/>value<sp/>accordingly.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">double</highlight><highlight class="normal"><sp/>newDpi<sp/>=<sp/>300;</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_TopMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1a81db309b6f0d71acf6a7049fef49c6bd" kindref="member" tooltip="Converts pixels from one resolution to another.">ConvertUtil::PixelToNewDpi</ref>(pageSetup-&gt;get_TopMargin(),<sp/>myDpi,<sp/>newDpi));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(59.0,<sp/>pageSetup-&gt;get_TopMargin(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(String::Format(u</highlight><highlight class="stringliteral">&quot;At<sp/>a<sp/>DPI<sp/>of<sp/>{0},<sp/>the<sp/>text<sp/>is<sp/>now<sp/>{1}<sp/>points/{2}<sp/>&quot;</highlight><highlight class="normal">,<sp/>newDpi,<sp/>pageSetup-&gt;get_TopMargin(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1ae154837d40adf7638fd63672041e856b" kindref="member" tooltip="Converts points to pixels at 96 dpi.">ConvertUtil::PointToPixel</ref>(pageSetup-&gt;get_TopMargin(),<sp/>myDpi))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;pixels<sp/>from<sp/>the<sp/>top<sp/>of<sp/>the<sp/>page.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;UtilityClasses.PointsAndPixelsDpi.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConvertUtil.h" line="276" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_convert_util_1aa9333641e2c7fa6de34eb0794062e149" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>static double Aspose::Words::ConvertUtil::PixelToPoint</definition>
+        <argsstring>(double pixels)</argsstring>
+        <name>PixelToPoint</name>
+        <qualifiedname>Aspose::Words::ConvertUtil::PixelToPoint</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>pixels</declname>
+        </param>
+        <briefdescription>
+<para>Converts pixels to points at 96 dpi. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>pixels</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The value to convert.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to specify page properties in pixels. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>section&apos;s<sp/>&quot;Page<sp/>Setup&quot;<sp/>defines<sp/>the<sp/>size<sp/>of<sp/>the<sp/>page<sp/>margins<sp/>in<sp/>points.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>use<sp/>the<sp/>&quot;ConvertUtil&quot;<sp/>class<sp/>to<sp/>use<sp/>a<sp/>different<sp/>measurement<sp/>unit,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>such<sp/>as<sp/>pixels<sp/>when<sp/>defining<sp/>boundaries.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;PageSetup&gt;<sp/>pageSetup<sp/>=<sp/>builder-&gt;get_PageSetup();</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_TopMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1aa9333641e2c7fa6de34eb0794062e149" kindref="member" tooltip="Converts pixels to points at 96 dpi.">ConvertUtil::PixelToPoint</ref>(100));</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_BottomMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1aa9333641e2c7fa6de34eb0794062e149" kindref="member" tooltip="Converts pixels to points at 96 dpi.">ConvertUtil::PixelToPoint</ref>(200));</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_LeftMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1aa9333641e2c7fa6de34eb0794062e149" kindref="member" tooltip="Converts pixels to points at 96 dpi.">ConvertUtil::PixelToPoint</ref>(225));</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_RightMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1aa9333641e2c7fa6de34eb0794062e149" kindref="member" tooltip="Converts pixels to points at 96 dpi.">ConvertUtil::PixelToPoint</ref>(125));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>pixel<sp/>is<sp/>0.75<sp/>points.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(0.75,<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1aa9333641e2c7fa6de34eb0794062e149" kindref="member" tooltip="Converts pixels to points at 96 dpi.">ConvertUtil::PixelToPoint</ref>(1));</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(1.0,<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1ae154837d40adf7638fd63672041e856b" kindref="member" tooltip="Converts points to pixels at 96 dpi.">ConvertUtil::PointToPixel</ref>(0.75));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>default<sp/>DPI<sp/>value<sp/>used<sp/>is<sp/>96.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(0.75,<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1aa9333641e2c7fa6de34eb0794062e149" kindref="member" tooltip="Converts pixels to points at 96 dpi.">ConvertUtil::PixelToPoint</ref>(1,<sp/>96));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>content<sp/>to<sp/>demonstrate<sp/>the<sp/>new<sp/>margins.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;This<sp/>Text<sp/>is<sp/>{0}<sp/>points/{1}<sp/>pixels<sp/>from<sp/>the<sp/>left,<sp/>&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_LeftMargin(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1ae154837d40adf7638fd63672041e856b" kindref="member" tooltip="Converts points to pixels at 96 dpi.">ConvertUtil::PointToPixel</ref>(pageSetup-&gt;get_LeftMargin()))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>points/{1}<sp/>pixels<sp/>from<sp/>the<sp/>right,<sp/>&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_RightMargin(),<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1ae154837d40adf7638fd63672041e856b" kindref="member" tooltip="Converts points to pixels at 96 dpi.">ConvertUtil::PointToPixel</ref>(pageSetup-&gt;get_RightMargin()))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>points/{1}<sp/>pixels<sp/>from<sp/>the<sp/>top,<sp/>&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_TopMargin(),<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1ae154837d40adf7638fd63672041e856b" kindref="member" tooltip="Converts points to pixels at 96 dpi.">ConvertUtil::PointToPixel</ref>(pageSetup-&gt;get_TopMargin()))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;and<sp/>{0}<sp/>points/{1}<sp/>pixels<sp/>from<sp/>the<sp/>bottom<sp/>of<sp/>the<sp/>page.&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_BottomMargin(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1ae154837d40adf7638fd63672041e856b" kindref="member" tooltip="Converts points to pixels at 96 dpi.">ConvertUtil::PointToPixel</ref>(pageSetup-&gt;get_BottomMargin())));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;UtilityClasses.PointsAndPixels.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConvertUtil.h" line="195" column="22"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_convert_util_1a39949976179f873dbf637cceb297ed50" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>static double Aspose::Words::ConvertUtil::PixelToPoint</definition>
+        <argsstring>(double pixels, double resolution)</argsstring>
+        <name>PixelToPoint</name>
+        <qualifiedname>Aspose::Words::ConvertUtil::PixelToPoint</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>pixels</declname>
+        </param>
+        <param>
+          <type>double</type>
+          <declname>resolution</declname>
+        </param>
+        <briefdescription>
+<para>Converts pixels to points at the specified pixel resolution. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>pixels</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The value to convert. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>resolution</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The dpi (dots per inch) resolution.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use convert points to pixels with default and custom resolution. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Define<sp/>the<sp/>size<sp/>of<sp/>the<sp/>top<sp/>margin<sp/>of<sp/>this<sp/>section<sp/>in<sp/>pixels,<sp/>according<sp/>to<sp/>a<sp/>custom<sp/>DPI.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">double</highlight><highlight class="normal"><sp/>myDpi<sp/>=<sp/>192;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;PageSetup&gt;<sp/>pageSetup<sp/>=<sp/>builder-&gt;get_PageSetup();</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_TopMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1aa9333641e2c7fa6de34eb0794062e149" kindref="member" tooltip="Converts pixels to points at 96 dpi.">ConvertUtil::PixelToPoint</ref>(100,<sp/>myDpi));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(37.5,<sp/>pageSetup-&gt;get_TopMargin(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>At<sp/>the<sp/>default<sp/>DPI<sp/>of<sp/>96,<sp/>a<sp/>pixel<sp/>is<sp/>0.75<sp/>points.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(0.75,<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1aa9333641e2c7fa6de34eb0794062e149" kindref="member" tooltip="Converts pixels to points at 96 dpi.">ConvertUtil::PixelToPoint</ref>(1));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;This<sp/>Text<sp/>is<sp/>{0}<sp/>points/{1}<sp/>&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_TopMargin(),<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1ae154837d40adf7638fd63672041e856b" kindref="member" tooltip="Converts points to pixels at 96 dpi.">ConvertUtil::PointToPixel</ref>(pageSetup-&gt;get_TopMargin(),<sp/>myDpi))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;pixels<sp/>(at<sp/>a<sp/>DPI<sp/>of<sp/>{0})<sp/>from<sp/>the<sp/>top<sp/>of<sp/>the<sp/>page.&quot;</highlight><highlight class="normal">,<sp/>myDpi));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>new<sp/>DPI<sp/>and<sp/>adjust<sp/>the<sp/>top<sp/>margin<sp/>value<sp/>accordingly.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">double</highlight><highlight class="normal"><sp/>newDpi<sp/>=<sp/>300;</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_TopMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1a81db309b6f0d71acf6a7049fef49c6bd" kindref="member" tooltip="Converts pixels from one resolution to another.">ConvertUtil::PixelToNewDpi</ref>(pageSetup-&gt;get_TopMargin(),<sp/>myDpi,<sp/>newDpi));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(59.0,<sp/>pageSetup-&gt;get_TopMargin(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(String::Format(u</highlight><highlight class="stringliteral">&quot;At<sp/>a<sp/>DPI<sp/>of<sp/>{0},<sp/>the<sp/>text<sp/>is<sp/>now<sp/>{1}<sp/>points/{2}<sp/>&quot;</highlight><highlight class="normal">,<sp/>newDpi,<sp/>pageSetup-&gt;get_TopMargin(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1ae154837d40adf7638fd63672041e856b" kindref="member" tooltip="Converts points to pixels at 96 dpi.">ConvertUtil::PointToPixel</ref>(pageSetup-&gt;get_TopMargin(),<sp/>myDpi))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;pixels<sp/>from<sp/>the<sp/>top<sp/>of<sp/>the<sp/>page.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;UtilityClasses.PointsAndPixelsDpi.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConvertUtil.h" line="235" column="22"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_convert_util_1acde92ebb7a4061e56add6e0bd428c8fd" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>static double Aspose::Words::ConvertUtil::PointToInch</definition>
+        <argsstring>(double points)</argsstring>
+        <name>PointToInch</name>
+        <qualifiedname>Aspose::Words::ConvertUtil::PointToInch</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>points</declname>
+        </param>
+        <briefdescription>
+<para>Converts points to inches. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>points</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The value to convert.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to specify page properties in inches. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>section&apos;s<sp/>&quot;Page<sp/>Setup&quot;<sp/>defines<sp/>the<sp/>size<sp/>of<sp/>the<sp/>page<sp/>margins<sp/>in<sp/>points.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>use<sp/>the<sp/>&quot;ConvertUtil&quot;<sp/>class<sp/>to<sp/>use<sp/>a<sp/>more<sp/>familiar<sp/>measurement<sp/>unit,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>such<sp/>as<sp/>inches<sp/>when<sp/>defining<sp/>boundaries.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;PageSetup&gt;<sp/>pageSetup<sp/>=<sp/>builder-&gt;get_PageSetup();</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_TopMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(1.0));</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_BottomMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(2.0));</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_LeftMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(2.5));</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_RightMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(1.5));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>An<sp/>inch<sp/>is<sp/>72<sp/>points.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(72.0,<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(1));</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(1.0,<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1acde92ebb7a4061e56add6e0bd428c8fd" kindref="member" tooltip="Converts points to inches.">ConvertUtil::PointToInch</ref>(72));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>content<sp/>to<sp/>demonstrate<sp/>the<sp/>new<sp/>margins.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;This<sp/>Text<sp/>is<sp/>{0}<sp/>points/{1}<sp/>inches<sp/>from<sp/>the<sp/>left,<sp/>&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_LeftMargin(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1acde92ebb7a4061e56add6e0bd428c8fd" kindref="member" tooltip="Converts points to inches.">ConvertUtil::PointToInch</ref>(pageSetup-&gt;get_LeftMargin()))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>points/{1}<sp/>inches<sp/>from<sp/>the<sp/>right,<sp/>&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_RightMargin(),<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1acde92ebb7a4061e56add6e0bd428c8fd" kindref="member" tooltip="Converts points to inches.">ConvertUtil::PointToInch</ref>(pageSetup-&gt;get_RightMargin()))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>points/{1}<sp/>inches<sp/>from<sp/>the<sp/>top,<sp/>&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_TopMargin(),<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1acde92ebb7a4061e56add6e0bd428c8fd" kindref="member" tooltip="Converts points to inches.">ConvertUtil::PointToInch</ref>(pageSetup-&gt;get_TopMargin()))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;and<sp/>{0}<sp/>points/{1}<sp/>inches<sp/>from<sp/>the<sp/>bottom<sp/>of<sp/>the<sp/>page.&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_BottomMargin(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1acde92ebb7a4061e56add6e0bd428c8fd" kindref="member" tooltip="Converts points to inches.">ConvertUtil::PointToInch</ref>(pageSetup-&gt;get_BottomMargin())));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;UtilityClasses.PointsAndInches.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConvertUtil.h" line="369" column="22"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_convert_util_1ae154837d40adf7638fd63672041e856b" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>static double Aspose::Words::ConvertUtil::PointToPixel</definition>
+        <argsstring>(double points)</argsstring>
+        <name>PointToPixel</name>
+        <qualifiedname>Aspose::Words::ConvertUtil::PointToPixel</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>points</declname>
+        </param>
+        <briefdescription>
+<para>Converts points to pixels at 96 dpi. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>points</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The value to convert.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to specify page properties in pixels. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>section&apos;s<sp/>&quot;Page<sp/>Setup&quot;<sp/>defines<sp/>the<sp/>size<sp/>of<sp/>the<sp/>page<sp/>margins<sp/>in<sp/>points.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>use<sp/>the<sp/>&quot;ConvertUtil&quot;<sp/>class<sp/>to<sp/>use<sp/>a<sp/>different<sp/>measurement<sp/>unit,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>such<sp/>as<sp/>pixels<sp/>when<sp/>defining<sp/>boundaries.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;PageSetup&gt;<sp/>pageSetup<sp/>=<sp/>builder-&gt;get_PageSetup();</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_TopMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1aa9333641e2c7fa6de34eb0794062e149" kindref="member" tooltip="Converts pixels to points at 96 dpi.">ConvertUtil::PixelToPoint</ref>(100));</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_BottomMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1aa9333641e2c7fa6de34eb0794062e149" kindref="member" tooltip="Converts pixels to points at 96 dpi.">ConvertUtil::PixelToPoint</ref>(200));</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_LeftMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1aa9333641e2c7fa6de34eb0794062e149" kindref="member" tooltip="Converts pixels to points at 96 dpi.">ConvertUtil::PixelToPoint</ref>(225));</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_RightMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1aa9333641e2c7fa6de34eb0794062e149" kindref="member" tooltip="Converts pixels to points at 96 dpi.">ConvertUtil::PixelToPoint</ref>(125));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>pixel<sp/>is<sp/>0.75<sp/>points.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(0.75,<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1aa9333641e2c7fa6de34eb0794062e149" kindref="member" tooltip="Converts pixels to points at 96 dpi.">ConvertUtil::PixelToPoint</ref>(1));</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(1.0,<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1ae154837d40adf7638fd63672041e856b" kindref="member" tooltip="Converts points to pixels at 96 dpi.">ConvertUtil::PointToPixel</ref>(0.75));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>default<sp/>DPI<sp/>value<sp/>used<sp/>is<sp/>96.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(0.75,<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1aa9333641e2c7fa6de34eb0794062e149" kindref="member" tooltip="Converts pixels to points at 96 dpi.">ConvertUtil::PixelToPoint</ref>(1,<sp/>96));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>content<sp/>to<sp/>demonstrate<sp/>the<sp/>new<sp/>margins.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;This<sp/>Text<sp/>is<sp/>{0}<sp/>points/{1}<sp/>pixels<sp/>from<sp/>the<sp/>left,<sp/>&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_LeftMargin(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1ae154837d40adf7638fd63672041e856b" kindref="member" tooltip="Converts points to pixels at 96 dpi.">ConvertUtil::PointToPixel</ref>(pageSetup-&gt;get_LeftMargin()))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>points/{1}<sp/>pixels<sp/>from<sp/>the<sp/>right,<sp/>&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_RightMargin(),<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1ae154837d40adf7638fd63672041e856b" kindref="member" tooltip="Converts points to pixels at 96 dpi.">ConvertUtil::PointToPixel</ref>(pageSetup-&gt;get_RightMargin()))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>points/{1}<sp/>pixels<sp/>from<sp/>the<sp/>top,<sp/>&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_TopMargin(),<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1ae154837d40adf7638fd63672041e856b" kindref="member" tooltip="Converts points to pixels at 96 dpi.">ConvertUtil::PointToPixel</ref>(pageSetup-&gt;get_TopMargin()))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;and<sp/>{0}<sp/>points/{1}<sp/>pixels<sp/>from<sp/>the<sp/>bottom<sp/>of<sp/>the<sp/>page.&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_BottomMargin(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1ae154837d40adf7638fd63672041e856b" kindref="member" tooltip="Converts points to pixels at 96 dpi.">ConvertUtil::PointToPixel</ref>(pageSetup-&gt;get_BottomMargin())));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;UtilityClasses.PointsAndPixels.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConvertUtil.h" line="115" column="22"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_convert_util_1ab8722ce8bd5f534054a1e66b6d2fb372" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>static double Aspose::Words::ConvertUtil::PointToPixel</definition>
+        <argsstring>(double points, double resolution)</argsstring>
+        <name>PointToPixel</name>
+        <qualifiedname>Aspose::Words::ConvertUtil::PointToPixel</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>points</declname>
+        </param>
+        <param>
+          <type>double</type>
+          <declname>resolution</declname>
+        </param>
+        <briefdescription>
+<para>Converts points to pixels at the specified pixel resolution. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>points</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The value to convert. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>resolution</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The dpi (dots per inch) resolution.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use convert points to pixels with default and custom resolution. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Define<sp/>the<sp/>size<sp/>of<sp/>the<sp/>top<sp/>margin<sp/>of<sp/>this<sp/>section<sp/>in<sp/>pixels,<sp/>according<sp/>to<sp/>a<sp/>custom<sp/>DPI.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">double</highlight><highlight class="normal"><sp/>myDpi<sp/>=<sp/>192;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;PageSetup&gt;<sp/>pageSetup<sp/>=<sp/>builder-&gt;get_PageSetup();</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_TopMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1aa9333641e2c7fa6de34eb0794062e149" kindref="member" tooltip="Converts pixels to points at 96 dpi.">ConvertUtil::PixelToPoint</ref>(100,<sp/>myDpi));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(37.5,<sp/>pageSetup-&gt;get_TopMargin(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>At<sp/>the<sp/>default<sp/>DPI<sp/>of<sp/>96,<sp/>a<sp/>pixel<sp/>is<sp/>0.75<sp/>points.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(0.75,<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1aa9333641e2c7fa6de34eb0794062e149" kindref="member" tooltip="Converts pixels to points at 96 dpi.">ConvertUtil::PixelToPoint</ref>(1));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;This<sp/>Text<sp/>is<sp/>{0}<sp/>points/{1}<sp/>&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_TopMargin(),<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1ae154837d40adf7638fd63672041e856b" kindref="member" tooltip="Converts points to pixels at 96 dpi.">ConvertUtil::PointToPixel</ref>(pageSetup-&gt;get_TopMargin(),<sp/>myDpi))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;pixels<sp/>(at<sp/>a<sp/>DPI<sp/>of<sp/>{0})<sp/>from<sp/>the<sp/>top<sp/>of<sp/>the<sp/>page.&quot;</highlight><highlight class="normal">,<sp/>myDpi));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>new<sp/>DPI<sp/>and<sp/>adjust<sp/>the<sp/>top<sp/>margin<sp/>value<sp/>accordingly.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">double</highlight><highlight class="normal"><sp/>newDpi<sp/>=<sp/>300;</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_TopMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1a81db309b6f0d71acf6a7049fef49c6bd" kindref="member" tooltip="Converts pixels from one resolution to another.">ConvertUtil::PixelToNewDpi</ref>(pageSetup-&gt;get_TopMargin(),<sp/>myDpi,<sp/>newDpi));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(59.0,<sp/>pageSetup-&gt;get_TopMargin(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(String::Format(u</highlight><highlight class="stringliteral">&quot;At<sp/>a<sp/>DPI<sp/>of<sp/>{0},<sp/>the<sp/>text<sp/>is<sp/>now<sp/>{1}<sp/>points/{2}<sp/>&quot;</highlight><highlight class="normal">,<sp/>newDpi,<sp/>pageSetup-&gt;get_TopMargin(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1ae154837d40adf7638fd63672041e856b" kindref="member" tooltip="Converts points to pixels at 96 dpi.">ConvertUtil::PointToPixel</ref>(pageSetup-&gt;get_TopMargin(),<sp/>myDpi))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;pixels<sp/>from<sp/>the<sp/>top<sp/>of<sp/>the<sp/>page.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;UtilityClasses.PointsAndPixelsDpi.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConvertUtil.h" line="155" column="22"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_convert_util_1a79165242459c97a2e6f0b558bb0fb2dc" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::ConvertUtil::ConvertUtil</definition>
+        <argsstring>()=delete</argsstring>
+        <name>ConvertUtil</name>
+        <qualifiedname>Aspose::Words::ConvertUtil::ConvertUtil</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConvertUtil.h" line="405" column="5"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Provides helper functions to convert between various measurement units. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to adjust paper size, orientation, margins, along with other settings for a section. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_PageSetup()-&gt;set_PaperSize(<ref refid="namespace_aspose_1_1_words_1a1a2f6b44133c9bd897dabca36c39ba25aa10a9bcd450087de1ce1f80b35f44883" kindref="member" tooltip="8.5 x 14 inches.">PaperSize::Legal</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_PageSetup()-&gt;set_Orientation(<ref refid="namespace_aspose_1_1_words_1ae2ae8bf76a0ae07d1d85df205d98af0ba815dff01257e5ef182b25d4c1ef0a7a0" kindref="member" tooltip="Landscape page orientation (wide and short).">Orientation::Landscape</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_PageSetup()-&gt;set_TopMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(1.0));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_PageSetup()-&gt;set_BottomMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(1.0));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_PageSetup()-&gt;set_LeftMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(1.5));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_PageSetup()-&gt;set_RightMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(1.5));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_PageSetup()-&gt;set_HeaderDistance(<ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(0.2));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_PageSetup()-&gt;set_FooterDistance(<ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(0.2));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PageSetup.PageMargins.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to specify page properties in inches. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>section&apos;s<sp/>&quot;Page<sp/>Setup&quot;<sp/>defines<sp/>the<sp/>size<sp/>of<sp/>the<sp/>page<sp/>margins<sp/>in<sp/>points.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>use<sp/>the<sp/>&quot;ConvertUtil&quot;<sp/>class<sp/>to<sp/>use<sp/>a<sp/>more<sp/>familiar<sp/>measurement<sp/>unit,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>such<sp/>as<sp/>inches<sp/>when<sp/>defining<sp/>boundaries.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;PageSetup&gt;<sp/>pageSetup<sp/>=<sp/>builder-&gt;get_PageSetup();</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_TopMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(1.0));</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_BottomMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(2.0));</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_LeftMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(2.5));</highlight></codeline>
+<codeline><highlight class="normal">pageSetup-&gt;set_RightMargin(<ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(1.5));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>An<sp/>inch<sp/>is<sp/>72<sp/>points.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(72.0,<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" kindref="member" tooltip="Converts inches to points.">ConvertUtil::InchToPoint</ref>(1));</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(1.0,<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1acde92ebb7a4061e56add6e0bd428c8fd" kindref="member" tooltip="Converts points to inches.">ConvertUtil::PointToInch</ref>(72));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>content<sp/>to<sp/>demonstrate<sp/>the<sp/>new<sp/>margins.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;This<sp/>Text<sp/>is<sp/>{0}<sp/>points/{1}<sp/>inches<sp/>from<sp/>the<sp/>left,<sp/>&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_LeftMargin(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1acde92ebb7a4061e56add6e0bd428c8fd" kindref="member" tooltip="Converts points to inches.">ConvertUtil::PointToInch</ref>(pageSetup-&gt;get_LeftMargin()))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>points/{1}<sp/>inches<sp/>from<sp/>the<sp/>right,<sp/>&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_RightMargin(),<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1acde92ebb7a4061e56add6e0bd428c8fd" kindref="member" tooltip="Converts points to inches.">ConvertUtil::PointToInch</ref>(pageSetup-&gt;get_RightMargin()))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>points/{1}<sp/>inches<sp/>from<sp/>the<sp/>top,<sp/>&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_TopMargin(),<sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1acde92ebb7a4061e56add6e0bd428c8fd" kindref="member" tooltip="Converts points to inches.">ConvertUtil::PointToInch</ref>(pageSetup-&gt;get_TopMargin()))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;and<sp/>{0}<sp/>points/{1}<sp/>inches<sp/>from<sp/>the<sp/>bottom<sp/>of<sp/>the<sp/>page.&quot;</highlight><highlight class="normal">,<sp/>pageSetup-&gt;get_BottomMargin(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_convert_util_1acde92ebb7a4061e56add6e0bd428c8fd" kindref="member" tooltip="Converts points to inches.">ConvertUtil::PointToInch</ref>(pageSetup-&gt;get_BottomMargin())));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;UtilityClasses.PointsAndInches.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/ConvertUtil.h" line="71" column="1" bodyfile="Aspose.Words.Cpp/ConvertUtil.h" bodystart="72" bodyend="406"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_convert_util_1a79165242459c97a2e6f0b558bb0fb2dc" prot="public" virt="non-virtual"><scope>Aspose::Words::ConvertUtil</scope><name>ConvertUtil</name></member>
+      <member refid="class_aspose_1_1_words_1_1_convert_util_1afa94489d60d0d68b41facecd760899da" prot="public" virt="non-virtual"><scope>Aspose::Words::ConvertUtil</scope><name>InchToPoint</name></member>
+      <member refid="class_aspose_1_1_words_1_1_convert_util_1a51ff8349adf8363e9903427114af4cdc" prot="public" virt="non-virtual"><scope>Aspose::Words::ConvertUtil</scope><name>MillimeterToPoint</name></member>
+      <member refid="class_aspose_1_1_words_1_1_convert_util_1a81db309b6f0d71acf6a7049fef49c6bd" prot="public" virt="non-virtual"><scope>Aspose::Words::ConvertUtil</scope><name>PixelToNewDpi</name></member>
+      <member refid="class_aspose_1_1_words_1_1_convert_util_1aa9333641e2c7fa6de34eb0794062e149" prot="public" virt="non-virtual"><scope>Aspose::Words::ConvertUtil</scope><name>PixelToPoint</name></member>
+      <member refid="class_aspose_1_1_words_1_1_convert_util_1a39949976179f873dbf637cceb297ed50" prot="public" virt="non-virtual"><scope>Aspose::Words::ConvertUtil</scope><name>PixelToPoint</name></member>
+      <member refid="class_aspose_1_1_words_1_1_convert_util_1acde92ebb7a4061e56add6e0bd428c8fd" prot="public" virt="non-virtual"><scope>Aspose::Words::ConvertUtil</scope><name>PointToInch</name></member>
+      <member refid="class_aspose_1_1_words_1_1_convert_util_1ae154837d40adf7638fd63672041e856b" prot="public" virt="non-virtual"><scope>Aspose::Words::ConvertUtil</scope><name>PointToPixel</name></member>
+      <member refid="class_aspose_1_1_words_1_1_convert_util_1ab8722ce8bd5f534054a1e66b6d2fb372" prot="public" virt="non-virtual"><scope>Aspose::Words::ConvertUtil</scope><name>PointToPixel</name></member>
+      <member refid="class_aspose_1_1_words_1_1_convert_util_1a5dddbeacfccdb6eb2a79ca9601eb5a24" prot="private" virt="non-virtual"><scope>Aspose::Words::ConvertUtil</scope><name>ThisType</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

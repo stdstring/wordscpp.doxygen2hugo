@@ -1,0 +1,541 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Saving::RtfSaveOptions</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_saving_1_1_save_options" prot="public" virt="non-virtual">Aspose::Words::Saving::SaveOptions</basecompoundref>
+    <includes refid="_rtf_save_options_8h" local="no">Aspose.Words.Cpp/Saving/RtfSaveOptions.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a4d077cd1019a2d83970890f427c8b046" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_save_options" kindref="compound">Aspose::Words::Saving::SaveOptions</ref></type>
+        <definition>typedef Aspose::Words::Saving::SaveOptions Aspose::Words::Saving::RtfSaveOptions::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Saving::RtfSaveOptions::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" line="49" column="48" bodyfile="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" bodystart="49" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a5243d2b88e17d54c4a01bffd7883809e" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options" kindref="compound">RtfSaveOptions</ref></type>
+        <definition>typedef RtfSaveOptions Aspose::Words::Saving::RtfSaveOptions::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Saving::RtfSaveOptions::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" line="48" column="28" bodyfile="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" bodystart="48" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a0e0591225d2bed9a787b900d6f4a6775" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_save_options" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::RtfSaveOptions::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Saving::RtfSaveOptions::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" line="51" column="37" bodyfile="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" bodystart="51" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1afecd5e41540d9e7da444a0d5dd791f54" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::RtfSaveOptions::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Saving::RtfSaveOptions::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" line="222" column="23" bodyfile="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" bodystart="222" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a7e396c434cdd3ebd7ed0f7f267733323" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::RtfSaveOptions::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Saving::RtfSaveOptions::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" line="223" column="23" bodyfile="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" bodystart="223" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a30a73fe7c6f799b2d2053a0f23b68070" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::RtfSaveOptions::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Saving::RtfSaveOptions::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" line="224" column="23" bodyfile="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" bodystart="224" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1ab46832104c0bb821347dce9f9e22c011" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::RtfSaveOptions::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Saving::RtfSaveOptions::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" line="225" column="23" bodyfile="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" bodystart="225" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a5a301bc2423d0ec8cc116d02cfb51e39" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::RtfSaveOptions::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Saving::RtfSaveOptions::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" line="226" column="23" bodyfile="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" bodystart="226" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1ab9471e1f4a0f1513382c56f61d3bc2c9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::RtfSaveOptions::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Saving::RtfSaveOptions::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" line="52" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a02035f5af99b71072ed407f75fed784c" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::RtfSaveOptions::SetTestMode</definition>
+        <argsstring>() override</argsstring>
+        <name>SetTestMode</name>
+        <qualifiedname>Aspose::Words::Saving::RtfSaveOptions::SetTestMode</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2ecfd46ad2350b7f5ccba9c293c0d8a6">SetTestMode</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" line="218" column="13"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a352aaa72e1dd61cb6c7762410bb711ed" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::RtfSaveOptions::RtfSaveOptions</definition>
+        <argsstring>()</argsstring>
+        <name>RtfSaveOptions</name>
+        <qualifiedname>Aspose::Words::Saving::RtfSaveOptions::RtfSaveOptions</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" line="214" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1ab1074de41b23449dc260039789074860" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Saving::RtfSaveOptions::get_ExportCompactSize</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ExportCompactSize</name>
+        <qualifiedname>Aspose::Words::Saving::RtfSaveOptions::get_ExportCompactSize</qualifiedname>
+        <briefdescription>
+<para>Allows to make output RTF documents smaller in size, but if they contain RTL (right-to-left) text, it will not be displayed correctly. Default value is <computeroutput>false</computeroutput>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>If the document that you want to convert to RTF using Aspose.Words does not contain right-to-left text in languages like Arabic, then you can set this option to <computeroutput>true</computeroutput> to reduce the size of the resulting RTF.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to save a document to .rtf with custom options. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;RtfSaveOptions&quot;<sp/>object<sp/>to<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>save<sp/>it<sp/>to<sp/>an<sp/>RTF.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;RtfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847aca9a0e8f64d43d81dd7b0225ea1b19c5" kindref="member" tooltip="Saves the document in the RTF format. All characters above 7-bits are escaped as hexadecimal or Unico...">SaveFormat::Rtf</ref>,<sp/>options-&gt;get_SaveFormat());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ExportCompactSize&quot;<sp/>property<sp/>to<sp/>&quot;true&quot;<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>reduce<sp/>the<sp/>saved<sp/>document&apos;s<sp/>size<sp/>at<sp/>the<sp/>cost<sp/>of<sp/>right-to-left<sp/>text<sp/>compatibility.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_ExportCompactSize(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ExportImagesFotOldReaders&quot;<sp/>property<sp/>to<sp/>&quot;true&quot;<sp/>to<sp/>use<sp/>extra<sp/>keywords<sp/>to<sp/>ensure<sp/>that<sp/>our<sp/>document<sp/>is</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>compatible<sp/>with<sp/>pre-Microsoft<sp/>Word<sp/>97<sp/>readers<sp/>and<sp/>WordPad.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ExportImagesFotOldReaders&quot;<sp/>property<sp/>to<sp/>&quot;false&quot;<sp/>to<sp/>reduce<sp/>the<sp/>size<sp/>of<sp/>the<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>but<sp/>prevent<sp/>old<sp/>readers<sp/>from<sp/>being<sp/>able<sp/>to<sp/>read<sp/>any<sp/>non-metafile<sp/>or<sp/>BMP<sp/>images<sp/>that<sp/>the<sp/>document<sp/>may<sp/>contain.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_ExportImagesForOldReaders(exportImagesForOldReaders);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;RtfSaveOptions.ExportImages.rtf&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" line="118" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a2dad2569cf27cd5f162e3b479fea270b" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Saving::RtfSaveOptions::get_ExportImagesForOldReaders</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ExportImagesForOldReaders</name>
+        <qualifiedname>Aspose::Words::Saving::RtfSaveOptions::get_ExportImagesForOldReaders</qualifiedname>
+        <briefdescription>
+<para>Specifies whether the keywords for &quot;old readers&quot; are written to RTF or not. This can significantly affect the size of the RTF document. Default value is <computeroutput>true</computeroutput>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>&quot;Old readers&quot; are pre-Microsoft Word 97 applications and also WordPad. When this option is <computeroutput>true</computeroutput> Aspose.Words writes additional RTF keywords. These keywords allow the document to be displayed correctly when opened in an &quot;old reader&quot; application, but can significantly increase the size of the document.</para>
+<para>If you set this option to <computeroutput>false</computeroutput>, then only images in WMF, EMF and BMP formats will be displayed in &quot;old readers&quot;.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to save a document to .rtf with custom options. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;RtfSaveOptions&quot;<sp/>object<sp/>to<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>save<sp/>it<sp/>to<sp/>an<sp/>RTF.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;RtfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847aca9a0e8f64d43d81dd7b0225ea1b19c5" kindref="member" tooltip="Saves the document in the RTF format. All characters above 7-bits are escaped as hexadecimal or Unico...">SaveFormat::Rtf</ref>,<sp/>options-&gt;get_SaveFormat());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ExportCompactSize&quot;<sp/>property<sp/>to<sp/>&quot;true&quot;<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>reduce<sp/>the<sp/>saved<sp/>document&apos;s<sp/>size<sp/>at<sp/>the<sp/>cost<sp/>of<sp/>right-to-left<sp/>text<sp/>compatibility.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_ExportCompactSize(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ExportImagesFotOldReaders&quot;<sp/>property<sp/>to<sp/>&quot;true&quot;<sp/>to<sp/>use<sp/>extra<sp/>keywords<sp/>to<sp/>ensure<sp/>that<sp/>our<sp/>document<sp/>is</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>compatible<sp/>with<sp/>pre-Microsoft<sp/>Word<sp/>97<sp/>readers<sp/>and<sp/>WordPad.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ExportImagesFotOldReaders&quot;<sp/>property<sp/>to<sp/>&quot;false&quot;<sp/>to<sp/>reduce<sp/>the<sp/>size<sp/>of<sp/>the<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>but<sp/>prevent<sp/>old<sp/>readers<sp/>from<sp/>being<sp/>able<sp/>to<sp/>read<sp/>any<sp/>non-metafile<sp/>or<sp/>BMP<sp/>images<sp/>that<sp/>the<sp/>document<sp/>may<sp/>contain.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_ExportImagesForOldReaders(exportImagesForOldReaders);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;RtfSaveOptions.ExportImages.rtf&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" line="158" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a642b34d08cefa19eaeb8744b0459c48e" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" kindref="member">Aspose::Words::SaveFormat</ref></type>
+        <definition>Aspose::Words::SaveFormat Aspose::Words::Saving::RtfSaveOptions::get_SaveFormat</definition>
+        <argsstring>() override</argsstring>
+        <name>get_SaveFormat</name>
+        <qualifiedname>Aspose::Words::Saving::RtfSaveOptions::get_SaveFormat</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6df9e8d37cc7794640ea5c5932134253">get_SaveFormat</reimplements>
+        <briefdescription>
+<para>Specifies the format in which the document will be saved if this save options object is used. Can only be <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847aca9a0e8f64d43d81dd7b0225ea1b19c5" kindref="member">Rtf</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to save a document to .rtf with custom options. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;RtfSaveOptions&quot;<sp/>object<sp/>to<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>save<sp/>it<sp/>to<sp/>an<sp/>RTF.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;RtfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847aca9a0e8f64d43d81dd7b0225ea1b19c5" kindref="member" tooltip="Saves the document in the RTF format. All characters above 7-bits are escaped as hexadecimal or Unico...">SaveFormat::Rtf</ref>,<sp/>options-&gt;get_SaveFormat());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ExportCompactSize&quot;<sp/>property<sp/>to<sp/>&quot;true&quot;<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>reduce<sp/>the<sp/>saved<sp/>document&apos;s<sp/>size<sp/>at<sp/>the<sp/>cost<sp/>of<sp/>right-to-left<sp/>text<sp/>compatibility.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_ExportCompactSize(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ExportImagesFotOldReaders&quot;<sp/>property<sp/>to<sp/>&quot;true&quot;<sp/>to<sp/>use<sp/>extra<sp/>keywords<sp/>to<sp/>ensure<sp/>that<sp/>our<sp/>document<sp/>is</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>compatible<sp/>with<sp/>pre-Microsoft<sp/>Word<sp/>97<sp/>readers<sp/>and<sp/>WordPad.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ExportImagesFotOldReaders&quot;<sp/>property<sp/>to<sp/>&quot;false&quot;<sp/>to<sp/>reduce<sp/>the<sp/>size<sp/>of<sp/>the<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>but<sp/>prevent<sp/>old<sp/>readers<sp/>from<sp/>being<sp/>able<sp/>to<sp/>read<sp/>any<sp/>non-metafile<sp/>or<sp/>BMP<sp/>images<sp/>that<sp/>the<sp/>document<sp/>may<sp/>contain.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_ExportImagesForOldReaders(exportImagesForOldReaders);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;RtfSaveOptions.ExportImages.rtf&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" line="82" column="34"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a93a9109962aef0b45684365d6e78fc9d" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Saving::RtfSaveOptions::get_SaveImagesAsWmf</definition>
+        <argsstring>() const</argsstring>
+        <name>get_SaveImagesAsWmf</name>
+        <qualifiedname>Aspose::Words::Saving::RtfSaveOptions::get_SaveImagesAsWmf</qualifiedname>
+        <briefdescription>
+<para>When true all images will be saved as WMF. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to convert all images in a document to the Windows Metafile format as we save the document as an RTF. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Jpeg<sp/>image:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>imageShape<sp/>=<sp/>builder-&gt;InsertImage(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(ImageType::Jpeg,<sp/>imageShape-&gt;get_ImageData()-&gt;get_ImageType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertParagraph();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Png<sp/>image:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">imageShape<sp/>=<sp/>builder-&gt;InsertImage(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Transparent<sp/>background<sp/>logo.png&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(ImageType::Png,<sp/>imageShape-&gt;get_ImageData()-&gt;get_ImageType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;RtfSaveOptions&quot;<sp/>object<sp/>to<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>save<sp/>it<sp/>to<sp/>an<sp/>RTF.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>rtfSaveOptions<sp/>=<sp/>MakeObject&lt;RtfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;SaveImagesAsWmf&quot;<sp/>property<sp/>to<sp/>&quot;true&quot;<sp/>to<sp/>convert<sp/>all<sp/>images<sp/>in<sp/>the<sp/>document<sp/>to<sp/>WMF<sp/>as<sp/>we<sp/>save<sp/>it<sp/>to<sp/>RTF.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Doing<sp/>so<sp/>will<sp/>help<sp/>readers<sp/>such<sp/>as<sp/>WordPad<sp/>to<sp/>read<sp/>our<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;SaveImagesAsWmf&quot;<sp/>property<sp/>to<sp/>&quot;false&quot;<sp/>to<sp/>preserve<sp/>the<sp/>original<sp/>format<sp/>of<sp/>all<sp/>images<sp/>in<sp/>the<sp/>document</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>as<sp/>we<sp/>save<sp/>it<sp/>to<sp/>RTF.<sp/>This<sp/>will<sp/>preserve<sp/>the<sp/>quality<sp/>of<sp/>the<sp/>images<sp/>at<sp/>the<sp/>cost<sp/>of<sp/>compatibility<sp/>with<sp/>older<sp/>RTF<sp/>readers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">rtfSaveOptions-&gt;set_SaveImagesAsWmf(saveImagesAsWmf);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;RtfSaveOptions.SaveImagesAsWmf.rtf&quot;</highlight><highlight class="normal">,<sp/>rtfSaveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;RtfSaveOptions.SaveImagesAsWmf.rtf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;NodeCollection&gt;<sp/>shapes<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(saveImagesAsWmf)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(ImageType::Wmf,<sp/>(System::DynamicCast&lt;Shape&gt;(shapes-&gt;idx_get(0)))-&gt;get_ImageData()-&gt;get_ImageType());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(ImageType::Wmf,<sp/>(System::DynamicCast&lt;Shape&gt;(shapes-&gt;idx_get(1)))-&gt;get_ImageData()-&gt;get_ImageType());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(ImageType::Jpeg,<sp/>(System::DynamicCast&lt;Shape&gt;(shapes-&gt;idx_get(0)))-&gt;get_ImageData()-&gt;get_ImageType());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(ImageType::Png,<sp/>(System::DynamicCast&lt;Shape&gt;(shapes-&gt;idx_get(1)))-&gt;get_ImageData()-&gt;get_ImageType());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" line="209" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a9eedf6440e7e1a1a7f02c3e146cbc517" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::RtfSaveOptions::set_ExportCompactSize</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_ExportCompactSize</name>
+        <qualifiedname>Aspose::Words::Saving::RtfSaveOptions::set_ExportCompactSize</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1ab1074de41b23449dc260039789074860" kindref="member">Aspose::Words::Saving::RtfSaveOptions::get_ExportCompactSize</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" line="121" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a4431e8772030ca8cdb60aff963936988" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::RtfSaveOptions::set_ExportImagesForOldReaders</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_ExportImagesForOldReaders</name>
+        <qualifiedname>Aspose::Words::Saving::RtfSaveOptions::set_ExportImagesForOldReaders</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a2dad2569cf27cd5f162e3b479fea270b" kindref="member">Aspose::Words::Saving::RtfSaveOptions::get_ExportImagesForOldReaders</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" line="161" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a1996407ed02ac47229ae91fcf36c1152" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::RtfSaveOptions::set_SaveFormat</definition>
+        <argsstring>(Aspose::Words::SaveFormat value) override</argsstring>
+        <name>set_SaveFormat</name>
+        <qualifiedname>Aspose::Words::Saving::RtfSaveOptions::set_SaveFormat</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a75d9ec81ad960179eba172764d2c60b9">set_SaveFormat</reimplements>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" kindref="member">Aspose::Words::SaveFormat</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a642b34d08cefa19eaeb8744b0459c48e" kindref="member">Aspose::Words::Saving::RtfSaveOptions::get_SaveFormat</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" line="85" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a40dc75bbc3c798b57aebc17fd1404e68" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::RtfSaveOptions::set_SaveImagesAsWmf</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_SaveImagesAsWmf</name>
+        <qualifiedname>Aspose::Words::Saving::RtfSaveOptions::set_SaveImagesAsWmf</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a93a9109962aef0b45684365d6e78fc9d" kindref="member">Aspose::Words::Saving::RtfSaveOptions::get_SaveImagesAsWmf</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" line="212" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Can be used to specify additional options when saving a document into the <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847aca9a0e8f64d43d81dd7b0225ea1b19c5" kindref="member">Rtf</ref> format. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to save a document to .rtf with custom options. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;RtfSaveOptions&quot;<sp/>object<sp/>to<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>save<sp/>it<sp/>to<sp/>an<sp/>RTF.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;RtfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847aca9a0e8f64d43d81dd7b0225ea1b19c5" kindref="member" tooltip="Saves the document in the RTF format. All characters above 7-bits are escaped as hexadecimal or Unico...">SaveFormat::Rtf</ref>,<sp/>options-&gt;get_SaveFormat());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ExportCompactSize&quot;<sp/>property<sp/>to<sp/>&quot;true&quot;<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>reduce<sp/>the<sp/>saved<sp/>document&apos;s<sp/>size<sp/>at<sp/>the<sp/>cost<sp/>of<sp/>right-to-left<sp/>text<sp/>compatibility.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_ExportCompactSize(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ExportImagesFotOldReaders&quot;<sp/>property<sp/>to<sp/>&quot;true&quot;<sp/>to<sp/>use<sp/>extra<sp/>keywords<sp/>to<sp/>ensure<sp/>that<sp/>our<sp/>document<sp/>is</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>compatible<sp/>with<sp/>pre-Microsoft<sp/>Word<sp/>97<sp/>readers<sp/>and<sp/>WordPad.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ExportImagesFotOldReaders&quot;<sp/>property<sp/>to<sp/>&quot;false&quot;<sp/>to<sp/>reduce<sp/>the<sp/>size<sp/>of<sp/>the<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>but<sp/>prevent<sp/>old<sp/>readers<sp/>from<sp/>being<sp/>able<sp/>to<sp/>read<sp/>any<sp/>non-metafile<sp/>or<sp/>BMP<sp/>images<sp/>that<sp/>the<sp/>document<sp/>may<sp/>contain.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_ExportImagesForOldReaders(exportImagesForOldReaders);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;RtfSaveOptions.ExportImages.rtf&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::RtfSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Saving::SaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_save_options"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::RtfSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Saving::SaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_save_options"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" line="46" column="1" bodyfile="Aspose.Words.Cpp/Saving/RtfSaveOptions.h" bodystart="47" bodyend="228"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a4d077cd1019a2d83970890f427c8b046" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a5f8b7264160980e775d0ebc2bb87ec6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>CreateSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a92aa5f878a1d0f3e06f620fd1376142f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>CreateSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9fecca2156a70f1834bd1c913a129d47" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>get_AllowEmbeddingPostScriptFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab9a4c7be9e7070ecbd5248bf01535ef3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>get_CustomTimeZoneInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a327b0f9146d84c39d72f09dffb55970d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>get_DefaultTemplate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ac309d37b349e0fd18de204c4b3493113" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>get_Dml3DEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0ad6a41669029f8bcb5d56ccd8eb1f25" prot="public" virt="virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>get_DmlEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a40d3faab0e88622c6fac579bbc050772" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>get_DmlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1ab1074de41b23449dc260039789074860" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>get_ExportCompactSize</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1add57516835dfbc84b4ac55117e03a6a5" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>get_ExportGeneratorName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a2dad2569cf27cd5f162e3b479fea270b" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>get_ExportImagesForOldReaders</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab3a4c36623e1cba81e21fb0c18fc27d6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>get_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a4032bbd708177dd64e3ba455a509e470" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>get_ImlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a00434e0916cf24f88a1cff9f4952bff3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>get_MemoryOptimization</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1af3590697cf94e5b1f546536a3bb20089" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>get_PrettyFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aabbd691992af320129ecf001454428b1" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>get_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a642b34d08cefa19eaeb8744b0459c48e" prot="public" virt="virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>get_SaveFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a93a9109962aef0b45684365d6e78fc9d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>get_SaveImagesAsWmf</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2eb22d168e7885c69f1a5ee73dfa9a9c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>get_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aafd986a59939576b688baf70ae2982b9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>get_UpdateCreatedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9058403d0bf8ef363c7265927c7d9689" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>get_UpdateFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ae00124e73b7ed35821a822f59a98456d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>get_UpdateLastPrintedProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aa37a14113e46f96d6a4100f33dbb41cd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>get_UpdateLastSavedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6ba4c67d7befc1d3959119554bc6ca0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>get_UpdateSdtContent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ac07a919eda7dd3104c3539643caab82f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>get_UseAntiAliasing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a926127b8a13db96c893d2e327d1ac458" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>get_UseHighQualityRendering</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1afecd5e41540d9e7da444a0d5dd791f54" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a7e396c434cdd3ebd7ed0f7f267733323" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a30a73fe7c6f799b2d2053a0f23b68070" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1ab46832104c0bb821347dce9f9e22c011" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a5a301bc2423d0ec8cc116d02cfb51e39" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a352aaa72e1dd61cb6c7762410bb711ed" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>RtfSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1ab9471e1f4a0f1513382c56f61d3bc2c9" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9bf0591a869b2046558fac161fb5c8b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>set_AllowEmbeddingPostScriptFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a70292d5b6ed5dd4ed81ab6779ada5037" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>set_CustomTimeZoneInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6d50c71651e23523dd4edae9c8e03b0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>set_DefaultTemplate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a52f28c6f920bd4829f304f586dd52a4e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>set_Dml3DEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0415bb8f17f114f5b8bfbf77822f3e33" prot="public" virt="virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>set_DmlEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a925282153c1c7004637ce406968cd6bd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>set_DmlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a9eedf6440e7e1a1a7f02c3e146cbc517" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>set_ExportCompactSize</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2b3bada9094a54559b832d5051f5be6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>set_ExportGeneratorName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a4431e8772030ca8cdb60aff963936988" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>set_ExportImagesForOldReaders</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f2f79ea57714961156f913867823fc2" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>set_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afe2fd3cb5119a04f528a9da4b6c643b6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>set_ImlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1b432af0d799842b6939005904d924b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>set_MemoryOptimization</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0333c9e934c7b7066c108975a65291c9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>set_PrettyFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3ca5c36f7f1922b1f7b1f6e8528e29c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>set_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a1996407ed02ac47229ae91fcf36c1152" prot="public" virt="virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>set_SaveFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a40dc75bbc3c798b57aebc17fd1404e68" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>set_SaveImagesAsWmf</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a7488c6e1d35b21dda1fb3a6b24eb077c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>set_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aa6b3c59d2b5d93ecd4af333e7731a57a" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>set_UpdateCreatedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1ca0e9e7685d9cfdacad9b0c1c47fede" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>set_UpdateFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9253b0a7481cec6751f2d6e186d15f89" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>set_UpdateLastPrintedProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f8626f9e2fdd5ea38f656ecffea4433" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>set_UpdateLastSavedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afc31fd439351d75447554d3196522687" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>set_UpdateSdtContent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aee6a47d5aa51895c89fb99333990b15c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>set_UseAntiAliasing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aadd8de8195c06388cf619673c020dad3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>set_UseHighQualityRendering</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a02035f5af99b71072ed407f75fed784c" prot="private" virt="virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>SetTestMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a5243d2b88e17d54c4a01bffd7883809e" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_rtf_save_options_1a0e0591225d2bed9a787b900d6f4a6775" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::RtfSaveOptions</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

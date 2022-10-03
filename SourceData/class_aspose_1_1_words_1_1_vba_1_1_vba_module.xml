@@ -1,0 +1,530 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_vba_1_1_vba_module" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Vba::VbaModule</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_vba_2_vba_module_8h" local="no">Aspose.Words.Cpp/Vba/VbaModule.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a5af554401705f2538c0c1bce354a05d8" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Vba::VbaModule::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Vba::VbaModule::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="70" column="28" bodyfile="Aspose.Words.Cpp/Vba/VbaModule.h" bodystart="70" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1abb04100fce4f17c0e693696146e3e099" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module" kindref="compound">VbaModule</ref></type>
+        <definition>typedef VbaModule Aspose::Words::Vba::VbaModule::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Vba::VbaModule::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="69" column="23" bodyfile="Aspose.Words.Cpp/Vba/VbaModule.h" bodystart="69" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1ad24f3ae10fe4d5872c81ea9ae49b65c9" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Vba::VbaModule::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Vba::VbaModule::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="72" column="37" bodyfile="Aspose.Words.Cpp/Vba/VbaModule.h" bodystart="72" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a3d2c89086b1a27e3c7e18973eb94ad06" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Vba::VbaModule::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Vba::VbaModule::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="277" column="20" bodyfile="Aspose.Words.Cpp/Vba/VbaModule.h" bodystart="277" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a601c19643e9a17edaf5d286e46dde784" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Vba::VbaModule::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Vba::VbaModule::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="278" column="20" bodyfile="Aspose.Words.Cpp/Vba/VbaModule.h" bodystart="278" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a40025ef3338f4f389b7cc491c085f92b" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Vba::VbaModule::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Vba::VbaModule::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="279" column="20" bodyfile="Aspose.Words.Cpp/Vba/VbaModule.h" bodystart="279" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a98d5d1b72a373d54fc0ac401a7cc8b26" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Vba::VbaModule::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Vba::VbaModule::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="280" column="23" bodyfile="Aspose.Words.Cpp/Vba/VbaModule.h" bodystart="280" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a1d9027e5a25634f0cf0778d1d1fbd42f" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Vba::VbaModule::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Vba::VbaModule::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="281" column="23" bodyfile="Aspose.Words.Cpp/Vba/VbaModule.h" bodystart="281" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a8bd1a9f8d67fd1035b82e7c7273ba2ee" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Vba::VbaModule::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::Vba::VbaModule::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="282" column="23" bodyfile="Aspose.Words.Cpp/Vba/VbaModule.h" bodystart="282" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1af99991d074a18d2e3b1231cee921c827" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::Vba::VbaModule::mField6</definition>
+        <argsstring></argsstring>
+        <name>mField6</name>
+        <qualifiedname>Aspose::Words::Vba::VbaModule::mField6</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="283" column="21" bodyfile="Aspose.Words.Cpp/Vba/VbaModule.h" bodystart="283" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1af3507a3f3b772cb788b2c81d1fcd67c0" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Vba::VbaModule::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Vba::VbaModule::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="73" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a9e21479bb5c8df1faf869c00d1856747" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Vba::VbaModule::VbaModule</definition>
+        <argsstring>()</argsstring>
+        <name>VbaModule</name>
+        <qualifiedname>Aspose::Words::Vba::VbaModule::VbaModule</qualifiedname>
+        <briefdescription>
+<para>Creates an empty module. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create a VBA project using macros. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>new<sp/>VBA<sp/>project.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>project<sp/>=<sp/>MakeObject&lt;VbaProject&gt;();</highlight></codeline>
+<codeline><highlight class="normal">project-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Aspose.Project&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_VbaProject(project);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>new<sp/>module<sp/>and<sp/>specify<sp/>a<sp/>macro<sp/>source<sp/>code.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>module_<sp/>=<sp/>MakeObject&lt;VbaModule&gt;();</highlight></codeline>
+<codeline><highlight class="normal">module_-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Aspose.Module&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">module_-&gt;set_Type(<ref refid="namespace_aspose_1_1_words_1_1_vba_1afd5ebcd4b503fc52ecfef9f34d8e83a2a668d9e381c208001dc3a36fabb5866ad" kindref="member" tooltip="A collection of subroutines and functions.">VbaModuleType::ProceduralModule</ref>);</highlight></codeline>
+<codeline><highlight class="normal">module_-&gt;set_SourceCode(u</highlight><highlight class="stringliteral">&quot;New<sp/>source<sp/>code&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>the<sp/>module<sp/>to<sp/>the<sp/>VBA<sp/>project.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_VbaProject()-&gt;get_Modules()-&gt;Add(module_);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;VbaProject.CreateVBAMacros.docm&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="246" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a241e1d5ecd3ba2059ca9e391b3df09fa" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module" kindref="compound">Aspose::Words::Vba::VbaModule</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Vba::VbaModule &gt; Aspose::Words::Vba::VbaModule::Clone</definition>
+        <argsstring>()</argsstring>
+        <name>Clone</name>
+        <qualifiedname>Aspose::Words::Vba::VbaModule::Clone</qualifiedname>
+        <briefdescription>
+<para>Performs a copy of the <ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module" kindref="compound">VbaModule</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>The cloned <ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module" kindref="compound">VbaModule</ref>.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to deep clone a VBA project and module. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;VBA<sp/>project.docm&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>destDoc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;VbaProject&gt;<sp/>copyVbaProject<sp/>=<sp/>doc-&gt;get_VbaProject()-&gt;Clone();</highlight></codeline>
+<codeline><highlight class="normal">destDoc-&gt;set_VbaProject(copyVbaProject);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>the<sp/>destination<sp/>document,<sp/>we<sp/>already<sp/>have<sp/>a<sp/>module<sp/>named<sp/>&quot;Module1&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>because<sp/>we<sp/>cloned<sp/>it<sp/>along<sp/>with<sp/>the<sp/>project.<sp/>We<sp/>will<sp/>need<sp/>to<sp/>remove<sp/>the<sp/>module.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;VbaModule&gt;<sp/>oldVbaModule<sp/>=<sp/>destDoc-&gt;get_VbaProject()-&gt;get_Modules()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Module1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;VbaModule&gt;<sp/>copyVbaModule<sp/>=<sp/>doc-&gt;get_VbaProject()-&gt;get_Modules()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Module1&quot;</highlight><highlight class="normal">)-&gt;Clone();</highlight></codeline>
+<codeline><highlight class="normal">destDoc-&gt;get_VbaProject()-&gt;get_Modules()-&gt;Remove(oldVbaModule);</highlight></codeline>
+<codeline><highlight class="normal">destDoc-&gt;get_VbaProject()-&gt;get_Modules()-&gt;Add(copyVbaModule);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">destDoc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;VbaProject.CloneVbaProject.docm&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="271" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a58bc9bb12c5fe913abee824b922d14f8" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Vba::VbaModule::get_Name</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Name</name>
+        <qualifiedname>Aspose::Words::Vba::VbaModule::get_Name</qualifiedname>
+        <briefdescription>
+<para>Gets or sets VBA project module name. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access a document&apos;s VBA project information. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;VBA<sp/>project.docm&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>VBA<sp/>project<sp/>contains<sp/>a<sp/>collection<sp/>of<sp/>VBA<sp/>modules.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;VbaProject&gt;<sp/>vbaProject<sp/>=<sp/>doc-&gt;get_VbaProject();</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/>(vbaProject-&gt;get_IsSigned()<sp/>?<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;Project<sp/>name:<sp/>{0}<sp/>signed;<sp/>Project<sp/>code<sp/>page:<sp/>{1};<sp/>Modules<sp/>count:<sp/>{2}\n&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>vbaProject-&gt;get_Name(),<sp/>vbaProject-&gt;get_CodePage(),<sp/>vbaProject-&gt;get_Modules()-&gt;LINQ_Count())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>:<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>::<ref refid="namespace_aspose_1_1_words_1_1_layout_1adb5f76ea5244567304b83f53d4477351a520d0db389f362bf79ef56ca0af3dcab" kindref="member" tooltip="Renders insert and delete revisions inline, format revisions in balloons.">Format</ref>(u</highlight><highlight class="stringliteral">&quot;Project<sp/>name:<sp/>{0}<sp/>not<sp/>signed;<sp/>Project<sp/>code<sp/>page:<sp/>{1};<sp/>Modules<sp/>count:<sp/>{2}\n&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>vbaProject-&gt;<ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a58bc9bb12c5fe913abee824b922d14f8" kindref="member" tooltip="Gets or sets VBA project module name.">get_Name</ref>(),<sp/>vbaProject-&gt;get_CodePage(),<sp/>vbaProject-&gt;get_Modules()-&gt;LINQ_Count()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;VbaModuleCollection&gt;<sp/>vbaModules<sp/>=<sp/>doc-&gt;get_VbaProject()-&gt;get_Modules();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(vbaModules-&gt;LINQ_Count(),<sp/>3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>module_<sp/>:<sp/>vbaModules)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Module<sp/>name:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>module_-&gt;get_Name()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;;\nModule<sp/>code:\n&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>module_-&gt;get_SourceCode()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\n&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>new<sp/>source<sp/>code<sp/>for<sp/>VBA<sp/>module.<sp/>You<sp/>can<sp/>access<sp/>VBA<sp/>modules<sp/>in<sp/>the<sp/>collection<sp/>either<sp/>by<sp/>index<sp/>or<sp/>by<sp/>name.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">vbaModules-&gt;idx_get(0)-&gt;set_SourceCode(u</highlight><highlight class="stringliteral">&quot;Your<sp/>VBA<sp/>code...&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">vbaModules-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Module1&quot;</highlight><highlight class="normal">)-&gt;set_SourceCode(u</highlight><highlight class="stringliteral">&quot;Your<sp/>VBA<sp/>code...&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>a<sp/>module<sp/>from<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">vbaModules-&gt;Remove(vbaModules-&gt;idx_get(2));</highlight></codeline>
+</programlisting></para>
+<para>Shows how to create a VBA project using macros. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>new<sp/>VBA<sp/>project.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>project<sp/>=<sp/>MakeObject&lt;VbaProject&gt;();</highlight></codeline>
+<codeline><highlight class="normal">project-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Aspose.Project&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_VbaProject(project);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>new<sp/>module<sp/>and<sp/>specify<sp/>a<sp/>macro<sp/>source<sp/>code.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>module_<sp/>=<sp/>MakeObject&lt;VbaModule&gt;();</highlight></codeline>
+<codeline><highlight class="normal">module_-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Aspose.Module&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">module_-&gt;set_Type(<ref refid="namespace_aspose_1_1_words_1_1_vba_1afd5ebcd4b503fc52ecfef9f34d8e83a2a668d9e381c208001dc3a36fabb5866ad" kindref="member" tooltip="A collection of subroutines and functions.">VbaModuleType::ProceduralModule</ref>);</highlight></codeline>
+<codeline><highlight class="normal">module_-&gt;set_SourceCode(u</highlight><highlight class="stringliteral">&quot;New<sp/>source<sp/>code&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>the<sp/>module<sp/>to<sp/>the<sp/>VBA<sp/>project.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_VbaProject()-&gt;get_Modules()-&gt;Add(module_);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;VbaProject.CreateVBAMacros.docm&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="130" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a1a51f2e6dad9d7a65512ee98e152f9ca" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Vba::VbaModule::get_SourceCode</definition>
+        <argsstring>() const</argsstring>
+        <name>get_SourceCode</name>
+        <qualifiedname>Aspose::Words::Vba::VbaModule::get_SourceCode</qualifiedname>
+        <briefdescription>
+<para>Gets or sets VBA project module source code. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access a document&apos;s VBA project information. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;VBA<sp/>project.docm&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>VBA<sp/>project<sp/>contains<sp/>a<sp/>collection<sp/>of<sp/>VBA<sp/>modules.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;VbaProject&gt;<sp/>vbaProject<sp/>=<sp/>doc-&gt;get_VbaProject();</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/>(vbaProject-&gt;get_IsSigned()<sp/>?<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;Project<sp/>name:<sp/>{0}<sp/>signed;<sp/>Project<sp/>code<sp/>page:<sp/>{1};<sp/>Modules<sp/>count:<sp/>{2}\n&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>vbaProject-&gt;get_Name(),<sp/>vbaProject-&gt;get_CodePage(),<sp/>vbaProject-&gt;get_Modules()-&gt;LINQ_Count())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>:<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>::<ref refid="namespace_aspose_1_1_words_1_1_layout_1adb5f76ea5244567304b83f53d4477351a520d0db389f362bf79ef56ca0af3dcab" kindref="member" tooltip="Renders insert and delete revisions inline, format revisions in balloons.">Format</ref>(u</highlight><highlight class="stringliteral">&quot;Project<sp/>name:<sp/>{0}<sp/>not<sp/>signed;<sp/>Project<sp/>code<sp/>page:<sp/>{1};<sp/>Modules<sp/>count:<sp/>{2}\n&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>vbaProject-&gt;<ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a58bc9bb12c5fe913abee824b922d14f8" kindref="member" tooltip="Gets or sets VBA project module name.">get_Name</ref>(),<sp/>vbaProject-&gt;get_CodePage(),<sp/>vbaProject-&gt;get_Modules()-&gt;LINQ_Count()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;VbaModuleCollection&gt;<sp/>vbaModules<sp/>=<sp/>doc-&gt;get_VbaProject()-&gt;get_Modules();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(vbaModules-&gt;LINQ_Count(),<sp/>3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>module_<sp/>:<sp/>vbaModules)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Module<sp/>name:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>module_-&gt;get_Name()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;;\nModule<sp/>code:\n&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>module_-&gt;get_SourceCode()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\n&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>new<sp/>source<sp/>code<sp/>for<sp/>VBA<sp/>module.<sp/>You<sp/>can<sp/>access<sp/>VBA<sp/>modules<sp/>in<sp/>the<sp/>collection<sp/>either<sp/>by<sp/>index<sp/>or<sp/>by<sp/>name.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">vbaModules-&gt;idx_get(0)-&gt;set_SourceCode(u</highlight><highlight class="stringliteral">&quot;Your<sp/>VBA<sp/>code...&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">vbaModules-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Module1&quot;</highlight><highlight class="normal">)-&gt;set_SourceCode(u</highlight><highlight class="stringliteral">&quot;Your<sp/>VBA<sp/>code...&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>a<sp/>module<sp/>from<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">vbaModules-&gt;Remove(vbaModules-&gt;idx_get(2));</highlight></codeline>
+</programlisting></para>
+<para>Shows how to create a VBA project using macros. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>new<sp/>VBA<sp/>project.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>project<sp/>=<sp/>MakeObject&lt;VbaProject&gt;();</highlight></codeline>
+<codeline><highlight class="normal">project-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Aspose.Project&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_VbaProject(project);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>new<sp/>module<sp/>and<sp/>specify<sp/>a<sp/>macro<sp/>source<sp/>code.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>module_<sp/>=<sp/>MakeObject&lt;VbaModule&gt;();</highlight></codeline>
+<codeline><highlight class="normal">module_-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Aspose.Module&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">module_-&gt;set_Type(<ref refid="namespace_aspose_1_1_words_1_1_vba_1afd5ebcd4b503fc52ecfef9f34d8e83a2a668d9e381c208001dc3a36fabb5866ad" kindref="member" tooltip="A collection of subroutines and functions.">VbaModuleType::ProceduralModule</ref>);</highlight></codeline>
+<codeline><highlight class="normal">module_-&gt;set_SourceCode(u</highlight><highlight class="stringliteral">&quot;New<sp/>source<sp/>code&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>the<sp/>module<sp/>to<sp/>the<sp/>VBA<sp/>project.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_VbaProject()-&gt;get_Modules()-&gt;Add(module_);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;VbaProject.CreateVBAMacros.docm&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="188" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a4eb751de3f158ae4b9fe7b82d01d0768" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_vba_1afd5ebcd4b503fc52ecfef9f34d8e83a2" kindref="member">Aspose::Words::Vba::VbaModuleType</ref></type>
+        <definition>Aspose::Words::Vba::VbaModuleType Aspose::Words::Vba::VbaModule::get_Type</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Type</name>
+        <qualifiedname>Aspose::Words::Vba::VbaModule::get_Type</qualifiedname>
+        <briefdescription>
+<para>Specifies whether the module is a procedural module, document module, class module, or designer module. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create a VBA project using macros. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>new<sp/>VBA<sp/>project.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>project<sp/>=<sp/>MakeObject&lt;VbaProject&gt;();</highlight></codeline>
+<codeline><highlight class="normal">project-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Aspose.Project&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_VbaProject(project);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>new<sp/>module<sp/>and<sp/>specify<sp/>a<sp/>macro<sp/>source<sp/>code.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>module_<sp/>=<sp/>MakeObject&lt;VbaModule&gt;();</highlight></codeline>
+<codeline><highlight class="normal">module_-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Aspose.Module&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">module_-&gt;set_Type(<ref refid="namespace_aspose_1_1_words_1_1_vba_1afd5ebcd4b503fc52ecfef9f34d8e83a2a668d9e381c208001dc3a36fabb5866ad" kindref="member" tooltip="A collection of subroutines and functions.">VbaModuleType::ProceduralModule</ref>);</highlight></codeline>
+<codeline><highlight class="normal">module_-&gt;set_SourceCode(u</highlight><highlight class="stringliteral">&quot;New<sp/>source<sp/>code&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>the<sp/>module<sp/>to<sp/>the<sp/>VBA<sp/>project.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_VbaProject()-&gt;get_Modules()-&gt;Add(module_);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;VbaProject.CreateVBAMacros.docm&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="217" column="42"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a2c8b94c5962353a692faf926551d1997" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Vba::VbaModule::set_Name</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Name</name>
+        <qualifiedname>Aspose::Words::Vba::VbaModule::set_Name</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a58bc9bb12c5fe913abee824b922d14f8" kindref="member">Aspose::Words::Vba::VbaModule::get_Name</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="133" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a942457be8c147ddb287bb6768c6d1a49" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Vba::VbaModule::set_SourceCode</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_SourceCode</name>
+        <qualifiedname>Aspose::Words::Vba::VbaModule::set_SourceCode</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a1a51f2e6dad9d7a65512ee98e152f9ca" kindref="member">Aspose::Words::Vba::VbaModule::get_SourceCode</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="191" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a8da0beb0848553ae33ce038cc7dc942b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Vba::VbaModule::set_Type</definition>
+        <argsstring>(Aspose::Words::Vba::VbaModuleType value)</argsstring>
+        <name>set_Type</name>
+        <qualifiedname>Aspose::Words::Vba::VbaModule::set_Type</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_vba_1afd5ebcd4b503fc52ecfef9f34d8e83a2" kindref="member">Aspose::Words::Vba::VbaModuleType</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a4eb751de3f158ae4b9fe7b82d01d0768" kindref="member">Aspose::Words::Vba::VbaModule::get_Type</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="220" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Provides access to VBA project module. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access a document&apos;s VBA project information. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;VBA<sp/>project.docm&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>VBA<sp/>project<sp/>contains<sp/>a<sp/>collection<sp/>of<sp/>VBA<sp/>modules.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;VbaProject&gt;<sp/>vbaProject<sp/>=<sp/>doc-&gt;get_VbaProject();</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/>(vbaProject-&gt;get_IsSigned()<sp/>?<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;Project<sp/>name:<sp/>{0}<sp/>signed;<sp/>Project<sp/>code<sp/>page:<sp/>{1};<sp/>Modules<sp/>count:<sp/>{2}\n&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>vbaProject-&gt;get_Name(),<sp/>vbaProject-&gt;get_CodePage(),<sp/>vbaProject-&gt;get_Modules()-&gt;LINQ_Count())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>:<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>::<ref refid="namespace_aspose_1_1_words_1_1_layout_1adb5f76ea5244567304b83f53d4477351a520d0db389f362bf79ef56ca0af3dcab" kindref="member" tooltip="Renders insert and delete revisions inline, format revisions in balloons.">Format</ref>(u</highlight><highlight class="stringliteral">&quot;Project<sp/>name:<sp/>{0}<sp/>not<sp/>signed;<sp/>Project<sp/>code<sp/>page:<sp/>{1};<sp/>Modules<sp/>count:<sp/>{2}\n&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>vbaProject-&gt;<ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a58bc9bb12c5fe913abee824b922d14f8" kindref="member" tooltip="Gets or sets VBA project module name.">get_Name</ref>(),<sp/>vbaProject-&gt;get_CodePage(),<sp/>vbaProject-&gt;get_Modules()-&gt;LINQ_Count()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;VbaModuleCollection&gt;<sp/>vbaModules<sp/>=<sp/>doc-&gt;get_VbaProject()-&gt;get_Modules();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(vbaModules-&gt;LINQ_Count(),<sp/>3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>module_<sp/>:<sp/>vbaModules)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Module<sp/>name:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>module_-&gt;get_Name()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;;\nModule<sp/>code:\n&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>module_-&gt;get_SourceCode()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\n&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>new<sp/>source<sp/>code<sp/>for<sp/>VBA<sp/>module.<sp/>You<sp/>can<sp/>access<sp/>VBA<sp/>modules<sp/>in<sp/>the<sp/>collection<sp/>either<sp/>by<sp/>index<sp/>or<sp/>by<sp/>name.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">vbaModules-&gt;idx_get(0)-&gt;set_SourceCode(u</highlight><highlight class="stringliteral">&quot;Your<sp/>VBA<sp/>code...&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">vbaModules-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Module1&quot;</highlight><highlight class="normal">)-&gt;set_SourceCode(u</highlight><highlight class="stringliteral">&quot;Your<sp/>VBA<sp/>code...&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>a<sp/>module<sp/>from<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">vbaModules-&gt;Remove(vbaModules-&gt;idx_get(2));</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Vba::VbaModule</label>
+        <link refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Vba::VbaModule</label>
+        <link refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Vba/VbaModule.h" line="67" column="1" bodyfile="Aspose.Words.Cpp/Vba/VbaModule.h" bodystart="68" bodyend="285"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a5af554401705f2538c0c1bce354a05d8" prot="private" virt="non-virtual"><scope>Aspose::Words::Vba::VbaModule</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a241e1d5ecd3ba2059ca9e391b3df09fa" prot="public" virt="non-virtual"><scope>Aspose::Words::Vba::VbaModule</scope><name>Clone</name></member>
+      <member refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a58bc9bb12c5fe913abee824b922d14f8" prot="public" virt="non-virtual"><scope>Aspose::Words::Vba::VbaModule</scope><name>get_Name</name></member>
+      <member refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a1a51f2e6dad9d7a65512ee98e152f9ca" prot="public" virt="non-virtual"><scope>Aspose::Words::Vba::VbaModule</scope><name>get_SourceCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a4eb751de3f158ae4b9fe7b82d01d0768" prot="public" virt="non-virtual"><scope>Aspose::Words::Vba::VbaModule</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a3d2c89086b1a27e3c7e18973eb94ad06" prot="private" virt="non-virtual"><scope>Aspose::Words::Vba::VbaModule</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a601c19643e9a17edaf5d286e46dde784" prot="private" virt="non-virtual"><scope>Aspose::Words::Vba::VbaModule</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a40025ef3338f4f389b7cc491c085f92b" prot="private" virt="non-virtual"><scope>Aspose::Words::Vba::VbaModule</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a98d5d1b72a373d54fc0ac401a7cc8b26" prot="private" virt="non-virtual"><scope>Aspose::Words::Vba::VbaModule</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a1d9027e5a25634f0cf0778d1d1fbd42f" prot="private" virt="non-virtual"><scope>Aspose::Words::Vba::VbaModule</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a8bd1a9f8d67fd1035b82e7c7273ba2ee" prot="private" virt="non-virtual"><scope>Aspose::Words::Vba::VbaModule</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1af99991d074a18d2e3b1231cee921c827" prot="private" virt="non-virtual"><scope>Aspose::Words::Vba::VbaModule</scope><name>mField6</name></member>
+      <member refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1af3507a3f3b772cb788b2c81d1fcd67c0" prot="private" virt="non-virtual"><scope>Aspose::Words::Vba::VbaModule</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a2c8b94c5962353a692faf926551d1997" prot="public" virt="non-virtual"><scope>Aspose::Words::Vba::VbaModule</scope><name>set_Name</name></member>
+      <member refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a942457be8c147ddb287bb6768c6d1a49" prot="public" virt="non-virtual"><scope>Aspose::Words::Vba::VbaModule</scope><name>set_SourceCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a8da0beb0848553ae33ce038cc7dc942b" prot="public" virt="non-virtual"><scope>Aspose::Words::Vba::VbaModule</scope><name>set_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1abb04100fce4f17c0e693696146e3e099" prot="private" virt="non-virtual"><scope>Aspose::Words::Vba::VbaModule</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1ad24f3ae10fe4d5872c81ea9ae49b65c9" prot="private" virt="non-virtual"><scope>Aspose::Words::Vba::VbaModule</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module_1a9e21479bb5c8df1faf869c00d1856747" prot="public" virt="non-virtual"><scope>Aspose::Words::Vba::VbaModule</scope><name>VbaModule</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

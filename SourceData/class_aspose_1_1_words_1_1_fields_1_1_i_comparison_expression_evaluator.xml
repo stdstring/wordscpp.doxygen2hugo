@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_i_comparison_expression_evaluator" kind="interface" language="C++" prot="public" abstract="yes">
+    <compoundname>Aspose::Words::Fields::IComparisonExpressionEvaluator</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_i_comparison_expression_evaluator_8h" local="no">Aspose.Words.Cpp/Fields/IComparisonExpressionEvaluator.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_i_comparison_expression_evaluator_1a76d8e9a09047b47977e2135f60dc1b39" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Fields::IComparisonExpressionEvaluator::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::IComparisonExpressionEvaluator::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/IComparisonExpressionEvaluator.h" line="41" column="28" bodyfile="Aspose.Words.Cpp/Fields/IComparisonExpressionEvaluator.h" bodystart="41" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_i_comparison_expression_evaluator_1a50d2bd11105034383b02f2bb1a4bae4e" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_i_comparison_expression_evaluator" kindref="compound">IComparisonExpressionEvaluator</ref></type>
+        <definition>typedef IComparisonExpressionEvaluator Aspose::Words::Fields::IComparisonExpressionEvaluator::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::IComparisonExpressionEvaluator::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/IComparisonExpressionEvaluator.h" line="40" column="44" bodyfile="Aspose.Words.Cpp/Fields/IComparisonExpressionEvaluator.h" bodystart="40" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_i_comparison_expression_evaluator_1a3155a1b0fb9b7d308b8e34541afb1391" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Fields::IComparisonExpressionEvaluator::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::IComparisonExpressionEvaluator::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/IComparisonExpressionEvaluator.h" line="43" column="37" bodyfile="Aspose.Words.Cpp/Fields/IComparisonExpressionEvaluator.h" bodystart="43" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_i_comparison_expression_evaluator_1af681bc4ac291e368a3f16e18f0cc5633" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::IComparisonExpressionEvaluator::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::IComparisonExpressionEvaluator::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/IComparisonExpressionEvaluator.h" line="44" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_i_comparison_expression_evaluator_1a889bc745518815302ff04def23d35499" prot="public" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_comparison_evaluation_result" kindref="compound">Aspose::Words::Fields::ComparisonEvaluationResult</ref> &gt;</type>
+        <definition>virtual System::SharedPtr&lt; Aspose::Words::Fields::ComparisonEvaluationResult &gt; Aspose::Words::Fields::IComparisonExpressionEvaluator::Evaluate</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::Fields::Field &gt; field, System::SharedPtr&lt; Aspose::Words::Fields::ComparisonExpression &gt; expression)=0</argsstring>
+        <name>Evaluate</name>
+        <qualifiedname>Aspose::Words::Fields::IComparisonExpressionEvaluator::Evaluate</qualifiedname>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref> &gt;</type>
+          <declname>field</declname>
+        </param>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_comparison_expression" kindref="compound">Aspose::Words::Fields::ComparisonExpression</ref> &gt;</type>
+          <declname>expression</declname>
+        </param>
+        <briefdescription>
+<para>Evaluates comparison expression. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/IComparisonExpressionEvaluator.h" line="49" column="31"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>When implemented, allows to override default comparison expressions evaluation for the <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_if" kindref="compound">FieldIf</ref> and <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_compare" kindref="compound">FieldCompare</ref> fields. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_options_1afd8073c5f8ed694f9ee18c7f5bd978d3" kindref="member">Aspose::Words::Fields::FieldOptions::get_ComparisonExpressionEvaluator</ref> </para>
+</simplesect>
+</para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Fields::IComparisonExpressionEvaluator</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_i_comparison_expression_evaluator"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Fields::IComparisonExpressionEvaluator</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_i_comparison_expression_evaluator"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/IComparisonExpressionEvaluator.h" line="38" column="1" bodyfile="Aspose.Words.Cpp/Fields/IComparisonExpressionEvaluator.h" bodystart="39" bodyend="51"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_i_comparison_expression_evaluator_1a76d8e9a09047b47977e2135f60dc1b39" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::IComparisonExpressionEvaluator</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_i_comparison_expression_evaluator_1a889bc745518815302ff04def23d35499" prot="public" virt="pure-virtual"><scope>Aspose::Words::Fields::IComparisonExpressionEvaluator</scope><name>Evaluate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_i_comparison_expression_evaluator_1af681bc4ac291e368a3f16e18f0cc5633" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::IComparisonExpressionEvaluator</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_i_comparison_expression_evaluator_1a50d2bd11105034383b02f2bb1a4bae4e" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::IComparisonExpressionEvaluator</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_i_comparison_expression_evaluator_1a3155a1b0fb9b7d308b8e34541afb1391" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::IComparisonExpressionEvaluator</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

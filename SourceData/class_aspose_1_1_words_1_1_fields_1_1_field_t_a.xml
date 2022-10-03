@@ -1,0 +1,1210 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_field_t_a" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::FieldTA</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field" prot="public" virt="non-virtual">Aspose::Words::Fields::Field</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IFieldCodeTokenInfoProvider</basecompoundref>
+    <includes refid="_field_t_a_8h" local="no">Aspose.Words.Cpp/Fields/FieldTA.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1af1236a428635b8d4325203d0b0800dfb" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref></type>
+        <definition>typedef Aspose::Words::Fields::Field Aspose::Words::Fields::FieldTA::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTA::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTA.h" line="161" column="42" bodyfile="Aspose.Words.Cpp/Fields/FieldTA.h" bodystart="161" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1ad4f6c5f4d492be23debf5d0665a7ecba" prot="private" static="no">
+        <type>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</type>
+        <definition>typedef Aspose::Words::Fields::IFieldCodeTokenInfoProvider Aspose::Words::Fields::FieldTA::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTA::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTA.h" line="162" column="64" bodyfile="Aspose.Words.Cpp/Fields/FieldTA.h" bodystart="162" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1adf82bea9af2a773cbf515f79b7b34532" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a" kindref="compound">FieldTA</ref></type>
+        <definition>typedef FieldTA Aspose::Words::Fields::FieldTA::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTA::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTA.h" line="160" column="21" bodyfile="Aspose.Words.Cpp/Fields/FieldTA.h" bodystart="160" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a4448c723dddca67f7af651c9ff0bcbff" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Fields::FieldTA::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTA::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTA.h" line="164" column="37" bodyfile="Aspose.Words.Cpp/Fields/FieldTA.h" bodystart="164" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a8df61c1b64cd585c67cb4b393bed8aa3" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>Aspose::Words::Fields::FieldSwitchType</type>
+        <definition>Aspose::Words::Fields::FieldSwitchType Aspose::Words::Fields::FieldTA::GetSwitchType</definition>
+        <argsstring>(System::String) override</argsstring>
+        <name>GetSwitchType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTA::GetSwitchType</qualifiedname>
+        <param>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTA.h" line="924" column="44"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a9fd4c0619af314f4ac18c1e0d4bc8d33" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldTA::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTA::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTA.h" line="165" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1aba407f95eb045199da2902e5453aa10f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldTA::get_EntryCategory</definition>
+        <argsstring>()</argsstring>
+        <name>get_EntryCategory</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTA::get_EntryCategory</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the integral entry category, which is a number that corresponds to the order of categories. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to build and customize a table of authorities using TOA and TA fields. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldTOA_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>TOA<sp/>field,<sp/>which<sp/>will<sp/>create<sp/>an<sp/>entry<sp/>for<sp/>each<sp/>TA<sp/>field<sp/>in<sp/>the<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>displaying<sp/>long<sp/>citations<sp/>and<sp/>page<sp/>numbers<sp/>for<sp/>each<sp/>entry.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldToa<sp/>=<sp/>System::DynamicCast&lt;FieldToa&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca75fd51212b93d4b42d519fdb6e3fe2cd" kindref="member" tooltip="Specifies the TOA field.">FieldType::FieldTOA</ref>,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>entry<sp/>category<sp/>for<sp/>our<sp/>table.<sp/>This<sp/>TOA<sp/>will<sp/>now<sp/>only<sp/>include<sp/>TA<sp/>fields</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>that<sp/>have<sp/>a<sp/>matching<sp/>value<sp/>in<sp/>their<sp/>EntryCategory<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_EntryCategory(u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Moreover,<sp/>the<sp/>Table<sp/>of<sp/>Authorities<sp/>category<sp/>at<sp/>index<sp/>1<sp/>is<sp/>&quot;Cases&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>show<sp/>up<sp/>as<sp/>our<sp/>table&apos;s<sp/>title<sp/>if<sp/>we<sp/>set<sp/>this<sp/>variable<sp/>to<sp/>true.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_UseHeading(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>further<sp/>filter<sp/>TA<sp/>fields<sp/>by<sp/>naming<sp/>a<sp/>bookmark<sp/>that<sp/>they<sp/>will<sp/>need<sp/>to<sp/>be<sp/>within<sp/>the<sp/>TOA<sp/>bounds.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_BookmarkName(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>a<sp/>dotted<sp/>line<sp/>page-wide<sp/>tab<sp/>appears<sp/>between<sp/>the<sp/>TA<sp/>field&apos;s<sp/>citation</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>and<sp/>its<sp/>page<sp/>number.<sp/>We<sp/>can<sp/>replace<sp/>it<sp/>with<sp/>any<sp/>text<sp/>we<sp/>put<sp/>on<sp/>this<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Inserting<sp/>a<sp/>tab<sp/>character<sp/>will<sp/>preserve<sp/>the<sp/>original<sp/>tab.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_EntrySeparator(u</highlight><highlight class="stringliteral">&quot;<sp/>\t<sp/>p.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>have<sp/>multiple<sp/>TA<sp/>entries<sp/>that<sp/>share<sp/>the<sp/>same<sp/>long<sp/>citation,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>all<sp/>their<sp/>respective<sp/>page<sp/>numbers<sp/>will<sp/>show<sp/>up<sp/>on<sp/>one<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>this<sp/>property<sp/>to<sp/>specify<sp/>a<sp/>string<sp/>that<sp/>will<sp/>separate<sp/>their<sp/>page<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_PageNumberListSeparator(u</highlight><highlight class="stringliteral">&quot;<sp/>&amp;<sp/>p.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>this<sp/>to<sp/>true<sp/>to<sp/>get<sp/>our<sp/>table<sp/>to<sp/>display<sp/>the<sp/>word<sp/>&quot;passim&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>if<sp/>there<sp/>are<sp/>five<sp/>or<sp/>more<sp/>page<sp/>numbers<sp/>in<sp/>one<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_UsePassim(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>One<sp/>TA<sp/>field<sp/>can<sp/>refer<sp/>to<sp/>a<sp/>range<sp/>of<sp/>pages.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>specify<sp/>a<sp/>string<sp/>here<sp/>to<sp/>appear<sp/>between<sp/>the<sp/>start<sp/>and<sp/>end<sp/>page<sp/>numbers<sp/>for<sp/>such<sp/>ranges.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_PageRangeSeparator(u</highlight><highlight class="stringliteral">&quot;<sp/>to<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>format<sp/>from<sp/>the<sp/>TA<sp/>fields<sp/>will<sp/>carry<sp/>over<sp/>into<sp/>our<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>disable<sp/>this<sp/>by<sp/>setting<sp/>the<sp/>RemoveEntryFormatting<sp/>flag.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_RemoveEntryFormatting(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial<sp/>Black&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOA<sp/><sp/>\\c<sp/>1<sp/>\\h<sp/>\\b<sp/>MyBookmark<sp/>\\e<sp/>\&quot;<sp/>\t<sp/>p.\&quot;<sp/>\\l<sp/>\&quot;<sp/>&amp;<sp/>p.<sp/>\&quot;<sp/>\\p<sp/>\\g<sp/>\&quot;<sp/>to<sp/>\&quot;<sp/>\\f&quot;</highlight><highlight class="normal">,<sp/>fieldToa-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>TA<sp/>field<sp/>will<sp/>not<sp/>appear<sp/>as<sp/>an<sp/>entry<sp/>in<sp/>the<sp/>TOA<sp/>since<sp/>it<sp/>is<sp/>outside</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>the<sp/>bookmark&apos;s<sp/>bounds<sp/>that<sp/>the<sp/>TOA&apos;s<sp/>BookmarkName<sp/>property<sp/>specifies.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FieldTA&gt;<sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>1\&quot;&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>TA<sp/>field<sp/>is<sp/>inside<sp/>the<sp/>bookmark,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>but<sp/>the<sp/>entry<sp/>category<sp/>does<sp/>not<sp/>match<sp/>that<sp/>of<sp/>the<sp/>table,<sp/>so<sp/>the<sp/>TA<sp/>field<sp/>will<sp/>not<sp/>include<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>appear<sp/>in<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>TOA<sp/>table<sp/>does<sp/>not<sp/>display<sp/>short<sp/>citations,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>but<sp/>we<sp/>can<sp/>use<sp/>them<sp/>as<sp/>a<sp/>shorthand<sp/>to<sp/>refer<sp/>to<sp/>bulky<sp/>source<sp/>names<sp/>that<sp/>multiple<sp/>TA<sp/>fields<sp/>reference.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_ShortCitation(u</highlight><highlight class="stringliteral">&quot;S.3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>3\&quot;<sp/>\\s<sp/>S.3&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>format<sp/>the<sp/>page<sp/>number<sp/>to<sp/>make<sp/>it<sp/>bold/italic<sp/>using<sp/>the<sp/>following<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>still<sp/>see<sp/>these<sp/>effects<sp/>if<sp/>we<sp/>set<sp/>our<sp/>table<sp/>to<sp/>ignore<sp/>formatting.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_IsBold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_IsItalic(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>2\&quot;<sp/>\\b<sp/>\\i&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>configure<sp/>TA<sp/>fields<sp/>to<sp/>get<sp/>their<sp/>TOA<sp/>entries<sp/>to<sp/>refer<sp/>to<sp/>a<sp/>range<sp/>of<sp/>pages<sp/>that<sp/>a<sp/>bookmark<sp/>spans<sp/>across.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Note<sp/>that<sp/>this<sp/>entry<sp/>refers<sp/>to<sp/>the<sp/>same<sp/>source<sp/>as<sp/>the<sp/>one<sp/>above<sp/>to<sp/>share<sp/>one<sp/>row<sp/>in<sp/>our<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>row<sp/>will<sp/>have<sp/>the<sp/>page<sp/>number<sp/>of<sp/>the<sp/>entry<sp/>above<sp/>and<sp/>the<sp/>page<sp/>range<sp/>of<sp/>this<sp/>entry,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>with<sp/>the<sp/>table&apos;s<sp/>page<sp/>list<sp/>and<sp/>page<sp/>number<sp/>range<sp/>separators<sp/>between<sp/>page<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_PageRangeBookmarkName(u</highlight><highlight class="stringliteral">&quot;MyMultiPageBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;MyMultiPageBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;MyMultiPageBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>3\&quot;<sp/>\\r<sp/>MyMultiPageBookmark&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>have<sp/>enabled<sp/>the<sp/>&quot;Passim&quot;<sp/>feature<sp/>of<sp/>our<sp/>table,<sp/>having<sp/>5<sp/>or<sp/>more<sp/>TA<sp/>entries<sp/>with<sp/>the<sp/>same<sp/>source<sp/>will<sp/>invoke<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>5;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>4&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.TOA.TA.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/>SharedPtr&lt;FieldTA&gt;<sp/>InsertToaEntry(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>entryCategory,<sp/>String<sp/>longCitation)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldTA&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaa24c781f69f2b4e4a0021d907f9d4674" kindref="member" tooltip="Specifies the TA field.">FieldType::FieldTOAEntry</ref>,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_EntryCategory(entryCategory);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_LongCitation(longCitation);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>field;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTA.h" line="415" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a18cbd8fc70d586c629b6a57e1eaac64d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldTA::get_IsBold</definition>
+        <argsstring>()</argsstring>
+        <name>get_IsBold</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTA::get_IsBold</qualifiedname>
+        <briefdescription>
+<para>Gets or sets whether to apply bold formatting to the page number for the entry. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to build and customize a table of authorities using TOA and TA fields. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldTOA_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>TOA<sp/>field,<sp/>which<sp/>will<sp/>create<sp/>an<sp/>entry<sp/>for<sp/>each<sp/>TA<sp/>field<sp/>in<sp/>the<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>displaying<sp/>long<sp/>citations<sp/>and<sp/>page<sp/>numbers<sp/>for<sp/>each<sp/>entry.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldToa<sp/>=<sp/>System::DynamicCast&lt;FieldToa&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca75fd51212b93d4b42d519fdb6e3fe2cd" kindref="member" tooltip="Specifies the TOA field.">FieldType::FieldTOA</ref>,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>entry<sp/>category<sp/>for<sp/>our<sp/>table.<sp/>This<sp/>TOA<sp/>will<sp/>now<sp/>only<sp/>include<sp/>TA<sp/>fields</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>that<sp/>have<sp/>a<sp/>matching<sp/>value<sp/>in<sp/>their<sp/>EntryCategory<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_EntryCategory(u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Moreover,<sp/>the<sp/>Table<sp/>of<sp/>Authorities<sp/>category<sp/>at<sp/>index<sp/>1<sp/>is<sp/>&quot;Cases&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>show<sp/>up<sp/>as<sp/>our<sp/>table&apos;s<sp/>title<sp/>if<sp/>we<sp/>set<sp/>this<sp/>variable<sp/>to<sp/>true.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_UseHeading(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>further<sp/>filter<sp/>TA<sp/>fields<sp/>by<sp/>naming<sp/>a<sp/>bookmark<sp/>that<sp/>they<sp/>will<sp/>need<sp/>to<sp/>be<sp/>within<sp/>the<sp/>TOA<sp/>bounds.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_BookmarkName(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>a<sp/>dotted<sp/>line<sp/>page-wide<sp/>tab<sp/>appears<sp/>between<sp/>the<sp/>TA<sp/>field&apos;s<sp/>citation</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>and<sp/>its<sp/>page<sp/>number.<sp/>We<sp/>can<sp/>replace<sp/>it<sp/>with<sp/>any<sp/>text<sp/>we<sp/>put<sp/>on<sp/>this<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Inserting<sp/>a<sp/>tab<sp/>character<sp/>will<sp/>preserve<sp/>the<sp/>original<sp/>tab.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_EntrySeparator(u</highlight><highlight class="stringliteral">&quot;<sp/>\t<sp/>p.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>have<sp/>multiple<sp/>TA<sp/>entries<sp/>that<sp/>share<sp/>the<sp/>same<sp/>long<sp/>citation,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>all<sp/>their<sp/>respective<sp/>page<sp/>numbers<sp/>will<sp/>show<sp/>up<sp/>on<sp/>one<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>this<sp/>property<sp/>to<sp/>specify<sp/>a<sp/>string<sp/>that<sp/>will<sp/>separate<sp/>their<sp/>page<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_PageNumberListSeparator(u</highlight><highlight class="stringliteral">&quot;<sp/>&amp;<sp/>p.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>this<sp/>to<sp/>true<sp/>to<sp/>get<sp/>our<sp/>table<sp/>to<sp/>display<sp/>the<sp/>word<sp/>&quot;passim&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>if<sp/>there<sp/>are<sp/>five<sp/>or<sp/>more<sp/>page<sp/>numbers<sp/>in<sp/>one<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_UsePassim(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>One<sp/>TA<sp/>field<sp/>can<sp/>refer<sp/>to<sp/>a<sp/>range<sp/>of<sp/>pages.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>specify<sp/>a<sp/>string<sp/>here<sp/>to<sp/>appear<sp/>between<sp/>the<sp/>start<sp/>and<sp/>end<sp/>page<sp/>numbers<sp/>for<sp/>such<sp/>ranges.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_PageRangeSeparator(u</highlight><highlight class="stringliteral">&quot;<sp/>to<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>format<sp/>from<sp/>the<sp/>TA<sp/>fields<sp/>will<sp/>carry<sp/>over<sp/>into<sp/>our<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>disable<sp/>this<sp/>by<sp/>setting<sp/>the<sp/>RemoveEntryFormatting<sp/>flag.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_RemoveEntryFormatting(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial<sp/>Black&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOA<sp/><sp/>\\c<sp/>1<sp/>\\h<sp/>\\b<sp/>MyBookmark<sp/>\\e<sp/>\&quot;<sp/>\t<sp/>p.\&quot;<sp/>\\l<sp/>\&quot;<sp/>&amp;<sp/>p.<sp/>\&quot;<sp/>\\p<sp/>\\g<sp/>\&quot;<sp/>to<sp/>\&quot;<sp/>\\f&quot;</highlight><highlight class="normal">,<sp/>fieldToa-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>TA<sp/>field<sp/>will<sp/>not<sp/>appear<sp/>as<sp/>an<sp/>entry<sp/>in<sp/>the<sp/>TOA<sp/>since<sp/>it<sp/>is<sp/>outside</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>the<sp/>bookmark&apos;s<sp/>bounds<sp/>that<sp/>the<sp/>TOA&apos;s<sp/>BookmarkName<sp/>property<sp/>specifies.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FieldTA&gt;<sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>1\&quot;&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>TA<sp/>field<sp/>is<sp/>inside<sp/>the<sp/>bookmark,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>but<sp/>the<sp/>entry<sp/>category<sp/>does<sp/>not<sp/>match<sp/>that<sp/>of<sp/>the<sp/>table,<sp/>so<sp/>the<sp/>TA<sp/>field<sp/>will<sp/>not<sp/>include<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>appear<sp/>in<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>TOA<sp/>table<sp/>does<sp/>not<sp/>display<sp/>short<sp/>citations,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>but<sp/>we<sp/>can<sp/>use<sp/>them<sp/>as<sp/>a<sp/>shorthand<sp/>to<sp/>refer<sp/>to<sp/>bulky<sp/>source<sp/>names<sp/>that<sp/>multiple<sp/>TA<sp/>fields<sp/>reference.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_ShortCitation(u</highlight><highlight class="stringliteral">&quot;S.3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>3\&quot;<sp/>\\s<sp/>S.3&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>format<sp/>the<sp/>page<sp/>number<sp/>to<sp/>make<sp/>it<sp/>bold/italic<sp/>using<sp/>the<sp/>following<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>still<sp/>see<sp/>these<sp/>effects<sp/>if<sp/>we<sp/>set<sp/>our<sp/>table<sp/>to<sp/>ignore<sp/>formatting.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_IsBold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_IsItalic(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>2\&quot;<sp/>\\b<sp/>\\i&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>configure<sp/>TA<sp/>fields<sp/>to<sp/>get<sp/>their<sp/>TOA<sp/>entries<sp/>to<sp/>refer<sp/>to<sp/>a<sp/>range<sp/>of<sp/>pages<sp/>that<sp/>a<sp/>bookmark<sp/>spans<sp/>across.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Note<sp/>that<sp/>this<sp/>entry<sp/>refers<sp/>to<sp/>the<sp/>same<sp/>source<sp/>as<sp/>the<sp/>one<sp/>above<sp/>to<sp/>share<sp/>one<sp/>row<sp/>in<sp/>our<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>row<sp/>will<sp/>have<sp/>the<sp/>page<sp/>number<sp/>of<sp/>the<sp/>entry<sp/>above<sp/>and<sp/>the<sp/>page<sp/>range<sp/>of<sp/>this<sp/>entry,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>with<sp/>the<sp/>table&apos;s<sp/>page<sp/>list<sp/>and<sp/>page<sp/>number<sp/>range<sp/>separators<sp/>between<sp/>page<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_PageRangeBookmarkName(u</highlight><highlight class="stringliteral">&quot;MyMultiPageBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;MyMultiPageBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;MyMultiPageBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>3\&quot;<sp/>\\r<sp/>MyMultiPageBookmark&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>have<sp/>enabled<sp/>the<sp/>&quot;Passim&quot;<sp/>feature<sp/>of<sp/>our<sp/>table,<sp/>having<sp/>5<sp/>or<sp/>more<sp/>TA<sp/>entries<sp/>with<sp/>the<sp/>same<sp/>source<sp/>will<sp/>invoke<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>5;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>4&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.TOA.TA.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/>SharedPtr&lt;FieldTA&gt;<sp/>InsertToaEntry(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>entryCategory,<sp/>String<sp/>longCitation)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldTA&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaa24c781f69f2b4e4a0021d907f9d4674" kindref="member" tooltip="Specifies the TA field.">FieldType::FieldTOAEntry</ref>,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_EntryCategory(entryCategory);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_LongCitation(longCitation);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>field;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTA.h" line="289" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1aa8fb40cecebbf449bf4ab51627bb88e0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldTA::get_IsItalic</definition>
+        <argsstring>()</argsstring>
+        <name>get_IsItalic</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTA::get_IsItalic</qualifiedname>
+        <briefdescription>
+<para>Gets or sets whether to apply italic formatting to the page number for the entry. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to build and customize a table of authorities using TOA and TA fields. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldTOA_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>TOA<sp/>field,<sp/>which<sp/>will<sp/>create<sp/>an<sp/>entry<sp/>for<sp/>each<sp/>TA<sp/>field<sp/>in<sp/>the<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>displaying<sp/>long<sp/>citations<sp/>and<sp/>page<sp/>numbers<sp/>for<sp/>each<sp/>entry.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldToa<sp/>=<sp/>System::DynamicCast&lt;FieldToa&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca75fd51212b93d4b42d519fdb6e3fe2cd" kindref="member" tooltip="Specifies the TOA field.">FieldType::FieldTOA</ref>,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>entry<sp/>category<sp/>for<sp/>our<sp/>table.<sp/>This<sp/>TOA<sp/>will<sp/>now<sp/>only<sp/>include<sp/>TA<sp/>fields</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>that<sp/>have<sp/>a<sp/>matching<sp/>value<sp/>in<sp/>their<sp/>EntryCategory<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_EntryCategory(u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Moreover,<sp/>the<sp/>Table<sp/>of<sp/>Authorities<sp/>category<sp/>at<sp/>index<sp/>1<sp/>is<sp/>&quot;Cases&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>show<sp/>up<sp/>as<sp/>our<sp/>table&apos;s<sp/>title<sp/>if<sp/>we<sp/>set<sp/>this<sp/>variable<sp/>to<sp/>true.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_UseHeading(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>further<sp/>filter<sp/>TA<sp/>fields<sp/>by<sp/>naming<sp/>a<sp/>bookmark<sp/>that<sp/>they<sp/>will<sp/>need<sp/>to<sp/>be<sp/>within<sp/>the<sp/>TOA<sp/>bounds.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_BookmarkName(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>a<sp/>dotted<sp/>line<sp/>page-wide<sp/>tab<sp/>appears<sp/>between<sp/>the<sp/>TA<sp/>field&apos;s<sp/>citation</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>and<sp/>its<sp/>page<sp/>number.<sp/>We<sp/>can<sp/>replace<sp/>it<sp/>with<sp/>any<sp/>text<sp/>we<sp/>put<sp/>on<sp/>this<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Inserting<sp/>a<sp/>tab<sp/>character<sp/>will<sp/>preserve<sp/>the<sp/>original<sp/>tab.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_EntrySeparator(u</highlight><highlight class="stringliteral">&quot;<sp/>\t<sp/>p.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>have<sp/>multiple<sp/>TA<sp/>entries<sp/>that<sp/>share<sp/>the<sp/>same<sp/>long<sp/>citation,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>all<sp/>their<sp/>respective<sp/>page<sp/>numbers<sp/>will<sp/>show<sp/>up<sp/>on<sp/>one<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>this<sp/>property<sp/>to<sp/>specify<sp/>a<sp/>string<sp/>that<sp/>will<sp/>separate<sp/>their<sp/>page<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_PageNumberListSeparator(u</highlight><highlight class="stringliteral">&quot;<sp/>&amp;<sp/>p.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>this<sp/>to<sp/>true<sp/>to<sp/>get<sp/>our<sp/>table<sp/>to<sp/>display<sp/>the<sp/>word<sp/>&quot;passim&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>if<sp/>there<sp/>are<sp/>five<sp/>or<sp/>more<sp/>page<sp/>numbers<sp/>in<sp/>one<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_UsePassim(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>One<sp/>TA<sp/>field<sp/>can<sp/>refer<sp/>to<sp/>a<sp/>range<sp/>of<sp/>pages.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>specify<sp/>a<sp/>string<sp/>here<sp/>to<sp/>appear<sp/>between<sp/>the<sp/>start<sp/>and<sp/>end<sp/>page<sp/>numbers<sp/>for<sp/>such<sp/>ranges.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_PageRangeSeparator(u</highlight><highlight class="stringliteral">&quot;<sp/>to<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>format<sp/>from<sp/>the<sp/>TA<sp/>fields<sp/>will<sp/>carry<sp/>over<sp/>into<sp/>our<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>disable<sp/>this<sp/>by<sp/>setting<sp/>the<sp/>RemoveEntryFormatting<sp/>flag.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_RemoveEntryFormatting(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial<sp/>Black&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOA<sp/><sp/>\\c<sp/>1<sp/>\\h<sp/>\\b<sp/>MyBookmark<sp/>\\e<sp/>\&quot;<sp/>\t<sp/>p.\&quot;<sp/>\\l<sp/>\&quot;<sp/>&amp;<sp/>p.<sp/>\&quot;<sp/>\\p<sp/>\\g<sp/>\&quot;<sp/>to<sp/>\&quot;<sp/>\\f&quot;</highlight><highlight class="normal">,<sp/>fieldToa-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>TA<sp/>field<sp/>will<sp/>not<sp/>appear<sp/>as<sp/>an<sp/>entry<sp/>in<sp/>the<sp/>TOA<sp/>since<sp/>it<sp/>is<sp/>outside</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>the<sp/>bookmark&apos;s<sp/>bounds<sp/>that<sp/>the<sp/>TOA&apos;s<sp/>BookmarkName<sp/>property<sp/>specifies.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FieldTA&gt;<sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>1\&quot;&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>TA<sp/>field<sp/>is<sp/>inside<sp/>the<sp/>bookmark,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>but<sp/>the<sp/>entry<sp/>category<sp/>does<sp/>not<sp/>match<sp/>that<sp/>of<sp/>the<sp/>table,<sp/>so<sp/>the<sp/>TA<sp/>field<sp/>will<sp/>not<sp/>include<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>appear<sp/>in<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>TOA<sp/>table<sp/>does<sp/>not<sp/>display<sp/>short<sp/>citations,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>but<sp/>we<sp/>can<sp/>use<sp/>them<sp/>as<sp/>a<sp/>shorthand<sp/>to<sp/>refer<sp/>to<sp/>bulky<sp/>source<sp/>names<sp/>that<sp/>multiple<sp/>TA<sp/>fields<sp/>reference.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_ShortCitation(u</highlight><highlight class="stringliteral">&quot;S.3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>3\&quot;<sp/>\\s<sp/>S.3&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>format<sp/>the<sp/>page<sp/>number<sp/>to<sp/>make<sp/>it<sp/>bold/italic<sp/>using<sp/>the<sp/>following<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>still<sp/>see<sp/>these<sp/>effects<sp/>if<sp/>we<sp/>set<sp/>our<sp/>table<sp/>to<sp/>ignore<sp/>formatting.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_IsBold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_IsItalic(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>2\&quot;<sp/>\\b<sp/>\\i&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>configure<sp/>TA<sp/>fields<sp/>to<sp/>get<sp/>their<sp/>TOA<sp/>entries<sp/>to<sp/>refer<sp/>to<sp/>a<sp/>range<sp/>of<sp/>pages<sp/>that<sp/>a<sp/>bookmark<sp/>spans<sp/>across.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Note<sp/>that<sp/>this<sp/>entry<sp/>refers<sp/>to<sp/>the<sp/>same<sp/>source<sp/>as<sp/>the<sp/>one<sp/>above<sp/>to<sp/>share<sp/>one<sp/>row<sp/>in<sp/>our<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>row<sp/>will<sp/>have<sp/>the<sp/>page<sp/>number<sp/>of<sp/>the<sp/>entry<sp/>above<sp/>and<sp/>the<sp/>page<sp/>range<sp/>of<sp/>this<sp/>entry,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>with<sp/>the<sp/>table&apos;s<sp/>page<sp/>list<sp/>and<sp/>page<sp/>number<sp/>range<sp/>separators<sp/>between<sp/>page<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_PageRangeBookmarkName(u</highlight><highlight class="stringliteral">&quot;MyMultiPageBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;MyMultiPageBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;MyMultiPageBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>3\&quot;<sp/>\\r<sp/>MyMultiPageBookmark&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>have<sp/>enabled<sp/>the<sp/>&quot;Passim&quot;<sp/>feature<sp/>of<sp/>our<sp/>table,<sp/>having<sp/>5<sp/>or<sp/>more<sp/>TA<sp/>entries<sp/>with<sp/>the<sp/>same<sp/>source<sp/>will<sp/>invoke<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>5;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>4&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.TOA.TA.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/>SharedPtr&lt;FieldTA&gt;<sp/>InsertToaEntry(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>entryCategory,<sp/>String<sp/>longCitation)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldTA&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaa24c781f69f2b4e4a0021d907f9d4674" kindref="member" tooltip="Specifies the TA field.">FieldType::FieldTOAEntry</ref>,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_EntryCategory(entryCategory);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_LongCitation(longCitation);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>field;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTA.h" line="540" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a54aea3395e5810456b12613eb58210e3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldTA::get_LongCitation</definition>
+        <argsstring>()</argsstring>
+        <name>get_LongCitation</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTA::get_LongCitation</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the long citation for the entry. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to build and customize a table of authorities using TOA and TA fields. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldTOA_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>TOA<sp/>field,<sp/>which<sp/>will<sp/>create<sp/>an<sp/>entry<sp/>for<sp/>each<sp/>TA<sp/>field<sp/>in<sp/>the<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>displaying<sp/>long<sp/>citations<sp/>and<sp/>page<sp/>numbers<sp/>for<sp/>each<sp/>entry.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldToa<sp/>=<sp/>System::DynamicCast&lt;FieldToa&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca75fd51212b93d4b42d519fdb6e3fe2cd" kindref="member" tooltip="Specifies the TOA field.">FieldType::FieldTOA</ref>,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>entry<sp/>category<sp/>for<sp/>our<sp/>table.<sp/>This<sp/>TOA<sp/>will<sp/>now<sp/>only<sp/>include<sp/>TA<sp/>fields</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>that<sp/>have<sp/>a<sp/>matching<sp/>value<sp/>in<sp/>their<sp/>EntryCategory<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_EntryCategory(u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Moreover,<sp/>the<sp/>Table<sp/>of<sp/>Authorities<sp/>category<sp/>at<sp/>index<sp/>1<sp/>is<sp/>&quot;Cases&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>show<sp/>up<sp/>as<sp/>our<sp/>table&apos;s<sp/>title<sp/>if<sp/>we<sp/>set<sp/>this<sp/>variable<sp/>to<sp/>true.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_UseHeading(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>further<sp/>filter<sp/>TA<sp/>fields<sp/>by<sp/>naming<sp/>a<sp/>bookmark<sp/>that<sp/>they<sp/>will<sp/>need<sp/>to<sp/>be<sp/>within<sp/>the<sp/>TOA<sp/>bounds.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_BookmarkName(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>a<sp/>dotted<sp/>line<sp/>page-wide<sp/>tab<sp/>appears<sp/>between<sp/>the<sp/>TA<sp/>field&apos;s<sp/>citation</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>and<sp/>its<sp/>page<sp/>number.<sp/>We<sp/>can<sp/>replace<sp/>it<sp/>with<sp/>any<sp/>text<sp/>we<sp/>put<sp/>on<sp/>this<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Inserting<sp/>a<sp/>tab<sp/>character<sp/>will<sp/>preserve<sp/>the<sp/>original<sp/>tab.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_EntrySeparator(u</highlight><highlight class="stringliteral">&quot;<sp/>\t<sp/>p.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>have<sp/>multiple<sp/>TA<sp/>entries<sp/>that<sp/>share<sp/>the<sp/>same<sp/>long<sp/>citation,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>all<sp/>their<sp/>respective<sp/>page<sp/>numbers<sp/>will<sp/>show<sp/>up<sp/>on<sp/>one<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>this<sp/>property<sp/>to<sp/>specify<sp/>a<sp/>string<sp/>that<sp/>will<sp/>separate<sp/>their<sp/>page<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_PageNumberListSeparator(u</highlight><highlight class="stringliteral">&quot;<sp/>&amp;<sp/>p.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>this<sp/>to<sp/>true<sp/>to<sp/>get<sp/>our<sp/>table<sp/>to<sp/>display<sp/>the<sp/>word<sp/>&quot;passim&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>if<sp/>there<sp/>are<sp/>five<sp/>or<sp/>more<sp/>page<sp/>numbers<sp/>in<sp/>one<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_UsePassim(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>One<sp/>TA<sp/>field<sp/>can<sp/>refer<sp/>to<sp/>a<sp/>range<sp/>of<sp/>pages.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>specify<sp/>a<sp/>string<sp/>here<sp/>to<sp/>appear<sp/>between<sp/>the<sp/>start<sp/>and<sp/>end<sp/>page<sp/>numbers<sp/>for<sp/>such<sp/>ranges.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_PageRangeSeparator(u</highlight><highlight class="stringliteral">&quot;<sp/>to<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>format<sp/>from<sp/>the<sp/>TA<sp/>fields<sp/>will<sp/>carry<sp/>over<sp/>into<sp/>our<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>disable<sp/>this<sp/>by<sp/>setting<sp/>the<sp/>RemoveEntryFormatting<sp/>flag.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_RemoveEntryFormatting(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial<sp/>Black&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOA<sp/><sp/>\\c<sp/>1<sp/>\\h<sp/>\\b<sp/>MyBookmark<sp/>\\e<sp/>\&quot;<sp/>\t<sp/>p.\&quot;<sp/>\\l<sp/>\&quot;<sp/>&amp;<sp/>p.<sp/>\&quot;<sp/>\\p<sp/>\\g<sp/>\&quot;<sp/>to<sp/>\&quot;<sp/>\\f&quot;</highlight><highlight class="normal">,<sp/>fieldToa-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>TA<sp/>field<sp/>will<sp/>not<sp/>appear<sp/>as<sp/>an<sp/>entry<sp/>in<sp/>the<sp/>TOA<sp/>since<sp/>it<sp/>is<sp/>outside</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>the<sp/>bookmark&apos;s<sp/>bounds<sp/>that<sp/>the<sp/>TOA&apos;s<sp/>BookmarkName<sp/>property<sp/>specifies.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FieldTA&gt;<sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>1\&quot;&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>TA<sp/>field<sp/>is<sp/>inside<sp/>the<sp/>bookmark,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>but<sp/>the<sp/>entry<sp/>category<sp/>does<sp/>not<sp/>match<sp/>that<sp/>of<sp/>the<sp/>table,<sp/>so<sp/>the<sp/>TA<sp/>field<sp/>will<sp/>not<sp/>include<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>appear<sp/>in<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>TOA<sp/>table<sp/>does<sp/>not<sp/>display<sp/>short<sp/>citations,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>but<sp/>we<sp/>can<sp/>use<sp/>them<sp/>as<sp/>a<sp/>shorthand<sp/>to<sp/>refer<sp/>to<sp/>bulky<sp/>source<sp/>names<sp/>that<sp/>multiple<sp/>TA<sp/>fields<sp/>reference.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_ShortCitation(u</highlight><highlight class="stringliteral">&quot;S.3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>3\&quot;<sp/>\\s<sp/>S.3&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>format<sp/>the<sp/>page<sp/>number<sp/>to<sp/>make<sp/>it<sp/>bold/italic<sp/>using<sp/>the<sp/>following<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>still<sp/>see<sp/>these<sp/>effects<sp/>if<sp/>we<sp/>set<sp/>our<sp/>table<sp/>to<sp/>ignore<sp/>formatting.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_IsBold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_IsItalic(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>2\&quot;<sp/>\\b<sp/>\\i&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>configure<sp/>TA<sp/>fields<sp/>to<sp/>get<sp/>their<sp/>TOA<sp/>entries<sp/>to<sp/>refer<sp/>to<sp/>a<sp/>range<sp/>of<sp/>pages<sp/>that<sp/>a<sp/>bookmark<sp/>spans<sp/>across.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Note<sp/>that<sp/>this<sp/>entry<sp/>refers<sp/>to<sp/>the<sp/>same<sp/>source<sp/>as<sp/>the<sp/>one<sp/>above<sp/>to<sp/>share<sp/>one<sp/>row<sp/>in<sp/>our<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>row<sp/>will<sp/>have<sp/>the<sp/>page<sp/>number<sp/>of<sp/>the<sp/>entry<sp/>above<sp/>and<sp/>the<sp/>page<sp/>range<sp/>of<sp/>this<sp/>entry,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>with<sp/>the<sp/>table&apos;s<sp/>page<sp/>list<sp/>and<sp/>page<sp/>number<sp/>range<sp/>separators<sp/>between<sp/>page<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_PageRangeBookmarkName(u</highlight><highlight class="stringliteral">&quot;MyMultiPageBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;MyMultiPageBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;MyMultiPageBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>3\&quot;<sp/>\\r<sp/>MyMultiPageBookmark&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>have<sp/>enabled<sp/>the<sp/>&quot;Passim&quot;<sp/>feature<sp/>of<sp/>our<sp/>table,<sp/>having<sp/>5<sp/>or<sp/>more<sp/>TA<sp/>entries<sp/>with<sp/>the<sp/>same<sp/>source<sp/>will<sp/>invoke<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>5;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>4&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.TOA.TA.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/>SharedPtr&lt;FieldTA&gt;<sp/>InsertToaEntry(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>entryCategory,<sp/>String<sp/>longCitation)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldTA&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaa24c781f69f2b4e4a0021d907f9d4674" kindref="member" tooltip="Specifies the TA field.">FieldType::FieldTOAEntry</ref>,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_EntryCategory(entryCategory);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_LongCitation(longCitation);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>field;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTA.h" line="665" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a9c53e2cae96a7c55c5f8abba4da460a5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldTA::get_PageRangeBookmarkName</definition>
+        <argsstring>()</argsstring>
+        <name>get_PageRangeBookmarkName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTA::get_PageRangeBookmarkName</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the name of the bookmark that marks a range of pages that is inserted as the entry&apos;s page number. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to build and customize a table of authorities using TOA and TA fields. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldTOA_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>TOA<sp/>field,<sp/>which<sp/>will<sp/>create<sp/>an<sp/>entry<sp/>for<sp/>each<sp/>TA<sp/>field<sp/>in<sp/>the<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>displaying<sp/>long<sp/>citations<sp/>and<sp/>page<sp/>numbers<sp/>for<sp/>each<sp/>entry.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldToa<sp/>=<sp/>System::DynamicCast&lt;FieldToa&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca75fd51212b93d4b42d519fdb6e3fe2cd" kindref="member" tooltip="Specifies the TOA field.">FieldType::FieldTOA</ref>,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>entry<sp/>category<sp/>for<sp/>our<sp/>table.<sp/>This<sp/>TOA<sp/>will<sp/>now<sp/>only<sp/>include<sp/>TA<sp/>fields</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>that<sp/>have<sp/>a<sp/>matching<sp/>value<sp/>in<sp/>their<sp/>EntryCategory<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_EntryCategory(u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Moreover,<sp/>the<sp/>Table<sp/>of<sp/>Authorities<sp/>category<sp/>at<sp/>index<sp/>1<sp/>is<sp/>&quot;Cases&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>show<sp/>up<sp/>as<sp/>our<sp/>table&apos;s<sp/>title<sp/>if<sp/>we<sp/>set<sp/>this<sp/>variable<sp/>to<sp/>true.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_UseHeading(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>further<sp/>filter<sp/>TA<sp/>fields<sp/>by<sp/>naming<sp/>a<sp/>bookmark<sp/>that<sp/>they<sp/>will<sp/>need<sp/>to<sp/>be<sp/>within<sp/>the<sp/>TOA<sp/>bounds.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_BookmarkName(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>a<sp/>dotted<sp/>line<sp/>page-wide<sp/>tab<sp/>appears<sp/>between<sp/>the<sp/>TA<sp/>field&apos;s<sp/>citation</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>and<sp/>its<sp/>page<sp/>number.<sp/>We<sp/>can<sp/>replace<sp/>it<sp/>with<sp/>any<sp/>text<sp/>we<sp/>put<sp/>on<sp/>this<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Inserting<sp/>a<sp/>tab<sp/>character<sp/>will<sp/>preserve<sp/>the<sp/>original<sp/>tab.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_EntrySeparator(u</highlight><highlight class="stringliteral">&quot;<sp/>\t<sp/>p.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>have<sp/>multiple<sp/>TA<sp/>entries<sp/>that<sp/>share<sp/>the<sp/>same<sp/>long<sp/>citation,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>all<sp/>their<sp/>respective<sp/>page<sp/>numbers<sp/>will<sp/>show<sp/>up<sp/>on<sp/>one<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>this<sp/>property<sp/>to<sp/>specify<sp/>a<sp/>string<sp/>that<sp/>will<sp/>separate<sp/>their<sp/>page<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_PageNumberListSeparator(u</highlight><highlight class="stringliteral">&quot;<sp/>&amp;<sp/>p.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>this<sp/>to<sp/>true<sp/>to<sp/>get<sp/>our<sp/>table<sp/>to<sp/>display<sp/>the<sp/>word<sp/>&quot;passim&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>if<sp/>there<sp/>are<sp/>five<sp/>or<sp/>more<sp/>page<sp/>numbers<sp/>in<sp/>one<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_UsePassim(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>One<sp/>TA<sp/>field<sp/>can<sp/>refer<sp/>to<sp/>a<sp/>range<sp/>of<sp/>pages.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>specify<sp/>a<sp/>string<sp/>here<sp/>to<sp/>appear<sp/>between<sp/>the<sp/>start<sp/>and<sp/>end<sp/>page<sp/>numbers<sp/>for<sp/>such<sp/>ranges.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_PageRangeSeparator(u</highlight><highlight class="stringliteral">&quot;<sp/>to<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>format<sp/>from<sp/>the<sp/>TA<sp/>fields<sp/>will<sp/>carry<sp/>over<sp/>into<sp/>our<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>disable<sp/>this<sp/>by<sp/>setting<sp/>the<sp/>RemoveEntryFormatting<sp/>flag.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_RemoveEntryFormatting(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial<sp/>Black&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOA<sp/><sp/>\\c<sp/>1<sp/>\\h<sp/>\\b<sp/>MyBookmark<sp/>\\e<sp/>\&quot;<sp/>\t<sp/>p.\&quot;<sp/>\\l<sp/>\&quot;<sp/>&amp;<sp/>p.<sp/>\&quot;<sp/>\\p<sp/>\\g<sp/>\&quot;<sp/>to<sp/>\&quot;<sp/>\\f&quot;</highlight><highlight class="normal">,<sp/>fieldToa-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>TA<sp/>field<sp/>will<sp/>not<sp/>appear<sp/>as<sp/>an<sp/>entry<sp/>in<sp/>the<sp/>TOA<sp/>since<sp/>it<sp/>is<sp/>outside</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>the<sp/>bookmark&apos;s<sp/>bounds<sp/>that<sp/>the<sp/>TOA&apos;s<sp/>BookmarkName<sp/>property<sp/>specifies.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FieldTA&gt;<sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>1\&quot;&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>TA<sp/>field<sp/>is<sp/>inside<sp/>the<sp/>bookmark,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>but<sp/>the<sp/>entry<sp/>category<sp/>does<sp/>not<sp/>match<sp/>that<sp/>of<sp/>the<sp/>table,<sp/>so<sp/>the<sp/>TA<sp/>field<sp/>will<sp/>not<sp/>include<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>appear<sp/>in<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>TOA<sp/>table<sp/>does<sp/>not<sp/>display<sp/>short<sp/>citations,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>but<sp/>we<sp/>can<sp/>use<sp/>them<sp/>as<sp/>a<sp/>shorthand<sp/>to<sp/>refer<sp/>to<sp/>bulky<sp/>source<sp/>names<sp/>that<sp/>multiple<sp/>TA<sp/>fields<sp/>reference.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_ShortCitation(u</highlight><highlight class="stringliteral">&quot;S.3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>3\&quot;<sp/>\\s<sp/>S.3&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>format<sp/>the<sp/>page<sp/>number<sp/>to<sp/>make<sp/>it<sp/>bold/italic<sp/>using<sp/>the<sp/>following<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>still<sp/>see<sp/>these<sp/>effects<sp/>if<sp/>we<sp/>set<sp/>our<sp/>table<sp/>to<sp/>ignore<sp/>formatting.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_IsBold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_IsItalic(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>2\&quot;<sp/>\\b<sp/>\\i&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>configure<sp/>TA<sp/>fields<sp/>to<sp/>get<sp/>their<sp/>TOA<sp/>entries<sp/>to<sp/>refer<sp/>to<sp/>a<sp/>range<sp/>of<sp/>pages<sp/>that<sp/>a<sp/>bookmark<sp/>spans<sp/>across.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Note<sp/>that<sp/>this<sp/>entry<sp/>refers<sp/>to<sp/>the<sp/>same<sp/>source<sp/>as<sp/>the<sp/>one<sp/>above<sp/>to<sp/>share<sp/>one<sp/>row<sp/>in<sp/>our<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>row<sp/>will<sp/>have<sp/>the<sp/>page<sp/>number<sp/>of<sp/>the<sp/>entry<sp/>above<sp/>and<sp/>the<sp/>page<sp/>range<sp/>of<sp/>this<sp/>entry,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>with<sp/>the<sp/>table&apos;s<sp/>page<sp/>list<sp/>and<sp/>page<sp/>number<sp/>range<sp/>separators<sp/>between<sp/>page<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_PageRangeBookmarkName(u</highlight><highlight class="stringliteral">&quot;MyMultiPageBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;MyMultiPageBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;MyMultiPageBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>3\&quot;<sp/>\\r<sp/>MyMultiPageBookmark&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>have<sp/>enabled<sp/>the<sp/>&quot;Passim&quot;<sp/>feature<sp/>of<sp/>our<sp/>table,<sp/>having<sp/>5<sp/>or<sp/>more<sp/>TA<sp/>entries<sp/>with<sp/>the<sp/>same<sp/>source<sp/>will<sp/>invoke<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>5;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>4&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.TOA.TA.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/>SharedPtr&lt;FieldTA&gt;<sp/>InsertToaEntry(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>entryCategory,<sp/>String<sp/>longCitation)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldTA&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaa24c781f69f2b4e4a0021d907f9d4674" kindref="member" tooltip="Specifies the TA field.">FieldType::FieldTOAEntry</ref>,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_EntryCategory(entryCategory);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_LongCitation(longCitation);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>field;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTA.h" line="790" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a201d697f7c7b72820e1b160f9c18da3a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldTA::get_ShortCitation</definition>
+        <argsstring>()</argsstring>
+        <name>get_ShortCitation</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTA::get_ShortCitation</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the short citation for the entry. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to build and customize a table of authorities using TOA and TA fields. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldTOA_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>TOA<sp/>field,<sp/>which<sp/>will<sp/>create<sp/>an<sp/>entry<sp/>for<sp/>each<sp/>TA<sp/>field<sp/>in<sp/>the<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>displaying<sp/>long<sp/>citations<sp/>and<sp/>page<sp/>numbers<sp/>for<sp/>each<sp/>entry.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldToa<sp/>=<sp/>System::DynamicCast&lt;FieldToa&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca75fd51212b93d4b42d519fdb6e3fe2cd" kindref="member" tooltip="Specifies the TOA field.">FieldType::FieldTOA</ref>,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>entry<sp/>category<sp/>for<sp/>our<sp/>table.<sp/>This<sp/>TOA<sp/>will<sp/>now<sp/>only<sp/>include<sp/>TA<sp/>fields</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>that<sp/>have<sp/>a<sp/>matching<sp/>value<sp/>in<sp/>their<sp/>EntryCategory<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_EntryCategory(u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Moreover,<sp/>the<sp/>Table<sp/>of<sp/>Authorities<sp/>category<sp/>at<sp/>index<sp/>1<sp/>is<sp/>&quot;Cases&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>show<sp/>up<sp/>as<sp/>our<sp/>table&apos;s<sp/>title<sp/>if<sp/>we<sp/>set<sp/>this<sp/>variable<sp/>to<sp/>true.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_UseHeading(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>further<sp/>filter<sp/>TA<sp/>fields<sp/>by<sp/>naming<sp/>a<sp/>bookmark<sp/>that<sp/>they<sp/>will<sp/>need<sp/>to<sp/>be<sp/>within<sp/>the<sp/>TOA<sp/>bounds.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_BookmarkName(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>a<sp/>dotted<sp/>line<sp/>page-wide<sp/>tab<sp/>appears<sp/>between<sp/>the<sp/>TA<sp/>field&apos;s<sp/>citation</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>and<sp/>its<sp/>page<sp/>number.<sp/>We<sp/>can<sp/>replace<sp/>it<sp/>with<sp/>any<sp/>text<sp/>we<sp/>put<sp/>on<sp/>this<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Inserting<sp/>a<sp/>tab<sp/>character<sp/>will<sp/>preserve<sp/>the<sp/>original<sp/>tab.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_EntrySeparator(u</highlight><highlight class="stringliteral">&quot;<sp/>\t<sp/>p.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>have<sp/>multiple<sp/>TA<sp/>entries<sp/>that<sp/>share<sp/>the<sp/>same<sp/>long<sp/>citation,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>all<sp/>their<sp/>respective<sp/>page<sp/>numbers<sp/>will<sp/>show<sp/>up<sp/>on<sp/>one<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>this<sp/>property<sp/>to<sp/>specify<sp/>a<sp/>string<sp/>that<sp/>will<sp/>separate<sp/>their<sp/>page<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_PageNumberListSeparator(u</highlight><highlight class="stringliteral">&quot;<sp/>&amp;<sp/>p.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>this<sp/>to<sp/>true<sp/>to<sp/>get<sp/>our<sp/>table<sp/>to<sp/>display<sp/>the<sp/>word<sp/>&quot;passim&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>if<sp/>there<sp/>are<sp/>five<sp/>or<sp/>more<sp/>page<sp/>numbers<sp/>in<sp/>one<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_UsePassim(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>One<sp/>TA<sp/>field<sp/>can<sp/>refer<sp/>to<sp/>a<sp/>range<sp/>of<sp/>pages.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>specify<sp/>a<sp/>string<sp/>here<sp/>to<sp/>appear<sp/>between<sp/>the<sp/>start<sp/>and<sp/>end<sp/>page<sp/>numbers<sp/>for<sp/>such<sp/>ranges.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_PageRangeSeparator(u</highlight><highlight class="stringliteral">&quot;<sp/>to<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>format<sp/>from<sp/>the<sp/>TA<sp/>fields<sp/>will<sp/>carry<sp/>over<sp/>into<sp/>our<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>disable<sp/>this<sp/>by<sp/>setting<sp/>the<sp/>RemoveEntryFormatting<sp/>flag.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_RemoveEntryFormatting(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial<sp/>Black&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOA<sp/><sp/>\\c<sp/>1<sp/>\\h<sp/>\\b<sp/>MyBookmark<sp/>\\e<sp/>\&quot;<sp/>\t<sp/>p.\&quot;<sp/>\\l<sp/>\&quot;<sp/>&amp;<sp/>p.<sp/>\&quot;<sp/>\\p<sp/>\\g<sp/>\&quot;<sp/>to<sp/>\&quot;<sp/>\\f&quot;</highlight><highlight class="normal">,<sp/>fieldToa-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>TA<sp/>field<sp/>will<sp/>not<sp/>appear<sp/>as<sp/>an<sp/>entry<sp/>in<sp/>the<sp/>TOA<sp/>since<sp/>it<sp/>is<sp/>outside</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>the<sp/>bookmark&apos;s<sp/>bounds<sp/>that<sp/>the<sp/>TOA&apos;s<sp/>BookmarkName<sp/>property<sp/>specifies.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FieldTA&gt;<sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>1\&quot;&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>TA<sp/>field<sp/>is<sp/>inside<sp/>the<sp/>bookmark,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>but<sp/>the<sp/>entry<sp/>category<sp/>does<sp/>not<sp/>match<sp/>that<sp/>of<sp/>the<sp/>table,<sp/>so<sp/>the<sp/>TA<sp/>field<sp/>will<sp/>not<sp/>include<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>appear<sp/>in<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>TOA<sp/>table<sp/>does<sp/>not<sp/>display<sp/>short<sp/>citations,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>but<sp/>we<sp/>can<sp/>use<sp/>them<sp/>as<sp/>a<sp/>shorthand<sp/>to<sp/>refer<sp/>to<sp/>bulky<sp/>source<sp/>names<sp/>that<sp/>multiple<sp/>TA<sp/>fields<sp/>reference.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_ShortCitation(u</highlight><highlight class="stringliteral">&quot;S.3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>3\&quot;<sp/>\\s<sp/>S.3&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>format<sp/>the<sp/>page<sp/>number<sp/>to<sp/>make<sp/>it<sp/>bold/italic<sp/>using<sp/>the<sp/>following<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>still<sp/>see<sp/>these<sp/>effects<sp/>if<sp/>we<sp/>set<sp/>our<sp/>table<sp/>to<sp/>ignore<sp/>formatting.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_IsBold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_IsItalic(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>2\&quot;<sp/>\\b<sp/>\\i&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>configure<sp/>TA<sp/>fields<sp/>to<sp/>get<sp/>their<sp/>TOA<sp/>entries<sp/>to<sp/>refer<sp/>to<sp/>a<sp/>range<sp/>of<sp/>pages<sp/>that<sp/>a<sp/>bookmark<sp/>spans<sp/>across.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Note<sp/>that<sp/>this<sp/>entry<sp/>refers<sp/>to<sp/>the<sp/>same<sp/>source<sp/>as<sp/>the<sp/>one<sp/>above<sp/>to<sp/>share<sp/>one<sp/>row<sp/>in<sp/>our<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>row<sp/>will<sp/>have<sp/>the<sp/>page<sp/>number<sp/>of<sp/>the<sp/>entry<sp/>above<sp/>and<sp/>the<sp/>page<sp/>range<sp/>of<sp/>this<sp/>entry,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>with<sp/>the<sp/>table&apos;s<sp/>page<sp/>list<sp/>and<sp/>page<sp/>number<sp/>range<sp/>separators<sp/>between<sp/>page<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_PageRangeBookmarkName(u</highlight><highlight class="stringliteral">&quot;MyMultiPageBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;MyMultiPageBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;MyMultiPageBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>3\&quot;<sp/>\\r<sp/>MyMultiPageBookmark&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>have<sp/>enabled<sp/>the<sp/>&quot;Passim&quot;<sp/>feature<sp/>of<sp/>our<sp/>table,<sp/>having<sp/>5<sp/>or<sp/>more<sp/>TA<sp/>entries<sp/>with<sp/>the<sp/>same<sp/>source<sp/>will<sp/>invoke<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>5;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>4&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.TOA.TA.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/>SharedPtr&lt;FieldTA&gt;<sp/>InsertToaEntry(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>entryCategory,<sp/>String<sp/>longCitation)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldTA&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaa24c781f69f2b4e4a0021d907f9d4674" kindref="member" tooltip="Specifies the TA field.">FieldType::FieldTOAEntry</ref>,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_EntryCategory(entryCategory);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_LongCitation(longCitation);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>field;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTA.h" line="915" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a5c97e1e320dfe26ce1422880ffd9e366" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldTA::set_EntryCategory</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_EntryCategory</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTA::set_EntryCategory</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1aba407f95eb045199da2902e5453aa10f" kindref="member">Aspose::Words::Fields::FieldTA::get_EntryCategory</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTA.h" line="418" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a4513070726e05c307693a240fe49b45d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldTA::set_IsBold</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_IsBold</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTA::set_IsBold</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a18cbd8fc70d586c629b6a57e1eaac64d" kindref="member">Aspose::Words::Fields::FieldTA::get_IsBold</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTA.h" line="292" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a10dba8cfdbaa6bcb5d7632c4811053f6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldTA::set_IsItalic</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_IsItalic</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTA::set_IsItalic</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1aa8fb40cecebbf449bf4ab51627bb88e0" kindref="member">Aspose::Words::Fields::FieldTA::get_IsItalic</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTA.h" line="543" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a701cd59849d50d88b6552d4a879e7834" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldTA::set_LongCitation</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_LongCitation</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTA::set_LongCitation</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a54aea3395e5810456b12613eb58210e3" kindref="member">Aspose::Words::Fields::FieldTA::get_LongCitation</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTA.h" line="668" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1af57a2bcfc4271268c86b7e4c91c1f985" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldTA::set_PageRangeBookmarkName</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_PageRangeBookmarkName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTA::set_PageRangeBookmarkName</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a9c53e2cae96a7c55c5f8abba4da460a5" kindref="member">Aspose::Words::Fields::FieldTA::get_PageRangeBookmarkName</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTA.h" line="793" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a0297436777fe18021c16942e627910dd" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldTA::set_ShortCitation</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ShortCitation</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTA::set_ShortCitation</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a201d697f7c7b72820e1b160f9c18da3a" kindref="member">Aspose::Words::Fields::FieldTA::get_ShortCitation</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTA.h" line="918" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implements the TA field. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to build and customize a table of authorities using TOA and TA fields. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldTOA_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>TOA<sp/>field,<sp/>which<sp/>will<sp/>create<sp/>an<sp/>entry<sp/>for<sp/>each<sp/>TA<sp/>field<sp/>in<sp/>the<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>displaying<sp/>long<sp/>citations<sp/>and<sp/>page<sp/>numbers<sp/>for<sp/>each<sp/>entry.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldToa<sp/>=<sp/>System::DynamicCast&lt;FieldToa&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca75fd51212b93d4b42d519fdb6e3fe2cd" kindref="member" tooltip="Specifies the TOA field.">FieldType::FieldTOA</ref>,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>entry<sp/>category<sp/>for<sp/>our<sp/>table.<sp/>This<sp/>TOA<sp/>will<sp/>now<sp/>only<sp/>include<sp/>TA<sp/>fields</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>that<sp/>have<sp/>a<sp/>matching<sp/>value<sp/>in<sp/>their<sp/>EntryCategory<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_EntryCategory(u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Moreover,<sp/>the<sp/>Table<sp/>of<sp/>Authorities<sp/>category<sp/>at<sp/>index<sp/>1<sp/>is<sp/>&quot;Cases&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>show<sp/>up<sp/>as<sp/>our<sp/>table&apos;s<sp/>title<sp/>if<sp/>we<sp/>set<sp/>this<sp/>variable<sp/>to<sp/>true.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_UseHeading(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>further<sp/>filter<sp/>TA<sp/>fields<sp/>by<sp/>naming<sp/>a<sp/>bookmark<sp/>that<sp/>they<sp/>will<sp/>need<sp/>to<sp/>be<sp/>within<sp/>the<sp/>TOA<sp/>bounds.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_BookmarkName(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>a<sp/>dotted<sp/>line<sp/>page-wide<sp/>tab<sp/>appears<sp/>between<sp/>the<sp/>TA<sp/>field&apos;s<sp/>citation</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>and<sp/>its<sp/>page<sp/>number.<sp/>We<sp/>can<sp/>replace<sp/>it<sp/>with<sp/>any<sp/>text<sp/>we<sp/>put<sp/>on<sp/>this<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Inserting<sp/>a<sp/>tab<sp/>character<sp/>will<sp/>preserve<sp/>the<sp/>original<sp/>tab.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_EntrySeparator(u</highlight><highlight class="stringliteral">&quot;<sp/>\t<sp/>p.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>have<sp/>multiple<sp/>TA<sp/>entries<sp/>that<sp/>share<sp/>the<sp/>same<sp/>long<sp/>citation,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>all<sp/>their<sp/>respective<sp/>page<sp/>numbers<sp/>will<sp/>show<sp/>up<sp/>on<sp/>one<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>this<sp/>property<sp/>to<sp/>specify<sp/>a<sp/>string<sp/>that<sp/>will<sp/>separate<sp/>their<sp/>page<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_PageNumberListSeparator(u</highlight><highlight class="stringliteral">&quot;<sp/>&amp;<sp/>p.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>this<sp/>to<sp/>true<sp/>to<sp/>get<sp/>our<sp/>table<sp/>to<sp/>display<sp/>the<sp/>word<sp/>&quot;passim&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>if<sp/>there<sp/>are<sp/>five<sp/>or<sp/>more<sp/>page<sp/>numbers<sp/>in<sp/>one<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_UsePassim(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>One<sp/>TA<sp/>field<sp/>can<sp/>refer<sp/>to<sp/>a<sp/>range<sp/>of<sp/>pages.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>specify<sp/>a<sp/>string<sp/>here<sp/>to<sp/>appear<sp/>between<sp/>the<sp/>start<sp/>and<sp/>end<sp/>page<sp/>numbers<sp/>for<sp/>such<sp/>ranges.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_PageRangeSeparator(u</highlight><highlight class="stringliteral">&quot;<sp/>to<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>format<sp/>from<sp/>the<sp/>TA<sp/>fields<sp/>will<sp/>carry<sp/>over<sp/>into<sp/>our<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>disable<sp/>this<sp/>by<sp/>setting<sp/>the<sp/>RemoveEntryFormatting<sp/>flag.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToa-&gt;set_RemoveEntryFormatting(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial<sp/>Black&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOA<sp/><sp/>\\c<sp/>1<sp/>\\h<sp/>\\b<sp/>MyBookmark<sp/>\\e<sp/>\&quot;<sp/>\t<sp/>p.\&quot;<sp/>\\l<sp/>\&quot;<sp/>&amp;<sp/>p.<sp/>\&quot;<sp/>\\p<sp/>\\g<sp/>\&quot;<sp/>to<sp/>\&quot;<sp/>\\f&quot;</highlight><highlight class="normal">,<sp/>fieldToa-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>TA<sp/>field<sp/>will<sp/>not<sp/>appear<sp/>as<sp/>an<sp/>entry<sp/>in<sp/>the<sp/>TOA<sp/>since<sp/>it<sp/>is<sp/>outside</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>the<sp/>bookmark&apos;s<sp/>bounds<sp/>that<sp/>the<sp/>TOA&apos;s<sp/>BookmarkName<sp/>property<sp/>specifies.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FieldTA&gt;<sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>1\&quot;&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>TA<sp/>field<sp/>is<sp/>inside<sp/>the<sp/>bookmark,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>but<sp/>the<sp/>entry<sp/>category<sp/>does<sp/>not<sp/>match<sp/>that<sp/>of<sp/>the<sp/>table,<sp/>so<sp/>the<sp/>TA<sp/>field<sp/>will<sp/>not<sp/>include<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>appear<sp/>in<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>TOA<sp/>table<sp/>does<sp/>not<sp/>display<sp/>short<sp/>citations,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>but<sp/>we<sp/>can<sp/>use<sp/>them<sp/>as<sp/>a<sp/>shorthand<sp/>to<sp/>refer<sp/>to<sp/>bulky<sp/>source<sp/>names<sp/>that<sp/>multiple<sp/>TA<sp/>fields<sp/>reference.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_ShortCitation(u</highlight><highlight class="stringliteral">&quot;S.3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>3\&quot;<sp/>\\s<sp/>S.3&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>format<sp/>the<sp/>page<sp/>number<sp/>to<sp/>make<sp/>it<sp/>bold/italic<sp/>using<sp/>the<sp/>following<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>still<sp/>see<sp/>these<sp/>effects<sp/>if<sp/>we<sp/>set<sp/>our<sp/>table<sp/>to<sp/>ignore<sp/>formatting.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_IsBold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_IsItalic(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>2\&quot;<sp/>\\b<sp/>\\i&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>configure<sp/>TA<sp/>fields<sp/>to<sp/>get<sp/>their<sp/>TOA<sp/>entries<sp/>to<sp/>refer<sp/>to<sp/>a<sp/>range<sp/>of<sp/>pages<sp/>that<sp/>a<sp/>bookmark<sp/>spans<sp/>across.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Note<sp/>that<sp/>this<sp/>entry<sp/>refers<sp/>to<sp/>the<sp/>same<sp/>source<sp/>as<sp/>the<sp/>one<sp/>above<sp/>to<sp/>share<sp/>one<sp/>row<sp/>in<sp/>our<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>row<sp/>will<sp/>have<sp/>the<sp/>page<sp/>number<sp/>of<sp/>the<sp/>entry<sp/>above<sp/>and<sp/>the<sp/>page<sp/>range<sp/>of<sp/>this<sp/>entry,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>with<sp/>the<sp/>table&apos;s<sp/>page<sp/>list<sp/>and<sp/>page<sp/>number<sp/>range<sp/>separators<sp/>between<sp/>page<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA<sp/>=<sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTA-&gt;set_PageRangeBookmarkName(u</highlight><highlight class="stringliteral">&quot;MyMultiPageBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;MyMultiPageBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;MyMultiPageBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TA<sp/><sp/>\\c<sp/>1<sp/>\\l<sp/>\&quot;Source<sp/>3\&quot;<sp/>\\r<sp/>MyMultiPageBookmark&quot;</highlight><highlight class="normal">,<sp/>fieldTA-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>have<sp/>enabled<sp/>the<sp/>&quot;Passim&quot;<sp/>feature<sp/>of<sp/>our<sp/>table,<sp/>having<sp/>5<sp/>or<sp/>more<sp/>TA<sp/>entries<sp/>with<sp/>the<sp/>same<sp/>source<sp/>will<sp/>invoke<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>5;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>InsertToaEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>4&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.TOA.TA.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/>SharedPtr&lt;FieldTA&gt;<sp/>InsertToaEntry(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>entryCategory,<sp/>String<sp/>longCitation)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldTA&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaa24c781f69f2b4e4a0021d907f9d4674" kindref="member" tooltip="Specifies the TA field.">FieldType::FieldTOAEntry</ref>,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_EntryCategory(entryCategory);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>field-&gt;set_LongCitation(longCitation);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>field;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldTA</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldTA</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/FieldTA.h" line="158" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldTA.h" bodystart="159" bodyend="926"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1af1236a428635b8d4325203d0b0800dfb" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1ad4f6c5f4d492be23debf5d0665a7ecba" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a5c2d01019c517ea8098f296903e37a34" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>get_DisplayResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad5f0995c85cce833806e847cf25809b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1aba407f95eb045199da2902e5453aa10f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>get_EntryCategory</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a399c14463916724cac0015b430175589" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>get_FieldEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abc40cddc1325f7fec80d8530e5287448" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>get_FieldStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a090c5d09915e2ead6cc54fda736dd7c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>get_Format</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a18cbd8fc70d586c629b6a57e1eaac64d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>get_IsBold</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ae68851d4a88a1fc867d3ddee2e4e88c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>get_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1aa8fb40cecebbf449bf4ab51627bb88e0" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>get_IsItalic</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afda4c46db80761545c89e21aae5b717d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>get_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a93719d071099487b6aea1eaa241dd6e8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>get_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a54aea3395e5810456b12613eb58210e3" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>get_LongCitation</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a9c53e2cae96a7c55c5f8abba4da460a5" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>get_PageRangeBookmarkName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a012c93472901dc077815970a9b2ab650" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>get_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abbc83ad66d5fb391a21980126ea96847" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>get_Separator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a201d697f7c7b72820e1b160f9c18da3a" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>get_ShortCitation</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afa7cd5d4cf1a87b05058982f26786456" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad68196653db5cfca30c1ba18ed44c76e" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa40bc0e4a5be11f0df785cc8bb2ff042" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a8df61c1b64cd585c67cb4b393bed8aa3" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>GetSwitchType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad26a8021af3dbdc5bf0a1360a201222f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a9fd4c0619af314f4ac18c1e0d4bc8d33" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a5c97e1e320dfe26ce1422880ffd9e366" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>set_EntryCategory</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a4513070726e05c307693a240fe49b45d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>set_IsBold</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa637d825865724665fb8ed856e664d95" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>set_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a10dba8cfdbaa6bcb5d7632c4811053f6" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>set_IsItalic</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ac70b125adbe7f0ba5b889280cd282c47" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>set_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a165f748dd5ba33844f1d765f6c710f88" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>set_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a701cd59849d50d88b6552d4a879e7834" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>set_LongCitation</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1af57a2bcfc4271268c86b7e4c91c1f985" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>set_PageRangeBookmarkName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa6af1e900c84ae806f071098dfe8f087" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>set_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a0297436777fe18021c16942e627910dd" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>set_ShortCitation</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1adf82bea9af2a773cbf515f79b7b34532" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a_1a4448c723dddca67f7af651c9ff0bcbff" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab9f908becb16b26bed76d58dbcee9929" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>Unlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aaec82418b2b6493aa2827b8e282b2e82" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a1298d7daa07c863bf97cb3f37a4d7a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTA</scope><name>Update</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

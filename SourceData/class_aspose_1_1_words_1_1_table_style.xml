@@ -1,0 +1,1550 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_table_style" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::TableStyle</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_style" prot="public" virt="non-virtual">Aspose::Words::Style</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::ICellAttrSource</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::IRowAttrSource</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::IBorderAttrSource</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::IShadingAttrSource</basecompoundref>
+    <includes refid="_table_style_8h" local="no">Aspose.Words.Cpp/TableStyle.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_table_style_1a9ee7d45ee13a3ec0d982b4ccba0c98f9" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Aspose::Words::Style</ref></type>
+        <definition>typedef Aspose::Words::Style Aspose::Words::TableStyle::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::TableStyle::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="97" column="34" bodyfile="Aspose.Words.Cpp/TableStyle.h" bodystart="97" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_table_style_1ac29f204409f6ed699d096f59e3c58cac" prot="private" static="no">
+        <type>Aspose::Words::ICellAttrSource</type>
+        <definition>typedef Aspose::Words::ICellAttrSource Aspose::Words::TableStyle::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::TableStyle::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="98" column="44" bodyfile="Aspose.Words.Cpp/TableStyle.h" bodystart="98" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_table_style_1ab0dfbecb36256a265a0e50c47e7e3290" prot="private" static="no">
+        <type>Aspose::Words::IRowAttrSource</type>
+        <definition>typedef Aspose::Words::IRowAttrSource Aspose::Words::TableStyle::BaseType2</definition>
+        <argsstring></argsstring>
+        <name>BaseType2</name>
+        <qualifiedname>Aspose::Words::TableStyle::BaseType2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="99" column="43" bodyfile="Aspose.Words.Cpp/TableStyle.h" bodystart="99" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_table_style_1a19f723a10ff022583f75080f42034e0d" prot="private" static="no">
+        <type>Aspose::Words::IBorderAttrSource</type>
+        <definition>typedef Aspose::Words::IBorderAttrSource Aspose::Words::TableStyle::BaseType3</definition>
+        <argsstring></argsstring>
+        <name>BaseType3</name>
+        <qualifiedname>Aspose::Words::TableStyle::BaseType3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="100" column="46" bodyfile="Aspose.Words.Cpp/TableStyle.h" bodystart="100" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_table_style_1abe8020915e208f315f9f70f3d8ac9bd1" prot="private" static="no">
+        <type>Aspose::Words::IShadingAttrSource</type>
+        <definition>typedef Aspose::Words::IShadingAttrSource Aspose::Words::TableStyle::BaseType4</definition>
+        <argsstring></argsstring>
+        <name>BaseType4</name>
+        <qualifiedname>Aspose::Words::TableStyle::BaseType4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="101" column="47" bodyfile="Aspose.Words.Cpp/TableStyle.h" bodystart="101" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_table_style_1a2674b9607d71a7002c2379b8008a26d4" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_table_style" kindref="compound">TableStyle</ref></type>
+        <definition>typedef TableStyle Aspose::Words::TableStyle::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::TableStyle::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="96" column="24" bodyfile="Aspose.Words.Cpp/TableStyle.h" bodystart="96" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_table_style_1a8cc9a3dd78a492e8c08e41ca9c56e16f" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">BaseType</ref>, BaseType1, BaseType2, BaseType3, BaseType4 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1, BaseType2, BaseType3, BaseType4&gt; Aspose::Words::TableStyle::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::TableStyle::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="103" column="37" bodyfile="Aspose.Words.Cpp/TableStyle.h" bodystart="103" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_table_style_1ac8a2b0aae102cbdf740cafca6c3b91e4" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::TableStyle::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::TableStyle::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="882" column="23" bodyfile="Aspose.Words.Cpp/TableStyle.h" bodystart="882" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_table_style_1aa9fa028202244c94821b13aa96e1f4f5" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::TableStyle::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::TableStyle::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="883" column="23" bodyfile="Aspose.Words.Cpp/TableStyle.h" bodystart="883" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_table_style_1ac4cc805e01674e74eb371499b99a4f6a" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::TableStyle::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::TableStyle::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="884" column="23" bodyfile="Aspose.Words.Cpp/TableStyle.h" bodystart="884" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_table_style_1a9ae0f8ee781a2b1195d89e82ad1ab31c" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::TableStyle::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::TableStyle::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="885" column="23" bodyfile="Aspose.Words.Cpp/TableStyle.h" bodystart="885" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_table_style_1aa85ab262eeae83665f49b2fb9ea25820" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::TableStyle::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::TableStyle::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="886" column="23" bodyfile="Aspose.Words.Cpp/TableStyle.h" bodystart="886" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1a84650ba2b1ac64f01b9219844c113e60" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::TableStyle::TableStyle</definition>
+        <argsstring>()</argsstring>
+        <name>TableStyle</name>
+        <qualifiedname>Aspose::Words::TableStyle::TableStyle</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="870" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1ac22b77f37ae80f83bc8b6c58a6257ac5" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::TableStyle::~TableStyle</definition>
+        <argsstring>()</argsstring>
+        <name>~TableStyle</name>
+        <qualifiedname>Aspose::Words::TableStyle::~TableStyle</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="876" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1a110905fa238c0a77faf90c232aa608a1" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Aspose::Words::Style</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Style &gt; Aspose::Words::TableStyle::Clone</definition>
+        <argsstring>() override</argsstring>
+        <name>Clone</name>
+        <qualifiedname>Aspose::Words::TableStyle::Clone</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_style_1a6442d3a5a956d07350b4131493f7086f">Clone</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="872" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1aceeed57e98dfdf522e2c93ddec41e286" prot="private" static="no" const="yes" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_table_style" kindref="compound">ThisType</ref> *</type>
+        <definition>ThisType * Aspose::Words::TableStyle::CppMemberwiseClone</definition>
+        <argsstring>() const override</argsstring>
+        <name>CppMemberwiseClone</name>
+        <qualifiedname>Aspose::Words::TableStyle::CppMemberwiseClone</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_style_1a0d63df04541de8d094e8eb76a6dbe6bb">CppMemberwiseClone</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="904" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1ae33fe419790bc0edab324a6ad6599bf2" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::TableStyle::HasFormatting</definition>
+        <argsstring>() override</argsstring>
+        <name>HasFormatting</name>
+        <qualifiedname>Aspose::Words::TableStyle::HasFormatting</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_style_1aff47c5c016247feacf3813946693fc4b">HasFormatting</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="874" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1a8e39b889cff7784ad8b75ece23a94cf2" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::TableStyle::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::TableStyle::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="104" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1ab532b3b5141e63b786577acb0c23fd9e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_tables_1afed607c8f2cc443c5cc260268a364734" kindref="member">Aspose::Words::Tables::TableAlignment</ref></type>
+        <definition>Aspose::Words::Tables::TableAlignment Aspose::Words::TableStyle::get_Alignment</definition>
+        <argsstring>()</argsstring>
+        <name>get_Alignment</name>
+        <qualifiedname>Aspose::Words::TableStyle::get_Alignment</qualifiedname>
+        <briefdescription>
+<para>Specifies the alignment for the table style. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set the position of a table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>aligning<sp/>a<sp/>table<sp/>horizontally.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Use<sp/>the<sp/>&quot;Alignment&quot;<sp/>property<sp/>to<sp/>align<sp/>it<sp/>to<sp/>a<sp/>location<sp/>on<sp/>the<sp/>page,<sp/>such<sp/>as<sp/>the<sp/>center:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_Alignment(TableAlignment::Center);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da66ba162102bbf6ae31b522aec561735e" kindref="member">LineStyle::Single</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>table<sp/>and<sp/>apply<sp/>the<sp/>style<sp/>we<sp/>created<sp/>to<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Aligned<sp/>to<sp/>the<sp/>center<sp/>of<sp/>the<sp/>page&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_PreferredWidth(PreferredWidth::FromPoints(300));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Use<sp/>the<sp/>&quot;LeftIndent&quot;<sp/>to<sp/>specify<sp/>an<sp/>indent<sp/>from<sp/>the<sp/>left<sp/>margin<sp/>of<sp/>the<sp/>page:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_LeftIndent(55);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da66ba162102bbf6ae31b522aec561735e" kindref="member">LineStyle::Single</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Aligned<sp/>according<sp/>to<sp/>left<sp/>indent&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_PreferredWidth(PreferredWidth::FromPoints(300));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.SetTableAlignment.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="428" column="46"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1ab5578988c98d37ecfc527ff618ac7157" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::TableStyle::get_AllowBreakAcrossPages</definition>
+        <argsstring>()</argsstring>
+        <name>get_AllowBreakAcrossPages</name>
+        <qualifiedname>Aspose::Words::TableStyle::get_AllowBreakAcrossPages</qualifiedname>
+        <briefdescription>
+<para>Gets or sets a flag indicating whether text in a table row is allowed to split across a page break. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create custom style settings for the table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Name&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;مرحبًا&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_AllowBreakAcrossPages(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_Bidi(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_CellSpacing(5);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_BottomPadding(20);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_LeftPadding(5);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_RightPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_TopPadding(20);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a3ec909697b271549e8163b4ff6631b70" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_AntiqueWhite</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da946369d896277a74817357a370331422" kindref="member">LineStyle::DotDash</ref>);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_VerticalAlignment(CellVerticalAlignment::Center);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Setting<sp/>the<sp/>style<sp/>properties<sp/>of<sp/>a<sp/>table<sp/>may<sp/>affect<sp/>the<sp/>properties<sp/>of<sp/>the<sp/>table<sp/>itself.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(table-&gt;get_Bidi());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(5.0,<sp/>table-&gt;get_CellSpacing());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">,<sp/>table-&gt;get_StyleName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.TableStyleCreation.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="155" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1a0bdf685dfbc056b138b67c00291715cd" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::TableStyle::get_Bidi</definition>
+        <argsstring>()</argsstring>
+        <name>get_Bidi</name>
+        <qualifiedname>Aspose::Words::TableStyle::get_Bidi</qualifiedname>
+        <briefdescription>
+<para>Gets or sets whether this is a style for a right-to-left table. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>When <bold>true</bold>, the cells in rows are laid out right to left.</para>
+<para>The default value is <bold>false</bold>.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create custom style settings for the table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Name&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;مرحبًا&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_AllowBreakAcrossPages(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_Bidi(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_CellSpacing(5);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_BottomPadding(20);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_LeftPadding(5);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_RightPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_TopPadding(20);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a3ec909697b271549e8163b4ff6631b70" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_AntiqueWhite</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da946369d896277a74817357a370331422" kindref="member">LineStyle::DotDash</ref>);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_VerticalAlignment(CellVerticalAlignment::Center);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Setting<sp/>the<sp/>style<sp/>properties<sp/>of<sp/>a<sp/>table<sp/>may<sp/>affect<sp/>the<sp/>properties<sp/>of<sp/>the<sp/>table<sp/>itself.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(table-&gt;get_Bidi());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(5.0,<sp/>table-&gt;get_CellSpacing());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">,<sp/>table-&gt;get_StyleName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.TableStyleCreation.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="524" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1a02fe41aa21288fe63d479bb4a450cca3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border_collection" kindref="compound">Aspose::Words::BorderCollection</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::BorderCollection &gt; Aspose::Words::TableStyle::get_Borders</definition>
+        <argsstring>()</argsstring>
+        <name>get_Borders</name>
+        <qualifiedname>Aspose::Words::TableStyle::get_Borders</qualifiedname>
+        <briefdescription>
+<para>Gets the collection of default cell borders for the style. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create custom style settings for the table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Name&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;مرحبًا&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_AllowBreakAcrossPages(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_Bidi(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_CellSpacing(5);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_BottomPadding(20);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_LeftPadding(5);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_RightPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_TopPadding(20);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a3ec909697b271549e8163b4ff6631b70" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_AntiqueWhite</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da946369d896277a74817357a370331422" kindref="member">LineStyle::DotDash</ref>);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_VerticalAlignment(CellVerticalAlignment::Center);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Setting<sp/>the<sp/>style<sp/>properties<sp/>of<sp/>a<sp/>table<sp/>may<sp/>affect<sp/>the<sp/>properties<sp/>of<sp/>the<sp/>table<sp/>itself.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(table-&gt;get_Bidi());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(5.0,<sp/>table-&gt;get_CellSpacing());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">,<sp/>table-&gt;get_StyleName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.TableStyleCreation.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="201" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1a3466c63b43856865fc9ada8f7a871c7e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::TableStyle::get_BottomPadding</definition>
+        <argsstring>()</argsstring>
+        <name>get_BottomPadding</name>
+        <qualifiedname>Aspose::Words::TableStyle::get_BottomPadding</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the amount of space (in points) to add below the contents of table cells. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create custom style settings for the table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Name&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;مرحبًا&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_AllowBreakAcrossPages(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_Bidi(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_CellSpacing(5);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_BottomPadding(20);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_LeftPadding(5);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_RightPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_TopPadding(20);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a3ec909697b271549e8163b4ff6631b70" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_AntiqueWhite</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da946369d896277a74817357a370331422" kindref="member">LineStyle::DotDash</ref>);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_VerticalAlignment(CellVerticalAlignment::Center);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Setting<sp/>the<sp/>style<sp/>properties<sp/>of<sp/>a<sp/>table<sp/>may<sp/>affect<sp/>the<sp/>properties<sp/>of<sp/>the<sp/>table<sp/>itself.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(table-&gt;get_Bidi());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(5.0,<sp/>table-&gt;get_CellSpacing());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">,<sp/>table-&gt;get_StyleName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.TableStyleCreation.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="382" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1af2107a7b4d1583be073d830d664e3f43" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::TableStyle::get_CellSpacing</definition>
+        <argsstring>()</argsstring>
+        <name>get_CellSpacing</name>
+        <qualifiedname>Aspose::Words::TableStyle::get_CellSpacing</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the amount of space (in points) between the cells. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create custom style settings for the table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Name&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;مرحبًا&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_AllowBreakAcrossPages(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_Bidi(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_CellSpacing(5);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_BottomPadding(20);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_LeftPadding(5);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_RightPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_TopPadding(20);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a3ec909697b271549e8163b4ff6631b70" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_AntiqueWhite</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da946369d896277a74817357a370331422" kindref="member">LineStyle::DotDash</ref>);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_VerticalAlignment(CellVerticalAlignment::Center);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Setting<sp/>the<sp/>style<sp/>properties<sp/>of<sp/>a<sp/>table<sp/>may<sp/>affect<sp/>the<sp/>properties<sp/>of<sp/>the<sp/>table<sp/>itself.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(table-&gt;get_Bidi());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(5.0,<sp/>table-&gt;get_CellSpacing());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">,<sp/>table-&gt;get_StyleName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.TableStyleCreation.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="474" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1a2b80e21b52809dc814470e9fccad9c2b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::TableStyle::get_ColumnStripe</definition>
+        <argsstring>()</argsstring>
+        <name>get_ColumnStripe</name>
+        <qualifiedname>Aspose::Words::TableStyle::get_ColumnStripe</qualifiedname>
+        <briefdescription>
+<para>Gets or sets a number of columns to include in the banding when the style specifies odd/even columns banding. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create conditional table styles that alternate between rows. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>configure<sp/>a<sp/>conditional<sp/>style<sp/>of<sp/>a<sp/>table<sp/>to<sp/>apply<sp/>a<sp/>different<sp/>color<sp/>to<sp/>the<sp/>row/column,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>based<sp/>on<sp/>whether<sp/>the<sp/>row/column<sp/>is<sp/>even<sp/>or<sp/>odd,<sp/>creating<sp/>an<sp/>alternating<sp/>color<sp/>pattern.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>apply<sp/>a<sp/>number<sp/>n<sp/>to<sp/>the<sp/>row/column<sp/>banding,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>meaning<sp/>that<sp/>the<sp/>color<sp/>alternates<sp/>after<sp/>every<sp/>n<sp/>rows/columns<sp/>instead<sp/>of<sp/>one.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>table<sp/>where<sp/>single<sp/>columns<sp/>and<sp/>rows<sp/>will<sp/>band<sp/>the<sp/>columns<sp/>will<sp/>banded<sp/>in<sp/>threes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>15;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>j<sp/>=<sp/>0;<sp/>j<sp/>&lt;<sp/>4;<sp/>j++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;Writeln(String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>column.&quot;</highlight><highlight class="normal">,<sp/>(j<sp/>%<sp/>2<sp/>==<sp/>0<sp/>?<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Even&quot;</highlight><highlight class="normal">)<sp/>:<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Odd&quot;</highlight><highlight class="normal">))));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;Write(String::Format(u</highlight><highlight class="stringliteral">&quot;Row<sp/>banding<sp/>{0}.&quot;</highlight><highlight class="normal">,<sp/>(i<sp/>%<sp/>3<sp/>==<sp/>0<sp/>?<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;start&quot;</highlight><highlight class="normal">)<sp/>:<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;continuation&quot;</highlight><highlight class="normal">))));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>a<sp/>line<sp/>style<sp/>to<sp/>all<sp/>the<sp/>borders<sp/>of<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dad909d38d705ce75386dd86e611a82f5b" kindref="member">LineStyle::Double</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>two<sp/>colors,<sp/>which<sp/>will<sp/>alternate<sp/>over<sp/>every<sp/>3<sp/>rows.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_RowStripe(3);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aaec3973689aada4d016605a1afea3c42f" kindref="member" tooltip="Specifies formatting of odd-numbered row stripe.">ConditionalStyleType::OddRowBanding</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;get_Shading()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a989243916cf2bfbe0fc140d29ec2ea2e" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightBlue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aa6fdd180659486f764cd9bdec60425136" kindref="member" tooltip="Specifies formatting of even-numbered row stripe.">ConditionalStyleType::EvenRowBanding</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;get_Shading()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a54a2de14700577c2aa9b64854d909293" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightCyan</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>color<sp/>to<sp/>apply<sp/>to<sp/>every<sp/>even<sp/>column,<sp/>which<sp/>will<sp/>override<sp/>any<sp/>custom<sp/>row<sp/>coloring.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_ColumnStripe(1);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aac2ad04ad84bbc44d3fdd2e9f6fe920d2" kindref="member" tooltip="Specifies formatting of even-numbered column stripe.">ConditionalStyleType::EvenColumnBanding</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;get_Shading()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a3b99013db35f14f1ede42c93a2543596" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightSalmon</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;StyleOptions&quot;<sp/>property<sp/>enables<sp/>row<sp/>banding<sp/>by<sp/>default.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(TableStyleOptions::FirstRow<sp/>|<sp/>TableStyleOptions::FirstColumn<sp/>|<sp/>TableStyleOptions::RowBands,<sp/>table-&gt;get_StyleOptions());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;StyleOptions&quot;<sp/>property<sp/>also<sp/>to<sp/>enable<sp/>column<sp/>banding.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_StyleOptions(table-&gt;get_StyleOptions()<sp/>|<sp/>TableStyleOptions::ColumnBands);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.AlternatingRowStyles.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="789" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1acf46a294aa3578edb3bdc33597ca7e68" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_conditional_style_collection" kindref="compound">Aspose::Words::ConditionalStyleCollection</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::ConditionalStyleCollection &gt; Aspose::Words::TableStyle::get_ConditionalStyles</definition>
+        <argsstring>()</argsstring>
+        <name>get_ConditionalStyles</name>
+        <qualifiedname>Aspose::Words::TableStyle::get_ConditionalStyles</qualifiedname>
+        <briefdescription>
+<para>Collection of conditional styles that may be defined for this table style. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with certain area styles of a table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>4&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>custom<sp/>table<sp/>style.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Conditional<sp/>styles<sp/>are<sp/>formatting<sp/>changes<sp/>that<sp/>affect<sp/>only<sp/>some<sp/>of<sp/>the<sp/>table&apos;s<sp/>cells</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>based<sp/>on<sp/>a<sp/>predicate,<sp/>such<sp/>as<sp/>the<sp/>cells<sp/>being<sp/>in<sp/>the<sp/>last<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>ways<sp/>of<sp/>accessing<sp/>a<sp/>table<sp/>style&apos;s<sp/>conditional<sp/>styles<sp/>from<sp/>the<sp/>&quot;ConditionalStyles&quot;<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>By<sp/>style<sp/>type:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aa6f90473812d5f788bddfb1470840e651" kindref="member" tooltip="Specifies formatting of the first row of a table.">ConditionalStyleType::FirstRow</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;get_Shading()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1af90758ed5c66dd6f1681ae5becc227e0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_AliceBlue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>By<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da946369d896277a74817357a370331422" kindref="member">LineStyle::DotDash</ref>);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aa6f90473812d5f788bddfb1470840e651" kindref="member" tooltip="Specifies formatting of the first row of a table.">ConditionalStyleType::FirstRow</ref>,<sp/>tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>As<sp/>a<sp/>property:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_FirstRow()-&gt;get_ParagraphFormat()-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1ae0fabf27a56cdd6988da762600dd9007a4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is centered horizontally.">ParagraphAlignment::Center</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>padding<sp/>and<sp/>text<sp/>formatting<sp/>to<sp/>conditional<sp/>styles.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_BottomPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_LeftPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_RightPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_TopPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastColumn()-&gt;get_Font()-&gt;set_Bold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>List<sp/>all<sp/>possible<sp/>style<sp/>conditions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;ConditionalStyle&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>tableStyle-&gt;get_ConditionalStyles()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;ConditionalStyle&gt;<sp/>currentStyle<sp/>=<sp/>enumerator-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(currentStyle<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>System::EnumGetName(currentStyle-&gt;get_Type())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>the<sp/>custom<sp/>style,<sp/>which<sp/>contains<sp/>all<sp/>conditional<sp/>styles,<sp/>to<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>style<sp/>applies<sp/>some<sp/>conditional<sp/>styles<sp/>by<sp/>default.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(TableStyleOptions::FirstRow<sp/>|<sp/>TableStyleOptions::FirstColumn<sp/>|<sp/>TableStyleOptions::RowBands,<sp/>table-&gt;get_StyleOptions());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>need<sp/>to<sp/>enable<sp/>all<sp/>other<sp/>styles<sp/>ourselves<sp/>via<sp/>the<sp/>&quot;StyleOptions&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_StyleOptions(table-&gt;get_StyleOptions()<sp/>|<sp/>TableStyleOptions::LastRow<sp/>|<sp/>TableStyleOptions::LastColumn);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.ConditionalStyles.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="866" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1ae014bedc3d2a228b172fa733947b679b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::TableStyle::get_LeftIndent</definition>
+        <argsstring>()</argsstring>
+        <name>get_LeftIndent</name>
+        <qualifiedname>Aspose::Words::TableStyle::get_LeftIndent</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the value that represents the left indent of a table. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set the position of a table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>aligning<sp/>a<sp/>table<sp/>horizontally.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Use<sp/>the<sp/>&quot;Alignment&quot;<sp/>property<sp/>to<sp/>align<sp/>it<sp/>to<sp/>a<sp/>location<sp/>on<sp/>the<sp/>page,<sp/>such<sp/>as<sp/>the<sp/>center:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_Alignment(TableAlignment::Center);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da66ba162102bbf6ae31b522aec561735e" kindref="member">LineStyle::Single</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>table<sp/>and<sp/>apply<sp/>the<sp/>style<sp/>we<sp/>created<sp/>to<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Aligned<sp/>to<sp/>the<sp/>center<sp/>of<sp/>the<sp/>page&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_PreferredWidth(PreferredWidth::FromPoints(300));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Use<sp/>the<sp/>&quot;LeftIndent&quot;<sp/>to<sp/>specify<sp/>an<sp/>indent<sp/>from<sp/>the<sp/>left<sp/>margin<sp/>of<sp/>the<sp/>page:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_LeftIndent(55);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da66ba162102bbf6ae31b522aec561735e" kindref="member">LineStyle::Single</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Aligned<sp/>according<sp/>to<sp/>left<sp/>indent&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_PreferredWidth(PreferredWidth::FromPoints(300));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.SetTableAlignment.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="570" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1a29f0d5085688226a4744dc8e7f51980f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::TableStyle::get_LeftPadding</definition>
+        <argsstring>()</argsstring>
+        <name>get_LeftPadding</name>
+        <qualifiedname>Aspose::Words::TableStyle::get_LeftPadding</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the amount of space (in points) to add to the left of the contents of table cells. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create custom style settings for the table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Name&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;مرحبًا&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_AllowBreakAcrossPages(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_Bidi(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_CellSpacing(5);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_BottomPadding(20);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_LeftPadding(5);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_RightPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_TopPadding(20);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a3ec909697b271549e8163b4ff6631b70" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_AntiqueWhite</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da946369d896277a74817357a370331422" kindref="member">LineStyle::DotDash</ref>);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_VerticalAlignment(CellVerticalAlignment::Center);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Setting<sp/>the<sp/>style<sp/>properties<sp/>of<sp/>a<sp/>table<sp/>may<sp/>affect<sp/>the<sp/>properties<sp/>of<sp/>the<sp/>table<sp/>itself.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(table-&gt;get_Bidi());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(5.0,<sp/>table-&gt;get_CellSpacing());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">,<sp/>table-&gt;get_StyleName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.TableStyleCreation.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="244" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1aaa23b2d4986d5beaa92b8a211eda4436" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::TableStyle::get_RightPadding</definition>
+        <argsstring>()</argsstring>
+        <name>get_RightPadding</name>
+        <qualifiedname>Aspose::Words::TableStyle::get_RightPadding</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the amount of space (in points) to add to the right of the contents of table cells. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create custom style settings for the table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Name&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;مرحبًا&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_AllowBreakAcrossPages(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_Bidi(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_CellSpacing(5);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_BottomPadding(20);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_LeftPadding(5);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_RightPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_TopPadding(20);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a3ec909697b271549e8163b4ff6631b70" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_AntiqueWhite</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da946369d896277a74817357a370331422" kindref="member">LineStyle::DotDash</ref>);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_VerticalAlignment(CellVerticalAlignment::Center);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Setting<sp/>the<sp/>style<sp/>properties<sp/>of<sp/>a<sp/>table<sp/>may<sp/>affect<sp/>the<sp/>properties<sp/>of<sp/>the<sp/>table<sp/>itself.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(table-&gt;get_Bidi());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(5.0,<sp/>table-&gt;get_CellSpacing());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">,<sp/>table-&gt;get_StyleName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.TableStyleCreation.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="290" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1a591903a0801f46773277cf6e1dc10ae3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::TableStyle::get_RowStripe</definition>
+        <argsstring>()</argsstring>
+        <name>get_RowStripe</name>
+        <qualifiedname>Aspose::Words::TableStyle::get_RowStripe</qualifiedname>
+        <briefdescription>
+<para>Gets or sets a number of rows to include in the banding when the style specifies odd/even row banding. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create conditional table styles that alternate between rows. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>configure<sp/>a<sp/>conditional<sp/>style<sp/>of<sp/>a<sp/>table<sp/>to<sp/>apply<sp/>a<sp/>different<sp/>color<sp/>to<sp/>the<sp/>row/column,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>based<sp/>on<sp/>whether<sp/>the<sp/>row/column<sp/>is<sp/>even<sp/>or<sp/>odd,<sp/>creating<sp/>an<sp/>alternating<sp/>color<sp/>pattern.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>apply<sp/>a<sp/>number<sp/>n<sp/>to<sp/>the<sp/>row/column<sp/>banding,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>meaning<sp/>that<sp/>the<sp/>color<sp/>alternates<sp/>after<sp/>every<sp/>n<sp/>rows/columns<sp/>instead<sp/>of<sp/>one.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>table<sp/>where<sp/>single<sp/>columns<sp/>and<sp/>rows<sp/>will<sp/>band<sp/>the<sp/>columns<sp/>will<sp/>banded<sp/>in<sp/>threes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>15;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>j<sp/>=<sp/>0;<sp/>j<sp/>&lt;<sp/>4;<sp/>j++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;Writeln(String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>column.&quot;</highlight><highlight class="normal">,<sp/>(j<sp/>%<sp/>2<sp/>==<sp/>0<sp/>?<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Even&quot;</highlight><highlight class="normal">)<sp/>:<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Odd&quot;</highlight><highlight class="normal">))));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;Write(String::Format(u</highlight><highlight class="stringliteral">&quot;Row<sp/>banding<sp/>{0}.&quot;</highlight><highlight class="normal">,<sp/>(i<sp/>%<sp/>3<sp/>==<sp/>0<sp/>?<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;start&quot;</highlight><highlight class="normal">)<sp/>:<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;continuation&quot;</highlight><highlight class="normal">))));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>a<sp/>line<sp/>style<sp/>to<sp/>all<sp/>the<sp/>borders<sp/>of<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09dad909d38d705ce75386dd86e611a82f5b" kindref="member">LineStyle::Double</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>two<sp/>colors,<sp/>which<sp/>will<sp/>alternate<sp/>over<sp/>every<sp/>3<sp/>rows.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_RowStripe(3);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aaec3973689aada4d016605a1afea3c42f" kindref="member" tooltip="Specifies formatting of odd-numbered row stripe.">ConditionalStyleType::OddRowBanding</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;get_Shading()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a989243916cf2bfbe0fc140d29ec2ea2e" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightBlue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aa6fdd180659486f764cd9bdec60425136" kindref="member" tooltip="Specifies formatting of even-numbered row stripe.">ConditionalStyleType::EvenRowBanding</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;get_Shading()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a54a2de14700577c2aa9b64854d909293" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightCyan</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>color<sp/>to<sp/>apply<sp/>to<sp/>every<sp/>even<sp/>column,<sp/>which<sp/>will<sp/>override<sp/>any<sp/>custom<sp/>row<sp/>coloring.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_ColumnStripe(1);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aac2ad04ad84bbc44d3fdd2e9f6fe920d2" kindref="member" tooltip="Specifies formatting of even-numbered column stripe.">ConditionalStyleType::EvenColumnBanding</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;get_Shading()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a3b99013db35f14f1ede42c93a2543596" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightSalmon</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;StyleOptions&quot;<sp/>property<sp/>enables<sp/>row<sp/>banding<sp/>by<sp/>default.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(TableStyleOptions::FirstRow<sp/>|<sp/>TableStyleOptions::FirstColumn<sp/>|<sp/>TableStyleOptions::RowBands,<sp/>table-&gt;get_StyleOptions());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;StyleOptions&quot;<sp/>property<sp/>also<sp/>to<sp/>enable<sp/>column<sp/>banding.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_StyleOptions(table-&gt;get_StyleOptions()<sp/>|<sp/>TableStyleOptions::ColumnBands);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.AlternatingRowStyles.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="724" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1afd283ffd0650f3487689c85b0f18efae" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_shading" kindref="compound">Aspose::Words::Shading</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Shading &gt; Aspose::Words::TableStyle::get_Shading</definition>
+        <argsstring>()</argsstring>
+        <name>get_Shading</name>
+        <qualifiedname>Aspose::Words::TableStyle::get_Shading</qualifiedname>
+        <briefdescription>
+<para>Gets a <ref refid="class_aspose_1_1_words_1_1_shading" kindref="compound">Shading</ref> object that refers to the shading formatting for table cells. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create custom style settings for the table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Name&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;مرحبًا&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_AllowBreakAcrossPages(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_Bidi(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_CellSpacing(5);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_BottomPadding(20);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_LeftPadding(5);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_RightPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_TopPadding(20);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a3ec909697b271549e8163b4ff6631b70" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_AntiqueWhite</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da946369d896277a74817357a370331422" kindref="member">LineStyle::DotDash</ref>);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_VerticalAlignment(CellVerticalAlignment::Center);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Setting<sp/>the<sp/>style<sp/>properties<sp/>of<sp/>a<sp/>table<sp/>may<sp/>affect<sp/>the<sp/>properties<sp/>of<sp/>the<sp/>table<sp/>itself.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(table-&gt;get_Bidi());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(5.0,<sp/>table-&gt;get_CellSpacing());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">,<sp/>table-&gt;get_StyleName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.TableStyleCreation.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="616" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1a35ab6c33c7d0b51376c6d9b2033a32fd" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::TableStyle::get_TopPadding</definition>
+        <argsstring>()</argsstring>
+        <name>get_TopPadding</name>
+        <qualifiedname>Aspose::Words::TableStyle::get_TopPadding</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the amount of space (in points) to add above the contents of table cells. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create custom style settings for the table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Name&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;مرحبًا&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_AllowBreakAcrossPages(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_Bidi(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_CellSpacing(5);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_BottomPadding(20);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_LeftPadding(5);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_RightPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_TopPadding(20);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a3ec909697b271549e8163b4ff6631b70" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_AntiqueWhite</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da946369d896277a74817357a370331422" kindref="member">LineStyle::DotDash</ref>);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_VerticalAlignment(CellVerticalAlignment::Center);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Setting<sp/>the<sp/>style<sp/>properties<sp/>of<sp/>a<sp/>table<sp/>may<sp/>affect<sp/>the<sp/>properties<sp/>of<sp/>the<sp/>table<sp/>itself.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(table-&gt;get_Bidi());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(5.0,<sp/>table-&gt;get_CellSpacing());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">,<sp/>table-&gt;get_StyleName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.TableStyleCreation.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="336" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1a21aa2d4dad03f6a714713a524f417265" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_tables_1a4c33d97f9cfe518aa1864baeb6533c6d" kindref="member">Aspose::Words::Tables::CellVerticalAlignment</ref></type>
+        <definition>Aspose::Words::Tables::CellVerticalAlignment Aspose::Words::TableStyle::get_VerticalAlignment</definition>
+        <argsstring>()</argsstring>
+        <name>get_VerticalAlignment</name>
+        <qualifiedname>Aspose::Words::TableStyle::get_VerticalAlignment</qualifiedname>
+        <briefdescription>
+<para>Specifies the vertical alignment for the cells. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create custom style settings for the table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Name&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;مرحبًا&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_AllowBreakAcrossPages(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_Bidi(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_CellSpacing(5);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_BottomPadding(20);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_LeftPadding(5);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_RightPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_TopPadding(20);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a3ec909697b271549e8163b4ff6631b70" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_AntiqueWhite</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da946369d896277a74817357a370331422" kindref="member">LineStyle::DotDash</ref>);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_VerticalAlignment(CellVerticalAlignment::Center);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Setting<sp/>the<sp/>style<sp/>properties<sp/>of<sp/>a<sp/>table<sp/>may<sp/>affect<sp/>the<sp/>properties<sp/>of<sp/>the<sp/>table<sp/>itself.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(table-&gt;get_Bidi());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(5.0,<sp/>table-&gt;get_CellSpacing());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">,<sp/>table-&gt;get_StyleName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.TableStyleCreation.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="659" column="53"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1aafa494a8160dd807ce84a885d490027a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::TableStyle::set_Alignment</definition>
+        <argsstring>(Aspose::Words::Tables::TableAlignment value)</argsstring>
+        <name>set_Alignment</name>
+        <qualifiedname>Aspose::Words::TableStyle::set_Alignment</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_tables_1afed607c8f2cc443c5cc260268a364734" kindref="member">Aspose::Words::Tables::TableAlignment</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_table_style_1ab532b3b5141e63b786577acb0c23fd9e" kindref="member">Aspose::Words::TableStyle::get_Alignment</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="431" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1a4ad4f062cf52b24a97c5ca365d94a922" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::TableStyle::set_AllowBreakAcrossPages</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_AllowBreakAcrossPages</name>
+        <qualifiedname>Aspose::Words::TableStyle::set_AllowBreakAcrossPages</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_table_style_1ab5578988c98d37ecfc527ff618ac7157" kindref="member">Aspose::Words::TableStyle::get_AllowBreakAcrossPages</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="158" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1ad335b55907a8f2d51513ed2f0add45c9" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::TableStyle::set_Bidi</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_Bidi</name>
+        <qualifiedname>Aspose::Words::TableStyle::set_Bidi</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_table_style_1a0bdf685dfbc056b138b67c00291715cd" kindref="member">Aspose::Words::TableStyle::get_Bidi</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="527" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1ac5c8d6eda42a05191ad7661e72bff8f7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::TableStyle::set_BottomPadding</definition>
+        <argsstring>(double value)</argsstring>
+        <name>set_BottomPadding</name>
+        <qualifiedname>Aspose::Words::TableStyle::set_BottomPadding</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_table_style_1a3466c63b43856865fc9ada8f7a871c7e" kindref="member">Aspose::Words::TableStyle::get_BottomPadding</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="385" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1a09a4f567b1d5047cd02728524485dde5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::TableStyle::set_CellSpacing</definition>
+        <argsstring>(double value)</argsstring>
+        <name>set_CellSpacing</name>
+        <qualifiedname>Aspose::Words::TableStyle::set_CellSpacing</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_table_style_1af2107a7b4d1583be073d830d664e3f43" kindref="member">Aspose::Words::TableStyle::get_CellSpacing</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="477" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1a3893b5730a7bb097786c0f5cbd3e3ee6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::TableStyle::set_ColumnStripe</definition>
+        <argsstring>(int32_t value)</argsstring>
+        <name>set_ColumnStripe</name>
+        <qualifiedname>Aspose::Words::TableStyle::set_ColumnStripe</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_table_style_1a2b80e21b52809dc814470e9fccad9c2b" kindref="member">Aspose::Words::TableStyle::get_ColumnStripe</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="792" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1acd12353c672f1684bf18e6b9a3bccca7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::TableStyle::set_LeftIndent</definition>
+        <argsstring>(double value)</argsstring>
+        <name>set_LeftIndent</name>
+        <qualifiedname>Aspose::Words::TableStyle::set_LeftIndent</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_table_style_1ae014bedc3d2a228b172fa733947b679b" kindref="member">Aspose::Words::TableStyle::get_LeftIndent</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="573" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1a1380b678dc43c9a279c1c02535f1681e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::TableStyle::set_LeftPadding</definition>
+        <argsstring>(double value)</argsstring>
+        <name>set_LeftPadding</name>
+        <qualifiedname>Aspose::Words::TableStyle::set_LeftPadding</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_table_style_1a29f0d5085688226a4744dc8e7f51980f" kindref="member">Aspose::Words::TableStyle::get_LeftPadding</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="247" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1a11c47a54267d1fcbe61d6a2ad0175df3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::TableStyle::set_RightPadding</definition>
+        <argsstring>(double value)</argsstring>
+        <name>set_RightPadding</name>
+        <qualifiedname>Aspose::Words::TableStyle::set_RightPadding</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_table_style_1aaa23b2d4986d5beaa92b8a211eda4436" kindref="member">Aspose::Words::TableStyle::get_RightPadding</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="293" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1ab4dd99b6a7c8f4e149d3f74bc6deefab" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::TableStyle::set_RowStripe</definition>
+        <argsstring>(int32_t value)</argsstring>
+        <name>set_RowStripe</name>
+        <qualifiedname>Aspose::Words::TableStyle::set_RowStripe</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_table_style_1a591903a0801f46773277cf6e1dc10ae3" kindref="member">Aspose::Words::TableStyle::get_RowStripe</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="727" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1ae53f1025030cf5a73ed96f3feb599af9" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::TableStyle::set_TopPadding</definition>
+        <argsstring>(double value)</argsstring>
+        <name>set_TopPadding</name>
+        <qualifiedname>Aspose::Words::TableStyle::set_TopPadding</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_table_style_1a35ab6c33c7d0b51376c6d9b2033a32fd" kindref="member">Aspose::Words::TableStyle::get_TopPadding</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="339" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_table_style_1ac2959e7a0825a71edc88272b91c65e24" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::TableStyle::set_VerticalAlignment</definition>
+        <argsstring>(Aspose::Words::Tables::CellVerticalAlignment value)</argsstring>
+        <name>set_VerticalAlignment</name>
+        <qualifiedname>Aspose::Words::TableStyle::set_VerticalAlignment</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_tables_1a4c33d97f9cfe518aa1864baeb6533c6d" kindref="member">Aspose::Words::Tables::CellVerticalAlignment</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_table_style_1a21aa2d4dad03f6a714713a524f417265" kindref="member">Aspose::Words::TableStyle::get_VerticalAlignment</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TableStyle.h" line="662" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents a table style. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create custom style settings for the table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Name&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;مرحبًا&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_AllowBreakAcrossPages(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_Bidi(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_CellSpacing(5);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_BottomPadding(20);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_LeftPadding(5);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_RightPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_TopPadding(20);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Shading()-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1a3ec909697b271549e8163b4ff6631b70" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_AntiqueWhite</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da946369d896277a74817357a370331422" kindref="member">LineStyle::DotDash</ref>);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;set_VerticalAlignment(CellVerticalAlignment::Center);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Setting<sp/>the<sp/>style<sp/>properties<sp/>of<sp/>a<sp/>table<sp/>may<sp/>affect<sp/>the<sp/>properties<sp/>of<sp/>the<sp/>table<sp/>itself.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(table-&gt;get_Bidi());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(5.0,<sp/>table-&gt;get_CellSpacing());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">,<sp/>table-&gt;get_StyleName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.TableStyleCreation.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="7">
+        <label>Aspose::Words::IBorderAttrSource</label>
+      </node>
+      <node id="5">
+        <label>Aspose::Words::ICellAttrSource</label>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::IParaAttrSource</label>
+      </node>
+      <node id="6">
+        <label>Aspose::Words::IRowAttrSource</label>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::IRunAttrSource</label>
+      </node>
+      <node id="8">
+        <label>Aspose::Words::IShadingAttrSource</label>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Style</label>
+        <link refid="class_aspose_1_1_words_1_1_style"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::TableStyle</label>
+        <link refid="class_aspose_1_1_words_1_1_table_style"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="7">
+        <label>Aspose::Words::IBorderAttrSource</label>
+      </node>
+      <node id="5">
+        <label>Aspose::Words::ICellAttrSource</label>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::IParaAttrSource</label>
+      </node>
+      <node id="6">
+        <label>Aspose::Words::IRowAttrSource</label>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::IRunAttrSource</label>
+      </node>
+      <node id="8">
+        <label>Aspose::Words::IShadingAttrSource</label>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Style</label>
+        <link refid="class_aspose_1_1_words_1_1_style"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::TableStyle</label>
+        <link refid="class_aspose_1_1_words_1_1_table_style"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/TableStyle.h" line="94" column="1" bodyfile="Aspose.Words.Cpp/TableStyle.h" bodystart="95" bodyend="906"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1a9ee7d45ee13a3ec0d982b4ccba0c98f9" prot="private" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1ac29f204409f6ed699d096f59e3c58cac" prot="private" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1ab0dfbecb36256a265a0e50c47e7e3290" prot="private" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>BaseType2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1a19f723a10ff022583f75080f42034e0d" prot="private" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>BaseType3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1abe8020915e208f315f9f70f3d8ac9bd1" prot="private" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>BaseType4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1a110905fa238c0a77faf90c232aa608a1" prot="private" virt="virtual"><scope>Aspose::Words::TableStyle</scope><name>Clone</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1aceeed57e98dfdf522e2c93ddec41e286" prot="private" virt="virtual"><scope>Aspose::Words::TableStyle</scope><name>CppMemberwiseClone</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a464bee9ddd21455f4e13fff21abdbe0a" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>Equals</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a1b23ee60f7267e0417bf8ec55b38c696" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_Aliases</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1ab532b3b5141e63b786577acb0c23fd9e" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_Alignment</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1ab5578988c98d37ecfc527ff618ac7157" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_AllowBreakAcrossPages</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a45e9c644b7a68b026fe83db64085ef8c" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_BaseStyleName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1a0bdf685dfbc056b138b67c00291715cd" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_Bidi</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1a02fe41aa21288fe63d479bb4a450cca3" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_Borders</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1a3466c63b43856865fc9ada8f7a871c7e" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_BottomPadding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a741836f0f1fb39a9ef2badfdc23ff934" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_BuiltIn</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1af2107a7b4d1583be073d830d664e3f43" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_CellSpacing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1a2b80e21b52809dc814470e9fccad9c2b" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_ColumnStripe</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1acf46a294aa3578edb3bdc33597ca7e68" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_ConditionalStyles</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1ae3979d429bdb21a84e2039810399627e" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_Document</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a845f1a0b6c37d3046e0de860e3a3628c" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_Font</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a5525a2dd8c8220a2ba56e34e352c1e28" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_IsHeading</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a6eeb2fb53cce24703e46cc9f1b3c2061" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_IsQuickStyle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1ae014bedc3d2a228b172fa733947b679b" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_LeftIndent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1a29f0d5085688226a4744dc8e7f51980f" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_LeftPadding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a3a7cf5b4fbf7b1f94484903c18485e3a" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_LinkedStyleName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a7ac322af3d27f329ebc486e43d2adcc5" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_List</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1ada85f947d8282e719a941c5272eb5518" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_ListFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a90cde49c3ddb6a747d544dec398bf129" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_Name</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a9c2650e5c3e7868a66a842ab6e82f8d5" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_NextParagraphStyleName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a9824e2696480d674da1f6384a069ed0b" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_ParagraphFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1aaa23b2d4986d5beaa92b8a211eda4436" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_RightPadding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1a591903a0801f46773277cf6e1dc10ae3" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_RowStripe</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1afd283ffd0650f3487689c85b0f18efae" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_Shading</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a6fedf811009fc2c5d9c0ff7ef8bf2022" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_StyleIdentifier</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1afa75427b14be6a2d60970ab6e7c0bcf1" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_Styles</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1a35ab6c33c7d0b51376c6d9b2033a32fd" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_TopPadding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1acdc8710a9fcf8a60ee090811808d7d89" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1a21aa2d4dad03f6a714713a524f417265" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>get_VerticalAlignment</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1ae33fe419790bc0edab324a6ad6599bf2" prot="private" virt="virtual"><scope>Aspose::Words::TableStyle</scope><name>HasFormatting</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1ac8a2b0aae102cbdf740cafca6c3b91e4" prot="private" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1aa9fa028202244c94821b13aa96e1f4f5" prot="private" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1ac4cc805e01674e74eb371499b99a4f6a" prot="private" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1a9ae0f8ee781a2b1195d89e82ad1ab31c" prot="private" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1aa85ab262eeae83665f49b2fb9ea25820" prot="private" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1ad8a902446996ab6bb03fb5626465a82d" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1a8e39b889cff7784ad8b75ece23a94cf2" prot="private" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1aafa494a8160dd807ce84a885d490027a" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>set_Alignment</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1a4ad4f062cf52b24a97c5ca365d94a922" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>set_AllowBreakAcrossPages</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1adc92688b8217100ec3dafc25c5000ead" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>set_BaseStyleName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1ad335b55907a8f2d51513ed2f0add45c9" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>set_Bidi</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1ac5c8d6eda42a05191ad7661e72bff8f7" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>set_BottomPadding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1a09a4f567b1d5047cd02728524485dde5" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>set_CellSpacing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1a3893b5730a7bb097786c0f5cbd3e3ee6" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>set_ColumnStripe</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a4f6d986bb9b73a407531a50e2829f640" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>set_IsQuickStyle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1acd12353c672f1684bf18e6b9a3bccca7" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>set_LeftIndent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1a1380b678dc43c9a279c1c02535f1681e" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>set_LeftPadding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a19f9c6c37aa9fb905e6ef2ee3ae45f9c" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>set_Name</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a0779d0eabc0e23e17c7eaa1a2bf790b4" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>set_NextParagraphStyleName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1a11c47a54267d1fcbe61d6a2ad0175df3" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>set_RightPadding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1ab4dd99b6a7c8f4e149d3f74bc6deefab" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>set_RowStripe</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1ae53f1025030cf5a73ed96f3feb599af9" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>set_TopPadding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1ac2959e7a0825a71edc88272b91c65e24" prot="public" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>set_VerticalAlignment</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1a84650ba2b1ac64f01b9219844c113e60" prot="private" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>TableStyle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1a2674b9607d71a7002c2379b8008a26d4" prot="private" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1a8cc9a3dd78a492e8c08e41ca9c56e16f" prot="private" virt="non-virtual"><scope>Aspose::Words::TableStyle</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_table_style_1ac22b77f37ae80f83bc8b6c58a6257ac5" prot="private" virt="virtual"><scope>Aspose::Words::TableStyle</scope><name>~TableStyle</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

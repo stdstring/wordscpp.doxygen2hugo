@@ -1,0 +1,1070 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Markup::CustomXmlSchemaCollection</compoundname>
+    <basecompoundref refid="class/system.collections.generic.i_enumerable/" prot="public" virt="non-virtual">System::Collections::Generic::IEnumerable&lt; System::String &gt;</basecompoundref>
+    <includes refid="_custom_xml_schema_collection_8h" local="no">Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a2b553a79f0169e293cd018fc45784d9b" prot="private" static="no">
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt;</type>
+        <definition>typedef System::Collections::Generic::IEnumerable&lt;System::String&gt; Aspose::Words::Markup::CustomXmlSchemaCollection::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="89" column="55" bodyfile="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" bodystart="89" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1ab6ed29b164e6077154d5499ef3e5ae0b" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection" kindref="compound">CustomXmlSchemaCollection</ref></type>
+        <definition>typedef CustomXmlSchemaCollection Aspose::Words::Markup::CustomXmlSchemaCollection::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="88" column="39" bodyfile="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" bodystart="88" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1ac5c6320144c570c8b32c5dcb5e44b097" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Markup::CustomXmlSchemaCollection::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="91" column="37" bodyfile="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" bodystart="91" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a4489b6bae38419cc4ca56351e2860287" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.list/_1a0f284b9cbb583432336a9ce4f0b9c84a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
+        <definition>using Aspose::Words::Markup::CustomXmlSchemaCollection::const_iterator =  typename iterator_holder_type::const_iterator</definition>
+        <argsstring></argsstring>
+        <name>const_iterator</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::const_iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="100" column="5" bodyfile="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" bodystart="100" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a23d7a96c18c302e4e66e9688ca9d7f32" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.list/_1ab0ac6ed1e49acd56e069fe8614c87f3d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
+        <definition>using Aspose::Words::Markup::CustomXmlSchemaCollection::iterator =  typename iterator_holder_type::iterator</definition>
+        <argsstring></argsstring>
+        <name>iterator</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="98" column="5" bodyfile="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" bodystart="98" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a01d9857c10c9467229247d3411d9c4ab" prot="public" static="no">
+        <type><ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt;</type>
+        <definition>using Aspose::Words::Markup::CustomXmlSchemaCollection::iterator_holder_type =  System::Collections::Generic::List&lt;System::String&gt;</definition>
+        <argsstring></argsstring>
+        <name>iterator_holder_type</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::iterator_holder_type</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="96" column="5" bodyfile="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" bodystart="96" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a5d5b083d846c885c5a2b8ab6bfa9abfa" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
+        <definition>using Aspose::Words::Markup::CustomXmlSchemaCollection::virtualized_iterator =  typename iterator_holder_type::virtualized_iterator</definition>
+        <argsstring></argsstring>
+        <name>virtualized_iterator</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::virtualized_iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="104" column="5" bodyfile="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" bodystart="104" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1af73aa9d7ba8e35e55946607d100926e4" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
+        <definition>using Aspose::Words::Markup::CustomXmlSchemaCollection::virtualized_iterator_element =  typename iterator_holder_type::virtualized_iterator_element</definition>
+        <argsstring></argsstring>
+        <name>virtualized_iterator_element</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::virtualized_iterator_element</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="102" column="5" bodyfile="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" bodystart="102" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a3dca10deedf4ac0a30d27fef96326f83" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Markup::CustomXmlSchemaCollection::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="616" column="23" bodyfile="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" bodystart="616" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1ab635853ba3939932bc43a22144dd0012" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Markup::CustomXmlSchemaCollection::CustomXmlSchemaCollection</definition>
+        <argsstring>()</argsstring>
+        <name>CustomXmlSchemaCollection</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::CustomXmlSchemaCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="610" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a22318f0d20a82d746feef9c181684bf5" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Markup::CustomXmlSchemaCollection::~CustomXmlSchemaCollection</definition>
+        <argsstring>()</argsstring>
+        <name>~CustomXmlSchemaCollection</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::~CustomXmlSchemaCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="612" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a238039ac72d0d714cab42e88c1119603" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Markup::CustomXmlSchemaCollection::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="92" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a150d9ffca8063d078565a2dbffc48e6a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Markup::CustomXmlSchemaCollection::Add</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>Add</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::Add</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Adds an item to the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>value</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The item to add.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with an XML schema collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartId<sp/>=<sp/><ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>().ToString(u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartContent<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;root&gt;&lt;text&gt;Hello,<sp/>World!&lt;/text&gt;&lt;/root&gt;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlPart&gt;<sp/>xmlPart<sp/>=<sp/>doc-&gt;get_CustomXmlParts()-&gt;Add(xmlPartId,<sp/>xmlPartContent);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>an<sp/>XML<sp/>schema<sp/>association.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">xmlPart-&gt;get_Schemas()-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clone<sp/>the<sp/>custom<sp/>XML<sp/>part&apos;s<sp/>XML<sp/>schema<sp/>association<sp/>collection,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>add<sp/>a<sp/>couple<sp/>of<sp/>new<sp/>schemas<sp/>to<sp/>the<sp/>clone.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlSchemaCollection&gt;<sp/>schemas<sp/>=<sp/>xmlPart-&gt;get_Schemas()-&gt;Clone();</highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema-instance&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://schemas.microsoft.com/office/2006/metadata/contentType&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>schemas-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>schemas-&gt;IndexOf(u</highlight><highlight class="stringliteral">&quot;http://schemas.microsoft.com/office/2006/metadata/contentType&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>the<sp/>schemas<sp/>and<sp/>print<sp/>each<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;String&gt;&gt;<sp/>enumerator<sp/>=<sp/>schemas-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>ways<sp/>of<sp/>removing<sp/>schemas<sp/>from<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Remove<sp/>a<sp/>schema<sp/>by<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Remove<sp/>a<sp/>schema<sp/>by<sp/>value:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Use<sp/>the<sp/>&quot;Clear&quot;<sp/>method<sp/>to<sp/>empty<sp/>the<sp/>collection<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>schemas-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="343" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a2c677c3e5eaa6de3513110c2d4291489" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a4489b6bae38419cc4ca56351e2860287" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::Markup::CustomXmlSchemaCollection::begin</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>begin</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::begin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="592" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a2cc38597c6d71192773aa9c44580cb61" prot="public" static="no" const="no" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a23d7a96c18c302e4e66e9688ca9d7f32" kindref="member">iterator</ref></type>
+        <definition>iterator Aspose::Words::Markup::CustomXmlSchemaCollection::begin</definition>
+        <argsstring>() noexcept</argsstring>
+        <name>begin</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::begin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="588" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1aa0ecf86aa882013bd4eab0eda68a2832" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a4489b6bae38419cc4ca56351e2860287" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::Markup::CustomXmlSchemaCollection::cbegin</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>cbegin</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::cbegin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="596" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1aaf1b670bf2aeb37b21ac01daebdbf65c" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a4489b6bae38419cc4ca56351e2860287" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::Markup::CustomXmlSchemaCollection::cend</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>cend</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::cend</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="598" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a533876c25fbef60cfde52d0bfe90bde6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Markup::CustomXmlSchemaCollection::Clear</definition>
+        <argsstring>()</argsstring>
+        <name>Clear</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::Clear</qualifiedname>
+        <briefdescription>
+<para>Removes all elements from the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with an XML schema collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartId<sp/>=<sp/><ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>().ToString(u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartContent<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;root&gt;&lt;text&gt;Hello,<sp/>World!&lt;/text&gt;&lt;/root&gt;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlPart&gt;<sp/>xmlPart<sp/>=<sp/>doc-&gt;get_CustomXmlParts()-&gt;Add(xmlPartId,<sp/>xmlPartContent);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>an<sp/>XML<sp/>schema<sp/>association.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">xmlPart-&gt;get_Schemas()-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clone<sp/>the<sp/>custom<sp/>XML<sp/>part&apos;s<sp/>XML<sp/>schema<sp/>association<sp/>collection,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>add<sp/>a<sp/>couple<sp/>of<sp/>new<sp/>schemas<sp/>to<sp/>the<sp/>clone.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlSchemaCollection&gt;<sp/>schemas<sp/>=<sp/>xmlPart-&gt;get_Schemas()-&gt;Clone();</highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema-instance&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://schemas.microsoft.com/office/2006/metadata/contentType&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>schemas-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>schemas-&gt;IndexOf(u</highlight><highlight class="stringliteral">&quot;http://schemas.microsoft.com/office/2006/metadata/contentType&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>the<sp/>schemas<sp/>and<sp/>print<sp/>each<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;String&gt;&gt;<sp/>enumerator<sp/>=<sp/>schemas-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>ways<sp/>of<sp/>removing<sp/>schemas<sp/>from<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Remove<sp/>a<sp/>schema<sp/>by<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Remove<sp/>a<sp/>schema<sp/>by<sp/>value:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Use<sp/>the<sp/>&quot;Clear&quot;<sp/>method<sp/>to<sp/>empty<sp/>the<sp/>collection<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>schemas-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="539" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1af8878e24cf13dbe568f478d2a5bdeb85" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection" kindref="compound">Aspose::Words::Markup::CustomXmlSchemaCollection</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Markup::CustomXmlSchemaCollection &gt; Aspose::Words::Markup::CustomXmlSchemaCollection::Clone</definition>
+        <argsstring>()</argsstring>
+        <name>Clone</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::Clone</qualifiedname>
+        <briefdescription>
+<para>Makes a deep clone of this object. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with an XML schema collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartId<sp/>=<sp/><ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>().ToString(u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartContent<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;root&gt;&lt;text&gt;Hello,<sp/>World!&lt;/text&gt;&lt;/root&gt;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlPart&gt;<sp/>xmlPart<sp/>=<sp/>doc-&gt;get_CustomXmlParts()-&gt;Add(xmlPartId,<sp/>xmlPartContent);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>an<sp/>XML<sp/>schema<sp/>association.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">xmlPart-&gt;get_Schemas()-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clone<sp/>the<sp/>custom<sp/>XML<sp/>part&apos;s<sp/>XML<sp/>schema<sp/>association<sp/>collection,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>add<sp/>a<sp/>couple<sp/>of<sp/>new<sp/>schemas<sp/>to<sp/>the<sp/>clone.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlSchemaCollection&gt;<sp/>schemas<sp/>=<sp/>xmlPart-&gt;get_Schemas()-&gt;Clone();</highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema-instance&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://schemas.microsoft.com/office/2006/metadata/contentType&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>schemas-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>schemas-&gt;IndexOf(u</highlight><highlight class="stringliteral">&quot;http://schemas.microsoft.com/office/2006/metadata/contentType&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>the<sp/>schemas<sp/>and<sp/>print<sp/>each<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;String&gt;&gt;<sp/>enumerator<sp/>=<sp/>schemas-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>ways<sp/>of<sp/>removing<sp/>schemas<sp/>from<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Remove<sp/>a<sp/>schema<sp/>by<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Remove<sp/>a<sp/>schema<sp/>by<sp/>value:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Use<sp/>the<sp/>&quot;Clear&quot;<sp/>method<sp/>to<sp/>empty<sp/>the<sp/>collection<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>schemas-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="586" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1aac36aff13ee89226099b4630e8b0c9ad" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a4489b6bae38419cc4ca56351e2860287" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::Markup::CustomXmlSchemaCollection::end</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>end</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::end</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="594" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a230295d312ce80e62da2f774a82d2f20" prot="public" static="no" const="no" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a23d7a96c18c302e4e66e9688ca9d7f32" kindref="member">iterator</ref></type>
+        <definition>iterator Aspose::Words::Markup::CustomXmlSchemaCollection::end</definition>
+        <argsstring>() noexcept</argsstring>
+        <name>end</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::end</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="590" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1ad5e93d262951074d2fb9d96cefe0ca76" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Markup::CustomXmlSchemaCollection::get_Count</definition>
+        <argsstring>()</argsstring>
+        <name>get_Count</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::get_Count</qualifiedname>
+        <briefdescription>
+<para>Gets the number of elements contained in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with an XML schema collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartId<sp/>=<sp/><ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>().ToString(u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartContent<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;root&gt;&lt;text&gt;Hello,<sp/>World!&lt;/text&gt;&lt;/root&gt;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlPart&gt;<sp/>xmlPart<sp/>=<sp/>doc-&gt;get_CustomXmlParts()-&gt;Add(xmlPartId,<sp/>xmlPartContent);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>an<sp/>XML<sp/>schema<sp/>association.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">xmlPart-&gt;get_Schemas()-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clone<sp/>the<sp/>custom<sp/>XML<sp/>part&apos;s<sp/>XML<sp/>schema<sp/>association<sp/>collection,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>add<sp/>a<sp/>couple<sp/>of<sp/>new<sp/>schemas<sp/>to<sp/>the<sp/>clone.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlSchemaCollection&gt;<sp/>schemas<sp/>=<sp/>xmlPart-&gt;get_Schemas()-&gt;Clone();</highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema-instance&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://schemas.microsoft.com/office/2006/metadata/contentType&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>schemas-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>schemas-&gt;IndexOf(u</highlight><highlight class="stringliteral">&quot;http://schemas.microsoft.com/office/2006/metadata/contentType&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>the<sp/>schemas<sp/>and<sp/>print<sp/>each<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;String&gt;&gt;<sp/>enumerator<sp/>=<sp/>schemas-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>ways<sp/>of<sp/>removing<sp/>schemas<sp/>from<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Remove<sp/>a<sp/>schema<sp/>by<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Remove<sp/>a<sp/>schema<sp/>by<sp/>value:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Use<sp/>the<sp/>&quot;Clear&quot;<sp/>method<sp/>to<sp/>empty<sp/>the<sp/>collection<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>schemas-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="153" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1ab83a5d4d57c57d5545f39c91addb232c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt; &gt;</type>
+        <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::String &gt; &gt; Aspose::Words::Markup::CustomXmlSchemaCollection::GetEnumerator</definition>
+        <argsstring>() override</argsstring>
+        <name>GetEnumerator</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::GetEnumerator</qualifiedname>
+        <briefdescription>
+<para>Returns an enumerator object that can be used to iterate over all items in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with an XML schema collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartId<sp/>=<sp/><ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>().ToString(u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartContent<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;root&gt;&lt;text&gt;Hello,<sp/>World!&lt;/text&gt;&lt;/root&gt;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlPart&gt;<sp/>xmlPart<sp/>=<sp/>doc-&gt;get_CustomXmlParts()-&gt;Add(xmlPartId,<sp/>xmlPartContent);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>an<sp/>XML<sp/>schema<sp/>association.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">xmlPart-&gt;get_Schemas()-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clone<sp/>the<sp/>custom<sp/>XML<sp/>part&apos;s<sp/>XML<sp/>schema<sp/>association<sp/>collection,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>add<sp/>a<sp/>couple<sp/>of<sp/>new<sp/>schemas<sp/>to<sp/>the<sp/>clone.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlSchemaCollection&gt;<sp/>schemas<sp/>=<sp/>xmlPart-&gt;get_Schemas()-&gt;Clone();</highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema-instance&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://schemas.microsoft.com/office/2006/metadata/contentType&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>schemas-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>schemas-&gt;IndexOf(u</highlight><highlight class="stringliteral">&quot;http://schemas.microsoft.com/office/2006/metadata/contentType&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>the<sp/>schemas<sp/>and<sp/>print<sp/>each<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;String&gt;&gt;<sp/>enumerator<sp/>=<sp/>schemas-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>ways<sp/>of<sp/>removing<sp/>schemas<sp/>from<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Remove<sp/>a<sp/>schema<sp/>by<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Remove<sp/>a<sp/>schema<sp/>by<sp/>value:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Use<sp/>the<sp/>&quot;Clear&quot;<sp/>method<sp/>to<sp/>empty<sp/>the<sp/>collection<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>schemas-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="294" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1ab8090af584fb1c95cb34d5097aacda20" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Markup::CustomXmlSchemaCollection::idx_get</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>idx_get</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::idx_get</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Gets or sets the element at the specified index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with an XML schema collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartId<sp/>=<sp/><ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>().ToString(u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartContent<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;root&gt;&lt;text&gt;Hello,<sp/>World!&lt;/text&gt;&lt;/root&gt;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlPart&gt;<sp/>xmlPart<sp/>=<sp/>doc-&gt;get_CustomXmlParts()-&gt;Add(xmlPartId,<sp/>xmlPartContent);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>an<sp/>XML<sp/>schema<sp/>association.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">xmlPart-&gt;get_Schemas()-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clone<sp/>the<sp/>custom<sp/>XML<sp/>part&apos;s<sp/>XML<sp/>schema<sp/>association<sp/>collection,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>add<sp/>a<sp/>couple<sp/>of<sp/>new<sp/>schemas<sp/>to<sp/>the<sp/>clone.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlSchemaCollection&gt;<sp/>schemas<sp/>=<sp/>xmlPart-&gt;get_Schemas()-&gt;Clone();</highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema-instance&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://schemas.microsoft.com/office/2006/metadata/contentType&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>schemas-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>schemas-&gt;IndexOf(u</highlight><highlight class="stringliteral">&quot;http://schemas.microsoft.com/office/2006/metadata/contentType&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>the<sp/>schemas<sp/>and<sp/>print<sp/>each<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;String&gt;&gt;<sp/>enumerator<sp/>=<sp/>schemas-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>ways<sp/>of<sp/>removing<sp/>schemas<sp/>from<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Remove<sp/>a<sp/>schema<sp/>by<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Remove<sp/>a<sp/>schema<sp/>by<sp/>value:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Use<sp/>the<sp/>&quot;Clear&quot;<sp/>method<sp/>to<sp/>empty<sp/>the<sp/>collection<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>schemas-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="200" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a9ec282dd6d041d590ad295f8e59dded6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Markup::CustomXmlSchemaCollection::idx_set</definition>
+        <argsstring>(int32_t index, const System::String &amp;value)</argsstring>
+        <name>idx_set</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::idx_set</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Gets or sets the element at the specified index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with an XML schema collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartId<sp/>=<sp/><ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>().ToString(u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartContent<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;root&gt;&lt;text&gt;Hello,<sp/>World!&lt;/text&gt;&lt;/root&gt;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlPart&gt;<sp/>xmlPart<sp/>=<sp/>doc-&gt;get_CustomXmlParts()-&gt;Add(xmlPartId,<sp/>xmlPartContent);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>an<sp/>XML<sp/>schema<sp/>association.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">xmlPart-&gt;get_Schemas()-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clone<sp/>the<sp/>custom<sp/>XML<sp/>part&apos;s<sp/>XML<sp/>schema<sp/>association<sp/>collection,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>add<sp/>a<sp/>couple<sp/>of<sp/>new<sp/>schemas<sp/>to<sp/>the<sp/>clone.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlSchemaCollection&gt;<sp/>schemas<sp/>=<sp/>xmlPart-&gt;get_Schemas()-&gt;Clone();</highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema-instance&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://schemas.microsoft.com/office/2006/metadata/contentType&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>schemas-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>schemas-&gt;IndexOf(u</highlight><highlight class="stringliteral">&quot;http://schemas.microsoft.com/office/2006/metadata/contentType&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>the<sp/>schemas<sp/>and<sp/>print<sp/>each<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;String&gt;&gt;<sp/>enumerator<sp/>=<sp/>schemas-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>ways<sp/>of<sp/>removing<sp/>schemas<sp/>from<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Remove<sp/>a<sp/>schema<sp/>by<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Remove<sp/>a<sp/>schema<sp/>by<sp/>value:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Use<sp/>the<sp/>&quot;Clear&quot;<sp/>method<sp/>to<sp/>empty<sp/>the<sp/>collection<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>schemas-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="247" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1acaf2d6fd82ed29bee591c59554e0402b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Markup::CustomXmlSchemaCollection::IndexOf</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>IndexOf</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::IndexOf</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Returns the zero-based index of the specified value in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>value</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The case-sensitive value to locate.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The zero based index. Negative value if not found.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with an XML schema collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartId<sp/>=<sp/><ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>().ToString(u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartContent<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;root&gt;&lt;text&gt;Hello,<sp/>World!&lt;/text&gt;&lt;/root&gt;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlPart&gt;<sp/>xmlPart<sp/>=<sp/>doc-&gt;get_CustomXmlParts()-&gt;Add(xmlPartId,<sp/>xmlPartContent);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>an<sp/>XML<sp/>schema<sp/>association.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">xmlPart-&gt;get_Schemas()-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clone<sp/>the<sp/>custom<sp/>XML<sp/>part&apos;s<sp/>XML<sp/>schema<sp/>association<sp/>collection,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>add<sp/>a<sp/>couple<sp/>of<sp/>new<sp/>schemas<sp/>to<sp/>the<sp/>clone.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlSchemaCollection&gt;<sp/>schemas<sp/>=<sp/>xmlPart-&gt;get_Schemas()-&gt;Clone();</highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema-instance&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://schemas.microsoft.com/office/2006/metadata/contentType&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>schemas-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>schemas-&gt;IndexOf(u</highlight><highlight class="stringliteral">&quot;http://schemas.microsoft.com/office/2006/metadata/contentType&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>the<sp/>schemas<sp/>and<sp/>print<sp/>each<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;String&gt;&gt;<sp/>enumerator<sp/>=<sp/>schemas-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>ways<sp/>of<sp/>removing<sp/>schemas<sp/>from<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Remove<sp/>a<sp/>schema<sp/>by<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Remove<sp/>a<sp/>schema<sp/>by<sp/>value:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Use<sp/>the<sp/>&quot;Clear&quot;<sp/>method<sp/>to<sp/>empty<sp/>the<sp/>collection<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>schemas-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="394" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a70c0038a84dbec396e5bf3f662f8c505" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Markup::CustomXmlSchemaCollection::Remove</definition>
+        <argsstring>(const System::String &amp;name)</argsstring>
+        <name>Remove</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::Remove</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>name</declname>
+        </param>
+        <briefdescription>
+<para>Removes the specified value from the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>name</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The case-sensitive value to remove.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with an XML schema collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartId<sp/>=<sp/><ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>().ToString(u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartContent<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;root&gt;&lt;text&gt;Hello,<sp/>World!&lt;/text&gt;&lt;/root&gt;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlPart&gt;<sp/>xmlPart<sp/>=<sp/>doc-&gt;get_CustomXmlParts()-&gt;Add(xmlPartId,<sp/>xmlPartContent);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>an<sp/>XML<sp/>schema<sp/>association.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">xmlPart-&gt;get_Schemas()-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clone<sp/>the<sp/>custom<sp/>XML<sp/>part&apos;s<sp/>XML<sp/>schema<sp/>association<sp/>collection,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>add<sp/>a<sp/>couple<sp/>of<sp/>new<sp/>schemas<sp/>to<sp/>the<sp/>clone.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlSchemaCollection&gt;<sp/>schemas<sp/>=<sp/>xmlPart-&gt;get_Schemas()-&gt;Clone();</highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema-instance&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://schemas.microsoft.com/office/2006/metadata/contentType&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>schemas-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>schemas-&gt;IndexOf(u</highlight><highlight class="stringliteral">&quot;http://schemas.microsoft.com/office/2006/metadata/contentType&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>the<sp/>schemas<sp/>and<sp/>print<sp/>each<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;String&gt;&gt;<sp/>enumerator<sp/>=<sp/>schemas-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>ways<sp/>of<sp/>removing<sp/>schemas<sp/>from<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Remove<sp/>a<sp/>schema<sp/>by<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Remove<sp/>a<sp/>schema<sp/>by<sp/>value:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Use<sp/>the<sp/>&quot;Clear&quot;<sp/>method<sp/>to<sp/>empty<sp/>the<sp/>collection<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>schemas-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="443" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a7646cee5e3e274806d0b4c1019f93501" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Markup::CustomXmlSchemaCollection::RemoveAt</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>RemoveAt</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::RemoveAt</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Removes a value at the specified index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>index</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The zero based index.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with an XML schema collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartId<sp/>=<sp/><ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>().ToString(u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartContent<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;root&gt;&lt;text&gt;Hello,<sp/>World!&lt;/text&gt;&lt;/root&gt;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlPart&gt;<sp/>xmlPart<sp/>=<sp/>doc-&gt;get_CustomXmlParts()-&gt;Add(xmlPartId,<sp/>xmlPartContent);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>an<sp/>XML<sp/>schema<sp/>association.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">xmlPart-&gt;get_Schemas()-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clone<sp/>the<sp/>custom<sp/>XML<sp/>part&apos;s<sp/>XML<sp/>schema<sp/>association<sp/>collection,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>add<sp/>a<sp/>couple<sp/>of<sp/>new<sp/>schemas<sp/>to<sp/>the<sp/>clone.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlSchemaCollection&gt;<sp/>schemas<sp/>=<sp/>xmlPart-&gt;get_Schemas()-&gt;Clone();</highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema-instance&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://schemas.microsoft.com/office/2006/metadata/contentType&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>schemas-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>schemas-&gt;IndexOf(u</highlight><highlight class="stringliteral">&quot;http://schemas.microsoft.com/office/2006/metadata/contentType&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>the<sp/>schemas<sp/>and<sp/>print<sp/>each<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;String&gt;&gt;<sp/>enumerator<sp/>=<sp/>schemas-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>ways<sp/>of<sp/>removing<sp/>schemas<sp/>from<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Remove<sp/>a<sp/>schema<sp/>by<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Remove<sp/>a<sp/>schema<sp/>by<sp/>value:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Use<sp/>the<sp/>&quot;Clear&quot;<sp/>method<sp/>to<sp/>empty<sp/>the<sp/>collection<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>schemas-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="492" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1aa6f2a90afce199d88dbc45fdad2041a2" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a5d5b083d846c885c5a2b8ab6bfa9abfa" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::Markup::CustomXmlSchemaCollection::virtualizeBeginConstIterator</definition>
+        <argsstring>() const override</argsstring>
+        <name>virtualizeBeginConstIterator</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::virtualizeBeginConstIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="604" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a901576c0d96de1066e89bc1de843b1ed" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a5d5b083d846c885c5a2b8ab6bfa9abfa" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::Markup::CustomXmlSchemaCollection::virtualizeBeginIterator</definition>
+        <argsstring>() override</argsstring>
+        <name>virtualizeBeginIterator</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::virtualizeBeginIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="600" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a1f07e689e6dfd9bd008cf5adffdc01b8" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a5d5b083d846c885c5a2b8ab6bfa9abfa" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::Markup::CustomXmlSchemaCollection::virtualizeEndConstIterator</definition>
+        <argsstring>() const override</argsstring>
+        <name>virtualizeEndConstIterator</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::virtualizeEndConstIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="606" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a46f3bab3fc7cdaba006a73e73d0527dd" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a5d5b083d846c885c5a2b8ab6bfa9abfa" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::Markup::CustomXmlSchemaCollection::virtualizeEndIterator</definition>
+        <argsstring>() override</argsstring>
+        <name>virtualizeEndIterator</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlSchemaCollection::virtualizeEndIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="602" column="29"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>A collection of strings that represent XML schemas that are associated with a custom XML part. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>You do not create instances of this class. You access the collection of XML schemas of a custom XML part via the <ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_part_1acdc37bffd023ab4cb380b9aab9bfd5eb" kindref="member">Schemas</ref> property.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_part" kindref="compound">Aspose::Words::Markup::CustomXmlPart</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_part_1acdc37bffd023ab4cb380b9aab9bfd5eb" kindref="member">Aspose::Words::Markup::CustomXmlPart::get_Schemas</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with an XML schema collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartId<sp/>=<sp/><ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>().ToString(u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>xmlPartContent<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;root&gt;&lt;text&gt;Hello,<sp/>World!&lt;/text&gt;&lt;/root&gt;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlPart&gt;<sp/>xmlPart<sp/>=<sp/>doc-&gt;get_CustomXmlParts()-&gt;Add(xmlPartId,<sp/>xmlPartContent);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>an<sp/>XML<sp/>schema<sp/>association.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">xmlPart-&gt;get_Schemas()-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clone<sp/>the<sp/>custom<sp/>XML<sp/>part&apos;s<sp/>XML<sp/>schema<sp/>association<sp/>collection,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>add<sp/>a<sp/>couple<sp/>of<sp/>new<sp/>schemas<sp/>to<sp/>the<sp/>clone.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlSchemaCollection&gt;<sp/>schemas<sp/>=<sp/>xmlPart-&gt;get_Schemas()-&gt;Clone();</highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema-instance&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Add(u</highlight><highlight class="stringliteral">&quot;http://schemas.microsoft.com/office/2006/metadata/contentType&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>schemas-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>schemas-&gt;IndexOf(u</highlight><highlight class="stringliteral">&quot;http://schemas.microsoft.com/office/2006/metadata/contentType&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>the<sp/>schemas<sp/>and<sp/>print<sp/>each<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;String&gt;&gt;<sp/>enumerator<sp/>=<sp/>schemas-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>ways<sp/>of<sp/>removing<sp/>schemas<sp/>from<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Remove<sp/>a<sp/>schema<sp/>by<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Remove<sp/>a<sp/>schema<sp/>by<sp/>value:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;http://www.w3.org/2001/XMLSchema&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Use<sp/>the<sp/>&quot;Clear&quot;<sp/>method<sp/>to<sp/>empty<sp/>the<sp/>collection<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">schemas-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>schemas-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Markup::CustomXmlSchemaCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; System::String &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Markup::CustomXmlSchemaCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; System::String &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" line="86" column="1" bodyfile="Aspose.Words.Cpp/Markup/CustomXmlSchemaCollection.h" bodystart="87" bodyend="618"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a150d9ffca8063d078565a2dbffc48e6a" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>Add</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a2b553a79f0169e293cd018fc45784d9b" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a2cc38597c6d71192773aa9c44580cb61" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>begin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a2c677c3e5eaa6de3513110c2d4291489" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>begin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1aa0ecf86aa882013bd4eab0eda68a2832" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>cbegin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1aaf1b670bf2aeb37b21ac01daebdbf65c" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>cend</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a533876c25fbef60cfde52d0bfe90bde6" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>Clear</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1af8878e24cf13dbe568f478d2a5bdeb85" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>Clone</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a4489b6bae38419cc4ca56351e2860287" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>const_iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1ab635853ba3939932bc43a22144dd0012" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>CustomXmlSchemaCollection</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a230295d312ce80e62da2f774a82d2f20" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>end</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1aac36aff13ee89226099b4630e8b0c9ad" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>end</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1ad5e93d262951074d2fb9d96cefe0ca76" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1ab83a5d4d57c57d5545f39c91addb232c" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>GetEnumerator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1ab8090af584fb1c95cb34d5097aacda20" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>idx_get</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a9ec282dd6d041d590ad295f8e59dded6" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>idx_set</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1acaf2d6fd82ed29bee591c59554e0402b" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>IndexOf</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a23d7a96c18c302e4e66e9688ca9d7f32" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a01d9857c10c9467229247d3411d9c4ab" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>iterator_holder_type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a3dca10deedf4ac0a30d27fef96326f83" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a70c0038a84dbec396e5bf3f662f8c505" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a7646cee5e3e274806d0b4c1019f93501" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>RemoveAt</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a238039ac72d0d714cab42e88c1119603" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1ab6ed29b164e6077154d5499ef3e5ae0b" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1ac5c6320144c570c8b32c5dcb5e44b097" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1aa6f2a90afce199d88dbc45fdad2041a2" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>virtualizeBeginConstIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a901576c0d96de1066e89bc1de843b1ed" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>virtualizeBeginIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a5d5b083d846c885c5a2b8ab6bfa9abfa" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>virtualized_iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1af73aa9d7ba8e35e55946607d100926e4" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>virtualized_iterator_element</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a1f07e689e6dfd9bd008cf5adffdc01b8" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>virtualizeEndConstIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a46f3bab3fc7cdaba006a73e73d0527dd" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>virtualizeEndIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection_1a22318f0d20a82d746feef9c181684bf5" prot="private" virt="virtual"><scope>Aspose::Words::Markup::CustomXmlSchemaCollection</scope><name>~CustomXmlSchemaCollection</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

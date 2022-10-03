@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_field_user_initials" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::FieldUserInitials</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field" prot="public" virt="non-virtual">Aspose::Words::Fields::Field</basecompoundref>
+    <includes refid="_field_user_initials_8h" local="no">Aspose.Words.Cpp/Fields/FieldUserInitials.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_user_initials_1aeb3ae6d1a0957b02413b554875ee9f50" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref></type>
+        <definition>typedef Aspose::Words::Fields::Field Aspose::Words::Fields::FieldUserInitials::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldUserInitials::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldUserInitials.h" line="75" column="42" bodyfile="Aspose.Words.Cpp/Fields/FieldUserInitials.h" bodystart="75" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_user_initials_1a8d72ab78d07b46ae3044d24d360ce7b7" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_user_initials" kindref="compound">FieldUserInitials</ref></type>
+        <definition>typedef FieldUserInitials Aspose::Words::Fields::FieldUserInitials::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldUserInitials::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldUserInitials.h" line="74" column="31" bodyfile="Aspose.Words.Cpp/Fields/FieldUserInitials.h" bodystart="74" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_user_initials_1ab52544756bdffd923070411f84eda58f" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Fields::FieldUserInitials::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::FieldUserInitials::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldUserInitials.h" line="77" column="37" bodyfile="Aspose.Words.Cpp/Fields/FieldUserInitials.h" bodystart="77" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_user_initials_1a560a0691553857f9f21acfabe20ed97e" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Fields::FieldUserInitials::~FieldUserInitials</definition>
+        <argsstring>()</argsstring>
+        <name>~FieldUserInitials</name>
+        <qualifiedname>Aspose::Words::Fields::FieldUserInitials::~FieldUserInitials</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldUserInitials.h" line="126" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_user_initials_1a7e5f0ac414c80991c57562e32a1b7a6c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldUserInitials::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::FieldUserInitials::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldUserInitials.h" line="78" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_user_initials_1a1d3c8bb61b5712d0b3fc2f1fb9c048ce" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldUpdateAction &gt; Aspose::Words::Fields::FieldUserInitials::UpdateCore</definition>
+        <argsstring>() override</argsstring>
+        <name>UpdateCore</name>
+        <qualifiedname>Aspose::Words::Fields::FieldUserInitials::UpdateCore</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afd2f4d29a84550a38375396538654ab8">UpdateCore</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldUserInitials.h" line="124" column="26"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_user_initials_1a20ff780521e989d3238bd05c2f598822" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldUserInitials::get_UserInitials</definition>
+        <argsstring>()</argsstring>
+        <name>get_UserInitials</name>
+        <qualifiedname>Aspose::Words::Fields::FieldUserInitials::get_UserInitials</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the current user&apos;s initials. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use the USERINITIALS field. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>UserInformation<sp/>object<sp/>and<sp/>set<sp/>it<sp/>as<sp/>the<sp/>source<sp/>of<sp/>user<sp/>information<sp/>for<sp/>any<sp/>fields<sp/>that<sp/>we<sp/>create.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>userInformation<sp/>=<sp/>MakeObject&lt;UserInformation&gt;();</highlight></codeline>
+<codeline><highlight class="normal">userInformation-&gt;set_Initials(u</highlight><highlight class="stringliteral">&quot;J.<sp/>D.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FieldOptions()-&gt;set_CurrentUser(userInformation);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>USERINITIALS<sp/>field<sp/>to<sp/>display<sp/>the<sp/>current<sp/>user&apos;s<sp/>initials,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>taken<sp/>from<sp/>the<sp/>UserInformation<sp/>object<sp/>we<sp/>created<sp/>above.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldUserInitials<sp/>=<sp/>System::DynamicCast&lt;FieldUserInitials&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca1d39cae86e975244a9fb7f85085f876c" kindref="member" tooltip="Specifies the USERINITIALS field.">FieldType::FieldUserInitials</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(userInformation-&gt;get_Initials(),<sp/>fieldUserInitials-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>USERINITIALS<sp/>&quot;</highlight><highlight class="normal">,<sp/>fieldUserInitials-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;J.<sp/>D.&quot;</highlight><highlight class="normal">,<sp/>fieldUserInitials-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>this<sp/>property<sp/>to<sp/>get<sp/>our<sp/>field<sp/>to<sp/>override<sp/>the<sp/>value<sp/>currently<sp/>stored<sp/>in<sp/>the<sp/>UserInformation<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldUserInitials-&gt;set_UserInitials(u</highlight><highlight class="stringliteral">&quot;J.<sp/>C.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldUserInitials-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>USERINITIALS<sp/><sp/>\&quot;J.<sp/>C.\&quot;&quot;</highlight><highlight class="normal">,<sp/>fieldUserInitials-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;J.<sp/>C.&quot;</highlight><highlight class="normal">,<sp/>fieldUserInitials-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>does<sp/>not<sp/>affect<sp/>the<sp/>value<sp/>in<sp/>the<sp/>UserInformation<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;J.<sp/>D.&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_FieldOptions()-&gt;get_CurrentUser()-&gt;get_Initials());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.USERINITIALS.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldUserInitials.h" line="117" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_user_initials_1ae6f6d21196e8d960c32cf02c27de3e46" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldUserInitials::set_UserInitials</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_UserInitials</name>
+        <qualifiedname>Aspose::Words::Fields::FieldUserInitials::set_UserInitials</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_user_initials_1a20ff780521e989d3238bd05c2f598822" kindref="member">Aspose::Words::Fields::FieldUserInitials::get_UserInitials</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldUserInitials.h" line="120" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implements the USERINITIALS field. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use the USERINITIALS field. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>UserInformation<sp/>object<sp/>and<sp/>set<sp/>it<sp/>as<sp/>the<sp/>source<sp/>of<sp/>user<sp/>information<sp/>for<sp/>any<sp/>fields<sp/>that<sp/>we<sp/>create.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>userInformation<sp/>=<sp/>MakeObject&lt;UserInformation&gt;();</highlight></codeline>
+<codeline><highlight class="normal">userInformation-&gt;set_Initials(u</highlight><highlight class="stringliteral">&quot;J.<sp/>D.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FieldOptions()-&gt;set_CurrentUser(userInformation);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>USERINITIALS<sp/>field<sp/>to<sp/>display<sp/>the<sp/>current<sp/>user&apos;s<sp/>initials,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>taken<sp/>from<sp/>the<sp/>UserInformation<sp/>object<sp/>we<sp/>created<sp/>above.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldUserInitials<sp/>=<sp/>System::DynamicCast&lt;FieldUserInitials&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca1d39cae86e975244a9fb7f85085f876c" kindref="member" tooltip="Specifies the USERINITIALS field.">FieldType::FieldUserInitials</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(userInformation-&gt;get_Initials(),<sp/>fieldUserInitials-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>USERINITIALS<sp/>&quot;</highlight><highlight class="normal">,<sp/>fieldUserInitials-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;J.<sp/>D.&quot;</highlight><highlight class="normal">,<sp/>fieldUserInitials-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>this<sp/>property<sp/>to<sp/>get<sp/>our<sp/>field<sp/>to<sp/>override<sp/>the<sp/>value<sp/>currently<sp/>stored<sp/>in<sp/>the<sp/>UserInformation<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldUserInitials-&gt;set_UserInitials(u</highlight><highlight class="stringliteral">&quot;J.<sp/>C.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldUserInitials-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>USERINITIALS<sp/><sp/>\&quot;J.<sp/>C.\&quot;&quot;</highlight><highlight class="normal">,<sp/>fieldUserInitials-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;J.<sp/>C.&quot;</highlight><highlight class="normal">,<sp/>fieldUserInitials-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>does<sp/>not<sp/>affect<sp/>the<sp/>value<sp/>in<sp/>the<sp/>UserInformation<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;J.<sp/>D.&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_FieldOptions()-&gt;get_CurrentUser()-&gt;get_Initials());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.USERINITIALS.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldUserInitials</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_user_initials"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldUserInitials</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_user_initials"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/FieldUserInitials.h" line="72" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldUserInitials.h" bodystart="73" bodyend="130"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_user_initials_1aeb3ae6d1a0957b02413b554875ee9f50" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a5c2d01019c517ea8098f296903e37a34" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>get_DisplayResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad5f0995c85cce833806e847cf25809b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a399c14463916724cac0015b430175589" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>get_FieldEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abc40cddc1325f7fec80d8530e5287448" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>get_FieldStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a090c5d09915e2ead6cc54fda736dd7c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>get_Format</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ae68851d4a88a1fc867d3ddee2e4e88c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>get_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afda4c46db80761545c89e21aae5b717d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>get_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a93719d071099487b6aea1eaa241dd6e8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>get_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a012c93472901dc077815970a9b2ab650" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>get_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abbc83ad66d5fb391a21980126ea96847" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>get_Separator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afa7cd5d4cf1a87b05058982f26786456" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad68196653db5cfca30c1ba18ed44c76e" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_user_initials_1a20ff780521e989d3238bd05c2f598822" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>get_UserInitials</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa40bc0e4a5be11f0df785cc8bb2ff042" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad26a8021af3dbdc5bf0a1360a201222f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_user_initials_1a7e5f0ac414c80991c57562e32a1b7a6c" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa637d825865724665fb8ed856e664d95" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>set_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ac70b125adbe7f0ba5b889280cd282c47" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>set_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a165f748dd5ba33844f1d765f6c710f88" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>set_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa6af1e900c84ae806f071098dfe8f087" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>set_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_user_initials_1ae6f6d21196e8d960c32cf02c27de3e46" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>set_UserInitials</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_user_initials_1a8d72ab78d07b46ae3044d24d360ce7b7" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_user_initials_1ab52544756bdffd923070411f84eda58f" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab9f908becb16b26bed76d58dbcee9929" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>Unlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aaec82418b2b6493aa2827b8e282b2e82" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a1298d7daa07c863bf97cb3f37a4d7a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_user_initials_1a1d3c8bb61b5712d0b3fc2f1fb9c048ce" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>UpdateCore</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_user_initials_1a560a0691553857f9f21acfabe20ed97e" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldUserInitials</scope><name>~FieldUserInitials</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

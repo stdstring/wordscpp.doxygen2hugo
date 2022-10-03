@@ -1,0 +1,570 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Loading::TxtLoadOptions</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" prot="public" virt="non-virtual">Aspose::Words::Loading::LoadOptions</basecompoundref>
+    <includes refid="_txt_load_options_8h" local="no">Aspose.Words.Cpp/Loading/TxtLoadOptions.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1abcf0563132d6d13e7bc5e9ce06253e89" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" kindref="compound">Aspose::Words::Loading::LoadOptions</ref></type>
+        <definition>typedef Aspose::Words::Loading::LoadOptions Aspose::Words::Loading::TxtLoadOptions::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Loading::TxtLoadOptions::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="27" column="49" bodyfile="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1aa733a16ff014d088aa21fe88a98f8d6d" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options" kindref="compound">TxtLoadOptions</ref></type>
+        <definition>typedef TxtLoadOptions Aspose::Words::Loading::TxtLoadOptions::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Loading::TxtLoadOptions::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="26" column="28" bodyfile="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a6e24a2ef8785ae5594a87ee39f76df86" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Loading::TxtLoadOptions::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Loading::TxtLoadOptions::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="29" column="37" bodyfile="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a8aa59674cdbb0e43764d8b17be3b8cd1" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Loading::TxtLoadOptions::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Loading::TxtLoadOptions::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="283" column="23" bodyfile="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" bodystart="283" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a6ae572d040e5e986c663b7aa8c7661d4" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Loading::TxtLoadOptions::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Loading::TxtLoadOptions::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="284" column="23" bodyfile="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" bodystart="284" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a4113ce78f8a8b3d1163a3ffd94aa0860" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Loading::TxtLoadOptions::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Loading::TxtLoadOptions::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="285" column="23" bodyfile="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" bodystart="285" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1ad6f35f83d0ffccd474f5f98ee91eb3a8" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Loading::TxtLoadOptions::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Loading::TxtLoadOptions::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="286" column="23" bodyfile="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" bodystart="286" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a271759ee84ba7e41c7d78b31ac888a21" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Loading::TxtLoadOptions::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Loading::TxtLoadOptions::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="30" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a3d94edbb3f5bb908d18e196ece1d1407" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Loading::TxtLoadOptions::TxtLoadOptions</definition>
+        <argsstring>()</argsstring>
+        <name>TxtLoadOptions</name>
+        <qualifiedname>Aspose::Words::Loading::TxtLoadOptions::TxtLoadOptions</qualifiedname>
+        <briefdescription>
+<para>Initializes a new instance of this class with default values. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="277" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1af4032da2ea0e1d217c38289c6ced7283" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Loading::TxtLoadOptions::get_DetectNumberingWithWhitespaces</definition>
+        <argsstring>() const</argsstring>
+        <name>get_DetectNumberingWithWhitespaces</name>
+        <qualifiedname>Aspose::Words::Loading::TxtLoadOptions::get_DetectNumberingWithWhitespaces</qualifiedname>
+        <briefdescription>
+<para>Allows to specify how numbered list items are recognized when document is imported from plain text format. The default value is true. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>If this option is set to false, lists recognition algorithm detects list paragraphs, when list numbers ends with either dot, right bracket or bullet symbols (such as &quot;•&quot;, &quot;*&quot;, &quot;-&quot; or &quot;o&quot;).</para>
+<para>If this option is set to true, whitespaces are also used as list number delimiters: list recognition algorithm for Arabic style numbering (1., 1.1.2.) uses both whitespaces and dot (&quot;.&quot;) symbols.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to detect lists when loading plaintext documents. <programlisting><codeline><highlight class="comment">//<sp/>Create<sp/>a<sp/>plaintext<sp/>document<sp/>in<sp/>a<sp/>string<sp/>with<sp/>four<sp/>separate<sp/>parts<sp/>that<sp/>we<sp/>may<sp/>interpret<sp/>as<sp/>lists,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>with<sp/>different<sp/>delimiters.<sp/>Upon<sp/>loading<sp/>the<sp/>plaintext<sp/>document<sp/>into<sp/>a<sp/>&quot;Document&quot;<sp/>object,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Aspose.Words<sp/>will<sp/>always<sp/>detect<sp/>the<sp/>first<sp/>three<sp/>lists<sp/>and<sp/>will<sp/>add<sp/>a<sp/>&quot;List&quot;<sp/>object</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>for<sp/>each<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Lists&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>textDoc<sp/>=<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Full<sp/>stop<sp/>delimiters:\n&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;1.<sp/>First<sp/>list<sp/>item<sp/>1\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;2.<sp/>First<sp/>list<sp/>item<sp/>2\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;3.<sp/>First<sp/>list<sp/>item<sp/>3\n\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;Right<sp/>bracket<sp/>delimiters:\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;1)<sp/>Second<sp/>list<sp/>item<sp/>1\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;2)<sp/>Second<sp/>list<sp/>item<sp/>2\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;3)<sp/>Second<sp/>list<sp/>item<sp/>3\n\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;Bullet<sp/>delimiters:\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;•<sp/>Third<sp/>list<sp/>item<sp/>1\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;•<sp/>Third<sp/>list<sp/>item<sp/>2\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;•<sp/>Third<sp/>list<sp/>item<sp/>3\n\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;Whitespace<sp/>delimiters:\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;1<sp/>Fourth<sp/>list<sp/>item<sp/>1\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;2<sp/>Fourth<sp/>list<sp/>item<sp/>2\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;3<sp/>Fourth<sp/>list<sp/>item<sp/>3&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;TxtLoadOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>a<sp/>document&apos;s<sp/>constructor</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>load<sp/>a<sp/>plaintext<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>loadOptions<sp/>=<sp/>MakeObject&lt;TxtLoadOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;DetectNumberingWithWhitespaces&quot;<sp/>property<sp/>to<sp/>&quot;true&quot;<sp/>to<sp/>detect<sp/>numbered<sp/>items</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>with<sp/>whitespace<sp/>delimiters,<sp/>such<sp/>as<sp/>the<sp/>fourth<sp/>list<sp/>in<sp/>our<sp/>document,<sp/>as<sp/>lists.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>may<sp/>also<sp/>falsely<sp/>detect<sp/>paragraphs<sp/>that<sp/>begin<sp/>with<sp/>numbers<sp/>as<sp/>lists.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;DetectNumberingWithWhitespaces&quot;<sp/>property<sp/>to<sp/>&quot;false&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>not<sp/>create<sp/>lists<sp/>from<sp/>numbered<sp/>items<sp/>with<sp/>whitespace<sp/>delimiters.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">loadOptions-&gt;set_DetectNumberingWithWhitespaces(detectNumberingWithWhitespaces);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MakeObject&lt;System::IO::MemoryStream&gt;(<ref refid="class/system.text.encoding/_1a95985d0da959aa35a89574de5fb4bfd8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_UTF8</ref>()-&gt;GetBytes(textDoc)),<sp/>loadOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(detectNumberingWithWhitespaces)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(4,<sp/>doc-&gt;get_Lists()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;LINQ_Any(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Node&gt;<sp/>p)<sp/>{<sp/>return<sp/>p-&gt;GetText().Contains(u</highlight><highlight class="stringliteral">&quot;Fourth<sp/>list&quot;</highlight><highlight class="normal">)<sp/>&amp;&amp;<sp/>(System::DynamicCast&lt;Paragraph&gt;(p))-&gt;get_IsListItem();<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(3,<sp/>doc-&gt;get_Lists()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_FALSE(doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;LINQ_Any(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Node&gt;<sp/>p)<sp/>{<sp/>return<sp/>p-&gt;GetText().Contains(u</highlight><highlight class="stringliteral">&quot;Fourth<sp/>list&quot;</highlight><highlight class="normal">)<sp/>&amp;&amp;<sp/>(System::DynamicCast&lt;Paragraph&gt;(p))-&gt;get_IsListItem();<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="82" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a2aa2a1d3b2165f46077168676a125a41" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_loading_1a309e43cce7e43117f6570db146a05ce6" kindref="member">Aspose::Words::Loading::DocumentDirection</ref></type>
+        <definition>Aspose::Words::Loading::DocumentDirection Aspose::Words::Loading::TxtLoadOptions::get_DocumentDirection</definition>
+        <argsstring>() const</argsstring>
+        <name>get_DocumentDirection</name>
+        <qualifiedname>Aspose::Words::Loading::TxtLoadOptions::get_DocumentDirection</qualifiedname>
+        <briefdescription>
+<para>Gets or sets a document direction. The default value is <ref refid="namespace_aspose_1_1_words_1_1_loading_1a309e43cce7e43117f6570db146a05ce6ad1e80c506f4c89e3c4fb1c1b4867a03c" kindref="member">LeftToRight</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to detect plaintext document text direction. <programlisting><codeline><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;TxtLoadOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>a<sp/>document&apos;s<sp/>constructor</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>load<sp/>a<sp/>plaintext<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>loadOptions<sp/>=<sp/>MakeObject&lt;TxtLoadOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;DocumentDirection&quot;<sp/>property<sp/>to<sp/>&quot;DocumentDirection.Auto&quot;<sp/>automatically<sp/>detects</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>direction<sp/>of<sp/>every<sp/>paragraph<sp/>of<sp/>text<sp/>that<sp/>Aspose.Words<sp/>loads<sp/>from<sp/>plaintext.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>paragraph&apos;s<sp/>&quot;Bidi&quot;<sp/>property<sp/>will<sp/>store<sp/>its<sp/>direction.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">loadOptions-&gt;set_DocumentDirection(<ref refid="namespace_aspose_1_1_words_1_1_loading_1a309e43cce7e43117f6570db146a05ce6a06b9281e396db002010bde1de57262eb" kindref="member" tooltip="Auto-detect direction.">DocumentDirection::Auto</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Detect<sp/>Hebrew<sp/>text<sp/>as<sp/>right-to-left.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Hebrew<sp/>text.txt&quot;</highlight><highlight class="normal">,<sp/>loadOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;get_ParagraphFormat()-&gt;get_Bidi());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Detect<sp/>English<sp/>text<sp/>as<sp/>right-to-left.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;English<sp/>text.txt&quot;</highlight><highlight class="normal">,<sp/>loadOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;get_ParagraphFormat()-&gt;get_Bidi());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="271" column="50"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a564f7e94f7c5fb6732038faa4973119d" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_loading_1ab22ce91e1a7d391cf58c639966af3fdc" kindref="member">Aspose::Words::Loading::TxtLeadingSpacesOptions</ref></type>
+        <definition>Aspose::Words::Loading::TxtLeadingSpacesOptions Aspose::Words::Loading::TxtLoadOptions::get_LeadingSpacesOptions</definition>
+        <argsstring>() const</argsstring>
+        <name>get_LeadingSpacesOptions</name>
+        <qualifiedname>Aspose::Words::Loading::TxtLoadOptions::get_LeadingSpacesOptions</qualifiedname>
+        <briefdescription>
+<para>Gets or sets preferred option of a leading space handling. Default value is <ref refid="namespace_aspose_1_1_words_1_1_loading_1ab22ce91e1a7d391cf58c639966af3fdcaa30c41e29ca8ee0d5ef9190c40e22b72" kindref="member">ConvertToIndent</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to trim whitespace when loading plaintext documents. <programlisting><codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>textDoc<sp/>=<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;<sp/><sp/><sp/><sp/><sp/><sp/>Line<sp/>1<sp/>\n&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/><sp/><sp/><sp/>Line<sp/>2<sp/><sp/><sp/>\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>Line<sp/>3<sp/><sp/><sp/><sp/><sp/><sp/><sp/>&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;TxtLoadOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>a<sp/>document&apos;s<sp/>constructor</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>load<sp/>a<sp/>plaintext<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>loadOptions<sp/>=<sp/>MakeObject&lt;TxtLoadOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;LeadingSpacesOptions&quot;<sp/>property<sp/>to<sp/>&quot;TxtLeadingSpacesOptions.Preserve&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>preserve<sp/>all<sp/>whitespace<sp/>characters<sp/>at<sp/>the<sp/>start<sp/>of<sp/>every<sp/>line.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;LeadingSpacesOptions&quot;<sp/>property<sp/>to<sp/>&quot;TxtLeadingSpacesOptions.ConvertToIndent&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>remove<sp/>all<sp/>whitespace<sp/>characters<sp/>from<sp/>the<sp/>start<sp/>of<sp/>every<sp/>line,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>apply<sp/>a<sp/>left<sp/>first<sp/>line<sp/>indent<sp/>to<sp/>the<sp/>paragraph<sp/>to<sp/>simulate<sp/>the<sp/>effect<sp/>of<sp/>the<sp/>whitespaces.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;LeadingSpacesOptions&quot;<sp/>property<sp/>to<sp/>&quot;TxtLeadingSpacesOptions.Trim&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>remove<sp/>all<sp/>whitespace<sp/>characters<sp/>from<sp/>every<sp/>line&apos;s<sp/>start.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">loadOptions-&gt;set_LeadingSpacesOptions(txtLeadingSpacesOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;TrailingSpacesOptions&quot;<sp/>property<sp/>to<sp/>&quot;TxtTrailingSpacesOptions.Preserve&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>preserve<sp/>all<sp/>whitespace<sp/>characters<sp/>at<sp/>the<sp/>end<sp/>of<sp/>every<sp/>line.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;TrailingSpacesOptions&quot;<sp/>property<sp/>to<sp/>&quot;TxtTrailingSpacesOptions.Trim&quot;<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>remove<sp/>all<sp/>whitespace<sp/>characters<sp/>from<sp/>the<sp/>end<sp/>of<sp/>every<sp/>line.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">loadOptions-&gt;set_TrailingSpacesOptions(txtTrailingSpacesOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MakeObject&lt;System::IO::MemoryStream&gt;(<ref refid="class/system.text.encoding/_1a95985d0da959aa35a89574de5fb4bfd8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_UTF8</ref>()-&gt;GetBytes(textDoc)),<sp/>loadOptions);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ParagraphCollection&gt;<sp/>paragraphs<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(txtLeadingSpacesOptions)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_loading_1ab22ce91e1a7d391cf58c639966af3fdcaa30c41e29ca8ee0d5ef9190c40e22b72" kindref="member">TxtLeadingSpacesOptions::ConvertToIndent</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(37.8,<sp/>paragraphs-&gt;idx_get(0)-&gt;get_ParagraphFormat()-&gt;get_FirstLineIndent());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(25.2,<sp/>paragraphs-&gt;idx_get(1)-&gt;get_ParagraphFormat()-&gt;get_FirstLineIndent());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(6.3,<sp/>paragraphs-&gt;idx_get(2)-&gt;get_ParagraphFormat()-&gt;get_FirstLineIndent());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(0)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(1)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(2)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_loading_1ab22ce91e1a7d391cf58c639966af3fdca6d2a1af98f2cad1e5ec2dd0a75953919" kindref="member">TxtLeadingSpacesOptions::Preserve</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;LINQ_All([](SharedPtr&lt;Node&gt;<sp/>p)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{<sp/>return<sp/>(System::DynamicCast&lt;Paragraph&gt;(p))-&gt;get_ParagraphFormat()-&gt;get_FirstLineIndent()<sp/>==<sp/>0.0;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(0)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;<sp/><sp/><sp/><sp/><sp/><sp/>Line<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(1)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;<sp/><sp/><sp/><sp/>Line<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(2)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;<sp/>Line<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_loading_1ab22ce91e1a7d391cf58c639966af3fdca1fc5884251ca9f20a4fd5f79a458f94f" kindref="member">TxtLeadingSpacesOptions::Trim</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;LINQ_All([](SharedPtr&lt;Node&gt;<sp/>p)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{<sp/>return<sp/>(System::DynamicCast&lt;Paragraph&gt;(p))-&gt;get_ParagraphFormat()-&gt;get_FirstLineIndent()<sp/>==<sp/>0.0;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(0)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(1)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(2)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(txtTrailingSpacesOptions)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_loading_1a204d1700c395e573597dfe4d94867faca6d2a1af98f2cad1e5ec2dd0a75953919" kindref="member">TxtTrailingSpacesOptions::Preserve</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(0)-&gt;GetText().EndsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>1<sp/>\r&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(1)-&gt;GetText().EndsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>2<sp/><sp/><sp/>\r&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(2)-&gt;GetText().EndsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>3<sp/><sp/><sp/><sp/><sp/><sp/><sp/>\f&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_loading_1a204d1700c395e573597dfe4d94867faca1fc5884251ca9f20a4fd5f79a458f94f" kindref="member">TxtTrailingSpacesOptions::Trim</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(0)-&gt;GetText().EndsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>1\r&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(1)-&gt;GetText().EndsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>2\r&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(2)-&gt;GetText().EndsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>3\f&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="240" column="56"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1aed3aaf1c14ff05e0ec5c0615075c97e7" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_loading_1a204d1700c395e573597dfe4d94867fac" kindref="member">Aspose::Words::Loading::TxtTrailingSpacesOptions</ref></type>
+        <definition>Aspose::Words::Loading::TxtTrailingSpacesOptions Aspose::Words::Loading::TxtLoadOptions::get_TrailingSpacesOptions</definition>
+        <argsstring>() const</argsstring>
+        <name>get_TrailingSpacesOptions</name>
+        <qualifiedname>Aspose::Words::Loading::TxtLoadOptions::get_TrailingSpacesOptions</qualifiedname>
+        <briefdescription>
+<para>Gets or sets preferred option of a trailing space handling. Default value is <ref refid="namespace_aspose_1_1_words_1_1_loading_1a204d1700c395e573597dfe4d94867faca1fc5884251ca9f20a4fd5f79a458f94f" kindref="member">Trim</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to trim whitespace when loading plaintext documents. <programlisting><codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>textDoc<sp/>=<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;<sp/><sp/><sp/><sp/><sp/><sp/>Line<sp/>1<sp/>\n&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/><sp/><sp/><sp/>Line<sp/>2<sp/><sp/><sp/>\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>Line<sp/>3<sp/><sp/><sp/><sp/><sp/><sp/><sp/>&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;TxtLoadOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>a<sp/>document&apos;s<sp/>constructor</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>load<sp/>a<sp/>plaintext<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>loadOptions<sp/>=<sp/>MakeObject&lt;TxtLoadOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;LeadingSpacesOptions&quot;<sp/>property<sp/>to<sp/>&quot;TxtLeadingSpacesOptions.Preserve&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>preserve<sp/>all<sp/>whitespace<sp/>characters<sp/>at<sp/>the<sp/>start<sp/>of<sp/>every<sp/>line.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;LeadingSpacesOptions&quot;<sp/>property<sp/>to<sp/>&quot;TxtLeadingSpacesOptions.ConvertToIndent&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>remove<sp/>all<sp/>whitespace<sp/>characters<sp/>from<sp/>the<sp/>start<sp/>of<sp/>every<sp/>line,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>apply<sp/>a<sp/>left<sp/>first<sp/>line<sp/>indent<sp/>to<sp/>the<sp/>paragraph<sp/>to<sp/>simulate<sp/>the<sp/>effect<sp/>of<sp/>the<sp/>whitespaces.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;LeadingSpacesOptions&quot;<sp/>property<sp/>to<sp/>&quot;TxtLeadingSpacesOptions.Trim&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>remove<sp/>all<sp/>whitespace<sp/>characters<sp/>from<sp/>every<sp/>line&apos;s<sp/>start.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">loadOptions-&gt;set_LeadingSpacesOptions(txtLeadingSpacesOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;TrailingSpacesOptions&quot;<sp/>property<sp/>to<sp/>&quot;TxtTrailingSpacesOptions.Preserve&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>preserve<sp/>all<sp/>whitespace<sp/>characters<sp/>at<sp/>the<sp/>end<sp/>of<sp/>every<sp/>line.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;TrailingSpacesOptions&quot;<sp/>property<sp/>to<sp/>&quot;TxtTrailingSpacesOptions.Trim&quot;<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>remove<sp/>all<sp/>whitespace<sp/>characters<sp/>from<sp/>the<sp/>end<sp/>of<sp/>every<sp/>line.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">loadOptions-&gt;set_TrailingSpacesOptions(txtTrailingSpacesOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MakeObject&lt;System::IO::MemoryStream&gt;(<ref refid="class/system.text.encoding/_1a95985d0da959aa35a89574de5fb4bfd8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_UTF8</ref>()-&gt;GetBytes(textDoc)),<sp/>loadOptions);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ParagraphCollection&gt;<sp/>paragraphs<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(txtLeadingSpacesOptions)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_loading_1ab22ce91e1a7d391cf58c639966af3fdcaa30c41e29ca8ee0d5ef9190c40e22b72" kindref="member">TxtLeadingSpacesOptions::ConvertToIndent</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(37.8,<sp/>paragraphs-&gt;idx_get(0)-&gt;get_ParagraphFormat()-&gt;get_FirstLineIndent());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(25.2,<sp/>paragraphs-&gt;idx_get(1)-&gt;get_ParagraphFormat()-&gt;get_FirstLineIndent());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(6.3,<sp/>paragraphs-&gt;idx_get(2)-&gt;get_ParagraphFormat()-&gt;get_FirstLineIndent());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(0)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(1)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(2)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_loading_1ab22ce91e1a7d391cf58c639966af3fdca6d2a1af98f2cad1e5ec2dd0a75953919" kindref="member">TxtLeadingSpacesOptions::Preserve</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;LINQ_All([](SharedPtr&lt;Node&gt;<sp/>p)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{<sp/>return<sp/>(System::DynamicCast&lt;Paragraph&gt;(p))-&gt;get_ParagraphFormat()-&gt;get_FirstLineIndent()<sp/>==<sp/>0.0;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(0)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;<sp/><sp/><sp/><sp/><sp/><sp/>Line<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(1)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;<sp/><sp/><sp/><sp/>Line<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(2)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;<sp/>Line<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_loading_1ab22ce91e1a7d391cf58c639966af3fdca1fc5884251ca9f20a4fd5f79a458f94f" kindref="member">TxtLeadingSpacesOptions::Trim</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;LINQ_All([](SharedPtr&lt;Node&gt;<sp/>p)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{<sp/>return<sp/>(System::DynamicCast&lt;Paragraph&gt;(p))-&gt;get_ParagraphFormat()-&gt;get_FirstLineIndent()<sp/>==<sp/>0.0;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(0)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(1)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(2)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(txtTrailingSpacesOptions)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_loading_1a204d1700c395e573597dfe4d94867faca6d2a1af98f2cad1e5ec2dd0a75953919" kindref="member">TxtTrailingSpacesOptions::Preserve</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(0)-&gt;GetText().EndsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>1<sp/>\r&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(1)-&gt;GetText().EndsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>2<sp/><sp/><sp/>\r&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(2)-&gt;GetText().EndsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>3<sp/><sp/><sp/><sp/><sp/><sp/><sp/>\f&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_loading_1a204d1700c395e573597dfe4d94867faca1fc5884251ca9f20a4fd5f79a458f94f" kindref="member">TxtTrailingSpacesOptions::Trim</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(0)-&gt;GetText().EndsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>1\r&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(1)-&gt;GetText().EndsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>2\r&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(2)-&gt;GetText().EndsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>3\f&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="161" column="57"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1aa0a6aafd5885c249f08dae8ae541d1e1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Loading::TxtLoadOptions::set_DetectNumberingWithWhitespaces</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_DetectNumberingWithWhitespaces</name>
+        <qualifiedname>Aspose::Words::Loading::TxtLoadOptions::set_DetectNumberingWithWhitespaces</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1af4032da2ea0e1d217c38289c6ced7283" kindref="member">Aspose::Words::Loading::TxtLoadOptions::get_DetectNumberingWithWhitespaces</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="85" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a519f7878ea68198df0f95a0fcdcb414d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Loading::TxtLoadOptions::set_DocumentDirection</definition>
+        <argsstring>(Aspose::Words::Loading::DocumentDirection value)</argsstring>
+        <name>set_DocumentDirection</name>
+        <qualifiedname>Aspose::Words::Loading::TxtLoadOptions::set_DocumentDirection</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_loading_1a309e43cce7e43117f6570db146a05ce6" kindref="member">Aspose::Words::Loading::DocumentDirection</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a2aa2a1d3b2165f46077168676a125a41" kindref="member">Aspose::Words::Loading::TxtLoadOptions::get_DocumentDirection</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="274" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a175e35ba81dd20f018c8909213b3b59f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Loading::TxtLoadOptions::set_LeadingSpacesOptions</definition>
+        <argsstring>(Aspose::Words::Loading::TxtLeadingSpacesOptions value)</argsstring>
+        <name>set_LeadingSpacesOptions</name>
+        <qualifiedname>Aspose::Words::Loading::TxtLoadOptions::set_LeadingSpacesOptions</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_loading_1ab22ce91e1a7d391cf58c639966af3fdc" kindref="member">Aspose::Words::Loading::TxtLeadingSpacesOptions</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a564f7e94f7c5fb6732038faa4973119d" kindref="member">Aspose::Words::Loading::TxtLoadOptions::get_LeadingSpacesOptions</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="243" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a64d34ea1cd0c10c58a5f03e58eab4eea" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Loading::TxtLoadOptions::set_TrailingSpacesOptions</definition>
+        <argsstring>(Aspose::Words::Loading::TxtTrailingSpacesOptions value)</argsstring>
+        <name>set_TrailingSpacesOptions</name>
+        <qualifiedname>Aspose::Words::Loading::TxtLoadOptions::set_TrailingSpacesOptions</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_loading_1a204d1700c395e573597dfe4d94867fac" kindref="member">Aspose::Words::Loading::TxtTrailingSpacesOptions</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1aed3aaf1c14ff05e0ec5c0615075c97e7" kindref="member">Aspose::Words::Loading::TxtLoadOptions::get_TrailingSpacesOptions</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="164" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Allows to specify additional options when loading <ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member">Text</ref> document into a <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Document</ref> object. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Loading::LoadOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_loading_1_1_load_options"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Loading::TxtLoadOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Loading::LoadOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_loading_1_1_load_options"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Loading::TxtLoadOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" line="24" column="1" bodyfile="Aspose.Words.Cpp/Loading/TxtLoadOptions.h" bodystart="25" bodyend="288"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1abcf0563132d6d13e7bc5e9ce06253e89" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a0196af2dffdd53f6de6416c30f4cd89e" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_BaseUri</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ad67318fd720912ba8460d0d8635be0d7" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_ConvertMetafilesToPng</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a8a305c7ca7de0a900148187c3a1e6ad3" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_ConvertShapeToOfficeMath</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1af4032da2ea0e1d217c38289c6ced7283" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_DetectNumberingWithWhitespaces</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a2aa2a1d3b2165f46077168676a125a41" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_DocumentDirection</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a1f024832c893f116802c60059ce25b13" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_Encoding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ae4da81e82a1ca5a3231b72f746a7986f" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a566b10007e64036a66710bf18d55a2a6" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_FontSettings</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1adb7ec99702984a8b14a0364593447d5f" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_LanguagePreferences</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a564f7e94f7c5fb6732038faa4973119d" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_LeadingSpacesOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1af9522ca2c1dd6eb41ce67d2e83640b16" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_LoadFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a4a35a3b868f2b012e17397b0e2f7727b" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_MswVersion</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a1a45522476e3ce872d60c1adfc59fffd" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_Password</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a506351eadee7e43bb85df5f2d79addb4" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_PreserveIncludePictureField</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1acf271e71b7f8b3bf99c6b954a2930d4d" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ab965badd27ded5b5bfd2507e93fbcbb8" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_ResourceLoadingCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ad04bb42d6713c0eabe62f28861b7c255" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1aed3aaf1c14ff05e0ec5c0615075c97e7" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_TrailingSpacesOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1abdf376bce2596056c843228b3b430d8b" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_UpdateDirtyFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a32191464471263de4bbd417d9ab8a1fb" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>get_WarningCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a91cce95575b98c82e8eea81af037508d" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>LoadOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a6d13f827b12c2b6048576119fe2f2814" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>LoadOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1ab21ac0bed2d8c794e2021c36cc0f266d" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>LoadOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a8aa59674cdbb0e43764d8b17be3b8cd1" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a6ae572d040e5e986c663b7aa8c7661d4" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a4113ce78f8a8b3d1163a3ffd94aa0860" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1ad6f35f83d0ffccd474f5f98ee91eb3a8" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a271759ee84ba7e41c7d78b31ac888a21" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a0355c11ce2a280ee61e1c0ce0ded1c46" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_BaseUri</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a4a49308e39ac82aa0644d0a19659f19e" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_ConvertMetafilesToPng</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1afd53c076e3abecee44064e9e070ebc42" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_ConvertShapeToOfficeMath</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1aa0a6aafd5885c249f08dae8ae541d1e1" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_DetectNumberingWithWhitespaces</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a519f7878ea68198df0f95a0fcdcb414d" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_DocumentDirection</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1aeb49b43099f8965bd5b9871bbf3eca0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_Encoding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a53348e0de0f1d6aa102973c694b0485a" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a30f0211cd9e716036863efa5ce804de0" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_FontSettings</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a175e35ba81dd20f018c8909213b3b59f" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_LeadingSpacesOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a90d031c6751e7b2706001bf11a1629cd" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_LoadFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a816c70f5ed2d94a32504abda898f303e" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_MswVersion</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1afaba9f3eae741e632396a777dcb1ef6c" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_Password</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a65ccb68d9d17a3acfdf0092b3af58d8b" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_PreserveIncludePictureField</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a130e26077aab2b3865dbeca9e0b34a5c" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a7df189ed6d4c201066c5e1732d558dae" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_ResourceLoadingCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a5396b6b04fe87ecfb44db45c5f11934a" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a64d34ea1cd0c10c58a5f03e58eab4eea" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_TrailingSpacesOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a02643bf16d0e82a06d3cedab3f49ad65" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_UpdateDirtyFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a3651e35cc9b2ceb5e88f4eaaae8ed397" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>set_WarningCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1aa733a16ff014d088aa21fe88a98f8d6d" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a6e24a2ef8785ae5594a87ee39f76df86" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options_1a3d94edbb3f5bb908d18e196ece1d1407" prot="public" virt="non-virtual"><scope>Aspose::Words::Loading::TxtLoadOptions</scope><name>TxtLoadOptions</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

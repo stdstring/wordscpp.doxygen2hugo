@@ -1,0 +1,1149 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_node_collection" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::NodeCollection</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::INodeCollection</basecompoundref>
+    <basecompoundref refid="class/system.collections.generic.i_enumerable/" prot="public" virt="non-virtual">System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Node &gt; &gt;</basecompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_building_blocks_1_1_building_block_collection" prot="public" virt="non-virtual">Aspose::Words::BuildingBlocks::BuildingBlockCollection</derivedcompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_comment_collection" prot="public" virt="non-virtual">Aspose::Words::CommentCollection</derivedcompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_header_footer_collection" prot="public" virt="non-virtual">Aspose::Words::HeaderFooterCollection</derivedcompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_paragraph_collection" prot="public" virt="non-virtual">Aspose::Words::ParagraphCollection</derivedcompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_run_collection" prot="public" virt="non-virtual">Aspose::Words::RunCollection</derivedcompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_section_collection" prot="public" virt="non-virtual">Aspose::Words::SectionCollection</derivedcompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_tables_1_1_cell_collection" prot="public" virt="non-virtual">Aspose::Words::Tables::CellCollection</derivedcompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_tables_1_1_row_collection" prot="public" virt="non-virtual">Aspose::Words::Tables::RowCollection</derivedcompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_tables_1_1_table_collection" prot="public" virt="non-virtual">Aspose::Words::Tables::TableCollection</derivedcompoundref>
+    <includes refid="_node_collection_8h" local="no">Aspose.Words.Cpp/NodeCollection.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_node_collection_1aa1a7cb00d2792a7b238147924dfcc127" prot="private" static="no">
+        <type>Aspose::Words::INodeCollection</type>
+        <definition>typedef Aspose::Words::INodeCollection Aspose::Words::NodeCollection::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::NodeCollection::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="117" column="44" bodyfile="Aspose.Words.Cpp/NodeCollection.h" bodystart="117" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_node_collection_1a8fdb27e0d37050f6690e7bf2d0f11d62" prot="private" static="no">
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &gt;</type>
+        <definition>typedef System::Collections::Generic::IEnumerable&lt;System::SharedPtr&lt;Aspose::Words::Node&gt; &gt; Aspose::Words::NodeCollection::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::NodeCollection::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="118" column="55" bodyfile="Aspose.Words.Cpp/NodeCollection.h" bodystart="118" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_node_collection_1a18e177a46d3f98f98fe2f410fcff5ac9" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_node_collection" kindref="compound">NodeCollection</ref></type>
+        <definition>typedef NodeCollection Aspose::Words::NodeCollection::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::NodeCollection::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="116" column="28" bodyfile="Aspose.Words.Cpp/NodeCollection.h" bodystart="116" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_node_collection_1ac515937d9e04eb560a50e4142cba64d2" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; BaseType, <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType1</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::NodeCollection::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::NodeCollection::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="120" column="37" bodyfile="Aspose.Words.Cpp/NodeCollection.h" bodystart="120" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_node_collection_1a7be9cac54e9fd5326c0421fb2199598a" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::NodeCollection::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::NodeCollection::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="656" column="23" bodyfile="Aspose.Words.Cpp/NodeCollection.h" bodystart="656" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_node_collection_1a5657c3bb2105b3b5221281bc8feaf561" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::NodeCollection::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::NodeCollection::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="657" column="21" bodyfile="Aspose.Words.Cpp/NodeCollection.h" bodystart="657" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_node_collection_1a26bcb43179149101eae489f1aa003bb0" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::NodeCollection::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::NodeCollection::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="658" column="21" bodyfile="Aspose.Words.Cpp/NodeCollection.h" bodystart="658" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_node_collection_1ae56d9e5ad1a77f8b52f930922fc043f1" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::NodeCollection::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::NodeCollection::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="659" column="23" bodyfile="Aspose.Words.Cpp/NodeCollection.h" bodystart="659" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_node_collection_1a85ad13dc9037444af51b8dc231a4d110" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::NodeCollection::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::NodeCollection::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="660" column="23" bodyfile="Aspose.Words.Cpp/NodeCollection.h" bodystart="660" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_node_collection_1a4e8f4690fd7337e1f82fe63a76c87ddb" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::NodeCollection::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::NodeCollection::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="661" column="23" bodyfile="Aspose.Words.Cpp/NodeCollection.h" bodystart="661" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_node_collection_1a1d4e1c5e89576d3114636af9f8a492c2" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::NodeCollection::mField6</definition>
+        <argsstring></argsstring>
+        <name>mField6</name>
+        <qualifiedname>Aspose::Words::NodeCollection::mField6</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="662" column="21" bodyfile="Aspose.Words.Cpp/NodeCollection.h" bodystart="662" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_node_collection_1ad9739d8a5dce618222d67e5518b3adda" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::NodeCollection::mField7</definition>
+        <argsstring></argsstring>
+        <name>mField7</name>
+        <qualifiedname>Aspose::Words::NodeCollection::mField7</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="663" column="23" bodyfile="Aspose.Words.Cpp/NodeCollection.h" bodystart="663" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_node_collection_1a61d057caad62435c3c5e8d3e8b95fd32" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::NodeCollection::mField8</definition>
+        <argsstring></argsstring>
+        <name>mField8</name>
+        <qualifiedname>Aspose::Words::NodeCollection::mField8</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="664" column="23" bodyfile="Aspose.Words.Cpp/NodeCollection.h" bodystart="664" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_node_collection_1a38e34974c3af48cf0f800fb5af1c3a9d" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::NodeCollection::~NodeCollection</definition>
+        <argsstring>()</argsstring>
+        <name>~NodeCollection</name>
+        <qualifiedname>Aspose::Words::NodeCollection::~NodeCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="650" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_node_collection_1afcec1c116a33d446fe3d59877652d837" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_composite_node" kindref="compound">Aspose::Words::CompositeNode</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::CompositeNode &gt; Aspose::Words::NodeCollection::get_Container</definition>
+        <argsstring>() override</argsstring>
+        <name>get_Container</name>
+        <qualifiedname>Aspose::Words::NodeCollection::get_Container</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="654" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_node_collection_1aa19c876a0228a50a2a8ec10b3bee8038" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Node &gt; Aspose::Words::NodeCollection::GetCurrentNode</definition>
+        <argsstring>() override</argsstring>
+        <name>GetCurrentNode</name>
+        <qualifiedname>Aspose::Words::NodeCollection::GetCurrentNode</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="668" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_node_collection_1a15de0ae4fc88d7061fed0eaf4e09fa86" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Node &gt; Aspose::Words::NodeCollection::GetNextMatchingNode</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::Node &gt;) override</argsstring>
+        <name>GetNextMatchingNode</name>
+        <qualifiedname>Aspose::Words::NodeCollection::GetNextMatchingNode</qualifiedname>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="666" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_node_collection_1a8a985d3462181ee089940ed210c416e8" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::NodeCollection::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::NodeCollection::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="121" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_node_collection_1a068f070b5bbd81992e895bd3a9b7a909" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::NodeCollection::Add</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Node &gt; &amp;node)</argsstring>
+        <name>Add</name>
+        <qualifiedname>Aspose::Words::NodeCollection::Add</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
+          <declname>node</declname>
+        </param>
+        <briefdescription>
+<para>Adds a node to the end of the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The node is inserted as a child into the node object from which the collection was created.</para>
+<para>If the newChild is already in the tree, it is first removed.</para>
+<para>If the node being inserted was created from another document, you should use <ref refid="" kindref="compound">ImportNode()</ref> to import the node to the current document. The imported node can then be inserted into the current document.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>node</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The node to be added to the end of the collection.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System::NotSupportedException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The <bold>NodeCollection</bold> is a &quot;deep&quot; collection.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to prepare a new section node for editing. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>blank<sp/>document<sp/>comes<sp/>with<sp/>a<sp/>section,<sp/>which<sp/>has<sp/>a<sp/>body,<sp/>which<sp/>in<sp/>turn<sp/>has<sp/>a<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>add<sp/>contents<sp/>to<sp/>this<sp/>document<sp/>by<sp/>adding<sp/>elements<sp/>such<sp/>as<sp/>text<sp/>runs,<sp/>shapes,<sp/>or<sp/>tables<sp/>to<sp/>that<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379ad2c24d59e0baff4d0155fbdf62590867" kindref="member" tooltip="A Section object that corresponds to one section in a Word document. A Section node can have Body and...">NodeType::Section</ref>,<sp/>doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aed36a1ef76a59ee3f15180e0441188ad" kindref="member" tooltip="Indicates all node types. Allows to select all children.">NodeType::Any</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aac101b32dda4448cf13a93fe283dddd8" kindref="member" tooltip="A Body object that contains the main text of a section (main text story). A Body node can have Paragr...">NodeType::Body</ref>,<sp/>doc-&gt;get_Sections()-&gt;idx_get(0)-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aed36a1ef76a59ee3f15180e0441188ad" kindref="member" tooltip="Indicates all node types. Allows to select all children.">NodeType::Any</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>,<sp/>doc-&gt;get_Sections()-&gt;idx_get(0)-&gt;get_Body()-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aed36a1ef76a59ee3f15180e0441188ad" kindref="member" tooltip="Indicates all node types. Allows to select all children.">NodeType::Any</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>add<sp/>a<sp/>new<sp/>section<sp/>like<sp/>this,<sp/>it<sp/>will<sp/>not<sp/>have<sp/>a<sp/>body,<sp/>or<sp/>any<sp/>other<sp/>child<sp/>nodes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Sections()-&gt;Add(MakeObject&lt;Section&gt;(doc));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>doc-&gt;get_Sections()-&gt;idx_get(1)-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aed36a1ef76a59ee3f15180e0441188ad" kindref="member" tooltip="Indicates all node types. Allows to select all children.">NodeType::Any</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Run<sp/>the<sp/>&quot;EnsureMinimum&quot;<sp/>method<sp/>to<sp/>add<sp/>a<sp/>body<sp/>and<sp/>a<sp/>paragraph<sp/>to<sp/>this<sp/>section<sp/>to<sp/>begin<sp/>editing<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_LastSection()-&gt;EnsureMinimum();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aac101b32dda4448cf13a93fe283dddd8" kindref="member" tooltip="A Body object that contains the main text of a section (main text story). A Body node can have Paragr...">NodeType::Body</ref>,<sp/>doc-&gt;get_Sections()-&gt;idx_get(1)-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aed36a1ef76a59ee3f15180e0441188ad" kindref="member" tooltip="Indicates all node types. Allows to select all children.">NodeType::Any</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>,<sp/>doc-&gt;get_Sections()-&gt;idx_get(1)-&gt;get_Body()-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aed36a1ef76a59ee3f15180e0441188ad" kindref="member" tooltip="Indicates all node types. Allows to select all children.">NodeType::Any</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Sections()-&gt;idx_get(0)-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="359" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_node_collection_1a5c84bf176a96e3f048ff328ef0ef67aa" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::NodeCollection::Clear</definition>
+        <argsstring>()</argsstring>
+        <name>Clear</name>
+        <qualifiedname>Aspose::Words::NodeCollection::Clear</qualifiedname>
+        <briefdescription>
+<para>Removes all nodes from this collection and from the document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to remove all sections from a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>document<sp/>has<sp/>one<sp/>section<sp/>with<sp/>a<sp/>few<sp/>child<sp/>nodes<sp/>containing<sp/>and<sp/>displaying<sp/>all<sp/>the<sp/>document&apos;s<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>doc-&gt;get_Sections()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(17,<sp/>doc-&gt;get_Sections()-&gt;idx_get(0)-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aed36a1ef76a59ee3f15180e0441188ad" kindref="member" tooltip="Indicates all node types. Allows to select all children.">NodeType::Any</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!\r\rHello<sp/>Word!\r\r\rHello<sp/>World!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clear<sp/>the<sp/>collection<sp/>of<sp/>sections,<sp/>which<sp/>will<sp/>remove<sp/>all<sp/>of<sp/>the<sp/>document&apos;s<sp/>children.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Sections()-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aed36a1ef76a59ee3f15180e0441188ad" kindref="member" tooltip="Indicates all node types. Allows to select all children.">NodeType::Any</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(String::Empty,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="510" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_node_collection_1afb103bc9c0ef36a0593141c957dec4ad" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::NodeCollection::Contains</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Node &gt; &amp;node)</argsstring>
+        <name>Contains</name>
+        <qualifiedname>Aspose::Words::NodeCollection::Contains</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
+          <declname>node</declname>
+        </param>
+        <briefdescription>
+<para>Determines whether a node is in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This method performs a linear search; therefore, the average execution time is proportional to Count.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>node</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The node to locate.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>True if item is found in the collection; otherwise, false.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with a <ref refid="class_aspose_1_1_words_1_1_node_collection" kindref="compound">NodeCollection</ref>. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>text<sp/>to<sp/>the<sp/>document<sp/>by<sp/>inserting<sp/>Runs<sp/>using<sp/>a<sp/>DocumentBuilder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Run<sp/>1.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Run<sp/>2.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Every<sp/>invocation<sp/>of<sp/>the<sp/>&quot;Write&quot;<sp/>method<sp/>creates<sp/>a<sp/>new<sp/>Run,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>then<sp/>appears<sp/>in<sp/>the<sp/>parent<sp/>Paragraph&apos;s<sp/>RunCollection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;RunCollection&gt;<sp/>runs<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;get_Runs();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>runs-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>insert<sp/>a<sp/>node<sp/>into<sp/>the<sp/>RunCollection<sp/>manually.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>newRun<sp/>=<sp/>MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;Run<sp/>3.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">runs-&gt;Insert(3,<sp/>newRun);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(runs-&gt;Contains(newRun));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Run<sp/>1.<sp/>Run<sp/>2.<sp/>Run<sp/>3.&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Access<sp/>individual<sp/>runs<sp/>and<sp/>remove<sp/>them<sp/>to<sp/>remove<sp/>their<sp/>text<sp/>from<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Run&gt;<sp/>run<sp/>=<sp/>runs-&gt;idx_get(1);</highlight></codeline>
+<codeline><highlight class="normal">runs-&gt;Remove(run);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Run<sp/>1.<sp/>Run<sp/>3.&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(run<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(runs-&gt;Contains(run));</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="552" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_node_collection_1a08e6dd6c87c6f40972781651e176742a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::NodeCollection::get_Count</definition>
+        <argsstring>()</argsstring>
+        <name>get_Count</name>
+        <qualifiedname>Aspose::Words::NodeCollection::get_Count</qualifiedname>
+        <briefdescription>
+<para>Gets the number of nodes in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to traverse through a composite node&apos;s collection of child nodes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>two<sp/>runs<sp/>and<sp/>one<sp/>shape<sp/>as<sp/>child<sp/>nodes<sp/>to<sp/>the<sp/>first<sp/>paragraph<sp/>of<sp/>this<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>paragraph<sp/>=<sp/>System::DynamicCast&lt;Paragraph&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">paragraph-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!<sp/>&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>shape<sp/>=<sp/>MakeObject&lt;Shape&gt;(doc,<sp/>ShapeType::Rectangle);</highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;set_Width(200);</highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;set_Height(200);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Note<sp/>that<sp/>the<sp/>&apos;CustomNodeId&apos;<sp/>is<sp/>not<sp/>saved<sp/>to<sp/>an<sp/>output<sp/>file<sp/>and<sp/>exists<sp/>only<sp/>during<sp/>the<sp/>node<sp/>lifetime.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;set_CustomNodeId(100);</highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;set_WrapType(WrapType::Inline);</highlight></codeline>
+<codeline><highlight class="normal">paragraph-&gt;AppendChild(shape);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">paragraph-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;Hello<sp/>again!&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Iterate<sp/>through<sp/>the<sp/>paragraph&apos;s<sp/>collection<sp/>of<sp/>immediate<sp/>children,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>print<sp/>any<sp/>runs<sp/>or<sp/>shapes<sp/>that<sp/>we<sp/>find<sp/>within.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;NodeCollection&gt;<sp/>children<sp/>=<sp/>paragraph-&gt;get_ChildNodes();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>paragraph-&gt;get_ChildNodes()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>child<sp/>:<sp/>System::IterateOver(children))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(child-&gt;get_NodeType())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379ac5301693c4e792bcd5a479ef38fb8f8d" kindref="member" tooltip="A run of text.">NodeType::Run</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Run<sp/>contents:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>child-&gt;GetText().Trim()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>:<sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>childShape<sp/>=<sp/>System::DynamicCast&lt;Shape&gt;(child);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Shape:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\t{0},<sp/>{1}x{2}&quot;</highlight><highlight class="normal">,<sp/>childShape-&gt;get_ShapeType(),<sp/>childShape-&gt;get_Width(),<sp/>childShape-&gt;get_Height())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_EQ(100,<sp/>shape-&gt;get_CustomNodeId());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">default</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting></para>
+<para>Shows how to find out if a tables are nested. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>CalculateDepthOfNestedTables()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Nested<sp/>tables.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;NodeCollection&gt;<sp/>tables<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="A Table object that represents a table in a Word document. A Table node can have Row nodes.">NodeType::Table</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>tables-&gt;get_Count();<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>table<sp/>=<sp/>System::DynamicCast&lt;Table&gt;(tables-&gt;idx_get(i));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Find<sp/>out<sp/>if<sp/>any<sp/>cells<sp/>in<sp/>the<sp/>table<sp/>have<sp/>other<sp/>tables<sp/>as<sp/>children.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>count<sp/>=<sp/>GetChildTableCount(table);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Table<sp/>#&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>i<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>has<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>count<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>tables<sp/>directly<sp/>within<sp/>its<sp/>cells&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Find<sp/>out<sp/>if<sp/>the<sp/>table<sp/>is<sp/>nested<sp/>inside<sp/>another<sp/>table,<sp/>and,<sp/>if<sp/>so,<sp/>at<sp/>what<sp/>depth.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>tableDepth<sp/>=<sp/>GetNestedDepthOfTable(table);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(tableDepth<sp/>&gt;<sp/>0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Table<sp/>#&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>i<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>is<sp/>nested<sp/>inside<sp/>another<sp/>table<sp/>at<sp/>depth<sp/>of<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>tableDepth<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Table<sp/>#&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>i<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>is<sp/>a<sp/>non<sp/>nested<sp/>table<sp/>(is<sp/>not<sp/>a<sp/>child<sp/>of<sp/>another<sp/>table)&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>GetNestedDepthOfTable(SharedPtr&lt;Table&gt;<sp/>table)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>depth<sp/>=<sp/>0;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Node&gt;<sp/>parent<sp/>=<sp/>table-&gt;GetAncestor(table-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(parent<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>depth++;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>parent<sp/>=<sp/>parent-&gt;GetAncestorOf&lt;SharedPtr&lt;Table&gt;&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>depth;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>GetChildTableCount(SharedPtr&lt;Table&gt;<sp/>table)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>childTableCount<sp/>=<sp/>0;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>row<sp/>:<sp/>System::IterateOver(table-&gt;get_Rows()-&gt;LINQ_OfType&lt;SharedPtr&lt;Row&gt;&gt;()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a1a66ab62bfc858b7bcf9e01aa9cd1841" kindref="member" tooltip="A cell of a table row. A Cell node can have Paragraph and Table nodes.">Cell</ref><sp/>:<sp/>System::IterateOver(row-&gt;get_Cells()-&gt;LINQ_OfType&lt;SharedPtr&lt;Cell&gt;&gt;()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;TableCollection&gt;<sp/>childTables<sp/>=<sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a1a66ab62bfc858b7bcf9e01aa9cd1841" kindref="member" tooltip="A cell of a table row. A Cell node can have Paragraph and Table nodes.">Cell</ref>-&gt;get_Tables();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(childTables-&gt;get_Count()<sp/>&gt;<sp/>0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>childTableCount++;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>childTableCount;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="253" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_node_collection_1a8d9e67dd4a36be575fdce2a6802cb917" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &gt; &gt;</type>
+        <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::SharedPtr&lt; Aspose::Words::Node &gt; &gt; &gt; Aspose::Words::NodeCollection::GetEnumerator</definition>
+        <argsstring>() override</argsstring>
+        <name>GetEnumerator</name>
+        <qualifiedname>Aspose::Words::NodeCollection::GetEnumerator</qualifiedname>
+        <briefdescription>
+<para>Provides a simple &quot;foreach&quot; style iteration over the collection of nodes. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>An IEnumerator. </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="646" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_node_collection_1a0e9602b38d65330fb436704b849d651b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Node &gt; Aspose::Words::NodeCollection::idx_get</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>idx_get</name>
+        <qualifiedname>Aspose::Words::NodeCollection::idx_get</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Retrieves a node at the given index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The index is zero-based.</para>
+<para>Negative indexes are allowed and indicate access from the back of the collection. For example -1 means the last item, -2 means the second before last and so on.</para>
+<para>If index is greater than or equal to the number of items in the list, this returns a null reference.</para>
+<para>If index is negative and its absolute value is greater than the number of items in the list, this returns a null reference.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>index</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>An index into the collection of nodes.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to traverse through a composite node&apos;s collection of child nodes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>two<sp/>runs<sp/>and<sp/>one<sp/>shape<sp/>as<sp/>child<sp/>nodes<sp/>to<sp/>the<sp/>first<sp/>paragraph<sp/>of<sp/>this<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>paragraph<sp/>=<sp/>System::DynamicCast&lt;Paragraph&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">paragraph-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!<sp/>&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>shape<sp/>=<sp/>MakeObject&lt;Shape&gt;(doc,<sp/>ShapeType::Rectangle);</highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;set_Width(200);</highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;set_Height(200);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Note<sp/>that<sp/>the<sp/>&apos;CustomNodeId&apos;<sp/>is<sp/>not<sp/>saved<sp/>to<sp/>an<sp/>output<sp/>file<sp/>and<sp/>exists<sp/>only<sp/>during<sp/>the<sp/>node<sp/>lifetime.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;set_CustomNodeId(100);</highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;set_WrapType(WrapType::Inline);</highlight></codeline>
+<codeline><highlight class="normal">paragraph-&gt;AppendChild(shape);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">paragraph-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;Hello<sp/>again!&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Iterate<sp/>through<sp/>the<sp/>paragraph&apos;s<sp/>collection<sp/>of<sp/>immediate<sp/>children,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>print<sp/>any<sp/>runs<sp/>or<sp/>shapes<sp/>that<sp/>we<sp/>find<sp/>within.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;NodeCollection&gt;<sp/>children<sp/>=<sp/>paragraph-&gt;get_ChildNodes();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>paragraph-&gt;get_ChildNodes()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>child<sp/>:<sp/>System::IterateOver(children))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(child-&gt;get_NodeType())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379ac5301693c4e792bcd5a479ef38fb8f8d" kindref="member" tooltip="A run of text.">NodeType::Run</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Run<sp/>contents:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>child-&gt;GetText().Trim()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>:<sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>childShape<sp/>=<sp/>System::DynamicCast&lt;Shape&gt;(child);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Shape:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\t{0},<sp/>{1}x{2}&quot;</highlight><highlight class="normal">,<sp/>childShape-&gt;get_ShapeType(),<sp/>childShape-&gt;get_Width(),<sp/>childShape-&gt;get_Height())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_EQ(100,<sp/>shape-&gt;get_CustomNodeId());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">default</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="316" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_node_collection_1a99ff7fa6245f5be6b1830877cc6e641c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::NodeCollection::IndexOf</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Node &gt; &amp;node)</argsstring>
+        <name>IndexOf</name>
+        <qualifiedname>Aspose::Words::NodeCollection::IndexOf</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
+          <declname>node</declname>
+        </param>
+        <briefdescription>
+<para>Returns the zero-based index of the specified node. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This method performs a linear search; therefore, the average execution time is proportional to Count.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>node</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The node to locate.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The zero-based index of the node within the collection, if found; otherwise, -1.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to get the index of a node in a collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Tables.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Tables()-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;NodeCollection&gt;<sp/>allTables<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="A Table object that represents a table in a Word document. A Table node can have Row nodes.">NodeType::Table</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>allTables-&gt;IndexOf(table));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Row&gt;<sp/>row<sp/>=<sp/>table-&gt;get_Rows()-&gt;idx_get(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>table-&gt;IndexOf(row));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Cell&gt;<sp/>cell<sp/>=<sp/>row-&gt;get_LastCell();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>row-&gt;IndexOf(cell));</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="581" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_node_collection_1ae0e08870652837402e08e2e56647795c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::NodeCollection::Insert</definition>
+        <argsstring>(int32_t index, const System::SharedPtr&lt; Aspose::Words::Node &gt; &amp;node)</argsstring>
+        <name>Insert</name>
+        <qualifiedname>Aspose::Words::NodeCollection::Insert</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
+          <declname>node</declname>
+        </param>
+        <briefdescription>
+<para>Inserts a node into the collection at the specified index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The node is inserted as a child into the node object from which the collection was created.</para>
+<para>If the index is equal to or greater than Count, the node is added at the end of the collection.</para>
+<para>If the index is negative and its absolute value is greater than Count, the node is added at the end of the collection.</para>
+<para>If the newChild is already in the tree, it is first removed.</para>
+<para>If the node being inserted was created from another document, you should use <ref refid="" kindref="compound">ImportNode()</ref> to import the node to the current document. The imported node can then be inserted into the current document.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>index</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The zero-based index of the node. Negative indexes are allowed and indicate access from the back of the list. For example -1 means the last node, -2 means the second before last and so on. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>node</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The node to insert.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System::NotSupportedException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The <bold>NodeCollection</bold> is a &quot;deep&quot; collection.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with a <ref refid="class_aspose_1_1_words_1_1_node_collection" kindref="compound">NodeCollection</ref>. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>text<sp/>to<sp/>the<sp/>document<sp/>by<sp/>inserting<sp/>Runs<sp/>using<sp/>a<sp/>DocumentBuilder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Run<sp/>1.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Run<sp/>2.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Every<sp/>invocation<sp/>of<sp/>the<sp/>&quot;Write&quot;<sp/>method<sp/>creates<sp/>a<sp/>new<sp/>Run,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>then<sp/>appears<sp/>in<sp/>the<sp/>parent<sp/>Paragraph&apos;s<sp/>RunCollection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;RunCollection&gt;<sp/>runs<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;get_Runs();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>runs-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>insert<sp/>a<sp/>node<sp/>into<sp/>the<sp/>RunCollection<sp/>manually.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>newRun<sp/>=<sp/>MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;Run<sp/>3.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">runs-&gt;Insert(3,<sp/>newRun);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(runs-&gt;Contains(newRun));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Run<sp/>1.<sp/>Run<sp/>2.<sp/>Run<sp/>3.&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Access<sp/>individual<sp/>runs<sp/>and<sp/>remove<sp/>them<sp/>to<sp/>remove<sp/>their<sp/>text<sp/>from<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Run&gt;<sp/>run<sp/>=<sp/>runs-&gt;idx_get(1);</highlight></codeline>
+<codeline><highlight class="normal">runs-&gt;Remove(run);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Run<sp/>1.<sp/>Run<sp/>3.&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(run<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(runs-&gt;Contains(run));</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="414" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_node_collection_1a86977ff4ddee5f0781a774868b8ad5a8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::NodeCollection::Remove</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Node &gt; &amp;node)</argsstring>
+        <name>Remove</name>
+        <qualifiedname>Aspose::Words::NodeCollection::Remove</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
+          <declname>node</declname>
+        </param>
+        <briefdescription>
+<para>Removes the node from the collection and from the document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>node</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The node to remove.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with a <ref refid="class_aspose_1_1_words_1_1_node_collection" kindref="compound">NodeCollection</ref>. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>text<sp/>to<sp/>the<sp/>document<sp/>by<sp/>inserting<sp/>Runs<sp/>using<sp/>a<sp/>DocumentBuilder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Run<sp/>1.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Run<sp/>2.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Every<sp/>invocation<sp/>of<sp/>the<sp/>&quot;Write&quot;<sp/>method<sp/>creates<sp/>a<sp/>new<sp/>Run,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>then<sp/>appears<sp/>in<sp/>the<sp/>parent<sp/>Paragraph&apos;s<sp/>RunCollection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;RunCollection&gt;<sp/>runs<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;get_Runs();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>runs-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>insert<sp/>a<sp/>node<sp/>into<sp/>the<sp/>RunCollection<sp/>manually.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>newRun<sp/>=<sp/>MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;Run<sp/>3.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">runs-&gt;Insert(3,<sp/>newRun);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(runs-&gt;Contains(newRun));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Run<sp/>1.<sp/>Run<sp/>2.<sp/>Run<sp/>3.&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Access<sp/>individual<sp/>runs<sp/>and<sp/>remove<sp/>them<sp/>to<sp/>remove<sp/>their<sp/>text<sp/>from<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Run&gt;<sp/>run<sp/>=<sp/>runs-&gt;idx_get(1);</highlight></codeline>
+<codeline><highlight class="normal">runs-&gt;Remove(run);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Run<sp/>1.<sp/>Run<sp/>3.&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(run<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(runs-&gt;Contains(run));</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="452" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_node_collection_1a9c1ce160d192c038c1e740c3ddc309eb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::NodeCollection::RemoveAt</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>RemoveAt</name>
+        <qualifiedname>Aspose::Words::NodeCollection::RemoveAt</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Removes the node at the specified index from the collection and from the document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>index</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The zero-based index of the node. Negative indexes are allowed and indicate access from the back of the list. For example -1 means the last node, -2 means the second before last and so on.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to add and remove sections in a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea8e798e1e673d70f3c9d8b7be6234320b" kindref="member" tooltip="Specifies start of new section on a new page.">BreakType::SectionBreakNewPage</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Section<sp/>1\x000c&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;Section<sp/>2&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Delete<sp/>the<sp/>first<sp/>section<sp/>from<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Sections()-&gt;RemoveAt(0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Section<sp/>2&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Append<sp/>a<sp/>copy<sp/>of<sp/>what<sp/>is<sp/>now<sp/>the<sp/>first<sp/>section<sp/>to<sp/>the<sp/>end<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>lastSectionIdx<sp/>=<sp/>doc-&gt;get_Sections()-&gt;get_Count()<sp/>-<sp/>1;</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Section&gt;<sp/>newSection<sp/>=<sp/>doc-&gt;get_Sections()-&gt;idx_get(lastSectionIdx)-&gt;Clone();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Sections()-&gt;Add(newSection);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Section<sp/>2\x000c&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;Section<sp/>2&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="489" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_node_collection_1a468767664c9faee9f914a1620525f7c4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &gt;</type>
+        <definition>System::ArrayPtr&lt; System::SharedPtr&lt; Aspose::Words::Node &gt; &gt; Aspose::Words::NodeCollection::ToArray</definition>
+        <argsstring>()</argsstring>
+        <name>ToArray</name>
+        <qualifiedname>Aspose::Words::NodeCollection::ToArray</qualifiedname>
+        <briefdescription>
+<para>Copies all nodes from the collection to a new array of nodes. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>You should not be adding/removing nodes while iterating over a collection of nodes because it invalidates the iterator and requires refreshes for live collections.</para>
+<para>To be able to add/remove nodes during iteration, use this method to copy nodes into a fixed-size array and then iterate over the array.</para>
+<para><simplesect kind="return"><para>An array of nodes.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to replace all textbox shapes with image shapes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Textboxes<sp/>in<sp/>drawing<sp/>canvas.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;Shape&gt;&gt;<sp/>shapes<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;LINQ_OfType&lt;SharedPtr&lt;Shape&gt;&gt;()-&gt;LINQ_ToArray();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>isTextBox<sp/>=<sp/>[](SharedPtr&lt;Shape&gt;<sp/>s)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>s-&gt;get_ShapeType()<sp/>==<sp/>ShapeType::TextBox;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>isImage<sp/>=<sp/>[](SharedPtr&lt;Shape&gt;<sp/>s)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>s-&gt;get_ShapeType()<sp/>==<sp/>ShapeType::Image;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>shapes-&gt;LINQ_Count(isTextBox));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>shapes-&gt;LINQ_Count(isImage));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(SharedPtr&lt;Shape&gt;<sp/>shape<sp/>:<sp/>shapes)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(shape-&gt;get_ShapeType()<sp/>==<sp/>ShapeType::TextBox)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>replacementShape<sp/>=<sp/>MakeObject&lt;Shape&gt;(doc,<sp/>ShapeType::Image);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>replacementShape-&gt;get_ImageData()-&gt;SetImage(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>replacementShape-&gt;set_Left(shape-&gt;get_Left());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>replacementShape-&gt;set_Top(shape-&gt;get_Top());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>replacementShape-&gt;set_Width(shape-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>replacementShape-&gt;set_Height(shape-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>replacementShape-&gt;set_RelativeHorizontalPosition(shape-&gt;get_RelativeHorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>replacementShape-&gt;set_RelativeVerticalPosition(shape-&gt;get_RelativeVerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>replacementShape-&gt;set_HorizontalAlignment(shape-&gt;get_HorizontalAlignment());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>replacementShape-&gt;set_VerticalAlignment(shape-&gt;get_VerticalAlignment());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>replacementShape-&gt;set_WrapType(shape-&gt;get_WrapType());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>replacementShape-&gt;set_WrapSide(shape-&gt;get_WrapSide());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>shape-&gt;get_ParentNode()-&gt;InsertAfter(replacementShape,<sp/>shape);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>shape-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">shapes<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;LINQ_OfType&lt;SharedPtr&lt;Shape&gt;&gt;()-&gt;LINQ_ToArray();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>shapes-&gt;LINQ_Count(isTextBox));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>shapes-&gt;LINQ_Count(isImage));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.ReplaceTextboxesWithImages.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeCollection.h" line="641" column="25"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents a collection of nodes of a specific type. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><bold>NodeCollection</bold> does not own the nodes it contains, rather, is just a selection of nodes of the specified type, but the nodes are stored in the tree under their respective parent nodes.</para>
+<para><bold>NodeCollection</bold> supports indexed access, iteration and provides add and remove methods.</para>
+<para>The <bold>NodeCollection</bold> collection is &quot;live&quot;, i.e. changes to the children of the node object that it was created from are immediately reflected in the nodes returned by the <bold>NodeCollection</bold> properties and methods.</para>
+<para><bold>NodeCollection</bold> is returned by <ref refid="class_aspose_1_1_words_1_1_composite_node_1ae1fc746cc70cea4c9ab30caf39aec146" kindref="member">GetChildNodes()</ref> and also serves as a base class for typed node collections such as <ref refid="class_aspose_1_1_words_1_1_section_collection" kindref="compound">SectionCollection</ref>, <ref refid="class_aspose_1_1_words_1_1_paragraph_collection" kindref="compound">ParagraphCollection</ref> etc.</para>
+<para><bold>NodeCollection</bold> can be &quot;flat&quot; and contain only immediate children of the node it was created from, or it can be &quot;deep&quot; and contain all descendant children.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to replace all textbox shapes with image shapes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Textboxes<sp/>in<sp/>drawing<sp/>canvas.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;Shape&gt;&gt;<sp/>shapes<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;LINQ_OfType&lt;SharedPtr&lt;Shape&gt;&gt;()-&gt;LINQ_ToArray();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>isTextBox<sp/>=<sp/>[](SharedPtr&lt;Shape&gt;<sp/>s)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>s-&gt;get_ShapeType()<sp/>==<sp/>ShapeType::TextBox;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>isImage<sp/>=<sp/>[](SharedPtr&lt;Shape&gt;<sp/>s)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>s-&gt;get_ShapeType()<sp/>==<sp/>ShapeType::Image;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>shapes-&gt;LINQ_Count(isTextBox));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>shapes-&gt;LINQ_Count(isImage));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(SharedPtr&lt;Shape&gt;<sp/>shape<sp/>:<sp/>shapes)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(shape-&gt;get_ShapeType()<sp/>==<sp/>ShapeType::TextBox)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>replacementShape<sp/>=<sp/>MakeObject&lt;Shape&gt;(doc,<sp/>ShapeType::Image);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>replacementShape-&gt;get_ImageData()-&gt;SetImage(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>replacementShape-&gt;set_Left(shape-&gt;get_Left());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>replacementShape-&gt;set_Top(shape-&gt;get_Top());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>replacementShape-&gt;set_Width(shape-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>replacementShape-&gt;set_Height(shape-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>replacementShape-&gt;set_RelativeHorizontalPosition(shape-&gt;get_RelativeHorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>replacementShape-&gt;set_RelativeVerticalPosition(shape-&gt;get_RelativeVerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>replacementShape-&gt;set_HorizontalAlignment(shape-&gt;get_HorizontalAlignment());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>replacementShape-&gt;set_VerticalAlignment(shape-&gt;get_VerticalAlignment());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>replacementShape-&gt;set_WrapType(shape-&gt;get_WrapType());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>replacementShape-&gt;set_WrapSide(shape-&gt;get_WrapSide());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>shape-&gt;get_ParentNode()-&gt;InsertAfter(replacementShape,<sp/>shape);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>shape-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">shapes<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;LINQ_OfType&lt;SharedPtr&lt;Shape&gt;&gt;()-&gt;LINQ_ToArray();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>shapes-&gt;LINQ_Count(isTextBox));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>shapes-&gt;LINQ_Count(isImage));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.ReplaceTextboxesWithImages.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="5">
+        <label>Aspose::Words::BuildingBlocks::BuildingBlockCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_building_blocks_1_1_building_block_collection"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>Aspose::Words::CommentCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_comment_collection"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>Aspose::Words::HeaderFooterCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_header_footer_collection"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::INodeCollection</label>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::NodeCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_node_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>Aspose::Words::ParagraphCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_paragraph_collection"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="9">
+        <label>Aspose::Words::RunCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_run_collection"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="10">
+        <label>Aspose::Words::SectionCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_section_collection"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="11">
+        <label>Aspose::Words::Tables::CellCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_tables_1_1_cell_collection"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="12">
+        <label>Aspose::Words::Tables::RowCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_tables_1_1_row_collection"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="13">
+        <label>Aspose::Words::Tables::TableCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_tables_1_1_table_collection"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Node &gt; &gt;</label>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::INodeCollection</label>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::NodeCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_node_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Node &gt; &gt;</label>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/NodeCollection.h" line="114" column="1" bodyfile="Aspose.Words.Cpp/NodeCollection.h" bodystart="115" bodyend="670"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a068f070b5bbd81992e895bd3a9b7a909" prot="public" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>Add</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1aa1a7cb00d2792a7b238147924dfcc127" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a8fdb27e0d37050f6690e7bf2d0f11d62" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a5c84bf176a96e3f048ff328ef0ef67aa" prot="public" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>Clear</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1afb103bc9c0ef36a0593141c957dec4ad" prot="public" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>Contains</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1afcec1c116a33d446fe3d59877652d837" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>get_Container</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a08e6dd6c87c6f40972781651e176742a" prot="public" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1aa19c876a0228a50a2a8ec10b3bee8038" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>GetCurrentNode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a8d9e67dd4a36be575fdce2a6802cb917" prot="public" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>GetEnumerator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a15de0ae4fc88d7061fed0eaf4e09fa86" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>GetNextMatchingNode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a0e9602b38d65330fb436704b849d651b" prot="public" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>idx_get</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a99ff7fa6245f5be6b1830877cc6e641c" prot="public" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>IndexOf</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1ae0e08870652837402e08e2e56647795c" prot="public" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>Insert</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a7be9cac54e9fd5326c0421fb2199598a" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a5657c3bb2105b3b5221281bc8feaf561" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a26bcb43179149101eae489f1aa003bb0" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1ae56d9e5ad1a77f8b52f930922fc043f1" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a85ad13dc9037444af51b8dc231a4d110" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a4e8f4690fd7337e1f82fe63a76c87ddb" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a1d4e1c5e89576d3114636af9f8a492c2" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>mField6</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1ad9739d8a5dce618222d67e5518b3adda" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>mField7</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a61d057caad62435c3c5e8d3e8b95fd32" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>mField8</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a86977ff4ddee5f0781a774868b8ad5a8" prot="public" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a9c1ce160d192c038c1e740c3ddc309eb" prot="public" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>RemoveAt</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a8a985d3462181ee089940ed210c416e8" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a18e177a46d3f98f98fe2f410fcff5ac9" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1ac515937d9e04eb560a50e4142cba64d2" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a468767664c9faee9f914a1620525f7c4" prot="public" virt="non-virtual"><scope>Aspose::Words::NodeCollection</scope><name>ToArray</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a38e34974c3af48cf0f800fb5af1c3a9d" prot="private" virt="virtual"><scope>Aspose::Words::NodeCollection</scope><name>~NodeCollection</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

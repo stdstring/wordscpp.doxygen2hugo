@@ -1,0 +1,975 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="namespace_aspose_1_1_words_1_1_layout" kind="namespace" language="C++">
+    <compoundname>Aspose::Words::Layout</compoundname>
+    <innerclass refid="class_aspose_1_1_words_1_1_layout_1_1_i_page_layout_callback" prot="public">Aspose::Words::Layout::IPageLayoutCallback</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector" prot="public">Aspose::Words::Layout::LayoutCollector</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_layout_1_1_layout_enumerator" prot="public">Aspose::Words::Layout::LayoutEnumerator</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options" prot="public">Aspose::Words::Layout::LayoutOptions</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_layout_1_1_page_layout_callback_args" prot="public">Aspose::Words::Layout::PageLayoutCallbackArgs</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_layout_1_1_revision_options" prot="public">Aspose::Words::Layout::RevisionOptions</innerclass>
+      <sectiondef kind="enum">
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_layout_1a0dac57256ea711f08cf088514f19acb7" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>CommentDisplayMode</name>
+        <qualifiedname>Aspose::Words::Layout::CommentDisplayMode</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1a0dac57256ea711f08cf088514f19acb7a62a5e490880a92eef74f167d9dc6dca0" prot="public">
+          <name>Hide</name>
+          <briefdescription>
+<para>No document comments are rendered. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1a0dac57256ea711f08cf088514f19acb7a1aa3a78cf1b237b68a9a06366d987f60" prot="public">
+          <name>ShowInBalloons</name>
+          <briefdescription>
+<para>Renders document comments in balloons in the margin. This is the default value. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1a0dac57256ea711f08cf088514f19acb7aefd2b0a1f1cf04896c15b68b2373b731" prot="public">
+          <name>ShowInAnnotations</name>
+          <briefdescription>
+<para>Renders document comments in annotations. This is only available for Pdf format. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies the rendering mode for document comments. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to show comments when saving a document to a rendered format. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>comment<sp/>=<sp/>MakeObject&lt;Comment&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;J.D.&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">comment-&gt;SetText(u</highlight><highlight class="stringliteral">&quot;My<sp/>comment.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CurrentParagraph()-&gt;AppendChild(comment);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>ShowInAnnotations<sp/>is<sp/>only<sp/>available<sp/>in<sp/>Pdf1.7<sp/>and<sp/>Pdf1.5<sp/>formats.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>other<sp/>formats,<sp/>it<sp/>will<sp/>work<sp/>similarly<sp/>to<sp/>Hide.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_LayoutOptions()-&gt;set_CommentDisplayMode(<ref refid="namespace_aspose_1_1_words_1_1_layout_1a0dac57256ea711f08cf088514f19acb7aefd2b0a1f1cf04896c15b68b2373b731" kindref="member" tooltip="Renders document comments in annotations. This is only available for Pdf format.">CommentDisplayMode::ShowInAnnotations</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.ShowCommentsInAnnotations.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Note<sp/>that<sp/>it&apos;s<sp/>required<sp/>to<sp/>rebuild<sp/>the<sp/>document<sp/>page<sp/>layout<sp/>(via<sp/>Document.UpdatePageLayout()<sp/>method)</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>after<sp/>changing<sp/>the<sp/>Document.LayoutOptions<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_LayoutOptions()-&gt;set_CommentDisplayMode(<ref refid="namespace_aspose_1_1_words_1_1_layout_1a0dac57256ea711f08cf088514f19acb7a1aa3a78cf1b237b68a9a06366d987f60" kindref="member" tooltip="Renders document comments in balloons in the margin. This is the default value.">CommentDisplayMode::ShowInBalloons</ref>);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdatePageLayout();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.ShowCommentsInBalloons.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/CommentDisplayMode.h" line="50" column="1" bodyfile="Aspose.Words.Cpp/Layout/CommentDisplayMode.h" bodystart="51" bodyend="61"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_layout_1ad563fbc0b23d6e716d39df642b0effa1" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>ContinuousSectionRestart</name>
+        <qualifiedname>Aspose::Words::Layout::ContinuousSectionRestart</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ad563fbc0b23d6e716d39df642b0effa1a68eec46437c384d8dad18d5464ebc35c" prot="public">
+          <name>Always</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+<para>Page numbering always restarts regardless of content flow. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ad563fbc0b23d6e716d39df642b0effa1aa3ee840a9da29182bc5c103dc564e3ab" prot="public">
+          <name>FromNewPageOnly</name>
+          <briefdescription>
+<para>Page numbering restarts only if there is no other content before the section on the page where the section starts. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Represents different behaviors when computing page numbers in a continuous section that restarts page numbering. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to control page numbering in a continuous section. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Continuous<sp/>section<sp/>page<sp/>numbering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>By<sp/>default<sp/>Aspose.Words<sp/>behavior<sp/>matches<sp/>the<sp/>Microsoft<sp/>Word<sp/>2019.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>you<sp/>need<sp/>old<sp/>Aspose.Words<sp/>behavior,<sp/>repetitive<sp/>Microsoft<sp/>Word<sp/>2016,<sp/>use<sp/>&apos;ContinuousSectionRestart.FromNewPageOnly&apos;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Page<sp/>numbering<sp/>restarts<sp/>only<sp/>if<sp/>there<sp/>is<sp/>no<sp/>other<sp/>content<sp/>before<sp/>the<sp/>section<sp/>on<sp/>the<sp/>page<sp/>where<sp/>the<sp/>section<sp/>starts,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>because<sp/>of<sp/>that<sp/>the<sp/>numbering<sp/>will<sp/>reset<sp/>to<sp/>2<sp/>from<sp/>the<sp/>second<sp/>page.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_LayoutOptions()-&gt;set_ContinuousSectionPageNumberingRestart(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ad563fbc0b23d6e716d39df642b0effa1aa3ee840a9da29182bc5c103dc564e3ab" kindref="member" tooltip="Page numbering restarts only if there is no other content before the section on the page where the se...">ContinuousSectionRestart::FromNewPageOnly</ref>);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdatePageLayout();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Layout.RestartPageNumberingInContinuousSection.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/ContinuousSectionRestart.h" line="39" column="1" bodyfile="Aspose.Words.Cpp/Layout/ContinuousSectionRestart.h" bodystart="40" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>LayoutEntityType</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutEntityType</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a6adf97f83acf6453d4a6a4b1070f3754" prot="public">
+          <name>None</name>
+          <initializer>= static_cast&lt;int32_t&gt;(Aspose::Words::Layout::Core::PartType::None)</initializer>
+          <briefdescription>
+<para>Default value. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a193cfc9be3b995831c6af2fea6650e60" prot="public">
+          <name>Page</name>
+          <initializer>= static_cast&lt;int32_t&gt;(Aspose::Words::Layout::Core::PartType::Page)</initializer>
+          <briefdescription>
+<para>Represents page of a document. Page may have <ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a1976d7f704de389d9fe064e08ea35b2d" kindref="member">Column</ref>, <ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a6808239090702c608c5b3caf879821bb" kindref="member">HeaderFooter</ref> and <ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a0be8406951cdfda82f00f79328cf4efc" kindref="member">Comment</ref> child entities. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a1976d7f704de389d9fe064e08ea35b2d" prot="public">
+          <name>Column</name>
+          <initializer>= static_cast&lt;int32_t&gt;(Aspose::Words::Layout::Core::PartType::Column)</initializer>
+          <briefdescription>
+<para>Represents a column of text on a page. Column may have the same child entities as <ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a1a66ab62bfc858b7bcf9e01aa9cd1841" kindref="member">Cell</ref>, plus <ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a8b213ded385c637758f8c3705eb6386a" kindref="member">Footnote</ref>, <ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a9129fa7956bf827701cebbe3bd0d6e75" kindref="member">Endnote</ref> and <ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a0f1ddc1aa93cf57258d01b26e4d3797e" kindref="member">NoteSeparator</ref> entities. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2aa70367aa7cb74e510f4f9413ccf059d3" prot="public">
+          <name>Row</name>
+          <initializer>= static_cast&lt;int32_t&gt;(Aspose::Words::Layout::Core::PartType::Row)</initializer>
+          <briefdescription>
+<para>Represents a table row. Row may have <ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a1a66ab62bfc858b7bcf9e01aa9cd1841" kindref="member">Cell</ref> as child entities. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a1a66ab62bfc858b7bcf9e01aa9cd1841" prot="public">
+          <name>Cell</name>
+          <initializer>= static_cast&lt;int32_t&gt;(Aspose::Words::Layout::Core::PartType::Cell)</initializer>
+          <briefdescription>
+<para>Represents a table cell. Cell may have <ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a4803e6b9e63dabf04de980788d6a13c4" kindref="member">Line</ref> and <ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2aa70367aa7cb74e510f4f9413ccf059d3" kindref="member">Row</ref> child entities. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a4803e6b9e63dabf04de980788d6a13c4" prot="public">
+          <name>Line</name>
+          <initializer>= static_cast&lt;int32_t&gt;(Aspose::Words::Layout::Core::PartType::Line)</initializer>
+          <briefdescription>
+<para>Represents line of characters of text and inline objects. Line may have <ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a9ce62112cff8eb735d9270c2e285b000" kindref="member">Span</ref> child entities. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a9ce62112cff8eb735d9270c2e285b000" prot="public">
+          <name>Span</name>
+          <initializer>= static_cast&lt;int32_t&gt;(Aspose::Words::Layout::Core::PartType::Span)</initializer>
+          <briefdescription>
+<para>Represents one or more characters in a line. This include special characters like field start/end markers, bookmarks and comments. Span may not have child entities. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a8b213ded385c637758f8c3705eb6386a" prot="public">
+          <name>Footnote</name>
+          <initializer>= static_cast&lt;int32_t&gt;(Aspose::Words::Layout::Core::PartType::Footnote)</initializer>
+          <briefdescription>
+<para>Represents placeholder for footnote content. Footnote may have <ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a3b0649c72650c313a357338dcdfb64ec" kindref="member">Note</ref> child entities. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a9129fa7956bf827701cebbe3bd0d6e75" prot="public">
+          <name>Endnote</name>
+          <initializer>= static_cast&lt;int32_t&gt;(Aspose::Words::Layout::Core::PartType::Endnote)</initializer>
+          <briefdescription>
+<para>Represents placeholder for endnote content. Endnote may have <ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a3b0649c72650c313a357338dcdfb64ec" kindref="member">Note</ref> child entities. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a3b0649c72650c313a357338dcdfb64ec" prot="public">
+          <name>Note</name>
+          <initializer>= static_cast&lt;int32_t&gt;(Aspose::Words::Layout::Core::PartType::Note)</initializer>
+          <briefdescription>
+<para>Represents placeholder for note content. Note may have <ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a4803e6b9e63dabf04de980788d6a13c4" kindref="member">Line</ref> and <ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2aa70367aa7cb74e510f4f9413ccf059d3" kindref="member">Row</ref> child entities. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a6808239090702c608c5b3caf879821bb" prot="public">
+          <name>HeaderFooter</name>
+          <initializer>= static_cast&lt;int32_t&gt;(Aspose::Words::Layout::Core::PartType::HeaderFooter)</initializer>
+          <briefdescription>
+<para>Represents placeholder for header/footer content on a page. <ref refid="class_aspose_1_1_words_1_1_header_footer" kindref="compound">HeaderFooter</ref> may have <ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a4803e6b9e63dabf04de980788d6a13c4" kindref="member">Line</ref> and <ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2aa70367aa7cb74e510f4f9413ccf059d3" kindref="member">Row</ref> child entities. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2afbe16470e116e861d9fdf08f036ea22f" prot="public">
+          <name>TextBox</name>
+          <initializer>= static_cast&lt;int32_t&gt;(Aspose::Words::Layout::Core::PartType::TextBox)</initializer>
+          <briefdescription>
+<para>Represents text area inside of a shape. Textbox may have <ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a4803e6b9e63dabf04de980788d6a13c4" kindref="member">Line</ref> and <ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2aa70367aa7cb74e510f4f9413ccf059d3" kindref="member">Row</ref> child entities. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a0be8406951cdfda82f00f79328cf4efc" prot="public">
+          <name>Comment</name>
+          <initializer>= static_cast&lt;int32_t&gt;(Aspose::Words::Layout::Core::PartType::Comment)</initializer>
+          <briefdescription>
+<para>Represents placeholder for comment content. <ref refid="class_aspose_1_1_words_1_1_comment" kindref="compound">Comment</ref> may have <ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a4803e6b9e63dabf04de980788d6a13c4" kindref="member">Line</ref> and <ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2aa70367aa7cb74e510f4f9413ccf059d3" kindref="member">Row</ref> child entities. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a0f1ddc1aa93cf57258d01b26e4d3797e" prot="public">
+          <name>NoteSeparator</name>
+          <initializer>= static_cast&lt;int32_t&gt;(Aspose::Words::Layout::Core::PartType::NoteSeparator)</initializer>
+          <briefdescription>
+<para>Represents footnote/endnote separator. NoteSeparator may have <ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a4803e6b9e63dabf04de980788d6a13c4" kindref="member">Line</ref> and <ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2aa70367aa7cb74e510f4f9413ccf059d3" kindref="member">Row</ref> child entities. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Types of the layout entities. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows ways of traversing a document&apos;s layout entities. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>LayoutEnumerator_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>that<sp/>contains<sp/>a<sp/>variety<sp/>of<sp/>layout<sp/>entities.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Layout<sp/>entities<sp/>are<sp/>pages,<sp/>cells,<sp/>rows,<sp/>lines,<sp/>and<sp/>other<sp/>objects<sp/>included<sp/>in<sp/>the<sp/>LayoutEntityType<sp/>enum.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Each<sp/>layout<sp/>entity<sp/>has<sp/>a<sp/>rectangular<sp/>space<sp/>that<sp/>it<sp/>occupies<sp/>in<sp/>the<sp/>document<sp/>body.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Layout<sp/>entities.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>enumerator<sp/>that<sp/>can<sp/>traverse<sp/>these<sp/>entities<sp/>like<sp/>a<sp/>tree.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>layoutEnumerator<sp/>=<sp/>MakeObject&lt;LayoutEnumerator&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(doc,<sp/>layoutEnumerator-&gt;get_Document());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>layoutEnumerator-&gt;MoveParent(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a193cfc9be3b995831c6af2fea6650e60" kindref="member" tooltip="Represents page of a document. Page may have Column, HeaderFooter and Comment child entities.">LayoutEntityType::Page</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a193cfc9be3b995831c6af2fea6650e60" kindref="member" tooltip="Represents page of a document. Page may have Column, HeaderFooter and Comment child entities.">LayoutEntityType::Page</ref>,<sp/>layoutEnumerator-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_THROW(layoutEnumerator-&gt;get_Text(),<sp/><ref refid="class/system.exception_wrapper/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::InvalidOperationException</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>call<sp/>this<sp/>method<sp/>to<sp/>make<sp/>sure<sp/>that<sp/>the<sp/>enumerator<sp/>will<sp/>be<sp/>at<sp/>the<sp/>first<sp/>layout<sp/>entity.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>layoutEnumerator-&gt;Reset();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>orders<sp/>that<sp/>determine<sp/>how<sp/>the<sp/>layout<sp/>enumerator<sp/>continues<sp/>traversing<sp/>layout<sp/>entities</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>when<sp/>it<sp/>encounters<sp/>entities<sp/>that<sp/>span<sp/>across<sp/>multiple<sp/>pages.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>In<sp/>visual<sp/>order:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>moving<sp/>through<sp/>an<sp/>entity&apos;s<sp/>children<sp/>that<sp/>span<sp/>multiple<sp/>pages,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>page<sp/>layout<sp/>takes<sp/>precedence,<sp/>and<sp/>we<sp/>move<sp/>to<sp/>other<sp/>child<sp/>elements<sp/>on<sp/>this<sp/>page<sp/>and<sp/>avoid<sp/>the<sp/>ones<sp/>on<sp/>the<sp/>next.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Traversing<sp/>from<sp/>first<sp/>to<sp/>last,<sp/>elements<sp/>between<sp/>pages<sp/>separated:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>TraverseLayoutForward(layoutEnumerator,<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Our<sp/>enumerator<sp/>is<sp/>now<sp/>at<sp/>the<sp/>end<sp/>of<sp/>the<sp/>collection.<sp/>We<sp/>can<sp/>traverse<sp/>the<sp/>layout<sp/>entities<sp/>backwards<sp/>to<sp/>go<sp/>back<sp/>to<sp/>the<sp/>beginning.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Traversing<sp/>from<sp/>last<sp/>to<sp/>first,<sp/>elements<sp/>between<sp/>pages<sp/>separated:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>TraverseLayoutBackward(layoutEnumerator,<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>In<sp/>logical<sp/>order:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>moving<sp/>through<sp/>an<sp/>entity&apos;s<sp/>children<sp/>that<sp/>span<sp/>multiple<sp/>pages,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>the<sp/>enumerator<sp/>will<sp/>move<sp/>between<sp/>pages<sp/>to<sp/>traverse<sp/>all<sp/>the<sp/>child<sp/>entities.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Traversing<sp/>from<sp/>first<sp/>to<sp/>last,<sp/>elements<sp/>between<sp/>pages<sp/>mixed:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>TraverseLayoutForwardLogical(layoutEnumerator,<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Traversing<sp/>from<sp/>last<sp/>to<sp/>first,<sp/>elements<sp/>between<sp/>pages<sp/>mixed:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>TraverseLayoutBackwardLogical(layoutEnumerator,<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>TraverseLayoutForward(SharedPtr&lt;LayoutEnumerator&gt;<sp/>layoutEnumerator,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>depth)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">do</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>PrintCurrentEntity(layoutEnumerator,<sp/>depth);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(layoutEnumerator-&gt;MoveFirstChild())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>TraverseLayoutForward(layoutEnumerator,<sp/>depth<sp/>+<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>layoutEnumerator-&gt;MoveParent();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}<sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(layoutEnumerator-&gt;MoveNext());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>TraverseLayoutBackward(SharedPtr&lt;LayoutEnumerator&gt;<sp/>layoutEnumerator,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>depth)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">do</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>PrintCurrentEntity(layoutEnumerator,<sp/>depth);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(layoutEnumerator-&gt;MoveLastChild())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>TraverseLayoutBackward(layoutEnumerator,<sp/>depth<sp/>+<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>layoutEnumerator-&gt;MoveParent();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}<sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(layoutEnumerator-&gt;MovePrevious());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>TraverseLayoutForwardLogical(SharedPtr&lt;LayoutEnumerator&gt;<sp/>layoutEnumerator,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>depth)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">do</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>PrintCurrentEntity(layoutEnumerator,<sp/>depth);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(layoutEnumerator-&gt;MoveFirstChild())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>TraverseLayoutForwardLogical(layoutEnumerator,<sp/>depth<sp/>+<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>layoutEnumerator-&gt;MoveParent();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}<sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(layoutEnumerator-&gt;MoveNextLogical());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>TraverseLayoutBackwardLogical(SharedPtr&lt;LayoutEnumerator&gt;<sp/>layoutEnumerator,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>depth)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">do</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>PrintCurrentEntity(layoutEnumerator,<sp/>depth);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(layoutEnumerator-&gt;MoveLastChild())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>TraverseLayoutBackwardLogical(layoutEnumerator,<sp/>depth<sp/>+<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>layoutEnumerator-&gt;MoveParent();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}<sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(layoutEnumerator-&gt;MovePreviousLogical());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>PrintCurrentEntity(SharedPtr&lt;LayoutEnumerator&gt;<sp/>layoutEnumerator,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>indent)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>tabs(u</highlight><highlight class="charliteral">&apos;\t&apos;</highlight><highlight class="normal">,<sp/>indent);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(layoutEnumerator-&gt;get_Kind()<sp/>==<sp/>String::Empty</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>?<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}-&gt;<sp/>Entity<sp/>type:<sp/>{1}&quot;</highlight><highlight class="normal">,<sp/>tabs,<sp/>layoutEnumerator-&gt;get_Type())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>:<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>::<ref refid="namespace_aspose_1_1_words_1_1_layout_1adb5f76ea5244567304b83f53d4477351a520d0db389f362bf79ef56ca0af3dcab" kindref="member" tooltip="Renders insert and delete revisions inline, format revisions in balloons.">Format</ref>(u</highlight><highlight class="stringliteral">&quot;{0}-&gt;<sp/>Entity<sp/>type<sp/>&amp;<sp/>kind:<sp/>{1},<sp/>{2}&quot;</highlight><highlight class="normal">,<sp/>tabs,<sp/>layoutEnumerator-&gt;get_Type(),<sp/>layoutEnumerator-&gt;get_Kind()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Only<sp/>spans<sp/>can<sp/>contain<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(layoutEnumerator-&gt;get_Type()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a9ce62112cff8eb735d9270c2e285b000" kindref="member" tooltip="Represents one or more characters in a line. This include special characters like field start/end mar...">LayoutEntityType::Span</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>tabs<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/><sp/><sp/>Span<sp/>contents:<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>layoutEnumerator-&gt;get_Text()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.drawing.rectangle_f/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::RectangleF</ref><sp/>leRect<sp/>=<sp/>layoutEnumerator-&gt;get_Rectangle();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>tabs<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/><sp/><sp/>Rectangle<sp/>dimensions<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>leRect.get_Width()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;x&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>leRect.get_Height()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>X=&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>leRect.get_X()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>Y=&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>leRect.get_Y()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>tabs<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/><sp/><sp/>Page<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>layoutEnumerator-&gt;get_PageIndex()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutEntityType.h" line="171" column="1" bodyfile="Aspose.Words.Cpp/Layout/LayoutEntityType.h" bodystart="172" bodyend="229"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_layout_1a5f19f009b44de380a46242b7a35766bc" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>PageLayoutEvent</name>
+        <qualifiedname>Aspose::Words::Layout::PageLayoutEvent</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1a5f19f009b44de380a46242b7a35766bca6adf97f83acf6453d4a6a4b1070f3754" prot="public">
+          <name>None</name>
+          <briefdescription>
+<para>Default value. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1a5f19f009b44de380a46242b7a35766bcaa3d2963ef565a3f30a7ff402d1fa3111" prot="public">
+          <name>WatchDog</name>
+          <briefdescription>
+<para>Corresponds to a checkpoint in code which is often visited and which is suitable to abort process. While inside <ref refid="class_aspose_1_1_words_1_1_layout_1_1_i_page_layout_callback_1a1b11bda5197394a76e9af61c70cc1754" kindref="member">Notify()</ref> throw custom exception to abort process. You can throw when handling any callback event to abort process. Note that if process is aborted the page layout model remains in undefined state. If process is aborted upon reflow of a complete page, however, it should be possible to use layout model up to the end of that page. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1a5f19f009b44de380a46242b7a35766bca5467765472d0850bd0f0e1aaaa44f8de" prot="public">
+          <name>BuildStarted</name>
+          <briefdescription>
+<para>Build of the page layout has started. Fired once. This is the first event which occurs when <ref refid="class_aspose_1_1_words_1_1_document_1a2ae9aa4c9a98097a803676fc8153857a" kindref="member">UpdatePageLayout</ref> is called. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1a5f19f009b44de380a46242b7a35766bcae243666b93b0e937d564f3cb06a2fb95" prot="public">
+          <name>BuildFinished</name>
+          <briefdescription>
+<para>Build of the page layout has finished. Fired once. This is the last event which occurs when <ref refid="class_aspose_1_1_words_1_1_document_1a2ae9aa4c9a98097a803676fc8153857a" kindref="member">UpdatePageLayout</ref> is called. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1a5f19f009b44de380a46242b7a35766bcaa338ead4cb5d79de5f3ca4a5fc95cd1a" prot="public">
+          <name>ConversionStarted</name>
+          <briefdescription>
+<para>Conversion of document model to page layout has started. Fired once. This occurs when layout model starts pulling document content. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1a5f19f009b44de380a46242b7a35766bcaea5fed299d7f6b4a4b24233e0d6663ab" prot="public">
+          <name>ConversionFinished</name>
+          <briefdescription>
+<para>Conversion of document model to page layout has finished. Fired once. This occurs when layout model stops pulling document content. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1a5f19f009b44de380a46242b7a35766bcadbc9664bad1abeae05e02d8fc3025f12" prot="public">
+          <name>ReflowStarted</name>
+          <briefdescription>
+<para>Reflow of the page layout has started. Fired once. This occurs when layout model starts reflowing document content. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1a5f19f009b44de380a46242b7a35766bcafeca96b33ffc126b0fbb0fdd7184f4f0" prot="public">
+          <name>ReflowFinished</name>
+          <briefdescription>
+<para>Reflow of the page layout has finished. Fired once. This occurs when layout model stops reflowing document content. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1a5f19f009b44de380a46242b7a35766bca9879c25e8228c7c69d94fa7586e05888" prot="public">
+          <name>PartReflowStarted</name>
+          <briefdescription>
+<para>Reflow of the page has started. Note that page may reflow multiple times and that reflow may restart before it is finished. </para>
+          </briefdescription>
+          <detaileddescription>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_layout_1_1_page_layout_callback_args_1a5737b4dc19f4709a7414f45f3d86f7f9" kindref="member">Aspose::Words::Layout::PageLayoutCallbackArgs::get_PageIndex</ref> </para>
+</simplesect>
+</para>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1a5f19f009b44de380a46242b7a35766bca29e3606c485278708e2e7e0b47bc2f2a" prot="public">
+          <name>PartReflowFinished</name>
+          <briefdescription>
+<para>Reflow of the page has finished. Note that page may reflow multiple times and that reflow may restart before it is finished. </para>
+          </briefdescription>
+          <detaileddescription>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_layout_1_1_page_layout_callback_args_1a5737b4dc19f4709a7414f45f3d86f7f9" kindref="member">Aspose::Words::Layout::PageLayoutCallbackArgs::get_PageIndex</ref> </para>
+</simplesect>
+</para>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1a5f19f009b44de380a46242b7a35766bca9bcc73bf276538201d0a6e54be560783" prot="public">
+          <name>PartRenderingStarted</name>
+          <briefdescription>
+<para><ref refid="namespace_aspose_1_1_words_1_1_rendering" kindref="compound">Rendering</ref> of page has started. This is fired once per page. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1a5f19f009b44de380a46242b7a35766bca3daf728225804fab71988f7af8af7b1c" prot="public">
+          <name>PartRenderingFinished</name>
+          <briefdescription>
+<para><ref refid="namespace_aspose_1_1_words_1_1_rendering" kindref="compound">Rendering</ref> of page has finished. This is fired once per page. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>A code of event raised during page layout model build and rendering. Page layout model is built in two steps. First, &quot;conversion step&quot;, this is when page layout pulls document content and creates object graph. Second, &quot;reflow step&quot;, this is when structures are split, merged and arranged into pages. Depending of the operation which triggered build, page layout model may or may not be further rendered into fixed page format. For example, computing number of pages in the document or updating fields does not require rendering, whereas export to Pdf does. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to track layout changes with a layout callback. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>PageLayoutCallback()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_BuiltInDocumentProperties()-&gt;set_Title(u</highlight><highlight class="stringliteral">&quot;My<sp/>Document&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_LayoutOptions()-&gt;set_Callback(MakeObject&lt;ExLayout::RenderPageLayoutCallback&gt;());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;UpdatePageLayout();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Layout.PageLayoutCallback.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">RenderPageLayoutCallback<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IPageLayoutCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>Notify(SharedPtr&lt;PageLayoutCallbackArgs&gt;<sp/>a)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(a-&gt;get_Event())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>PageLayoutEvent::PartReflowFinished:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>NotifyPartFinished(a);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>PageLayoutEvent::ConversionFinished:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>NotifyConversionFinished(a);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">default</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>RenderPageLayoutCallback()<sp/>:<sp/>mNum(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mNum;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>NotifyPartFinished(SharedPtr&lt;PageLayoutCallbackArgs&gt;<sp/>a)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Part<sp/>at<sp/>page<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>(a-&gt;get_PageIndex()<sp/>+<sp/>1)<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>reflow.&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>RenderPage(a,<sp/>a-&gt;get_PageIndex());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>NotifyConversionFinished(SharedPtr&lt;PageLayoutCallbackArgs&gt;<sp/>a)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Document<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>a-&gt;get_Document()-&gt;get_BuiltInDocumentProperties()-&gt;get_Title()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;<sp/>converted<sp/>to<sp/>page<sp/>format.&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>RenderPage(SharedPtr&lt;PageLayoutCallbackArgs&gt;<sp/>a,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>pageIndex)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;ImageSaveOptions&gt;(SaveFormat::Png);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>saveOptions-&gt;set_PageSet(MakeObject&lt;PageSet&gt;(pageIndex));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>stream<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;PageLayoutCallback.page-{0}<sp/>{1}.png&quot;</highlight><highlight class="normal">,<sp/>pageIndex<sp/>+<sp/>1,<sp/>++mNum),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>System::IO::FileMode::Create);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>a-&gt;get_Document()-&gt;Save(stream,<sp/>saveOptions);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/PageLayoutEvent.h" line="102" column="1" bodyfile="Aspose.Words.Cpp/Layout/PageLayoutEvent.h" bodystart="103" bodyend="156"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7c" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>RevisionColor</name>
+        <qualifiedname>Aspose::Words::Layout::RevisionColor</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca06b9281e396db002010bde1de57262eb" prot="public">
+          <name>Auto</name>
+          <briefdescription>
+<para>Default. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7cae90dfb84e30edf611e326eeb04d680de" prot="public">
+          <name>Black</name>
+          <briefdescription>
+<para>Represents 000000 color. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca9594eec95be70e7b1710f730fdda33d9" prot="public">
+          <name>Blue</name>
+          <briefdescription>
+<para>Represents 2e97d3 color. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7cab249e671af05e6d993727a3d4e65a431" prot="public">
+          <name>BrightGreen</name>
+          <briefdescription>
+<para>Represents 84a35b color. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7caa8d704274861c39f8c80087451928682" prot="public">
+          <name>ClassicBlue</name>
+          <briefdescription>
+<para>Represents 0000ff color. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca588e5fb4179aab49a52b6917ff4fe090" prot="public">
+          <name>ClassicRed</name>
+          <briefdescription>
+<para>Represents ff0000 color. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca877716336e4eb22ac67faaa9c2b86635" prot="public">
+          <name>DarkBlue</name>
+          <briefdescription>
+<para>Represents 376e96 color. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca8746d21f8164452063398744f06307dd" prot="public">
+          <name>DarkRed</name>
+          <briefdescription>
+<para>Represents 881824 color. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca42d873bb34e1055e40aad0ec45039e8b" prot="public">
+          <name>DarkYellow</name>
+          <briefdescription>
+<para>Represents e09a2b color. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca8081ffaa0a02c8638cd2769d1e021f90" prot="public">
+          <name>Gray25</name>
+          <briefdescription>
+<para>Represents a0a3a9 color. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca2ec7501bf615c174c820c580d1982d05" prot="public">
+          <name>Gray50</name>
+          <briefdescription>
+<para>Represents 50565e color. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7cad382816a3cbeed082c9e216e7392eed1" prot="public">
+          <name>Green</name>
+          <briefdescription>
+<para>Represents 2c6234 color. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca8dc5344bc0746e1cc5abf896ca03bbdf" prot="public">
+          <name>Pink</name>
+          <briefdescription>
+<para>Represents ce338f color. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7caee38e4d5dd68c4e440825018d549cb47" prot="public">
+          <name>Red</name>
+          <briefdescription>
+<para>Represents b5082e color. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7cae20385a2b41df1743f787ebef18222b8" prot="public">
+          <name>Teal</name>
+          <briefdescription>
+<para>Represents 1b9cab color. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7cada3a4f0a911cebe3bc75f6e39c324696" prot="public">
+          <name>Turquoise</name>
+          <briefdescription>
+<para>Represents 3eafc2 color. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca80f1187112e2e5e0403499147f7014b8" prot="public">
+          <name>Violet</name>
+          <briefdescription>
+<para>Represents 633277 color. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca25a81701fbfa4a1efdf660a950c1d006" prot="public">
+          <name>White</name>
+          <briefdescription>
+<para>Represents ffffff color. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca51e6cd92b6c45f9affdc158ecca2b8b8" prot="public">
+          <name>Yellow</name>
+          <briefdescription>
+<para>Represents fad272 color. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca65fe6184005a267b6cdda31f081557bd" prot="public">
+          <name>NoHighlight</name>
+          <briefdescription>
+<para>No color is used to highlight revision changes. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca9e58445ce081e022730fb530c77da1db" prot="public">
+          <name>ByAuthor</name>
+          <briefdescription>
+<para>Revisions of each author receive their own color for highlighting from a predfined set of hi-contrast colors. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Allows to specify color of document revisions. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to alter the appearance of revisions in a rendered output document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>revision,<sp/>then<sp/>change<sp/>the<sp/>color<sp/>of<sp/>all<sp/>revisions<sp/>to<sp/>green.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>not<sp/>a<sp/>revision.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;StartTrackRevisions(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>a<sp/>revision.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;StopTrackRevisions();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>not<sp/>a<sp/>revision.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>the<sp/>bar<sp/>that<sp/>appears<sp/>to<sp/>the<sp/>left<sp/>of<sp/>every<sp/>revised<sp/>line.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_LayoutOptions()-&gt;get_RevisionOptions()-&gt;set_InsertedTextColor(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7cab249e671af05e6d993727a3d4e65a431" kindref="member" tooltip="Represents 84a35b color.">RevisionColor::BrightGreen</ref>);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_LayoutOptions()-&gt;get_RevisionOptions()-&gt;set_ShowRevisionBars(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.LayoutOptionsRevisions.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/RevisionColor.h" line="44" column="1" bodyfile="Aspose.Words.Cpp/Layout/RevisionColor.h" bodystart="45" bodyend="109"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_layout_1a1aceabbf47b9f9a48e5795df0b8f2f52" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>RevisionTextEffect</name>
+        <qualifiedname>Aspose::Words::Layout::RevisionTextEffect</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1a1aceabbf47b9f9a48e5795df0b8f2f52a6adf97f83acf6453d4a6a4b1070f3754" prot="public">
+          <name>None</name>
+          <briefdescription>
+<para>Revised content has no special effects applied. This corresponds to <ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca65fe6184005a267b6cdda31f081557bd" kindref="member">NoHighlight</ref>. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1a1aceabbf47b9f9a48e5795df0b8f2f52acb5feb1b7314637725a2e73bdc9f7295" prot="public">
+          <name>Color</name>
+          <briefdescription>
+<para>Revised content is highlighted with color only. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1a1aceabbf47b9f9a48e5795df0b8f2f52a114c3050111d8b8ddd830b99ccebd246" prot="public">
+          <name>Bold</name>
+          <briefdescription>
+<para>Revised content is made bold and colored. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1a1aceabbf47b9f9a48e5795df0b8f2f52a1d874710ccdcd46b95397049d2e7500c" prot="public">
+          <name>Italic</name>
+          <briefdescription>
+<para>Revised content is made italic and colored. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1a1aceabbf47b9f9a48e5795df0b8f2f52a852721aa5fc738dfedff2945d71da439" prot="public">
+          <name>Underline</name>
+          <briefdescription>
+<para>Revised content is underlined and colored. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1a1aceabbf47b9f9a48e5795df0b8f2f52a42146a3e83bea8a3973e189e08b288a4" prot="public">
+          <name>DoubleUnderline</name>
+          <briefdescription>
+<para>Revised content is double underlined and colored. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1a1aceabbf47b9f9a48e5795df0b8f2f52adbcb83c76437232e6031f915989c7d23" prot="public">
+          <name>StrikeThrough</name>
+          <briefdescription>
+<para>Revised content is stroked through and colored. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1a1aceabbf47b9f9a48e5795df0b8f2f52a797ee4ae08cdfb70f042bcd54a2fe58a" prot="public">
+          <name>DoubleStrikeThrough</name>
+          <briefdescription>
+<para>Revised content is double stroked through and colored. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1a1aceabbf47b9f9a48e5795df0b8f2f52a7acdf85c69cc3c5305456a293524386e" prot="public">
+          <name>Hidden</name>
+          <briefdescription>
+<para>Revised content is hidden. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Allows to specify decoration effect for revisions of document text. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to modify the appearance of revisions. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Revisions.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>RevisionOptions<sp/>object<sp/>that<sp/>controls<sp/>the<sp/>appearance<sp/>of<sp/>revisions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;RevisionOptions&gt;<sp/>revisionOptions<sp/>=<sp/>doc-&gt;get_LayoutOptions()-&gt;get_RevisionOptions();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Render<sp/>insertion<sp/>revisions<sp/>in<sp/>green<sp/>and<sp/>italic.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_InsertedTextColor(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7cad382816a3cbeed082c9e216e7392eed1" kindref="member" tooltip="Represents 2c6234 color.">RevisionColor::Green</ref>);</highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_InsertedTextEffect(<ref refid="namespace_aspose_1_1_words_1_1_layout_1a1aceabbf47b9f9a48e5795df0b8f2f52a1d874710ccdcd46b95397049d2e7500c" kindref="member" tooltip="Revised content is made italic and colored.">RevisionTextEffect::Italic</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Render<sp/>deletion<sp/>revisions<sp/>in<sp/>red<sp/>and<sp/>bold.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_DeletedTextColor(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7caee38e4d5dd68c4e440825018d549cb47" kindref="member" tooltip="Represents b5082e color.">RevisionColor::Red</ref>);</highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_DeletedTextEffect(<ref refid="namespace_aspose_1_1_words_1_1_layout_1a1aceabbf47b9f9a48e5795df0b8f2f52a114c3050111d8b8ddd830b99ccebd246" kindref="member" tooltip="Revised content is made bold and colored.">RevisionTextEffect::Bold</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>same<sp/>text<sp/>will<sp/>appear<sp/>twice<sp/>in<sp/>a<sp/>movement<sp/>revision:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>once<sp/>at<sp/>the<sp/>departure<sp/>point<sp/>and<sp/>once<sp/>at<sp/>the<sp/>arrival<sp/>destination.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Render<sp/>the<sp/>text<sp/>at<sp/>the<sp/>moved-from<sp/>revision<sp/>yellow<sp/>with<sp/>a<sp/>double<sp/>strike<sp/>through</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>double-underlined<sp/>blue<sp/>at<sp/>the<sp/>moved-to<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_MovedFromTextColor(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca51e6cd92b6c45f9affdc158ecca2b8b8" kindref="member" tooltip="Represents fad272 color.">RevisionColor::Yellow</ref>);</highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_MovedFromTextEffect(<ref refid="namespace_aspose_1_1_words_1_1_layout_1a1aceabbf47b9f9a48e5795df0b8f2f52a797ee4ae08cdfb70f042bcd54a2fe58a" kindref="member" tooltip="Revised content is double stroked through and colored.">RevisionTextEffect::DoubleStrikeThrough</ref>);</highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_MovedToTextColor(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca9594eec95be70e7b1710f730fdda33d9" kindref="member" tooltip="Represents 2e97d3 color.">RevisionColor::Blue</ref>);</highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_MovedFromTextEffect(<ref refid="namespace_aspose_1_1_words_1_1_layout_1a1aceabbf47b9f9a48e5795df0b8f2f52a42146a3e83bea8a3973e189e08b288a4" kindref="member" tooltip="Revised content is double underlined and colored.">RevisionTextEffect::DoubleUnderline</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Render<sp/>format<sp/>revisions<sp/>in<sp/>dark<sp/>red<sp/>and<sp/>bold.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_RevisedPropertiesColor(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca8746d21f8164452063398744f06307dd" kindref="member" tooltip="Represents 881824 color.">RevisionColor::DarkRed</ref>);</highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_RevisedPropertiesEffect(<ref refid="namespace_aspose_1_1_words_1_1_layout_1a1aceabbf47b9f9a48e5795df0b8f2f52a114c3050111d8b8ddd830b99ccebd246" kindref="member" tooltip="Revised content is made bold and colored.">RevisionTextEffect::Bold</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Place<sp/>a<sp/>thick<sp/>dark<sp/>blue<sp/>bar<sp/>on<sp/>the<sp/>left<sp/>side<sp/>of<sp/>the<sp/>page<sp/>next<sp/>to<sp/>lines<sp/>affected<sp/>by<sp/>revisions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_RevisionBarsColor(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca877716336e4eb22ac67faaa9c2b86635" kindref="member" tooltip="Represents 376e96 color.">RevisionColor::DarkBlue</ref>);</highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_RevisionBarsWidth(15.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Show<sp/>revision<sp/>marks<sp/>and<sp/>original<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_ShowOriginalRevision(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_ShowRevisionMarks(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>movement,<sp/>deletion,<sp/>formatting<sp/>revisions,<sp/>and<sp/>comments<sp/>to<sp/>show<sp/>up<sp/>in<sp/>green<sp/>balloons</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>on<sp/>the<sp/>right<sp/>side<sp/>of<sp/>the<sp/>page.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_ShowInBalloons(<ref refid="namespace_aspose_1_1_words_1_1_layout_1adb5f76ea5244567304b83f53d4477351a520d0db389f362bf79ef56ca0af3dcab" kindref="member" tooltip="Renders insert and delete revisions inline, format revisions in balloons.">ShowInBalloons::Format</ref>);</highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_CommentColor(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7cab249e671af05e6d993727a3d4e65a431" kindref="member" tooltip="Represents 84a35b color.">RevisionColor::BrightGreen</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>features<sp/>are<sp/>only<sp/>applicable<sp/>to<sp/>formats<sp/>such<sp/>as<sp/>.pdf<sp/>or<sp/>.jpg.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Revision.RevisionOptions.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/RevisionTextEffect.h" line="70" column="1" bodyfile="Aspose.Words.Cpp/Layout/RevisionTextEffect.h" bodystart="71" bodyend="100"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_layout_1adb5f76ea5244567304b83f53d4477351" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>ShowInBalloons</name>
+        <qualifiedname>Aspose::Words::Layout::ShowInBalloons</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1adb5f76ea5244567304b83f53d4477351a6adf97f83acf6453d4a6a4b1070f3754" prot="public">
+          <name>None</name>
+          <briefdescription>
+<para>Renders insert, delete and format revisions inline. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1adb5f76ea5244567304b83f53d4477351a520d0db389f362bf79ef56ca0af3dcab" prot="public">
+          <name>Format</name>
+          <briefdescription>
+<para>Renders insert and delete revisions inline, format revisions in balloons. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_layout_1adb5f76ea5244567304b83f53d4477351aa47b0409700de590651f337249b47f8a" prot="public">
+          <name>FormatAndDelete</name>
+          <briefdescription>
+<para>Renders insert revisions inline, delete and format revisions in balloons. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies which revisions are rendered in balloons. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to modify the appearance of revisions. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Revisions.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>RevisionOptions<sp/>object<sp/>that<sp/>controls<sp/>the<sp/>appearance<sp/>of<sp/>revisions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;RevisionOptions&gt;<sp/>revisionOptions<sp/>=<sp/>doc-&gt;get_LayoutOptions()-&gt;get_RevisionOptions();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Render<sp/>insertion<sp/>revisions<sp/>in<sp/>green<sp/>and<sp/>italic.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_InsertedTextColor(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7cad382816a3cbeed082c9e216e7392eed1" kindref="member" tooltip="Represents 2c6234 color.">RevisionColor::Green</ref>);</highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_InsertedTextEffect(<ref refid="namespace_aspose_1_1_words_1_1_layout_1a1aceabbf47b9f9a48e5795df0b8f2f52a1d874710ccdcd46b95397049d2e7500c" kindref="member" tooltip="Revised content is made italic and colored.">RevisionTextEffect::Italic</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Render<sp/>deletion<sp/>revisions<sp/>in<sp/>red<sp/>and<sp/>bold.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_DeletedTextColor(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7caee38e4d5dd68c4e440825018d549cb47" kindref="member" tooltip="Represents b5082e color.">RevisionColor::Red</ref>);</highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_DeletedTextEffect(<ref refid="namespace_aspose_1_1_words_1_1_layout_1a1aceabbf47b9f9a48e5795df0b8f2f52a114c3050111d8b8ddd830b99ccebd246" kindref="member" tooltip="Revised content is made bold and colored.">RevisionTextEffect::Bold</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>same<sp/>text<sp/>will<sp/>appear<sp/>twice<sp/>in<sp/>a<sp/>movement<sp/>revision:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>once<sp/>at<sp/>the<sp/>departure<sp/>point<sp/>and<sp/>once<sp/>at<sp/>the<sp/>arrival<sp/>destination.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Render<sp/>the<sp/>text<sp/>at<sp/>the<sp/>moved-from<sp/>revision<sp/>yellow<sp/>with<sp/>a<sp/>double<sp/>strike<sp/>through</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>double-underlined<sp/>blue<sp/>at<sp/>the<sp/>moved-to<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_MovedFromTextColor(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca51e6cd92b6c45f9affdc158ecca2b8b8" kindref="member" tooltip="Represents fad272 color.">RevisionColor::Yellow</ref>);</highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_MovedFromTextEffect(<ref refid="namespace_aspose_1_1_words_1_1_layout_1a1aceabbf47b9f9a48e5795df0b8f2f52a797ee4ae08cdfb70f042bcd54a2fe58a" kindref="member" tooltip="Revised content is double stroked through and colored.">RevisionTextEffect::DoubleStrikeThrough</ref>);</highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_MovedToTextColor(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca9594eec95be70e7b1710f730fdda33d9" kindref="member" tooltip="Represents 2e97d3 color.">RevisionColor::Blue</ref>);</highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_MovedFromTextEffect(<ref refid="namespace_aspose_1_1_words_1_1_layout_1a1aceabbf47b9f9a48e5795df0b8f2f52a42146a3e83bea8a3973e189e08b288a4" kindref="member" tooltip="Revised content is double underlined and colored.">RevisionTextEffect::DoubleUnderline</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Render<sp/>format<sp/>revisions<sp/>in<sp/>dark<sp/>red<sp/>and<sp/>bold.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_RevisedPropertiesColor(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca8746d21f8164452063398744f06307dd" kindref="member" tooltip="Represents 881824 color.">RevisionColor::DarkRed</ref>);</highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_RevisedPropertiesEffect(<ref refid="namespace_aspose_1_1_words_1_1_layout_1a1aceabbf47b9f9a48e5795df0b8f2f52a114c3050111d8b8ddd830b99ccebd246" kindref="member" tooltip="Revised content is made bold and colored.">RevisionTextEffect::Bold</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Place<sp/>a<sp/>thick<sp/>dark<sp/>blue<sp/>bar<sp/>on<sp/>the<sp/>left<sp/>side<sp/>of<sp/>the<sp/>page<sp/>next<sp/>to<sp/>lines<sp/>affected<sp/>by<sp/>revisions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_RevisionBarsColor(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7ca877716336e4eb22ac67faaa9c2b86635" kindref="member" tooltip="Represents 376e96 color.">RevisionColor::DarkBlue</ref>);</highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_RevisionBarsWidth(15.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Show<sp/>revision<sp/>marks<sp/>and<sp/>original<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_ShowOriginalRevision(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_ShowRevisionMarks(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>movement,<sp/>deletion,<sp/>formatting<sp/>revisions,<sp/>and<sp/>comments<sp/>to<sp/>show<sp/>up<sp/>in<sp/>green<sp/>balloons</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>on<sp/>the<sp/>right<sp/>side<sp/>of<sp/>the<sp/>page.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_ShowInBalloons(<ref refid="namespace_aspose_1_1_words_1_1_layout_1adb5f76ea5244567304b83f53d4477351a520d0db389f362bf79ef56ca0af3dcab" kindref="member" tooltip="Renders insert and delete revisions inline, format revisions in balloons.">ShowInBalloons::Format</ref>);</highlight></codeline>
+<codeline><highlight class="normal">revisionOptions-&gt;set_CommentColor(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7cab249e671af05e6d993727a3d4e65a431" kindref="member" tooltip="Represents 84a35b color.">RevisionColor::BrightGreen</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>features<sp/>are<sp/>only<sp/>applicable<sp/>to<sp/>formats<sp/>such<sp/>as<sp/>.pdf<sp/>or<sp/>.jpg.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Revision.RevisionOptions.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/ShowInBalloons.h" line="70" column="1" bodyfile="Aspose.Words.Cpp/Layout/ShowInBalloons.h" bodystart="71" bodyend="81"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>The <bold>Aspose.Words.Layout</bold> namespace provides classes that allow to access information such as on what page and where on a page particular document elements are positioned, when the document is formatted into pages. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/Document.h" line="78" column="1"/>
+  </compounddef>
+</doxygen>

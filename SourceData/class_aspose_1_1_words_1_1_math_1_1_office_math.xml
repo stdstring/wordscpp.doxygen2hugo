@@ -1,0 +1,947 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_math_1_1_office_math" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Math::OfficeMath</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_composite_node" prot="public" virt="non-virtual">Aspose::Words::CompositeNode</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::IInline</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Revisions::ITrackableNode</basecompoundref>
+    <includes refid="_office_math_8h" local="no">Aspose.Words.Cpp/Math/OfficeMath.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1ad60c9b74133b2c8456862686af4a107a" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_composite_node" kindref="compound">Aspose::Words::CompositeNode</ref></type>
+        <definition>typedef Aspose::Words::CompositeNode Aspose::Words::Math::OfficeMath::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="102" column="42" bodyfile="Aspose.Words.Cpp/Math/OfficeMath.h" bodystart="102" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1aa3f7c1588a9c0b87d758928f81dc4fb8" prot="private" static="no">
+        <type>Aspose::Words::IInline</type>
+        <definition>typedef Aspose::Words::IInline Aspose::Words::Math::OfficeMath::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="103" column="36" bodyfile="Aspose.Words.Cpp/Math/OfficeMath.h" bodystart="103" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1a240158ebc1e0bb64978fc0ef9b3be42c" prot="private" static="no">
+        <type>Aspose::Words::Revisions::ITrackableNode</type>
+        <definition>typedef Aspose::Words::Revisions::ITrackableNode Aspose::Words::Math::OfficeMath::BaseType2</definition>
+        <argsstring></argsstring>
+        <name>BaseType2</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::BaseType2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="104" column="54" bodyfile="Aspose.Words.Cpp/Math/OfficeMath.h" bodystart="104" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1a0819f9e0eecd0a6605ff36d1cd09ca62" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_math_1_1_office_math" kindref="compound">OfficeMath</ref></type>
+        <definition>typedef OfficeMath Aspose::Words::Math::OfficeMath::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="101" column="24" bodyfile="Aspose.Words.Cpp/Math/OfficeMath.h" bodystart="101" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1a1035a6bce4e55378dc6e1d427f1a2874" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_composite_node" kindref="compound">BaseType</ref>, BaseType1, BaseType2 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1, BaseType2&gt; Aspose::Words::Math::OfficeMath::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="106" column="37" bodyfile="Aspose.Words.Cpp/Math/OfficeMath.h" bodystart="106" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1a35c633ca550274ab0f1e47589895a008" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Math::OfficeMath::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="518" column="23" bodyfile="Aspose.Words.Cpp/Math/OfficeMath.h" bodystart="518" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1a6ef164bdd3144ec665c9ab688a1103f3" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Math::OfficeMath::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="519" column="23" bodyfile="Aspose.Words.Cpp/Math/OfficeMath.h" bodystart="519" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1a98a41bdc1758a9d3481252a8d7e3fd40" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Math::OfficeMath::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="520" column="23" bodyfile="Aspose.Words.Cpp/Math/OfficeMath.h" bodystart="520" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1a1d0a71e940e02984e1cefcd00e5d6d42" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Math::OfficeMath::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="521" column="23" bodyfile="Aspose.Words.Cpp/Math/OfficeMath.h" bodystart="521" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1ac8a65e4bbb12933bf793e4f8c73e154a" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Math::OfficeMath::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="522" column="23" bodyfile="Aspose.Words.Cpp/Math/OfficeMath.h" bodystart="522" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1a3e7428818608b387411c8f06144ecd27" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Math::OfficeMath::~OfficeMath</definition>
+        <argsstring>()</argsstring>
+        <name>~OfficeMath</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::~OfficeMath</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="509" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1aa0943925233b0f578151a57afe4d9c81" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member">Aspose::Words::VisitorAction</ref></type>
+        <definition>Aspose::Words::VisitorAction Aspose::Words::Math::OfficeMath::AcceptEnd</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::DocumentVisitor &gt;) override</argsstring>
+        <name>AcceptEnd</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::AcceptEnd</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_composite_node_1acfce958aecccd97d02b9ce640c71adb0">AcceptEnd</reimplements>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="506" column="37"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1adcaa81f90081abe85a3f15568bad5bc6" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member">Aspose::Words::VisitorAction</ref></type>
+        <definition>Aspose::Words::VisitorAction Aspose::Words::Math::OfficeMath::AcceptStart</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::DocumentVisitor &gt;) override</argsstring>
+        <name>AcceptStart</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::AcceptStart</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_composite_node_1a4161179423c4ab1bd74fe8825dc06e2f">AcceptStart</reimplements>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="505" column="37"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1a1db958a4487d31087f9b7945997602f9" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Math::OfficeMath::CanInsert</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::Node &gt;) override</argsstring>
+        <name>CanInsert</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::CanInsert</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_composite_node_1a06d62fddfb918b33b307b9201c7951aa">CanInsert</reimplements>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="507" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1a6e5cbf309414ff20a2d250039621621f" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Node &gt; Aspose::Words::Math::OfficeMath::Clone</definition>
+        <argsstring>(bool, System::SharedPtr&lt; Aspose::Words::INodeCloningListener &gt;) override</argsstring>
+        <name>Clone</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::Clone</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_composite_node_1ae90ecec13614a52c3ab6fe645fb88807">Clone</reimplements>
+        <param>
+          <type>bool</type>
+        </param>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::INodeCloningListener &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="504" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1a33c1382c6b7c22d5a77bffe2c3c34f05" prot="private" static="no" const="yes" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_math_1_1_office_math" kindref="compound">ThisType</ref> *</type>
+        <definition>ThisType * Aspose::Words::Math::OfficeMath::CppMemberwiseClone</definition>
+        <argsstring>() const override</argsstring>
+        <name>CppMemberwiseClone</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::CppMemberwiseClone</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_node_1a9358fb4208d077e8411fdf0d4e8553e5">CppMemberwiseClone</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="540" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1a0eee8dcdcb15101c1384cc5d9ae83a76" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Math::OfficeMath::RemoveMoveRevisions</definition>
+        <argsstring>() override</argsstring>
+        <name>RemoveMoveRevisions</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::RemoveMoveRevisions</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="539" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1a677589d6d3599a6b2fb554b899cb35cd" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Math::OfficeMath::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="107" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1ae4298af0ebd46b7d8efbaad291edc365" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Math::OfficeMath::Accept</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::DocumentVisitor &gt; visitor) override</argsstring>
+        <name>Accept</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::Accept</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_node_1a556472e35a86820cf189f10594933f3e">Accept</reimplements>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
+          <declname>visitor</declname>
+        </param>
+        <briefdescription>
+<para>Accepts a visitor. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Enumerates over this node and all of its children. Each node calls a corresponding method on <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">DocumentVisitor</ref>.</para>
+<para>For more info see the Visitor design pattern.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>visitor</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The visitor that will visit the nodes.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>True if all nodes were visited; false if <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">DocumentVisitor</ref> stopped the operation before visiting all nodes.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to print the node structure of every office math node in a document. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>OfficeMathToText()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentVisitor-compatible<sp/>features.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>visitor<sp/>=<sp/>MakeObject&lt;ExDocumentVisitor::OfficeMathStructurePrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>get<sp/>a<sp/>composite<sp/>node<sp/>to<sp/>accept<sp/>a<sp/>document<sp/>visitor,<sp/>the<sp/>visitor<sp/>visits<sp/>the<sp/>accepting<sp/>node,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>traverses<sp/>all<sp/>the<sp/>node&apos;s<sp/>children<sp/>in<sp/>a<sp/>depth-first<sp/>manner.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>visitor<sp/>can<sp/>read<sp/>and<sp/>modify<sp/>each<sp/>visited<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Accept(visitor);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>visitor-&gt;GetText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">OfficeMathStructurePrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>OfficeMathStructurePrinter()<sp/>:<sp/>mVisitorIsInsideOfficeMath(false),<sp/>mDocTraversalDepth(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder<sp/>=<sp/>MakeObject&lt;System::Text::StringBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideOfficeMath<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>GetText()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mBuilder-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitRun(SharedPtr&lt;Run&gt;<sp/>run)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(mVisitorIsInsideOfficeMath)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Run]<sp/>\&quot;&quot;</highlight><highlight class="normal">)<sp/>+<sp/>run-&gt;GetText()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitOfficeMathStart(SharedPtr&lt;OfficeMath&gt;<sp/>officeMath)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[OfficeMath<sp/>start]<sp/>Math<sp/>object<sp/>type:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(officeMath-&gt;get_MathObjectType()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideOfficeMath<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitOfficeMathEnd(SharedPtr&lt;OfficeMath&gt;<sp/>officeMath)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth--;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(u</highlight><highlight class="stringliteral">&quot;[OfficeMath<sp/>end]&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideOfficeMath<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>mVisitorIsInsideOfficeMath;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mDocTraversalDepth;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mBuilder;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>IndentAndAppendLine(String<sp/>text)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>mDocTraversalDepth;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;Append(u</highlight><highlight class="stringliteral">&quot;|<sp/><sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(text);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="474" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1a8b268a744ca880dc8934e7e9d61dc6fb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_math_1a6bde800b2e379a2871fe30d1cff0e7c0" kindref="member">Aspose::Words::Math::OfficeMathDisplayType</ref></type>
+        <definition>Aspose::Words::Math::OfficeMathDisplayType Aspose::Words::Math::OfficeMath::get_DisplayType</definition>
+        <argsstring>()</argsstring>
+        <name>get_DisplayType</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::get_DisplayType</qualifiedname>
+        <briefdescription>
+<para>Gets/sets Office <ref refid="namespace_aspose_1_1_words_1_1_math" kindref="compound">Math</ref> display format type which represents whether an equation is displayed inline with the text or displayed on its own line. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Display format type has effect for top level Office <ref refid="namespace_aspose_1_1_words_1_1_math" kindref="compound">Math</ref> only.</para>
+<para>Returned display format type is always <ref refid="namespace_aspose_1_1_words_1_1_math_1a6bde800b2e379a2871fe30d1cff0e7c0a0125cf5f3ca38b312ca5d3b511c45a13" kindref="member">Inline</ref> for nested Office <ref refid="namespace_aspose_1_1_words_1_1_math" kindref="compound">Math</ref>.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set office math display formatting. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Office<sp/>math.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>officeMath<sp/>=<sp/>System::DynamicCast&lt;OfficeMath&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>OfficeMath<sp/>nodes<sp/>that<sp/>are<sp/>children<sp/>of<sp/>other<sp/>OfficeMath<sp/>nodes<sp/>are<sp/>always<sp/>inline.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>node<sp/>we<sp/>are<sp/>working<sp/>with<sp/>is<sp/>the<sp/>base<sp/>node<sp/>to<sp/>change<sp/>its<sp/>location<sp/>and<sp/>display<sp/>type.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa15de98e6065597193144aa96a3a47fea" kindref="member" tooltip="Math paragraph, or display math zone, that contains one or more OMath elements that are in display mo...">MathObjectType::OMathPara</ref>,<sp/>officeMath-&gt;get_MathObjectType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>officeMath-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(officeMath-&gt;get_ParentNode(),<sp/>officeMath-&gt;get_ParentParagraph());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>OOXML<sp/>and<sp/>WML<sp/>formats<sp/>use<sp/>the<sp/>&quot;EquationXmlEncoding&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(officeMath-&gt;get_EquationXmlEncoding()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Change<sp/>the<sp/>location<sp/>and<sp/>display<sp/>type<sp/>of<sp/>the<sp/>OfficeMath<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">officeMath-&gt;set_DisplayType(<ref refid="namespace_aspose_1_1_words_1_1_math_1a6bde800b2e379a2871fe30d1cff0e7c0ab9987a246a537f4fe86f1f2e3d10dbdb" kindref="member" tooltip="The Office Math is displayed on its own line.">OfficeMathDisplayType::Display</ref>);</highlight></codeline>
+<codeline><highlight class="normal">officeMath-&gt;set_Justification(<ref refid="namespace_aspose_1_1_words_1_1_math_1a9fe5163ddc6fb967ad84181e0e41fc66a945d5e233cf7d6240f6b783b36a374ff" kindref="member" tooltip="Left justification of Math Paragraph.">OfficeMathJustification::Left</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.OfficeMath.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="364" column="51"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1a677a98f5ad6b4608077f5e9df10fb477" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.text.encoding/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; System::Text::Encoding &gt; Aspose::Words::Math::OfficeMath::get_EquationXmlEncoding</definition>
+        <argsstring>() const</argsstring>
+        <name>get_EquationXmlEncoding</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::get_EquationXmlEncoding</qualifiedname>
+        <briefdescription>
+<para>Gets/sets an encoding that was used to encode equation XML, if this office math object is read from equation XML. We use the encoding on saving a document to write in same encoding that it was read. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set office math display formatting. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Office<sp/>math.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>officeMath<sp/>=<sp/>System::DynamicCast&lt;OfficeMath&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>OfficeMath<sp/>nodes<sp/>that<sp/>are<sp/>children<sp/>of<sp/>other<sp/>OfficeMath<sp/>nodes<sp/>are<sp/>always<sp/>inline.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>node<sp/>we<sp/>are<sp/>working<sp/>with<sp/>is<sp/>the<sp/>base<sp/>node<sp/>to<sp/>change<sp/>its<sp/>location<sp/>and<sp/>display<sp/>type.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa15de98e6065597193144aa96a3a47fea" kindref="member" tooltip="Math paragraph, or display math zone, that contains one or more OMath elements that are in display mo...">MathObjectType::OMathPara</ref>,<sp/>officeMath-&gt;get_MathObjectType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>officeMath-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(officeMath-&gt;get_ParentNode(),<sp/>officeMath-&gt;get_ParentParagraph());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>OOXML<sp/>and<sp/>WML<sp/>formats<sp/>use<sp/>the<sp/>&quot;EquationXmlEncoding&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(officeMath-&gt;get_EquationXmlEncoding()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Change<sp/>the<sp/>location<sp/>and<sp/>display<sp/>type<sp/>of<sp/>the<sp/>OfficeMath<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">officeMath-&gt;set_DisplayType(<ref refid="namespace_aspose_1_1_words_1_1_math_1a6bde800b2e379a2871fe30d1cff0e7c0ab9987a246a537f4fe86f1f2e3d10dbdb" kindref="member" tooltip="The Office Math is displayed on its own line.">OfficeMathDisplayType::Display</ref>);</highlight></codeline>
+<codeline><highlight class="normal">officeMath-&gt;set_Justification(<ref refid="namespace_aspose_1_1_words_1_1_math_1a9fe5163ddc6fb967ad84181e0e41fc66a945d5e233cf7d6240f6b783b36a374ff" kindref="member" tooltip="Left justification of Math Paragraph.">OfficeMathJustification::Left</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.OfficeMath.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="293" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1a357e3624597c7bb390a75d965befa7f1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_math_1a9fe5163ddc6fb967ad84181e0e41fc66" kindref="member">Aspose::Words::Math::OfficeMathJustification</ref></type>
+        <definition>Aspose::Words::Math::OfficeMathJustification Aspose::Words::Math::OfficeMath::get_Justification</definition>
+        <argsstring>()</argsstring>
+        <name>get_Justification</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::get_Justification</qualifiedname>
+        <briefdescription>
+<para>Gets/sets Office <ref refid="namespace_aspose_1_1_words_1_1_math" kindref="compound">Math</ref> justification. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Justification cannot be set to the Office <ref refid="namespace_aspose_1_1_words_1_1_math" kindref="compound">Math</ref> with display format type <ref refid="namespace_aspose_1_1_words_1_1_math_1a6bde800b2e379a2871fe30d1cff0e7c0a0125cf5f3ca38b312ca5d3b511c45a13" kindref="member">Inline</ref>.</para>
+<para><ref refid="class_aspose_1_1_words_1_1_inline" kindref="compound">Inline</ref> justification cannot be set to the Office <ref refid="namespace_aspose_1_1_words_1_1_math" kindref="compound">Math</ref> with display format type <ref refid="namespace_aspose_1_1_words_1_1_math_1a6bde800b2e379a2871fe30d1cff0e7c0ab9987a246a537f4fe86f1f2e3d10dbdb" kindref="member">Display</ref>.</para>
+<para>Corresponding <ref refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1a8b268a744ca880dc8934e7e9d61dc6fb" kindref="member">DisplayType</ref> has to be set before setting Office <ref refid="namespace_aspose_1_1_words_1_1_math" kindref="compound">Math</ref> justification.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set office math display formatting. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Office<sp/>math.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>officeMath<sp/>=<sp/>System::DynamicCast&lt;OfficeMath&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>OfficeMath<sp/>nodes<sp/>that<sp/>are<sp/>children<sp/>of<sp/>other<sp/>OfficeMath<sp/>nodes<sp/>are<sp/>always<sp/>inline.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>node<sp/>we<sp/>are<sp/>working<sp/>with<sp/>is<sp/>the<sp/>base<sp/>node<sp/>to<sp/>change<sp/>its<sp/>location<sp/>and<sp/>display<sp/>type.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa15de98e6065597193144aa96a3a47fea" kindref="member" tooltip="Math paragraph, or display math zone, that contains one or more OMath elements that are in display mo...">MathObjectType::OMathPara</ref>,<sp/>officeMath-&gt;get_MathObjectType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>officeMath-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(officeMath-&gt;get_ParentNode(),<sp/>officeMath-&gt;get_ParentParagraph());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>OOXML<sp/>and<sp/>WML<sp/>formats<sp/>use<sp/>the<sp/>&quot;EquationXmlEncoding&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(officeMath-&gt;get_EquationXmlEncoding()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Change<sp/>the<sp/>location<sp/>and<sp/>display<sp/>type<sp/>of<sp/>the<sp/>OfficeMath<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">officeMath-&gt;set_DisplayType(<ref refid="namespace_aspose_1_1_words_1_1_math_1a6bde800b2e379a2871fe30d1cff0e7c0ab9987a246a537f4fe86f1f2e3d10dbdb" kindref="member" tooltip="The Office Math is displayed on its own line.">OfficeMathDisplayType::Display</ref>);</highlight></codeline>
+<codeline><highlight class="normal">officeMath-&gt;set_Justification(<ref refid="namespace_aspose_1_1_words_1_1_math_1a9fe5163ddc6fb967ad84181e0e41fc66a945d5e233cf7d6240f6b783b36a374ff" kindref="member" tooltip="Left justification of Math Paragraph.">OfficeMathJustification::Left</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.OfficeMath.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="329" column="53"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1afba4285c692239ee8d0fcf4a89f23d0a" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30a" kindref="member">Aspose::Words::Math::MathObjectType</ref></type>
+        <definition>Aspose::Words::Math::MathObjectType Aspose::Words::Math::OfficeMath::get_MathObjectType</definition>
+        <argsstring>() const</argsstring>
+        <name>get_MathObjectType</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::get_MathObjectType</qualifiedname>
+        <briefdescription>
+<para>Gets type <ref refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1afba4285c692239ee8d0fcf4a89f23d0a" kindref="member">MathObjectType</ref> of this Office <ref refid="namespace_aspose_1_1_words_1_1_math" kindref="compound">Math</ref> object. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to print the node structure of every office math node in a document. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>OfficeMathToText()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentVisitor-compatible<sp/>features.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>visitor<sp/>=<sp/>MakeObject&lt;ExDocumentVisitor::OfficeMathStructurePrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>get<sp/>a<sp/>composite<sp/>node<sp/>to<sp/>accept<sp/>a<sp/>document<sp/>visitor,<sp/>the<sp/>visitor<sp/>visits<sp/>the<sp/>accepting<sp/>node,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>traverses<sp/>all<sp/>the<sp/>node&apos;s<sp/>children<sp/>in<sp/>a<sp/>depth-first<sp/>manner.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>visitor<sp/>can<sp/>read<sp/>and<sp/>modify<sp/>each<sp/>visited<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Accept(visitor);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>visitor-&gt;GetText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">OfficeMathStructurePrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>OfficeMathStructurePrinter()<sp/>:<sp/>mVisitorIsInsideOfficeMath(false),<sp/>mDocTraversalDepth(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder<sp/>=<sp/>MakeObject&lt;System::Text::StringBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideOfficeMath<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>GetText()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mBuilder-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitRun(SharedPtr&lt;Run&gt;<sp/>run)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(mVisitorIsInsideOfficeMath)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Run]<sp/>\&quot;&quot;</highlight><highlight class="normal">)<sp/>+<sp/>run-&gt;GetText()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitOfficeMathStart(SharedPtr&lt;OfficeMath&gt;<sp/>officeMath)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[OfficeMath<sp/>start]<sp/>Math<sp/>object<sp/>type:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(officeMath-&gt;get_MathObjectType()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideOfficeMath<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitOfficeMathEnd(SharedPtr&lt;OfficeMath&gt;<sp/>officeMath)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth--;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(u</highlight><highlight class="stringliteral">&quot;[OfficeMath<sp/>end]&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideOfficeMath<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>mVisitorIsInsideOfficeMath;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mDocTraversalDepth;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mBuilder;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>IndentAndAppendLine(String<sp/>text)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>mDocTraversalDepth;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;Append(u</highlight><highlight class="stringliteral">&quot;|<sp/><sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(text);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="265" column="44"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1aa413f06a5a9f0f7a8e26653298d73ca8" prot="public" static="no" const="yes" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379" kindref="member">Aspose::Words::NodeType</ref></type>
+        <definition>Aspose::Words::NodeType Aspose::Words::Math::OfficeMath::get_NodeType</definition>
+        <argsstring>() const override</argsstring>
+        <name>get_NodeType</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::get_NodeType</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_node_1a7f80e8d96b7a072fca14157b25ae025e">get_NodeType</reimplements>
+        <briefdescription>
+<para>Returns <bold>NodeType.OfficeMath</bold>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set office math display formatting. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Office<sp/>math.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>officeMath<sp/>=<sp/>System::DynamicCast&lt;OfficeMath&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>OfficeMath<sp/>nodes<sp/>that<sp/>are<sp/>children<sp/>of<sp/>other<sp/>OfficeMath<sp/>nodes<sp/>are<sp/>always<sp/>inline.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>node<sp/>we<sp/>are<sp/>working<sp/>with<sp/>is<sp/>the<sp/>base<sp/>node<sp/>to<sp/>change<sp/>its<sp/>location<sp/>and<sp/>display<sp/>type.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa15de98e6065597193144aa96a3a47fea" kindref="member" tooltip="Math paragraph, or display math zone, that contains one or more OMath elements that are in display mo...">MathObjectType::OMathPara</ref>,<sp/>officeMath-&gt;get_MathObjectType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>officeMath-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(officeMath-&gt;get_ParentNode(),<sp/>officeMath-&gt;get_ParentParagraph());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>OOXML<sp/>and<sp/>WML<sp/>formats<sp/>use<sp/>the<sp/>&quot;EquationXmlEncoding&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(officeMath-&gt;get_EquationXmlEncoding()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Change<sp/>the<sp/>location<sp/>and<sp/>display<sp/>type<sp/>of<sp/>the<sp/>OfficeMath<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">officeMath-&gt;set_DisplayType(<ref refid="namespace_aspose_1_1_words_1_1_math_1a6bde800b2e379a2871fe30d1cff0e7c0ab9987a246a537f4fe86f1f2e3d10dbdb" kindref="member" tooltip="The Office Math is displayed on its own line.">OfficeMathDisplayType::Display</ref>);</highlight></codeline>
+<codeline><highlight class="normal">officeMath-&gt;set_Justification(<ref refid="namespace_aspose_1_1_words_1_1_math_1a9fe5163ddc6fb967ad84181e0e41fc66a945d5e233cf7d6240f6b783b36a374ff" kindref="member" tooltip="Left justification of Math Paragraph.">OfficeMathJustification::Left</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.OfficeMath.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="139" column="32"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1a4799456a82472861c394d22c5c823e07" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_paragraph" kindref="compound">Aspose::Words::Paragraph</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Paragraph &gt; Aspose::Words::Math::OfficeMath::get_ParentParagraph</definition>
+        <argsstring>()</argsstring>
+        <name>get_ParentParagraph</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::get_ParentParagraph</qualifiedname>
+        <briefdescription>
+<para>Retrieves the parent <ref refid="class_aspose_1_1_words_1_1_paragraph" kindref="compound">Paragraph</ref> of this node. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set office math display formatting. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Office<sp/>math.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>officeMath<sp/>=<sp/>System::DynamicCast&lt;OfficeMath&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>OfficeMath<sp/>nodes<sp/>that<sp/>are<sp/>children<sp/>of<sp/>other<sp/>OfficeMath<sp/>nodes<sp/>are<sp/>always<sp/>inline.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>node<sp/>we<sp/>are<sp/>working<sp/>with<sp/>is<sp/>the<sp/>base<sp/>node<sp/>to<sp/>change<sp/>its<sp/>location<sp/>and<sp/>display<sp/>type.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa15de98e6065597193144aa96a3a47fea" kindref="member" tooltip="Math paragraph, or display math zone, that contains one or more OMath elements that are in display mo...">MathObjectType::OMathPara</ref>,<sp/>officeMath-&gt;get_MathObjectType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>officeMath-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(officeMath-&gt;get_ParentNode(),<sp/>officeMath-&gt;get_ParentParagraph());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>OOXML<sp/>and<sp/>WML<sp/>formats<sp/>use<sp/>the<sp/>&quot;EquationXmlEncoding&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(officeMath-&gt;get_EquationXmlEncoding()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Change<sp/>the<sp/>location<sp/>and<sp/>display<sp/>type<sp/>of<sp/>the<sp/>OfficeMath<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">officeMath-&gt;set_DisplayType(<ref refid="namespace_aspose_1_1_words_1_1_math_1a6bde800b2e379a2871fe30d1cff0e7c0ab9987a246a537f4fe86f1f2e3d10dbdb" kindref="member" tooltip="The Office Math is displayed on its own line.">OfficeMathDisplayType::Display</ref>);</highlight></codeline>
+<codeline><highlight class="normal">officeMath-&gt;set_Justification(<ref refid="namespace_aspose_1_1_words_1_1_math_1a9fe5163ddc6fb967ad84181e0e41fc66a945d5e233cf7d6240f6b783b36a374ff" kindref="member" tooltip="Left justification of Math Paragraph.">OfficeMathJustification::Left</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.OfficeMath.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="166" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1a4b505cdd8ca3c786cbbc15bb642f170b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_rendering_1_1_office_math_renderer" kindref="compound">Aspose::Words::Rendering::OfficeMathRenderer</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Rendering::OfficeMathRenderer &gt; Aspose::Words::Math::OfficeMath::GetMathRenderer</definition>
+        <argsstring>()</argsstring>
+        <name>GetMathRenderer</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::GetMathRenderer</qualifiedname>
+        <briefdescription>
+<para>Creates and returns an object that can be used to render this equation into an image. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This method just invokes the <ref refid="class_aspose_1_1_words_1_1_rendering_1_1_office_math_renderer" kindref="compound">OfficeMathRenderer</ref> constructor and passes this object as a parameter.</para>
+<para><simplesect kind="return"><para>The renderer object for this equation.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to render an Office <ref refid="namespace_aspose_1_1_words_1_1_math" kindref="compound">Math</ref> object into an image file in the local file system. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Office<sp/>math.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>math<sp/>=<sp/>System::DynamicCast&lt;OfficeMath&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;ImageSaveOptions&quot;<sp/>object<sp/>to<sp/>pass<sp/>to<sp/>the<sp/>node<sp/>renderer&apos;s<sp/>&quot;Save&quot;<sp/>method<sp/>to<sp/>modify</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>how<sp/>it<sp/>renders<sp/>the<sp/>OfficeMath<sp/>node<sp/>into<sp/>an<sp/>image.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;ImageSaveOptions&gt;(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847af8fd4f1b5b05c6b1cc6a661141fd4f54" kindref="member" tooltip="Renders a page of the document and saves it as a PNG file.">SaveFormat::Png</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;Scale&quot;<sp/>property<sp/>to<sp/>5<sp/>to<sp/>render<sp/>the<sp/>object<sp/>to<sp/>five<sp/>times<sp/>its<sp/>original<sp/>size.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_Scale(5.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">math-&gt;GetMathRenderer()-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.RenderOfficeMath.png&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="500" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1a4666c49ad55b76d886872f804646025b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Math::OfficeMath::set_DisplayType</definition>
+        <argsstring>(Aspose::Words::Math::OfficeMathDisplayType value)</argsstring>
+        <name>set_DisplayType</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::set_DisplayType</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_math_1a6bde800b2e379a2871fe30d1cff0e7c0" kindref="member">Aspose::Words::Math::OfficeMathDisplayType</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1a8b268a744ca880dc8934e7e9d61dc6fb" kindref="member">Aspose::Words::Math::OfficeMath::get_DisplayType</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="367" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1ab46d5d51c2968f27929d327be15ef1f0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Math::OfficeMath::set_EquationXmlEncoding</definition>
+        <argsstring>(const System::SharedPtr&lt; System::Text::Encoding &gt; &amp;value)</argsstring>
+        <name>set_EquationXmlEncoding</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::set_EquationXmlEncoding</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.text.encoding/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1a677a98f5ad6b4608077f5e9df10fb477" kindref="member">Aspose::Words::Math::OfficeMath::get_EquationXmlEncoding</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="296" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_math_1_1_office_math_1acbdfd1ebc164163b1f0e9d1dc46bb9a4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Math::OfficeMath::set_Justification</definition>
+        <argsstring>(Aspose::Words::Math::OfficeMathJustification value)</argsstring>
+        <name>set_Justification</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMath::set_Justification</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_math_1a9fe5163ddc6fb967ad84181e0e41fc66" kindref="member">Aspose::Words::Math::OfficeMathJustification</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1a357e3624597c7bb390a75d965befa7f1" kindref="member">Aspose::Words::Math::OfficeMath::get_Justification</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="332" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents an Office <ref refid="namespace_aspose_1_1_words_1_1_math" kindref="compound">Math</ref> object such as function, equation, matrix or alike. Can contain child elements including runs of mathematical text, bookmarks, comments, other <ref refid="class_aspose_1_1_words_1_1_math_1_1_office_math" kindref="compound">OfficeMath</ref> instances and some other nodes. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>In this version of Aspose.Words, <ref refid="class_aspose_1_1_words_1_1_math_1_1_office_math" kindref="compound">OfficeMath</ref> nodes do not provide public methods and properties to create or modify a <ref refid="class_aspose_1_1_words_1_1_math_1_1_office_math" kindref="compound">OfficeMath</ref> object. In this version you are not able to instantiate <ref refid="namespace_aspose_1_1_words_1_1_math" kindref="compound">Math</ref> nodes or modify existing except deleting them.</para>
+<para><ref refid="class_aspose_1_1_words_1_1_math_1_1_office_math" kindref="compound">OfficeMath</ref> can only be a child of <ref refid="class_aspose_1_1_words_1_1_paragraph" kindref="compound">Paragraph</ref>.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set office math display formatting. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Office<sp/>math.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>officeMath<sp/>=<sp/>System::DynamicCast&lt;OfficeMath&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>OfficeMath<sp/>nodes<sp/>that<sp/>are<sp/>children<sp/>of<sp/>other<sp/>OfficeMath<sp/>nodes<sp/>are<sp/>always<sp/>inline.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>node<sp/>we<sp/>are<sp/>working<sp/>with<sp/>is<sp/>the<sp/>base<sp/>node<sp/>to<sp/>change<sp/>its<sp/>location<sp/>and<sp/>display<sp/>type.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa15de98e6065597193144aa96a3a47fea" kindref="member" tooltip="Math paragraph, or display math zone, that contains one or more OMath elements that are in display mo...">MathObjectType::OMathPara</ref>,<sp/>officeMath-&gt;get_MathObjectType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>officeMath-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(officeMath-&gt;get_ParentNode(),<sp/>officeMath-&gt;get_ParentParagraph());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>OOXML<sp/>and<sp/>WML<sp/>formats<sp/>use<sp/>the<sp/>&quot;EquationXmlEncoding&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(officeMath-&gt;get_EquationXmlEncoding()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Change<sp/>the<sp/>location<sp/>and<sp/>display<sp/>type<sp/>of<sp/>the<sp/>OfficeMath<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">officeMath-&gt;set_DisplayType(<ref refid="namespace_aspose_1_1_words_1_1_math_1a6bde800b2e379a2871fe30d1cff0e7c0ab9987a246a537f4fe86f1f2e3d10dbdb" kindref="member" tooltip="The Office Math is displayed on its own line.">OfficeMathDisplayType::Display</ref>);</highlight></codeline>
+<codeline><highlight class="normal">officeMath-&gt;set_Justification(<ref refid="namespace_aspose_1_1_words_1_1_math_1a9fe5163ddc6fb967ad84181e0e41fc66a945d5e233cf7d6240f6b783b36a374ff" kindref="member" tooltip="Left justification of Math Paragraph.">OfficeMathJustification::Left</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.OfficeMath.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::CompositeNode</label>
+        <link refid="class_aspose_1_1_words_1_1_composite_node"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>Aspose::Words::IInline</label>
+      </node>
+      <node id="6">
+        <label>Aspose::Words::INodeCollection</label>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Math::OfficeMath</label>
+        <link refid="class_aspose_1_1_words_1_1_math_1_1_office_math"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::Node</label>
+        <link refid="class_aspose_1_1_words_1_1_node"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>Aspose::Words::Revisions::ITrackableNode</label>
+      </node>
+      <node id="5">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Node &gt; &gt;</label>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::CompositeNode</label>
+        <link refid="class_aspose_1_1_words_1_1_composite_node"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>Aspose::Words::IInline</label>
+      </node>
+      <node id="6">
+        <label>Aspose::Words::INodeCollection</label>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Math::OfficeMath</label>
+        <link refid="class_aspose_1_1_words_1_1_math_1_1_office_math"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::Node</label>
+        <link refid="class_aspose_1_1_words_1_1_node"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>Aspose::Words::Revisions::ITrackableNode</label>
+      </node>
+      <node id="5">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Node &gt; &gt;</label>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Math/OfficeMath.h" line="99" column="1" bodyfile="Aspose.Words.Cpp/Math/OfficeMath.h" bodystart="100" bodyend="542"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1ae4298af0ebd46b7d8efbaad291edc365" prot="public" virt="virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>Accept</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1aa0943925233b0f578151a57afe4d9c81" prot="private" virt="virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>AcceptEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1adcaa81f90081abe85a3f15568bad5bc6" prot="private" virt="virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>AcceptStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1af74bc4213aebbe5fd01d2fc0f08b2bec" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>AppendChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1ad60c9b74133b2c8456862686af4a107a" prot="private" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1aa3f7c1588a9c0b87d758928f81dc4fb8" prot="private" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1a240158ebc1e0bb64978fc0ef9b3be42c" prot="private" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>BaseType2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1a1db958a4487d31087f9b7945997602f9" prot="private" virt="virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>CanInsert</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1a6e5cbf309414ff20a2d250039621621f" prot="private" virt="virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>Clone</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a81dedd9b241b09760112b5e5068f1daa" prot="public" virt="non-virtual" ambiguityscope="Aspose::Words::Node::"><scope>Aspose::Words::Math::OfficeMath</scope><name>Clone</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1a33c1382c6b7c22d5a77bffe2c3c34f05" prot="private" virt="virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>CppMemberwiseClone</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a98d9935dcf818989566431ab3b75bbed" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>get_ChildNodes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a801d3d549eb73e216df5b7a64d9e1c68" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a941120df17372b25f9a7127a9d9b3816" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>get_CustomNodeId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1a8b268a744ca880dc8934e7e9d61dc6fb" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>get_DisplayType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a2a69f84e3ccd323199299c999ab32d46" prot="public" virt="virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>get_Document</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1a677a98f5ad6b4608077f5e9df10fb477" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>get_EquationXmlEncoding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a052d0e4560975f6c19c77bf19d82eedf" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>get_FirstChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a4b939686e9a6a245a31cf392d202316d" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>get_HasChildNodes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a96cf2dd90a284fe9939d1d90780d2d4b" prot="public" virt="virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>get_IsComposite</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1a357e3624597c7bb390a75d965befa7f1" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>get_Justification</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a58fae512d8549219b7c3a17ef2d46439" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>get_LastChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1afba4285c692239ee8d0fcf4a89f23d0a" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>get_MathObjectType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a938ff32d060619d89ecefdf57984abf8" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>get_NextSibling</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1aa413f06a5a9f0f7a8e26653298d73ca8" prot="public" virt="virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>get_NodeType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1ab9e608488885c65a2a165dea6645d15e" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>get_ParentNode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1a4799456a82472861c394d22c5c823e07" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>get_ParentParagraph</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a6013fe75e5859c54d12a87f9b97fa7f3" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>get_PreviousSibling</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a0f8077bf80409ba331148095b95bc3e5" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>get_Range</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a951706cfa681573e79a56204a2029e9e" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>GetAncestor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1ae19991f4d5aa7ccb60ce6d7207495f1c" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>GetAncestorOf</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a6d961b080681f8dc6ee551c6c0ce44da" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>GetChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1ae1fc746cc70cea4c9ab30caf39aec146" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>GetChildNodes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a6d3cc4280067e07fd504c11e6c968419" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>GetEnumerator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1a4b505cdd8ca3c786cbbc15bb642f170b" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>GetMathRenderer</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a08b4d2cc617495b60d85a550422e2d8f" prot="public" virt="virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>GetText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1ac0cfce6ca5295fe714f5da1e8e244d9e" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>IndexOf</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a2b6e91eabfc75b02062ae6714cd95ec2" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>InsertAfter</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a247cedb3f1fe5474c87f5b5fa0dcd995" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>InsertBefore</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1a35c633ca550274ab0f1e47589895a008" prot="private" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1a6ef164bdd3144ec665c9ab688a1103f3" prot="private" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1a98a41bdc1758a9d3481252a8d7e3fd40" prot="private" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1a1d0a71e940e02984e1cefcd00e5d6d42" prot="private" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1ac8a65e4bbb12933bf793e4f8c73e154a" prot="private" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a4f6979e06a5914aeb37a9cb8448658a6" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>NextPreOrder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a0e46189d6dfa7a81c8fa2e2bd2354d61" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>NodeTypeToString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1abae3ff6d970ba209cf4eb1c539b205ee" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>PrependChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1af40f9573daf950d978d211d3e75c6a95" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>PreviousPreOrder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a75a9cc0fda5ec9c8aaa1c4910af8f28c" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a4afce861f4df13714988e44419374f21" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>RemoveAllChildren</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a28888dd687866f66b3bb221e63b5063c" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>RemoveChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1a0eee8dcdcb15101c1384cc5d9ae83a76" prot="private" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>RemoveMoveRevisions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a5a00bfd5d2e04d5752d96e226a3f5849" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>RemoveSmartTags</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1a677589d6d3599a6b2fb554b899cb35cd" prot="private" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a553923ba5225bd3d28f1960b72b45f4f" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>SelectNodes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1aa2eb340deba06c3dcb7cc29dfeca5a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>SelectSingleNode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a0d412cc05de7836acb92332e55eea267" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>set_CustomNodeId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1a4666c49ad55b76d886872f804646025b" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>set_DisplayType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1ab46d5d51c2968f27929d327be15ef1f0" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>set_EquationXmlEncoding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1acbdfd1ebc164163b1f0e9d1dc46bb9a4" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>set_Justification</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a29e186f28a68773c7c7679079c77d827" prot="public" virt="virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>SetTemplateWeakPtr</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1a0819f9e0eecd0a6605ff36d1cd09ca62" prot="private" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1a1035a6bce4e55378dc6e1d427f1a2874" prot="private" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1af7aa71ab5f185ee2463406dab7727595" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>ToString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1ad18f64c5586b84a071957824b24426a2" prot="public" virt="non-virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>ToString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_math_1_1_office_math_1a3e7428818608b387411c8f06144ecd27" prot="private" virt="virtual"><scope>Aspose::Words::Math::OfficeMath</scope><name>~OfficeMath</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

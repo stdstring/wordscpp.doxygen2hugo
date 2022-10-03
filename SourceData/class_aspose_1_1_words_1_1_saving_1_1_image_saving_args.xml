@@ -1,0 +1,845 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Saving::ImageSavingArgs</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_image_saving_args_8h" local="no">Aspose.Words.Cpp/Saving/ImageSavingArgs.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1a832abced90a82794b9e10ed30e7df7b4" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Saving::ImageSavingArgs::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Saving::ImageSavingArgs::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" line="186" column="28" bodyfile="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" bodystart="186" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1abc5ea2da51f6e94a33003d224c3712fe" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args" kindref="compound">ImageSavingArgs</ref></type>
+        <definition>typedef ImageSavingArgs Aspose::Words::Saving::ImageSavingArgs::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Saving::ImageSavingArgs::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" line="185" column="29" bodyfile="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" bodystart="185" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1a95403b0965af9db24217c5d0e70a6b98" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::ImageSavingArgs::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Saving::ImageSavingArgs::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" line="188" column="37" bodyfile="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" bodystart="188" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1aca085d45790a4841b1979b062a2bab6c" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::ImageSavingArgs::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Saving::ImageSavingArgs::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" line="674" column="23" bodyfile="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" bodystart="674" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1a60b9cda27a1aa5854236c6a7496fef8d" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::ImageSavingArgs::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Saving::ImageSavingArgs::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" line="675" column="23" bodyfile="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" bodystart="675" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1ab24d25ad37bcfde29f82e1fc60bbe813" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::ImageSavingArgs::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Saving::ImageSavingArgs::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" line="676" column="23" bodyfile="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" bodystart="676" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1a6d646a5369ef0fbf656d5e0c7e020daf" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::ImageSavingArgs::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Saving::ImageSavingArgs::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" line="677" column="20" bodyfile="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" bodystart="677" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1a8c9a9a054c6ee29f1a2e1c986e9bd6f0" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::ImageSavingArgs::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Saving::ImageSavingArgs::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" line="678" column="23" bodyfile="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" bodystart="678" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1adb3b70226fd6a11497359a4be94f24d0" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::ImageSavingArgs::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Saving::ImageSavingArgs::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" line="189" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1a66f25eb25793ee0b0f2f82d9e40589b9" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base" kindref="compound">Aspose::Words::Drawing::ShapeBase</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::ShapeBase &gt; Aspose::Words::Saving::ImageSavingArgs::get_CurrentShape</definition>
+        <argsstring>() const</argsstring>
+        <name>get_CurrentShape</name>
+        <qualifiedname>Aspose::Words::Saving::ImageSavingArgs::get_CurrentShape</qualifiedname>
+        <briefdescription>
+<para>Gets the <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base" kindref="compound">ShapeBase</ref> object corresponding to the shape or group shape that is about to be saved. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_i_image_saving_callback" kindref="compound">IImageSavingCallback</ref> can be fired while saving either a shape or a group shape. That&apos;s why the property has <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base" kindref="compound">ShapeBase</ref> type. You can check whether it&apos;s a group shape comparing <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a5eeaf9498ba9e55eadb2c610ee5bc017" kindref="member">ShapeType</ref> with <ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bcca03937134cedab9078be39a77ee3a48a0" kindref="member">Group</ref> or by casting it to one of derived classes: <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape" kindref="compound">Shape</ref> or <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape" kindref="compound">GroupShape</ref>.</para>
+<para>Aspose.Words uses the document file name and a unique number to generate unique file name for each image found in the document. You can use the <ref refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1a66f25eb25793ee0b0f2f82d9e40589b9" kindref="member">CurrentShape</ref> property to generate a &quot;better&quot; file name by examining shape properties such as <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_image_data_1a4d0d221946c7e521f4c55382d38aa30c" kindref="member">Title</ref> (Shape only), <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_image_data_1a9b59019bb8da0aca952457544d9d3c58" kindref="member">SourceFullName</ref> (Shape only) and <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1acbe7f498e75081a22b9fbb6ca019de62" kindref="member">Name</ref>. Of course you can build file names using any other properties or criteria but note that subsidiary file names must be unique within the export operation.</para>
+<para>Some images in the document can be unavailable. To check image availability use the <ref refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1ae86dbb344eea8fe2dfedef18d5eb7291" kindref="member">IsImageAvailable</ref> property.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to involve an image saving callback in an HTML conversion process. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ImageSavingCallback()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>save<sp/>the<sp/>document<sp/>to<sp/>HTML,<sp/>we<sp/>can<sp/>pass<sp/>a<sp/>SaveOptions<sp/>object<sp/>to<sp/>designate<sp/>a<sp/>callback</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>customize<sp/>the<sp/>image<sp/>saving<sp/>process.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;HtmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ImageSavingCallback(MakeObject&lt;ExHtmlSaveOptions::ImageShapePrinter&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlSaveOptions.ImageSavingCallback.html&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">ImageShapePrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IImageSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ImageShapePrinter()<sp/>:<sp/>mImageCount(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mImageCount;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ImageSaving(SharedPtr&lt;ImageSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_KeepImageStreamOpen(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_IsImageAvailable());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>args-&gt;get_Document()-&gt;get_OriginalFileName().Split(MakeArray&lt;char16_t&gt;({u</highlight><highlight class="charliteral">&apos;\\&apos;</highlight><highlight class="normal">}))-&gt;LINQ_Last()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>Image<sp/>#&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>++mImageCount</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>layoutCollector<sp/>=<sp/>MakeObject&lt;LayoutCollector&gt;(args-&gt;get_Document());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tOn<sp/>page:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>layoutCollector-&gt;GetStartPageIndex(args-&gt;get_CurrentShape())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tDimensions:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>args-&gt;get_CurrentShape()-&gt;get_Bounds()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tAlignment:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_CurrentShape()-&gt;get_VerticalAlignment())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tWrap<sp/>type:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_CurrentShape()-&gt;get_WrapType())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Output<sp/>filename:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>args-&gt;get_ImageFileName()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\n&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" line="311" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1a2db39189289e863900ce90af41ca7344" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Aspose::Words::Document</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Document &gt; Aspose::Words::Saving::ImageSavingArgs::get_Document</definition>
+        <argsstring>()</argsstring>
+        <name>get_Document</name>
+        <qualifiedname>Aspose::Words::Saving::ImageSavingArgs::get_Document</qualifiedname>
+        <briefdescription>
+<para>Gets the document object that is currently being saved. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to involve an image saving callback in an HTML conversion process. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ImageSavingCallback()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>save<sp/>the<sp/>document<sp/>to<sp/>HTML,<sp/>we<sp/>can<sp/>pass<sp/>a<sp/>SaveOptions<sp/>object<sp/>to<sp/>designate<sp/>a<sp/>callback</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>customize<sp/>the<sp/>image<sp/>saving<sp/>process.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;HtmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ImageSavingCallback(MakeObject&lt;ExHtmlSaveOptions::ImageShapePrinter&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlSaveOptions.ImageSavingCallback.html&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">ImageShapePrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IImageSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ImageShapePrinter()<sp/>:<sp/>mImageCount(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mImageCount;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ImageSaving(SharedPtr&lt;ImageSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_KeepImageStreamOpen(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_IsImageAvailable());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>args-&gt;get_Document()-&gt;get_OriginalFileName().Split(MakeArray&lt;char16_t&gt;({u</highlight><highlight class="charliteral">&apos;\\&apos;</highlight><highlight class="normal">}))-&gt;LINQ_Last()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>Image<sp/>#&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>++mImageCount</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>layoutCollector<sp/>=<sp/>MakeObject&lt;LayoutCollector&gt;(args-&gt;get_Document());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tOn<sp/>page:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>layoutCollector-&gt;GetStartPageIndex(args-&gt;get_CurrentShape())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tDimensions:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>args-&gt;get_CurrentShape()-&gt;get_Bounds()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tAlignment:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_CurrentShape()-&gt;get_VerticalAlignment())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tWrap<sp/>type:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_CurrentShape()-&gt;get_WrapType())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Output<sp/>filename:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>args-&gt;get_ImageFileName()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\n&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" line="243" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1aa42bf26bad1ac51f0a2a85f1acc30e56" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::ImageSavingArgs::get_ImageFileName</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ImageFileName</name>
+        <qualifiedname>Aspose::Words::Saving::ImageSavingArgs::get_ImageFileName</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the file name (without path) where the image will be saved to. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This property allows you to redefine how the image file names are generated during export to HTML.</para>
+<para>When the event is fired, this property contains the file name that was generated by Aspose.Words. You can change the value of this property to save the image into a different file. Note that file names must be unique.</para>
+<para>Aspose.Words automatically generates a unique file name for every embedded image when exporting to HTML format. How the image file name is generated depends on whether you save the document to a file or to a stream.</para>
+<para>When saving a document to a file, the generated image file name looks like <emphasis>%&lt;document base file name&gt;.&lt;image number&gt;.&lt;extension&gt;</emphasis>.</para>
+<para>When saving a document to a stream, the generated image file name looks like <emphasis>Aspose.Words.&lt;document guid&gt;.&lt;image number&gt;.&lt;extension&gt;</emphasis>.</para>
+<para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1aa42bf26bad1ac51f0a2a85f1acc30e56" kindref="member">ImageFileName</ref> must contain only the file name without the path. Aspose.Words determines the path for saving and the value of the <computeroutput>src</computeroutput> attribute for writing to HTML using the document file name, the <ref refid="class_aspose_1_1_words_1_1_saving_1_1_html_save_options_1a1e4c5920bfaadd9284e2ce32f8c11648" kindref="member">ImagesFolder</ref> and <ref refid="class_aspose_1_1_words_1_1_saving_1_1_html_save_options_1a6fefd0650e96b44c91e4a1f8f45fbf0c" kindref="member">ImagesFolderAlias</ref> properties.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1a66f25eb25793ee0b0f2f82d9e40589b9" kindref="member">Aspose::Words::Saving::ImageSavingArgs::get_CurrentShape</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1ae86dbb344eea8fe2dfedef18d5eb7291" kindref="member">Aspose::Words::Saving::ImageSavingArgs::get_IsImageAvailable</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1ae189e078fe5de035981adf0a4fff24cc" kindref="member">Aspose::Words::Saving::ImageSavingArgs::get_ImageStream</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_html_save_options_1a1e4c5920bfaadd9284e2ce32f8c11648" kindref="member">Aspose::Words::Saving::HtmlSaveOptions::get_ImagesFolder</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_html_save_options_1a6fefd0650e96b44c91e4a1f8f45fbf0c" kindref="member">Aspose::Words::Saving::HtmlSaveOptions::get_ImagesFolderAlias</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to split a document into parts and save them. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>DocumentPartsFileNames()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>outFileName<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;SavingCallback.DocumentPartsFileNames.html&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;HtmlFixedSaveOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>convert<sp/>the<sp/>document<sp/>to<sp/>HTML.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;HtmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>save<sp/>the<sp/>document<sp/>normally,<sp/>there<sp/>will<sp/>be<sp/>one<sp/>output<sp/>HTML</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>document<sp/>with<sp/>all<sp/>the<sp/>source<sp/>document&apos;s<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;DocumentSplitCriteria&quot;<sp/>property<sp/>to<sp/>&quot;DocumentSplitCriteria.SectionBreak&quot;<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>save<sp/>our<sp/>document<sp/>to<sp/>multiple<sp/>HTML<sp/>files:<sp/>one<sp/>for<sp/>each<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_DocumentSplitCriteria(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a21c39143a76e997332687767db80fc07ac6788b2b9719f26994fd409d52a778fb" kindref="member" tooltip="The document is split into parts at a section break of any type.">DocumentSplitCriteria::SectionBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Assign<sp/>a<sp/>custom<sp/>callback<sp/>to<sp/>the<sp/>&quot;DocumentPartSavingCallback&quot;<sp/>property<sp/>to<sp/>alter<sp/>the<sp/>document<sp/>part<sp/>saving<sp/>logic.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_DocumentPartSavingCallback(MakeObject&lt;ExSavingCallback::SavedDocumentPartRename&gt;(outFileName,<sp/>options-&gt;get_DocumentSplitCriteria()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>convert<sp/>a<sp/>document<sp/>that<sp/>contains<sp/>images<sp/>into<sp/>html,<sp/>we<sp/>will<sp/>end<sp/>up<sp/>with<sp/>one<sp/>html<sp/>file<sp/>which<sp/>links<sp/>to<sp/>several<sp/>images.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Each<sp/>image<sp/>will<sp/>be<sp/>in<sp/>the<sp/>form<sp/>of<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>There<sp/>is<sp/>also<sp/>a<sp/>callback<sp/>that<sp/>can<sp/>customize<sp/>the<sp/>name<sp/>and<sp/>file<sp/>system<sp/>location<sp/>of<sp/>each<sp/>image.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ImageSavingCallback(MakeObject&lt;ExSavingCallback::SavedImageRename&gt;(outFileName));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>outFileName,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">SavedDocumentPartRename<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IDocumentPartSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SavedDocumentPartRename(String<sp/>outFileName,<sp/>DocumentSplitCriteria<sp/>documentSplitCriteria)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>:<sp/>mCount(0),<sp/>mDocumentSplitCriteria(((<ref refid="namespace_aspose" kindref="compound">Aspose</ref>::<ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref>::Saving::<ref refid="namespace_aspose_1_1_words_1_1_saving_1a21c39143a76e997332687767db80fc07" kindref="member" tooltip="Specifies how the document is split into parts when saving to Html, Epub or Azw3 format.">DocumentSplitCriteria</ref>)0))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mOutFileName<sp/>=<sp/>outFileName;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocumentSplitCriteria<sp/>=<sp/>documentSplitCriteria;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mCount;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>mOutFileName;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_saving_1a21c39143a76e997332687767db80fc07" kindref="member" tooltip="Specifies how the document is split into parts when saving to Html, Epub or Azw3 format.">DocumentSplitCriteria</ref><sp/>mDocumentSplitCriteria;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>DocumentPartSaving(SharedPtr&lt;DocumentPartSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>access<sp/>the<sp/>entire<sp/>source<sp/>document<sp/>via<sp/>the<sp/>&quot;Document&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_Document()-&gt;get_OriginalFileName().EndsWith(u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>partType<sp/>=<sp/>String::Empty;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(mDocumentSplitCriteria)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::PageBreak:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Page&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::ColumnBreak:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Column&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::SectionBreak:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Section&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::HeadingParagraph:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>from<sp/>heading&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">default</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>partFileName<sp/>=<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>part<sp/>{1},<sp/>of<sp/>type<sp/>{2}{3}&quot;</highlight><highlight class="normal">,<sp/>mOutFileName,<sp/>++mCount,<sp/>partType,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.path/_1ae9e0f0c8b345ecfab2ca997411b81f97" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::GetExtension</ref>(args-&gt;get_DocumentPartFileName()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>specifying<sp/>where<sp/>Aspose.Words<sp/>will<sp/>save<sp/>each<sp/>part<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Set<sp/>a<sp/>filename<sp/>for<sp/>the<sp/>output<sp/>part<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_DocumentPartFileName(partFileName);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Create<sp/>a<sp/>custom<sp/>stream<sp/>for<sp/>the<sp/>output<sp/>part<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_DocumentPartStream(MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>partFileName,<sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_DocumentPartStream()-&gt;get_CanWrite());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(args-&gt;get_KeepDocumentPartStreamOpen());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">SavedImageRename<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IImageSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SavedImageRename(String<sp/>outFileName)<sp/>:<sp/>mCount(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mOutFileName<sp/>=<sp/>outFileName;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mCount;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>mOutFileName;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ImageSaving(SharedPtr&lt;ImageSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>imageFileName<sp/>=<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>shape<sp/>{1},<sp/>of<sp/>type<sp/>{2}{3}&quot;</highlight><highlight class="normal">,<sp/>mOutFileName,<sp/>++mCount,<sp/>args-&gt;get_CurrentShape()-&gt;get_ShapeType(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.path/_1ae9e0f0c8b345ecfab2ca997411b81f97" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::GetExtension</ref>(args-&gt;get_ImageFileName()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>specifying<sp/>where<sp/>Aspose.Words<sp/>will<sp/>save<sp/>each<sp/>part<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Set<sp/>a<sp/>filename<sp/>for<sp/>the<sp/>output<sp/>image<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ImageFileName(imageFileName);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Create<sp/>a<sp/>custom<sp/>stream<sp/>for<sp/>the<sp/>output<sp/>image<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ImageStream(MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>imageFileName,<sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_ImageStream()-&gt;get_CanWrite());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_IsImageAvailable());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(args-&gt;get_KeepImageStreamOpen());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" line="531" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1ae189e078fe5de035981adf0a4fff24cc" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; System::IO::Stream &gt; Aspose::Words::Saving::ImageSavingArgs::get_ImageStream</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ImageStream</name>
+        <qualifiedname>Aspose::Words::Saving::ImageSavingArgs::get_ImageStream</qualifiedname>
+        <briefdescription>
+<para>Allows to specify the stream where the image will be saved to. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This property allows you to save images to streams instead of files during HTML.</para>
+<para>The default value is <computeroutput>null</computeroutput>. When this property is <computeroutput>null</computeroutput>, the image will be saved to a file specified in the <ref refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1aa42bf26bad1ac51f0a2a85f1acc30e56" kindref="member">ImageFileName</ref> property.</para>
+<para>Using <ref refid="class_aspose_1_1_words_1_1_saving_1_1_i_image_saving_callback" kindref="compound">IImageSavingCallback</ref> you cannot substitute one image with another. It is intended only for control over location where to save images.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1aa42bf26bad1ac51f0a2a85f1acc30e56" kindref="member">Aspose::Words::Saving::ImageSavingArgs::get_ImageFileName</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1a7a3193e752c9c6937da36a80651cd5f6" kindref="member">Aspose::Words::Saving::ImageSavingArgs::get_KeepImageStreamOpen</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to involve an image saving callback in an HTML conversion process. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ImageSavingCallback()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>save<sp/>the<sp/>document<sp/>to<sp/>HTML,<sp/>we<sp/>can<sp/>pass<sp/>a<sp/>SaveOptions<sp/>object<sp/>to<sp/>designate<sp/>a<sp/>callback</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>customize<sp/>the<sp/>image<sp/>saving<sp/>process.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;HtmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ImageSavingCallback(MakeObject&lt;ExHtmlSaveOptions::ImageShapePrinter&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlSaveOptions.ImageSavingCallback.html&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">ImageShapePrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IImageSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ImageShapePrinter()<sp/>:<sp/>mImageCount(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mImageCount;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ImageSaving(SharedPtr&lt;ImageSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_KeepImageStreamOpen(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_IsImageAvailable());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>args-&gt;get_Document()-&gt;get_OriginalFileName().Split(MakeArray&lt;char16_t&gt;({u</highlight><highlight class="charliteral">&apos;\\&apos;</highlight><highlight class="normal">}))-&gt;LINQ_Last()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>Image<sp/>#&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>++mImageCount</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>layoutCollector<sp/>=<sp/>MakeObject&lt;LayoutCollector&gt;(args-&gt;get_Document());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tOn<sp/>page:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>layoutCollector-&gt;GetStartPageIndex(args-&gt;get_CurrentShape())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tDimensions:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>args-&gt;get_CurrentShape()-&gt;get_Bounds()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tAlignment:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_CurrentShape()-&gt;get_VerticalAlignment())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tWrap<sp/>type:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_CurrentShape()-&gt;get_WrapType())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Output<sp/>filename:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>args-&gt;get_ImageFileName()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\n&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" line="658" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1ae86dbb344eea8fe2dfedef18d5eb7291" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Saving::ImageSavingArgs::get_IsImageAvailable</definition>
+        <argsstring>() const</argsstring>
+        <name>get_IsImageAvailable</name>
+        <qualifiedname>Aspose::Words::Saving::ImageSavingArgs::get_IsImageAvailable</qualifiedname>
+        <briefdescription>
+<para>Returns <computeroutput>true</computeroutput> if the current image is available for export. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Some images in the document can be unavailable, for example, because the image is linked and the link is inaccessible or does not point to a valid image. In this case Aspose.Words exports an icon with a red cross. This property returns <computeroutput>true</computeroutput> if the original image is available; returns <computeroutput>false</computeroutput> if the original image is not available and a &quot;no image&quot; icon will be offered for save.</para>
+<para>When saving a group shape or a shape that doesn&apos;t require any image this property is always <computeroutput>true</computeroutput>.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1a66f25eb25793ee0b0f2f82d9e40589b9" kindref="member">Aspose::Words::Saving::ImageSavingArgs::get_CurrentShape</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to involve an image saving callback in an HTML conversion process. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ImageSavingCallback()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>save<sp/>the<sp/>document<sp/>to<sp/>HTML,<sp/>we<sp/>can<sp/>pass<sp/>a<sp/>SaveOptions<sp/>object<sp/>to<sp/>designate<sp/>a<sp/>callback</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>customize<sp/>the<sp/>image<sp/>saving<sp/>process.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;HtmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ImageSavingCallback(MakeObject&lt;ExHtmlSaveOptions::ImageShapePrinter&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlSaveOptions.ImageSavingCallback.html&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">ImageShapePrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IImageSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ImageShapePrinter()<sp/>:<sp/>mImageCount(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mImageCount;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ImageSaving(SharedPtr&lt;ImageSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_KeepImageStreamOpen(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_IsImageAvailable());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>args-&gt;get_Document()-&gt;get_OriginalFileName().Split(MakeArray&lt;char16_t&gt;({u</highlight><highlight class="charliteral">&apos;\\&apos;</highlight><highlight class="normal">}))-&gt;LINQ_Last()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>Image<sp/>#&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>++mImageCount</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>layoutCollector<sp/>=<sp/>MakeObject&lt;LayoutCollector&gt;(args-&gt;get_Document());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tOn<sp/>page:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>layoutCollector-&gt;GetStartPageIndex(args-&gt;get_CurrentShape())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tDimensions:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>args-&gt;get_CurrentShape()-&gt;get_Bounds()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tAlignment:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_CurrentShape()-&gt;get_VerticalAlignment())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tWrap<sp/>type:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_CurrentShape()-&gt;get_WrapType())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Output<sp/>filename:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>args-&gt;get_ImageFileName()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\n&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" line="374" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1a7a3193e752c9c6937da36a80651cd5f6" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Saving::ImageSavingArgs::get_KeepImageStreamOpen</definition>
+        <argsstring>() const</argsstring>
+        <name>get_KeepImageStreamOpen</name>
+        <qualifiedname>Aspose::Words::Saving::ImageSavingArgs::get_KeepImageStreamOpen</qualifiedname>
+        <briefdescription>
+<para>Specifies whether Aspose.Words should keep the stream open or close it after saving an image. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Default is <computeroutput>false</computeroutput> and Aspose.Words will close the stream you provided in the <ref refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1ae189e078fe5de035981adf0a4fff24cc" kindref="member">ImageStream</ref> property after writing an image into it. Specify <computeroutput>true</computeroutput> to keep the stream open.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1ae189e078fe5de035981adf0a4fff24cc" kindref="member">Aspose::Words::Saving::ImageSavingArgs::get_ImageStream</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to involve an image saving callback in an HTML conversion process. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ImageSavingCallback()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>save<sp/>the<sp/>document<sp/>to<sp/>HTML,<sp/>we<sp/>can<sp/>pass<sp/>a<sp/>SaveOptions<sp/>object<sp/>to<sp/>designate<sp/>a<sp/>callback</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>customize<sp/>the<sp/>image<sp/>saving<sp/>process.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;HtmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ImageSavingCallback(MakeObject&lt;ExHtmlSaveOptions::ImageShapePrinter&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlSaveOptions.ImageSavingCallback.html&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">ImageShapePrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IImageSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ImageShapePrinter()<sp/>:<sp/>mImageCount(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mImageCount;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ImageSaving(SharedPtr&lt;ImageSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_KeepImageStreamOpen(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_IsImageAvailable());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>args-&gt;get_Document()-&gt;get_OriginalFileName().Split(MakeArray&lt;char16_t&gt;({u</highlight><highlight class="charliteral">&apos;\\&apos;</highlight><highlight class="normal">}))-&gt;LINQ_Last()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>Image<sp/>#&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>++mImageCount</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>layoutCollector<sp/>=<sp/>MakeObject&lt;LayoutCollector&gt;(args-&gt;get_Document());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tOn<sp/>page:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>layoutCollector-&gt;GetStartPageIndex(args-&gt;get_CurrentShape())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tDimensions:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>args-&gt;get_CurrentShape()-&gt;get_Bounds()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tAlignment:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_CurrentShape()-&gt;get_VerticalAlignment())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tWrap<sp/>type:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_CurrentShape()-&gt;get_WrapType())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Output<sp/>filename:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>args-&gt;get_ImageFileName()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\n&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" line="592" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1af950ca19a2fc9b71a680f1c9aba32078" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::ImageSavingArgs::set_ImageFileName</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ImageFileName</name>
+        <qualifiedname>Aspose::Words::Saving::ImageSavingArgs::set_ImageFileName</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1aa42bf26bad1ac51f0a2a85f1acc30e56" kindref="member">Aspose::Words::Saving::ImageSavingArgs::get_ImageFileName</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" line="534" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1ac63537634fdb6dce7bfe7a7d0c34aee8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::ImageSavingArgs::set_ImageStream</definition>
+        <argsstring>(const System::SharedPtr&lt; System::IO::Stream &gt; &amp;value)</argsstring>
+        <name>set_ImageStream</name>
+        <qualifiedname>Aspose::Words::Saving::ImageSavingArgs::set_ImageStream</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1ae189e078fe5de035981adf0a4fff24cc" kindref="member">Aspose::Words::Saving::ImageSavingArgs::get_ImageStream</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" line="661" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1ac29fb6b98a43cb3c34085f98f1ead120" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename CharType</type>
+          </param>
+          <param>
+            <type>typename Traits</type>
+          </param>
+        </templateparamlist>
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::ImageSavingArgs::set_ImageStream</definition>
+        <argsstring>(std::basic_ostream&lt; CharType, Traits &gt; &amp;value)</argsstring>
+        <name>set_ImageStream</name>
+        <qualifiedname>Aspose::Words::Saving::ImageSavingArgs::set_ImageStream</qualifiedname>
+        <param>
+          <type>std::basic_ostream&lt; CharType, Traits &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" line="664" column="10" bodyfile="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" bodystart="664" bodyend="668"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1ab38207723d367357fa21a364340ed0e8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::ImageSavingArgs::set_KeepImageStreamOpen</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_KeepImageStreamOpen</name>
+        <qualifiedname>Aspose::Words::Saving::ImageSavingArgs::set_KeepImageStreamOpen</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1a7a3193e752c9c6937da36a80651cd5f6" kindref="member">Aspose::Words::Saving::ImageSavingArgs::get_KeepImageStreamOpen</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" line="595" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Provides data for the <ref refid="class_aspose_1_1_words_1_1_saving_1_1_i_image_saving_callback_1a0a22c8ec9816d50f885bf93bff8b8bab" kindref="member">ImageSaving()</ref> event. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>By default, when Aspose.Words saves a document to HTML, it saves each image into a separate file. Aspose.Words uses the document file name and a unique number to generate unique file name for each image found in the document.</para>
+<para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args" kindref="compound">ImageSavingArgs</ref> allows to redefine how image file names are generated or to completely circumvent saving of images into files by providing your own stream objects.</para>
+<para>To apply your own logic for generating image file names use the <ref refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1aa42bf26bad1ac51f0a2a85f1acc30e56" kindref="member">ImageFileName</ref>, <ref refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1a66f25eb25793ee0b0f2f82d9e40589b9" kindref="member">CurrentShape</ref> and <ref refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1ae86dbb344eea8fe2dfedef18d5eb7291" kindref="member">IsImageAvailable</ref> properties.</para>
+<para>To save images into streams instead of files, use the <ref refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1ae189e078fe5de035981adf0a4fff24cc" kindref="member">ImageStream</ref> property.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to split a document into parts and save them. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>DocumentPartsFileNames()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>outFileName<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;SavingCallback.DocumentPartsFileNames.html&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;HtmlFixedSaveOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>convert<sp/>the<sp/>document<sp/>to<sp/>HTML.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;HtmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>save<sp/>the<sp/>document<sp/>normally,<sp/>there<sp/>will<sp/>be<sp/>one<sp/>output<sp/>HTML</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>document<sp/>with<sp/>all<sp/>the<sp/>source<sp/>document&apos;s<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;DocumentSplitCriteria&quot;<sp/>property<sp/>to<sp/>&quot;DocumentSplitCriteria.SectionBreak&quot;<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>save<sp/>our<sp/>document<sp/>to<sp/>multiple<sp/>HTML<sp/>files:<sp/>one<sp/>for<sp/>each<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_DocumentSplitCriteria(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a21c39143a76e997332687767db80fc07ac6788b2b9719f26994fd409d52a778fb" kindref="member" tooltip="The document is split into parts at a section break of any type.">DocumentSplitCriteria::SectionBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Assign<sp/>a<sp/>custom<sp/>callback<sp/>to<sp/>the<sp/>&quot;DocumentPartSavingCallback&quot;<sp/>property<sp/>to<sp/>alter<sp/>the<sp/>document<sp/>part<sp/>saving<sp/>logic.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_DocumentPartSavingCallback(MakeObject&lt;ExSavingCallback::SavedDocumentPartRename&gt;(outFileName,<sp/>options-&gt;get_DocumentSplitCriteria()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>convert<sp/>a<sp/>document<sp/>that<sp/>contains<sp/>images<sp/>into<sp/>html,<sp/>we<sp/>will<sp/>end<sp/>up<sp/>with<sp/>one<sp/>html<sp/>file<sp/>which<sp/>links<sp/>to<sp/>several<sp/>images.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Each<sp/>image<sp/>will<sp/>be<sp/>in<sp/>the<sp/>form<sp/>of<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>There<sp/>is<sp/>also<sp/>a<sp/>callback<sp/>that<sp/>can<sp/>customize<sp/>the<sp/>name<sp/>and<sp/>file<sp/>system<sp/>location<sp/>of<sp/>each<sp/>image.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ImageSavingCallback(MakeObject&lt;ExSavingCallback::SavedImageRename&gt;(outFileName));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>outFileName,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">SavedDocumentPartRename<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IDocumentPartSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SavedDocumentPartRename(String<sp/>outFileName,<sp/>DocumentSplitCriteria<sp/>documentSplitCriteria)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>:<sp/>mCount(0),<sp/>mDocumentSplitCriteria(((<ref refid="namespace_aspose" kindref="compound">Aspose</ref>::<ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref>::Saving::<ref refid="namespace_aspose_1_1_words_1_1_saving_1a21c39143a76e997332687767db80fc07" kindref="member" tooltip="Specifies how the document is split into parts when saving to Html, Epub or Azw3 format.">DocumentSplitCriteria</ref>)0))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mOutFileName<sp/>=<sp/>outFileName;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocumentSplitCriteria<sp/>=<sp/>documentSplitCriteria;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mCount;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>mOutFileName;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_saving_1a21c39143a76e997332687767db80fc07" kindref="member" tooltip="Specifies how the document is split into parts when saving to Html, Epub or Azw3 format.">DocumentSplitCriteria</ref><sp/>mDocumentSplitCriteria;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>DocumentPartSaving(SharedPtr&lt;DocumentPartSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>access<sp/>the<sp/>entire<sp/>source<sp/>document<sp/>via<sp/>the<sp/>&quot;Document&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_Document()-&gt;get_OriginalFileName().EndsWith(u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>partType<sp/>=<sp/>String::Empty;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(mDocumentSplitCriteria)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::PageBreak:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Page&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::ColumnBreak:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Column&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::SectionBreak:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Section&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::HeadingParagraph:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>from<sp/>heading&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">default</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>partFileName<sp/>=<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>part<sp/>{1},<sp/>of<sp/>type<sp/>{2}{3}&quot;</highlight><highlight class="normal">,<sp/>mOutFileName,<sp/>++mCount,<sp/>partType,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.path/_1ae9e0f0c8b345ecfab2ca997411b81f97" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::GetExtension</ref>(args-&gt;get_DocumentPartFileName()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>specifying<sp/>where<sp/>Aspose.Words<sp/>will<sp/>save<sp/>each<sp/>part<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Set<sp/>a<sp/>filename<sp/>for<sp/>the<sp/>output<sp/>part<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_DocumentPartFileName(partFileName);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Create<sp/>a<sp/>custom<sp/>stream<sp/>for<sp/>the<sp/>output<sp/>part<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_DocumentPartStream(MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>partFileName,<sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_DocumentPartStream()-&gt;get_CanWrite());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(args-&gt;get_KeepDocumentPartStreamOpen());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">SavedImageRename<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IImageSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SavedImageRename(String<sp/>outFileName)<sp/>:<sp/>mCount(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mOutFileName<sp/>=<sp/>outFileName;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mCount;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>mOutFileName;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ImageSaving(SharedPtr&lt;ImageSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>imageFileName<sp/>=<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>shape<sp/>{1},<sp/>of<sp/>type<sp/>{2}{3}&quot;</highlight><highlight class="normal">,<sp/>mOutFileName,<sp/>++mCount,<sp/>args-&gt;get_CurrentShape()-&gt;get_ShapeType(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.path/_1ae9e0f0c8b345ecfab2ca997411b81f97" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::GetExtension</ref>(args-&gt;get_ImageFileName()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>specifying<sp/>where<sp/>Aspose.Words<sp/>will<sp/>save<sp/>each<sp/>part<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Set<sp/>a<sp/>filename<sp/>for<sp/>the<sp/>output<sp/>image<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ImageFileName(imageFileName);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Create<sp/>a<sp/>custom<sp/>stream<sp/>for<sp/>the<sp/>output<sp/>image<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ImageStream(MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>imageFileName,<sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_ImageStream()-&gt;get_CanWrite());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_IsImageAvailable());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(args-&gt;get_KeepImageStreamOpen());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::ImageSavingArgs</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::ImageSavingArgs</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" line="183" column="1" bodyfile="Aspose.Words.Cpp/Saving/ImageSavingArgs.h" bodystart="184" bodyend="680"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1a832abced90a82794b9e10ed30e7df7b4" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSavingArgs</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1a66f25eb25793ee0b0f2f82d9e40589b9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSavingArgs</scope><name>get_CurrentShape</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1a2db39189289e863900ce90af41ca7344" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSavingArgs</scope><name>get_Document</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1aa42bf26bad1ac51f0a2a85f1acc30e56" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSavingArgs</scope><name>get_ImageFileName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1ae189e078fe5de035981adf0a4fff24cc" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSavingArgs</scope><name>get_ImageStream</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1ae86dbb344eea8fe2dfedef18d5eb7291" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSavingArgs</scope><name>get_IsImageAvailable</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1a7a3193e752c9c6937da36a80651cd5f6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSavingArgs</scope><name>get_KeepImageStreamOpen</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1aca085d45790a4841b1979b062a2bab6c" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSavingArgs</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1a60b9cda27a1aa5854236c6a7496fef8d" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSavingArgs</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1ab24d25ad37bcfde29f82e1fc60bbe813" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSavingArgs</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1a6d646a5369ef0fbf656d5e0c7e020daf" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSavingArgs</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1a8c9a9a054c6ee29f1a2e1c986e9bd6f0" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSavingArgs</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1adb3b70226fd6a11497359a4be94f24d0" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSavingArgs</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1af950ca19a2fc9b71a680f1c9aba32078" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSavingArgs</scope><name>set_ImageFileName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1ac63537634fdb6dce7bfe7a7d0c34aee8" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSavingArgs</scope><name>set_ImageStream</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1ac29fb6b98a43cb3c34085f98f1ead120" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSavingArgs</scope><name>set_ImageStream</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1ab38207723d367357fa21a364340ed0e8" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSavingArgs</scope><name>set_KeepImageStreamOpen</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1abc5ea2da51f6e94a33003d224c3712fe" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSavingArgs</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_image_saving_args_1a95403b0965af9db24217c5d0e70a6b98" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::ImageSavingArgs</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

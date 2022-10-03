@@ -1,0 +1,673 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_layout_1_1_layout_options" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Layout::LayoutOptions</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_layout_options_8h" local="no">Aspose.Words.Cpp/Layout/LayoutOptions.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1aba6a01a1b7631d3aed97b670c27b6af7" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Layout::LayoutOptions::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="101" column="28" bodyfile="Aspose.Words.Cpp/Layout/LayoutOptions.h" bodystart="101" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a7b442614649ad33dafc367df815d3126" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options" kindref="compound">LayoutOptions</ref></type>
+        <definition>typedef LayoutOptions Aspose::Words::Layout::LayoutOptions::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="100" column="27" bodyfile="Aspose.Words.Cpp/Layout/LayoutOptions.h" bodystart="100" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a35f98b5ce77554dfde58736adc05987a" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Layout::LayoutOptions::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="103" column="37" bodyfile="Aspose.Words.Cpp/Layout/LayoutOptions.h" bodystart="103" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a9370b85149bdb792cbdadee69a2f13b3" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Layout::LayoutOptions::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="290" column="23" bodyfile="Aspose.Words.Cpp/Layout/LayoutOptions.h" bodystart="290" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a8e03a92e7a1560a286ab53ff815c67dc" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Layout::LayoutOptions::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="291" column="23" bodyfile="Aspose.Words.Cpp/Layout/LayoutOptions.h" bodystart="291" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a9a234fc0462034251e7e8e1e9b670823" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Layout::LayoutOptions::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="292" column="23" bodyfile="Aspose.Words.Cpp/Layout/LayoutOptions.h" bodystart="292" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1ae4b569a472df330b045c6d9e209e3ff8" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Layout::LayoutOptions::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="293" column="23" bodyfile="Aspose.Words.Cpp/Layout/LayoutOptions.h" bodystart="293" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a0d4f124cacf02d41d6bed316bd438118" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Layout::LayoutOptions::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="294" column="23" bodyfile="Aspose.Words.Cpp/Layout/LayoutOptions.h" bodystart="294" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a72da6142e239107ab9b63259a1876cc1" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Layout::LayoutOptions::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="295" column="23" bodyfile="Aspose.Words.Cpp/Layout/LayoutOptions.h" bodystart="295" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a12b68e003cc336b84a814608d18276c4" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Layout::LayoutOptions::mField6</definition>
+        <argsstring></argsstring>
+        <name>mField6</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::mField6</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="296" column="23" bodyfile="Aspose.Words.Cpp/Layout/LayoutOptions.h" bodystart="296" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a3e07333bb765c8bbc5078d9c2e1cb909" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Layout::LayoutOptions::mField7</definition>
+        <argsstring></argsstring>
+        <name>mField7</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::mField7</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="297" column="23" bodyfile="Aspose.Words.Cpp/Layout/LayoutOptions.h" bodystart="297" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a5021edcfbe6a55887e29e5b0c1be2e6d" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Layout::LayoutOptions::mField8</definition>
+        <argsstring></argsstring>
+        <name>mField8</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::mField8</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="298" column="23" bodyfile="Aspose.Words.Cpp/Layout/LayoutOptions.h" bodystart="298" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a1f93a5e62b1ecb0bef410935117395ee" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Layout::LayoutOptions::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="104" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1af40e25425f280c2998dc18b0c175d2e7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Layout::LayoutOptions::LayoutOptions</definition>
+        <argsstring>()</argsstring>
+        <name>LayoutOptions</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::LayoutOptions</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="284" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a9727108b9f0f676b0b84d057f631041b" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_layout_1_1_i_page_layout_callback" kindref="compound">Aspose::Words::Layout::IPageLayoutCallback</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Layout::IPageLayoutCallback &gt; Aspose::Words::Layout::LayoutOptions::get_Callback</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Callback</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::get_Callback</qualifiedname>
+        <briefdescription>
+<para>Gets <ref refid="class_aspose_1_1_words_1_1_layout_1_1_i_page_layout_callback" kindref="compound">IPageLayoutCallback</ref> implementation used by page layout model. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="238" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a108e00bb38b7747bc5a8e79f89254611" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_layout_1a0dac57256ea711f08cf088514f19acb7" kindref="member">Aspose::Words::Layout::CommentDisplayMode</ref></type>
+        <definition>Aspose::Words::Layout::CommentDisplayMode Aspose::Words::Layout::LayoutOptions::get_CommentDisplayMode</definition>
+        <argsstring>() const</argsstring>
+        <name>get_CommentDisplayMode</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::get_CommentDisplayMode</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the way comments are rendered. Default value is <ref refid="namespace_aspose_1_1_words_1_1_layout_1a0dac57256ea711f08cf088514f19acb7a1aa3a78cf1b237b68a9a06366d987f60" kindref="member">ShowInBalloons</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to show comments when saving a document to a rendered format. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>comment<sp/>=<sp/>MakeObject&lt;Comment&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;J.D.&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">comment-&gt;SetText(u</highlight><highlight class="stringliteral">&quot;My<sp/>comment.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_CurrentParagraph()-&gt;AppendChild(comment);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>ShowInAnnotations<sp/>is<sp/>only<sp/>available<sp/>in<sp/>Pdf1.7<sp/>and<sp/>Pdf1.5<sp/>formats.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>other<sp/>formats,<sp/>it<sp/>will<sp/>work<sp/>similarly<sp/>to<sp/>Hide.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_LayoutOptions()-&gt;set_CommentDisplayMode(<ref refid="namespace_aspose_1_1_words_1_1_layout_1a0dac57256ea711f08cf088514f19acb7aefd2b0a1f1cf04896c15b68b2373b731" kindref="member" tooltip="Renders document comments in annotations. This is only available for Pdf format.">CommentDisplayMode::ShowInAnnotations</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.ShowCommentsInAnnotations.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Note<sp/>that<sp/>it&apos;s<sp/>required<sp/>to<sp/>rebuild<sp/>the<sp/>document<sp/>page<sp/>layout<sp/>(via<sp/>Document.UpdatePageLayout()<sp/>method)</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>after<sp/>changing<sp/>the<sp/>Document.LayoutOptions<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_LayoutOptions()-&gt;set_CommentDisplayMode(<ref refid="namespace_aspose_1_1_words_1_1_layout_1a0dac57256ea711f08cf088514f19acb7a1aa3a78cf1b237b68a9a06366d987f60" kindref="member" tooltip="Renders document comments in balloons in the margin. This is the default value.">CommentDisplayMode::ShowInBalloons</ref>);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdatePageLayout();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.ShowCommentsInBalloons.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="209" column="50"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a60e1bac1e8c199403e75ab84b698a6ee" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_layout_1ad563fbc0b23d6e716d39df642b0effa1" kindref="member">Aspose::Words::Layout::ContinuousSectionRestart</ref></type>
+        <definition>Aspose::Words::Layout::ContinuousSectionRestart Aspose::Words::Layout::LayoutOptions::get_ContinuousSectionPageNumberingRestart</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ContinuousSectionPageNumberingRestart</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::get_ContinuousSectionPageNumberingRestart</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the mode of behavior for computing page numbers when a continuous section restarts the page numbering. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to control page numbering in a continuous section. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Continuous<sp/>section<sp/>page<sp/>numbering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>By<sp/>default<sp/>Aspose.Words<sp/>behavior<sp/>matches<sp/>the<sp/>Microsoft<sp/>Word<sp/>2019.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>you<sp/>need<sp/>old<sp/>Aspose.Words<sp/>behavior,<sp/>repetitive<sp/>Microsoft<sp/>Word<sp/>2016,<sp/>use<sp/>&apos;ContinuousSectionRestart.FromNewPageOnly&apos;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Page<sp/>numbering<sp/>restarts<sp/>only<sp/>if<sp/>there<sp/>is<sp/>no<sp/>other<sp/>content<sp/>before<sp/>the<sp/>section<sp/>on<sp/>the<sp/>page<sp/>where<sp/>the<sp/>section<sp/>starts,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>because<sp/>of<sp/>that<sp/>the<sp/>numbering<sp/>will<sp/>reset<sp/>to<sp/>2<sp/>from<sp/>the<sp/>second<sp/>page.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_LayoutOptions()-&gt;set_ContinuousSectionPageNumberingRestart(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ad563fbc0b23d6e716d39df642b0effa1aa3ee840a9da29182bc5c103dc564e3ab" kindref="member" tooltip="Page numbering restarts only if there is no other content before the section on the page where the se...">ContinuousSectionRestart::FromNewPageOnly</ref>);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdatePageLayout();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Layout.RestartPageNumberingInContinuousSection.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="279" column="56"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1ac05ecf0417eab5300de5ae1f371f64ad" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Layout::LayoutOptions::get_IgnorePrinterMetrics</definition>
+        <argsstring>() const</argsstring>
+        <name>get_IgnorePrinterMetrics</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::get_IgnorePrinterMetrics</qualifiedname>
+        <briefdescription>
+<para>Gets or sets indication of whether the &quot;Use printer metrics to lay out document&quot; compatibility option is ignored. Default is True. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to ignore &apos;Use printer metrics to lay out document&apos; option. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_LayoutOptions()-&gt;set_IgnorePrinterMetrics(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.IgnorePrinterMetrics.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="256" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1af080ec6ffc8cf2500501866abcc9c192" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_layout_1_1_revision_options" kindref="compound">Aspose::Words::Layout::RevisionOptions</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Layout::RevisionOptions &gt; Aspose::Words::Layout::LayoutOptions::get_RevisionOptions</definition>
+        <argsstring>() const</argsstring>
+        <name>get_RevisionOptions</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::get_RevisionOptions</qualifiedname>
+        <briefdescription>
+<para>Gets revision options. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to alter the appearance of revisions in a rendered output document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>revision,<sp/>then<sp/>change<sp/>the<sp/>color<sp/>of<sp/>all<sp/>revisions<sp/>to<sp/>green.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>not<sp/>a<sp/>revision.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;StartTrackRevisions(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>a<sp/>revision.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;StopTrackRevisions();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>not<sp/>a<sp/>revision.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>the<sp/>bar<sp/>that<sp/>appears<sp/>to<sp/>the<sp/>left<sp/>of<sp/>every<sp/>revised<sp/>line.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_LayoutOptions()-&gt;get_RevisionOptions()-&gt;set_InsertedTextColor(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7cab249e671af05e6d993727a3d4e65a431" kindref="member" tooltip="Represents 84a35b color.">RevisionColor::BrightGreen</ref>);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_LayoutOptions()-&gt;get_RevisionOptions()-&gt;set_ShowRevisionBars(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.LayoutOptionsRevisions.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="130" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a84518439d86438a2dfe0f4140d3db50e" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Layout::LayoutOptions::get_ShowHiddenText</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ShowHiddenText</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::get_ShowHiddenText</qualifiedname>
+        <briefdescription>
+<para>Gets or sets indication of whether hidden text in the document is rendered. Default is False. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to hide text in a rendered output document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>hidden<sp/>text,<sp/>then<sp/>specify<sp/>whether<sp/>we<sp/>wish<sp/>to<sp/>omit<sp/>it<sp/>from<sp/>a<sp/>rendered<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>is<sp/>not<sp/>hidden.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Hidden(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>is<sp/>hidden.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_LayoutOptions()-&gt;set_ShowHiddenText(showHiddenText);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.LayoutOptionsHiddenText.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="151" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1af1d6a9304691de76cb8247aa10194f35" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Layout::LayoutOptions::get_ShowParagraphMarks</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ShowParagraphMarks</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::get_ShowParagraphMarks</qualifiedname>
+        <briefdescription>
+<para>Gets or sets indication of whether paragraph marks are rendered. Default is False. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to show paragraph marks in a rendered output document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>some<sp/>paragraphs,<sp/>then<sp/>enable<sp/>paragraph<sp/>marks<sp/>to<sp/>show<sp/>the<sp/>ends<sp/>of<sp/>paragraphs</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>with<sp/>a<sp/>pilcrow<sp/>(¶)<sp/>symbol<sp/>when<sp/>we<sp/>render<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>again!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_LayoutOptions()-&gt;set_ShowParagraphMarks(showParagraphMarks);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.LayoutOptionsParagraphMarks.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="175" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1afca8084917b203a26eeeffb4b3d7cc54" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Shaping::ITextShaperFactory &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Shaping::ITextShaperFactory &gt; Aspose::Words::Layout::LayoutOptions::get_TextShaperFactory</definition>
+        <argsstring>() const</argsstring>
+        <name>get_TextShaperFactory</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::get_TextShaperFactory</qualifiedname>
+        <briefdescription>
+<para>Gets or sets <ref refid="" kindref="compound">ITextShaperFactory</ref> implementation used for Advanced Typography rendering features. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to support OpenType features using the HarfBuzz text shaping engine. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OpenType<sp/>text<sp/>shaping.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Aspose.Words<sp/>can<sp/>use<sp/>externally<sp/>provided<sp/>text<sp/>shaper<sp/>objects,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>represent<sp/>fonts<sp/>and<sp/>compute<sp/>shaping<sp/>information<sp/>for<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>text<sp/>shaper<sp/>factory<sp/>is<sp/>necessary<sp/>for<sp/>documents<sp/>that<sp/>use<sp/>multiple<sp/>fonts.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>the<sp/>text<sp/>shaper<sp/>factory<sp/>set,<sp/>the<sp/>layout<sp/>uses<sp/>OpenType<sp/>features.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>An<sp/>Instance<sp/>property<sp/>returns<sp/>a<sp/>static<sp/>BasicTextShaperCache<sp/>object<sp/>wrapping<sp/>HarfBuzzTextShaperFactory.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_LayoutOptions()-&gt;set_TextShaperFactory(Shaping::HarfBuzz::HarfBuzzTextShaperFactory::get_Instance());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Currently,<sp/>text<sp/>shaping<sp/>is<sp/>performing<sp/>when<sp/>exporting<sp/>to<sp/>PDF<sp/>or<sp/>XPS<sp/>formats.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.OpenType.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="232" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1af2503c443a3462345e9da2721b929a5e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Layout::LayoutOptions::set_Callback</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Layout::IPageLayoutCallback &gt; &amp;value)</argsstring>
+        <name>set_Callback</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::set_Callback</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_layout_1_1_i_page_layout_callback" kindref="compound">Aspose::Words::Layout::IPageLayoutCallback</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets <ref refid="class_aspose_1_1_words_1_1_layout_1_1_i_page_layout_callback" kindref="compound">IPageLayoutCallback</ref> implementation used by page layout model. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="241" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a92a27e9967ab96ff2f77a5f95eec63cc" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Layout::LayoutOptions::set_CommentDisplayMode</definition>
+        <argsstring>(Aspose::Words::Layout::CommentDisplayMode value)</argsstring>
+        <name>set_CommentDisplayMode</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::set_CommentDisplayMode</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_layout_1a0dac57256ea711f08cf088514f19acb7" kindref="member">Aspose::Words::Layout::CommentDisplayMode</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a108e00bb38b7747bc5a8e79f89254611" kindref="member">Aspose::Words::Layout::LayoutOptions::get_CommentDisplayMode</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="212" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a76e3d9f4b955dc62ec68333680a548f3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Layout::LayoutOptions::set_ContinuousSectionPageNumberingRestart</definition>
+        <argsstring>(Aspose::Words::Layout::ContinuousSectionRestart value)</argsstring>
+        <name>set_ContinuousSectionPageNumberingRestart</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::set_ContinuousSectionPageNumberingRestart</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_layout_1ad563fbc0b23d6e716d39df642b0effa1" kindref="member">Aspose::Words::Layout::ContinuousSectionRestart</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a60e1bac1e8c199403e75ab84b698a6ee" kindref="member">Aspose::Words::Layout::LayoutOptions::get_ContinuousSectionPageNumberingRestart</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="282" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a0d1ecd0487c40f9dd1f3f4b551c4518c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Layout::LayoutOptions::set_IgnorePrinterMetrics</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_IgnorePrinterMetrics</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::set_IgnorePrinterMetrics</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1ac05ecf0417eab5300de5ae1f371f64ad" kindref="member">Aspose::Words::Layout::LayoutOptions::get_IgnorePrinterMetrics</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="259" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a15a3f835a09d46e1e7661242c6a8868c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Layout::LayoutOptions::set_ShowHiddenText</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_ShowHiddenText</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::set_ShowHiddenText</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a84518439d86438a2dfe0f4140d3db50e" kindref="member">Aspose::Words::Layout::LayoutOptions::get_ShowHiddenText</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="154" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1ad91540ec5baa20bd3c1fad1395c8f8e2" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Layout::LayoutOptions::set_ShowParagraphMarks</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_ShowParagraphMarks</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::set_ShowParagraphMarks</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1af1d6a9304691de76cb8247aa10194f35" kindref="member">Aspose::Words::Layout::LayoutOptions::get_ShowParagraphMarks</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="178" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a40cb30bd3c9b6443ddf59e5eea38b54d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Layout::LayoutOptions::set_TextShaperFactory</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Shaping::ITextShaperFactory &gt; &amp;value)</argsstring>
+        <name>set_TextShaperFactory</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutOptions::set_TextShaperFactory</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Shaping::ITextShaperFactory &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1afca8084917b203a26eeeffb4b3d7cc54" kindref="member">Aspose::Words::Layout::LayoutOptions::get_TextShaperFactory</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="235" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Holds the options that allow controlling the document layout process. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>You do not create instances of this class directly. Use the <ref refid="class_aspose_1_1_words_1_1_document_1aa74679decc7e2844c5904e2068053dcd" kindref="member">LayoutOptions</ref> property to access layout options for this document.</para>
+<para>Note that after changing any of the options present in this class, <ref refid="class_aspose_1_1_words_1_1_document_1a2ae9aa4c9a98097a803676fc8153857a" kindref="member">UpdatePageLayout</ref> method should be called in order for the changed options to be applied to the layout.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to alter the appearance of revisions in a rendered output document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>revision,<sp/>then<sp/>change<sp/>the<sp/>color<sp/>of<sp/>all<sp/>revisions<sp/>to<sp/>green.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>not<sp/>a<sp/>revision.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;StartTrackRevisions(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>a<sp/>revision.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;StopTrackRevisions();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>not<sp/>a<sp/>revision.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>the<sp/>bar<sp/>that<sp/>appears<sp/>to<sp/>the<sp/>left<sp/>of<sp/>every<sp/>revised<sp/>line.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_LayoutOptions()-&gt;get_RevisionOptions()-&gt;set_InsertedTextColor(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ae9bbaf5e73b57000ad52b969c21abe7cab249e671af05e6d993727a3d4e65a431" kindref="member" tooltip="Represents 84a35b color.">RevisionColor::BrightGreen</ref>);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_LayoutOptions()-&gt;get_RevisionOptions()-&gt;set_ShowRevisionBars(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.LayoutOptionsRevisions.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to hide text in a rendered output document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>hidden<sp/>text,<sp/>then<sp/>specify<sp/>whether<sp/>we<sp/>wish<sp/>to<sp/>omit<sp/>it<sp/>from<sp/>a<sp/>rendered<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>is<sp/>not<sp/>hidden.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Hidden(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>is<sp/>hidden.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_LayoutOptions()-&gt;set_ShowHiddenText(showHiddenText);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.LayoutOptionsHiddenText.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to show paragraph marks in a rendered output document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>some<sp/>paragraphs,<sp/>then<sp/>enable<sp/>paragraph<sp/>marks<sp/>to<sp/>show<sp/>the<sp/>ends<sp/>of<sp/>paragraphs</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>with<sp/>a<sp/>pilcrow<sp/>(¶)<sp/>symbol<sp/>when<sp/>we<sp/>render<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>again!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_LayoutOptions()-&gt;set_ShowParagraphMarks(showParagraphMarks);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.LayoutOptionsParagraphMarks.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Layout::LayoutOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Layout::LayoutOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h" line="98" column="1" bodyfile="Aspose.Words.Cpp/Layout/LayoutOptions.h" bodystart="99" bodyend="300"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1aba6a01a1b7631d3aed97b670c27b6af7" prot="private" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a9727108b9f0f676b0b84d057f631041b" prot="public" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>get_Callback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a108e00bb38b7747bc5a8e79f89254611" prot="public" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>get_CommentDisplayMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a60e1bac1e8c199403e75ab84b698a6ee" prot="public" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>get_ContinuousSectionPageNumberingRestart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1ac05ecf0417eab5300de5ae1f371f64ad" prot="public" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>get_IgnorePrinterMetrics</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1af080ec6ffc8cf2500501866abcc9c192" prot="public" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>get_RevisionOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a84518439d86438a2dfe0f4140d3db50e" prot="public" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>get_ShowHiddenText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1af1d6a9304691de76cb8247aa10194f35" prot="public" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>get_ShowParagraphMarks</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1afca8084917b203a26eeeffb4b3d7cc54" prot="public" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>get_TextShaperFactory</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1af40e25425f280c2998dc18b0c175d2e7" prot="public" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>LayoutOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a9370b85149bdb792cbdadee69a2f13b3" prot="private" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a8e03a92e7a1560a286ab53ff815c67dc" prot="private" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a9a234fc0462034251e7e8e1e9b670823" prot="private" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1ae4b569a472df330b045c6d9e209e3ff8" prot="private" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a0d4f124cacf02d41d6bed316bd438118" prot="private" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a72da6142e239107ab9b63259a1876cc1" prot="private" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a12b68e003cc336b84a814608d18276c4" prot="private" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>mField6</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a3e07333bb765c8bbc5078d9c2e1cb909" prot="private" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>mField7</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a5021edcfbe6a55887e29e5b0c1be2e6d" prot="private" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>mField8</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a1f93a5e62b1ecb0bef410935117395ee" prot="private" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1af2503c443a3462345e9da2721b929a5e" prot="public" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>set_Callback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a92a27e9967ab96ff2f77a5f95eec63cc" prot="public" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>set_CommentDisplayMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a76e3d9f4b955dc62ec68333680a548f3" prot="public" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>set_ContinuousSectionPageNumberingRestart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a0d1ecd0487c40f9dd1f3f4b551c4518c" prot="public" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>set_IgnorePrinterMetrics</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a15a3f835a09d46e1e7661242c6a8868c" prot="public" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>set_ShowHiddenText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1ad91540ec5baa20bd3c1fad1395c8f8e2" prot="public" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>set_ShowParagraphMarks</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a40cb30bd3c9b6443ddf59e5eea38b54d" prot="public" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>set_TextShaperFactory</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a7b442614649ad33dafc367df815d3126" prot="private" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options_1a35f98b5ce77554dfde58736adc05987a" prot="private" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutOptions</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

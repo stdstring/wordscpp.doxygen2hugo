@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="_iml_rendering_mode_8h" kind="file" language="C++">
+    <compoundname>ImlRenderingMode.h</compoundname>
+    <includes local="no">system/object_ext.h</includes>
+    <includes local="no">system/enum.h</includes>
+    <includes refid="aspose__words__api__defs_8h" local="no">Aspose.Words.Cpp/aspose_words_api_defs.h</includes>
+    <includedby refid="_save_options_8h" local="no">Aspose.Words.Cpp/Saving/SaveOptions.h</includedby>
+    <incdepgraph>
+      <node id="1">
+        <label>Aspose.Words.Cpp/Saving/ImlRenderingMode.h</label>
+        <link refid="_iml_rendering_mode_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="4" relation="include">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose.Words.Cpp/aspose_words_api_defs.h</label>
+        <link refid="aspose__words__api__defs_8h_source"/>
+      </node>
+      <node id="3">
+        <label>system/enum.h</label>
+      </node>
+      <node id="2">
+        <label>system/object_ext.h</label>
+      </node>
+    </incdepgraph>
+    <invincdepgraph>
+      <node id="3">
+        <label>Aspose.Words.Cpp/Saving/DocSaveOptions.h</label>
+        <link refid="_doc_save_options_8h_source"/>
+      </node>
+      <node id="4">
+        <label>Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h</label>
+        <link refid="_fixed_page_save_options_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+        <childnode refid="9" relation="include">
+        </childnode>
+        <childnode refid="10" relation="include">
+        </childnode>
+        <childnode refid="11" relation="include">
+        </childnode>
+        <childnode refid="12" relation="include">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>Aspose.Words.Cpp/Saving/HtmlFixedSaveOptions.h</label>
+        <link refid="_html_fixed_save_options_8h_source"/>
+      </node>
+      <node id="13">
+        <label>Aspose.Words.Cpp/Saving/HtmlSaveOptions.h</label>
+        <link refid="_html_save_options_8h_source"/>
+      </node>
+      <node id="6">
+        <label>Aspose.Words.Cpp/Saving/ImageSaveOptions.h</label>
+        <link refid="_image_save_options_8h_source"/>
+      </node>
+      <node id="1">
+        <label>Aspose.Words.Cpp/Saving/ImlRenderingMode.h</label>
+        <link refid="_iml_rendering_mode_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+      </node>
+      <node id="18">
+        <label>Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h</label>
+        <link refid="_markdown_save_options_8h_source"/>
+      </node>
+      <node id="14">
+        <label>Aspose.Words.Cpp/Saving/OdtSaveOptions.h</label>
+        <link refid="_odt_save_options_8h_source"/>
+      </node>
+      <node id="15">
+        <label>Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h</label>
+        <link refid="_ooxml_save_options_8h_source"/>
+      </node>
+      <node id="7">
+        <label>Aspose.Words.Cpp/Saving/PclSaveOptions.h</label>
+        <link refid="_pcl_save_options_8h_source"/>
+      </node>
+      <node id="8">
+        <label>Aspose.Words.Cpp/Saving/PdfSaveOptions.h</label>
+        <link refid="_pdf_save_options_8h_source"/>
+      </node>
+      <node id="9">
+        <label>Aspose.Words.Cpp/Saving/PsSaveOptions.h</label>
+        <link refid="_ps_save_options_8h_source"/>
+      </node>
+      <node id="16">
+        <label>Aspose.Words.Cpp/Saving/RtfSaveOptions.h</label>
+        <link refid="_rtf_save_options_8h_source"/>
+      </node>
+      <node id="2">
+        <label>Aspose.Words.Cpp/Saving/SaveOptions.h</label>
+        <link refid="_save_options_8h_source"/>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="13" relation="include">
+        </childnode>
+        <childnode refid="14" relation="include">
+        </childnode>
+        <childnode refid="15" relation="include">
+        </childnode>
+        <childnode refid="16" relation="include">
+        </childnode>
+        <childnode refid="17" relation="include">
+        </childnode>
+        <childnode refid="20" relation="include">
+        </childnode>
+        <childnode refid="21" relation="include">
+        </childnode>
+      </node>
+      <node id="10">
+        <label>Aspose.Words.Cpp/Saving/SvgSaveOptions.h</label>
+        <link refid="_svg_save_options_8h_source"/>
+      </node>
+      <node id="19">
+        <label>Aspose.Words.Cpp/Saving/TxtSaveOptions.h</label>
+        <link refid="_txt_save_options_8h_source"/>
+      </node>
+      <node id="17">
+        <label>Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h</label>
+        <link refid="_txt_save_options_base_8h_source"/>
+        <childnode refid="18" relation="include">
+        </childnode>
+        <childnode refid="19" relation="include">
+        </childnode>
+      </node>
+      <node id="20">
+        <label>Aspose.Words.Cpp/Saving/WordML2003SaveOptions.h</label>
+        <link refid="_word_m_l2003_save_options_8h_source"/>
+      </node>
+      <node id="11">
+        <label>Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h</label>
+        <link refid="_xaml_fixed_save_options_8h_source"/>
+      </node>
+      <node id="21">
+        <label>Aspose.Words.Cpp/Saving/XamlFlowSaveOptions.h</label>
+        <link refid="_xaml_flow_save_options_8h_source"/>
+      </node>
+      <node id="12">
+        <label>Aspose.Words.Cpp/Saving/XpsSaveOptions.h</label>
+        <link refid="_xps_save_options_8h_source"/>
+      </node>
+    </invincdepgraph>
+    <innernamespace refid="namespace_aspose">Aspose</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words">Aspose::Words</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words_1_1_saving">Aspose::Words::Saving</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/Saving/ImlRenderingMode.h"/>
+  </compounddef>
+</doxygen>

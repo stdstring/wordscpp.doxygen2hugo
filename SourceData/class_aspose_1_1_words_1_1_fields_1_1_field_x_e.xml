@@ -1,0 +1,981 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_field_x_e" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::FieldXE</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field" prot="public" virt="non-virtual">Aspose::Words::Fields::Field</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IFieldCodeTokenInfoProvider</basecompoundref>
+    <includes refid="_field_x_e_8h" local="no">Aspose.Words.Cpp/Fields/FieldXE.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a729e200ecefbfe07fb86ea05dc862fee" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref></type>
+        <definition>typedef Aspose::Words::Fields::Field Aspose::Words::Fields::FieldXE::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldXE::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldXE.h" line="167" column="42" bodyfile="Aspose.Words.Cpp/Fields/FieldXE.h" bodystart="167" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a6f860f339f61a49407146ccb66f70e2a" prot="private" static="no">
+        <type>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</type>
+        <definition>typedef Aspose::Words::Fields::IFieldCodeTokenInfoProvider Aspose::Words::Fields::FieldXE::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Fields::FieldXE::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldXE.h" line="168" column="64" bodyfile="Aspose.Words.Cpp/Fields/FieldXE.h" bodystart="168" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a7a38b65cbd284a408da14e4e826d1b21" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e" kindref="compound">FieldXE</ref></type>
+        <definition>typedef FieldXE Aspose::Words::Fields::FieldXE::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldXE::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldXE.h" line="166" column="21" bodyfile="Aspose.Words.Cpp/Fields/FieldXE.h" bodystart="166" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1aaa0fa529a0700ea74d1b928a56a0d9dd" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Fields::FieldXE::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::FieldXE::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldXE.h" line="170" column="37" bodyfile="Aspose.Words.Cpp/Fields/FieldXE.h" bodystart="170" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a85e6504636b79976f29f3b39f094a4dd" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>Aspose::Words::Fields::FieldSwitchType</type>
+        <definition>Aspose::Words::Fields::FieldSwitchType Aspose::Words::Fields::FieldXE::GetSwitchType</definition>
+        <argsstring>(System::String) override</argsstring>
+        <name>GetSwitchType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldXE::GetSwitchType</qualifiedname>
+        <param>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldXE.h" line="679" column="44"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a79541f9135cd6e7c4508bddb0e781c3d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldXE::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::FieldXE::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldXE.h" line="171" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a0da2c5ad64a71ca47258044c87c80158" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldXE::get_EntryType</definition>
+        <argsstring>()</argsstring>
+        <name>get_EntryType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldXE::get_EntryType</qualifiedname>
+        <briefdescription>
+<para>Gets or sets an index entry type. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create an INDEX field, and then use XE fields to populate it with entries. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>INDEX<sp/>field<sp/>which<sp/>will<sp/>display<sp/>an<sp/>entry<sp/>for<sp/>each<sp/>XE<sp/>field<sp/>found<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>entry<sp/>will<sp/>display<sp/>the<sp/>XE<sp/>field&apos;s<sp/>Text<sp/>property<sp/>value<sp/>on<sp/>the<sp/>left<sp/>side</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>page<sp/>containing<sp/>the<sp/>XE<sp/>field<sp/>on<sp/>the<sp/>right.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>XE<sp/>fields<sp/>have<sp/>the<sp/>same<sp/>value<sp/>in<sp/>their<sp/>&quot;Text&quot;<sp/>property,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>INDEX<sp/>field<sp/>will<sp/>group<sp/>them<sp/>into<sp/>one<sp/>entry.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>System::DynamicCast&lt;FieldIndex&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecadf1ee46df3ca9b4fa8191d15183b6b86" kindref="member" tooltip="Specifies the INDEX field.">FieldType::FieldIndex</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Configure<sp/>the<sp/>INDEX<sp/>field<sp/>only<sp/>to<sp/>display<sp/>XE<sp/>fields<sp/>that<sp/>are<sp/>within<sp/>the<sp/>bounds</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>of<sp/>a<sp/>bookmark<sp/>named<sp/>&quot;MainBookmark&quot;,<sp/>and<sp/>whose<sp/>&quot;EntryType&quot;<sp/>properties<sp/>have<sp/>a<sp/>value<sp/>of<sp/>&quot;A&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>For<sp/>both<sp/>INDEX<sp/>and<sp/>XE<sp/>fields,<sp/>the<sp/>&quot;EntryType&quot;<sp/>property<sp/>only<sp/>uses<sp/>the<sp/>first<sp/>character<sp/>of<sp/>its<sp/>string<sp/>value.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">index-&gt;set_BookmarkName(u</highlight><highlight class="stringliteral">&quot;MainBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">index-&gt;set_EntryType(u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>INDEX<sp/><sp/>\\b<sp/>MainBookmark<sp/>\\f<sp/>A&quot;</highlight><highlight class="normal">,<sp/>index-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>On<sp/>a<sp/>new<sp/>page,<sp/>start<sp/>the<sp/>bookmark<sp/>with<sp/>a<sp/>name<sp/>that<sp/>matches<sp/>the<sp/>value</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>of<sp/>the<sp/>INDEX<sp/>field&apos;s<sp/>&quot;BookmarkName&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;MainBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>INDEX<sp/>field<sp/>will<sp/>pick<sp/>up<sp/>this<sp/>entry<sp/>because<sp/>it<sp/>is<sp/>inside<sp/>the<sp/>bookmark,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>its<sp/>entry<sp/>type<sp/>also<sp/>matches<sp/>the<sp/>INDEX<sp/>field&apos;s<sp/>entry<sp/>type.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Index<sp/>entry<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_EntryType(u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>XE<sp/><sp/>\&quot;Index<sp/>entry<sp/>1\&quot;<sp/>\\f<sp/>A&quot;</highlight><highlight class="normal">,<sp/>indexEntry-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>an<sp/>XE<sp/>field<sp/>that<sp/>will<sp/>not<sp/>appear<sp/>in<sp/>the<sp/>INDEX<sp/>because<sp/>the<sp/>entry<sp/>types<sp/>do<sp/>not<sp/>match.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Index<sp/>entry<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_EntryType(u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>End<sp/>the<sp/>bookmark<sp/>and<sp/>insert<sp/>an<sp/>XE<sp/>field<sp/>afterwards.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>It<sp/>is<sp/>of<sp/>the<sp/>same<sp/>type<sp/>as<sp/>the<sp/>INDEX<sp/>field,<sp/>but<sp/>will<sp/>not<sp/>appear</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>since<sp/>it<sp/>is<sp/>outside<sp/>the<sp/>bookmark&apos;s<sp/>boundaries.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;MainBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Index<sp/>entry<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_EntryType(u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.INDEX.XE.Filtering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldXE.h" line="428" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1aa9e6af8a3a91fff3d79fceb913a1409c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldXE::get_IsBold</definition>
+        <argsstring>()</argsstring>
+        <name>get_IsBold</name>
+        <qualifiedname>Aspose::Words::Fields::FieldXE::get_IsBold</qualifiedname>
+        <briefdescription>
+<para>Gets or sets whether to apply bold formatting to the entry&apos;s page number. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to populate an INDEX field with entries using XE fields, and also modify its appearance. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>INDEX<sp/>field<sp/>which<sp/>will<sp/>display<sp/>an<sp/>entry<sp/>for<sp/>each<sp/>XE<sp/>field<sp/>found<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>entry<sp/>will<sp/>display<sp/>the<sp/>XE<sp/>field&apos;s<sp/>Text<sp/>property<sp/>value<sp/>on<sp/>the<sp/>left<sp/>side,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>number<sp/>of<sp/>the<sp/>page<sp/>that<sp/>contains<sp/>the<sp/>XE<sp/>field<sp/>on<sp/>the<sp/>right.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>XE<sp/>fields<sp/>have<sp/>the<sp/>same<sp/>value<sp/>in<sp/>their<sp/>&quot;Text&quot;<sp/>property,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>INDEX<sp/>field<sp/>will<sp/>group<sp/>them<sp/>into<sp/>one<sp/>entry.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>System::DynamicCast&lt;FieldIndex&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecadf1ee46df3ca9b4fa8191d15183b6b86" kindref="member" tooltip="Specifies the INDEX field.">FieldType::FieldIndex</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">index-&gt;set_LanguageId(u</highlight><highlight class="stringliteral">&quot;1033&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Setting<sp/>this<sp/>property&apos;s<sp/>value<sp/>to<sp/>&quot;A&quot;<sp/>will<sp/>group<sp/>all<sp/>the<sp/>entries<sp/>by<sp/>their<sp/>first<sp/>letter,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>place<sp/>that<sp/>letter<sp/>in<sp/>uppercase<sp/>above<sp/>each<sp/>group.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">index-&gt;set_Heading(u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>table<sp/>created<sp/>by<sp/>the<sp/>INDEX<sp/>field<sp/>to<sp/>span<sp/>over<sp/>2<sp/>columns.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">index-&gt;set_NumberOfColumns(u</highlight><highlight class="stringliteral">&quot;2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>any<sp/>entries<sp/>with<sp/>starting<sp/>letters<sp/>outside<sp/>the<sp/>&quot;a-c&quot;<sp/>character<sp/>range<sp/>to<sp/>be<sp/>omitted.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">index-&gt;set_LetterRange(u</highlight><highlight class="stringliteral">&quot;a-c&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>INDEX<sp/><sp/>\\z<sp/>1033<sp/>\\h<sp/>A<sp/>\\c<sp/>2<sp/>\\p<sp/>a-c&quot;</highlight><highlight class="normal">,<sp/>index-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>next<sp/>two<sp/>XE<sp/>fields<sp/>will<sp/>show<sp/>up<sp/>under<sp/>the<sp/>&quot;A&quot;<sp/>heading,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>with<sp/>their<sp/>respective<sp/>text<sp/>stylings<sp/>also<sp/>applied<sp/>to<sp/>their<sp/>page<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Apple&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_IsItalic(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>XE<sp/><sp/>Apple<sp/>\\i&quot;</highlight><highlight class="normal">,<sp/>indexEntry-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Apricot&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_IsBold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>XE<sp/><sp/>Apricot<sp/>\\b&quot;</highlight><highlight class="normal">,<sp/>indexEntry-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Both<sp/>the<sp/>next<sp/>two<sp/>XE<sp/>fields<sp/>will<sp/>be<sp/>under<sp/>a<sp/>&quot;B&quot;<sp/>and<sp/>&quot;C&quot;<sp/>heading<sp/>in<sp/>the<sp/>INDEX<sp/>fields<sp/>table<sp/>of<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Banana&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Cherry&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>INDEX<sp/>fields<sp/>sort<sp/>all<sp/>entries<sp/>alphabetically,<sp/>so<sp/>this<sp/>entry<sp/>will<sp/>show<sp/>up<sp/>under<sp/>&quot;A&quot;<sp/>with<sp/>the<sp/>other<sp/>two.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Avocado&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>not<sp/>appear<sp/>because<sp/>it<sp/>starts<sp/>with<sp/>the<sp/>letter<sp/>&quot;D&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>is<sp/>outside<sp/>the<sp/>&quot;a-c&quot;<sp/>character<sp/>range<sp/>that<sp/>the<sp/>INDEX<sp/>field&apos;s<sp/>LetterRange<sp/>property<sp/>defines.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Durian&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.INDEX.XE.Formatting.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldXE.h" line="368" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a120a1a6a30ced2124a7b914c3afcb079" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldXE::get_IsItalic</definition>
+        <argsstring>()</argsstring>
+        <name>get_IsItalic</name>
+        <qualifiedname>Aspose::Words::Fields::FieldXE::get_IsItalic</qualifiedname>
+        <briefdescription>
+<para>Gets or sets whether to apply italic formatting to the entry&apos;s page number. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to populate an INDEX field with entries using XE fields, and also modify its appearance. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>INDEX<sp/>field<sp/>which<sp/>will<sp/>display<sp/>an<sp/>entry<sp/>for<sp/>each<sp/>XE<sp/>field<sp/>found<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>entry<sp/>will<sp/>display<sp/>the<sp/>XE<sp/>field&apos;s<sp/>Text<sp/>property<sp/>value<sp/>on<sp/>the<sp/>left<sp/>side,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>number<sp/>of<sp/>the<sp/>page<sp/>that<sp/>contains<sp/>the<sp/>XE<sp/>field<sp/>on<sp/>the<sp/>right.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>XE<sp/>fields<sp/>have<sp/>the<sp/>same<sp/>value<sp/>in<sp/>their<sp/>&quot;Text&quot;<sp/>property,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>INDEX<sp/>field<sp/>will<sp/>group<sp/>them<sp/>into<sp/>one<sp/>entry.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>System::DynamicCast&lt;FieldIndex&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecadf1ee46df3ca9b4fa8191d15183b6b86" kindref="member" tooltip="Specifies the INDEX field.">FieldType::FieldIndex</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">index-&gt;set_LanguageId(u</highlight><highlight class="stringliteral">&quot;1033&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Setting<sp/>this<sp/>property&apos;s<sp/>value<sp/>to<sp/>&quot;A&quot;<sp/>will<sp/>group<sp/>all<sp/>the<sp/>entries<sp/>by<sp/>their<sp/>first<sp/>letter,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>place<sp/>that<sp/>letter<sp/>in<sp/>uppercase<sp/>above<sp/>each<sp/>group.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">index-&gt;set_Heading(u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>table<sp/>created<sp/>by<sp/>the<sp/>INDEX<sp/>field<sp/>to<sp/>span<sp/>over<sp/>2<sp/>columns.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">index-&gt;set_NumberOfColumns(u</highlight><highlight class="stringliteral">&quot;2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>any<sp/>entries<sp/>with<sp/>starting<sp/>letters<sp/>outside<sp/>the<sp/>&quot;a-c&quot;<sp/>character<sp/>range<sp/>to<sp/>be<sp/>omitted.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">index-&gt;set_LetterRange(u</highlight><highlight class="stringliteral">&quot;a-c&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>INDEX<sp/><sp/>\\z<sp/>1033<sp/>\\h<sp/>A<sp/>\\c<sp/>2<sp/>\\p<sp/>a-c&quot;</highlight><highlight class="normal">,<sp/>index-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>next<sp/>two<sp/>XE<sp/>fields<sp/>will<sp/>show<sp/>up<sp/>under<sp/>the<sp/>&quot;A&quot;<sp/>heading,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>with<sp/>their<sp/>respective<sp/>text<sp/>stylings<sp/>also<sp/>applied<sp/>to<sp/>their<sp/>page<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Apple&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_IsItalic(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>XE<sp/><sp/>Apple<sp/>\\i&quot;</highlight><highlight class="normal">,<sp/>indexEntry-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Apricot&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_IsBold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>XE<sp/><sp/>Apricot<sp/>\\b&quot;</highlight><highlight class="normal">,<sp/>indexEntry-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Both<sp/>the<sp/>next<sp/>two<sp/>XE<sp/>fields<sp/>will<sp/>be<sp/>under<sp/>a<sp/>&quot;B&quot;<sp/>and<sp/>&quot;C&quot;<sp/>heading<sp/>in<sp/>the<sp/>INDEX<sp/>fields<sp/>table<sp/>of<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Banana&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Cherry&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>INDEX<sp/>fields<sp/>sort<sp/>all<sp/>entries<sp/>alphabetically,<sp/>so<sp/>this<sp/>entry<sp/>will<sp/>show<sp/>up<sp/>under<sp/>&quot;A&quot;<sp/>with<sp/>the<sp/>other<sp/>two.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Avocado&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>not<sp/>appear<sp/>because<sp/>it<sp/>starts<sp/>with<sp/>the<sp/>letter<sp/>&quot;D&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>is<sp/>outside<sp/>the<sp/>&quot;a-c&quot;<sp/>character<sp/>range<sp/>that<sp/>the<sp/>INDEX<sp/>field&apos;s<sp/>LetterRange<sp/>property<sp/>defines.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Durian&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.INDEX.XE.Formatting.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldXE.h" line="501" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1af140179e335caeed88a9a99a6af6d94f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldXE::get_PageNumberReplacement</definition>
+        <argsstring>()</argsstring>
+        <name>get_PageNumberReplacement</name>
+        <qualifiedname>Aspose::Words::Fields::FieldXE::get_PageNumberReplacement</qualifiedname>
+        <briefdescription>
+<para>Gets or sets text used in place of a page number. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to define cross references in an INDEX field. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>INDEX<sp/>field<sp/>which<sp/>will<sp/>display<sp/>an<sp/>entry<sp/>for<sp/>each<sp/>XE<sp/>field<sp/>found<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>entry<sp/>will<sp/>display<sp/>the<sp/>XE<sp/>field&apos;s<sp/>Text<sp/>property<sp/>value<sp/>on<sp/>the<sp/>left<sp/>side,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>number<sp/>of<sp/>the<sp/>page<sp/>that<sp/>contains<sp/>the<sp/>XE<sp/>field<sp/>on<sp/>the<sp/>right.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>INDEX<sp/>entry<sp/>will<sp/>collect<sp/>all<sp/>XE<sp/>fields<sp/>with<sp/>matching<sp/>values<sp/>in<sp/>the<sp/>&quot;Text&quot;<sp/>property</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>into<sp/>one<sp/>entry<sp/>as<sp/>opposed<sp/>to<sp/>making<sp/>an<sp/>entry<sp/>for<sp/>each<sp/>XE<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>System::DynamicCast&lt;FieldIndex&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecadf1ee46df3ca9b4fa8191d15183b6b86" kindref="member" tooltip="Specifies the INDEX field.">FieldType::FieldIndex</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>configure<sp/>an<sp/>XE<sp/>field<sp/>to<sp/>get<sp/>its<sp/>INDEX<sp/>entry<sp/>to<sp/>display<sp/>a<sp/>string<sp/>instead<sp/>of<sp/>a<sp/>page<sp/>number.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>First,<sp/>for<sp/>entries<sp/>that<sp/>substitute<sp/>a<sp/>page<sp/>number<sp/>with<sp/>a<sp/>string,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>specify<sp/>a<sp/>custom<sp/>separator<sp/>between<sp/>the<sp/>XE<sp/>field&apos;s<sp/>Text<sp/>property<sp/>value<sp/>and<sp/>the<sp/>string.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">index-&gt;set_CrossReferenceSeparator(u</highlight><highlight class="stringliteral">&quot;,<sp/>see:<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>INDEX<sp/><sp/>\\k<sp/>\&quot;,<sp/>see:<sp/>\&quot;&quot;</highlight><highlight class="normal">,<sp/>index-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>an<sp/>XE<sp/>field,<sp/>which<sp/>creates<sp/>a<sp/>regular<sp/>INDEX<sp/>entry<sp/>which<sp/>displays<sp/>this<sp/>field&apos;s<sp/>page<sp/>number,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>does<sp/>not<sp/>invoke<sp/>the<sp/>CrossReferenceSeparator<sp/>value.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>entry<sp/>for<sp/>this<sp/>XE<sp/>field<sp/>will<sp/>display<sp/>&quot;Apple,<sp/>2&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Apple&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>XE<sp/><sp/>Apple&quot;</highlight><highlight class="normal">,<sp/>indexEntry-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>another<sp/>XE<sp/>field<sp/>on<sp/>page<sp/>3<sp/>and<sp/>set<sp/>a<sp/>value<sp/>for<sp/>the<sp/>PageNumberReplacement<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>value<sp/>will<sp/>show<sp/>up<sp/>instead<sp/>of<sp/>the<sp/>number<sp/>of<sp/>the<sp/>page<sp/>that<sp/>this<sp/>field<sp/>is<sp/>on,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>INDEX<sp/>field&apos;s<sp/>CrossReferenceSeparator<sp/>value<sp/>will<sp/>appear<sp/>in<sp/>front<sp/>of<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>entry<sp/>for<sp/>this<sp/>XE<sp/>field<sp/>will<sp/>display<sp/>&quot;Banana,<sp/>see:<sp/>Tropical<sp/>fruit&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Banana&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_PageNumberReplacement(u</highlight><highlight class="stringliteral">&quot;Tropical<sp/>fruit&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>XE<sp/><sp/>Banana<sp/>\\t<sp/>\&quot;Tropical<sp/>fruit\&quot;&quot;</highlight><highlight class="normal">,<sp/>indexEntry-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.INDEX.XE.CrossReferenceSeparator.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldXE.h" line="606" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a50cebabf7d73869091fd8705b5b3e53d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldXE::get_PageRangeBookmarkName</definition>
+        <argsstring>()</argsstring>
+        <name>get_PageRangeBookmarkName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldXE::get_PageRangeBookmarkName</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the name of the bookmark that marks a range of pages that is inserted as the entry&apos;s page number. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to specify a bookmark&apos;s spanned pages as a page range for an INDEX field entry. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>INDEX<sp/>field<sp/>which<sp/>will<sp/>display<sp/>an<sp/>entry<sp/>for<sp/>each<sp/>XE<sp/>field<sp/>found<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>entry<sp/>will<sp/>display<sp/>the<sp/>XE<sp/>field&apos;s<sp/>Text<sp/>property<sp/>value<sp/>on<sp/>the<sp/>left<sp/>side,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>number<sp/>of<sp/>the<sp/>page<sp/>that<sp/>contains<sp/>the<sp/>XE<sp/>field<sp/>on<sp/>the<sp/>right.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>INDEX<sp/>entry<sp/>will<sp/>collect<sp/>all<sp/>XE<sp/>fields<sp/>with<sp/>matching<sp/>values<sp/>in<sp/>the<sp/>&quot;Text&quot;<sp/>property</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>into<sp/>one<sp/>entry<sp/>as<sp/>opposed<sp/>to<sp/>making<sp/>an<sp/>entry<sp/>for<sp/>each<sp/>XE<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>System::DynamicCast&lt;FieldIndex&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecadf1ee46df3ca9b4fa8191d15183b6b86" kindref="member" tooltip="Specifies the INDEX field.">FieldType::FieldIndex</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>For<sp/>INDEX<sp/>entries<sp/>that<sp/>display<sp/>page<sp/>ranges,<sp/>we<sp/>can<sp/>specify<sp/>a<sp/>separator<sp/>string</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>appear<sp/>between<sp/>the<sp/>number<sp/>of<sp/>the<sp/>first<sp/>page,<sp/>and<sp/>the<sp/>number<sp/>of<sp/>the<sp/>last.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">index-&gt;set_PageNumberSeparator(u</highlight><highlight class="stringliteral">&quot;,<sp/>on<sp/>page(s)<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">index-&gt;set_PageRangeSeparator(u</highlight><highlight class="stringliteral">&quot;<sp/>to<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>INDEX<sp/><sp/>\\e<sp/>\&quot;,<sp/>on<sp/>page(s)<sp/>\&quot;<sp/>\\g<sp/>\&quot;<sp/>to<sp/>\&quot;&quot;</highlight><highlight class="normal">,<sp/>index-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;My<sp/>entry&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>an<sp/>XE<sp/>field<sp/>names<sp/>a<sp/>bookmark<sp/>using<sp/>the<sp/>PageRangeBookmarkName<sp/>property,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>its<sp/>INDEX<sp/>entry<sp/>will<sp/>show<sp/>the<sp/>range<sp/>of<sp/>pages<sp/>that<sp/>the<sp/>bookmark<sp/>spans</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>instead<sp/>of<sp/>the<sp/>number<sp/>of<sp/>the<sp/>page<sp/>that<sp/>contains<sp/>the<sp/>XE<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_PageRangeBookmarkName(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>XE<sp/><sp/>\&quot;My<sp/>entry\&quot;<sp/>\\r<sp/>MyBookmark&quot;</highlight><highlight class="normal">,<sp/>indexEntry-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">,<sp/>indexEntry-&gt;get_PageRangeBookmarkName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>bookmark<sp/>that<sp/>starts<sp/>on<sp/>page<sp/>3<sp/>and<sp/>ends<sp/>on<sp/>page<sp/>5.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>INDEX<sp/>entry<sp/>for<sp/>the<sp/>XE<sp/>field<sp/>that<sp/>references<sp/>this<sp/>bookmark<sp/>will<sp/>display<sp/>this<sp/>page<sp/>range.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>our<sp/>table,<sp/>the<sp/>INDEX<sp/>entry<sp/>will<sp/>display<sp/>&quot;My<sp/>entry,<sp/>on<sp/>page(s)<sp/>3<sp/>to<sp/>5&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Start<sp/>of<sp/>MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;End<sp/>of<sp/>MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.INDEX.XE.PageRangeBookmark.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldXE.h" line="555" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1abad761f6953979aa0de441ed230c8fb7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldXE::get_Text</definition>
+        <argsstring>()</argsstring>
+        <name>get_Text</name>
+        <qualifiedname>Aspose::Words::Fields::FieldXE::get_Text</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the text of the entry. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create an INDEX field, and then use XE fields to populate it with entries. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>INDEX<sp/>field<sp/>which<sp/>will<sp/>display<sp/>an<sp/>entry<sp/>for<sp/>each<sp/>XE<sp/>field<sp/>found<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>entry<sp/>will<sp/>display<sp/>the<sp/>XE<sp/>field&apos;s<sp/>Text<sp/>property<sp/>value<sp/>on<sp/>the<sp/>left<sp/>side</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>page<sp/>containing<sp/>the<sp/>XE<sp/>field<sp/>on<sp/>the<sp/>right.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>XE<sp/>fields<sp/>have<sp/>the<sp/>same<sp/>value<sp/>in<sp/>their<sp/>&quot;Text&quot;<sp/>property,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>INDEX<sp/>field<sp/>will<sp/>group<sp/>them<sp/>into<sp/>one<sp/>entry.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>System::DynamicCast&lt;FieldIndex&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecadf1ee46df3ca9b4fa8191d15183b6b86" kindref="member" tooltip="Specifies the INDEX field.">FieldType::FieldIndex</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Configure<sp/>the<sp/>INDEX<sp/>field<sp/>only<sp/>to<sp/>display<sp/>XE<sp/>fields<sp/>that<sp/>are<sp/>within<sp/>the<sp/>bounds</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>of<sp/>a<sp/>bookmark<sp/>named<sp/>&quot;MainBookmark&quot;,<sp/>and<sp/>whose<sp/>&quot;EntryType&quot;<sp/>properties<sp/>have<sp/>a<sp/>value<sp/>of<sp/>&quot;A&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>For<sp/>both<sp/>INDEX<sp/>and<sp/>XE<sp/>fields,<sp/>the<sp/>&quot;EntryType&quot;<sp/>property<sp/>only<sp/>uses<sp/>the<sp/>first<sp/>character<sp/>of<sp/>its<sp/>string<sp/>value.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">index-&gt;set_BookmarkName(u</highlight><highlight class="stringliteral">&quot;MainBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">index-&gt;set_EntryType(u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>INDEX<sp/><sp/>\\b<sp/>MainBookmark<sp/>\\f<sp/>A&quot;</highlight><highlight class="normal">,<sp/>index-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>On<sp/>a<sp/>new<sp/>page,<sp/>start<sp/>the<sp/>bookmark<sp/>with<sp/>a<sp/>name<sp/>that<sp/>matches<sp/>the<sp/>value</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>of<sp/>the<sp/>INDEX<sp/>field&apos;s<sp/>&quot;BookmarkName&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;MainBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>INDEX<sp/>field<sp/>will<sp/>pick<sp/>up<sp/>this<sp/>entry<sp/>because<sp/>it<sp/>is<sp/>inside<sp/>the<sp/>bookmark,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>its<sp/>entry<sp/>type<sp/>also<sp/>matches<sp/>the<sp/>INDEX<sp/>field&apos;s<sp/>entry<sp/>type.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Index<sp/>entry<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_EntryType(u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>XE<sp/><sp/>\&quot;Index<sp/>entry<sp/>1\&quot;<sp/>\\f<sp/>A&quot;</highlight><highlight class="normal">,<sp/>indexEntry-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>an<sp/>XE<sp/>field<sp/>that<sp/>will<sp/>not<sp/>appear<sp/>in<sp/>the<sp/>INDEX<sp/>because<sp/>the<sp/>entry<sp/>types<sp/>do<sp/>not<sp/>match.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Index<sp/>entry<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_EntryType(u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>End<sp/>the<sp/>bookmark<sp/>and<sp/>insert<sp/>an<sp/>XE<sp/>field<sp/>afterwards.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>It<sp/>is<sp/>of<sp/>the<sp/>same<sp/>type<sp/>as<sp/>the<sp/>INDEX<sp/>field,<sp/>but<sp/>will<sp/>not<sp/>appear</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>since<sp/>it<sp/>is<sp/>outside<sp/>the<sp/>bookmark&apos;s<sp/>boundaries.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;MainBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Index<sp/>entry<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_EntryType(u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.INDEX.XE.Filtering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to populate an INDEX field with entries using XE fields, and also modify its appearance. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>INDEX<sp/>field<sp/>which<sp/>will<sp/>display<sp/>an<sp/>entry<sp/>for<sp/>each<sp/>XE<sp/>field<sp/>found<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>entry<sp/>will<sp/>display<sp/>the<sp/>XE<sp/>field&apos;s<sp/>Text<sp/>property<sp/>value<sp/>on<sp/>the<sp/>left<sp/>side,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>number<sp/>of<sp/>the<sp/>page<sp/>that<sp/>contains<sp/>the<sp/>XE<sp/>field<sp/>on<sp/>the<sp/>right.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>XE<sp/>fields<sp/>have<sp/>the<sp/>same<sp/>value<sp/>in<sp/>their<sp/>&quot;Text&quot;<sp/>property,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>INDEX<sp/>field<sp/>will<sp/>group<sp/>them<sp/>into<sp/>one<sp/>entry.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>System::DynamicCast&lt;FieldIndex&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecadf1ee46df3ca9b4fa8191d15183b6b86" kindref="member" tooltip="Specifies the INDEX field.">FieldType::FieldIndex</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">index-&gt;set_LanguageId(u</highlight><highlight class="stringliteral">&quot;1033&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Setting<sp/>this<sp/>property&apos;s<sp/>value<sp/>to<sp/>&quot;A&quot;<sp/>will<sp/>group<sp/>all<sp/>the<sp/>entries<sp/>by<sp/>their<sp/>first<sp/>letter,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>place<sp/>that<sp/>letter<sp/>in<sp/>uppercase<sp/>above<sp/>each<sp/>group.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">index-&gt;set_Heading(u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>table<sp/>created<sp/>by<sp/>the<sp/>INDEX<sp/>field<sp/>to<sp/>span<sp/>over<sp/>2<sp/>columns.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">index-&gt;set_NumberOfColumns(u</highlight><highlight class="stringliteral">&quot;2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>any<sp/>entries<sp/>with<sp/>starting<sp/>letters<sp/>outside<sp/>the<sp/>&quot;a-c&quot;<sp/>character<sp/>range<sp/>to<sp/>be<sp/>omitted.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">index-&gt;set_LetterRange(u</highlight><highlight class="stringliteral">&quot;a-c&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>INDEX<sp/><sp/>\\z<sp/>1033<sp/>\\h<sp/>A<sp/>\\c<sp/>2<sp/>\\p<sp/>a-c&quot;</highlight><highlight class="normal">,<sp/>index-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>next<sp/>two<sp/>XE<sp/>fields<sp/>will<sp/>show<sp/>up<sp/>under<sp/>the<sp/>&quot;A&quot;<sp/>heading,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>with<sp/>their<sp/>respective<sp/>text<sp/>stylings<sp/>also<sp/>applied<sp/>to<sp/>their<sp/>page<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Apple&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_IsItalic(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>XE<sp/><sp/>Apple<sp/>\\i&quot;</highlight><highlight class="normal">,<sp/>indexEntry-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Apricot&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_IsBold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>XE<sp/><sp/>Apricot<sp/>\\b&quot;</highlight><highlight class="normal">,<sp/>indexEntry-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Both<sp/>the<sp/>next<sp/>two<sp/>XE<sp/>fields<sp/>will<sp/>be<sp/>under<sp/>a<sp/>&quot;B&quot;<sp/>and<sp/>&quot;C&quot;<sp/>heading<sp/>in<sp/>the<sp/>INDEX<sp/>fields<sp/>table<sp/>of<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Banana&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Cherry&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>INDEX<sp/>fields<sp/>sort<sp/>all<sp/>entries<sp/>alphabetically,<sp/>so<sp/>this<sp/>entry<sp/>will<sp/>show<sp/>up<sp/>under<sp/>&quot;A&quot;<sp/>with<sp/>the<sp/>other<sp/>two.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Avocado&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>not<sp/>appear<sp/>because<sp/>it<sp/>starts<sp/>with<sp/>the<sp/>letter<sp/>&quot;D&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>is<sp/>outside<sp/>the<sp/>&quot;a-c&quot;<sp/>character<sp/>range<sp/>that<sp/>the<sp/>INDEX<sp/>field&apos;s<sp/>LetterRange<sp/>property<sp/>defines.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Durian&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.INDEX.XE.Formatting.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldXE.h" line="295" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1ae851e9c4b46c844fe9d1a79cefd53602" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldXE::get_Yomi</definition>
+        <argsstring>()</argsstring>
+        <name>get_Yomi</name>
+        <qualifiedname>Aspose::Words::Fields::FieldXE::get_Yomi</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the yomi (first phonetic character for sorting indexes) for the index entry. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to sort INDEX field entries phonetically. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>INDEX<sp/>field<sp/>which<sp/>will<sp/>display<sp/>an<sp/>entry<sp/>for<sp/>each<sp/>XE<sp/>field<sp/>found<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>entry<sp/>will<sp/>display<sp/>the<sp/>XE<sp/>field&apos;s<sp/>Text<sp/>property<sp/>value<sp/>on<sp/>the<sp/>left<sp/>side,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>number<sp/>of<sp/>the<sp/>page<sp/>that<sp/>contains<sp/>the<sp/>XE<sp/>field<sp/>on<sp/>the<sp/>right.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>INDEX<sp/>entry<sp/>will<sp/>collect<sp/>all<sp/>XE<sp/>fields<sp/>with<sp/>matching<sp/>values<sp/>in<sp/>the<sp/>&quot;Text&quot;<sp/>property</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>into<sp/>one<sp/>entry<sp/>as<sp/>opposed<sp/>to<sp/>making<sp/>an<sp/>entry<sp/>for<sp/>each<sp/>XE<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>System::DynamicCast&lt;FieldIndex&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecadf1ee46df3ca9b4fa8191d15183b6b86" kindref="member" tooltip="Specifies the INDEX field.">FieldType::FieldIndex</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>INDEX<sp/>table<sp/>automatically<sp/>sorts<sp/>its<sp/>entries<sp/>by<sp/>the<sp/>values<sp/>of<sp/>their<sp/>Text<sp/>properties<sp/>in<sp/>alphabetic<sp/>order.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>INDEX<sp/>table<sp/>to<sp/>sort<sp/>entries<sp/>phonetically<sp/>using<sp/>Hiragana<sp/>instead.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">index-&gt;set_UseYomi(sortEntriesUsingYomi);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(sortEntriesUsingYomi)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>INDEX<sp/><sp/>\\y&quot;</highlight><highlight class="normal">,<sp/>index-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>INDEX<sp/>&quot;</highlight><highlight class="normal">,<sp/>index-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>4<sp/>XE<sp/>fields,<sp/>which<sp/>would<sp/>show<sp/>up<sp/>as<sp/>entries<sp/>in<sp/>the<sp/>INDEX<sp/>field&apos;s<sp/>table<sp/>of<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;Text&quot;<sp/>property<sp/>may<sp/>contain<sp/>a<sp/>word&apos;s<sp/>spelling<sp/>in<sp/>Kanji,<sp/>whose<sp/>pronunciation<sp/>may<sp/>be<sp/>ambiguous,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>while<sp/>the<sp/>&quot;Yomi&quot;<sp/>version<sp/>of<sp/>the<sp/>word<sp/>will<sp/>spell<sp/>exactly<sp/>how<sp/>it<sp/>is<sp/>pronounced<sp/>using<sp/>Hiragana.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>set<sp/>our<sp/>INDEX<sp/>field<sp/>to<sp/>use<sp/>Yomi,<sp/>it<sp/>will<sp/>sort<sp/>these<sp/>entries</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>by<sp/>the<sp/>value<sp/>of<sp/>their<sp/>Yomi<sp/>properties,<sp/>instead<sp/>of<sp/>their<sp/>Text<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;愛子&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Yomi(u</highlight><highlight class="stringliteral">&quot;あ&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>XE<sp/><sp/>愛子<sp/>\\y<sp/>あ&quot;</highlight><highlight class="normal">,<sp/>indexEntry-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;明美&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Yomi(u</highlight><highlight class="stringliteral">&quot;あ&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;恵美&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Yomi(u</highlight><highlight class="stringliteral">&quot;え&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;愛美&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Yomi(u</highlight><highlight class="stringliteral">&quot;え&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.INDEX.XE.Yomi.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldXE.h" line="670" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a4177bb1dafc916350ea38dd2770b3ed4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldXE::set_EntryType</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_EntryType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldXE::set_EntryType</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a0da2c5ad64a71ca47258044c87c80158" kindref="member">Aspose::Words::Fields::FieldXE::get_EntryType</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldXE.h" line="431" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a948945ba0622fb40bd9beae07eff1617" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldXE::set_IsBold</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_IsBold</name>
+        <qualifiedname>Aspose::Words::Fields::FieldXE::set_IsBold</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1aa9e6af8a3a91fff3d79fceb913a1409c" kindref="member">Aspose::Words::Fields::FieldXE::get_IsBold</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldXE.h" line="371" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a83e006ebf6268e1346fee74eeed66381" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldXE::set_IsItalic</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_IsItalic</name>
+        <qualifiedname>Aspose::Words::Fields::FieldXE::set_IsItalic</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a120a1a6a30ced2124a7b914c3afcb079" kindref="member">Aspose::Words::Fields::FieldXE::get_IsItalic</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldXE.h" line="504" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a95756ddc0a2e6cc5b406ee6b35a476b5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldXE::set_PageNumberReplacement</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_PageNumberReplacement</name>
+        <qualifiedname>Aspose::Words::Fields::FieldXE::set_PageNumberReplacement</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1af140179e335caeed88a9a99a6af6d94f" kindref="member">Aspose::Words::Fields::FieldXE::get_PageNumberReplacement</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldXE.h" line="609" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a80b32eff865f0b6704b5c27c05d876b5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldXE::set_PageRangeBookmarkName</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_PageRangeBookmarkName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldXE::set_PageRangeBookmarkName</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a50cebabf7d73869091fd8705b5b3e53d" kindref="member">Aspose::Words::Fields::FieldXE::get_PageRangeBookmarkName</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldXE.h" line="558" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a8d7457f686ccd27f410c448532684ecd" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldXE::set_Text</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Text</name>
+        <qualifiedname>Aspose::Words::Fields::FieldXE::set_Text</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1abad761f6953979aa0de441ed230c8fb7" kindref="member">Aspose::Words::Fields::FieldXE::get_Text</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldXE.h" line="298" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a1595a6f1f963eb31ceefc9ee4c5aca14" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldXE::set_Yomi</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Yomi</name>
+        <qualifiedname>Aspose::Words::Fields::FieldXE::set_Yomi</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1ae851e9c4b46c844fe9d1a79cefd53602" kindref="member">Aspose::Words::Fields::FieldXE::get_Yomi</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldXE.h" line="673" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implements the XE field. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create an INDEX field, and then use XE fields to populate it with entries. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>INDEX<sp/>field<sp/>which<sp/>will<sp/>display<sp/>an<sp/>entry<sp/>for<sp/>each<sp/>XE<sp/>field<sp/>found<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>entry<sp/>will<sp/>display<sp/>the<sp/>XE<sp/>field&apos;s<sp/>Text<sp/>property<sp/>value<sp/>on<sp/>the<sp/>left<sp/>side</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>page<sp/>containing<sp/>the<sp/>XE<sp/>field<sp/>on<sp/>the<sp/>right.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>XE<sp/>fields<sp/>have<sp/>the<sp/>same<sp/>value<sp/>in<sp/>their<sp/>&quot;Text&quot;<sp/>property,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>INDEX<sp/>field<sp/>will<sp/>group<sp/>them<sp/>into<sp/>one<sp/>entry.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>System::DynamicCast&lt;FieldIndex&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecadf1ee46df3ca9b4fa8191d15183b6b86" kindref="member" tooltip="Specifies the INDEX field.">FieldType::FieldIndex</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Configure<sp/>the<sp/>INDEX<sp/>field<sp/>only<sp/>to<sp/>display<sp/>XE<sp/>fields<sp/>that<sp/>are<sp/>within<sp/>the<sp/>bounds</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>of<sp/>a<sp/>bookmark<sp/>named<sp/>&quot;MainBookmark&quot;,<sp/>and<sp/>whose<sp/>&quot;EntryType&quot;<sp/>properties<sp/>have<sp/>a<sp/>value<sp/>of<sp/>&quot;A&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>For<sp/>both<sp/>INDEX<sp/>and<sp/>XE<sp/>fields,<sp/>the<sp/>&quot;EntryType&quot;<sp/>property<sp/>only<sp/>uses<sp/>the<sp/>first<sp/>character<sp/>of<sp/>its<sp/>string<sp/>value.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">index-&gt;set_BookmarkName(u</highlight><highlight class="stringliteral">&quot;MainBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">index-&gt;set_EntryType(u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>INDEX<sp/><sp/>\\b<sp/>MainBookmark<sp/>\\f<sp/>A&quot;</highlight><highlight class="normal">,<sp/>index-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>On<sp/>a<sp/>new<sp/>page,<sp/>start<sp/>the<sp/>bookmark<sp/>with<sp/>a<sp/>name<sp/>that<sp/>matches<sp/>the<sp/>value</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>of<sp/>the<sp/>INDEX<sp/>field&apos;s<sp/>&quot;BookmarkName&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;MainBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>INDEX<sp/>field<sp/>will<sp/>pick<sp/>up<sp/>this<sp/>entry<sp/>because<sp/>it<sp/>is<sp/>inside<sp/>the<sp/>bookmark,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>its<sp/>entry<sp/>type<sp/>also<sp/>matches<sp/>the<sp/>INDEX<sp/>field&apos;s<sp/>entry<sp/>type.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Index<sp/>entry<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_EntryType(u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>XE<sp/><sp/>\&quot;Index<sp/>entry<sp/>1\&quot;<sp/>\\f<sp/>A&quot;</highlight><highlight class="normal">,<sp/>indexEntry-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>an<sp/>XE<sp/>field<sp/>that<sp/>will<sp/>not<sp/>appear<sp/>in<sp/>the<sp/>INDEX<sp/>because<sp/>the<sp/>entry<sp/>types<sp/>do<sp/>not<sp/>match.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Index<sp/>entry<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_EntryType(u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>End<sp/>the<sp/>bookmark<sp/>and<sp/>insert<sp/>an<sp/>XE<sp/>field<sp/>afterwards.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>It<sp/>is<sp/>of<sp/>the<sp/>same<sp/>type<sp/>as<sp/>the<sp/>INDEX<sp/>field,<sp/>but<sp/>will<sp/>not<sp/>appear</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>since<sp/>it<sp/>is<sp/>outside<sp/>the<sp/>bookmark&apos;s<sp/>boundaries.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;MainBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Index<sp/>entry<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_EntryType(u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.INDEX.XE.Filtering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to populate an INDEX field with entries using XE fields, and also modify its appearance. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>INDEX<sp/>field<sp/>which<sp/>will<sp/>display<sp/>an<sp/>entry<sp/>for<sp/>each<sp/>XE<sp/>field<sp/>found<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>entry<sp/>will<sp/>display<sp/>the<sp/>XE<sp/>field&apos;s<sp/>Text<sp/>property<sp/>value<sp/>on<sp/>the<sp/>left<sp/>side,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>number<sp/>of<sp/>the<sp/>page<sp/>that<sp/>contains<sp/>the<sp/>XE<sp/>field<sp/>on<sp/>the<sp/>right.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>XE<sp/>fields<sp/>have<sp/>the<sp/>same<sp/>value<sp/>in<sp/>their<sp/>&quot;Text&quot;<sp/>property,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>INDEX<sp/>field<sp/>will<sp/>group<sp/>them<sp/>into<sp/>one<sp/>entry.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>System::DynamicCast&lt;FieldIndex&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecadf1ee46df3ca9b4fa8191d15183b6b86" kindref="member" tooltip="Specifies the INDEX field.">FieldType::FieldIndex</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">index-&gt;set_LanguageId(u</highlight><highlight class="stringliteral">&quot;1033&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Setting<sp/>this<sp/>property&apos;s<sp/>value<sp/>to<sp/>&quot;A&quot;<sp/>will<sp/>group<sp/>all<sp/>the<sp/>entries<sp/>by<sp/>their<sp/>first<sp/>letter,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>place<sp/>that<sp/>letter<sp/>in<sp/>uppercase<sp/>above<sp/>each<sp/>group.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">index-&gt;set_Heading(u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>table<sp/>created<sp/>by<sp/>the<sp/>INDEX<sp/>field<sp/>to<sp/>span<sp/>over<sp/>2<sp/>columns.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">index-&gt;set_NumberOfColumns(u</highlight><highlight class="stringliteral">&quot;2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>any<sp/>entries<sp/>with<sp/>starting<sp/>letters<sp/>outside<sp/>the<sp/>&quot;a-c&quot;<sp/>character<sp/>range<sp/>to<sp/>be<sp/>omitted.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">index-&gt;set_LetterRange(u</highlight><highlight class="stringliteral">&quot;a-c&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>INDEX<sp/><sp/>\\z<sp/>1033<sp/>\\h<sp/>A<sp/>\\c<sp/>2<sp/>\\p<sp/>a-c&quot;</highlight><highlight class="normal">,<sp/>index-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>next<sp/>two<sp/>XE<sp/>fields<sp/>will<sp/>show<sp/>up<sp/>under<sp/>the<sp/>&quot;A&quot;<sp/>heading,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>with<sp/>their<sp/>respective<sp/>text<sp/>stylings<sp/>also<sp/>applied<sp/>to<sp/>their<sp/>page<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Apple&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_IsItalic(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>XE<sp/><sp/>Apple<sp/>\\i&quot;</highlight><highlight class="normal">,<sp/>indexEntry-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Apricot&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_IsBold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>XE<sp/><sp/>Apricot<sp/>\\b&quot;</highlight><highlight class="normal">,<sp/>indexEntry-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Both<sp/>the<sp/>next<sp/>two<sp/>XE<sp/>fields<sp/>will<sp/>be<sp/>under<sp/>a<sp/>&quot;B&quot;<sp/>and<sp/>&quot;C&quot;<sp/>heading<sp/>in<sp/>the<sp/>INDEX<sp/>fields<sp/>table<sp/>of<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Banana&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Cherry&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>INDEX<sp/>fields<sp/>sort<sp/>all<sp/>entries<sp/>alphabetically,<sp/>so<sp/>this<sp/>entry<sp/>will<sp/>show<sp/>up<sp/>under<sp/>&quot;A&quot;<sp/>with<sp/>the<sp/>other<sp/>two.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Avocado&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>not<sp/>appear<sp/>because<sp/>it<sp/>starts<sp/>with<sp/>the<sp/>letter<sp/>&quot;D&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>is<sp/>outside<sp/>the<sp/>&quot;a-c&quot;<sp/>character<sp/>range<sp/>that<sp/>the<sp/>INDEX<sp/>field&apos;s<sp/>LetterRange<sp/>property<sp/>defines.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">indexEntry<sp/>=<sp/>System::DynamicCast&lt;FieldXE&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" kindref="member" tooltip="Specifies the XE field.">FieldType::FieldIndexEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">indexEntry-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Durian&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.INDEX.XE.Formatting.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldXE</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldXE</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/FieldXE.h" line="164" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldXE.h" bodystart="165" bodyend="681"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a729e200ecefbfe07fb86ea05dc862fee" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a6f860f339f61a49407146ccb66f70e2a" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a5c2d01019c517ea8098f296903e37a34" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>get_DisplayResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad5f0995c85cce833806e847cf25809b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a0da2c5ad64a71ca47258044c87c80158" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>get_EntryType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a399c14463916724cac0015b430175589" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>get_FieldEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abc40cddc1325f7fec80d8530e5287448" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>get_FieldStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a090c5d09915e2ead6cc54fda736dd7c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>get_Format</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1aa9e6af8a3a91fff3d79fceb913a1409c" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>get_IsBold</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ae68851d4a88a1fc867d3ddee2e4e88c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>get_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a120a1a6a30ced2124a7b914c3afcb079" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>get_IsItalic</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afda4c46db80761545c89e21aae5b717d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>get_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a93719d071099487b6aea1eaa241dd6e8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>get_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1af140179e335caeed88a9a99a6af6d94f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>get_PageNumberReplacement</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a50cebabf7d73869091fd8705b5b3e53d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>get_PageRangeBookmarkName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a012c93472901dc077815970a9b2ab650" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>get_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abbc83ad66d5fb391a21980126ea96847" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>get_Separator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afa7cd5d4cf1a87b05058982f26786456" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1abad761f6953979aa0de441ed230c8fb7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>get_Text</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad68196653db5cfca30c1ba18ed44c76e" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1ae851e9c4b46c844fe9d1a79cefd53602" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>get_Yomi</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa40bc0e4a5be11f0df785cc8bb2ff042" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a85e6504636b79976f29f3b39f094a4dd" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>GetSwitchType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad26a8021af3dbdc5bf0a1360a201222f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a79541f9135cd6e7c4508bddb0e781c3d" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a4177bb1dafc916350ea38dd2770b3ed4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>set_EntryType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a948945ba0622fb40bd9beae07eff1617" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>set_IsBold</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa637d825865724665fb8ed856e664d95" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>set_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a83e006ebf6268e1346fee74eeed66381" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>set_IsItalic</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ac70b125adbe7f0ba5b889280cd282c47" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>set_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a165f748dd5ba33844f1d765f6c710f88" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>set_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a95756ddc0a2e6cc5b406ee6b35a476b5" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>set_PageNumberReplacement</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a80b32eff865f0b6704b5c27c05d876b5" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>set_PageRangeBookmarkName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa6af1e900c84ae806f071098dfe8f087" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>set_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a8d7457f686ccd27f410c448532684ecd" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>set_Text</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a1595a6f1f963eb31ceefc9ee4c5aca14" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>set_Yomi</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1a7a38b65cbd284a408da14e4e826d1b21" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e_1aaa0fa529a0700ea74d1b928a56a0d9dd" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab9f908becb16b26bed76d58dbcee9929" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>Unlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aaec82418b2b6493aa2827b8e282b2e82" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a1298d7daa07c863bf97cb3f37a4d7a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldXE</scope><name>Update</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

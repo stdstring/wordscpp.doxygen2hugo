@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="namespace_aspose_1_1_words_1_1_drawing_1_1_core" kind="namespace" language="C++">
+    <compoundname>Aspose::Words::Drawing::Core</compoundname>
+    <briefdescription>
+<para>The <bold>Aspose.Words.Drawing</bold> namespace contains classes that allow to create and modify drawing objects in Microsoft Word documents. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>Aspose.Words supports all drawing objects in Microsoft Word documents, including OfficeArt shapes, textboxes, pictures, diagrams, OLE objects and ActiveX controls.</para>
+<para>The main classes in this namespace are:</para>
+<para><itemizedlist>
+<listitem><para><ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape" kindref="compound">Shape</ref> represents an object in the drawing layer, such as an AutoShape, textbox, freeform, OLE object, ActiveX control, or picture.</para>
+</listitem><listitem><para><ref refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape" kindref="compound">GroupShape</ref> represents a group of shapes in a document.</para>
+</listitem><listitem><para><ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base" kindref="compound">ShapeBase</ref> is the base class for the shape and group shape classes, provides all common shape properties such as position, size and text wrapping. A shape is a node in the document tree.</para>
+</listitem></itemizedlist>
+</para>
+<para>Although not every type of drawing object can be programmatically created and not every shape property can be accessed, all drawing objects are fully preserved in Microsoft Word documents during document open-save operations.</para>
+<para>Names of classes, methods and properties in this namespace correspond to VML DOM where possible. </para>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/Drawing/Charts/AxisDisplayUnit.h" line="58" column="1"/>
+  </compounddef>
+</doxygen>

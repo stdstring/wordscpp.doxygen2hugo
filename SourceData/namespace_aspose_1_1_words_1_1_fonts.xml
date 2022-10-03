@@ -1,0 +1,396 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="namespace_aspose_1_1_words_1_1_fonts" kind="namespace" language="C++">
+    <compoundname>Aspose::Words::Fonts</compoundname>
+    <innerclass refid="class_aspose_1_1_words_1_1_fonts_1_1_default_font_substitution_rule" prot="public">Aspose::Words::Fonts::DefaultFontSubstitutionRule</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fonts_1_1_file_font_source" prot="public">Aspose::Words::Fonts::FileFontSource</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source" prot="public">Aspose::Words::Fonts::FolderFontSource</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fonts_1_1_font_config_substitution_rule" prot="public">Aspose::Words::Fonts::FontConfigSubstitutionRule</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings" prot="public">Aspose::Words::Fonts::FontFallbackSettings</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info" prot="public">Aspose::Words::Fonts::FontInfo</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection" prot="public">Aspose::Words::Fonts::FontInfoCollection</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_substitution_rule" prot="public">Aspose::Words::Fonts::FontInfoSubstitutionRule</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fonts_1_1_font_name_substitution_rule" prot="public">Aspose::Words::Fonts::FontNameSubstitutionRule</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings" prot="public">Aspose::Words::Fonts::FontSettings</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base" prot="public">Aspose::Words::Fonts::FontSourceBase</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fonts_1_1_font_substitution_rule" prot="public">Aspose::Words::Fonts::FontSubstitutionRule</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fonts_1_1_font_substitution_settings" prot="public">Aspose::Words::Fonts::FontSubstitutionSettings</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source" prot="public">Aspose::Words::Fonts::MemoryFontSource</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fonts_1_1_physical_font_info" prot="public">Aspose::Words::Fonts::PhysicalFontInfo</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source" prot="public">Aspose::Words::Fonts::StreamFontSource</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fonts_1_1_system_font_source" prot="public">Aspose::Words::Fonts::SystemFontSource</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule" prot="public">Aspose::Words::Fonts::TableSubstitutionRule</innerclass>
+      <sectiondef kind="enum">
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_fonts_1aa8323c947fe5f32c318d27d39ab91f51" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>EmbeddedFontFormat</name>
+        <qualifiedname>Aspose::Words::Fonts::EmbeddedFontFormat</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fonts_1aa8323c947fe5f32c318d27d39ab91f51a6f172d13875bbc14d80601bb10c35427" prot="public">
+          <name>EmbeddedOpenType</name>
+          <briefdescription>
+<para>Specifies Embedded OpenType (EOT) File Format. This format of embedded fonts used in DOC files. </para>
+          </briefdescription>
+          <detaileddescription>
+<para>See <ulink url="http://www.w3.org/Submission/EOT">http://www.w3.org/Submission/EOT</ulink> for description of the format. </para>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fonts_1aa8323c947fe5f32c318d27d39ab91f51a91cdc78c52608d9ae56e8ed641636b99" prot="public">
+          <name>OpenType</name>
+          <briefdescription>
+<para>Specifies font, embedded as plain copy of OpenType (TrueType) font file. This format of embedded fonts used in Open Office XML format, including DOCX files. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies format of particular embedded font inside <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info" kindref="compound">FontInfo</ref> object. When saving a document to a file, only embedded fonts of corresponding format are written down. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to extract an embedded font from a document, and save it to the local file system. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Embedded<sp/>font.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FontInfo&gt;<sp/>embeddedFont<sp/>=<sp/>doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;uint8_t&gt;<sp/>embeddedFontBytes<sp/>=<sp/>embeddedFont-&gt;GetEmbeddedFont(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1aa8323c947fe5f32c318d27d39ab91f51a91cdc78c52608d9ae56e8ed641636b99" kindref="member" tooltip="Specifies font, embedded as plain copy of OpenType (TrueType) font file. This format of embedded font...">EmbeddedFontFormat::OpenType</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.i_o.file/_1a2bff5b0fbdb0ef68ad612a665efeac56" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::WriteAllBytes</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.ttf&quot;</highlight><highlight class="normal">,<sp/>embeddedFontBytes);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Embedded<sp/>font<sp/>formats<sp/>may<sp/>be<sp/>different<sp/>in<sp/>other<sp/>formats<sp/>such<sp/>as<sp/>.doc.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>need<sp/>to<sp/>know<sp/>the<sp/>correct<sp/>format<sp/>before<sp/>we<sp/>can<sp/>extract<sp/>the<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Embedded<sp/>font.doc&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">)-&gt;GetEmbeddedFont(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1aa8323c947fe5f32c318d27d39ab91f51a91cdc78c52608d9ae56e8ed641636b99" kindref="member" tooltip="Specifies font, embedded as plain copy of OpenType (TrueType) font file. This format of embedded font...">EmbeddedFontFormat::OpenType</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>)<sp/>==</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">)-&gt;GetEmbeddedFont(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1aa8323c947fe5f32c318d27d39ab91f51a6f172d13875bbc14d80601bb10c35427" kindref="member" tooltip="Specifies Embedded OpenType (EOT) File Format. This format of embedded fonts used in DOC files.">EmbeddedFontFormat::EmbeddedOpenType</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>)<sp/>==</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Also,<sp/>we<sp/>can<sp/>convert<sp/>embedded<sp/>OpenType<sp/>format,<sp/>which<sp/>comes<sp/>from<sp/>.doc<sp/>documents,<sp/>to<sp/>OpenType.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">embeddedFontBytes<sp/>=<sp/>doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">)-&gt;GetEmbeddedFontAsOpenType(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.i_o.file/_1a2bff5b0fbdb0ef68ad612a665efeac56" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::WriteAllBytes</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.otf&quot;</highlight><highlight class="normal">,<sp/>embeddedFontBytes);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/EmbeddedFontFormat.h" line="51" column="1" bodyfile="Aspose.Words.Cpp/Fonts/EmbeddedFontFormat.h" bodystart="52" bodyend="63"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>EmbeddedFontStyle</name>
+        <qualifiedname>Aspose::Words::Fonts::EmbeddedFontStyle</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" prot="public">
+          <name>Regular</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+<para>Specifies the Regular embedded font. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56a114c3050111d8b8ddd830b99ccebd246" prot="public">
+          <name>Bold</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+<para>Specifies the Bold embedded font. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56a1d874710ccdcd46b95397049d2e7500c" prot="public">
+          <name>Italic</name>
+          <initializer>= 2</initializer>
+          <briefdescription>
+<para>Specifies the Italic embedded font. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56a1e8fb6e2ee37a07189ff20a09cb4d6d5" prot="public">
+          <name>BoldItalic</name>
+          <initializer>= 3</initializer>
+          <briefdescription>
+<para>Specifies the Bold-Italic embedded font. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies the style of an embedded font inside a <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info" kindref="compound">FontInfo</ref> object. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to extract an embedded font from a document, and save it to the local file system. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Embedded<sp/>font.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FontInfo&gt;<sp/>embeddedFont<sp/>=<sp/>doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;uint8_t&gt;<sp/>embeddedFontBytes<sp/>=<sp/>embeddedFont-&gt;GetEmbeddedFont(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1aa8323c947fe5f32c318d27d39ab91f51a91cdc78c52608d9ae56e8ed641636b99" kindref="member" tooltip="Specifies font, embedded as plain copy of OpenType (TrueType) font file. This format of embedded font...">EmbeddedFontFormat::OpenType</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.i_o.file/_1a2bff5b0fbdb0ef68ad612a665efeac56" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::WriteAllBytes</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.ttf&quot;</highlight><highlight class="normal">,<sp/>embeddedFontBytes);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Embedded<sp/>font<sp/>formats<sp/>may<sp/>be<sp/>different<sp/>in<sp/>other<sp/>formats<sp/>such<sp/>as<sp/>.doc.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>need<sp/>to<sp/>know<sp/>the<sp/>correct<sp/>format<sp/>before<sp/>we<sp/>can<sp/>extract<sp/>the<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Embedded<sp/>font.doc&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">)-&gt;GetEmbeddedFont(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1aa8323c947fe5f32c318d27d39ab91f51a91cdc78c52608d9ae56e8ed641636b99" kindref="member" tooltip="Specifies font, embedded as plain copy of OpenType (TrueType) font file. This format of embedded font...">EmbeddedFontFormat::OpenType</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>)<sp/>==</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">)-&gt;GetEmbeddedFont(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1aa8323c947fe5f32c318d27d39ab91f51a6f172d13875bbc14d80601bb10c35427" kindref="member" tooltip="Specifies Embedded OpenType (EOT) File Format. This format of embedded fonts used in DOC files.">EmbeddedFontFormat::EmbeddedOpenType</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>)<sp/>==</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Also,<sp/>we<sp/>can<sp/>convert<sp/>embedded<sp/>OpenType<sp/>format,<sp/>which<sp/>comes<sp/>from<sp/>.doc<sp/>documents,<sp/>to<sp/>OpenType.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">embeddedFontBytes<sp/>=<sp/>doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">)-&gt;GetEmbeddedFontAsOpenType(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.i_o.file/_1a2bff5b0fbdb0ef68ad612a665efeac56" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::WriteAllBytes</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.otf&quot;</highlight><highlight class="normal">,<sp/>embeddedFontBytes);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/EmbeddedFontStyle.h" line="51" column="1" bodyfile="Aspose.Words.Cpp/Fonts/EmbeddedFontStyle.h" bodystart="52" bodyend="65"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_fonts_1a064128cb16d49c80521c43bd2ddea22b" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>FontFamily</name>
+        <qualifiedname>Aspose::Words::Fonts::FontFamily</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fonts_1a064128cb16d49c80521c43bd2ddea22ba06b9281e396db002010bde1de57262eb" prot="public">
+          <name>Auto</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+<para>Specifies a generic family name. This name is used when information about a font does not exist or does not matter. The default font is used. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fonts_1a064128cb16d49c80521c43bd2ddea22bab5df36ac79aa6391ffb432b9e5ad7880" prot="public">
+          <name>Roman</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+<para>Specifies a proportional font with serifs. An example is Times New Roman. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fonts_1a064128cb16d49c80521c43bd2ddea22ba020f758800fd8d186106ca324c700794" prot="public">
+          <name>Swiss</name>
+          <initializer>= 2</initializer>
+          <briefdescription>
+<para>Specifies a proportional font without serifs. An example is Arial. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fonts_1a064128cb16d49c80521c43bd2ddea22baad1c9cd3e7b07e2c364c985f73188054" prot="public">
+          <name>Modern</name>
+          <initializer>= 3</initializer>
+          <briefdescription>
+<para>Specifies a monospace font with or without serifs. Monospace fonts are usually modern; examples include Pica, Elite, and Courier New. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fonts_1a064128cb16d49c80521c43bd2ddea22baf907e651164789346ae0a1e257c462d8" prot="public">
+          <name>Script</name>
+          <initializer>= 4</initializer>
+          <briefdescription>
+<para>Specifies a font that is designed to look like handwriting; examples include Script and Cursive. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fonts_1a064128cb16d49c80521c43bd2ddea22bac830fbfb2e5085792d8abe7553533b1e" prot="public">
+          <name>Decorative</name>
+          <initializer>= 5</initializer>
+          <briefdescription>
+<para>Specifies a novelty font. An example is Old English. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Represents the font family. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>A font family is a set of fonts having common stroke width and serif characteristics.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access and print details of each font in a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;FontInfo&gt;&gt;&gt;<sp/>fontCollectionEnumerator<sp/>=<sp/>doc-&gt;get_FontInfos()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(fontCollectionEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FontInfo&gt;<sp/>fontInfo<sp/>=<sp/>fontCollectionEnumerator-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(fontInfo<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;Font<sp/>name:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Name())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Alt<sp/>names<sp/>are<sp/>usually<sp/>blank.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;Alt<sp/>name:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_AltName())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Family:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(fontInfo-&gt;get_Family()))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>(fontInfo-&gt;get_IsTrueType()<sp/>?<sp/>String(u</highlight><highlight class="stringliteral">&quot;Is<sp/>TrueType&quot;</highlight><highlight class="normal">)<sp/>:<sp/>String(u</highlight><highlight class="stringliteral">&quot;Is<sp/>not<sp/>TrueType&quot;</highlight><highlight class="normal">)))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Pitch:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(fontInfo-&gt;get_Pitch()))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Charset:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Charset())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t-<sp/>Panose:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t\tFamily<sp/>Kind:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[0])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t\tSerif<sp/>Style:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[1])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t\tWeight:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[2])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t\tProportion:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[3])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t\tContrast:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[4])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t\tStroke<sp/>Variation:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[5])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t\tArm<sp/>Style:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[6])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t\tLetterform:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[7])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t\tMidline:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[8])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t\tX-Height:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[9])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontFamily.h" line="60" column="1" bodyfile="Aspose.Words.Cpp/Fonts/FontFamily.h" bodystart="61" bodyend="82"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_fonts_1ae8efc61e3f935f55d860aed0546a2ec1" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>FontPitch</name>
+        <qualifiedname>Aspose::Words::Fonts::FontPitch</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fonts_1ae8efc61e3f935f55d860aed0546a2ec1a7a1920d61156abc05a60135aefe8bc67" prot="public">
+          <name>Default</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+<para>Specifies that no information is available about the pitch of a font. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fonts_1ae8efc61e3f935f55d860aed0546a2ec1a4457d440870ad6d42bab9082d9bf9b61" prot="public">
+          <name>Fixed</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+<para>Specifies that this is a fixed width font. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fonts_1ae8efc61e3f935f55d860aed0546a2ec1a47c14840d8e15331fa420b9b2f757cd9" prot="public">
+          <name>Variable</name>
+          <initializer>= 2</initializer>
+          <briefdescription>
+<para>Specifies that this is a proportional width font. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Represents the font pitch. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access and print details of each font in a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;FontInfo&gt;&gt;&gt;<sp/>fontCollectionEnumerator<sp/>=<sp/>doc-&gt;get_FontInfos()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(fontCollectionEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FontInfo&gt;<sp/>fontInfo<sp/>=<sp/>fontCollectionEnumerator-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(fontInfo<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;Font<sp/>name:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Name())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Alt<sp/>names<sp/>are<sp/>usually<sp/>blank.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;Alt<sp/>name:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_AltName())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Family:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(fontInfo-&gt;get_Family()))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>(fontInfo-&gt;get_IsTrueType()<sp/>?<sp/>String(u</highlight><highlight class="stringliteral">&quot;Is<sp/>TrueType&quot;</highlight><highlight class="normal">)<sp/>:<sp/>String(u</highlight><highlight class="stringliteral">&quot;Is<sp/>not<sp/>TrueType&quot;</highlight><highlight class="normal">)))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Pitch:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(fontInfo-&gt;get_Pitch()))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Charset:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Charset())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t-<sp/>Panose:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t\tFamily<sp/>Kind:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[0])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t\tSerif<sp/>Style:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[1])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t\tWeight:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[2])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t\tProportion:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[3])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t\tContrast:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[4])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t\tStroke<sp/>Variation:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[5])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t\tArm<sp/>Style:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[6])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t\tLetterform:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[7])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t\tMidline:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[8])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String(u</highlight><highlight class="stringliteral">&quot;\t\tX-Height:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[9])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontPitch.h" line="58" column="1" bodyfile="Aspose.Words.Cpp/Fonts/FontPitch.h" bodystart="59" bodyend="69"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>FontSourceType</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSourceType</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1af65db13b97485d8149963de13bf8866f" prot="public">
+          <name>FontFile</name>
+          <briefdescription>
+<para>A <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_file_font_source" kindref="compound">FileFontSource</ref> object that represents single font file. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1a051c80aa5ee51bddb25684fd9953dd15" prot="public">
+          <name>FontsFolder</name>
+          <briefdescription>
+<para>A <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source" kindref="compound">FolderFontSource</ref> object that represents folder with font files. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1a38db0c6a58731cdfb767ad291e039d70" prot="public">
+          <name>MemoryFont</name>
+          <briefdescription>
+<para>A <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source" kindref="compound">MemoryFontSource</ref> object that represents single font in memory. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1a7e137df3895b9c46e2757cf73237c983" prot="public">
+          <name>SystemFonts</name>
+          <briefdescription>
+<para>A <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_system_font_source" kindref="compound">SystemFontSource</ref> object that represents all fonts installed to the system. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1ad6b35972781aa89342fe7b51982ed8de" prot="public">
+          <name>FontStream</name>
+          <briefdescription>
+<para>A <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source" kindref="compound">StreamFontSource</ref> object that represents a stream with font data. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies the type of a font source. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use a font file in the local file system as a font source. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fileFontSource<sp/>=<sp/>MakeObject&lt;FileFontSource&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.ttf&quot;</highlight><highlight class="normal">,<sp/>0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(MakeObject&lt;FontSettings&gt;());</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({fileFontSource}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.ttf&quot;</highlight><highlight class="normal">,<sp/>fileFontSource-&gt;get_FilePath());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1af65db13b97485d8149963de13bf8866f" kindref="member" tooltip="A FileFontSource object that represents single font file.">FontSourceType::FontFile</ref>,<sp/>fileFontSource-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>fileFontSource-&gt;get_Priority());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSourceType.h" line="38" column="1" bodyfile="Aspose.Words.Cpp/Fonts/FontSourceType.h" bodystart="39" bodyend="55"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>The <bold>Aspose.Words.Fonts</bold> namespace provides classes and enumerations to access information about fonts used in a document. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/BuildingBlocks/GlossaryDocument.h" line="29" column="1"/>
+  </compounddef>
+</doxygen>

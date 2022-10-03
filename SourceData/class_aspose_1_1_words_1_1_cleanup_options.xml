@@ -1,0 +1,535 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_cleanup_options" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::CleanupOptions</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_cleanup_options_8h" local="no">Aspose.Words.Cpp/CleanupOptions.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_cleanup_options_1a08136e887e3ff2895fcbc2a9e9b6bc0b" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::CleanupOptions::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::CleanupOptions::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CleanupOptions.h" line="68" column="28" bodyfile="Aspose.Words.Cpp/CleanupOptions.h" bodystart="68" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_cleanup_options_1a071d935020b966e4798e7bcc51b85ab1" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_cleanup_options" kindref="compound">CleanupOptions</ref></type>
+        <definition>typedef CleanupOptions Aspose::Words::CleanupOptions::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::CleanupOptions::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CleanupOptions.h" line="67" column="28" bodyfile="Aspose.Words.Cpp/CleanupOptions.h" bodystart="67" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_cleanup_options_1a59abedbe16fca402dab629173fb917f1" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::CleanupOptions::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::CleanupOptions::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CleanupOptions.h" line="70" column="37" bodyfile="Aspose.Words.Cpp/CleanupOptions.h" bodystart="70" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_cleanup_options_1aa7564d382a3421daeecec8433e3c05de" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::CleanupOptions::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::CleanupOptions::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CleanupOptions.h" line="286" column="23" bodyfile="Aspose.Words.Cpp/CleanupOptions.h" bodystart="286" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_cleanup_options_1a58c497fbf25d2e33585a3acbded3060f" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::CleanupOptions::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::CleanupOptions::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CleanupOptions.h" line="287" column="23" bodyfile="Aspose.Words.Cpp/CleanupOptions.h" bodystart="287" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_cleanup_options_1a8cc955a699b80378ded5776c6ff6d345" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::CleanupOptions::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::CleanupOptions::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CleanupOptions.h" line="288" column="23" bodyfile="Aspose.Words.Cpp/CleanupOptions.h" bodystart="288" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_cleanup_options_1a576a5a6045ca515562f6283e3a4af8c3" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::CleanupOptions::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::CleanupOptions::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CleanupOptions.h" line="289" column="23" bodyfile="Aspose.Words.Cpp/CleanupOptions.h" bodystart="289" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_cleanup_options_1a1ec548c2917e341f937db4eb258f0024" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::CleanupOptions::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::CleanupOptions::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CleanupOptions.h" line="71" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_cleanup_options_1ab96649a594d6a9c70fae07ee640298d6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::CleanupOptions::CleanupOptions</definition>
+        <argsstring>()</argsstring>
+        <name>CleanupOptions</name>
+        <qualifiedname>Aspose::Words::CleanupOptions::CleanupOptions</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CleanupOptions.h" line="282" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_cleanup_options_1a2184a5696e7cd5fe2b170d3b10bf3314" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::CleanupOptions::get_DuplicateStyle</definition>
+        <argsstring>() const</argsstring>
+        <name>get_DuplicateStyle</name>
+        <qualifiedname>Aspose::Words::CleanupOptions::get_DuplicateStyle</qualifiedname>
+        <briefdescription>
+<para>Gets/sets a flag indicating whether duplicate styles should be removed from document. Default value is <bold>false</bold>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to remove duplicated styles from the document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>two<sp/>styles<sp/>to<sp/>the<sp/>document<sp/>with<sp/>identical<sp/>properties,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>but<sp/>different<sp/>names.<sp/>The<sp/>second<sp/>style<sp/>is<sp/>considered<sp/>a<sp/>duplicate<sp/>of<sp/>the<sp/>first.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>myStyle<sp/>=<sp/>doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1bafeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="The style is a paragraph style.">StyleType::Paragraph</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyStyle1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">myStyle-&gt;get_Font()-&gt;set_Size(14);</highlight></codeline>
+<codeline><highlight class="normal">myStyle-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Courier<sp/>New&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">myStyle-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>duplicateStyle<sp/>=<sp/>doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1bafeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="The style is a paragraph style.">StyleType::Paragraph</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyStyle2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">duplicateStyle-&gt;get_Font()-&gt;set_Size(14);</highlight></codeline>
+<codeline><highlight class="normal">duplicateStyle-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Courier<sp/>New&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">duplicateStyle-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(6,<sp/>doc-&gt;get_Styles()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>both<sp/>styles<sp/>to<sp/>different<sp/>paragraphs<sp/>within<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_StyleName(myStyle-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_StyleName(duplicateStyle-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>again!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ParagraphCollection&gt;<sp/>paragraphs<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(myStyle,<sp/>paragraphs-&gt;idx_get(0)-&gt;get_ParagraphFormat()-&gt;get_Style());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(duplicateStyle,<sp/>paragraphs-&gt;idx_get(1)-&gt;get_ParagraphFormat()-&gt;get_Style());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Configure<sp/>a<sp/>CleanOptions<sp/>object,<sp/>then<sp/>call<sp/>the<sp/>Cleanup<sp/>method<sp/>to<sp/>substitute<sp/>all<sp/>duplicate<sp/>styles</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>with<sp/>the<sp/>original<sp/>and<sp/>remove<sp/>the<sp/>duplicates<sp/>from<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>cleanupOptions<sp/>=<sp/>MakeObject&lt;CleanupOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">cleanupOptions-&gt;set_DuplicateStyle(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Cleanup(cleanupOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>doc-&gt;get_Styles()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(myStyle,<sp/>paragraphs-&gt;idx_get(0)-&gt;get_ParagraphFormat()-&gt;get_Style());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(myStyle,<sp/>paragraphs-&gt;idx_get(1)-&gt;get_ParagraphFormat()-&gt;get_Style());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CleanupOptions.h" line="226" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_cleanup_options_1a9b18ace3a72ea17cd6e277853a899138" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::CleanupOptions::get_UnusedBuiltinStyles</definition>
+        <argsstring>() const</argsstring>
+        <name>get_UnusedBuiltinStyles</name>
+        <qualifiedname>Aspose::Words::CleanupOptions::get_UnusedBuiltinStyles</qualifiedname>
+        <briefdescription>
+<para>Specifies that unused <ref refid="class_aspose_1_1_words_1_1_style_1a741836f0f1fb39a9ef2badfdc23ff934" kindref="member">BuiltIn</ref> styles should be removed from document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to remove all unused custom styles from a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba4ee29ca12c7d126654bd0e5275de6135" kindref="member" tooltip="The style is a list style.">StyleType::List</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyListStyle1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba4ee29ca12c7d126654bd0e5275de6135" kindref="member" tooltip="The style is a list style.">StyleType::List</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyListStyle2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba76a40e4f974fd895a0a2598c1cee28b4" kindref="member" tooltip="The style is a character style.">StyleType::Character</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyParagraphStyle1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba76a40e4f974fd895a0a2598c1cee28b4" kindref="member" tooltip="The style is a character style.">StyleType::Character</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyParagraphStyle2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Combined<sp/>with<sp/>the<sp/>built-in<sp/>styles,<sp/>the<sp/>document<sp/>now<sp/>has<sp/>eight<sp/>styles.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>custom<sp/>style<sp/>is<sp/>marked<sp/>as<sp/>&quot;used&quot;<sp/>while<sp/>there<sp/>is<sp/>any<sp/>text<sp/>within<sp/>the<sp/>document</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>formatted<sp/>in<sp/>that<sp/>style.<sp/>This<sp/>means<sp/>that<sp/>the<sp/>4<sp/>styles<sp/>we<sp/>added<sp/>are<sp/>currently<sp/>unused.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(8,<sp/>doc-&gt;get_Styles()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>a<sp/>custom<sp/>character<sp/>style,<sp/>and<sp/>then<sp/>a<sp/>custom<sp/>list<sp/>style.<sp/>Doing<sp/>so<sp/>will<sp/>mark<sp/>them<sp/>as<sp/>&quot;used&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyParagraphStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Aspose::Words::Lists::List&gt;<sp/>list<sp/>=<sp/>doc-&gt;get_Lists()-&gt;Add(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyListStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(list);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Item<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Item<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Now,<sp/>there<sp/>is<sp/>one<sp/>unused<sp/>character<sp/>style<sp/>and<sp/>one<sp/>unused<sp/>list<sp/>style.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>Cleanup()<sp/>method,<sp/>when<sp/>configured<sp/>with<sp/>a<sp/>CleanupOptions<sp/>object,<sp/>can<sp/>target<sp/>unused<sp/>styles<sp/>and<sp/>remove<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>cleanupOptions<sp/>=<sp/>MakeObject&lt;CleanupOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">cleanupOptions-&gt;set_UnusedLists(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">cleanupOptions-&gt;set_UnusedStyles(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">cleanupOptions-&gt;set_UnusedBuiltinStyles(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Cleanup(cleanupOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>doc-&gt;get_Styles()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Removing<sp/>every<sp/>node<sp/>that<sp/>a<sp/>custom<sp/>style<sp/>is<sp/>applied<sp/>to<sp/>marks<sp/>it<sp/>as<sp/>&quot;unused&quot;<sp/>again.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Rerun<sp/>the<sp/>Cleanup<sp/>method<sp/>to<sp/>remove<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;RemoveAllChildren();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Cleanup(cleanupOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_Styles()-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CleanupOptions.h" line="277" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_cleanup_options_1ac3e543c571810aa3a3460f3f295e45c0" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::CleanupOptions::get_UnusedLists</definition>
+        <argsstring>() const</argsstring>
+        <name>get_UnusedLists</name>
+        <qualifiedname>Aspose::Words::CleanupOptions::get_UnusedLists</qualifiedname>
+        <briefdescription>
+<para>Specifies whether unused list and list definitions should be removed from document. Default value is <bold>true</bold>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to remove all unused custom styles from a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba4ee29ca12c7d126654bd0e5275de6135" kindref="member" tooltip="The style is a list style.">StyleType::List</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyListStyle1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba4ee29ca12c7d126654bd0e5275de6135" kindref="member" tooltip="The style is a list style.">StyleType::List</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyListStyle2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba76a40e4f974fd895a0a2598c1cee28b4" kindref="member" tooltip="The style is a character style.">StyleType::Character</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyParagraphStyle1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba76a40e4f974fd895a0a2598c1cee28b4" kindref="member" tooltip="The style is a character style.">StyleType::Character</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyParagraphStyle2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Combined<sp/>with<sp/>the<sp/>built-in<sp/>styles,<sp/>the<sp/>document<sp/>now<sp/>has<sp/>eight<sp/>styles.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>custom<sp/>style<sp/>is<sp/>marked<sp/>as<sp/>&quot;used&quot;<sp/>while<sp/>there<sp/>is<sp/>any<sp/>text<sp/>within<sp/>the<sp/>document</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>formatted<sp/>in<sp/>that<sp/>style.<sp/>This<sp/>means<sp/>that<sp/>the<sp/>4<sp/>styles<sp/>we<sp/>added<sp/>are<sp/>currently<sp/>unused.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(8,<sp/>doc-&gt;get_Styles()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>a<sp/>custom<sp/>character<sp/>style,<sp/>and<sp/>then<sp/>a<sp/>custom<sp/>list<sp/>style.<sp/>Doing<sp/>so<sp/>will<sp/>mark<sp/>them<sp/>as<sp/>&quot;used&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyParagraphStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Aspose::Words::Lists::List&gt;<sp/>list<sp/>=<sp/>doc-&gt;get_Lists()-&gt;Add(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyListStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(list);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Item<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Item<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Now,<sp/>there<sp/>is<sp/>one<sp/>unused<sp/>character<sp/>style<sp/>and<sp/>one<sp/>unused<sp/>list<sp/>style.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>Cleanup()<sp/>method,<sp/>when<sp/>configured<sp/>with<sp/>a<sp/>CleanupOptions<sp/>object,<sp/>can<sp/>target<sp/>unused<sp/>styles<sp/>and<sp/>remove<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>cleanupOptions<sp/>=<sp/>MakeObject&lt;CleanupOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">cleanupOptions-&gt;set_UnusedLists(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">cleanupOptions-&gt;set_UnusedStyles(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">cleanupOptions-&gt;set_UnusedBuiltinStyles(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Cleanup(cleanupOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>doc-&gt;get_Styles()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Removing<sp/>every<sp/>node<sp/>that<sp/>a<sp/>custom<sp/>style<sp/>is<sp/>applied<sp/>to<sp/>marks<sp/>it<sp/>as<sp/>&quot;unused&quot;<sp/>again.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Rerun<sp/>the<sp/>Cleanup<sp/>method<sp/>to<sp/>remove<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;RemoveAllChildren();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Cleanup(cleanupOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_Styles()-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CleanupOptions.h" line="174" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_cleanup_options_1ace46d5447a9b10fec96e2e4015bdd898" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::CleanupOptions::get_UnusedStyles</definition>
+        <argsstring>() const</argsstring>
+        <name>get_UnusedStyles</name>
+        <qualifiedname>Aspose::Words::CleanupOptions::get_UnusedStyles</qualifiedname>
+        <briefdescription>
+<para>Specifies whether unused styles should be removed from document. Default value is <bold>true</bold>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to remove all unused custom styles from a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba4ee29ca12c7d126654bd0e5275de6135" kindref="member" tooltip="The style is a list style.">StyleType::List</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyListStyle1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba4ee29ca12c7d126654bd0e5275de6135" kindref="member" tooltip="The style is a list style.">StyleType::List</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyListStyle2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba76a40e4f974fd895a0a2598c1cee28b4" kindref="member" tooltip="The style is a character style.">StyleType::Character</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyParagraphStyle1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba76a40e4f974fd895a0a2598c1cee28b4" kindref="member" tooltip="The style is a character style.">StyleType::Character</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyParagraphStyle2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Combined<sp/>with<sp/>the<sp/>built-in<sp/>styles,<sp/>the<sp/>document<sp/>now<sp/>has<sp/>eight<sp/>styles.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>custom<sp/>style<sp/>is<sp/>marked<sp/>as<sp/>&quot;used&quot;<sp/>while<sp/>there<sp/>is<sp/>any<sp/>text<sp/>within<sp/>the<sp/>document</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>formatted<sp/>in<sp/>that<sp/>style.<sp/>This<sp/>means<sp/>that<sp/>the<sp/>4<sp/>styles<sp/>we<sp/>added<sp/>are<sp/>currently<sp/>unused.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(8,<sp/>doc-&gt;get_Styles()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>a<sp/>custom<sp/>character<sp/>style,<sp/>and<sp/>then<sp/>a<sp/>custom<sp/>list<sp/>style.<sp/>Doing<sp/>so<sp/>will<sp/>mark<sp/>them<sp/>as<sp/>&quot;used&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyParagraphStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Aspose::Words::Lists::List&gt;<sp/>list<sp/>=<sp/>doc-&gt;get_Lists()-&gt;Add(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyListStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(list);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Item<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Item<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Now,<sp/>there<sp/>is<sp/>one<sp/>unused<sp/>character<sp/>style<sp/>and<sp/>one<sp/>unused<sp/>list<sp/>style.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>Cleanup()<sp/>method,<sp/>when<sp/>configured<sp/>with<sp/>a<sp/>CleanupOptions<sp/>object,<sp/>can<sp/>target<sp/>unused<sp/>styles<sp/>and<sp/>remove<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>cleanupOptions<sp/>=<sp/>MakeObject&lt;CleanupOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">cleanupOptions-&gt;set_UnusedLists(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">cleanupOptions-&gt;set_UnusedStyles(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">cleanupOptions-&gt;set_UnusedBuiltinStyles(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Cleanup(cleanupOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>doc-&gt;get_Styles()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Removing<sp/>every<sp/>node<sp/>that<sp/>a<sp/>custom<sp/>style<sp/>is<sp/>applied<sp/>to<sp/>marks<sp/>it<sp/>as<sp/>&quot;unused&quot;<sp/>again.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Rerun<sp/>the<sp/>Cleanup<sp/>method<sp/>to<sp/>remove<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;RemoveAllChildren();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Cleanup(cleanupOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_Styles()-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CleanupOptions.h" line="122" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_cleanup_options_1a43407a735f07c1d0246a98775d10a0ec" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::CleanupOptions::set_DuplicateStyle</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_DuplicateStyle</name>
+        <qualifiedname>Aspose::Words::CleanupOptions::set_DuplicateStyle</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_cleanup_options_1a2184a5696e7cd5fe2b170d3b10bf3314" kindref="member">Aspose::Words::CleanupOptions::get_DuplicateStyle</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CleanupOptions.h" line="229" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_cleanup_options_1aa41aff9891a49088faf5bc76c52f00b5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::CleanupOptions::set_UnusedBuiltinStyles</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_UnusedBuiltinStyles</name>
+        <qualifiedname>Aspose::Words::CleanupOptions::set_UnusedBuiltinStyles</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_cleanup_options_1a9b18ace3a72ea17cd6e277853a899138" kindref="member">Aspose::Words::CleanupOptions::get_UnusedBuiltinStyles</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CleanupOptions.h" line="280" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_cleanup_options_1ae90a09e5dd0deda4d194ebf8b5f6c5d9" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::CleanupOptions::set_UnusedLists</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_UnusedLists</name>
+        <qualifiedname>Aspose::Words::CleanupOptions::set_UnusedLists</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_cleanup_options_1ac3e543c571810aa3a3460f3f295e45c0" kindref="member">Aspose::Words::CleanupOptions::get_UnusedLists</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CleanupOptions.h" line="177" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_cleanup_options_1a45f6729ef473a1436dc123c967fb21a3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::CleanupOptions::set_UnusedStyles</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_UnusedStyles</name>
+        <qualifiedname>Aspose::Words::CleanupOptions::set_UnusedStyles</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_cleanup_options_1ace46d5447a9b10fec96e2e4015bdd898" kindref="member">Aspose::Words::CleanupOptions::get_UnusedStyles</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/CleanupOptions.h" line="125" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Allows to specify options for document cleaning. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to remove all unused custom styles from a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba4ee29ca12c7d126654bd0e5275de6135" kindref="member" tooltip="The style is a list style.">StyleType::List</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyListStyle1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba4ee29ca12c7d126654bd0e5275de6135" kindref="member" tooltip="The style is a list style.">StyleType::List</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyListStyle2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba76a40e4f974fd895a0a2598c1cee28b4" kindref="member" tooltip="The style is a character style.">StyleType::Character</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyParagraphStyle1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba76a40e4f974fd895a0a2598c1cee28b4" kindref="member" tooltip="The style is a character style.">StyleType::Character</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyParagraphStyle2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Combined<sp/>with<sp/>the<sp/>built-in<sp/>styles,<sp/>the<sp/>document<sp/>now<sp/>has<sp/>eight<sp/>styles.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>custom<sp/>style<sp/>is<sp/>marked<sp/>as<sp/>&quot;used&quot;<sp/>while<sp/>there<sp/>is<sp/>any<sp/>text<sp/>within<sp/>the<sp/>document</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>formatted<sp/>in<sp/>that<sp/>style.<sp/>This<sp/>means<sp/>that<sp/>the<sp/>4<sp/>styles<sp/>we<sp/>added<sp/>are<sp/>currently<sp/>unused.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(8,<sp/>doc-&gt;get_Styles()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>a<sp/>custom<sp/>character<sp/>style,<sp/>and<sp/>then<sp/>a<sp/>custom<sp/>list<sp/>style.<sp/>Doing<sp/>so<sp/>will<sp/>mark<sp/>them<sp/>as<sp/>&quot;used&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyParagraphStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Aspose::Words::Lists::List&gt;<sp/>list<sp/>=<sp/>doc-&gt;get_Lists()-&gt;Add(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyListStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(list);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Item<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Item<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Now,<sp/>there<sp/>is<sp/>one<sp/>unused<sp/>character<sp/>style<sp/>and<sp/>one<sp/>unused<sp/>list<sp/>style.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>Cleanup()<sp/>method,<sp/>when<sp/>configured<sp/>with<sp/>a<sp/>CleanupOptions<sp/>object,<sp/>can<sp/>target<sp/>unused<sp/>styles<sp/>and<sp/>remove<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>cleanupOptions<sp/>=<sp/>MakeObject&lt;CleanupOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">cleanupOptions-&gt;set_UnusedLists(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">cleanupOptions-&gt;set_UnusedStyles(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">cleanupOptions-&gt;set_UnusedBuiltinStyles(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Cleanup(cleanupOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>doc-&gt;get_Styles()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Removing<sp/>every<sp/>node<sp/>that<sp/>a<sp/>custom<sp/>style<sp/>is<sp/>applied<sp/>to<sp/>marks<sp/>it<sp/>as<sp/>&quot;unused&quot;<sp/>again.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Rerun<sp/>the<sp/>Cleanup<sp/>method<sp/>to<sp/>remove<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;RemoveAllChildren();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Cleanup(cleanupOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_Styles()-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::CleanupOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_cleanup_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::CleanupOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_cleanup_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/CleanupOptions.h" line="65" column="1" bodyfile="Aspose.Words.Cpp/CleanupOptions.h" bodystart="66" bodyend="291"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_cleanup_options_1a08136e887e3ff2895fcbc2a9e9b6bc0b" prot="private" virt="non-virtual"><scope>Aspose::Words::CleanupOptions</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_cleanup_options_1ab96649a594d6a9c70fae07ee640298d6" prot="public" virt="non-virtual"><scope>Aspose::Words::CleanupOptions</scope><name>CleanupOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_cleanup_options_1a2184a5696e7cd5fe2b170d3b10bf3314" prot="public" virt="non-virtual"><scope>Aspose::Words::CleanupOptions</scope><name>get_DuplicateStyle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_cleanup_options_1a9b18ace3a72ea17cd6e277853a899138" prot="public" virt="non-virtual"><scope>Aspose::Words::CleanupOptions</scope><name>get_UnusedBuiltinStyles</name></member>
+      <member refid="class_aspose_1_1_words_1_1_cleanup_options_1ac3e543c571810aa3a3460f3f295e45c0" prot="public" virt="non-virtual"><scope>Aspose::Words::CleanupOptions</scope><name>get_UnusedLists</name></member>
+      <member refid="class_aspose_1_1_words_1_1_cleanup_options_1ace46d5447a9b10fec96e2e4015bdd898" prot="public" virt="non-virtual"><scope>Aspose::Words::CleanupOptions</scope><name>get_UnusedStyles</name></member>
+      <member refid="class_aspose_1_1_words_1_1_cleanup_options_1aa7564d382a3421daeecec8433e3c05de" prot="private" virt="non-virtual"><scope>Aspose::Words::CleanupOptions</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_cleanup_options_1a58c497fbf25d2e33585a3acbded3060f" prot="private" virt="non-virtual"><scope>Aspose::Words::CleanupOptions</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_cleanup_options_1a8cc955a699b80378ded5776c6ff6d345" prot="private" virt="non-virtual"><scope>Aspose::Words::CleanupOptions</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_cleanup_options_1a576a5a6045ca515562f6283e3a4af8c3" prot="private" virt="non-virtual"><scope>Aspose::Words::CleanupOptions</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_cleanup_options_1a1ec548c2917e341f937db4eb258f0024" prot="private" virt="non-virtual"><scope>Aspose::Words::CleanupOptions</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_cleanup_options_1a43407a735f07c1d0246a98775d10a0ec" prot="public" virt="non-virtual"><scope>Aspose::Words::CleanupOptions</scope><name>set_DuplicateStyle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_cleanup_options_1aa41aff9891a49088faf5bc76c52f00b5" prot="public" virt="non-virtual"><scope>Aspose::Words::CleanupOptions</scope><name>set_UnusedBuiltinStyles</name></member>
+      <member refid="class_aspose_1_1_words_1_1_cleanup_options_1ae90a09e5dd0deda4d194ebf8b5f6c5d9" prot="public" virt="non-virtual"><scope>Aspose::Words::CleanupOptions</scope><name>set_UnusedLists</name></member>
+      <member refid="class_aspose_1_1_words_1_1_cleanup_options_1a45f6729ef473a1436dc123c967fb21a3" prot="public" virt="non-virtual"><scope>Aspose::Words::CleanupOptions</scope><name>set_UnusedStyles</name></member>
+      <member refid="class_aspose_1_1_words_1_1_cleanup_options_1a071d935020b966e4798e7bcc51b85ab1" prot="private" virt="non-virtual"><scope>Aspose::Words::CleanupOptions</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_cleanup_options_1a59abedbe16fca402dab629173fb917f1" prot="private" virt="non-virtual"><scope>Aspose::Words::CleanupOptions</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,570 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Saving::OdtSaveOptions</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_saving_1_1_save_options" prot="public" virt="non-virtual">Aspose::Words::Saving::SaveOptions</basecompoundref>
+    <includes refid="_odt_save_options_8h" local="no">Aspose.Words.Cpp/Saving/OdtSaveOptions.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1aa0d67ac01c0f72eaac981dc7070d7f48" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_save_options" kindref="compound">Aspose::Words::Saving::SaveOptions</ref></type>
+        <definition>typedef Aspose::Words::Saving::SaveOptions Aspose::Words::Saving::OdtSaveOptions::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Saving::OdtSaveOptions::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" line="60" column="48" bodyfile="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" bodystart="60" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1af6ee81ecca69bdeb8a707f2460b855e3" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options" kindref="compound">OdtSaveOptions</ref></type>
+        <definition>typedef OdtSaveOptions Aspose::Words::Saving::OdtSaveOptions::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Saving::OdtSaveOptions::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" line="59" column="28" bodyfile="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" bodystart="59" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1acd7424ce78be408a13faafef6e50743e" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_save_options" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::OdtSaveOptions::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Saving::OdtSaveOptions::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" line="62" column="37" bodyfile="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" bodystart="62" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1a1cfc578e4cf45977a0c6997cc281b1e3" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Saving::OdtSaveOptions::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Saving::OdtSaveOptions::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" line="246" column="23" bodyfile="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" bodystart="246" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1a8a3ceb31dc626db4c9615e44cdad64e0" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::OdtSaveOptions::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Saving::OdtSaveOptions::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" line="247" column="23" bodyfile="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" bodystart="247" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1a27c6f97f8171b1cb1b8256eab23307db" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Saving::OdtSaveOptions::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Saving::OdtSaveOptions::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" line="248" column="23" bodyfile="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" bodystart="248" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1a40fd62fed38eb3117088ab87275355b3" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::OdtSaveOptions::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Saving::OdtSaveOptions::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" line="249" column="20" bodyfile="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" bodystart="249" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1a31b7a17a74ac185eaf0a2496133e1032" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::OdtSaveOptions::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Saving::OdtSaveOptions::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" line="63" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1aa882c1959e5f6fcba2cf743527fbc712" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::OdtSaveOptions::OdtSaveOptions</definition>
+        <argsstring>()</argsstring>
+        <name>OdtSaveOptions</name>
+        <qualifiedname>Aspose::Words::Saving::OdtSaveOptions::OdtSaveOptions</qualifiedname>
+        <briefdescription>
+<para>Initializes a new instance of this class that can be used to save a document in the <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a62830bddfb361d1fe469dd20145f9e8b" kindref="member">Odt</ref> format. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to make a saved document conform to an older ODT schema. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;OdtSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_MeasureUnit(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a269c9c2057c22c98afc3144dc901562ba3040cc6624f5c309963dee141936b299" kindref="member" tooltip="Specifies that the document content is saved using centimeters.">OdtSaveMeasureUnit::Centimeters</ref>);</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_IsStrictSchema11(exportToOdt11Specs);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OdtSaveOptions.Odt11Schema.odt&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" line="202" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1ae6726aa20f9faf537d087beced0fc000" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::OdtSaveOptions::OdtSaveOptions</definition>
+        <argsstring>(Aspose::Words::SaveFormat saveFormat)</argsstring>
+        <name>OdtSaveOptions</name>
+        <qualifiedname>Aspose::Words::Saving::OdtSaveOptions::OdtSaveOptions</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" kindref="member">Aspose::Words::SaveFormat</ref></type>
+          <declname>saveFormat</declname>
+        </param>
+        <briefdescription>
+<para>Initializes a new instance of this class that can be used to save a document in the <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a62830bddfb361d1fe469dd20145f9e8b" kindref="member">Odt</ref> or <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847af70f04f40f6b423ddfc11b1d8c6829d9" kindref="member">Ott</ref> format. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>saveFormat</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Can be <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a62830bddfb361d1fe469dd20145f9e8b" kindref="member">Odt</ref> or <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847af70f04f40f6b423ddfc11b1d8c6829d9" kindref="member">Ott</ref>.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to encrypt a saved ODT/OTT document with a password, and then load it using Aspose.Words. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>new<sp/>OdtSaveOptions,<sp/>and<sp/>pass<sp/>either<sp/>&quot;SaveFormat.Odt&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>or<sp/>&quot;SaveFormat.Ott&quot;<sp/>as<sp/>the<sp/>format<sp/>to<sp/>save<sp/>the<sp/>document<sp/>in.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;OdtSaveOptions&gt;(saveFormat);</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_Password(u</highlight><highlight class="stringliteral">&quot;@sposeEncrypted_1145&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>extensionString<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_file_format_util_1a25fa8cb83c9d031cc931d95b101df2da" kindref="member" tooltip="Converts a save format enumerated value into a file extension. The returned extension is a lower-case...">FileFormatUtil::SaveFormatToExtension</ref>(saveFormat);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>open<sp/>this<sp/>document<sp/>with<sp/>an<sp/>appropriate<sp/>editor,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>it<sp/>will<sp/>prompt<sp/>us<sp/>for<sp/>the<sp/>password<sp/>we<sp/>specified<sp/>in<sp/>the<sp/>SaveOptions<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OdtSaveOptions.Encrypt&quot;</highlight><highlight class="normal"><sp/>+<sp/>extensionString,<sp/>saveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FileFormatInfo&gt;<sp/>docInfo<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_file_format_util_1a0f7aae337dbe4dee5b3c025faf1ced64" kindref="member" tooltip="Detects and returns the information about a format of a document stored in a disk file.">FileFormatUtil::DetectFileFormat</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OdtSaveOptions.Encrypt&quot;</highlight><highlight class="normal"><sp/>+<sp/>extensionString);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(docInfo-&gt;get_IsEncrypted());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>wish<sp/>to<sp/>open<sp/>or<sp/>edit<sp/>this<sp/>document<sp/>again<sp/>using<sp/>Aspose.Words,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>we<sp/>will<sp/>have<sp/>to<sp/>provide<sp/>a<sp/>LoadOptions<sp/>object<sp/>with<sp/>the<sp/>correct<sp/>password<sp/>to<sp/>the<sp/>loading<sp/>constructor.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OdtSaveOptions.Encrypt&quot;</highlight><highlight class="normal"><sp/>+<sp/>extensionString,<sp/>MakeObject&lt;LoadOptions&gt;(u</highlight><highlight class="stringliteral">&quot;@sposeEncrypted_1145&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" line="242" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1a8611f2b6ca522703c15ba6541908c0c4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::OdtSaveOptions::OdtSaveOptions</definition>
+        <argsstring>(const System::String &amp;password)</argsstring>
+        <name>OdtSaveOptions</name>
+        <qualifiedname>Aspose::Words::Saving::OdtSaveOptions::OdtSaveOptions</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>password</declname>
+        </param>
+        <briefdescription>
+<para>Initializes a new instance of this class that can be used to save a document in the <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a62830bddfb361d1fe469dd20145f9e8b" kindref="member">Odt</ref> format encrypted with a password. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" line="206" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1acfecc980a06e0a12c29b533b486d5a62" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Saving::OdtSaveOptions::get_IsStrictSchema11</definition>
+        <argsstring>() const</argsstring>
+        <name>get_IsStrictSchema11</name>
+        <qualifiedname>Aspose::Words::Saving::OdtSaveOptions::get_IsStrictSchema11</qualifiedname>
+        <briefdescription>
+<para>Specifies whether export should correspond to ODT specification 1.1 strictly. OOo 3.0 displays files correctly when they contain elements and attributes of ODT 1.2. Use &quot;false&quot; for this purpose, or &quot;true&quot; for strict conformity of specification 1.1. The default value is <bold>false</bold>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to make a saved document conform to an older ODT schema. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;OdtSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_MeasureUnit(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a269c9c2057c22c98afc3144dc901562ba3040cc6624f5c309963dee141936b299" kindref="member" tooltip="Specifies that the document content is saved using centimeters.">OdtSaveMeasureUnit::Centimeters</ref>);</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_IsStrictSchema11(exportToOdt11Specs);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OdtSaveOptions.Odt11Schema.odt&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" line="121" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1af8880fb7b66abebab8d949c1003cd196" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_saving_1a269c9c2057c22c98afc3144dc901562b" kindref="member">Aspose::Words::Saving::OdtSaveMeasureUnit</ref></type>
+        <definition>Aspose::Words::Saving::OdtSaveMeasureUnit Aspose::Words::Saving::OdtSaveOptions::get_MeasureUnit</definition>
+        <argsstring>() const</argsstring>
+        <name>get_MeasureUnit</name>
+        <qualifiedname>Aspose::Words::Saving::OdtSaveOptions::get_MeasureUnit</qualifiedname>
+        <briefdescription>
+<para>Allows to specify units of measure to apply to document content. The default value is <ref refid="namespace_aspose_1_1_words_1_1_saving_1a269c9c2057c22c98afc3144dc901562ba3040cc6624f5c309963dee141936b299" kindref="member">Centimeters</ref> </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use different measurement units to define style parameters of a saved ODT document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>export<sp/>the<sp/>document<sp/>to<sp/>.odt,<sp/>we<sp/>can<sp/>use<sp/>an<sp/>OdtSaveOptions<sp/>object<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>save<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>the<sp/>&quot;MeasureUnit&quot;<sp/>property<sp/>to<sp/>&quot;OdtSaveMeasureUnit.Centimeters&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>define<sp/>content<sp/>such<sp/>as<sp/>style<sp/>parameters<sp/>using<sp/>the<sp/>metric<sp/>system,<sp/>which<sp/>Open<sp/>Office<sp/>uses.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>the<sp/>&quot;MeasureUnit&quot;<sp/>property<sp/>to<sp/>&quot;OdtSaveMeasureUnit.Inches&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>define<sp/>content<sp/>such<sp/>as<sp/>style<sp/>parameters<sp/>using<sp/>the<sp/>imperial<sp/>system,<sp/>which<sp/>Microsoft<sp/>Word<sp/>uses.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;OdtSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_MeasureUnit(odtSaveMeasureUnit);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OdtSaveOptions.Odt11Schema.odt&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" line="145" column="50"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1a16e2dcdcaaa0bc8bd984b173f80a2c9e" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::OdtSaveOptions::get_Password</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Password</name>
+        <qualifiedname>Aspose::Words::Saving::OdtSaveOptions::get_Password</qualifiedname>
+        <briefdescription>
+<para>Gets or sets a password to encrypt document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>In order to save document without encryption this property should be null or empty string.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to encrypt a saved ODT/OTT document with a password, and then load it using Aspose.Words. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>new<sp/>OdtSaveOptions,<sp/>and<sp/>pass<sp/>either<sp/>&quot;SaveFormat.Odt&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>or<sp/>&quot;SaveFormat.Ott&quot;<sp/>as<sp/>the<sp/>format<sp/>to<sp/>save<sp/>the<sp/>document<sp/>in.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;OdtSaveOptions&gt;(saveFormat);</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_Password(u</highlight><highlight class="stringliteral">&quot;@sposeEncrypted_1145&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>extensionString<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_file_format_util_1a25fa8cb83c9d031cc931d95b101df2da" kindref="member" tooltip="Converts a save format enumerated value into a file extension. The returned extension is a lower-case...">FileFormatUtil::SaveFormatToExtension</ref>(saveFormat);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>open<sp/>this<sp/>document<sp/>with<sp/>an<sp/>appropriate<sp/>editor,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>it<sp/>will<sp/>prompt<sp/>us<sp/>for<sp/>the<sp/>password<sp/>we<sp/>specified<sp/>in<sp/>the<sp/>SaveOptions<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OdtSaveOptions.Encrypt&quot;</highlight><highlight class="normal"><sp/>+<sp/>extensionString,<sp/>saveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FileFormatInfo&gt;<sp/>docInfo<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_file_format_util_1a0f7aae337dbe4dee5b3c025faf1ced64" kindref="member" tooltip="Detects and returns the information about a format of a document stored in a disk file.">FileFormatUtil::DetectFileFormat</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OdtSaveOptions.Encrypt&quot;</highlight><highlight class="normal"><sp/>+<sp/>extensionString);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(docInfo-&gt;get_IsEncrypted());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>wish<sp/>to<sp/>open<sp/>or<sp/>edit<sp/>this<sp/>document<sp/>again<sp/>using<sp/>Aspose.Words,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>we<sp/>will<sp/>have<sp/>to<sp/>provide<sp/>a<sp/>LoadOptions<sp/>object<sp/>with<sp/>the<sp/>correct<sp/>password<sp/>to<sp/>the<sp/>loading<sp/>constructor.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OdtSaveOptions.Encrypt&quot;</highlight><highlight class="normal"><sp/>+<sp/>extensionString,<sp/>MakeObject&lt;LoadOptions&gt;(u</highlight><highlight class="stringliteral">&quot;@sposeEncrypted_1145&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" line="183" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1ad590cbd70671fb63b53120c1c9f5f7f4" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" kindref="member">Aspose::Words::SaveFormat</ref></type>
+        <definition>Aspose::Words::SaveFormat Aspose::Words::Saving::OdtSaveOptions::get_SaveFormat</definition>
+        <argsstring>() override</argsstring>
+        <name>get_SaveFormat</name>
+        <qualifiedname>Aspose::Words::Saving::OdtSaveOptions::get_SaveFormat</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6df9e8d37cc7794640ea5c5932134253">get_SaveFormat</reimplements>
+        <briefdescription>
+<para>Specifies the format in which the document will be saved if this save options object is used. Can be <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a62830bddfb361d1fe469dd20145f9e8b" kindref="member">Odt</ref> or <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847af70f04f40f6b423ddfc11b1d8c6829d9" kindref="member">Ott</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to encrypt a saved ODT/OTT document with a password, and then load it using Aspose.Words. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>new<sp/>OdtSaveOptions,<sp/>and<sp/>pass<sp/>either<sp/>&quot;SaveFormat.Odt&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>or<sp/>&quot;SaveFormat.Ott&quot;<sp/>as<sp/>the<sp/>format<sp/>to<sp/>save<sp/>the<sp/>document<sp/>in.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;OdtSaveOptions&gt;(saveFormat);</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_Password(u</highlight><highlight class="stringliteral">&quot;@sposeEncrypted_1145&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>extensionString<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_file_format_util_1a25fa8cb83c9d031cc931d95b101df2da" kindref="member" tooltip="Converts a save format enumerated value into a file extension. The returned extension is a lower-case...">FileFormatUtil::SaveFormatToExtension</ref>(saveFormat);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>open<sp/>this<sp/>document<sp/>with<sp/>an<sp/>appropriate<sp/>editor,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>it<sp/>will<sp/>prompt<sp/>us<sp/>for<sp/>the<sp/>password<sp/>we<sp/>specified<sp/>in<sp/>the<sp/>SaveOptions<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OdtSaveOptions.Encrypt&quot;</highlight><highlight class="normal"><sp/>+<sp/>extensionString,<sp/>saveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FileFormatInfo&gt;<sp/>docInfo<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_file_format_util_1a0f7aae337dbe4dee5b3c025faf1ced64" kindref="member" tooltip="Detects and returns the information about a format of a document stored in a disk file.">FileFormatUtil::DetectFileFormat</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OdtSaveOptions.Encrypt&quot;</highlight><highlight class="normal"><sp/>+<sp/>extensionString);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(docInfo-&gt;get_IsEncrypted());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>wish<sp/>to<sp/>open<sp/>or<sp/>edit<sp/>this<sp/>document<sp/>again<sp/>using<sp/>Aspose.Words,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>we<sp/>will<sp/>have<sp/>to<sp/>provide<sp/>a<sp/>LoadOptions<sp/>object<sp/>with<sp/>the<sp/>correct<sp/>password<sp/>to<sp/>the<sp/>loading<sp/>constructor.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OdtSaveOptions.Encrypt&quot;</highlight><highlight class="normal"><sp/>+<sp/>extensionString,<sp/>MakeObject&lt;LoadOptions&gt;(u</highlight><highlight class="stringliteral">&quot;@sposeEncrypted_1145&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" line="99" column="34"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1a3004ece47f6b4b629eed382a45e05610" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::OdtSaveOptions::set_IsStrictSchema11</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_IsStrictSchema11</name>
+        <qualifiedname>Aspose::Words::Saving::OdtSaveOptions::set_IsStrictSchema11</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1acfecc980a06e0a12c29b533b486d5a62" kindref="member">Aspose::Words::Saving::OdtSaveOptions::get_IsStrictSchema11</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" line="124" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1a6b0dd40a2fa980660b91ef01f2efb041" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::OdtSaveOptions::set_MeasureUnit</definition>
+        <argsstring>(Aspose::Words::Saving::OdtSaveMeasureUnit value)</argsstring>
+        <name>set_MeasureUnit</name>
+        <qualifiedname>Aspose::Words::Saving::OdtSaveOptions::set_MeasureUnit</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_saving_1a269c9c2057c22c98afc3144dc901562b" kindref="member">Aspose::Words::Saving::OdtSaveMeasureUnit</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1af8880fb7b66abebab8d949c1003cd196" kindref="member">Aspose::Words::Saving::OdtSaveOptions::get_MeasureUnit</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" line="148" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1a8384b924755185a2cae5640b93622a36" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::OdtSaveOptions::set_Password</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Password</name>
+        <qualifiedname>Aspose::Words::Saving::OdtSaveOptions::set_Password</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1a16e2dcdcaaa0bc8bd984b173f80a2c9e" kindref="member">Aspose::Words::Saving::OdtSaveOptions::get_Password</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" line="186" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1a9fd15766be526bb5e438cc179993276f" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::OdtSaveOptions::set_SaveFormat</definition>
+        <argsstring>(Aspose::Words::SaveFormat value) override</argsstring>
+        <name>set_SaveFormat</name>
+        <qualifiedname>Aspose::Words::Saving::OdtSaveOptions::set_SaveFormat</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a75d9ec81ad960179eba172764d2c60b9">set_SaveFormat</reimplements>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" kindref="member">Aspose::Words::SaveFormat</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1ad590cbd70671fb63b53120c1c9f5f7f4" kindref="member">Aspose::Words::Saving::OdtSaveOptions::get_SaveFormat</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" line="102" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Can be used to specify additional options when saving a document into the <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a62830bddfb361d1fe469dd20145f9e8b" kindref="member">Odt</ref> or <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847af70f04f40f6b423ddfc11b1d8c6829d9" kindref="member">Ott</ref> format. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>At the moment provides only the <ref refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1ad590cbd70671fb63b53120c1c9f5f7f4" kindref="member">SaveFormat</ref> property, but in the future will have other options added, such as an encryption password or digital signature settings.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to make a saved document conform to an older ODT schema. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;OdtSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_MeasureUnit(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a269c9c2057c22c98afc3144dc901562ba3040cc6624f5c309963dee141936b299" kindref="member" tooltip="Specifies that the document content is saved using centimeters.">OdtSaveMeasureUnit::Centimeters</ref>);</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_IsStrictSchema11(exportToOdt11Specs);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OdtSaveOptions.Odt11Schema.odt&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to use different measurement units to define style parameters of a saved ODT document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>export<sp/>the<sp/>document<sp/>to<sp/>.odt,<sp/>we<sp/>can<sp/>use<sp/>an<sp/>OdtSaveOptions<sp/>object<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>save<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>the<sp/>&quot;MeasureUnit&quot;<sp/>property<sp/>to<sp/>&quot;OdtSaveMeasureUnit.Centimeters&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>define<sp/>content<sp/>such<sp/>as<sp/>style<sp/>parameters<sp/>using<sp/>the<sp/>metric<sp/>system,<sp/>which<sp/>Open<sp/>Office<sp/>uses.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>the<sp/>&quot;MeasureUnit&quot;<sp/>property<sp/>to<sp/>&quot;OdtSaveMeasureUnit.Inches&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>define<sp/>content<sp/>such<sp/>as<sp/>style<sp/>parameters<sp/>using<sp/>the<sp/>imperial<sp/>system,<sp/>which<sp/>Microsoft<sp/>Word<sp/>uses.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;OdtSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_MeasureUnit(odtSaveMeasureUnit);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OdtSaveOptions.Odt11Schema.odt&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::OdtSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Saving::SaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_save_options"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::OdtSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Saving::SaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_save_options"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" line="57" column="1" bodyfile="Aspose.Words.Cpp/Saving/OdtSaveOptions.h" bodystart="58" bodyend="251"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1aa0d67ac01c0f72eaac981dc7070d7f48" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a5f8b7264160980e775d0ebc2bb87ec6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>CreateSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a92aa5f878a1d0f3e06f620fd1376142f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>CreateSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9fecca2156a70f1834bd1c913a129d47" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>get_AllowEmbeddingPostScriptFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab9a4c7be9e7070ecbd5248bf01535ef3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>get_CustomTimeZoneInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a327b0f9146d84c39d72f09dffb55970d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>get_DefaultTemplate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ac309d37b349e0fd18de204c4b3493113" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>get_Dml3DEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0ad6a41669029f8bcb5d56ccd8eb1f25" prot="public" virt="virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>get_DmlEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a40d3faab0e88622c6fac579bbc050772" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>get_DmlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1add57516835dfbc84b4ac55117e03a6a5" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>get_ExportGeneratorName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab3a4c36623e1cba81e21fb0c18fc27d6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>get_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a4032bbd708177dd64e3ba455a509e470" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>get_ImlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1acfecc980a06e0a12c29b533b486d5a62" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>get_IsStrictSchema11</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1af8880fb7b66abebab8d949c1003cd196" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>get_MeasureUnit</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a00434e0916cf24f88a1cff9f4952bff3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>get_MemoryOptimization</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1a16e2dcdcaaa0bc8bd984b173f80a2c9e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>get_Password</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1af3590697cf94e5b1f546536a3bb20089" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>get_PrettyFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aabbd691992af320129ecf001454428b1" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>get_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1ad590cbd70671fb63b53120c1c9f5f7f4" prot="public" virt="virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>get_SaveFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2eb22d168e7885c69f1a5ee73dfa9a9c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>get_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aafd986a59939576b688baf70ae2982b9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>get_UpdateCreatedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9058403d0bf8ef363c7265927c7d9689" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>get_UpdateFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ae00124e73b7ed35821a822f59a98456d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>get_UpdateLastPrintedProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aa37a14113e46f96d6a4100f33dbb41cd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>get_UpdateLastSavedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6ba4c67d7befc1d3959119554bc6ca0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>get_UpdateSdtContent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ac07a919eda7dd3104c3539643caab82f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>get_UseAntiAliasing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a926127b8a13db96c893d2e327d1ac458" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>get_UseHighQualityRendering</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1a1cfc578e4cf45977a0c6997cc281b1e3" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1a8a3ceb31dc626db4c9615e44cdad64e0" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1a27c6f97f8171b1cb1b8256eab23307db" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1a40fd62fed38eb3117088ab87275355b3" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1aa882c1959e5f6fcba2cf743527fbc712" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>OdtSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1a8611f2b6ca522703c15ba6541908c0c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>OdtSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1ae6726aa20f9faf537d087beced0fc000" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>OdtSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1a31b7a17a74ac185eaf0a2496133e1032" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9bf0591a869b2046558fac161fb5c8b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>set_AllowEmbeddingPostScriptFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a70292d5b6ed5dd4ed81ab6779ada5037" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>set_CustomTimeZoneInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6d50c71651e23523dd4edae9c8e03b0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>set_DefaultTemplate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a52f28c6f920bd4829f304f586dd52a4e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>set_Dml3DEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0415bb8f17f114f5b8bfbf77822f3e33" prot="public" virt="virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>set_DmlEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a925282153c1c7004637ce406968cd6bd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>set_DmlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2b3bada9094a54559b832d5051f5be6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>set_ExportGeneratorName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f2f79ea57714961156f913867823fc2" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>set_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afe2fd3cb5119a04f528a9da4b6c643b6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>set_ImlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1a3004ece47f6b4b629eed382a45e05610" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>set_IsStrictSchema11</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1a6b0dd40a2fa980660b91ef01f2efb041" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>set_MeasureUnit</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1b432af0d799842b6939005904d924b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>set_MemoryOptimization</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1a8384b924755185a2cae5640b93622a36" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>set_Password</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0333c9e934c7b7066c108975a65291c9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>set_PrettyFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3ca5c36f7f1922b1f7b1f6e8528e29c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>set_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1a9fd15766be526bb5e438cc179993276f" prot="public" virt="virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>set_SaveFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a7488c6e1d35b21dda1fb3a6b24eb077c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>set_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aa6b3c59d2b5d93ecd4af333e7731a57a" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>set_UpdateCreatedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1ca0e9e7685d9cfdacad9b0c1c47fede" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>set_UpdateFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9253b0a7481cec6751f2d6e186d15f89" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>set_UpdateLastPrintedProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f8626f9e2fdd5ea38f656ecffea4433" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>set_UpdateLastSavedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afc31fd439351d75447554d3196522687" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>set_UpdateSdtContent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aee6a47d5aa51895c89fb99333990b15c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>set_UseAntiAliasing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aadd8de8195c06388cf619673c020dad3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>set_UseHighQualityRendering</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1af6ee81ecca69bdeb8a707f2460b855e3" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_odt_save_options_1acd7424ce78be408a13faafef6e50743e" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::OdtSaveOptions</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

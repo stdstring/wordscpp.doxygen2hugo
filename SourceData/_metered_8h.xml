@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="_metered_8h" kind="file" language="C++">
+    <compoundname>Metered.h</compoundname>
+    <includes local="no">system/object.h</includes>
+    <includes refid="aspose__words__api__defs_8h" local="no">Aspose.Words.Cpp/aspose_words_api_defs.h</includes>
+    <includedby refid="_licensing_2_metered_2_metered_8h" local="no">Aspose.Words.Cpp/Licensing/Metered/Metered.h</includedby>
+    <incdepgraph>
+      <node id="1">
+        <label>Aspose.Words.Cpp/Metered.h</label>
+        <link refid="_metered_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>Aspose.Words.Cpp/aspose_words_api_defs.h</label>
+        <link refid="aspose__words__api__defs_8h_source"/>
+      </node>
+      <node id="2">
+        <label>system/object.h</label>
+      </node>
+    </incdepgraph>
+    <invincdepgraph>
+      <node id="2">
+        <label>Aspose.Words.Cpp/Licensing/Metered/Metered.h</label>
+        <link refid="_licensing_2_metered_2_metered_8h_source"/>
+      </node>
+      <node id="1">
+        <label>Aspose.Words.Cpp/Metered.h</label>
+        <link refid="_metered_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+      </node>
+    </invincdepgraph>
+    <innerclass refid="class_aspose_1_1_words_1_1_metered" prot="public">Aspose::Words::Metered</innerclass>
+    <innernamespace refid="namespace_aspose">Aspose</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words">Aspose::Words</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/Metered.h"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,767 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_revision_collection" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::RevisionCollection</compoundname>
+    <basecompoundref refid="class/system.collections.generic.i_enumerable/" prot="public" virt="non-virtual">System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Revision &gt; &gt;</basecompoundref>
+    <includes refid="_revision_collection_8h" local="no">Aspose.Words.Cpp/RevisionCollection.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_revision_collection_1a60047f6d87f17e83c9bb2f221e0f641f" prot="private" static="no">
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_revision" kindref="compound">Aspose::Words::Revision</ref> &gt; &gt;</type>
+        <definition>typedef System::Collections::Generic::IEnumerable&lt;System::SharedPtr&lt;Aspose::Words::Revision&gt; &gt; Aspose::Words::RevisionCollection::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::RevisionCollection::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionCollection.h" line="132" column="55" bodyfile="Aspose.Words.Cpp/RevisionCollection.h" bodystart="132" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_revision_collection_1a0b9efeec00f51196e4e86fad0f4de170" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_revision_collection" kindref="compound">RevisionCollection</ref></type>
+        <definition>typedef RevisionCollection Aspose::Words::RevisionCollection::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::RevisionCollection::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionCollection.h" line="131" column="32" bodyfile="Aspose.Words.Cpp/RevisionCollection.h" bodystart="131" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_revision_collection_1a5ecb66a5c5e277e0fb5bea6908cc8011" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::RevisionCollection::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::RevisionCollection::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionCollection.h" line="134" column="37" bodyfile="Aspose.Words.Cpp/RevisionCollection.h" bodystart="134" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_revision_collection_1a2fb1bf527faf0c2c0e3f132b0cea3250" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::RevisionCollection::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::RevisionCollection::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionCollection.h" line="535" column="23" bodyfile="Aspose.Words.Cpp/RevisionCollection.h" bodystart="535" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_revision_collection_1a7f6e9fa11f12cf10784375592e789b10" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::RevisionCollection::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::RevisionCollection::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionCollection.h" line="536" column="23" bodyfile="Aspose.Words.Cpp/RevisionCollection.h" bodystart="536" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_revision_collection_1a28a2079e077dbf03e618b937eadcf2be" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::RevisionCollection::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::RevisionCollection::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionCollection.h" line="537" column="21" bodyfile="Aspose.Words.Cpp/RevisionCollection.h" bodystart="537" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_revision_collection_1ae5b645e8a808eb0f6f5bea7057319fd4" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::RevisionCollection::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::RevisionCollection::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionCollection.h" line="538" column="23" bodyfile="Aspose.Words.Cpp/RevisionCollection.h" bodystart="538" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_revision_collection_1a1304e4d2f427e12603cb7c542a3da086" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::RevisionCollection::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::RevisionCollection::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionCollection.h" line="539" column="23" bodyfile="Aspose.Words.Cpp/RevisionCollection.h" bodystart="539" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_revision_collection_1a7d93e2c2867b6523aa1a3721df489ec0" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::RevisionCollection::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::RevisionCollection::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionCollection.h" line="540" column="23" bodyfile="Aspose.Words.Cpp/RevisionCollection.h" bodystart="540" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_revision_collection_1a0f7ae1614da9a3276c3049284c3121ab" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::RevisionCollection::mField6</definition>
+        <argsstring></argsstring>
+        <name>mField6</name>
+        <qualifiedname>Aspose::Words::RevisionCollection::mField6</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionCollection.h" line="542" column="23" bodyfile="Aspose.Words.Cpp/RevisionCollection.h" bodystart="542" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_revision_collection_1abebe9cea3237c38e645d475de802c757" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::RevisionCollection::~RevisionCollection</definition>
+        <argsstring>()</argsstring>
+        <name>~RevisionCollection</name>
+        <qualifiedname>Aspose::Words::RevisionCollection::~RevisionCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionCollection.h" line="531" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_revision_collection_1ac774a56adbf9677b6a17008af243d611" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::RevisionCollection::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::RevisionCollection::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionCollection.h" line="135" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_revision_collection_1ac86db1db8ea417c09618a117671fd2c1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::RevisionCollection::AcceptAll</definition>
+        <argsstring>()</argsstring>
+        <name>AcceptAll</name>
+        <qualifiedname>Aspose::Words::RevisionCollection::AcceptAll</qualifiedname>
+        <briefdescription>
+<para>Accepts all revisions in this collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to compare documents. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>docOriginal<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(docOriginal);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>the<sp/>original<sp/>document.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>docEdited<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(docEdited);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>the<sp/>edited<sp/>document.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Comparing<sp/>documents<sp/>with<sp/>revisions<sp/>will<sp/>throw<sp/>an<sp/>exception.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(docOriginal-&gt;get_Revisions()-&gt;get_Count()<sp/>==<sp/>0<sp/>&amp;&amp;<sp/>docEdited-&gt;get_Revisions()-&gt;get_Count()<sp/>==<sp/>0)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>docOriginal-&gt;Compare(docEdited,<sp/>u</highlight><highlight class="stringliteral">&quot;authorName&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>After<sp/>the<sp/>comparison,<sp/>the<sp/>original<sp/>document<sp/>will<sp/>gain<sp/>a<sp/>new<sp/>revision</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>for<sp/>every<sp/>element<sp/>that<sp/>is<sp/>different<sp/>in<sp/>the<sp/>edited<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>r<sp/>:<sp/>System::IterateOver(docOriginal-&gt;get_Revisions()))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;Revision<sp/>type:<sp/>{0},<sp/>on<sp/>a<sp/>node<sp/>of<sp/>type<sp/>\&quot;{1}\&quot;&quot;</highlight><highlight class="normal">,<sp/>r-&gt;get_RevisionType(),<sp/>r-&gt;get_ParentNode()-&gt;get_NodeType())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tChanged<sp/>text:<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>r-&gt;get_ParentNode()-&gt;GetText()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Accepting<sp/>these<sp/>revisions<sp/>will<sp/>transform<sp/>the<sp/>original<sp/>document<sp/>into<sp/>the<sp/>edited<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">docOriginal-&gt;get_Revisions()-&gt;AcceptAll();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(docOriginal-&gt;GetText(),<sp/>docEdited-&gt;GetText());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionCollection.h" line="316" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_revision_collection_1a14d8a36417b484a8fb9f5ad25d0b8a5a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::RevisionCollection::get_Count</definition>
+        <argsstring>()</argsstring>
+        <name>get_Count</name>
+        <qualifiedname>Aspose::Words::RevisionCollection::get_Count</qualifiedname>
+        <briefdescription>
+<para>Returns the number of revisions in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with revisions in a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Normal<sp/>editing<sp/>of<sp/>the<sp/>document<sp/>does<sp/>not<sp/>count<sp/>as<sp/>a<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>does<sp/>not<sp/>count<sp/>as<sp/>a<sp/>revision.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(doc-&gt;get_HasRevisions());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>To<sp/>register<sp/>our<sp/>edits<sp/>as<sp/>revisions,<sp/>we<sp/>need<sp/>to<sp/>declare<sp/>an<sp/>author,<sp/>and<sp/>then<sp/>start<sp/>tracking<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;StartTrackRevisions(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>revision<sp/>#1.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_HasRevisions());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>doc-&gt;get_Revisions()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>flag<sp/>corresponds<sp/>to<sp/>the<sp/>&quot;Review&quot;<sp/>-&gt;<sp/>&quot;Tracking&quot;<sp/>-&gt;<sp/>&quot;Track<sp/>Changes&quot;<sp/>option<sp/>in<sp/>Microsoft<sp/>Word.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;StartTrackRevisions&quot;<sp/>method<sp/>does<sp/>not<sp/>affect<sp/>its<sp/>value,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>document<sp/>is<sp/>tracking<sp/>revisions<sp/>programmatically<sp/>despite<sp/>it<sp/>having<sp/>a<sp/>value<sp/>of<sp/>&quot;false&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>open<sp/>this<sp/>document<sp/>using<sp/>Microsoft<sp/>Word,<sp/>it<sp/>will<sp/>not<sp/>be<sp/>tracking<sp/>revisions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(doc-&gt;get_TrackRevisions());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>have<sp/>added<sp/>text<sp/>using<sp/>the<sp/>document<sp/>builder,<sp/>so<sp/>the<sp/>first<sp/>revision<sp/>is<sp/>an<sp/>insertion-type<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Revision&gt;<sp/>revision<sp/>=<sp/>doc-&gt;get_Revisions()-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/>revision-&gt;get_Author());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>revision<sp/>#1.<sp/>&quot;</highlight><highlight class="normal">,<sp/>revision-&gt;get_ParentNode()-&gt;GetText());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a43309065c8be1f20fae8bd689084cc2ba3e8592679127932ad5203da071625c5d" kindref="member" tooltip="New content was inserted in the document.">RevisionType::Insertion</ref>,<sp/>revision-&gt;get_RevisionType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(revision-&gt;get_DateTime().get_Date(),<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>().get_Date());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(doc-&gt;get_Revisions()-&gt;get_Groups()-&gt;idx_get(0),<sp/>revision-&gt;get_Group());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>a<sp/>run<sp/>to<sp/>create<sp/>a<sp/>deletion-type<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;get_Runs()-&gt;idx_get(0)-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Adding<sp/>a<sp/>new<sp/>revision<sp/>places<sp/>it<sp/>at<sp/>the<sp/>beginning<sp/>of<sp/>the<sp/>revision<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a43309065c8be1f20fae8bd689084cc2baa1998652b01bdc9e7128734efb804780" kindref="member" tooltip="Content was removed from the document.">RevisionType::Deletion</ref>,<sp/>doc-&gt;get_Revisions()-&gt;idx_get(0)-&gt;get_RevisionType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_Revisions()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>revisions<sp/>show<sp/>up<sp/>in<sp/>the<sp/>document<sp/>body<sp/>even<sp/>before<sp/>we<sp/>accept/reject<sp/>the<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Rejecting<sp/>the<sp/>revision<sp/>will<sp/>remove<sp/>its<sp/>nodes<sp/>from<sp/>the<sp/>body.<sp/>Conversely,<sp/>nodes<sp/>that<sp/>make<sp/>up<sp/>delete<sp/>revisions</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>also<sp/>linger<sp/>in<sp/>the<sp/>document<sp/>until<sp/>we<sp/>accept<sp/>the<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;This<sp/>does<sp/>not<sp/>count<sp/>as<sp/>a<sp/>revision.<sp/>This<sp/>is<sp/>revision<sp/>#1.&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Accepting<sp/>the<sp/>delete<sp/>revision<sp/>will<sp/>remove<sp/>its<sp/>parent<sp/>node<sp/>from<sp/>the<sp/>paragraph<sp/>text</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>remove<sp/>the<sp/>collection&apos;s<sp/>revision<sp/>itself.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Revisions()-&gt;idx_get(0)-&gt;Accept();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>doc-&gt;get_Revisions()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>revision<sp/>#1.&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>revision<sp/>#2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Now<sp/>move<sp/>the<sp/>node<sp/>to<sp/>create<sp/>a<sp/>moving<sp/>revision<sp/>type.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Node&gt;<sp/>node<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;idx_get(1);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Node&gt;<sp/>endNode<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;idx_get(1)-&gt;get_NextSibling();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Node&gt;<sp/>referenceNode<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(node<sp/>!=<sp/>endNode)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Node&gt;<sp/>nextNode<sp/>=<sp/>node-&gt;get_NextSibling();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;InsertBefore(node,<sp/>referenceNode);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>node<sp/>=<sp/>nextNode;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a43309065c8be1f20fae8bd689084cc2badefe967ad0373b2274fc298f19125ca7" kindref="member" tooltip="Content was moved in the document.">RevisionType::Moving</ref>,<sp/>doc-&gt;get_Revisions()-&gt;idx_get(0)-&gt;get_RevisionType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(8,<sp/>doc-&gt;get_Revisions()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>revision<sp/>#2.\rThis<sp/>is<sp/>revision<sp/>#1.<sp/>\rThis<sp/>is<sp/>revision<sp/>#2.&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>moving<sp/>revision<sp/>is<sp/>now<sp/>at<sp/>index<sp/>1.<sp/>Reject<sp/>the<sp/>revision<sp/>to<sp/>discard<sp/>its<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Revisions()-&gt;idx_get(1)-&gt;Reject();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(6,<sp/>doc-&gt;get_Revisions()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>revision<sp/>#1.<sp/>\rThis<sp/>is<sp/>revision<sp/>#2.&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionCollection.h" line="221" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_revision_collection_1a0b053d3f0e9f581d9ca2cbd78e134684" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_revision_group_collection" kindref="compound">Aspose::Words::RevisionGroupCollection</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::RevisionGroupCollection &gt; Aspose::Words::RevisionCollection::get_Groups</definition>
+        <argsstring>()</argsstring>
+        <name>get_Groups</name>
+        <qualifiedname>Aspose::Words::RevisionCollection::get_Groups</qualifiedname>
+        <briefdescription>
+<para>Collection of revision groups. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with a document&apos;s collection of revisions. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Revisions.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;RevisionCollection&gt;<sp/>revisions<sp/>=<sp/>doc-&gt;get_Revisions();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>collection<sp/>itself<sp/>has<sp/>a<sp/>collection<sp/>of<sp/>revision<sp/>groups.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>group<sp/>is<sp/>a<sp/>sequence<sp/>of<sp/>adjacent<sp/>revisions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/>revisions-&gt;get_Groups()-&gt;get_Count()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>revision<sp/>groups:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Iterate<sp/>over<sp/>the<sp/>collection<sp/>of<sp/>groups<sp/>and<sp/>print<sp/>the<sp/>text<sp/>that<sp/>the<sp/>revision<sp/>concerns.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;RevisionGroup&gt;&gt;&gt;<sp/>e<sp/>=<sp/>revisions-&gt;get_Groups()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(e-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String::Format(u</highlight><highlight class="stringliteral">&quot;\tGroup<sp/>type<sp/>\&quot;{0}\&quot;,<sp/>&quot;</highlight><highlight class="normal">,<sp/>e-&gt;get_Current()-&gt;get_RevisionType())<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;author:<sp/>{0},<sp/>contents:<sp/>[{1}]&quot;</highlight><highlight class="normal">,<sp/>e-&gt;get_Current()-&gt;get_Author(),<sp/>e-&gt;get_Current()-&gt;get_Text().Trim()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>Run<sp/>that<sp/>a<sp/>revision<sp/>affects<sp/>gets<sp/>a<sp/>corresponding<sp/>Revision<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>revisions&apos;<sp/>collection<sp/>is<sp/>considerably<sp/>larger<sp/>than<sp/>the<sp/>condensed<sp/>form<sp/>we<sp/>printed<sp/>above,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>depending<sp/>on<sp/>how<sp/>many<sp/>Runs<sp/>we<sp/>have<sp/>segmented<sp/>the<sp/>document<sp/>into<sp/>during<sp/>Microsoft<sp/>Word<sp/>editing.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\n&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>revisions-&gt;get_Count()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>revisions:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;Revision&gt;&gt;&gt;<sp/>e<sp/>=<sp/>revisions-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(e-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>StyleDefinitionChange<sp/>strictly<sp/>affects<sp/>styles<sp/>and<sp/>not<sp/>document<sp/>nodes.<sp/>This<sp/>means<sp/>the<sp/>&quot;ParentStyle&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>property<sp/>will<sp/>always<sp/>be<sp/>in<sp/>use,<sp/>while<sp/>the<sp/>ParentNode<sp/>will<sp/>always<sp/>be<sp/>null.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Since<sp/>all<sp/>other<sp/>changes<sp/>affect<sp/>nodes,<sp/>ParentNode<sp/>will<sp/>conversely<sp/>be<sp/>in<sp/>use,<sp/>and<sp/>ParentStyle<sp/>will<sp/>be<sp/>null.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(e-&gt;get_Current()-&gt;get_RevisionType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1a43309065c8be1f20fae8bd689084cc2ba9c443956e1fce4c1c19d216b6ef77260" kindref="member" tooltip="Change of formatting was applied to the parent style.">RevisionType::StyleDefinitionChange</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String::Format(u</highlight><highlight class="stringliteral">&quot;\tRevision<sp/>type<sp/>\&quot;{0}\&quot;,<sp/>&quot;</highlight><highlight class="normal">,<sp/>e-&gt;get_Current()-&gt;get_RevisionType())<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;author:<sp/>{0},<sp/>style:<sp/>[{1}]&quot;</highlight><highlight class="normal">,<sp/>e-&gt;get_Current()-&gt;get_Author(),<sp/>e-&gt;get_Current()-&gt;get_ParentStyle()-&gt;get_Name()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String::Format(u</highlight><highlight class="stringliteral">&quot;\tRevision<sp/>type<sp/>\&quot;{0}\&quot;,<sp/>&quot;</highlight><highlight class="normal">,<sp/>e-&gt;get_Current()-&gt;get_RevisionType())<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;author:<sp/>{0},<sp/>contents:<sp/>[{1}]&quot;</highlight><highlight class="normal">,<sp/>e-&gt;get_Current()-&gt;get_Author(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>e-&gt;get_Current()-&gt;get_ParentNode()-&gt;GetText().Trim()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Reject<sp/>all<sp/>revisions<sp/>via<sp/>the<sp/>collection,<sp/>reverting<sp/>the<sp/>document<sp/>to<sp/>its<sp/>original<sp/>form.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">revisions-&gt;RejectAll();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>revisions-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionCollection.h" line="280" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_revision_collection_1a44b785194c5200249600afc89d95de98" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_revision" kindref="compound">Aspose::Words::Revision</ref> &gt; &gt; &gt;</type>
+        <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::SharedPtr&lt; Aspose::Words::Revision &gt; &gt; &gt; Aspose::Words::RevisionCollection::GetEnumerator</definition>
+        <argsstring>() override</argsstring>
+        <name>GetEnumerator</name>
+        <qualifiedname>Aspose::Words::RevisionCollection::GetEnumerator</qualifiedname>
+        <briefdescription>
+<para>Returns an enumerator object. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with a document&apos;s collection of revisions. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Revisions.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;RevisionCollection&gt;<sp/>revisions<sp/>=<sp/>doc-&gt;get_Revisions();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>collection<sp/>itself<sp/>has<sp/>a<sp/>collection<sp/>of<sp/>revision<sp/>groups.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>group<sp/>is<sp/>a<sp/>sequence<sp/>of<sp/>adjacent<sp/>revisions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/>revisions-&gt;get_Groups()-&gt;get_Count()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>revision<sp/>groups:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Iterate<sp/>over<sp/>the<sp/>collection<sp/>of<sp/>groups<sp/>and<sp/>print<sp/>the<sp/>text<sp/>that<sp/>the<sp/>revision<sp/>concerns.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;RevisionGroup&gt;&gt;&gt;<sp/>e<sp/>=<sp/>revisions-&gt;get_Groups()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(e-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String::Format(u</highlight><highlight class="stringliteral">&quot;\tGroup<sp/>type<sp/>\&quot;{0}\&quot;,<sp/>&quot;</highlight><highlight class="normal">,<sp/>e-&gt;get_Current()-&gt;get_RevisionType())<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;author:<sp/>{0},<sp/>contents:<sp/>[{1}]&quot;</highlight><highlight class="normal">,<sp/>e-&gt;get_Current()-&gt;get_Author(),<sp/>e-&gt;get_Current()-&gt;get_Text().Trim()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>Run<sp/>that<sp/>a<sp/>revision<sp/>affects<sp/>gets<sp/>a<sp/>corresponding<sp/>Revision<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>revisions&apos;<sp/>collection<sp/>is<sp/>considerably<sp/>larger<sp/>than<sp/>the<sp/>condensed<sp/>form<sp/>we<sp/>printed<sp/>above,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>depending<sp/>on<sp/>how<sp/>many<sp/>Runs<sp/>we<sp/>have<sp/>segmented<sp/>the<sp/>document<sp/>into<sp/>during<sp/>Microsoft<sp/>Word<sp/>editing.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\n&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>revisions-&gt;get_Count()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>revisions:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;Revision&gt;&gt;&gt;<sp/>e<sp/>=<sp/>revisions-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(e-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>StyleDefinitionChange<sp/>strictly<sp/>affects<sp/>styles<sp/>and<sp/>not<sp/>document<sp/>nodes.<sp/>This<sp/>means<sp/>the<sp/>&quot;ParentStyle&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>property<sp/>will<sp/>always<sp/>be<sp/>in<sp/>use,<sp/>while<sp/>the<sp/>ParentNode<sp/>will<sp/>always<sp/>be<sp/>null.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Since<sp/>all<sp/>other<sp/>changes<sp/>affect<sp/>nodes,<sp/>ParentNode<sp/>will<sp/>conversely<sp/>be<sp/>in<sp/>use,<sp/>and<sp/>ParentStyle<sp/>will<sp/>be<sp/>null.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(e-&gt;get_Current()-&gt;get_RevisionType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1a43309065c8be1f20fae8bd689084cc2ba9c443956e1fce4c1c19d216b6ef77260" kindref="member" tooltip="Change of formatting was applied to the parent style.">RevisionType::StyleDefinitionChange</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String::Format(u</highlight><highlight class="stringliteral">&quot;\tRevision<sp/>type<sp/>\&quot;{0}\&quot;,<sp/>&quot;</highlight><highlight class="normal">,<sp/>e-&gt;get_Current()-&gt;get_RevisionType())<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;author:<sp/>{0},<sp/>style:<sp/>[{1}]&quot;</highlight><highlight class="normal">,<sp/>e-&gt;get_Current()-&gt;get_Author(),<sp/>e-&gt;get_Current()-&gt;get_ParentStyle()-&gt;get_Name()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String::Format(u</highlight><highlight class="stringliteral">&quot;\tRevision<sp/>type<sp/>\&quot;{0}\&quot;,<sp/>&quot;</highlight><highlight class="normal">,<sp/>e-&gt;get_Current()-&gt;get_RevisionType())<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;author:<sp/>{0},<sp/>contents:<sp/>[{1}]&quot;</highlight><highlight class="normal">,<sp/>e-&gt;get_Current()-&gt;get_Author(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>e-&gt;get_Current()-&gt;get_ParentNode()-&gt;GetText().Trim()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Reject<sp/>all<sp/>revisions<sp/>via<sp/>the<sp/>collection,<sp/>reverting<sp/>the<sp/>document<sp/>to<sp/>its<sp/>original<sp/>form.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">revisions-&gt;RejectAll();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>revisions-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionCollection.h" line="527" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_revision_collection_1a7a4740509ecd1d32aa3eb95edd07cd25" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_revision" kindref="compound">Aspose::Words::Revision</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Revision &gt; Aspose::Words::RevisionCollection::idx_get</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>idx_get</name>
+        <qualifiedname>Aspose::Words::RevisionCollection::idx_get</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Returns a <ref refid="class_aspose_1_1_words_1_1_revision" kindref="compound">Revision</ref> at the specified index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The index is zero-based.</para>
+<para>Negative indexes are allowed and indicate access from the back of the collection. For example -1 means the last item, -2 means the second before last and so on.</para>
+<para>If index is greater than or equal to the number of items in the list, this returns a null reference.</para>
+<para>If index is negative and its absolute value is greater than the number of items in the list, this returns a null reference.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>index</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>An index into the collection.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with revisions in a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Normal<sp/>editing<sp/>of<sp/>the<sp/>document<sp/>does<sp/>not<sp/>count<sp/>as<sp/>a<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>does<sp/>not<sp/>count<sp/>as<sp/>a<sp/>revision.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(doc-&gt;get_HasRevisions());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>To<sp/>register<sp/>our<sp/>edits<sp/>as<sp/>revisions,<sp/>we<sp/>need<sp/>to<sp/>declare<sp/>an<sp/>author,<sp/>and<sp/>then<sp/>start<sp/>tracking<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;StartTrackRevisions(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>revision<sp/>#1.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_HasRevisions());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>doc-&gt;get_Revisions()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>flag<sp/>corresponds<sp/>to<sp/>the<sp/>&quot;Review&quot;<sp/>-&gt;<sp/>&quot;Tracking&quot;<sp/>-&gt;<sp/>&quot;Track<sp/>Changes&quot;<sp/>option<sp/>in<sp/>Microsoft<sp/>Word.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;StartTrackRevisions&quot;<sp/>method<sp/>does<sp/>not<sp/>affect<sp/>its<sp/>value,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>document<sp/>is<sp/>tracking<sp/>revisions<sp/>programmatically<sp/>despite<sp/>it<sp/>having<sp/>a<sp/>value<sp/>of<sp/>&quot;false&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>open<sp/>this<sp/>document<sp/>using<sp/>Microsoft<sp/>Word,<sp/>it<sp/>will<sp/>not<sp/>be<sp/>tracking<sp/>revisions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(doc-&gt;get_TrackRevisions());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>have<sp/>added<sp/>text<sp/>using<sp/>the<sp/>document<sp/>builder,<sp/>so<sp/>the<sp/>first<sp/>revision<sp/>is<sp/>an<sp/>insertion-type<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Revision&gt;<sp/>revision<sp/>=<sp/>doc-&gt;get_Revisions()-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/>revision-&gt;get_Author());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>revision<sp/>#1.<sp/>&quot;</highlight><highlight class="normal">,<sp/>revision-&gt;get_ParentNode()-&gt;GetText());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a43309065c8be1f20fae8bd689084cc2ba3e8592679127932ad5203da071625c5d" kindref="member" tooltip="New content was inserted in the document.">RevisionType::Insertion</ref>,<sp/>revision-&gt;get_RevisionType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(revision-&gt;get_DateTime().get_Date(),<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>().get_Date());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(doc-&gt;get_Revisions()-&gt;get_Groups()-&gt;idx_get(0),<sp/>revision-&gt;get_Group());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>a<sp/>run<sp/>to<sp/>create<sp/>a<sp/>deletion-type<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;get_Runs()-&gt;idx_get(0)-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Adding<sp/>a<sp/>new<sp/>revision<sp/>places<sp/>it<sp/>at<sp/>the<sp/>beginning<sp/>of<sp/>the<sp/>revision<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a43309065c8be1f20fae8bd689084cc2baa1998652b01bdc9e7128734efb804780" kindref="member" tooltip="Content was removed from the document.">RevisionType::Deletion</ref>,<sp/>doc-&gt;get_Revisions()-&gt;idx_get(0)-&gt;get_RevisionType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_Revisions()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>revisions<sp/>show<sp/>up<sp/>in<sp/>the<sp/>document<sp/>body<sp/>even<sp/>before<sp/>we<sp/>accept/reject<sp/>the<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Rejecting<sp/>the<sp/>revision<sp/>will<sp/>remove<sp/>its<sp/>nodes<sp/>from<sp/>the<sp/>body.<sp/>Conversely,<sp/>nodes<sp/>that<sp/>make<sp/>up<sp/>delete<sp/>revisions</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>also<sp/>linger<sp/>in<sp/>the<sp/>document<sp/>until<sp/>we<sp/>accept<sp/>the<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;This<sp/>does<sp/>not<sp/>count<sp/>as<sp/>a<sp/>revision.<sp/>This<sp/>is<sp/>revision<sp/>#1.&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Accepting<sp/>the<sp/>delete<sp/>revision<sp/>will<sp/>remove<sp/>its<sp/>parent<sp/>node<sp/>from<sp/>the<sp/>paragraph<sp/>text</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>remove<sp/>the<sp/>collection&apos;s<sp/>revision<sp/>itself.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Revisions()-&gt;idx_get(0)-&gt;Accept();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>doc-&gt;get_Revisions()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>revision<sp/>#1.&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>revision<sp/>#2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Now<sp/>move<sp/>the<sp/>node<sp/>to<sp/>create<sp/>a<sp/>moving<sp/>revision<sp/>type.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Node&gt;<sp/>node<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;idx_get(1);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Node&gt;<sp/>endNode<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;idx_get(1)-&gt;get_NextSibling();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Node&gt;<sp/>referenceNode<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(node<sp/>!=<sp/>endNode)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Node&gt;<sp/>nextNode<sp/>=<sp/>node-&gt;get_NextSibling();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;InsertBefore(node,<sp/>referenceNode);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>node<sp/>=<sp/>nextNode;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a43309065c8be1f20fae8bd689084cc2badefe967ad0373b2274fc298f19125ca7" kindref="member" tooltip="Content was moved in the document.">RevisionType::Moving</ref>,<sp/>doc-&gt;get_Revisions()-&gt;idx_get(0)-&gt;get_RevisionType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(8,<sp/>doc-&gt;get_Revisions()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>revision<sp/>#2.\rThis<sp/>is<sp/>revision<sp/>#1.<sp/>\rThis<sp/>is<sp/>revision<sp/>#2.&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>moving<sp/>revision<sp/>is<sp/>now<sp/>at<sp/>index<sp/>1.<sp/>Reject<sp/>the<sp/>revision<sp/>to<sp/>discard<sp/>its<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Revisions()-&gt;idx_get(1)-&gt;Reject();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(6,<sp/>doc-&gt;get_Revisions()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>revision<sp/>#1.<sp/>\rThis<sp/>is<sp/>revision<sp/>#2.&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionCollection.h" line="468" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_revision_collection_1ade063e90e8632c54d0fb6b7c398fecd0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::RevisionCollection::RejectAll</definition>
+        <argsstring>()</argsstring>
+        <name>RejectAll</name>
+        <qualifiedname>Aspose::Words::RevisionCollection::RejectAll</qualifiedname>
+        <briefdescription>
+<para>Rejects all revisions in this collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with a document&apos;s collection of revisions. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Revisions.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;RevisionCollection&gt;<sp/>revisions<sp/>=<sp/>doc-&gt;get_Revisions();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>collection<sp/>itself<sp/>has<sp/>a<sp/>collection<sp/>of<sp/>revision<sp/>groups.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>group<sp/>is<sp/>a<sp/>sequence<sp/>of<sp/>adjacent<sp/>revisions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/>revisions-&gt;get_Groups()-&gt;get_Count()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>revision<sp/>groups:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Iterate<sp/>over<sp/>the<sp/>collection<sp/>of<sp/>groups<sp/>and<sp/>print<sp/>the<sp/>text<sp/>that<sp/>the<sp/>revision<sp/>concerns.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;RevisionGroup&gt;&gt;&gt;<sp/>e<sp/>=<sp/>revisions-&gt;get_Groups()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(e-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String::Format(u</highlight><highlight class="stringliteral">&quot;\tGroup<sp/>type<sp/>\&quot;{0}\&quot;,<sp/>&quot;</highlight><highlight class="normal">,<sp/>e-&gt;get_Current()-&gt;get_RevisionType())<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;author:<sp/>{0},<sp/>contents:<sp/>[{1}]&quot;</highlight><highlight class="normal">,<sp/>e-&gt;get_Current()-&gt;get_Author(),<sp/>e-&gt;get_Current()-&gt;get_Text().Trim()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>Run<sp/>that<sp/>a<sp/>revision<sp/>affects<sp/>gets<sp/>a<sp/>corresponding<sp/>Revision<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>revisions&apos;<sp/>collection<sp/>is<sp/>considerably<sp/>larger<sp/>than<sp/>the<sp/>condensed<sp/>form<sp/>we<sp/>printed<sp/>above,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>depending<sp/>on<sp/>how<sp/>many<sp/>Runs<sp/>we<sp/>have<sp/>segmented<sp/>the<sp/>document<sp/>into<sp/>during<sp/>Microsoft<sp/>Word<sp/>editing.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\n&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>revisions-&gt;get_Count()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>revisions:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;Revision&gt;&gt;&gt;<sp/>e<sp/>=<sp/>revisions-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(e-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>StyleDefinitionChange<sp/>strictly<sp/>affects<sp/>styles<sp/>and<sp/>not<sp/>document<sp/>nodes.<sp/>This<sp/>means<sp/>the<sp/>&quot;ParentStyle&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>property<sp/>will<sp/>always<sp/>be<sp/>in<sp/>use,<sp/>while<sp/>the<sp/>ParentNode<sp/>will<sp/>always<sp/>be<sp/>null.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Since<sp/>all<sp/>other<sp/>changes<sp/>affect<sp/>nodes,<sp/>ParentNode<sp/>will<sp/>conversely<sp/>be<sp/>in<sp/>use,<sp/>and<sp/>ParentStyle<sp/>will<sp/>be<sp/>null.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(e-&gt;get_Current()-&gt;get_RevisionType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1a43309065c8be1f20fae8bd689084cc2ba9c443956e1fce4c1c19d216b6ef77260" kindref="member" tooltip="Change of formatting was applied to the parent style.">RevisionType::StyleDefinitionChange</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String::Format(u</highlight><highlight class="stringliteral">&quot;\tRevision<sp/>type<sp/>\&quot;{0}\&quot;,<sp/>&quot;</highlight><highlight class="normal">,<sp/>e-&gt;get_Current()-&gt;get_RevisionType())<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;author:<sp/>{0},<sp/>style:<sp/>[{1}]&quot;</highlight><highlight class="normal">,<sp/>e-&gt;get_Current()-&gt;get_Author(),<sp/>e-&gt;get_Current()-&gt;get_ParentStyle()-&gt;get_Name()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String::Format(u</highlight><highlight class="stringliteral">&quot;\tRevision<sp/>type<sp/>\&quot;{0}\&quot;,<sp/>&quot;</highlight><highlight class="normal">,<sp/>e-&gt;get_Current()-&gt;get_RevisionType())<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;author:<sp/>{0},<sp/>contents:<sp/>[{1}]&quot;</highlight><highlight class="normal">,<sp/>e-&gt;get_Current()-&gt;get_Author(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>e-&gt;get_Current()-&gt;get_ParentNode()-&gt;GetText().Trim()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Reject<sp/>all<sp/>revisions<sp/>via<sp/>the<sp/>collection,<sp/>reverting<sp/>the<sp/>document<sp/>to<sp/>its<sp/>original<sp/>form.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">revisions-&gt;RejectAll();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>revisions-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RevisionCollection.h" line="375" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>A collection of <ref refid="class_aspose_1_1_words_1_1_revision" kindref="compound">Revision</ref> objects that represent revisions in the document. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>You do not create instances of this class directly. Use the <ref refid="class_aspose_1_1_words_1_1_document_1a1badf7f19275367a7a3087a5d31c2d5a" kindref="member">Revisions</ref> property to get revisions present in a document.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with revisions in a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Normal<sp/>editing<sp/>of<sp/>the<sp/>document<sp/>does<sp/>not<sp/>count<sp/>as<sp/>a<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>does<sp/>not<sp/>count<sp/>as<sp/>a<sp/>revision.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(doc-&gt;get_HasRevisions());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>To<sp/>register<sp/>our<sp/>edits<sp/>as<sp/>revisions,<sp/>we<sp/>need<sp/>to<sp/>declare<sp/>an<sp/>author,<sp/>and<sp/>then<sp/>start<sp/>tracking<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;StartTrackRevisions(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>revision<sp/>#1.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_HasRevisions());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>doc-&gt;get_Revisions()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>flag<sp/>corresponds<sp/>to<sp/>the<sp/>&quot;Review&quot;<sp/>-&gt;<sp/>&quot;Tracking&quot;<sp/>-&gt;<sp/>&quot;Track<sp/>Changes&quot;<sp/>option<sp/>in<sp/>Microsoft<sp/>Word.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;StartTrackRevisions&quot;<sp/>method<sp/>does<sp/>not<sp/>affect<sp/>its<sp/>value,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>document<sp/>is<sp/>tracking<sp/>revisions<sp/>programmatically<sp/>despite<sp/>it<sp/>having<sp/>a<sp/>value<sp/>of<sp/>&quot;false&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>open<sp/>this<sp/>document<sp/>using<sp/>Microsoft<sp/>Word,<sp/>it<sp/>will<sp/>not<sp/>be<sp/>tracking<sp/>revisions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(doc-&gt;get_TrackRevisions());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>have<sp/>added<sp/>text<sp/>using<sp/>the<sp/>document<sp/>builder,<sp/>so<sp/>the<sp/>first<sp/>revision<sp/>is<sp/>an<sp/>insertion-type<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Revision&gt;<sp/>revision<sp/>=<sp/>doc-&gt;get_Revisions()-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/>revision-&gt;get_Author());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>revision<sp/>#1.<sp/>&quot;</highlight><highlight class="normal">,<sp/>revision-&gt;get_ParentNode()-&gt;GetText());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a43309065c8be1f20fae8bd689084cc2ba3e8592679127932ad5203da071625c5d" kindref="member" tooltip="New content was inserted in the document.">RevisionType::Insertion</ref>,<sp/>revision-&gt;get_RevisionType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(revision-&gt;get_DateTime().get_Date(),<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>().get_Date());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(doc-&gt;get_Revisions()-&gt;get_Groups()-&gt;idx_get(0),<sp/>revision-&gt;get_Group());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>a<sp/>run<sp/>to<sp/>create<sp/>a<sp/>deletion-type<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;get_Runs()-&gt;idx_get(0)-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Adding<sp/>a<sp/>new<sp/>revision<sp/>places<sp/>it<sp/>at<sp/>the<sp/>beginning<sp/>of<sp/>the<sp/>revision<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a43309065c8be1f20fae8bd689084cc2baa1998652b01bdc9e7128734efb804780" kindref="member" tooltip="Content was removed from the document.">RevisionType::Deletion</ref>,<sp/>doc-&gt;get_Revisions()-&gt;idx_get(0)-&gt;get_RevisionType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_Revisions()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>revisions<sp/>show<sp/>up<sp/>in<sp/>the<sp/>document<sp/>body<sp/>even<sp/>before<sp/>we<sp/>accept/reject<sp/>the<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Rejecting<sp/>the<sp/>revision<sp/>will<sp/>remove<sp/>its<sp/>nodes<sp/>from<sp/>the<sp/>body.<sp/>Conversely,<sp/>nodes<sp/>that<sp/>make<sp/>up<sp/>delete<sp/>revisions</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>also<sp/>linger<sp/>in<sp/>the<sp/>document<sp/>until<sp/>we<sp/>accept<sp/>the<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;This<sp/>does<sp/>not<sp/>count<sp/>as<sp/>a<sp/>revision.<sp/>This<sp/>is<sp/>revision<sp/>#1.&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Accepting<sp/>the<sp/>delete<sp/>revision<sp/>will<sp/>remove<sp/>its<sp/>parent<sp/>node<sp/>from<sp/>the<sp/>paragraph<sp/>text</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>remove<sp/>the<sp/>collection&apos;s<sp/>revision<sp/>itself.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Revisions()-&gt;idx_get(0)-&gt;Accept();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>doc-&gt;get_Revisions()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>revision<sp/>#1.&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>revision<sp/>#2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Now<sp/>move<sp/>the<sp/>node<sp/>to<sp/>create<sp/>a<sp/>moving<sp/>revision<sp/>type.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Node&gt;<sp/>node<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;idx_get(1);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Node&gt;<sp/>endNode<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;idx_get(1)-&gt;get_NextSibling();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Node&gt;<sp/>referenceNode<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(node<sp/>!=<sp/>endNode)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Node&gt;<sp/>nextNode<sp/>=<sp/>node-&gt;get_NextSibling();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;InsertBefore(node,<sp/>referenceNode);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>node<sp/>=<sp/>nextNode;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a43309065c8be1f20fae8bd689084cc2badefe967ad0373b2274fc298f19125ca7" kindref="member" tooltip="Content was moved in the document.">RevisionType::Moving</ref>,<sp/>doc-&gt;get_Revisions()-&gt;idx_get(0)-&gt;get_RevisionType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(8,<sp/>doc-&gt;get_Revisions()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>revision<sp/>#2.\rThis<sp/>is<sp/>revision<sp/>#1.<sp/>\rThis<sp/>is<sp/>revision<sp/>#2.&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>moving<sp/>revision<sp/>is<sp/>now<sp/>at<sp/>index<sp/>1.<sp/>Reject<sp/>the<sp/>revision<sp/>to<sp/>discard<sp/>its<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Revisions()-&gt;idx_get(1)-&gt;Reject();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(6,<sp/>doc-&gt;get_Revisions()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>revision<sp/>#1.<sp/>\rThis<sp/>is<sp/>revision<sp/>#2.&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::RevisionCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_revision_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Revision &gt; &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::RevisionCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_revision_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Revision &gt; &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/RevisionCollection.h" line="129" column="1" bodyfile="Aspose.Words.Cpp/RevisionCollection.h" bodystart="130" bodyend="544"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_revision_collection_1ac86db1db8ea417c09618a117671fd2c1" prot="public" virt="non-virtual"><scope>Aspose::Words::RevisionCollection</scope><name>AcceptAll</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_collection_1a60047f6d87f17e83c9bb2f221e0f641f" prot="private" virt="non-virtual"><scope>Aspose::Words::RevisionCollection</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_collection_1a14d8a36417b484a8fb9f5ad25d0b8a5a" prot="public" virt="non-virtual"><scope>Aspose::Words::RevisionCollection</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_collection_1a0b053d3f0e9f581d9ca2cbd78e134684" prot="public" virt="non-virtual"><scope>Aspose::Words::RevisionCollection</scope><name>get_Groups</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_collection_1a44b785194c5200249600afc89d95de98" prot="public" virt="non-virtual"><scope>Aspose::Words::RevisionCollection</scope><name>GetEnumerator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_collection_1a7a4740509ecd1d32aa3eb95edd07cd25" prot="public" virt="non-virtual"><scope>Aspose::Words::RevisionCollection</scope><name>idx_get</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_collection_1a2fb1bf527faf0c2c0e3f132b0cea3250" prot="private" virt="non-virtual"><scope>Aspose::Words::RevisionCollection</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_collection_1a7f6e9fa11f12cf10784375592e789b10" prot="private" virt="non-virtual"><scope>Aspose::Words::RevisionCollection</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_collection_1a28a2079e077dbf03e618b937eadcf2be" prot="private" virt="non-virtual"><scope>Aspose::Words::RevisionCollection</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_collection_1ae5b645e8a808eb0f6f5bea7057319fd4" prot="private" virt="non-virtual"><scope>Aspose::Words::RevisionCollection</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_collection_1a1304e4d2f427e12603cb7c542a3da086" prot="private" virt="non-virtual"><scope>Aspose::Words::RevisionCollection</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_collection_1a7d93e2c2867b6523aa1a3721df489ec0" prot="private" virt="non-virtual"><scope>Aspose::Words::RevisionCollection</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_collection_1a0f7ae1614da9a3276c3049284c3121ab" prot="private" virt="non-virtual"><scope>Aspose::Words::RevisionCollection</scope><name>mField6</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_collection_1ade063e90e8632c54d0fb6b7c398fecd0" prot="public" virt="non-virtual"><scope>Aspose::Words::RevisionCollection</scope><name>RejectAll</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_collection_1ac774a56adbf9677b6a17008af243d611" prot="private" virt="non-virtual"><scope>Aspose::Words::RevisionCollection</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_collection_1a0b9efeec00f51196e4e86fad0f4de170" prot="private" virt="non-virtual"><scope>Aspose::Words::RevisionCollection</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_collection_1a5ecb66a5c5e277e0fb5bea6908cc8011" prot="private" virt="non-virtual"><scope>Aspose::Words::RevisionCollection</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_revision_collection_1abebe9cea3237c38e645d475de802c757" prot="private" virt="virtual"><scope>Aspose::Words::RevisionCollection</scope><name>~RevisionCollection</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,750 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_body" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Body</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_story" prot="public" virt="non-virtual">Aspose::Words::Story</basecompoundref>
+    <includes refid="_body_8h" local="no">Aspose.Words.Cpp/Body.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_body_1ae1ec0ec80311b6d585bf520561084e19" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_story" kindref="compound">Aspose::Words::Story</ref></type>
+        <definition>typedef Aspose::Words::Story Aspose::Words::Body::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Body::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Body.h" line="88" column="34" bodyfile="Aspose.Words.Cpp/Body.h" bodystart="88" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_body_1a5f3489ce3d7db6b629fe6d3e1161516b" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_body" kindref="compound">Body</ref></type>
+        <definition>typedef Body Aspose::Words::Body::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Body::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Body.h" line="87" column="18" bodyfile="Aspose.Words.Cpp/Body.h" bodystart="87" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_body_1a6c0eccfad5ed6ec541174bcc89f9113f" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_story" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Body::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Body::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Body.h" line="90" column="37" bodyfile="Aspose.Words.Cpp/Body.h" bodystart="90" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_body_1a7710d1d6771441910a8b783ebe42ebba" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Body::~Body</definition>
+        <argsstring>()</argsstring>
+        <name>~Body</name>
+        <qualifiedname>Aspose::Words::Body::~Body</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Body.h" line="482" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_body_1acc846f0b0cb56cc405341799fe0de0b4" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member">Aspose::Words::VisitorAction</ref></type>
+        <definition>Aspose::Words::VisitorAction Aspose::Words::Body::AcceptEnd</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::DocumentVisitor &gt;) override</argsstring>
+        <name>AcceptEnd</name>
+        <qualifiedname>Aspose::Words::Body::AcceptEnd</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_composite_node_1acfce958aecccd97d02b9ce640c71adb0">AcceptEnd</reimplements>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Body.h" line="480" column="37"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_body_1a8dd32759aff10185b53b72b46c89be55" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member">Aspose::Words::VisitorAction</ref></type>
+        <definition>Aspose::Words::VisitorAction Aspose::Words::Body::AcceptStart</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::DocumentVisitor &gt;) override</argsstring>
+        <name>AcceptStart</name>
+        <qualifiedname>Aspose::Words::Body::AcceptStart</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_composite_node_1a4161179423c4ab1bd74fe8825dc06e2f">AcceptStart</reimplements>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Body.h" line="479" column="37"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_body_1af5b055caed1bff42f85fa2e6afdf307a" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Body::CanInsert</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::Node &gt;) override</argsstring>
+        <name>CanInsert</name>
+        <qualifiedname>Aspose::Words::Body::CanInsert</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_composite_node_1a06d62fddfb918b33b307b9201c7951aa">CanInsert</reimplements>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Body.h" line="478" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_body_1ab7450df926025b8452e5613108d4061c" prot="private" static="no" const="yes" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_body" kindref="compound">ThisType</ref> *</type>
+        <definition>ThisType * Aspose::Words::Body::CppMemberwiseClone</definition>
+        <argsstring>() const override</argsstring>
+        <name>CppMemberwiseClone</name>
+        <qualifiedname>Aspose::Words::Body::CppMemberwiseClone</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_node_1a9358fb4208d077e8411fdf0d4e8553e5">CppMemberwiseClone</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Body.h" line="486" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_body_1aa145f4143ce97cb87f535913d74a776c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Body::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Body::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Body.h" line="91" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_body_1ac44ebff6f4ad07289ba27a7ec68e5c96" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Body::Body</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::DocumentBase &gt; &amp;doc)</argsstring>
+        <name>Body</name>
+        <qualifiedname>Aspose::Words::Body::Body</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">Aspose::Words::DocumentBase</ref> &gt; &amp;</type>
+          <declname>doc</declname>
+        </param>
+        <briefdescription>
+<para>Initializes a new instance of the <bold>Body</bold> class. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>When <bold>Body</bold> is created, it belongs to the specified document, but is not yet part of the document and <bold>ParentNode</bold> is null.</para>
+<para>To append <bold>Body</bold> to a <bold>Section</bold> use <ref refid="class_aspose_1_1_words_1_1_composite_node_1a2b6e91eabfc75b02062ae6714cd95ec2" kindref="member">Section.InsertAfter</ref> or <ref refid="class_aspose_1_1_words_1_1_composite_node_1a247cedb3f1fe5474c87f5b5fa0dcd995" kindref="member">Section.InsertBefore</ref>.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>doc</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The owner document.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to construct an Aspose.Words document by hand. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>blank<sp/>document<sp/>contains<sp/>one<sp/>section,<sp/>one<sp/>body<sp/>and<sp/>one<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Call<sp/>the<sp/>&quot;RemoveAllChildren&quot;<sp/>method<sp/>to<sp/>remove<sp/>all<sp/>those<sp/>nodes,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>end<sp/>up<sp/>with<sp/>a<sp/>document<sp/>node<sp/>with<sp/>no<sp/>children.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;RemoveAllChildren();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>document<sp/>now<sp/>has<sp/>no<sp/>composite<sp/>child<sp/>nodes<sp/>that<sp/>we<sp/>can<sp/>add<sp/>content<sp/>to.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>wish<sp/>to<sp/>edit<sp/>it,<sp/>we<sp/>will<sp/>need<sp/>to<sp/>repopulate<sp/>its<sp/>node<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>First,<sp/>create<sp/>a<sp/>new<sp/>section,<sp/>and<sp/>then<sp/>append<sp/>it<sp/>as<sp/>a<sp/>child<sp/>to<sp/>the<sp/>root<sp/>document<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>section<sp/>=<sp/>MakeObject&lt;Section&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;AppendChild(section);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>some<sp/>page<sp/>setup<sp/>properties<sp/>for<sp/>the<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">section-&gt;get_PageSetup()-&gt;set_SectionStart(<ref refid="namespace_aspose_1_1_words_1a0caffb600fa144ea6826390ec3dc9a47a30c38ed106d7d71b9a1ce0534ea1befd" kindref="member" tooltip="The section starts from a new page.">SectionStart::NewPage</ref>);</highlight></codeline>
+<codeline><highlight class="normal">section-&gt;get_PageSetup()-&gt;set_PaperSize(<ref refid="namespace_aspose_1_1_words_1a1a2f6b44133c9bd897dabca36c39ba25a17a53d1a012580ef609b70ef6a25d1f1" kindref="member" tooltip="8.5 x 11 inches.">PaperSize::Letter</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>section<sp/>needs<sp/>a<sp/>body,<sp/>which<sp/>will<sp/>contain<sp/>and<sp/>display<sp/>all<sp/>its<sp/>contents</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>on<sp/>the<sp/>page<sp/>between<sp/>the<sp/>section&apos;s<sp/>header<sp/>and<sp/>footer.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>body<sp/>=<sp/>MakeObject&lt;Body&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">section-&gt;AppendChild(body);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>paragraph,<sp/>set<sp/>some<sp/>formatting<sp/>properties,<sp/>and<sp/>then<sp/>append<sp/>it<sp/>as<sp/>a<sp/>child<sp/>to<sp/>the<sp/>body.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>para<sp/>=<sp/>MakeObject&lt;Paragraph&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">para-&gt;get_ParagraphFormat()-&gt;set_StyleName(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">para-&gt;get_ParagraphFormat()-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1ae0fabf27a56cdd6988da762600dd9007a4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is centered horizontally.">ParagraphAlignment::Center</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">body-&gt;AppendChild(para);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Finally,<sp/>add<sp/>some<sp/>content<sp/>to<sp/>do<sp/>the<sp/>document.<sp/>Create<sp/>a<sp/>run,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>set<sp/>its<sp/>appearance<sp/>and<sp/>contents,<sp/>and<sp/>then<sp/>append<sp/>it<sp/>as<sp/>a<sp/>child<sp/>to<sp/>the<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>run<sp/>=<sp/>MakeObject&lt;Run&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">run-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">run-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">para-&gt;AppendChild(run);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Section.CreateManually.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Body.h" line="256" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_body_1a4f54e750c9ca22add5ef8c0f4a223055" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Body::Accept</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::DocumentVisitor &gt; visitor) override</argsstring>
+        <name>Accept</name>
+        <qualifiedname>Aspose::Words::Body::Accept</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_node_1a556472e35a86820cf189f10594933f3e">Accept</reimplements>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
+          <declname>visitor</declname>
+        </param>
+        <briefdescription>
+<para>Accepts a visitor. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Enumerates over this node and all of its children. Each node calls a corresponding method on <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">DocumentVisitor</ref>.</para>
+<para>For more info see the Visitor design pattern.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>visitor</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The visitor that will visit the nodes.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>True if all nodes were visited; false if <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">DocumentVisitor</ref> stopped the operation before visiting all nodes.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use a document visitor to print a document&apos;s node structure. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>DocStructureToText()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentVisitor-compatible<sp/>features.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>visitor<sp/>=<sp/>MakeObject&lt;ExDocumentVisitor::DocStructurePrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>get<sp/>a<sp/>composite<sp/>node<sp/>to<sp/>accept<sp/>a<sp/>document<sp/>visitor,<sp/>the<sp/>visitor<sp/>visits<sp/>the<sp/>accepting<sp/>node,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>traverses<sp/>all<sp/>the<sp/>node&apos;s<sp/>children<sp/>in<sp/>a<sp/>depth-first<sp/>manner.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>visitor<sp/>can<sp/>read<sp/>and<sp/>modify<sp/>each<sp/>visited<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Accept(visitor);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>visitor-&gt;GetText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">DocStructurePrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>DocStructurePrinter()<sp/>:<sp/>mDocTraversalDepth(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mAcceptingNodeChildTree<sp/>=<sp/>MakeObject&lt;System::Text::StringBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>GetText()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mAcceptingNodeChildTree-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitDocumentStart(SharedPtr&lt;Document&gt;<sp/>doc)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>childNodeCount<sp/>=<sp/>doc-&gt;GetChildNodes(NodeType::Any,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_Count();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Document<sp/>start]<sp/>Child<sp/>nodes:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>childNodeCount);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Allow<sp/>the<sp/>visitor<sp/>to<sp/>continue<sp/>visiting<sp/>other<sp/>nodes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitDocumentEnd(SharedPtr&lt;Document&gt;<sp/>doc)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth--;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(u</highlight><highlight class="stringliteral">&quot;[Document<sp/>end]&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitSectionStart(SharedPtr&lt;Section&gt;<sp/>section)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>index<sp/>of<sp/>our<sp/>section<sp/>within<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;NodeCollection&gt;<sp/>docSections<sp/>=<sp/>section-&gt;get_Document()-&gt;GetChildNodes(NodeType::Section,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>sectionIndex<sp/>=<sp/>docSections-&gt;IndexOf(section);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Section<sp/>start]<sp/>Section<sp/>index:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>sectionIndex);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitSectionEnd(SharedPtr&lt;Section&gt;<sp/>section)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth--;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(u</highlight><highlight class="stringliteral">&quot;[Section<sp/>end]&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitBodyStart(SharedPtr&lt;Body&gt;<sp/>body)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>paragraphCount<sp/>=<sp/>body-&gt;get_Paragraphs()-&gt;get_Count();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Body<sp/>start]<sp/>Paragraphs:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>paragraphCount);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitBodyEnd(SharedPtr&lt;Body&gt;<sp/>body)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth--;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(u</highlight><highlight class="stringliteral">&quot;[Body<sp/>end]&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitParagraphStart(SharedPtr&lt;Paragraph&gt;<sp/>paragraph)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(u</highlight><highlight class="stringliteral">&quot;[Paragraph<sp/>start]&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitParagraphEnd(SharedPtr&lt;Paragraph&gt;<sp/>paragraph)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth--;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(u</highlight><highlight class="stringliteral">&quot;[Paragraph<sp/>end]&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitRun(SharedPtr&lt;Run&gt;<sp/>run)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Run]<sp/>\&quot;&quot;</highlight><highlight class="normal">)<sp/>+<sp/>run-&gt;GetText()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitSubDocument(SharedPtr&lt;SubDocument&gt;<sp/>subDocument)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(u</highlight><highlight class="stringliteral">&quot;[SubDocument]&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mDocTraversalDepth;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mAcceptingNodeChildTree;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>IndentAndAppendLine(String<sp/>text)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>mDocTraversalDepth;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mAcceptingNodeChildTree-&gt;Append(u</highlight><highlight class="stringliteral">&quot;|<sp/><sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mAcceptingNodeChildTree-&gt;AppendLine(text);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Body.h" line="437" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_body_1a7ab342d836e81aefd553ca1aa4bfd7fc" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Body::EnsureMinimum</definition>
+        <argsstring>()</argsstring>
+        <name>EnsureMinimum</name>
+        <qualifiedname>Aspose::Words::Body::EnsureMinimum</qualifiedname>
+        <briefdescription>
+<para>If the last child is not a paragraph, creates and appends one empty paragraph. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Clears main text from all sections from the document leaving the sections themselves. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>blank<sp/>document<sp/>contains<sp/>one<sp/>section,<sp/>one<sp/>body<sp/>and<sp/>one<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Call<sp/>the<sp/>&quot;RemoveAllChildren&quot;<sp/>method<sp/>to<sp/>remove<sp/>all<sp/>those<sp/>nodes,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>end<sp/>up<sp/>with<sp/>a<sp/>document<sp/>node<sp/>with<sp/>no<sp/>children.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;RemoveAllChildren();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>document<sp/>now<sp/>has<sp/>no<sp/>composite<sp/>child<sp/>nodes<sp/>that<sp/>we<sp/>can<sp/>add<sp/>content<sp/>to.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>wish<sp/>to<sp/>edit<sp/>it,<sp/>we<sp/>will<sp/>need<sp/>to<sp/>repopulate<sp/>its<sp/>node<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>First,<sp/>create<sp/>a<sp/>new<sp/>section,<sp/>and<sp/>then<sp/>append<sp/>it<sp/>as<sp/>a<sp/>child<sp/>to<sp/>the<sp/>root<sp/>document<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>section<sp/>=<sp/>MakeObject&lt;Section&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;AppendChild(section);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>section<sp/>needs<sp/>a<sp/>body,<sp/>which<sp/>will<sp/>contain<sp/>and<sp/>display<sp/>all<sp/>its<sp/>contents</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>on<sp/>the<sp/>page<sp/>between<sp/>the<sp/>section&apos;s<sp/>header<sp/>and<sp/>footer.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>body<sp/>=<sp/>MakeObject&lt;Body&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">section-&gt;AppendChild(body);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>body<sp/>has<sp/>no<sp/>children,<sp/>so<sp/>we<sp/>cannot<sp/>add<sp/>runs<sp/>to<sp/>it<sp/>yet.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aed36a1ef76a59ee3f15180e0441188ad" kindref="member" tooltip="Indicates all node types. Allows to select all children.">NodeType::Any</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Call<sp/>the<sp/>&quot;EnsureMinimum&quot;<sp/>to<sp/>make<sp/>sure<sp/>that<sp/>this<sp/>body<sp/>contains<sp/>at<sp/>least<sp/>one<sp/>empty<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">body-&gt;EnsureMinimum();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Now,<sp/>we<sp/>can<sp/>add<sp/>runs<sp/>to<sp/>the<sp/>body,<sp/>and<sp/>get<sp/>the<sp/>document<sp/>to<sp/>display<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">body-&gt;get_FirstParagraph()-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Body.h" line="474" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_body_1abc2a40b388a33383035347cb439497a7" prot="public" static="no" const="yes" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379" kindref="member">Aspose::Words::NodeType</ref></type>
+        <definition>Aspose::Words::NodeType Aspose::Words::Body::get_NodeType</definition>
+        <argsstring>() const override</argsstring>
+        <name>get_NodeType</name>
+        <qualifiedname>Aspose::Words::Body::get_NodeType</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_node_1a7f80e8d96b7a072fca14157b25ae025e">get_NodeType</reimplements>
+        <briefdescription>
+<para>Returns <bold>NodeType.Body</bold>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to iterate through the children of a composite node. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveToHeaderFooter(<ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69a12c5d70f31f632e51d3a7273fc3c23f2" kindref="member" tooltip="Primary header, also used for odd numbered pages.">HeaderFooterType::HeaderPrimary</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Primary<sp/>header&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveToHeaderFooter(<ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69af8e178a8382a14e6a14bb9f08e7d6a86" kindref="member" tooltip="Primary footer, also used for odd numbered pages.">HeaderFooterType::FooterPrimary</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Primary<sp/>footer&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Section&gt;<sp/>section<sp/>=<sp/>doc-&gt;get_FirstSection();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>Section<sp/>is<sp/>a<sp/>composite<sp/>node<sp/>and<sp/>can<sp/>contain<sp/>child<sp/>nodes,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>but<sp/>only<sp/>if<sp/>those<sp/>child<sp/>nodes<sp/>are<sp/>of<sp/>a<sp/>&quot;Body&quot;<sp/>or<sp/>&quot;HeaderFooter&quot;<sp/>node<sp/>type.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>node<sp/>:<sp/>System::IterateOver(section))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(node-&gt;get_NodeType())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aac101b32dda4448cf13a93fe283dddd8" kindref="member" tooltip="A Body object that contains the main text of a section (main text story). A Body node can have Paragr...">NodeType::Body</ref>:<sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>body<sp/>=<sp/>System::DynamicCast&lt;Body&gt;(node);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Body:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>body-&gt;GetText().Trim()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a6808239090702c608c5b3caf879821bb" kindref="member" tooltip="A HeaderFooter object that contains text of a particular header or footer inside a section....">NodeType::HeaderFooter</ref>:<sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>headerFooter<sp/>=<sp/>System::DynamicCast&lt;HeaderFooter&gt;(node);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;HeaderFooter<sp/>type:<sp/>{0}:&quot;</highlight><highlight class="normal">,<sp/>headerFooter-&gt;get_HeaderFooterType())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>headerFooter-&gt;GetText().Trim()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">default</highlight><highlight class="normal">:<sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">throw</highlight><highlight class="normal"><sp/><ref refid="class/system.exception_wrapper_3_01_details___exception_01_4/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Exception</ref>(u</highlight><highlight class="stringliteral">&quot;Unexpected<sp/>node<sp/>type<sp/>in<sp/>a<sp/>section.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Body.h" line="140" column="32"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_body_1a452d57f13ed63e701611b8b9f9f39cde" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_section" kindref="compound">Aspose::Words::Section</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Section &gt; Aspose::Words::Body::get_ParentSection</definition>
+        <argsstring>()</argsstring>
+        <name>get_ParentSection</name>
+        <qualifiedname>Aspose::Words::Body::get_ParentSection</qualifiedname>
+        <briefdescription>
+<para>Gets the parent section of this story. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><bold>ParentSection</bold> is equivalent to <computeroutput>%(<ref refid="class_aspose_1_1_words_1_1_section" kindref="compound">Section</ref>)ParentNode</computeroutput>.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to store endnotes at the end of each section, and modify their positions. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>SuppressEndnotes()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;RemoveAllChildren();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>a<sp/>document<sp/>compiles<sp/>all<sp/>endnotes<sp/>at<sp/>its<sp/>end.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(EndnotePosition::EndOfDocument,<sp/>doc-&gt;get_EndnoteOptions()-&gt;get_Position());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>use<sp/>the<sp/>&quot;Position&quot;<sp/>property<sp/>of<sp/>the<sp/>document&apos;s<sp/>&quot;EndnoteOptions&quot;<sp/>object</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>collect<sp/>endnotes<sp/>at<sp/>the<sp/>end<sp/>of<sp/>each<sp/>section<sp/>instead.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_EndnoteOptions()-&gt;set_Position(EndnotePosition::EndOfSection);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertSectionWithEndnote(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;Section<sp/>1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Endnote<sp/>1,<sp/>will<sp/>stay<sp/>in<sp/>section<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertSectionWithEndnote(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;Section<sp/>2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Endnote<sp/>2,<sp/>will<sp/>be<sp/>pushed<sp/>down<sp/>to<sp/>section<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertSectionWithEndnote(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;Section<sp/>3&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Endnote<sp/>3,<sp/>will<sp/>stay<sp/>in<sp/>section<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>While<sp/>getting<sp/>sections<sp/>to<sp/>display<sp/>their<sp/>respective<sp/>endnotes,<sp/>we<sp/>can<sp/>set<sp/>the<sp/>&quot;SuppressEndnotes&quot;<sp/>flag</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>of<sp/>a<sp/>section&apos;s<sp/>&quot;PageSetup&quot;<sp/>object<sp/>to<sp/>&quot;true&quot;<sp/>to<sp/>revert<sp/>to<sp/>the<sp/>default<sp/>behavior<sp/>and<sp/>pass<sp/>its<sp/>endnotes</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>onto<sp/>the<sp/>next<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;PageSetup&gt;<sp/>pageSetup<sp/>=<sp/>doc-&gt;get_Sections()-&gt;idx_get(1)-&gt;get_PageSetup();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>pageSetup-&gt;set_SuppressEndnotes(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PageSetup.SuppressEndnotes.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertSectionWithEndnote(SharedPtr&lt;Document&gt;<sp/>doc,<sp/>String<sp/>sectionBodyText,<sp/>String<sp/>endnoteText)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>section<sp/>=<sp/>MakeObject&lt;Section&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;AppendChild(section);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>body<sp/>=<sp/>MakeObject&lt;Body&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>section-&gt;AppendChild(body);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(section,<sp/>body-&gt;get_ParentNode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>para<sp/>=<sp/>MakeObject&lt;Paragraph&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>body-&gt;AppendChild(para);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(body,<sp/>para-&gt;get_ParentNode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;MoveTo(para);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(sectionBodyText);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertFootnote(FootnoteType::Endnote,<sp/>endnoteText);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Body.h" line="200" column="26"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents a container for the main text of a section. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><bold>Body</bold> can contain <bold>Paragraph</bold> and <bold>Table</bold> child nodes.</para>
+<para><bold>Body</bold> is a section-level node and can only be a child of <bold>Section</bold>. There can only be one <bold>Body</bold> in a <bold>Section</bold>.</para>
+<para>A minimal valid <bold>Body</bold> needs to contain at least one <bold>Paragraph</bold>.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to construct an Aspose.Words document by hand. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>blank<sp/>document<sp/>contains<sp/>one<sp/>section,<sp/>one<sp/>body<sp/>and<sp/>one<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Call<sp/>the<sp/>&quot;RemoveAllChildren&quot;<sp/>method<sp/>to<sp/>remove<sp/>all<sp/>those<sp/>nodes,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>end<sp/>up<sp/>with<sp/>a<sp/>document<sp/>node<sp/>with<sp/>no<sp/>children.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;RemoveAllChildren();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>document<sp/>now<sp/>has<sp/>no<sp/>composite<sp/>child<sp/>nodes<sp/>that<sp/>we<sp/>can<sp/>add<sp/>content<sp/>to.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>wish<sp/>to<sp/>edit<sp/>it,<sp/>we<sp/>will<sp/>need<sp/>to<sp/>repopulate<sp/>its<sp/>node<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>First,<sp/>create<sp/>a<sp/>new<sp/>section,<sp/>and<sp/>then<sp/>append<sp/>it<sp/>as<sp/>a<sp/>child<sp/>to<sp/>the<sp/>root<sp/>document<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>section<sp/>=<sp/>MakeObject&lt;Section&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;AppendChild(section);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>some<sp/>page<sp/>setup<sp/>properties<sp/>for<sp/>the<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">section-&gt;get_PageSetup()-&gt;set_SectionStart(<ref refid="namespace_aspose_1_1_words_1a0caffb600fa144ea6826390ec3dc9a47a30c38ed106d7d71b9a1ce0534ea1befd" kindref="member" tooltip="The section starts from a new page.">SectionStart::NewPage</ref>);</highlight></codeline>
+<codeline><highlight class="normal">section-&gt;get_PageSetup()-&gt;set_PaperSize(<ref refid="namespace_aspose_1_1_words_1a1a2f6b44133c9bd897dabca36c39ba25a17a53d1a012580ef609b70ef6a25d1f1" kindref="member" tooltip="8.5 x 11 inches.">PaperSize::Letter</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>section<sp/>needs<sp/>a<sp/>body,<sp/>which<sp/>will<sp/>contain<sp/>and<sp/>display<sp/>all<sp/>its<sp/>contents</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>on<sp/>the<sp/>page<sp/>between<sp/>the<sp/>section&apos;s<sp/>header<sp/>and<sp/>footer.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>body<sp/>=<sp/>MakeObject&lt;Body&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">section-&gt;AppendChild(body);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>paragraph,<sp/>set<sp/>some<sp/>formatting<sp/>properties,<sp/>and<sp/>then<sp/>append<sp/>it<sp/>as<sp/>a<sp/>child<sp/>to<sp/>the<sp/>body.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>para<sp/>=<sp/>MakeObject&lt;Paragraph&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">para-&gt;get_ParagraphFormat()-&gt;set_StyleName(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">para-&gt;get_ParagraphFormat()-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1ae0fabf27a56cdd6988da762600dd9007a4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is centered horizontally.">ParagraphAlignment::Center</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">body-&gt;AppendChild(para);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Finally,<sp/>add<sp/>some<sp/>content<sp/>to<sp/>do<sp/>the<sp/>document.<sp/>Create<sp/>a<sp/>run,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>set<sp/>its<sp/>appearance<sp/>and<sp/>contents,<sp/>and<sp/>then<sp/>append<sp/>it<sp/>as<sp/>a<sp/>child<sp/>to<sp/>the<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>run<sp/>=<sp/>MakeObject&lt;Run&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">run-&gt;set_Text(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">run-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">para-&gt;AppendChild(run);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Section.CreateManually.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Body</label>
+        <link refid="class_aspose_1_1_words_1_1_body"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::CompositeNode</label>
+        <link refid="class_aspose_1_1_words_1_1_composite_node"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>Aspose::Words::INodeCollection</label>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Node</label>
+        <link refid="class_aspose_1_1_words_1_1_node"/>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Story</label>
+        <link refid="class_aspose_1_1_words_1_1_story"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Node &gt; &gt;</label>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Body</label>
+        <link refid="class_aspose_1_1_words_1_1_body"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::CompositeNode</label>
+        <link refid="class_aspose_1_1_words_1_1_composite_node"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>Aspose::Words::INodeCollection</label>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Node</label>
+        <link refid="class_aspose_1_1_words_1_1_node"/>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Story</label>
+        <link refid="class_aspose_1_1_words_1_1_story"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Node &gt; &gt;</label>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Body.h" line="85" column="1" bodyfile="Aspose.Words.Cpp/Body.h" bodystart="86" bodyend="488"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_body_1a4f54e750c9ca22add5ef8c0f4a223055" prot="public" virt="virtual"><scope>Aspose::Words::Body</scope><name>Accept</name></member>
+      <member refid="class_aspose_1_1_words_1_1_body_1acc846f0b0cb56cc405341799fe0de0b4" prot="private" virt="virtual"><scope>Aspose::Words::Body</scope><name>AcceptEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_body_1a8dd32759aff10185b53b72b46c89be55" prot="private" virt="virtual"><scope>Aspose::Words::Body</scope><name>AcceptStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1af74bc4213aebbe5fd01d2fc0f08b2bec" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>AppendChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_story_1ad605ce063da2170e71ddfed7c4624344" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>AppendParagraph</name></member>
+      <member refid="class_aspose_1_1_words_1_1_body_1ae1ec0ec80311b6d585bf520561084e19" prot="private" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_body_1ac44ebff6f4ad07289ba27a7ec68e5c96" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>Body</name></member>
+      <member refid="class_aspose_1_1_words_1_1_body_1af5b055caed1bff42f85fa2e6afdf307a" prot="private" virt="virtual"><scope>Aspose::Words::Body</scope><name>CanInsert</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a81dedd9b241b09760112b5e5068f1daa" prot="public" virt="non-virtual" ambiguityscope="Aspose::Words::Node::"><scope>Aspose::Words::Body</scope><name>Clone</name></member>
+      <member refid="class_aspose_1_1_words_1_1_body_1ab7450df926025b8452e5613108d4061c" prot="private" virt="virtual"><scope>Aspose::Words::Body</scope><name>CppMemberwiseClone</name></member>
+      <member refid="class_aspose_1_1_words_1_1_story_1a3a872ca99d727ad662ab88a8e665ddc3" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>DeleteShapes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_body_1a7ab342d836e81aefd553ca1aa4bfd7fc" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>EnsureMinimum</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a98d9935dcf818989566431ab3b75bbed" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>get_ChildNodes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a801d3d549eb73e216df5b7a64d9e1c68" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a941120df17372b25f9a7127a9d9b3816" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>get_CustomNodeId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a2a69f84e3ccd323199299c999ab32d46" prot="public" virt="virtual"><scope>Aspose::Words::Body</scope><name>get_Document</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a052d0e4560975f6c19c77bf19d82eedf" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>get_FirstChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_story_1ad8384da70b0cf0fb86af85ab51a93fa4" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>get_FirstParagraph</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a4b939686e9a6a245a31cf392d202316d" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>get_HasChildNodes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a96cf2dd90a284fe9939d1d90780d2d4b" prot="public" virt="virtual"><scope>Aspose::Words::Body</scope><name>get_IsComposite</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a58fae512d8549219b7c3a17ef2d46439" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>get_LastChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_story_1a3dccf99cd7d135bb1be9a1fc8d1e95f1" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>get_LastParagraph</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a938ff32d060619d89ecefdf57984abf8" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>get_NextSibling</name></member>
+      <member refid="class_aspose_1_1_words_1_1_body_1abc2a40b388a33383035347cb439497a7" prot="public" virt="virtual"><scope>Aspose::Words::Body</scope><name>get_NodeType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_story_1a3c679c4ee5cae3b0ce1fa01941f9aaff" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>get_Paragraphs</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1ab9e608488885c65a2a165dea6645d15e" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>get_ParentNode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_body_1a452d57f13ed63e701611b8b9f9f39cde" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>get_ParentSection</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a6013fe75e5859c54d12a87f9b97fa7f3" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>get_PreviousSibling</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a0f8077bf80409ba331148095b95bc3e5" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>get_Range</name></member>
+      <member refid="class_aspose_1_1_words_1_1_story_1aa63bfddfeac14b56d2be5157e6bc69a9" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>get_StoryType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_story_1a0b7e746928bd50fcfdc025b0741d5e94" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>get_Tables</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a951706cfa681573e79a56204a2029e9e" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>GetAncestor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1ae19991f4d5aa7ccb60ce6d7207495f1c" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>GetAncestorOf</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a6d961b080681f8dc6ee551c6c0ce44da" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>GetChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1ae1fc746cc70cea4c9ab30caf39aec146" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>GetChildNodes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a6d3cc4280067e07fd504c11e6c968419" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>GetEnumerator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a08b4d2cc617495b60d85a550422e2d8f" prot="public" virt="virtual"><scope>Aspose::Words::Body</scope><name>GetText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1ac0cfce6ca5295fe714f5da1e8e244d9e" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>IndexOf</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a2b6e91eabfc75b02062ae6714cd95ec2" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>InsertAfter</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a247cedb3f1fe5474c87f5b5fa0dcd995" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>InsertBefore</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a4f6979e06a5914aeb37a9cb8448658a6" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>NextPreOrder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a0e46189d6dfa7a81c8fa2e2bd2354d61" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>NodeTypeToString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1abae3ff6d970ba209cf4eb1c539b205ee" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>PrependChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1af40f9573daf950d978d211d3e75c6a95" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>PreviousPreOrder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a75a9cc0fda5ec9c8aaa1c4910af8f28c" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a4afce861f4df13714988e44419374f21" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>RemoveAllChildren</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a28888dd687866f66b3bb221e63b5063c" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>RemoveChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a5a00bfd5d2e04d5752d96e226a3f5849" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>RemoveSmartTags</name></member>
+      <member refid="class_aspose_1_1_words_1_1_body_1aa145f4143ce97cb87f535913d74a776c" prot="private" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a553923ba5225bd3d28f1960b72b45f4f" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>SelectNodes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1aa2eb340deba06c3dcb7cc29dfeca5a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>SelectSingleNode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a0d412cc05de7836acb92332e55eea267" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>set_CustomNodeId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a29e186f28a68773c7c7679079c77d827" prot="public" virt="virtual"><scope>Aspose::Words::Body</scope><name>SetTemplateWeakPtr</name></member>
+      <member refid="class_aspose_1_1_words_1_1_body_1a5f3489ce3d7db6b629fe6d3e1161516b" prot="private" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_body_1a6c0eccfad5ed6ec541174bcc89f9113f" prot="private" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1af7aa71ab5f185ee2463406dab7727595" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>ToString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1ad18f64c5586b84a071957824b24426a2" prot="public" virt="non-virtual"><scope>Aspose::Words::Body</scope><name>ToString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_body_1a7710d1d6771441910a8b783ebe42ebba" prot="private" virt="virtual"><scope>Aspose::Words::Body</scope><name>~Body</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

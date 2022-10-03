@@ -1,0 +1,790 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c" kind="class" language="C++" prot="public" final="yes">
+    <compoundname>Aspose::Words::Fields::FieldTC</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field" prot="public" virt="non-virtual">Aspose::Words::Fields::Field</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IFieldCodeTokenInfoProvider</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::ITocEntry</basecompoundref>
+    <includes refid="_field_t_c_8h" local="no">Aspose.Words.Cpp/Fields/FieldTC.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1aeccb991a979484887bd17b1aefbb5902" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref></type>
+        <definition>typedef Aspose::Words::Fields::Field Aspose::Words::Fields::FieldTC::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="100" column="42" bodyfile="Aspose.Words.Cpp/Fields/FieldTC.h" bodystart="100" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1aecaa805815d5d69d0609dca821c8d9c5" prot="private" static="no">
+        <type>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</type>
+        <definition>typedef Aspose::Words::Fields::IFieldCodeTokenInfoProvider Aspose::Words::Fields::FieldTC::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="101" column="64" bodyfile="Aspose.Words.Cpp/Fields/FieldTC.h" bodystart="101" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a60a338caa95ad985dd62c1230472b2ac" prot="private" static="no">
+        <type>Aspose::Words::Fields::ITocEntry</type>
+        <definition>typedef Aspose::Words::Fields::ITocEntry Aspose::Words::Fields::FieldTC::BaseType2</definition>
+        <argsstring></argsstring>
+        <name>BaseType2</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::BaseType2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="102" column="46" bodyfile="Aspose.Words.Cpp/Fields/FieldTC.h" bodystart="102" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1af30ce7b3a39b318826b6f266c54884b9" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c" kindref="compound">FieldTC</ref></type>
+        <definition>typedef FieldTC Aspose::Words::Fields::FieldTC::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="99" column="21" bodyfile="Aspose.Words.Cpp/Fields/FieldTC.h" bodystart="99" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a749d062e508218c369f608865fe2b89f" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1, BaseType2 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1, BaseType2&gt; Aspose::Words::Fields::FieldTC::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="104" column="37" bodyfile="Aspose.Words.Cpp/Fields/FieldTC.h" bodystart="104" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a13c6e2996c8419f40d39d6c5f51ee34f" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fields::FieldTC::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="333" column="23" bodyfile="Aspose.Words.Cpp/Fields/FieldTC.h" bodystart="333" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1acc71928e1da734fa597814b384783167" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Fields::FieldTC::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="340" column="23" bodyfile="Aspose.Words.Cpp/Fields/FieldTC.h" bodystart="340" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1ae2bdfbb5eb2d70c4fb552ef0aa7ed660" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Fields::FieldTC::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="341" column="23" bodyfile="Aspose.Words.Cpp/Fields/FieldTC.h" bodystart="341" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a8823ebdaedb56e7a4f8674c894b44aa5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldTC::get_HasBookmark</definition>
+        <argsstring>() override</argsstring>
+        <name>get_HasBookmark</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::get_HasBookmark</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="338" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1aa23fd944c632158f1e753b6ca337a44f" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldTC::get_IsInFieldCode</definition>
+        <argsstring>() override</argsstring>
+        <name>get_IsInFieldCode</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::get_IsInFieldCode</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="337" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1ab38b180037055c5a71c89cb17e4c020c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Fields::FieldTC::get_Level</definition>
+        <argsstring>() override</argsstring>
+        <name>get_Level</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::get_Level</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="336" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1ae61a184c158439837f6a2f4e8c60c503" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_paragraph" kindref="compound">Aspose::Words::Paragraph</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Paragraph &gt; Aspose::Words::Fields::FieldTC::get_Paragraph</definition>
+        <argsstring>() override</argsstring>
+        <name>get_Paragraph</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::get_Paragraph</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="335" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1af9aca6d0aab3385567aa8953749854b6" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldTC::GetDocumentOutlineTitle</definition>
+        <argsstring>() override</argsstring>
+        <name>GetDocumentOutlineTitle</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::GetDocumentOutlineTitle</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="345" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a0696c7c5094a8087f2db3b215a867827" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::NodeRange &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::NodeRange &gt; Aspose::Words::Fields::FieldTC::GetLabelRange</definition>
+        <argsstring>() override</argsstring>
+        <name>GetLabelRange</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::GetLabelRange</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="346" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1aadbbad63d698e1ca81dd1c894957f421" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Fields::FieldTC::GetPageNumber</definition>
+        <argsstring>() override</argsstring>
+        <name>GetPageNumber</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::GetPageNumber</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="348" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1af8d35a0bc5d25a0b75efabfbf25b118a" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Fields::FieldTC::GetSequenceValue</definition>
+        <argsstring>(System::String) override</argsstring>
+        <name>GetSequenceValue</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::GetSequenceValue</qualifiedname>
+        <param>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="347" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1add321e6f71520d043b2d8540ac60433e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>Aspose::Words::Fields::FieldSwitchType</type>
+        <definition>Aspose::Words::Fields::FieldSwitchType Aspose::Words::Fields::FieldTC::GetSwitchType</definition>
+        <argsstring>(System::String) override</argsstring>
+        <name>GetSwitchType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::GetSwitchType</qualifiedname>
+        <param>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="343" column="44"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a9560ca4a1e845e046ef91dc3e0333085" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldTC::Initialize</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::Fields::FieldStart &gt;, System::SharedPtr&lt; Aspose::Words::Fields::FieldSeparator &gt;, System::SharedPtr&lt; Aspose::Words::Fields::FieldEnd &gt;) override</argsstring>
+        <name>Initialize</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::Initialize</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab53ef8533b2f7220e8ea664367f8a601">Initialize</reimplements>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_start" kindref="compound">Aspose::Words::Fields::FieldStart</ref> &gt;</type>
+        </param>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_separator" kindref="compound">Aspose::Words::Fields::FieldSeparator</ref> &gt;</type>
+        </param>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_end" kindref="compound">Aspose::Words::Fields::FieldEnd</ref> &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="329" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a366aff0ccaa113df91faf71029233214" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::NodeRange &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::NodeRange &gt; Aspose::Words::Fields::FieldTC::InsertBookmark</definition>
+        <argsstring>(System::String) override</argsstring>
+        <name>InsertBookmark</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::InsertBookmark</qualifiedname>
+        <param>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="344" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a59dfe96998d87a5a6370abbc6dcab732" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldTC::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="105" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1ad4aad42cfdaf71eeaff521ca500acb1b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldTC::FieldTC</definition>
+        <argsstring>()</argsstring>
+        <name>FieldTC</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::FieldTC</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="325" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a2f9fc5841851fd92dd4950292d24546f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldTC::get_EntryLevel</definition>
+        <argsstring>()</argsstring>
+        <name>get_EntryLevel</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::get_EntryLevel</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the level of the entry. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a TOC field, and filter which TC fields end up as entries. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldTocEntryIdentifier()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>TOC<sp/>field,<sp/>which<sp/>will<sp/>compile<sp/>all<sp/>TC<sp/>fields<sp/>into<sp/>a<sp/>table<sp/>of<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldToc<sp/>=<sp/>System::DynamicCast&lt;FieldToc&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca951e4a34dbade8f358c5f9881337a0a1" kindref="member" tooltip="Specifies the TOC field.">FieldType::FieldTOC</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Configure<sp/>the<sp/>field<sp/>only<sp/>to<sp/>pick<sp/>up<sp/>TC<sp/>entries<sp/>of<sp/>the<sp/>&quot;A&quot;<sp/>type,<sp/>and<sp/>an<sp/>entry-level<sp/>between<sp/>1<sp/>and<sp/>3.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToc-&gt;set_EntryIdentifier(u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToc-&gt;set_EntryLevelRange(u</highlight><highlight class="stringliteral">&quot;1-3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOC<sp/><sp/>\\f<sp/>A<sp/>\\l<sp/>1-3&quot;</highlight><highlight class="normal">,<sp/>fieldToc-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>These<sp/>two<sp/>entries<sp/>will<sp/>appear<sp/>in<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertTocEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;TC<sp/>field<sp/>1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertTocEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;TC<sp/>field<sp/>2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TC<sp/><sp/>\&quot;TC<sp/>field<sp/>1\&quot;<sp/>\\n<sp/>\\f<sp/>A<sp/>\\l<sp/>1&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_Range()-&gt;get_Fields()-&gt;idx_get(1)-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>be<sp/>omitted<sp/>from<sp/>the<sp/>table<sp/>because<sp/>it<sp/>has<sp/>a<sp/>different<sp/>type<sp/>from<sp/>&quot;A&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertTocEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;TC<sp/>field<sp/>3&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>be<sp/>omitted<sp/>from<sp/>the<sp/>table<sp/>because<sp/>it<sp/>has<sp/>an<sp/>entry-level<sp/>outside<sp/>of<sp/>the<sp/>1-3<sp/>range.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertTocEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;TC<sp/>field<sp/>4&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.TC.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertTocEntry(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>text,<sp/>String<sp/>typeIdentifier,<sp/>String<sp/>entryLevel)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldTc<sp/>=<sp/>System::DynamicCast&lt;FieldTC&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca7446f162f3ce52e7c8816ed9d0039052" kindref="member" tooltip="Specifies the TC field.">FieldType::FieldTOCEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTc-&gt;set_OmitPageNumber(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTc-&gt;set_Text(text);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTc-&gt;set_TypeIdentifier(typeIdentifier);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTc-&gt;set_EntryLevel(entryLevel);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="266" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1af5117e49c68904a1ebe9b37cfac734ab" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldTC::get_OmitPageNumber</definition>
+        <argsstring>() override</argsstring>
+        <name>get_OmitPageNumber</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::get_OmitPageNumber</qualifiedname>
+        <briefdescription>
+<para>Gets or sets whether page number in TOC should be omitted for this field. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a TOC field, and filter which TC fields end up as entries. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldTocEntryIdentifier()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>TOC<sp/>field,<sp/>which<sp/>will<sp/>compile<sp/>all<sp/>TC<sp/>fields<sp/>into<sp/>a<sp/>table<sp/>of<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldToc<sp/>=<sp/>System::DynamicCast&lt;FieldToc&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca951e4a34dbade8f358c5f9881337a0a1" kindref="member" tooltip="Specifies the TOC field.">FieldType::FieldTOC</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Configure<sp/>the<sp/>field<sp/>only<sp/>to<sp/>pick<sp/>up<sp/>TC<sp/>entries<sp/>of<sp/>the<sp/>&quot;A&quot;<sp/>type,<sp/>and<sp/>an<sp/>entry-level<sp/>between<sp/>1<sp/>and<sp/>3.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToc-&gt;set_EntryIdentifier(u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToc-&gt;set_EntryLevelRange(u</highlight><highlight class="stringliteral">&quot;1-3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOC<sp/><sp/>\\f<sp/>A<sp/>\\l<sp/>1-3&quot;</highlight><highlight class="normal">,<sp/>fieldToc-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>These<sp/>two<sp/>entries<sp/>will<sp/>appear<sp/>in<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertTocEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;TC<sp/>field<sp/>1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertTocEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;TC<sp/>field<sp/>2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TC<sp/><sp/>\&quot;TC<sp/>field<sp/>1\&quot;<sp/>\\n<sp/>\\f<sp/>A<sp/>\\l<sp/>1&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_Range()-&gt;get_Fields()-&gt;idx_get(1)-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>be<sp/>omitted<sp/>from<sp/>the<sp/>table<sp/>because<sp/>it<sp/>has<sp/>a<sp/>different<sp/>type<sp/>from<sp/>&quot;A&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertTocEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;TC<sp/>field<sp/>3&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>be<sp/>omitted<sp/>from<sp/>the<sp/>table<sp/>because<sp/>it<sp/>has<sp/>an<sp/>entry-level<sp/>outside<sp/>of<sp/>the<sp/>1-3<sp/>range.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertTocEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;TC<sp/>field<sp/>4&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.TC.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertTocEntry(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>text,<sp/>String<sp/>typeIdentifier,<sp/>String<sp/>entryLevel)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldTc<sp/>=<sp/>System::DynamicCast&lt;FieldTC&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca7446f162f3ce52e7c8816ed9d0039052" kindref="member" tooltip="Specifies the TC field.">FieldType::FieldTOCEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTc-&gt;set_OmitPageNumber(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTc-&gt;set_Text(text);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTc-&gt;set_TypeIdentifier(typeIdentifier);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTc-&gt;set_EntryLevel(entryLevel);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="320" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1ad76407f8830b7006cca943c2a0e3601d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldTC::get_Text</definition>
+        <argsstring>()</argsstring>
+        <name>get_Text</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::get_Text</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the text of the entry. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a TOC field, and filter which TC fields end up as entries. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldTocEntryIdentifier()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>TOC<sp/>field,<sp/>which<sp/>will<sp/>compile<sp/>all<sp/>TC<sp/>fields<sp/>into<sp/>a<sp/>table<sp/>of<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldToc<sp/>=<sp/>System::DynamicCast&lt;FieldToc&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca951e4a34dbade8f358c5f9881337a0a1" kindref="member" tooltip="Specifies the TOC field.">FieldType::FieldTOC</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Configure<sp/>the<sp/>field<sp/>only<sp/>to<sp/>pick<sp/>up<sp/>TC<sp/>entries<sp/>of<sp/>the<sp/>&quot;A&quot;<sp/>type,<sp/>and<sp/>an<sp/>entry-level<sp/>between<sp/>1<sp/>and<sp/>3.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToc-&gt;set_EntryIdentifier(u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToc-&gt;set_EntryLevelRange(u</highlight><highlight class="stringliteral">&quot;1-3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOC<sp/><sp/>\\f<sp/>A<sp/>\\l<sp/>1-3&quot;</highlight><highlight class="normal">,<sp/>fieldToc-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>These<sp/>two<sp/>entries<sp/>will<sp/>appear<sp/>in<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertTocEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;TC<sp/>field<sp/>1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertTocEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;TC<sp/>field<sp/>2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TC<sp/><sp/>\&quot;TC<sp/>field<sp/>1\&quot;<sp/>\\n<sp/>\\f<sp/>A<sp/>\\l<sp/>1&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_Range()-&gt;get_Fields()-&gt;idx_get(1)-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>be<sp/>omitted<sp/>from<sp/>the<sp/>table<sp/>because<sp/>it<sp/>has<sp/>a<sp/>different<sp/>type<sp/>from<sp/>&quot;A&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertTocEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;TC<sp/>field<sp/>3&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>be<sp/>omitted<sp/>from<sp/>the<sp/>table<sp/>because<sp/>it<sp/>has<sp/>an<sp/>entry-level<sp/>outside<sp/>of<sp/>the<sp/>1-3<sp/>range.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertTocEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;TC<sp/>field<sp/>4&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.TC.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertTocEntry(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>text,<sp/>String<sp/>typeIdentifier,<sp/>String<sp/>entryLevel)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldTc<sp/>=<sp/>System::DynamicCast&lt;FieldTC&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca7446f162f3ce52e7c8816ed9d0039052" kindref="member" tooltip="Specifies the TC field.">FieldType::FieldTOCEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTc-&gt;set_OmitPageNumber(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTc-&gt;set_Text(text);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTc-&gt;set_TypeIdentifier(typeIdentifier);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTc-&gt;set_EntryLevel(entryLevel);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="158" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a6816cb28e690b27abe07e3474e90dfff" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldTC::get_TypeIdentifier</definition>
+        <argsstring>()</argsstring>
+        <name>get_TypeIdentifier</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::get_TypeIdentifier</qualifiedname>
+        <briefdescription>
+<para>Gets or sets a type identifier for this field (which is typically a letter). </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a TOC field, and filter which TC fields end up as entries. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldTocEntryIdentifier()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>TOC<sp/>field,<sp/>which<sp/>will<sp/>compile<sp/>all<sp/>TC<sp/>fields<sp/>into<sp/>a<sp/>table<sp/>of<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldToc<sp/>=<sp/>System::DynamicCast&lt;FieldToc&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca951e4a34dbade8f358c5f9881337a0a1" kindref="member" tooltip="Specifies the TOC field.">FieldType::FieldTOC</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Configure<sp/>the<sp/>field<sp/>only<sp/>to<sp/>pick<sp/>up<sp/>TC<sp/>entries<sp/>of<sp/>the<sp/>&quot;A&quot;<sp/>type,<sp/>and<sp/>an<sp/>entry-level<sp/>between<sp/>1<sp/>and<sp/>3.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToc-&gt;set_EntryIdentifier(u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToc-&gt;set_EntryLevelRange(u</highlight><highlight class="stringliteral">&quot;1-3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOC<sp/><sp/>\\f<sp/>A<sp/>\\l<sp/>1-3&quot;</highlight><highlight class="normal">,<sp/>fieldToc-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>These<sp/>two<sp/>entries<sp/>will<sp/>appear<sp/>in<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertTocEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;TC<sp/>field<sp/>1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertTocEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;TC<sp/>field<sp/>2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TC<sp/><sp/>\&quot;TC<sp/>field<sp/>1\&quot;<sp/>\\n<sp/>\\f<sp/>A<sp/>\\l<sp/>1&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_Range()-&gt;get_Fields()-&gt;idx_get(1)-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>be<sp/>omitted<sp/>from<sp/>the<sp/>table<sp/>because<sp/>it<sp/>has<sp/>a<sp/>different<sp/>type<sp/>from<sp/>&quot;A&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertTocEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;TC<sp/>field<sp/>3&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>be<sp/>omitted<sp/>from<sp/>the<sp/>table<sp/>because<sp/>it<sp/>has<sp/>an<sp/>entry-level<sp/>outside<sp/>of<sp/>the<sp/>1-3<sp/>range.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertTocEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;TC<sp/>field<sp/>4&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.TC.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertTocEntry(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>text,<sp/>String<sp/>typeIdentifier,<sp/>String<sp/>entryLevel)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldTc<sp/>=<sp/>System::DynamicCast&lt;FieldTC&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca7446f162f3ce52e7c8816ed9d0039052" kindref="member" tooltip="Specifies the TC field.">FieldType::FieldTOCEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTc-&gt;set_OmitPageNumber(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTc-&gt;set_Text(text);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTc-&gt;set_TypeIdentifier(typeIdentifier);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTc-&gt;set_EntryLevel(entryLevel);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="212" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a81a219e36f721683afa7e4f7d4379460" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldTC::set_EntryLevel</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_EntryLevel</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::set_EntryLevel</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a2f9fc5841851fd92dd4950292d24546f" kindref="member">Aspose::Words::Fields::FieldTC::get_EntryLevel</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="269" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a4c3cd05b780a8464aa5fc96df439fe66" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldTC::set_OmitPageNumber</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_OmitPageNumber</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::set_OmitPageNumber</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1af5117e49c68904a1ebe9b37cfac734ab" kindref="member">Aspose::Words::Fields::FieldTC::get_OmitPageNumber</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="323" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1ae361253ab086c220ee8b96ad72a0623d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldTC::set_Text</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Text</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::set_Text</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1ad76407f8830b7006cca943c2a0e3601d" kindref="member">Aspose::Words::Fields::FieldTC::get_Text</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="161" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a777cf77236fbccb8e90832bdd5d6f2dd" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldTC::set_TypeIdentifier</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_TypeIdentifier</name>
+        <qualifiedname>Aspose::Words::Fields::FieldTC::set_TypeIdentifier</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a6816cb28e690b27abe07e3474e90dfff" kindref="member">Aspose::Words::Fields::FieldTC::get_TypeIdentifier</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="215" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implements the TC field. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a TOC field, and filter which TC fields end up as entries. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldTocEntryIdentifier()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>TOC<sp/>field,<sp/>which<sp/>will<sp/>compile<sp/>all<sp/>TC<sp/>fields<sp/>into<sp/>a<sp/>table<sp/>of<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldToc<sp/>=<sp/>System::DynamicCast&lt;FieldToc&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca951e4a34dbade8f358c5f9881337a0a1" kindref="member" tooltip="Specifies the TOC field.">FieldType::FieldTOC</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Configure<sp/>the<sp/>field<sp/>only<sp/>to<sp/>pick<sp/>up<sp/>TC<sp/>entries<sp/>of<sp/>the<sp/>&quot;A&quot;<sp/>type,<sp/>and<sp/>an<sp/>entry-level<sp/>between<sp/>1<sp/>and<sp/>3.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToc-&gt;set_EntryIdentifier(u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldToc-&gt;set_EntryLevelRange(u</highlight><highlight class="stringliteral">&quot;1-3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOC<sp/><sp/>\\f<sp/>A<sp/>\\l<sp/>1-3&quot;</highlight><highlight class="normal">,<sp/>fieldToc-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>These<sp/>two<sp/>entries<sp/>will<sp/>appear<sp/>in<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertTocEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;TC<sp/>field<sp/>1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertTocEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;TC<sp/>field<sp/>2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TC<sp/><sp/>\&quot;TC<sp/>field<sp/>1\&quot;<sp/>\\n<sp/>\\f<sp/>A<sp/>\\l<sp/>1&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_Range()-&gt;get_Fields()-&gt;idx_get(1)-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>be<sp/>omitted<sp/>from<sp/>the<sp/>table<sp/>because<sp/>it<sp/>has<sp/>a<sp/>different<sp/>type<sp/>from<sp/>&quot;A&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertTocEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;TC<sp/>field<sp/>3&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;B&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>be<sp/>omitted<sp/>from<sp/>the<sp/>table<sp/>because<sp/>it<sp/>has<sp/>an<sp/>entry-level<sp/>outside<sp/>of<sp/>the<sp/>1-3<sp/>range.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertTocEntry(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;TC<sp/>field<sp/>4&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;A&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.TC.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertTocEntry(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>text,<sp/>String<sp/>typeIdentifier,<sp/>String<sp/>entryLevel)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldTc<sp/>=<sp/>System::DynamicCast&lt;FieldTC&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca7446f162f3ce52e7c8816ed9d0039052" kindref="member" tooltip="Specifies the TC field.">FieldType::FieldTOCEntry</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTc-&gt;set_OmitPageNumber(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTc-&gt;set_Text(text);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTc-&gt;set_TypeIdentifier(typeIdentifier);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldTc-&gt;set_EntryLevel(entryLevel);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldTC</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="5">
+        <label>Aspose::Words::Fields::ITocEntry</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldTC</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="5">
+        <label>Aspose::Words::Fields::ITocEntry</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/FieldTC.h" line="97" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldTC.h" bodystart="98" bodyend="350"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1aeccb991a979484887bd17b1aefbb5902" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1aecaa805815d5d69d0609dca821c8d9c5" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a60a338caa95ad985dd62c1230472b2ac" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>BaseType2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1ad4aad42cfdaf71eeaff521ca500acb1b" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>FieldTC</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a5c2d01019c517ea8098f296903e37a34" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>get_DisplayResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad5f0995c85cce833806e847cf25809b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a2f9fc5841851fd92dd4950292d24546f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>get_EntryLevel</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a399c14463916724cac0015b430175589" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>get_FieldEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abc40cddc1325f7fec80d8530e5287448" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>get_FieldStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a090c5d09915e2ead6cc54fda736dd7c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>get_Format</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a8823ebdaedb56e7a4f8674c894b44aa5" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>get_HasBookmark</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ae68851d4a88a1fc867d3ddee2e4e88c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>get_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1aa23fd944c632158f1e753b6ca337a44f" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>get_IsInFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afda4c46db80761545c89e21aae5b717d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>get_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1ab38b180037055c5a71c89cb17e4c020c" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>get_Level</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a93719d071099487b6aea1eaa241dd6e8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>get_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1af5117e49c68904a1ebe9b37cfac734ab" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>get_OmitPageNumber</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1ae61a184c158439837f6a2f4e8c60c503" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>get_Paragraph</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a012c93472901dc077815970a9b2ab650" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>get_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abbc83ad66d5fb391a21980126ea96847" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>get_Separator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afa7cd5d4cf1a87b05058982f26786456" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1ad76407f8830b7006cca943c2a0e3601d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>get_Text</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad68196653db5cfca30c1ba18ed44c76e" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a6816cb28e690b27abe07e3474e90dfff" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>get_TypeIdentifier</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1af9aca6d0aab3385567aa8953749854b6" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>GetDocumentOutlineTitle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa40bc0e4a5be11f0df785cc8bb2ff042" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a0696c7c5094a8087f2db3b215a867827" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>GetLabelRange</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1aadbbad63d698e1ca81dd1c894957f421" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>GetPageNumber</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1af8d35a0bc5d25a0b75efabfbf25b118a" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>GetSequenceValue</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1add321e6f71520d043b2d8540ac60433e" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>GetSwitchType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a9560ca4a1e845e046ef91dc3e0333085" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>Initialize</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a366aff0ccaa113df91faf71029233214" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>InsertBookmark</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a13c6e2996c8419f40d39d6c5f51ee34f" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1acc71928e1da734fa597814b384783167" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1ae2bdfbb5eb2d70c4fb552ef0aa7ed660" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad26a8021af3dbdc5bf0a1360a201222f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a59dfe96998d87a5a6370abbc6dcab732" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a81a219e36f721683afa7e4f7d4379460" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>set_EntryLevel</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa637d825865724665fb8ed856e664d95" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>set_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ac70b125adbe7f0ba5b889280cd282c47" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>set_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a165f748dd5ba33844f1d765f6c710f88" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>set_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a4c3cd05b780a8464aa5fc96df439fe66" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>set_OmitPageNumber</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa6af1e900c84ae806f071098dfe8f087" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>set_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1ae361253ab086c220ee8b96ad72a0623d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>set_Text</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a777cf77236fbccb8e90832bdd5d6f2dd" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>set_TypeIdentifier</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1af30ce7b3a39b318826b6f266c54884b9" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c_1a749d062e508218c369f608865fe2b89f" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab9f908becb16b26bed76d58dbcee9929" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>Unlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aaec82418b2b6493aa2827b8e282b2e82" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a1298d7daa07c863bf97cb3f37a4d7a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldTC</scope><name>Update</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

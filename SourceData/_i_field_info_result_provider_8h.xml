@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="_i_field_info_result_provider_8h" kind="file" language="C++">
+    <compoundname>IFieldInfoResultProvider.h</compoundname>
+    <includes local="no">system/object.h</includes>
+    <includedby refid="_field_author_8h" local="no">Aspose.Words.Cpp/Fields/FieldAuthor.h</includedby>
+    <includedby refid="_field_comments_8h" local="no">Aspose.Words.Cpp/Fields/FieldComments.h</includedby>
+    <includedby refid="_field_create_date_8h" local="no">Aspose.Words.Cpp/Fields/FieldCreateDate.h</includedby>
+    <includedby refid="_field_edit_time_8h" local="no">Aspose.Words.Cpp/Fields/FieldEditTime.h</includedby>
+    <includedby refid="_field_file_name_8h" local="no">Aspose.Words.Cpp/Fields/FieldFileName.h</includedby>
+    <includedby refid="_field_file_size_8h" local="no">Aspose.Words.Cpp/Fields/FieldFileSize.h</includedby>
+    <includedby refid="_field_keywords_8h" local="no">Aspose.Words.Cpp/Fields/FieldKeywords.h</includedby>
+    <includedby refid="_field_last_saved_by_8h" local="no">Aspose.Words.Cpp/Fields/FieldLastSavedBy.h</includedby>
+    <includedby refid="_field_num_chars_8h" local="no">Aspose.Words.Cpp/Fields/FieldNumChars.h</includedby>
+    <includedby refid="_field_num_pages_8h" local="no">Aspose.Words.Cpp/Fields/FieldNumPages.h</includedby>
+    <includedby refid="_field_num_words_8h" local="no">Aspose.Words.Cpp/Fields/FieldNumWords.h</includedby>
+    <includedby refid="_field_print_date_8h" local="no">Aspose.Words.Cpp/Fields/FieldPrintDate.h</includedby>
+    <includedby refid="_field_rev_num_8h" local="no">Aspose.Words.Cpp/Fields/FieldRevNum.h</includedby>
+    <includedby refid="_field_save_date_8h" local="no">Aspose.Words.Cpp/Fields/FieldSaveDate.h</includedby>
+    <includedby refid="_field_subject_8h" local="no">Aspose.Words.Cpp/Fields/FieldSubject.h</includedby>
+    <includedby refid="_field_template_8h" local="no">Aspose.Words.Cpp/Fields/FieldTemplate.h</includedby>
+    <includedby refid="_field_title_8h" local="no">Aspose.Words.Cpp/Fields/FieldTitle.h</includedby>
+    <incdepgraph>
+      <node id="1">
+        <label>Aspose.Words.Cpp/Fields/IFieldInfoResultProvider.h</label>
+        <link refid="_i_field_info_result_provider_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>system/object.h</label>
+      </node>
+    </incdepgraph>
+    <invincdepgraph>
+      <node id="2">
+        <label>Aspose.Words.Cpp/Fields/FieldAuthor.h</label>
+        <link refid="_field_author_8h_source"/>
+      </node>
+      <node id="3">
+        <label>Aspose.Words.Cpp/Fields/FieldComments.h</label>
+        <link refid="_field_comments_8h_source"/>
+      </node>
+      <node id="4">
+        <label>Aspose.Words.Cpp/Fields/FieldCreateDate.h</label>
+        <link refid="_field_create_date_8h_source"/>
+      </node>
+      <node id="5">
+        <label>Aspose.Words.Cpp/Fields/FieldEditTime.h</label>
+        <link refid="_field_edit_time_8h_source"/>
+      </node>
+      <node id="6">
+        <label>Aspose.Words.Cpp/Fields/FieldFileName.h</label>
+        <link refid="_field_file_name_8h_source"/>
+      </node>
+      <node id="7">
+        <label>Aspose.Words.Cpp/Fields/FieldFileSize.h</label>
+        <link refid="_field_file_size_8h_source"/>
+      </node>
+      <node id="8">
+        <label>Aspose.Words.Cpp/Fields/FieldKeywords.h</label>
+        <link refid="_field_keywords_8h_source"/>
+      </node>
+      <node id="9">
+        <label>Aspose.Words.Cpp/Fields/FieldLastSavedBy.h</label>
+        <link refid="_field_last_saved_by_8h_source"/>
+      </node>
+      <node id="10">
+        <label>Aspose.Words.Cpp/Fields/FieldNumChars.h</label>
+        <link refid="_field_num_chars_8h_source"/>
+      </node>
+      <node id="11">
+        <label>Aspose.Words.Cpp/Fields/FieldNumPages.h</label>
+        <link refid="_field_num_pages_8h_source"/>
+      </node>
+      <node id="12">
+        <label>Aspose.Words.Cpp/Fields/FieldNumWords.h</label>
+        <link refid="_field_num_words_8h_source"/>
+      </node>
+      <node id="13">
+        <label>Aspose.Words.Cpp/Fields/FieldPrintDate.h</label>
+        <link refid="_field_print_date_8h_source"/>
+      </node>
+      <node id="14">
+        <label>Aspose.Words.Cpp/Fields/FieldRevNum.h</label>
+        <link refid="_field_rev_num_8h_source"/>
+      </node>
+      <node id="15">
+        <label>Aspose.Words.Cpp/Fields/FieldSaveDate.h</label>
+        <link refid="_field_save_date_8h_source"/>
+      </node>
+      <node id="16">
+        <label>Aspose.Words.Cpp/Fields/FieldSubject.h</label>
+        <link refid="_field_subject_8h_source"/>
+      </node>
+      <node id="17">
+        <label>Aspose.Words.Cpp/Fields/FieldTemplate.h</label>
+        <link refid="_field_template_8h_source"/>
+      </node>
+      <node id="18">
+        <label>Aspose.Words.Cpp/Fields/FieldTitle.h</label>
+        <link refid="_field_title_8h_source"/>
+      </node>
+      <node id="1">
+        <label>Aspose.Words.Cpp/Fields/IFieldInfoResultProvider.h</label>
+        <link refid="_i_field_info_result_provider_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+        <childnode refid="9" relation="include">
+        </childnode>
+        <childnode refid="10" relation="include">
+        </childnode>
+        <childnode refid="11" relation="include">
+        </childnode>
+        <childnode refid="12" relation="include">
+        </childnode>
+        <childnode refid="13" relation="include">
+        </childnode>
+        <childnode refid="14" relation="include">
+        </childnode>
+        <childnode refid="15" relation="include">
+        </childnode>
+        <childnode refid="16" relation="include">
+        </childnode>
+        <childnode refid="17" relation="include">
+        </childnode>
+        <childnode refid="18" relation="include">
+        </childnode>
+      </node>
+    </invincdepgraph>
+    <innernamespace refid="namespace_aspose">Aspose</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words">Aspose::Words</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words_1_1_fields">Aspose::Words::Fields</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/Fields/IFieldInfoResultProvider.h"/>
+  </compounddef>
+</doxygen>

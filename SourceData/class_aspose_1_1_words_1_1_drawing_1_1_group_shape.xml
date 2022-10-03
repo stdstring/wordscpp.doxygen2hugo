@@ -1,0 +1,806 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_drawing_1_1_group_shape" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Drawing::GroupShape</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base" prot="public" virt="non-virtual">Aspose::Words::Drawing::ShapeBase</basecompoundref>
+    <includes refid="_group_shape_8h" local="no">Aspose.Words.Cpp/Drawing/GroupShape.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_group_shape_1a0fe533e087c5f296b0f2d4651454cdc4" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base" kindref="compound">Aspose::Words::Drawing::ShapeBase</ref></type>
+        <definition>typedef Aspose::Words::Drawing::ShapeBase Aspose::Words::Drawing::GroupShape::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Drawing::GroupShape::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GroupShape.h" line="140" column="47" bodyfile="Aspose.Words.Cpp/Drawing/GroupShape.h" bodystart="140" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_group_shape_1ac9dc3417f4bc23e52c4263f810ec4e17" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape" kindref="compound">GroupShape</ref></type>
+        <definition>typedef GroupShape Aspose::Words::Drawing::GroupShape::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Drawing::GroupShape::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GroupShape.h" line="139" column="24" bodyfile="Aspose.Words.Cpp/Drawing/GroupShape.h" bodystart="139" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_group_shape_1a39a81a8cbda66d2a3bd10c9cda6532ac" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Drawing::GroupShape::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Drawing::GroupShape::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GroupShape.h" line="142" column="37" bodyfile="Aspose.Words.Cpp/Drawing/GroupShape.h" bodystart="142" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_group_shape_1a7ec86873dc9c93a5ba22be0ab27be8b6" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Drawing::GroupShape::~GroupShape</definition>
+        <argsstring>()</argsstring>
+        <name>~GroupShape</name>
+        <qualifiedname>Aspose::Words::Drawing::GroupShape::~GroupShape</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GroupShape.h" line="391" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_group_shape_1a0e5835c8b2287bd23d3f71447e42a84a" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member">Aspose::Words::VisitorAction</ref></type>
+        <definition>Aspose::Words::VisitorAction Aspose::Words::Drawing::GroupShape::AcceptEnd</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::DocumentVisitor &gt;) override</argsstring>
+        <name>AcceptEnd</name>
+        <qualifiedname>Aspose::Words::Drawing::GroupShape::AcceptEnd</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_composite_node_1acfce958aecccd97d02b9ce640c71adb0">AcceptEnd</reimplements>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GroupShape.h" line="388" column="37"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_group_shape_1a42fc187da5fade50fd72e6c978c6749b" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member">Aspose::Words::VisitorAction</ref></type>
+        <definition>Aspose::Words::VisitorAction Aspose::Words::Drawing::GroupShape::AcceptStart</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::DocumentVisitor &gt;) override</argsstring>
+        <name>AcceptStart</name>
+        <qualifiedname>Aspose::Words::Drawing::GroupShape::AcceptStart</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_composite_node_1a4161179423c4ab1bd74fe8825dc06e2f">AcceptStart</reimplements>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GroupShape.h" line="387" column="37"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_group_shape_1add4dfbebbaf3dcc5b1752c306820ac39" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Drawing::GroupShape::CanInsert</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::Node &gt;) override</argsstring>
+        <name>CanInsert</name>
+        <qualifiedname>Aspose::Words::Drawing::GroupShape::CanInsert</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_composite_node_1a06d62fddfb918b33b307b9201c7951aa">CanInsert</reimplements>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GroupShape.h" line="389" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_group_shape_1a202e55f50fc4aacaec933860409ce7cc" prot="private" static="no" const="yes" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape" kindref="compound">ThisType</ref> *</type>
+        <definition>ThisType * Aspose::Words::Drawing::GroupShape::CppMemberwiseClone</definition>
+        <argsstring>() const override</argsstring>
+        <name>CppMemberwiseClone</name>
+        <qualifiedname>Aspose::Words::Drawing::GroupShape::CppMemberwiseClone</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_node_1a9358fb4208d077e8411fdf0d4e8553e5">CppMemberwiseClone</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GroupShape.h" line="395" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_group_shape_1acf29a1a75f981f55b762265ce09226ee" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Drawing::GroupShape::get_IsPercentWidthInapplicable</definition>
+        <argsstring>() override</argsstring>
+        <name>get_IsPercentWidthInapplicable</name>
+        <qualifiedname>Aspose::Words::Drawing::GroupShape::get_IsPercentWidthInapplicable</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a95f0b0b50a86c5c7b9d66e0b07cfb27e">get_IsPercentWidthInapplicable</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GroupShape.h" line="385" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_group_shape_1af75b107e51275caeae53d8b6faf102fc" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Drawing::GroupShape::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Drawing::GroupShape::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GroupShape.h" line="143" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_group_shape_1a8fbac6f37a83f43f5569e1f360ffe0c0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Drawing::GroupShape::GroupShape</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::DocumentBase &gt; &amp;doc)</argsstring>
+        <name>GroupShape</name>
+        <qualifiedname>Aspose::Words::Drawing::GroupShape::GroupShape</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">Aspose::Words::DocumentBase</ref> &gt; &amp;</type>
+          <declname>doc</declname>
+        </param>
+        <briefdescription>
+<para>Creates a new group shape. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>By default, the shape is floating and has default location and size.</para>
+<para>You should specify desired shape properties after you created a shape.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>doc</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The owner document.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create a group of shapes, and print its contents using a document visitor. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>GroupOfShapes()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>you<sp/>need<sp/>to<sp/>create<sp/>&quot;NonPrimitive&quot;<sp/>shapes,<sp/>such<sp/>as<sp/>SingleCornerSnipped,<sp/>TopCornersSnipped,<sp/>DiagonalCornersSnipped,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>TopCornersOneRoundedOneSnipped,<sp/>SingleCornerRounded,<sp/>TopCornersRounded,<sp/>DiagonalCornersRounded</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>please<sp/>use<sp/>DocumentBuilder.InsertShape<sp/>methods.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>balloon<sp/>=<sp/>MakeObject&lt;Shape&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bcca502dd302b6d8d3c24b20ee49e2d51bd1" kindref="member">ShapeType::Balloon</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>balloon-&gt;set_Width(200);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>balloon-&gt;set_Height(200);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>balloon-&gt;get_Stroke()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>cube<sp/>=<sp/>MakeObject&lt;Shape&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccaa296104f0c61a9cf39f4824d05315e12" kindref="member">ShapeType::Cube</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>cube-&gt;set_Width(100);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>cube-&gt;set_Height(100);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>cube-&gt;get_Stroke()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>group<sp/>=<sp/>MakeObject&lt;GroupShape&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>group-&gt;AppendChild(balloon);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>group-&gt;AppendChild(cube);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(group-&gt;get_IsGroup());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertNode(group);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>printer<sp/>=<sp/>MakeObject&lt;ExDrawing::ShapeGroupPrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>group-&gt;Accept(printer);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>printer-&gt;GetText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">ShapeGroupPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ShapeGroupPrinter()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder<sp/>=<sp/>MakeObject&lt;System::Text::StringBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>GetText()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mBuilder-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitGroupShapeStart(SharedPtr&lt;GroupShape&gt;<sp/>groupShape)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(u</highlight><highlight class="stringliteral">&quot;Shape<sp/>group<sp/>started:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitGroupShapeEnd(SharedPtr&lt;GroupShape&gt;<sp/>groupShape)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(u</highlight><highlight class="stringliteral">&quot;End<sp/>of<sp/>shape<sp/>group&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitShapeStart(SharedPtr&lt;Shape&gt;<sp/>shape)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tShape<sp/>-<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(shape-&gt;get_ShapeType())<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tWidth:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>shape-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tHeight:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>shape-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tStroke<sp/>color:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>shape-&gt;get_Stroke()-&gt;get_Color());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tFill<sp/>color:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>shape-&gt;get_Fill()-&gt;get_ForeColor());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitShapeEnd(SharedPtr&lt;Shape&gt;<sp/>shape)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(u</highlight><highlight class="stringliteral">&quot;\tEnd<sp/>of<sp/>shape&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mBuilder;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GroupShape.h" line="285" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_group_shape_1a12d55012a4b4bd7945faa453a1756cbf" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Drawing::GroupShape::Accept</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::DocumentVisitor &gt; visitor) override</argsstring>
+        <name>Accept</name>
+        <qualifiedname>Aspose::Words::Drawing::GroupShape::Accept</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_node_1a556472e35a86820cf189f10594933f3e">Accept</reimplements>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
+          <declname>visitor</declname>
+        </param>
+        <briefdescription>
+<para>Accepts a visitor. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Enumerates over this node and all of its children. Each node calls a corresponding method on <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">DocumentVisitor</ref>.</para>
+<para>For more info see the Visitor design pattern.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>visitor</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The visitor that will visit the nodes.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>True if all nodes were visited; false if <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">DocumentVisitor</ref> stopped the operation before visiting all nodes.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create a group of shapes, and print its contents using a document visitor. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>GroupOfShapes()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>you<sp/>need<sp/>to<sp/>create<sp/>&quot;NonPrimitive&quot;<sp/>shapes,<sp/>such<sp/>as<sp/>SingleCornerSnipped,<sp/>TopCornersSnipped,<sp/>DiagonalCornersSnipped,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>TopCornersOneRoundedOneSnipped,<sp/>SingleCornerRounded,<sp/>TopCornersRounded,<sp/>DiagonalCornersRounded</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>please<sp/>use<sp/>DocumentBuilder.InsertShape<sp/>methods.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>balloon<sp/>=<sp/>MakeObject&lt;Shape&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bcca502dd302b6d8d3c24b20ee49e2d51bd1" kindref="member">ShapeType::Balloon</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>balloon-&gt;set_Width(200);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>balloon-&gt;set_Height(200);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>balloon-&gt;get_Stroke()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>cube<sp/>=<sp/>MakeObject&lt;Shape&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccaa296104f0c61a9cf39f4824d05315e12" kindref="member">ShapeType::Cube</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>cube-&gt;set_Width(100);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>cube-&gt;set_Height(100);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>cube-&gt;get_Stroke()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>group<sp/>=<sp/>MakeObject&lt;GroupShape&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>group-&gt;AppendChild(balloon);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>group-&gt;AppendChild(cube);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(group-&gt;get_IsGroup());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertNode(group);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>printer<sp/>=<sp/>MakeObject&lt;ExDrawing::ShapeGroupPrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>group-&gt;Accept(printer);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>printer-&gt;GetText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">ShapeGroupPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ShapeGroupPrinter()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder<sp/>=<sp/>MakeObject&lt;System::Text::StringBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>GetText()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mBuilder-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitGroupShapeStart(SharedPtr&lt;GroupShape&gt;<sp/>groupShape)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(u</highlight><highlight class="stringliteral">&quot;Shape<sp/>group<sp/>started:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitGroupShapeEnd(SharedPtr&lt;GroupShape&gt;<sp/>groupShape)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(u</highlight><highlight class="stringliteral">&quot;End<sp/>of<sp/>shape<sp/>group&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitShapeStart(SharedPtr&lt;Shape&gt;<sp/>shape)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tShape<sp/>-<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(shape-&gt;get_ShapeType())<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tWidth:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>shape-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tHeight:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>shape-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tStroke<sp/>color:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>shape-&gt;get_Stroke()-&gt;get_Color());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tFill<sp/>color:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>shape-&gt;get_Fill()-&gt;get_ForeColor());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitShapeEnd(SharedPtr&lt;Shape&gt;<sp/>shape)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(u</highlight><highlight class="stringliteral">&quot;\tEnd<sp/>of<sp/>shape&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mBuilder;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GroupShape.h" line="381" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_group_shape_1aa75c1069b5832d88518251fba666e851" prot="public" static="no" const="yes" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379" kindref="member">Aspose::Words::NodeType</ref></type>
+        <definition>Aspose::Words::NodeType Aspose::Words::Drawing::GroupShape::get_NodeType</definition>
+        <argsstring>() const override</argsstring>
+        <name>get_NodeType</name>
+        <qualifiedname>Aspose::Words::Drawing::GroupShape::get_NodeType</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_node_1a7f80e8d96b7a072fca14157b25ae025e">get_NodeType</reimplements>
+        <briefdescription>
+<para>Returns <ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379ad508eb2fbe41d99bb795fb8b05ce868b" kindref="member">GroupShape</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to traverse a composite node&apos;s tree of child nodes. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>RecurseChildren()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraphs.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Any<sp/>node<sp/>that<sp/>can<sp/>contain<sp/>child<sp/>nodes,<sp/>such<sp/>as<sp/>the<sp/>document<sp/>itself,<sp/>is<sp/>composite.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(doc-&gt;get_IsComposite());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Invoke<sp/>the<sp/>recursive<sp/>function<sp/>that<sp/>will<sp/>go<sp/>through<sp/>and<sp/>print<sp/>all<sp/>the<sp/>child<sp/>nodes<sp/>of<sp/>a<sp/>composite<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>TraverseAllNodes(doc,<sp/>0);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>TraverseAllNodes(SharedPtr&lt;CompositeNode&gt;<sp/>parentNode,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>depth)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(SharedPtr&lt;Node&gt;<sp/>childNode<sp/>=<sp/>parentNode-&gt;get_FirstChild();<sp/>childNode<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">;<sp/>childNode<sp/>=<sp/>childNode-&gt;get_NextSibling())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="charliteral">&apos;\t&apos;</highlight><highlight class="normal">,<sp/>depth))<sp/>&lt;&lt;<sp/><ref refid="class_aspose_1_1_words_1_1_node_1a0e46189d6dfa7a81c8fa2e2bd2354d61" kindref="member" tooltip="A utility method that converts a node type enum value into a user friendly string.">Node::NodeTypeToString</ref>(childNode-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Recurse<sp/>into<sp/>the<sp/>node<sp/>if<sp/>it<sp/>is<sp/>a<sp/>composite<sp/>node.<sp/>Otherwise,<sp/>print<sp/>its<sp/>contents<sp/>if<sp/>it<sp/>is<sp/>an<sp/>inline<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(childNode-&gt;get_IsComposite())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>TraverseAllNodes(System::DynamicCast&lt;CompositeNode&gt;(childNode),<sp/>depth<sp/>+<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(System::ObjectExt::Is&lt;Inline&gt;(childNode))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>-<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>childNode-&gt;GetText().Trim()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GroupShape.h" line="191" column="32"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents a group of shapes in a document. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>A <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape" kindref="compound">GroupShape</ref> is a composite node and can have <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape" kindref="compound">Shape</ref> and <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape" kindref="compound">GroupShape</ref> nodes as children.</para>
+<para>Each <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape" kindref="compound">GroupShape</ref> defines a new coordinate system for its child shapes. The coordinate system is defined using the <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a2cae415b06259af39d1ffd8816293139" kindref="member">CoordSize</ref> and <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1ab9a6bcd1d555257ed2301cabadcdadfc" kindref="member">CoordOrigin</ref> properties.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base" kindref="compound">Aspose::Words::Drawing::ShapeBase</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape" kindref="compound">Aspose::Words::Drawing::Shape</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create a group of shapes, and print its contents using a document visitor. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>GroupOfShapes()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>you<sp/>need<sp/>to<sp/>create<sp/>&quot;NonPrimitive&quot;<sp/>shapes,<sp/>such<sp/>as<sp/>SingleCornerSnipped,<sp/>TopCornersSnipped,<sp/>DiagonalCornersSnipped,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>TopCornersOneRoundedOneSnipped,<sp/>SingleCornerRounded,<sp/>TopCornersRounded,<sp/>DiagonalCornersRounded</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>please<sp/>use<sp/>DocumentBuilder.InsertShape<sp/>methods.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>balloon<sp/>=<sp/>MakeObject&lt;Shape&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bcca502dd302b6d8d3c24b20ee49e2d51bd1" kindref="member">ShapeType::Balloon</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>balloon-&gt;set_Width(200);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>balloon-&gt;set_Height(200);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>balloon-&gt;get_Stroke()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>cube<sp/>=<sp/>MakeObject&lt;Shape&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccaa296104f0c61a9cf39f4824d05315e12" kindref="member">ShapeType::Cube</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>cube-&gt;set_Width(100);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>cube-&gt;set_Height(100);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>cube-&gt;get_Stroke()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>group<sp/>=<sp/>MakeObject&lt;GroupShape&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>group-&gt;AppendChild(balloon);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>group-&gt;AppendChild(cube);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(group-&gt;get_IsGroup());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertNode(group);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>printer<sp/>=<sp/>MakeObject&lt;ExDrawing::ShapeGroupPrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>group-&gt;Accept(printer);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>printer-&gt;GetText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">ShapeGroupPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ShapeGroupPrinter()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder<sp/>=<sp/>MakeObject&lt;System::Text::StringBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>GetText()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mBuilder-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitGroupShapeStart(SharedPtr&lt;GroupShape&gt;<sp/>groupShape)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(u</highlight><highlight class="stringliteral">&quot;Shape<sp/>group<sp/>started:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitGroupShapeEnd(SharedPtr&lt;GroupShape&gt;<sp/>groupShape)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(u</highlight><highlight class="stringliteral">&quot;End<sp/>of<sp/>shape<sp/>group&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitShapeStart(SharedPtr&lt;Shape&gt;<sp/>shape)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tShape<sp/>-<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(shape-&gt;get_ShapeType())<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tWidth:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>shape-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tHeight:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>shape-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tStroke<sp/>color:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>shape-&gt;get_Stroke()-&gt;get_Color());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tFill<sp/>color:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>shape-&gt;get_Fill()-&gt;get_ForeColor());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitShapeEnd(SharedPtr&lt;Shape&gt;<sp/>shape)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(u</highlight><highlight class="stringliteral">&quot;\tEnd<sp/>of<sp/>shape&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mBuilder;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="3">
+        <label>Aspose::Words::CompositeNode</label>
+        <link refid="class_aspose_1_1_words_1_1_composite_node"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="12">
+        <label>Aspose::Words::Drawing::Core::IFillable</label>
+      </node>
+      <node id="9">
+        <label>Aspose::Words::Drawing::Core::IShape</label>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Drawing::GroupShape</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Drawing::ShapeBase</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>Aspose::Words::IInline</label>
+      </node>
+      <node id="7">
+        <label>Aspose::Words::INodeCollection</label>
+      </node>
+      <node id="10">
+        <label>Aspose::Words::IShapeAttrSource</label>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Node</label>
+        <link refid="class_aspose_1_1_words_1_1_node"/>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="11">
+        <label>Aspose::Words::Revisions::ITrackableNode</label>
+      </node>
+      <node id="6">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Node &gt; &gt;</label>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>Aspose::Words::CompositeNode</label>
+        <link refid="class_aspose_1_1_words_1_1_composite_node"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="12">
+        <label>Aspose::Words::Drawing::Core::IFillable</label>
+      </node>
+      <node id="9">
+        <label>Aspose::Words::Drawing::Core::IShape</label>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Drawing::GroupShape</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Drawing::ShapeBase</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+        <childnode refid="10" relation="public-inheritance">
+        </childnode>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>Aspose::Words::IInline</label>
+      </node>
+      <node id="7">
+        <label>Aspose::Words::INodeCollection</label>
+      </node>
+      <node id="10">
+        <label>Aspose::Words::IShapeAttrSource</label>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Node</label>
+        <link refid="class_aspose_1_1_words_1_1_node"/>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="11">
+        <label>Aspose::Words::Revisions::ITrackableNode</label>
+      </node>
+      <node id="6">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Node &gt; &gt;</label>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Drawing/GroupShape.h" line="137" column="1" bodyfile="Aspose.Words.Cpp/Drawing/GroupShape.h" bodystart="138" bodyend="397"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape_1a12d55012a4b4bd7945faa453a1756cbf" prot="public" virt="virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>Accept</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape_1a0e5835c8b2287bd23d3f71447e42a84a" prot="private" virt="virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>AcceptEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape_1a42fc187da5fade50fd72e6c978c6749b" prot="private" virt="virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>AcceptStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a0eb996db062258788ee3cd460374ef07" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>AdjustWithEffects</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1af74bc4213aebbe5fd01d2fc0f08b2bec" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>AppendChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape_1a0fe533e087c5f296b0f2d4651454cdc4" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape_1add4dfbebbaf3dcc5b1752c306820ac39" prot="private" virt="virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>CanInsert</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a81dedd9b241b09760112b5e5068f1daa" prot="public" virt="non-virtual" ambiguityscope="Aspose::Words::Node::"><scope>Aspose::Words::Drawing::GroupShape</scope><name>Clone</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape_1a202e55f50fc4aacaec933860409ce7cc" prot="private" virt="virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>CppMemberwiseClone</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1aa588c69a1b92e492d308b709a4013884" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_AllowOverlap</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1abbd76a0fae2bfdf65bdeef1d21f00df1" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_AlternativeText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1aefa125fb3a12bf9db42c01685b6c2ac6" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_AnchorLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a031a008ac3627343b09ab5f136de2f08" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_AspectRatioLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1ae4f0041ffbe50df30510138578485368" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_BehindText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1abc2d086228a5699ab59e35f04ae81f2e" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_Bottom</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a7893bb7d05a248699b787e925281147a" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_Bounds</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1abcfe6e88b7839388bbb228e304e491ec" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_BoundsInPoints</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a2097f9c9bb8a47950140532341811271" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_BoundsWithEffects</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1ad69f36d3c74109072392cc727cab3077" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_CanHaveImage</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a98d9935dcf818989566431ab3b75bbed" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_ChildNodes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1ab9a6bcd1d555257ed2301cabadcdadfc" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_CoordOrigin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a2cae415b06259af39d1ffd8816293139" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_CoordSize</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a801d3d549eb73e216df5b7a64d9e1c68" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a941120df17372b25f9a7127a9d9b3816" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_CustomNodeId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1aa69ac06574c7090cae580435d68048ad" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_DistanceBottom</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1ab55942bd8ac7ec17439a30e6a3e9f596" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_DistanceLeft</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a571e10ba569eda7655723f576cde9557" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_DistanceRight</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a631c4a8f9fcce8a99bf64f9f33837f26" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_DistanceTop</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a2a69f84e3ccd323199299c999ab32d46" prot="public" virt="virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_Document</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1ac931ae8c105ab282deaeed3dd5243ef4" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_Fill</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a052d0e4560975f6c19c77bf19d82eedf" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_FirstChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a0ab1ba0929c39e90753200f3d424fb0d" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_FlipOrientation</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1abfbacd753f05e6fc4d2ceda5c5f48160" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_Font</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a4b939686e9a6a245a31cf392d202316d" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_HasChildNodes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a710f9f6525e90536ae70bb7e7088358c" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_Height</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a781fb7ba9a7f24658d88c47cc3576912" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_HorizontalAlignment</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1aff1216d8058b8eba0d6ca8a1b7bdaec0" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_HRef</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a96cf2dd90a284fe9939d1d90780d2d4b" prot="public" virt="virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_IsComposite</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a66d770a9de42206c8c86b82af2e1f7c1" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_IsDecorative</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a4873ef264bf1e07a0c3ae8971b733891" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_IsDeleteRevision</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a4c761c151c39ed9bde451a2d07c61089" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_IsGroup</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a3fc9809a68d9751409fa782d9c9a961f" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_IsHorizontalRule</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a2834d703758462a9af38bca18168a730" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_IsImage</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1ab0fd0c17726c6e6271ebd95c165c372f" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_IsInline</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a34a3796f7d23131725c2753eaf4e140e" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_IsInsertRevision</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1ab11bff9c4ed2cf697502b657b5ea1f4e" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_IsLayoutInCell</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1ab61319c10dd2a692fb0efa3b0091b6c1" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_IsMoveFromRevision</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a4ef3e1c45ff39cec20593340a60c941d" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_IsMoveToRevision</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape_1acf29a1a75f981f55b762265ce09226ee" prot="private" virt="virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_IsPercentWidthInapplicable</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a152aaec074f7d67dc3318f832a40c44f" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_IsSignatureLine</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1aad673097e63588eaf240695cbcd42994" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_IsTopLevel</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a3e7b8bc15b671167140b19bc21630423" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_IsWordArt</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a58fae512d8549219b7c3a17ef2d46439" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_LastChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a6c3dd2e12d72d75ed2f0169902e7f24f" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_Left</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a43b08c79cf41aeb3f40a0b9259f091f4" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_MarkupLanguage</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1acbe7f498e75081a22b9fbb6ca019de62" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_Name</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a938ff32d060619d89ecefdf57984abf8" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_NextSibling</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape_1aa75c1069b5832d88518251fba666e851" prot="public" virt="virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_NodeType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1ab9e608488885c65a2a165dea6645d15e" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_ParentNode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a4504f708dc525feb878abc5f8a67eb22" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_ParentParagraph</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a6013fe75e5859c54d12a87f9b97fa7f3" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_PreviousSibling</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a0f8077bf80409ba331148095b95bc3e5" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_Range</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a38af16efaa889a7401e0b7bf5af2f637" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_RelativeHorizontalPosition</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1ae87acd02c08a42d1b353726ee9b925ea" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_RelativeVerticalPosition</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a4d236acad70fc5ba81fcca52a2bcfb37" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_Right</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1afc381c6bd444bb370af9c26881de9451" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_Rotation</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a411a3268bbaff183b1b770266e7c077a" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_ScreenTip</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1ae9b6453844c01ac2093d5fcf3a7e89ea" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_ShadowFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a5eeaf9498ba9e55eadb2c610ee5bc017" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_ShapeType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1ac30d65837ebb2f5606b9693563e611ce" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_SizeInPoints</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a53c6f6d6ecce14b6843f3c1edcb76678" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_Target</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a918557acc2081455ff02366f7f6524e9" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_Title</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1aedf698ef3083449a1723d821693676ce" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_Top</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a75af4341a6b813d17ca83571a1ebbd2b" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_VerticalAlignment</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a084bb01d8745091d41a49c4c02a4e4c1" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_Width</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1ad8b45fc89bd8031ac9027049ee8a7944" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_WrapSide</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a60c99bc335b520c7d7a70cf00e205d9a" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_WrapType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1af1396cf5ddc616453c0e1930759ba272" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>get_ZOrder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a951706cfa681573e79a56204a2029e9e" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>GetAncestor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1ae19991f4d5aa7ccb60ce6d7207495f1c" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>GetAncestorOf</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a6d961b080681f8dc6ee551c6c0ce44da" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>GetChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1ae1fc746cc70cea4c9ab30caf39aec146" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>GetChildNodes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a6d3cc4280067e07fd504c11e6c968419" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>GetEnumerator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a421d54a5ad35eee3d4d8baeb96e575a5" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>GetShapeRenderer</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a08b4d2cc617495b60d85a550422e2d8f" prot="public" virt="virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>GetText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape_1a8fbac6f37a83f43f5569e1f360ffe0c0" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>GroupShape</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1ac0cfce6ca5295fe714f5da1e8e244d9e" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>IndexOf</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a2b6e91eabfc75b02062ae6714cd95ec2" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>InsertAfter</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a247cedb3f1fe5474c87f5b5fa0dcd995" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>InsertBefore</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1abea69d29c928685455fb35c42fce7206" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>LocalToParent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a4f6979e06a5914aeb37a9cb8448658a6" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>NextPreOrder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a0e46189d6dfa7a81c8fa2e2bd2354d61" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>NodeTypeToString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1abae3ff6d970ba209cf4eb1c539b205ee" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>PrependChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1af40f9573daf950d978d211d3e75c6a95" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>PreviousPreOrder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a75a9cc0fda5ec9c8aaa1c4910af8f28c" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a4afce861f4df13714988e44419374f21" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>RemoveAllChildren</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a28888dd687866f66b3bb221e63b5063c" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>RemoveChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a5a00bfd5d2e04d5752d96e226a3f5849" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>RemoveSmartTags</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape_1af75b107e51275caeae53d8b6faf102fc" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a553923ba5225bd3d28f1960b72b45f4f" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>SelectNodes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1aa2eb340deba06c3dcb7cc29dfeca5a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>SelectSingleNode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1acc7dc4ff6b7a88e8a13d5b76f5cda1b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_AllowOverlap</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a4c321580b8f71308644922a7a6d0c5bc" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_AlternativeText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1afd225275887ad92047205f13d2a802c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_AnchorLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a18614e3cd08a4bde7e363c8d6a20f745" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_AspectRatioLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a94f9b1e7341136a5460e7da7b2c72355" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_BehindText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1af3533f7768677858559c47a11a38ac7d" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_Bounds</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a5c1668f5667cbf031ceb2a489932dce8" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_CoordOrigin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a7cc831a00df842f0155f7cdd9104d509" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_CoordSize</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a0d412cc05de7836acb92332e55eea267" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_CustomNodeId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a06795ba92ebd82a4778169000f27ffcb" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_DistanceBottom</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a38b261f1aaf7890f4d2bff2026a5c194" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_DistanceLeft</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a0db0cb65d73c1ced6226ee1358ffcadb" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_DistanceRight</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1adb34fa751adfa9c155e63e80005ea1c6" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_DistanceTop</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a924e2ff7783e70071b02a544608c292c" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_FlipOrientation</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1abed8fc11d11242375357e9974a7c0497" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_Height</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1ab867131e28c0a1017acde848df278653" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_HorizontalAlignment</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a0d06d268e40c69d073f432150a055bf0" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_HRef</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1abdf12385e5b5bbf56e682ddf0047d102" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_IsDecorative</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a75d273297ca00a6c27ac4c2c37e881c0" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_IsLayoutInCell</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1ab9d6ae66e7730dc19412731f5d6f4172" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_Left</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a1309851e4c8b0ad14a193009a44bfd8b" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_Name</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a86bb8f4a82367d0b330b49ca564de925" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_RelativeHorizontalPosition</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1ab7e80bf370979becec571db37fb7ab94" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_RelativeVerticalPosition</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a18c713902e8a2187467a88826624ba38" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_Rotation</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1afdcd1cc33a847e221702a1455978d383" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_ScreenTip</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a7932ee88f15dcbbec0cd90e7672302f9" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_Target</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1aa35ff193e5646c4beeba892e92714470" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_Title</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1aa9834b699d9c884bfa80f2da82d54f5e" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_Top</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1acb64c64257b64375ada016b188c8f24c" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_VerticalAlignment</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1abc1647de067cb60261df30ae474a048d" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_Width</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a51ae331fb67432ba524a81e063f60e5e" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_WrapSide</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a0ce56e8b9f4e2a58728a8579908176c8" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_WrapType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a45af592e993d78e0b88460402e9f7714" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>set_ZOrder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a29e186f28a68773c7c7679079c77d827" prot="public" virt="virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>SetTemplateWeakPtr</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape_1ac9dc3417f4bc23e52c4263f810ec4e17" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape_1a39a81a8cbda66d2a3bd10c9cda6532ac" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1af7aa71ab5f185ee2463406dab7727595" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>ToString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1ad18f64c5586b84a071957824b24426a2" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>ToString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_group_shape_1a7ec86873dc9c93a5ba22be0ab27be8b6" prot="private" virt="virtual"><scope>Aspose::Words::Drawing::GroupShape</scope><name>~GroupShape</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

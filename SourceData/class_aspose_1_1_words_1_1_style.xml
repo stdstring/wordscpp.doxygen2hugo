@@ -1,0 +1,1606 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_style" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Style</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::IParaAttrSource</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::IRunAttrSource</basecompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_table_style" prot="public" virt="non-virtual">Aspose::Words::TableStyle</derivedcompoundref>
+    <includes refid="_style_8h" local="no">Aspose.Words.Cpp/Style.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_style_1a8107f05379999f644d9167de6575b5e7" prot="private" static="no">
+        <type>Aspose::Words::IParaAttrSource</type>
+        <definition>typedef Aspose::Words::IParaAttrSource Aspose::Words::Style::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Style::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="116" column="44" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="116" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_style_1a0f4773d46ffc46fe0f4497863976ddec" prot="private" static="no">
+        <type>Aspose::Words::IRunAttrSource</type>
+        <definition>typedef Aspose::Words::IRunAttrSource Aspose::Words::Style::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Style::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="117" column="43" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="117" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_style_1add2afffa35aa8b50c54a2eebd7fae0ae" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Style</ref></type>
+        <definition>typedef Style Aspose::Words::Style::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Style::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="115" column="19" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="115" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_style_1a464f82f27710f94aab7377475c7b4530" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; BaseType, BaseType1 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Style::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Style::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="119" column="37" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="119" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1adc71a66afb49837caf4325e7dd8de123" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Style::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Style::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="775" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="775" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1ab02c6ba2f724a9b06c3080121fd7531a" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Style::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Style::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="776" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="776" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1a7d5eb2ccd51f6de3f59ba632f4aa9e45" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Style::mField10</definition>
+        <argsstring></argsstring>
+        <name>mField10</name>
+        <qualifiedname>Aspose::Words::Style::mField10</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="796" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="796" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1a2413a26edec6e3025e59a27185d22916" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Style::mField11</definition>
+        <argsstring></argsstring>
+        <name>mField11</name>
+        <qualifiedname>Aspose::Words::Style::mField11</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="797" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="797" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1a11801a06f1e55acd7b0c7c3ba39e1edc" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Style::mField12</definition>
+        <argsstring></argsstring>
+        <name>mField12</name>
+        <qualifiedname>Aspose::Words::Style::mField12</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="798" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="798" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1a76b1e9023f079aa9fe7b65c7f3734585" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Style::mField13</definition>
+        <argsstring></argsstring>
+        <name>mField13</name>
+        <qualifiedname>Aspose::Words::Style::mField13</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="799" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="799" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1a5d06d17d8fdc5e427d2cf691daea0ca8" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Style::mField14</definition>
+        <argsstring></argsstring>
+        <name>mField14</name>
+        <qualifiedname>Aspose::Words::Style::mField14</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="800" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="800" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1ac8e357da33865c51330fbad04db1bf05" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Style::mField15</definition>
+        <argsstring></argsstring>
+        <name>mField15</name>
+        <qualifiedname>Aspose::Words::Style::mField15</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="801" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="801" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1af5e75e18444e75dfd0a051e67b11ab5c" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Style::mField16</definition>
+        <argsstring></argsstring>
+        <name>mField16</name>
+        <qualifiedname>Aspose::Words::Style::mField16</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="802" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="802" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1a09b34a086af09c7abde71f1bc36d7e09" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Style::mField17</definition>
+        <argsstring></argsstring>
+        <name>mField17</name>
+        <qualifiedname>Aspose::Words::Style::mField17</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="803" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="803" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1a231f5843ff51ee5f8e588c4f08b512a3" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Style::mField18</definition>
+        <argsstring></argsstring>
+        <name>mField18</name>
+        <qualifiedname>Aspose::Words::Style::mField18</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="804" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="804" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1a2e8a6e5afd912ea63cffa6069aa64b17" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Style::mField19</definition>
+        <argsstring></argsstring>
+        <name>mField19</name>
+        <qualifiedname>Aspose::Words::Style::mField19</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="805" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="805" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1a5dad6c0084014a11a3479b65e39a762d" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Style::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Style::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="777" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="777" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1a469b41e72aea632f7e0b3027f253630e" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Style::mField20</definition>
+        <argsstring></argsstring>
+        <name>mField20</name>
+        <qualifiedname>Aspose::Words::Style::mField20</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="806" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="806" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1a882ae37b2bc76f7f603e9cf61aa35483" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Style::mField21</definition>
+        <argsstring></argsstring>
+        <name>mField21</name>
+        <qualifiedname>Aspose::Words::Style::mField21</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="807" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="807" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1a263938de6dbe3c6f395124c46d8d2eac" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Style::mField22</definition>
+        <argsstring></argsstring>
+        <name>mField22</name>
+        <qualifiedname>Aspose::Words::Style::mField22</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="808" column="20" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="808" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1a746d576fdb9cb2349b47d6ceb890d4c6" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Style::mField23</definition>
+        <argsstring></argsstring>
+        <name>mField23</name>
+        <qualifiedname>Aspose::Words::Style::mField23</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="809" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="809" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1aa42c0457d9a8cb9b1ab716bbf6ec679c" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Style::mField24</definition>
+        <argsstring></argsstring>
+        <name>mField24</name>
+        <qualifiedname>Aspose::Words::Style::mField24</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="810" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="810" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1a8e0eaa305e83166ebe601f2a2d1b42e1" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::Style::mField25</definition>
+        <argsstring></argsstring>
+        <name>mField25</name>
+        <qualifiedname>Aspose::Words::Style::mField25</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="811" column="21" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="811" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1a9b8e66d26310cb38d4162cb3c0dc3e2b" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Style::mField26</definition>
+        <argsstring></argsstring>
+        <name>mField26</name>
+        <qualifiedname>Aspose::Words::Style::mField26</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="812" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="812" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1af1a58f5c86f77a430e2fef7dda72c54c" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Style::mField27</definition>
+        <argsstring></argsstring>
+        <name>mField27</name>
+        <qualifiedname>Aspose::Words::Style::mField27</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="813" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="813" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1a95565021ad2fc00b43e5aa0063d344e7" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Style::mField28</definition>
+        <argsstring></argsstring>
+        <name>mField28</name>
+        <qualifiedname>Aspose::Words::Style::mField28</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="814" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="814" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1ad7a24bd0578eff4fe0e5d7a66f9d5f92" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Style::mField29</definition>
+        <argsstring></argsstring>
+        <name>mField29</name>
+        <qualifiedname>Aspose::Words::Style::mField29</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="815" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="815" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1a57a8d5bce92f5cb6f6650fe1d926fd69" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Style::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Style::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="789" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="789" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1a7820ff8af8aad4e00c469f4fa32a77eb" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Style::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Style::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="790" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="790" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1ae96bbe2bf1e3628679e3a589f854f8a1" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Style::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::Style::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="791" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="791" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1a0e10c76a9d881d9e883806e3d995bd84" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Style::mField6</definition>
+        <argsstring></argsstring>
+        <name>mField6</name>
+        <qualifiedname>Aspose::Words::Style::mField6</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="792" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="792" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1a69fb4f04fd111d67fc6dcccbb23949b8" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Style::mField7</definition>
+        <argsstring></argsstring>
+        <name>mField7</name>
+        <qualifiedname>Aspose::Words::Style::mField7</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="793" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="793" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1a2a1fbe3ac776edfa22b2d8fd241adf87" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Style::mField8</definition>
+        <argsstring></argsstring>
+        <name>mField8</name>
+        <qualifiedname>Aspose::Words::Style::mField8</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="794" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="794" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_style_1a5f04498243c4fd42f232416ee670ab51" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Style::mField9</definition>
+        <argsstring></argsstring>
+        <name>mField9</name>
+        <qualifiedname>Aspose::Words::Style::mField9</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="795" column="23" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="795" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1a1a22d68ea3750ab680ff0efbc5adea29" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Style::~Style</definition>
+        <argsstring>()</argsstring>
+        <name>~Style</name>
+        <qualifiedname>Aspose::Words::Style::~Style</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="785" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1a6442d3a5a956d07350b4131493f7086f" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Aspose::Words::Style</ref> &gt;</type>
+        <definition>virtual System::SharedPtr&lt; Aspose::Words::Style &gt; Aspose::Words::Style::Clone</definition>
+        <argsstring>()</argsstring>
+        <name>Clone</name>
+        <qualifiedname>Aspose::Words::Style::Clone</qualifiedname>
+        <reimplementedby refid="class_aspose_1_1_words_1_1_table_style_1a110905fa238c0a77faf90c232aa608a1">Clone</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="781" column="34"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1a0d63df04541de8d094e8eb76a6dbe6bb" prot="private" static="no" const="yes" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">ThisType</ref> *</type>
+        <definition>virtual ThisType * Aspose::Words::Style::CppMemberwiseClone</definition>
+        <argsstring>() const</argsstring>
+        <name>CppMemberwiseClone</name>
+        <qualifiedname>Aspose::Words::Style::CppMemberwiseClone</qualifiedname>
+        <reimplementedby refid="class_aspose_1_1_words_1_1_table_style_1aceeed57e98dfdf522e2c93ddec41e286">CppMemberwiseClone</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="830" column="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1aff47c5c016247feacf3813946693fc4b" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>bool</type>
+        <definition>virtual bool Aspose::Words::Style::HasFormatting</definition>
+        <argsstring>()</argsstring>
+        <name>HasFormatting</name>
+        <qualifiedname>Aspose::Words::Style::HasFormatting</qualifiedname>
+        <reimplementedby refid="class_aspose_1_1_words_1_1_table_style_1ae33fe419790bc0edab324a6ad6599bf2">HasFormatting</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="783" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1ac924dc33591054f91e6487828e7d6018" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Style::MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION</definition>
+        <argsstring>(Style, CODEPORTING_ARGS(Aspose::Words::StyleType styleType))</argsstring>
+        <name>MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION</name>
+        <qualifiedname>Aspose::Words::Style::MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION</qualifiedname>
+        <param>
+          <type><ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Style</ref></type>
+        </param>
+        <param>
+          <type>CODEPORTING_ARGS(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1b" kindref="member">Aspose::Words::StyleType</ref> styleType)</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="779" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1ad5165739989a2a8ed7b82306272df69c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Style::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Style::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="120" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1a464bee9ddd21455f4e13fff21abdbe0a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Style::Equals</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Style &gt; &amp;style)</argsstring>
+        <name>Equals</name>
+        <qualifiedname>Aspose::Words::Style::Equals</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Aspose::Words::Style</ref> &gt; &amp;</type>
+          <declname>style</declname>
+        </param>
+        <briefdescription>
+<para>Compares with the specified style. Styles Istds are compared for built-in styles only. Styles defaults are not included in comparison. Base style, linked style and next paragraph style are recursively compared. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use style aliases. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Style<sp/>with<sp/>alias.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>document<sp/>contains<sp/>a<sp/>style<sp/>named<sp/>&quot;MyStyle,MyStyle<sp/>Alias<sp/>1,MyStyle<sp/>Alias<sp/>2&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>a<sp/>style&apos;s<sp/>name<sp/>has<sp/>multiple<sp/>values<sp/>separated<sp/>by<sp/>commas,<sp/>each<sp/>clause<sp/>is<sp/>a<sp/>separate<sp/>alias.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>style<sp/>=<sp/>doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Alias<sp/>1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Alias<sp/>2&quot;</highlight><highlight class="normal">}),<sp/>style-&gt;get_Aliases());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Title&quot;</highlight><highlight class="normal">,<sp/>style-&gt;get_BaseStyleName());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Char&quot;</highlight><highlight class="normal">,<sp/>style-&gt;get_LinkedStyleName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>reference<sp/>a<sp/>style<sp/>using<sp/>its<sp/>alias,<sp/>as<sp/>well<sp/>as<sp/>its<sp/>name.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Alias<sp/>1&quot;</highlight><highlight class="normal">),<sp/>doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Alias<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveToDocumentEnd();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Alias<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Alias<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>again!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;idx_get(0)-&gt;get_ParagraphFormat()-&gt;get_Style(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;idx_get(1)-&gt;get_ParagraphFormat()-&gt;get_Style());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="771" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1a1b23ee60f7267e0417bf8ec55b38c696" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt;</type>
+        <definition>System::ArrayPtr&lt; System::String &gt; Aspose::Words::Style::get_Aliases</definition>
+        <argsstring>()</argsstring>
+        <name>get_Aliases</name>
+        <qualifiedname>Aspose::Words::Style::get_Aliases</qualifiedname>
+        <briefdescription>
+<para>Gets all aliases of this style. If style has no aliases then empty array of string is returned. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use style aliases. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Style<sp/>with<sp/>alias.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>document<sp/>contains<sp/>a<sp/>style<sp/>named<sp/>&quot;MyStyle,MyStyle<sp/>Alias<sp/>1,MyStyle<sp/>Alias<sp/>2&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>a<sp/>style&apos;s<sp/>name<sp/>has<sp/>multiple<sp/>values<sp/>separated<sp/>by<sp/>commas,<sp/>each<sp/>clause<sp/>is<sp/>a<sp/>separate<sp/>alias.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>style<sp/>=<sp/>doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Alias<sp/>1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Alias<sp/>2&quot;</highlight><highlight class="normal">}),<sp/>style-&gt;get_Aliases());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Title&quot;</highlight><highlight class="normal">,<sp/>style-&gt;get_BaseStyleName());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Char&quot;</highlight><highlight class="normal">,<sp/>style-&gt;get_LinkedStyleName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>reference<sp/>a<sp/>style<sp/>using<sp/>its<sp/>alias,<sp/>as<sp/>well<sp/>as<sp/>its<sp/>name.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Alias<sp/>1&quot;</highlight><highlight class="normal">),<sp/>doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Alias<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveToDocumentEnd();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Alias<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Alias<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>again!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;idx_get(0)-&gt;get_ParagraphFormat()-&gt;get_Style(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;idx_get(1)-&gt;get_ParagraphFormat()-&gt;get_Style());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="244" column="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1a45e9c644b7a68b026fe83db64085ef8c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Style::get_BaseStyleName</definition>
+        <argsstring>()</argsstring>
+        <name>get_BaseStyleName</name>
+        <qualifiedname>Aspose::Words::Style::get_BaseStyleName</qualifiedname>
+        <briefdescription>
+<para>Gets/sets the name of the style this style is based on. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use style aliases. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Style<sp/>with<sp/>alias.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>document<sp/>contains<sp/>a<sp/>style<sp/>named<sp/>&quot;MyStyle,MyStyle<sp/>Alias<sp/>1,MyStyle<sp/>Alias<sp/>2&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>a<sp/>style&apos;s<sp/>name<sp/>has<sp/>multiple<sp/>values<sp/>separated<sp/>by<sp/>commas,<sp/>each<sp/>clause<sp/>is<sp/>a<sp/>separate<sp/>alias.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>style<sp/>=<sp/>doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Alias<sp/>1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Alias<sp/>2&quot;</highlight><highlight class="normal">}),<sp/>style-&gt;get_Aliases());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Title&quot;</highlight><highlight class="normal">,<sp/>style-&gt;get_BaseStyleName());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Char&quot;</highlight><highlight class="normal">,<sp/>style-&gt;get_LinkedStyleName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>reference<sp/>a<sp/>style<sp/>using<sp/>its<sp/>alias,<sp/>as<sp/>well<sp/>as<sp/>its<sp/>name.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Alias<sp/>1&quot;</highlight><highlight class="normal">),<sp/>doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Alias<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveToDocumentEnd();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Alias<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Alias<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>again!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;idx_get(0)-&gt;get_ParagraphFormat()-&gt;get_Style(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;idx_get(1)-&gt;get_ParagraphFormat()-&gt;get_Style());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="385" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1a741836f0f1fb39a9ef2badfdc23ff934" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Style::get_BuiltIn</definition>
+        <argsstring>()</argsstring>
+        <name>get_BuiltIn</name>
+        <qualifiedname>Aspose::Words::Style::get_BuiltIn</qualifiedname>
+        <briefdescription>
+<para>True if this style is one of the built-in styles in MS Word. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to differentiate custom styles from built-in styles. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>create<sp/>a<sp/>document<sp/>using<sp/>Microsoft<sp/>Word,<sp/>or<sp/>programmatically<sp/>using<sp/>Aspose.Words,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>document<sp/>will<sp/>come<sp/>with<sp/>a<sp/>collection<sp/>of<sp/>styles<sp/>to<sp/>apply<sp/>to<sp/>its<sp/>text<sp/>to<sp/>modify<sp/>its<sp/>appearance.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>access<sp/>these<sp/>built-in<sp/>styles<sp/>via<sp/>the<sp/>document&apos;s<sp/>&quot;Styles&quot;<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>styles<sp/>will<sp/>all<sp/>have<sp/>the<sp/>&quot;BuiltIn&quot;<sp/>flag<sp/>set<sp/>to<sp/>&quot;true&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>style<sp/>=<sp/>doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Emphasis&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(style-&gt;get_BuiltIn());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>custom<sp/>style<sp/>and<sp/>add<sp/>it<sp/>to<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Custom<sp/>styles<sp/>such<sp/>as<sp/>this<sp/>will<sp/>have<sp/>the<sp/>&quot;BuiltIn&quot;<sp/>flag<sp/>set<sp/>to<sp/>&quot;false&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">style<sp/>=<sp/>doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba76a40e4f974fd895a0a2598c1cee28b4" kindref="member" tooltip="The style is a character style.">StyleType::Character</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyStyle&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1aaa7db2a67618ecbea3394680a1ddcb13" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Navy</ref>());</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Courier<sp/>New&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(style-&gt;get_BuiltIn());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="445" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1ae3979d429bdb21a84e2039810399627e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">Aspose::Words::DocumentBase</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::DocumentBase &gt; Aspose::Words::Style::get_Document</definition>
+        <argsstring>()</argsstring>
+        <name>get_Document</name>
+        <qualifiedname>Aspose::Words::Style::get_Document</qualifiedname>
+        <briefdescription>
+<para>Gets the owner document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access a document&apos;s style collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>doc-&gt;get_Styles()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>and<sp/>list<sp/>all<sp/>the<sp/>styles<sp/>that<sp/>a<sp/>document<sp/>created<sp/>using<sp/>Aspose.Words<sp/>contains<sp/>by<sp/>default.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;Style&gt;&gt;&gt;<sp/>stylesEnum<sp/>=<sp/>doc-&gt;get_Styles()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(stylesEnum-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;Style&gt;<sp/>curStyle<sp/>=<sp/>stylesEnum-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;Style<sp/>name:\t\&quot;{0}\&quot;,<sp/>of<sp/>type<sp/>\&quot;{1}\&quot;&quot;</highlight><highlight class="normal">,<sp/>curStyle-&gt;get_Name(),<sp/>curStyle-&gt;get_Type())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tSubsequent<sp/>style:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>curStyle-&gt;get_NextParagraphStyleName()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tIs<sp/>heading:\t\t\t{0}&quot;</highlight><highlight class="normal">,<sp/>curStyle-&gt;get_IsHeading())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tIs<sp/>QuickStyle:\t\t{0}&quot;</highlight><highlight class="normal">,<sp/>curStyle-&gt;get_IsQuickStyle())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(doc,<sp/>curStyle-&gt;get_Document());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="325" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1a845f1a0b6c37d3046e0de860e3a3628c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_font" kindref="compound">Aspose::Words::Font</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Font &gt; Aspose::Words::Style::get_Font</definition>
+        <argsstring>()</argsstring>
+        <name>get_Font</name>
+        <qualifiedname>Aspose::Words::Style::get_Font</qualifiedname>
+        <briefdescription>
+<para>Gets the character formatting of the style. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>For list styles this property returns null.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create and apply a custom style. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>style<sp/>=<sp/>doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1bafeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="The style is a paragraph style.">StyleType::Paragraph</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyStyle&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_Size(16);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1aaa7db2a67618ecbea3394680a1ddcb13" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Navy</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>one<sp/>of<sp/>the<sp/>styles<sp/>from<sp/>the<sp/>document<sp/>to<sp/>the<sp/>paragraph<sp/>that<sp/>the<sp/>document<sp/>builder<sp/>is<sp/>creating.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>firstParagraphStyle<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;get_ParagraphFormat()-&gt;get_Style();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(style,<sp/>firstParagraphStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>our<sp/>custom<sp/>style<sp/>from<sp/>the<sp/>document&apos;s<sp/>styles<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle&quot;</highlight><highlight class="normal">)-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">firstParagraphStyle<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;get_ParagraphFormat()-&gt;get_Style();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Any<sp/>text<sp/>that<sp/>used<sp/>a<sp/>removed<sp/>style<sp/>reverts<sp/>to<sp/>the<sp/>default<sp/>formatting.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(doc-&gt;get_Styles()-&gt;LINQ_Any([](SharedPtr&lt;Style&gt;<sp/>s)<sp/>{<sp/>return<sp/>s-&gt;get_Name()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;MyStyle&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">,<sp/>firstParagraphStyle-&gt;get_Font()-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(12.0,<sp/>firstParagraphStyle-&gt;get_Font()-&gt;get_Size());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a41736737b8045f7ffbed1c8dc84182fe" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::Empty</ref>.ToArgb(),<sp/>firstParagraphStyle-&gt;get_Font()-&gt;get_Color().ToArgb());</highlight></codeline>
+</programlisting></para>
+<para>Shows how to create and use a paragraph style with list formatting. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>custom<sp/>paragraph<sp/>style.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>style<sp/>=<sp/>doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1bafeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="The style is a paragraph style.">StyleType::Paragraph</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyStyle1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_Size(24);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Verdana&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_ParagraphFormat()-&gt;set_SpaceAfter(12);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>list<sp/>and<sp/>make<sp/>sure<sp/>the<sp/>paragraphs<sp/>that<sp/>use<sp/>this<sp/>style<sp/>will<sp/>use<sp/>this<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_ListFormat()-&gt;set_List(doc-&gt;get_Lists()-&gt;Add(ListTemplate::BulletDefault));</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_ListFormat()-&gt;set_ListLevelNumber(0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>the<sp/>paragraph<sp/>style<sp/>to<sp/>the<sp/>document<sp/>builder&apos;s<sp/>current<sp/>paragraph,<sp/>and<sp/>then<sp/>add<sp/>some<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(style);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World:<sp/>MyStyle1,<sp/>bulleted<sp/>list.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Change<sp/>the<sp/>document<sp/>builder&apos;s<sp/>style<sp/>to<sp/>one<sp/>that<sp/>has<sp/>no<sp/>list<sp/>formatting<sp/>and<sp/>write<sp/>another<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Normal&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World:<sp/>Normal.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Document()-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Styles.ParagraphStyleBulletedList.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="509" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1a5525a2dd8c8220a2ba56e34e352c1e28" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Style::get_IsHeading</definition>
+        <argsstring>()</argsstring>
+        <name>get_IsHeading</name>
+        <qualifiedname>Aspose::Words::Style::get_IsHeading</qualifiedname>
+        <briefdescription>
+<para>True when the style is one of the built-in Heading styles. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access a document&apos;s style collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>doc-&gt;get_Styles()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>and<sp/>list<sp/>all<sp/>the<sp/>styles<sp/>that<sp/>a<sp/>document<sp/>created<sp/>using<sp/>Aspose.Words<sp/>contains<sp/>by<sp/>default.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;Style&gt;&gt;&gt;<sp/>stylesEnum<sp/>=<sp/>doc-&gt;get_Styles()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(stylesEnum-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;Style&gt;<sp/>curStyle<sp/>=<sp/>stylesEnum-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;Style<sp/>name:\t\&quot;{0}\&quot;,<sp/>of<sp/>type<sp/>\&quot;{1}\&quot;&quot;</highlight><highlight class="normal">,<sp/>curStyle-&gt;get_Name(),<sp/>curStyle-&gt;get_Type())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tSubsequent<sp/>style:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>curStyle-&gt;get_NextParagraphStyleName()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tIs<sp/>heading:\t\t\t{0}&quot;</highlight><highlight class="normal">,<sp/>curStyle-&gt;get_IsHeading())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tIs<sp/>QuickStyle:\t\t{0}&quot;</highlight><highlight class="normal">,<sp/>curStyle-&gt;get_IsQuickStyle())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(doc,<sp/>curStyle-&gt;get_Document());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="271" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1a6eeb2fb53cce24703e46cc9f1b3c2061" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Style::get_IsQuickStyle</definition>
+        <argsstring>() const</argsstring>
+        <name>get_IsQuickStyle</name>
+        <qualifiedname>Aspose::Words::Style::get_IsQuickStyle</qualifiedname>
+        <briefdescription>
+<para>Specifies whether this style is shown in the Quick <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Style</ref> gallery inside MS Word UI. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access a document&apos;s style collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>doc-&gt;get_Styles()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>and<sp/>list<sp/>all<sp/>the<sp/>styles<sp/>that<sp/>a<sp/>document<sp/>created<sp/>using<sp/>Aspose.Words<sp/>contains<sp/>by<sp/>default.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;Style&gt;&gt;&gt;<sp/>stylesEnum<sp/>=<sp/>doc-&gt;get_Styles()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(stylesEnum-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;Style&gt;<sp/>curStyle<sp/>=<sp/>stylesEnum-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;Style<sp/>name:\t\&quot;{0}\&quot;,<sp/>of<sp/>type<sp/>\&quot;{1}\&quot;&quot;</highlight><highlight class="normal">,<sp/>curStyle-&gt;get_Name(),<sp/>curStyle-&gt;get_Type())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tSubsequent<sp/>style:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>curStyle-&gt;get_NextParagraphStyleName()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tIs<sp/>heading:\t\t\t{0}&quot;</highlight><highlight class="normal">,<sp/>curStyle-&gt;get_IsHeading())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tIs<sp/>QuickStyle:\t\t{0}&quot;</highlight><highlight class="normal">,<sp/>curStyle-&gt;get_IsQuickStyle())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(doc,<sp/>curStyle-&gt;get_Document());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="666" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1a3a7cf5b4fbf7b1f94484903c18485e3a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Style::get_LinkedStyleName</definition>
+        <argsstring>()</argsstring>
+        <name>get_LinkedStyleName</name>
+        <qualifiedname>Aspose::Words::Style::get_LinkedStyleName</qualifiedname>
+        <briefdescription>
+<para>Gets the name of the <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Style</ref> linked to this one. Returns Empty string if no styles are linked. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use style aliases. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Style<sp/>with<sp/>alias.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>document<sp/>contains<sp/>a<sp/>style<sp/>named<sp/>&quot;MyStyle,MyStyle<sp/>Alias<sp/>1,MyStyle<sp/>Alias<sp/>2&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>a<sp/>style&apos;s<sp/>name<sp/>has<sp/>multiple<sp/>values<sp/>separated<sp/>by<sp/>commas,<sp/>each<sp/>clause<sp/>is<sp/>a<sp/>separate<sp/>alias.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>style<sp/>=<sp/>doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Alias<sp/>1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Alias<sp/>2&quot;</highlight><highlight class="normal">}),<sp/>style-&gt;get_Aliases());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Title&quot;</highlight><highlight class="normal">,<sp/>style-&gt;get_BaseStyleName());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Char&quot;</highlight><highlight class="normal">,<sp/>style-&gt;get_LinkedStyleName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>reference<sp/>a<sp/>style<sp/>using<sp/>its<sp/>alias,<sp/>as<sp/>well<sp/>as<sp/>its<sp/>name.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Alias<sp/>1&quot;</highlight><highlight class="normal">),<sp/>doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Alias<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveToDocumentEnd();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Alias<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle<sp/>Alias<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>again!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;idx_get(0)-&gt;get_ParagraphFormat()-&gt;get_Style(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;idx_get(1)-&gt;get_ParagraphFormat()-&gt;get_Style());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="355" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1a7ac322af3d27f329ebc486e43d2adcc5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list" kindref="compound">Aspose::Words::Lists::List</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Lists::List &gt; Aspose::Words::Style::get_List</definition>
+        <argsstring>()</argsstring>
+        <name>get_List</name>
+        <qualifiedname>Aspose::Words::Style::get_List</qualifiedname>
+        <briefdescription>
+<para>Gets the list that defines formatting of this list style. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This property is only valid for list styles. For other style types this property returns null.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create a list style and use it in a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>list<sp/>allows<sp/>us<sp/>to<sp/>organize<sp/>and<sp/>decorate<sp/>sets<sp/>of<sp/>paragraphs<sp/>with<sp/>prefix<sp/>symbols<sp/>and<sp/>indents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>create<sp/>nested<sp/>lists<sp/>by<sp/>increasing<sp/>the<sp/>indent<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>begin<sp/>and<sp/>end<sp/>a<sp/>list<sp/>by<sp/>using<sp/>a<sp/>document<sp/>builder&apos;s<sp/>&quot;ListFormat&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>paragraph<sp/>that<sp/>we<sp/>add<sp/>between<sp/>a<sp/>list&apos;s<sp/>start<sp/>and<sp/>the<sp/>end<sp/>will<sp/>become<sp/>an<sp/>item<sp/>in<sp/>the<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>contain<sp/>an<sp/>entire<sp/>List<sp/>object<sp/>within<sp/>a<sp/>style.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>listStyle<sp/>=<sp/>doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba4ee29ca12c7d126654bd0e5275de6135" kindref="member" tooltip="The style is a list style.">StyleType::List</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyListStyle&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;List&gt;<sp/>list1<sp/>=<sp/>listStyle-&gt;get_List();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(list1-&gt;get_IsListStyleDefinition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(list1-&gt;get_IsListStyleReference());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(list1-&gt;get_IsMultiLevel());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(listStyle,<sp/>list1-&gt;get_Style());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Change<sp/>the<sp/>appearance<sp/>of<sp/>all<sp/>list<sp/>levels<sp/>in<sp/>our<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>level<sp/>:<sp/>list1-&gt;get_ListLevels())</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>level-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Verdana&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>level-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>level-&gt;get_Font()-&gt;set_Bold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Using<sp/>list<sp/>style<sp/>first<sp/>time:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>another<sp/>list<sp/>from<sp/>a<sp/>list<sp/>within<sp/>a<sp/>style.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;List&gt;<sp/>list2<sp/>=<sp/>doc-&gt;get_Lists()-&gt;Add(listStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(list2-&gt;get_IsListStyleDefinition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(list2-&gt;get_IsListStyleReference());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(listStyle,<sp/>list2-&gt;get_Style());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>some<sp/>list<sp/>items<sp/>that<sp/>our<sp/>list<sp/>will<sp/>format.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(list2);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Item<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Item<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;RemoveNumbers();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Using<sp/>list<sp/>style<sp/>second<sp/>time:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>and<sp/>apply<sp/>another<sp/>list<sp/>based<sp/>on<sp/>the<sp/>list<sp/>style.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;List&gt;<sp/>list3<sp/>=<sp/>doc-&gt;get_Lists()-&gt;Add(listStyle);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(list3);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Item<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Item<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;RemoveNumbers();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Document()-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Lists.CreateAndUseListStyle.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="605" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1ada85f947d8282e719a941c5272eb5518" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_format" kindref="compound">Aspose::Words::Lists::ListFormat</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Lists::ListFormat &gt; Aspose::Words::Style::get_ListFormat</definition>
+        <argsstring>()</argsstring>
+        <name>get_ListFormat</name>
+        <qualifiedname>Aspose::Words::Style::get_ListFormat</qualifiedname>
+        <briefdescription>
+<para>Provides access to the list formatting properties of a paragraph style. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This property is only valid for paragraph styles. For other style types this property returns null.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create and use a paragraph style with list formatting. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>custom<sp/>paragraph<sp/>style.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>style<sp/>=<sp/>doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1bafeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="The style is a paragraph style.">StyleType::Paragraph</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyStyle1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_Size(24);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Verdana&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_ParagraphFormat()-&gt;set_SpaceAfter(12);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>list<sp/>and<sp/>make<sp/>sure<sp/>the<sp/>paragraphs<sp/>that<sp/>use<sp/>this<sp/>style<sp/>will<sp/>use<sp/>this<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_ListFormat()-&gt;set_List(doc-&gt;get_Lists()-&gt;Add(ListTemplate::BulletDefault));</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_ListFormat()-&gt;set_ListLevelNumber(0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>the<sp/>paragraph<sp/>style<sp/>to<sp/>the<sp/>document<sp/>builder&apos;s<sp/>current<sp/>paragraph,<sp/>and<sp/>then<sp/>add<sp/>some<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(style);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World:<sp/>MyStyle1,<sp/>bulleted<sp/>list.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Change<sp/>the<sp/>document<sp/>builder&apos;s<sp/>style<sp/>to<sp/>one<sp/>that<sp/>has<sp/>no<sp/>list<sp/>formatting<sp/>and<sp/>write<sp/>another<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Normal&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World:<sp/>Normal.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Document()-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Styles.ParagraphStyleBulletedList.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="639" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1a90cde49c3ddb6a747d544dec398bf129" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Style::get_Name</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Name</name>
+        <qualifiedname>Aspose::Words::Style::get_Name</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the name of the style. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Can not be empty string.</para>
+<para>If there already is a style with such name in the collection, then this style will override it. All affected nodes will reference new style.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access a document&apos;s style collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>doc-&gt;get_Styles()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>and<sp/>list<sp/>all<sp/>the<sp/>styles<sp/>that<sp/>a<sp/>document<sp/>created<sp/>using<sp/>Aspose.Words<sp/>contains<sp/>by<sp/>default.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;Style&gt;&gt;&gt;<sp/>stylesEnum<sp/>=<sp/>doc-&gt;get_Styles()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(stylesEnum-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;Style&gt;<sp/>curStyle<sp/>=<sp/>stylesEnum-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;Style<sp/>name:\t\&quot;{0}\&quot;,<sp/>of<sp/>type<sp/>\&quot;{1}\&quot;&quot;</highlight><highlight class="normal">,<sp/>curStyle-&gt;get_Name(),<sp/>curStyle-&gt;get_Type())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tSubsequent<sp/>style:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>curStyle-&gt;get_NextParagraphStyleName()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tIs<sp/>heading:\t\t\t{0}&quot;</highlight><highlight class="normal">,<sp/>curStyle-&gt;get_IsHeading())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tIs<sp/>QuickStyle:\t\t{0}&quot;</highlight><highlight class="normal">,<sp/>curStyle-&gt;get_IsQuickStyle())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(doc,<sp/>curStyle-&gt;get_Document());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting></para>
+<para>Shows how to clone a document&apos;s style. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>AddCopy<sp/>method<sp/>creates<sp/>a<sp/>copy<sp/>of<sp/>the<sp/>specified<sp/>style<sp/>and</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>automatically<sp/>generates<sp/>a<sp/>new<sp/>name<sp/>for<sp/>the<sp/>style,<sp/>such<sp/>as<sp/>&quot;Heading<sp/>1_0&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>newStyle<sp/>=<sp/>doc-&gt;get_Styles()-&gt;AddCopy(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>style&apos;s<sp/>&quot;Name&quot;<sp/>property<sp/>to<sp/>change<sp/>the<sp/>style&apos;s<sp/>identifying<sp/>name.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">newStyle-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;My<sp/>Heading<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>document<sp/>now<sp/>has<sp/>two<sp/>identical<sp/>looking<sp/>styles<sp/>with<sp/>different<sp/>names.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Changing<sp/>settings<sp/>of<sp/>one<sp/>of<sp/>the<sp/>styles<sp/>do<sp/>not<sp/>affect<sp/>the<sp/>other.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">newStyle-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;My<sp/>Heading<sp/>1&quot;</highlight><highlight class="normal">,<sp/>newStyle-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">)-&gt;get_Type(),<sp/>newStyle-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">)-&gt;get_Font()-&gt;get_Name(),<sp/>newStyle-&gt;get_Font()-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">)-&gt;get_Font()-&gt;get_Size(),<sp/>newStyle-&gt;get_Font()-&gt;get_Size());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_NE(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">)-&gt;get_Font()-&gt;get_Color(),<sp/>newStyle-&gt;get_Font()-&gt;get_Color());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="180" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1a9c2650e5c3e7868a66a842ab6e82f8d5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Style::get_NextParagraphStyleName</definition>
+        <argsstring>()</argsstring>
+        <name>get_NextParagraphStyleName</name>
+        <qualifiedname>Aspose::Words::Style::get_NextParagraphStyleName</qualifiedname>
+        <briefdescription>
+<para>Gets/sets the name of the style to be applied automatically to a new paragraph inserted after a paragraph formatted with the specified style. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access a document&apos;s style collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>doc-&gt;get_Styles()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>and<sp/>list<sp/>all<sp/>the<sp/>styles<sp/>that<sp/>a<sp/>document<sp/>created<sp/>using<sp/>Aspose.Words<sp/>contains<sp/>by<sp/>default.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;Style&gt;&gt;&gt;<sp/>stylesEnum<sp/>=<sp/>doc-&gt;get_Styles()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(stylesEnum-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;Style&gt;<sp/>curStyle<sp/>=<sp/>stylesEnum-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;Style<sp/>name:\t\&quot;{0}\&quot;,<sp/>of<sp/>type<sp/>\&quot;{1}\&quot;&quot;</highlight><highlight class="normal">,<sp/>curStyle-&gt;get_Name(),<sp/>curStyle-&gt;get_Type())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tSubsequent<sp/>style:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>curStyle-&gt;get_NextParagraphStyleName()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tIs<sp/>heading:\t\t\t{0}&quot;</highlight><highlight class="normal">,<sp/>curStyle-&gt;get_IsHeading())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tIs<sp/>QuickStyle:\t\t{0}&quot;</highlight><highlight class="normal">,<sp/>curStyle-&gt;get_IsQuickStyle())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(doc,<sp/>curStyle-&gt;get_Document());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="416" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1a9824e2696480d674da1f6384a069ed0b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_paragraph_format" kindref="compound">Aspose::Words::ParagraphFormat</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::ParagraphFormat &gt; Aspose::Words::Style::get_ParagraphFormat</definition>
+        <argsstring>()</argsstring>
+        <name>get_ParagraphFormat</name>
+        <qualifiedname>Aspose::Words::Style::get_ParagraphFormat</qualifiedname>
+        <briefdescription>
+<para>Gets the paragraph formatting of the style. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>For character and list styles this property returns null.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create and use a paragraph style with list formatting. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>custom<sp/>paragraph<sp/>style.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>style<sp/>=<sp/>doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1bafeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="The style is a paragraph style.">StyleType::Paragraph</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyStyle1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_Size(24);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Verdana&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_ParagraphFormat()-&gt;set_SpaceAfter(12);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>list<sp/>and<sp/>make<sp/>sure<sp/>the<sp/>paragraphs<sp/>that<sp/>use<sp/>this<sp/>style<sp/>will<sp/>use<sp/>this<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_ListFormat()-&gt;set_List(doc-&gt;get_Lists()-&gt;Add(ListTemplate::BulletDefault));</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_ListFormat()-&gt;set_ListLevelNumber(0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>the<sp/>paragraph<sp/>style<sp/>to<sp/>the<sp/>document<sp/>builder&apos;s<sp/>current<sp/>paragraph,<sp/>and<sp/>then<sp/>add<sp/>some<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(style);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World:<sp/>MyStyle1,<sp/>bulleted<sp/>list.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Change<sp/>the<sp/>document<sp/>builder&apos;s<sp/>style<sp/>to<sp/>one<sp/>that<sp/>has<sp/>no<sp/>list<sp/>formatting<sp/>and<sp/>write<sp/>another<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Normal&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World:<sp/>Normal.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Document()-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Styles.ParagraphStyleBulletedList.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="542" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1a6fedf811009fc2c5d9c0ff7ef8bf2022" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34" kindref="member">Aspose::Words::StyleIdentifier</ref></type>
+        <definition>Aspose::Words::StyleIdentifier Aspose::Words::Style::get_StyleIdentifier</definition>
+        <argsstring>() const</argsstring>
+        <name>get_StyleIdentifier</name>
+        <qualifiedname>Aspose::Words::Style::get_StyleIdentifier</qualifiedname>
+        <briefdescription>
+<para>Gets the locale independent style identifier for a built-in style. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>For user defined (custom) styles, this property returns <ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a8f9bfe9d1345237cb3b2b205864da075" kindref="member">User</ref>.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_style_1a90cde49c3ddb6a747d544dec398bf129" kindref="member">Aspose::Words::Style::get_Name</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to modify the position of the right tab stop in TOC related paragraphs. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table<sp/>of<sp/>contents.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Iterate<sp/>through<sp/>all<sp/>paragraphs<sp/>with<sp/>TOC<sp/>result-based<sp/>styles;<sp/>this<sp/>is<sp/>any<sp/>style<sp/>between<sp/>TOC<sp/>and<sp/>TOC9.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>para<sp/>:<sp/>System::IterateOver(doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;LINQ_OfType&lt;SharedPtr&lt;Paragraph&gt;&gt;()))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(para-&gt;get_ParagraphFormat()-&gt;get_Style()-&gt;get_StyleIdentifier()<sp/>&gt;=<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a20c0f0b05465f571395bbcdf082d0cda" kindref="member">StyleIdentifier::Toc1</ref><sp/>&amp;&amp;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>para-&gt;get_ParagraphFormat()-&gt;get_Style()-&gt;get_StyleIdentifier()<sp/>&lt;=<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34ae8da749f30b38cb3ce02e34dcf390ef4" kindref="member">StyleIdentifier::Toc9</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>first<sp/>tab<sp/>used<sp/>in<sp/>this<sp/>paragraph,<sp/>this<sp/>should<sp/>be<sp/>the<sp/>tab<sp/>used<sp/>to<sp/>align<sp/>the<sp/>page<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;TabStop&gt;<sp/>tab<sp/>=<sp/>para-&gt;get_ParagraphFormat()-&gt;get_TabStops()-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Replace<sp/>the<sp/>first<sp/>default<sp/>tab,<sp/>stop<sp/>with<sp/>a<sp/>custom<sp/>tab<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>para-&gt;get_ParagraphFormat()-&gt;get_TabStops()-&gt;RemoveByPosition(tab-&gt;get_Position());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>para-&gt;get_ParagraphFormat()-&gt;get_TabStops()-&gt;Add(tab-&gt;get_Position()<sp/>-<sp/>50,<sp/>tab-&gt;get_Alignment(),<sp/>tab-&gt;get_Leader());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Styles.ChangeTocsTabStops.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="214" column="39"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1afa75427b14be6a2d60970ab6e7c0bcf1" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_style_collection" kindref="compound">Aspose::Words::StyleCollection</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::StyleCollection &gt; Aspose::Words::Style::get_Styles</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Styles</name>
+        <qualifiedname>Aspose::Words::Style::get_Styles</qualifiedname>
+        <briefdescription>
+<para>Gets the collection of styles this style belongs to. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access a document&apos;s style collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>doc-&gt;get_Styles()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>and<sp/>list<sp/>all<sp/>the<sp/>styles<sp/>that<sp/>a<sp/>document<sp/>created<sp/>using<sp/>Aspose.Words<sp/>contains<sp/>by<sp/>default.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;Style&gt;&gt;&gt;<sp/>stylesEnum<sp/>=<sp/>doc-&gt;get_Styles()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(stylesEnum-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;Style&gt;<sp/>curStyle<sp/>=<sp/>stylesEnum-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;Style<sp/>name:\t\&quot;{0}\&quot;,<sp/>of<sp/>type<sp/>\&quot;{1}\&quot;&quot;</highlight><highlight class="normal">,<sp/>curStyle-&gt;get_Name(),<sp/>curStyle-&gt;get_Type())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tSubsequent<sp/>style:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>curStyle-&gt;get_NextParagraphStyleName()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tIs<sp/>heading:\t\t\t{0}&quot;</highlight><highlight class="normal">,<sp/>curStyle-&gt;get_IsHeading())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tIs<sp/>QuickStyle:\t\t{0}&quot;</highlight><highlight class="normal">,<sp/>curStyle-&gt;get_IsQuickStyle())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(doc,<sp/>curStyle-&gt;get_Document());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="696" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1acdc8710a9fcf8a60ee090811808d7d89" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1b" kindref="member">Aspose::Words::StyleType</ref></type>
+        <definition>Aspose::Words::StyleType Aspose::Words::Style::get_Type</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Type</name>
+        <qualifiedname>Aspose::Words::Style::get_Type</qualifiedname>
+        <briefdescription>
+<para>Gets the style type (paragraph or character). </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access a document&apos;s style collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>doc-&gt;get_Styles()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>and<sp/>list<sp/>all<sp/>the<sp/>styles<sp/>that<sp/>a<sp/>document<sp/>created<sp/>using<sp/>Aspose.Words<sp/>contains<sp/>by<sp/>default.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;Style&gt;&gt;&gt;<sp/>stylesEnum<sp/>=<sp/>doc-&gt;get_Styles()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(stylesEnum-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;Style&gt;<sp/>curStyle<sp/>=<sp/>stylesEnum-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;Style<sp/>name:\t\&quot;{0}\&quot;,<sp/>of<sp/>type<sp/>\&quot;{1}\&quot;&quot;</highlight><highlight class="normal">,<sp/>curStyle-&gt;get_Name(),<sp/>curStyle-&gt;get_Type())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tSubsequent<sp/>style:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>curStyle-&gt;get_NextParagraphStyleName()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tIs<sp/>heading:\t\t\t{0}&quot;</highlight><highlight class="normal">,<sp/>curStyle-&gt;get_IsHeading())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tIs<sp/>QuickStyle:\t\t{0}&quot;</highlight><highlight class="normal">,<sp/>curStyle-&gt;get_IsQuickStyle())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(doc,<sp/>curStyle-&gt;get_Document());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="298" column="33"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1ad8a902446996ab6bb03fb5626465a82d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Style::Remove</definition>
+        <argsstring>()</argsstring>
+        <name>Remove</name>
+        <qualifiedname>Aspose::Words::Style::Remove</qualifiedname>
+        <briefdescription>
+<para>Removes the specified style from the document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Style</ref> removal has following effects on the document model:</para>
+<para><itemizedlist>
+<listitem><para>All references to the style are removed from corresponding paragraphs, runs and tables.</para>
+</listitem><listitem><para>If base style is removed its formatting is moved to child styles.</para>
+</listitem><listitem><para>If style to be deleted has a linked style, then both of these are deleted.</para>
+</listitem></itemizedlist>
+</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create and apply a custom style. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>style<sp/>=<sp/>doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1bafeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="The style is a paragraph style.">StyleType::Paragraph</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyStyle&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_Size(16);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1aaa7db2a67618ecbea3394680a1ddcb13" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Navy</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>one<sp/>of<sp/>the<sp/>styles<sp/>from<sp/>the<sp/>document<sp/>to<sp/>the<sp/>paragraph<sp/>that<sp/>the<sp/>document<sp/>builder<sp/>is<sp/>creating.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>firstParagraphStyle<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;get_ParagraphFormat()-&gt;get_Style();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(style,<sp/>firstParagraphStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>our<sp/>custom<sp/>style<sp/>from<sp/>the<sp/>document&apos;s<sp/>styles<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle&quot;</highlight><highlight class="normal">)-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">firstParagraphStyle<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;get_ParagraphFormat()-&gt;get_Style();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Any<sp/>text<sp/>that<sp/>used<sp/>a<sp/>removed<sp/>style<sp/>reverts<sp/>to<sp/>the<sp/>default<sp/>formatting.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(doc-&gt;get_Styles()-&gt;LINQ_Any([](SharedPtr&lt;Style&gt;<sp/>s)<sp/>{<sp/>return<sp/>s-&gt;get_Name()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;MyStyle&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">,<sp/>firstParagraphStyle-&gt;get_Font()-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(12.0,<sp/>firstParagraphStyle-&gt;get_Font()-&gt;get_Size());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a41736737b8045f7ffbed1c8dc84182fe" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::Empty</ref>.ToArgb(),<sp/>firstParagraphStyle-&gt;get_Font()-&gt;get_Color().ToArgb());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="738" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1adc92688b8217100ec3dafc25c5000ead" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Style::set_BaseStyleName</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_BaseStyleName</name>
+        <qualifiedname>Aspose::Words::Style::set_BaseStyleName</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_style_1a45e9c644b7a68b026fe83db64085ef8c" kindref="member">Aspose::Words::Style::get_BaseStyleName</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="388" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1a4f6d986bb9b73a407531a50e2829f640" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Style::set_IsQuickStyle</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_IsQuickStyle</name>
+        <qualifiedname>Aspose::Words::Style::set_IsQuickStyle</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_style_1a6eeb2fb53cce24703e46cc9f1b3c2061" kindref="member">Aspose::Words::Style::get_IsQuickStyle</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="669" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1a19f9c6c37aa9fb905e6ef2ee3ae45f9c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Style::set_Name</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Name</name>
+        <qualifiedname>Aspose::Words::Style::set_Name</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_style_1a90cde49c3ddb6a747d544dec398bf129" kindref="member">Aspose::Words::Style::get_Name</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="183" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_style_1a0779d0eabc0e23e17c7eaa1a2bf790b4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Style::set_NextParagraphStyleName</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_NextParagraphStyleName</name>
+        <qualifiedname>Aspose::Words::Style::set_NextParagraphStyleName</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_style_1a9c2650e5c3e7868a66a842ab6e82f8d5" kindref="member">Aspose::Words::Style::get_NextParagraphStyleName</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Style.h" line="419" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents a single built-in or user-defined style. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create and apply a custom style. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>style<sp/>=<sp/>doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1bafeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="The style is a paragraph style.">StyleType::Paragraph</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyStyle&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_Size(16);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1aaa7db2a67618ecbea3394680a1ddcb13" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Navy</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>one<sp/>of<sp/>the<sp/>styles<sp/>from<sp/>the<sp/>document<sp/>to<sp/>the<sp/>paragraph<sp/>that<sp/>the<sp/>document<sp/>builder<sp/>is<sp/>creating.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>firstParagraphStyle<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;get_ParagraphFormat()-&gt;get_Style();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(style,<sp/>firstParagraphStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>our<sp/>custom<sp/>style<sp/>from<sp/>the<sp/>document&apos;s<sp/>styles<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyStyle&quot;</highlight><highlight class="normal">)-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">firstParagraphStyle<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;get_ParagraphFormat()-&gt;get_Style();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Any<sp/>text<sp/>that<sp/>used<sp/>a<sp/>removed<sp/>style<sp/>reverts<sp/>to<sp/>the<sp/>default<sp/>formatting.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(doc-&gt;get_Styles()-&gt;LINQ_Any([](SharedPtr&lt;Style&gt;<sp/>s)<sp/>{<sp/>return<sp/>s-&gt;get_Name()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;MyStyle&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">,<sp/>firstParagraphStyle-&gt;get_Font()-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(12.0,<sp/>firstParagraphStyle-&gt;get_Font()-&gt;get_Size());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a41736737b8045f7ffbed1c8dc84182fe" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::Empty</ref>.ToArgb(),<sp/>firstParagraphStyle-&gt;get_Font()-&gt;get_Color().ToArgb());</highlight></codeline>
+</programlisting></para>
+<para>Shows how to create and use a paragraph style with list formatting. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>custom<sp/>paragraph<sp/>style.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>style<sp/>=<sp/>doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1bafeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="The style is a paragraph style.">StyleType::Paragraph</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyStyle1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_Size(24);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Verdana&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_ParagraphFormat()-&gt;set_SpaceAfter(12);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>list<sp/>and<sp/>make<sp/>sure<sp/>the<sp/>paragraphs<sp/>that<sp/>use<sp/>this<sp/>style<sp/>will<sp/>use<sp/>this<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_ListFormat()-&gt;set_List(doc-&gt;get_Lists()-&gt;Add(ListTemplate::BulletDefault));</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_ListFormat()-&gt;set_ListLevelNumber(0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>the<sp/>paragraph<sp/>style<sp/>to<sp/>the<sp/>document<sp/>builder&apos;s<sp/>current<sp/>paragraph,<sp/>and<sp/>then<sp/>add<sp/>some<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(style);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World:<sp/>MyStyle1,<sp/>bulleted<sp/>list.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Change<sp/>the<sp/>document<sp/>builder&apos;s<sp/>style<sp/>to<sp/>one<sp/>that<sp/>has<sp/>no<sp/>list<sp/>formatting<sp/>and<sp/>write<sp/>another<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Normal&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World:<sp/>Normal.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Document()-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Styles.ParagraphStyleBulletedList.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::IParaAttrSource</label>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::IRunAttrSource</label>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Style</label>
+        <link refid="class_aspose_1_1_words_1_1_style"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::TableStyle</label>
+        <link refid="class_aspose_1_1_words_1_1_table_style"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::IParaAttrSource</label>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::IRunAttrSource</label>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Style</label>
+        <link refid="class_aspose_1_1_words_1_1_style"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Style.h" line="113" column="1" bodyfile="Aspose.Words.Cpp/Style.h" bodystart="114" bodyend="834"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_style_1a8107f05379999f644d9167de6575b5e7" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a0f4773d46ffc46fe0f4497863976ddec" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a6442d3a5a956d07350b4131493f7086f" prot="private" virt="virtual"><scope>Aspose::Words::Style</scope><name>Clone</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a0d63df04541de8d094e8eb76a6dbe6bb" prot="private" virt="virtual"><scope>Aspose::Words::Style</scope><name>CppMemberwiseClone</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a464bee9ddd21455f4e13fff21abdbe0a" prot="public" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>Equals</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a1b23ee60f7267e0417bf8ec55b38c696" prot="public" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>get_Aliases</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a45e9c644b7a68b026fe83db64085ef8c" prot="public" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>get_BaseStyleName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a741836f0f1fb39a9ef2badfdc23ff934" prot="public" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>get_BuiltIn</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1ae3979d429bdb21a84e2039810399627e" prot="public" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>get_Document</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a845f1a0b6c37d3046e0de860e3a3628c" prot="public" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>get_Font</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a5525a2dd8c8220a2ba56e34e352c1e28" prot="public" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>get_IsHeading</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a6eeb2fb53cce24703e46cc9f1b3c2061" prot="public" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>get_IsQuickStyle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a3a7cf5b4fbf7b1f94484903c18485e3a" prot="public" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>get_LinkedStyleName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a7ac322af3d27f329ebc486e43d2adcc5" prot="public" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>get_List</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1ada85f947d8282e719a941c5272eb5518" prot="public" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>get_ListFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a90cde49c3ddb6a747d544dec398bf129" prot="public" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>get_Name</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a9c2650e5c3e7868a66a842ab6e82f8d5" prot="public" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>get_NextParagraphStyleName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a9824e2696480d674da1f6384a069ed0b" prot="public" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>get_ParagraphFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a6fedf811009fc2c5d9c0ff7ef8bf2022" prot="public" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>get_StyleIdentifier</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1afa75427b14be6a2d60970ab6e7c0bcf1" prot="public" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>get_Styles</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1acdc8710a9fcf8a60ee090811808d7d89" prot="public" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1aff47c5c016247feacf3813946693fc4b" prot="private" virt="virtual"><scope>Aspose::Words::Style</scope><name>HasFormatting</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1ac924dc33591054f91e6487828e7d6018" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>MEMBER_FUNCTION_MAKE_OBJECT_DECLARATION</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1adc71a66afb49837caf4325e7dd8de123" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1ab02c6ba2f724a9b06c3080121fd7531a" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a7d5eb2ccd51f6de3f59ba632f4aa9e45" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField10</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a2413a26edec6e3025e59a27185d22916" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField11</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a11801a06f1e55acd7b0c7c3ba39e1edc" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField12</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a76b1e9023f079aa9fe7b65c7f3734585" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField13</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a5d06d17d8fdc5e427d2cf691daea0ca8" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField14</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1ac8e357da33865c51330fbad04db1bf05" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField15</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1af5e75e18444e75dfd0a051e67b11ab5c" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField16</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a09b34a086af09c7abde71f1bc36d7e09" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField17</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a231f5843ff51ee5f8e588c4f08b512a3" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField18</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a2e8a6e5afd912ea63cffa6069aa64b17" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField19</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a5dad6c0084014a11a3479b65e39a762d" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a469b41e72aea632f7e0b3027f253630e" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField20</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a882ae37b2bc76f7f603e9cf61aa35483" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField21</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a263938de6dbe3c6f395124c46d8d2eac" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField22</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a746d576fdb9cb2349b47d6ceb890d4c6" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField23</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1aa42c0457d9a8cb9b1ab716bbf6ec679c" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField24</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a8e0eaa305e83166ebe601f2a2d1b42e1" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField25</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a9b8e66d26310cb38d4162cb3c0dc3e2b" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField26</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1af1a58f5c86f77a430e2fef7dda72c54c" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField27</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a95565021ad2fc00b43e5aa0063d344e7" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField28</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1ad7a24bd0578eff4fe0e5d7a66f9d5f92" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField29</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a57a8d5bce92f5cb6f6650fe1d926fd69" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a7820ff8af8aad4e00c469f4fa32a77eb" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1ae96bbe2bf1e3628679e3a589f854f8a1" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a0e10c76a9d881d9e883806e3d995bd84" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField6</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a69fb4f04fd111d67fc6dcccbb23949b8" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField7</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a2a1fbe3ac776edfa22b2d8fd241adf87" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField8</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a5f04498243c4fd42f232416ee670ab51" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>mField9</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1ad8a902446996ab6bb03fb5626465a82d" prot="public" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1ad5165739989a2a8ed7b82306272df69c" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1adc92688b8217100ec3dafc25c5000ead" prot="public" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>set_BaseStyleName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a4f6d986bb9b73a407531a50e2829f640" prot="public" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>set_IsQuickStyle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a19f9c6c37aa9fb905e6ef2ee3ae45f9c" prot="public" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>set_Name</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a0779d0eabc0e23e17c7eaa1a2bf790b4" prot="public" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>set_NextParagraphStyleName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1add2afffa35aa8b50c54a2eebd7fae0ae" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a464f82f27710f94aab7377475c7b4530" prot="private" virt="non-virtual"><scope>Aspose::Words::Style</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_style_1a1a22d68ea3750ab680ff0efbc5adea29" prot="private" virt="virtual"><scope>Aspose::Words::Style</scope><name>~Style</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

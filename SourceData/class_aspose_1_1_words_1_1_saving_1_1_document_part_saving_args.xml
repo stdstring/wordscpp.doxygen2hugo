@@ -1,0 +1,919 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Saving::DocumentPartSavingArgs</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_document_part_saving_args_8h" local="no">Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1ac3d4d33536323e4b19833711f9181582" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Saving::DocumentPartSavingArgs::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Saving::DocumentPartSavingArgs::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h" line="178" column="28" bodyfile="Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h" bodystart="178" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1a01a4f674100208d3b1dcd0f44b8e6bbc" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args" kindref="compound">DocumentPartSavingArgs</ref></type>
+        <definition>typedef DocumentPartSavingArgs Aspose::Words::Saving::DocumentPartSavingArgs::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Saving::DocumentPartSavingArgs::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h" line="177" column="36" bodyfile="Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h" bodystart="177" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1a66d8e5c73a254ded471bea5fca6da084" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::DocumentPartSavingArgs::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Saving::DocumentPartSavingArgs::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h" line="180" column="37" bodyfile="Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h" bodystart="180" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1a469c2d12fe4e46def4bc7f49141739a9" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::DocumentPartSavingArgs::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Saving::DocumentPartSavingArgs::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h" line="758" column="23" bodyfile="Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h" bodystart="758" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1a13b738f7371239c66c7bd0cfe9c9cbf1" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::DocumentPartSavingArgs::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Saving::DocumentPartSavingArgs::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h" line="759" column="23" bodyfile="Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h" bodystart="759" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1a48cc04317452a1b8a8c510d65759d6cb" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::DocumentPartSavingArgs::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Saving::DocumentPartSavingArgs::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h" line="760" column="20" bodyfile="Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h" bodystart="760" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1a71c1df9203a32a099c2b64e4ddca1fd9" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::DocumentPartSavingArgs::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Saving::DocumentPartSavingArgs::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h" line="761" column="23" bodyfile="Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h" bodystart="761" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1ab8d3e7a8e86defc8b02633d593f7ced8" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::DocumentPartSavingArgs::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Saving::DocumentPartSavingArgs::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h" line="181" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1a263b63a8c72244b1851e044037a9d7b2" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Aspose::Words::Document</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Document &gt; Aspose::Words::Saving::DocumentPartSavingArgs::get_Document</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Document</name>
+        <qualifiedname>Aspose::Words::Saving::DocumentPartSavingArgs::get_Document</qualifiedname>
+        <briefdescription>
+<para>Gets the document object that is being saved. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to split a document into parts and save them. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>DocumentPartsFileNames()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>outFileName<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;SavingCallback.DocumentPartsFileNames.html&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;HtmlFixedSaveOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>convert<sp/>the<sp/>document<sp/>to<sp/>HTML.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;HtmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>save<sp/>the<sp/>document<sp/>normally,<sp/>there<sp/>will<sp/>be<sp/>one<sp/>output<sp/>HTML</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>document<sp/>with<sp/>all<sp/>the<sp/>source<sp/>document&apos;s<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;DocumentSplitCriteria&quot;<sp/>property<sp/>to<sp/>&quot;DocumentSplitCriteria.SectionBreak&quot;<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>save<sp/>our<sp/>document<sp/>to<sp/>multiple<sp/>HTML<sp/>files:<sp/>one<sp/>for<sp/>each<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_DocumentSplitCriteria(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a21c39143a76e997332687767db80fc07ac6788b2b9719f26994fd409d52a778fb" kindref="member" tooltip="The document is split into parts at a section break of any type.">DocumentSplitCriteria::SectionBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Assign<sp/>a<sp/>custom<sp/>callback<sp/>to<sp/>the<sp/>&quot;DocumentPartSavingCallback&quot;<sp/>property<sp/>to<sp/>alter<sp/>the<sp/>document<sp/>part<sp/>saving<sp/>logic.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_DocumentPartSavingCallback(MakeObject&lt;ExSavingCallback::SavedDocumentPartRename&gt;(outFileName,<sp/>options-&gt;get_DocumentSplitCriteria()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>convert<sp/>a<sp/>document<sp/>that<sp/>contains<sp/>images<sp/>into<sp/>html,<sp/>we<sp/>will<sp/>end<sp/>up<sp/>with<sp/>one<sp/>html<sp/>file<sp/>which<sp/>links<sp/>to<sp/>several<sp/>images.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Each<sp/>image<sp/>will<sp/>be<sp/>in<sp/>the<sp/>form<sp/>of<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>There<sp/>is<sp/>also<sp/>a<sp/>callback<sp/>that<sp/>can<sp/>customize<sp/>the<sp/>name<sp/>and<sp/>file<sp/>system<sp/>location<sp/>of<sp/>each<sp/>image.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ImageSavingCallback(MakeObject&lt;ExSavingCallback::SavedImageRename&gt;(outFileName));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>outFileName,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">SavedDocumentPartRename<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IDocumentPartSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SavedDocumentPartRename(String<sp/>outFileName,<sp/>DocumentSplitCriteria<sp/>documentSplitCriteria)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>:<sp/>mCount(0),<sp/>mDocumentSplitCriteria(((<ref refid="namespace_aspose" kindref="compound">Aspose</ref>::<ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref>::Saving::<ref refid="namespace_aspose_1_1_words_1_1_saving_1a21c39143a76e997332687767db80fc07" kindref="member" tooltip="Specifies how the document is split into parts when saving to Html, Epub or Azw3 format.">DocumentSplitCriteria</ref>)0))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mOutFileName<sp/>=<sp/>outFileName;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocumentSplitCriteria<sp/>=<sp/>documentSplitCriteria;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mCount;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>mOutFileName;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_saving_1a21c39143a76e997332687767db80fc07" kindref="member" tooltip="Specifies how the document is split into parts when saving to Html, Epub or Azw3 format.">DocumentSplitCriteria</ref><sp/>mDocumentSplitCriteria;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>DocumentPartSaving(SharedPtr&lt;DocumentPartSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>access<sp/>the<sp/>entire<sp/>source<sp/>document<sp/>via<sp/>the<sp/>&quot;Document&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_Document()-&gt;get_OriginalFileName().EndsWith(u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>partType<sp/>=<sp/>String::Empty;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(mDocumentSplitCriteria)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::PageBreak:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Page&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::ColumnBreak:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Column&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::SectionBreak:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Section&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::HeadingParagraph:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>from<sp/>heading&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">default</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>partFileName<sp/>=<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>part<sp/>{1},<sp/>of<sp/>type<sp/>{2}{3}&quot;</highlight><highlight class="normal">,<sp/>mOutFileName,<sp/>++mCount,<sp/>partType,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.path/_1ae9e0f0c8b345ecfab2ca997411b81f97" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::GetExtension</ref>(args-&gt;get_DocumentPartFileName()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>specifying<sp/>where<sp/>Aspose.Words<sp/>will<sp/>save<sp/>each<sp/>part<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Set<sp/>a<sp/>filename<sp/>for<sp/>the<sp/>output<sp/>part<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_DocumentPartFileName(partFileName);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Create<sp/>a<sp/>custom<sp/>stream<sp/>for<sp/>the<sp/>output<sp/>part<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_DocumentPartStream(MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>partFileName,<sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_DocumentPartStream()-&gt;get_CanWrite());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(args-&gt;get_KeepDocumentPartStreamOpen());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">SavedImageRename<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IImageSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SavedImageRename(String<sp/>outFileName)<sp/>:<sp/>mCount(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mOutFileName<sp/>=<sp/>outFileName;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mCount;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>mOutFileName;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ImageSaving(SharedPtr&lt;ImageSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>imageFileName<sp/>=<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>shape<sp/>{1},<sp/>of<sp/>type<sp/>{2}{3}&quot;</highlight><highlight class="normal">,<sp/>mOutFileName,<sp/>++mCount,<sp/>args-&gt;get_CurrentShape()-&gt;get_ShapeType(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.path/_1ae9e0f0c8b345ecfab2ca997411b81f97" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::GetExtension</ref>(args-&gt;get_ImageFileName()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>specifying<sp/>where<sp/>Aspose.Words<sp/>will<sp/>save<sp/>each<sp/>part<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Set<sp/>a<sp/>filename<sp/>for<sp/>the<sp/>output<sp/>image<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ImageFileName(imageFileName);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Create<sp/>a<sp/>custom<sp/>stream<sp/>for<sp/>the<sp/>output<sp/>image<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ImageStream(MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>imageFileName,<sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_ImageStream()-&gt;get_CanWrite());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_IsImageAvailable());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(args-&gt;get_KeepImageStreamOpen());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h" line="312" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1ab83222efa0d36354fc938aea69d6b1cd" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::DocumentPartSavingArgs::get_DocumentPartFileName</definition>
+        <argsstring>() const</argsstring>
+        <name>get_DocumentPartFileName</name>
+        <qualifiedname>Aspose::Words::Saving::DocumentPartSavingArgs::get_DocumentPartFileName</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the file name (without path) where the document part will be saved to. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This property allows you to redefine how the document part file names are generated during export to HTML or EPUB.</para>
+<para>When the callback is invoked, this property contains the file name that was generated by Aspose.Words. You can change the value of this property to save the document part into a different file. Note that the file name for each part must be unique.</para>
+<para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1ab83222efa0d36354fc938aea69d6b1cd" kindref="member">DocumentPartFileName</ref> must contain only the file name without the path. Aspose.Words determines the path for saving using the document file name. If output document file name was not specified, for instance when saving to a stream, this file name is used only for referencing document parts. The same is true when saving to EPUB format.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1afaca967085ad287a709f75b431ccec79" kindref="member">Aspose::Words::Saving::DocumentPartSavingArgs::get_DocumentPartStream</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to split a document into parts and save them. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>DocumentPartsFileNames()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>outFileName<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;SavingCallback.DocumentPartsFileNames.html&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;HtmlFixedSaveOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>convert<sp/>the<sp/>document<sp/>to<sp/>HTML.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;HtmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>save<sp/>the<sp/>document<sp/>normally,<sp/>there<sp/>will<sp/>be<sp/>one<sp/>output<sp/>HTML</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>document<sp/>with<sp/>all<sp/>the<sp/>source<sp/>document&apos;s<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;DocumentSplitCriteria&quot;<sp/>property<sp/>to<sp/>&quot;DocumentSplitCriteria.SectionBreak&quot;<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>save<sp/>our<sp/>document<sp/>to<sp/>multiple<sp/>HTML<sp/>files:<sp/>one<sp/>for<sp/>each<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_DocumentSplitCriteria(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a21c39143a76e997332687767db80fc07ac6788b2b9719f26994fd409d52a778fb" kindref="member" tooltip="The document is split into parts at a section break of any type.">DocumentSplitCriteria::SectionBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Assign<sp/>a<sp/>custom<sp/>callback<sp/>to<sp/>the<sp/>&quot;DocumentPartSavingCallback&quot;<sp/>property<sp/>to<sp/>alter<sp/>the<sp/>document<sp/>part<sp/>saving<sp/>logic.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_DocumentPartSavingCallback(MakeObject&lt;ExSavingCallback::SavedDocumentPartRename&gt;(outFileName,<sp/>options-&gt;get_DocumentSplitCriteria()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>convert<sp/>a<sp/>document<sp/>that<sp/>contains<sp/>images<sp/>into<sp/>html,<sp/>we<sp/>will<sp/>end<sp/>up<sp/>with<sp/>one<sp/>html<sp/>file<sp/>which<sp/>links<sp/>to<sp/>several<sp/>images.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Each<sp/>image<sp/>will<sp/>be<sp/>in<sp/>the<sp/>form<sp/>of<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>There<sp/>is<sp/>also<sp/>a<sp/>callback<sp/>that<sp/>can<sp/>customize<sp/>the<sp/>name<sp/>and<sp/>file<sp/>system<sp/>location<sp/>of<sp/>each<sp/>image.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ImageSavingCallback(MakeObject&lt;ExSavingCallback::SavedImageRename&gt;(outFileName));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>outFileName,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">SavedDocumentPartRename<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IDocumentPartSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SavedDocumentPartRename(String<sp/>outFileName,<sp/>DocumentSplitCriteria<sp/>documentSplitCriteria)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>:<sp/>mCount(0),<sp/>mDocumentSplitCriteria(((<ref refid="namespace_aspose" kindref="compound">Aspose</ref>::<ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref>::Saving::<ref refid="namespace_aspose_1_1_words_1_1_saving_1a21c39143a76e997332687767db80fc07" kindref="member" tooltip="Specifies how the document is split into parts when saving to Html, Epub or Azw3 format.">DocumentSplitCriteria</ref>)0))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mOutFileName<sp/>=<sp/>outFileName;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocumentSplitCriteria<sp/>=<sp/>documentSplitCriteria;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mCount;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>mOutFileName;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_saving_1a21c39143a76e997332687767db80fc07" kindref="member" tooltip="Specifies how the document is split into parts when saving to Html, Epub or Azw3 format.">DocumentSplitCriteria</ref><sp/>mDocumentSplitCriteria;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>DocumentPartSaving(SharedPtr&lt;DocumentPartSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>access<sp/>the<sp/>entire<sp/>source<sp/>document<sp/>via<sp/>the<sp/>&quot;Document&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_Document()-&gt;get_OriginalFileName().EndsWith(u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>partType<sp/>=<sp/>String::Empty;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(mDocumentSplitCriteria)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::PageBreak:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Page&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::ColumnBreak:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Column&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::SectionBreak:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Section&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::HeadingParagraph:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>from<sp/>heading&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">default</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>partFileName<sp/>=<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>part<sp/>{1},<sp/>of<sp/>type<sp/>{2}{3}&quot;</highlight><highlight class="normal">,<sp/>mOutFileName,<sp/>++mCount,<sp/>partType,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.path/_1ae9e0f0c8b345ecfab2ca997411b81f97" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::GetExtension</ref>(args-&gt;get_DocumentPartFileName()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>specifying<sp/>where<sp/>Aspose.Words<sp/>will<sp/>save<sp/>each<sp/>part<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Set<sp/>a<sp/>filename<sp/>for<sp/>the<sp/>output<sp/>part<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_DocumentPartFileName(partFileName);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Create<sp/>a<sp/>custom<sp/>stream<sp/>for<sp/>the<sp/>output<sp/>part<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_DocumentPartStream(MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>partFileName,<sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_DocumentPartStream()-&gt;get_CanWrite());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(args-&gt;get_KeepDocumentPartStreamOpen());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">SavedImageRename<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IImageSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SavedImageRename(String<sp/>outFileName)<sp/>:<sp/>mCount(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mOutFileName<sp/>=<sp/>outFileName;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mCount;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>mOutFileName;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ImageSaving(SharedPtr&lt;ImageSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>imageFileName<sp/>=<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>shape<sp/>{1},<sp/>of<sp/>type<sp/>{2}{3}&quot;</highlight><highlight class="normal">,<sp/>mOutFileName,<sp/>++mCount,<sp/>args-&gt;get_CurrentShape()-&gt;get_ShapeType(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.path/_1ae9e0f0c8b345ecfab2ca997411b81f97" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::GetExtension</ref>(args-&gt;get_ImageFileName()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>specifying<sp/>where<sp/>Aspose.Words<sp/>will<sp/>save<sp/>each<sp/>part<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Set<sp/>a<sp/>filename<sp/>for<sp/>the<sp/>output<sp/>image<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ImageFileName(imageFileName);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Create<sp/>a<sp/>custom<sp/>stream<sp/>for<sp/>the<sp/>output<sp/>image<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ImageStream(MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>imageFileName,<sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_ImageStream()-&gt;get_CanWrite());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_IsImageAvailable());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(args-&gt;get_KeepImageStreamOpen());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h" line="455" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1afaca967085ad287a709f75b431ccec79" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; System::IO::Stream &gt; Aspose::Words::Saving::DocumentPartSavingArgs::get_DocumentPartStream</definition>
+        <argsstring>() const</argsstring>
+        <name>get_DocumentPartStream</name>
+        <qualifiedname>Aspose::Words::Saving::DocumentPartSavingArgs::get_DocumentPartStream</qualifiedname>
+        <briefdescription>
+<para>Allows to specify the stream where the document part will be saved to. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This property allows you to save document parts to streams instead of files during HTML export.</para>
+<para>The default value is <computeroutput>null</computeroutput>. When this property is <computeroutput>null</computeroutput>, the document part will be saved to a file specified in the <ref refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1ab83222efa0d36354fc938aea69d6b1cd" kindref="member">DocumentPartFileName</ref> property.</para>
+<para>When saving to a stream in HTML format is requested by <ref refid="" kindref="compound">Save()</ref> or <ref refid="" kindref="compound">Save()</ref> and first document part is about to be saved, Aspose.Words suggests here the main output stream initially passed by the caller.</para>
+<para>When saving to EPUB format that is a container format based on HTML, <ref refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1afaca967085ad287a709f75b431ccec79" kindref="member">DocumentPartStream</ref> cannot be specified because all subsidiary parts will be encapsulated into a single output package.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1a13376aa154f50b705eb938d9d9eb137e" kindref="member">Aspose::Words::Saving::DocumentPartSavingArgs::get_KeepDocumentPartStreamOpen</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to split a document into parts and save them. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>DocumentPartsFileNames()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>outFileName<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;SavingCallback.DocumentPartsFileNames.html&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;HtmlFixedSaveOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>convert<sp/>the<sp/>document<sp/>to<sp/>HTML.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;HtmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>save<sp/>the<sp/>document<sp/>normally,<sp/>there<sp/>will<sp/>be<sp/>one<sp/>output<sp/>HTML</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>document<sp/>with<sp/>all<sp/>the<sp/>source<sp/>document&apos;s<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;DocumentSplitCriteria&quot;<sp/>property<sp/>to<sp/>&quot;DocumentSplitCriteria.SectionBreak&quot;<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>save<sp/>our<sp/>document<sp/>to<sp/>multiple<sp/>HTML<sp/>files:<sp/>one<sp/>for<sp/>each<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_DocumentSplitCriteria(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a21c39143a76e997332687767db80fc07ac6788b2b9719f26994fd409d52a778fb" kindref="member" tooltip="The document is split into parts at a section break of any type.">DocumentSplitCriteria::SectionBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Assign<sp/>a<sp/>custom<sp/>callback<sp/>to<sp/>the<sp/>&quot;DocumentPartSavingCallback&quot;<sp/>property<sp/>to<sp/>alter<sp/>the<sp/>document<sp/>part<sp/>saving<sp/>logic.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_DocumentPartSavingCallback(MakeObject&lt;ExSavingCallback::SavedDocumentPartRename&gt;(outFileName,<sp/>options-&gt;get_DocumentSplitCriteria()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>convert<sp/>a<sp/>document<sp/>that<sp/>contains<sp/>images<sp/>into<sp/>html,<sp/>we<sp/>will<sp/>end<sp/>up<sp/>with<sp/>one<sp/>html<sp/>file<sp/>which<sp/>links<sp/>to<sp/>several<sp/>images.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Each<sp/>image<sp/>will<sp/>be<sp/>in<sp/>the<sp/>form<sp/>of<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>There<sp/>is<sp/>also<sp/>a<sp/>callback<sp/>that<sp/>can<sp/>customize<sp/>the<sp/>name<sp/>and<sp/>file<sp/>system<sp/>location<sp/>of<sp/>each<sp/>image.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ImageSavingCallback(MakeObject&lt;ExSavingCallback::SavedImageRename&gt;(outFileName));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>outFileName,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">SavedDocumentPartRename<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IDocumentPartSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SavedDocumentPartRename(String<sp/>outFileName,<sp/>DocumentSplitCriteria<sp/>documentSplitCriteria)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>:<sp/>mCount(0),<sp/>mDocumentSplitCriteria(((<ref refid="namespace_aspose" kindref="compound">Aspose</ref>::<ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref>::Saving::<ref refid="namespace_aspose_1_1_words_1_1_saving_1a21c39143a76e997332687767db80fc07" kindref="member" tooltip="Specifies how the document is split into parts when saving to Html, Epub or Azw3 format.">DocumentSplitCriteria</ref>)0))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mOutFileName<sp/>=<sp/>outFileName;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocumentSplitCriteria<sp/>=<sp/>documentSplitCriteria;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mCount;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>mOutFileName;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_saving_1a21c39143a76e997332687767db80fc07" kindref="member" tooltip="Specifies how the document is split into parts when saving to Html, Epub or Azw3 format.">DocumentSplitCriteria</ref><sp/>mDocumentSplitCriteria;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>DocumentPartSaving(SharedPtr&lt;DocumentPartSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>access<sp/>the<sp/>entire<sp/>source<sp/>document<sp/>via<sp/>the<sp/>&quot;Document&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_Document()-&gt;get_OriginalFileName().EndsWith(u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>partType<sp/>=<sp/>String::Empty;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(mDocumentSplitCriteria)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::PageBreak:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Page&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::ColumnBreak:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Column&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::SectionBreak:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Section&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::HeadingParagraph:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>from<sp/>heading&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">default</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>partFileName<sp/>=<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>part<sp/>{1},<sp/>of<sp/>type<sp/>{2}{3}&quot;</highlight><highlight class="normal">,<sp/>mOutFileName,<sp/>++mCount,<sp/>partType,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.path/_1ae9e0f0c8b345ecfab2ca997411b81f97" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::GetExtension</ref>(args-&gt;get_DocumentPartFileName()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>specifying<sp/>where<sp/>Aspose.Words<sp/>will<sp/>save<sp/>each<sp/>part<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Set<sp/>a<sp/>filename<sp/>for<sp/>the<sp/>output<sp/>part<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_DocumentPartFileName(partFileName);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Create<sp/>a<sp/>custom<sp/>stream<sp/>for<sp/>the<sp/>output<sp/>part<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_DocumentPartStream(MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>partFileName,<sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_DocumentPartStream()-&gt;get_CanWrite());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(args-&gt;get_KeepDocumentPartStreamOpen());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">SavedImageRename<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IImageSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SavedImageRename(String<sp/>outFileName)<sp/>:<sp/>mCount(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mOutFileName<sp/>=<sp/>outFileName;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mCount;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>mOutFileName;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ImageSaving(SharedPtr&lt;ImageSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>imageFileName<sp/>=<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>shape<sp/>{1},<sp/>of<sp/>type<sp/>{2}{3}&quot;</highlight><highlight class="normal">,<sp/>mOutFileName,<sp/>++mCount,<sp/>args-&gt;get_CurrentShape()-&gt;get_ShapeType(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.path/_1ae9e0f0c8b345ecfab2ca997411b81f97" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::GetExtension</ref>(args-&gt;get_ImageFileName()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>specifying<sp/>where<sp/>Aspose.Words<sp/>will<sp/>save<sp/>each<sp/>part<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Set<sp/>a<sp/>filename<sp/>for<sp/>the<sp/>output<sp/>image<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ImageFileName(imageFileName);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Create<sp/>a<sp/>custom<sp/>stream<sp/>for<sp/>the<sp/>output<sp/>image<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ImageStream(MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>imageFileName,<sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_ImageStream()-&gt;get_CanWrite());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_IsImageAvailable());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(args-&gt;get_KeepImageStreamOpen());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h" line="742" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1a13376aa154f50b705eb938d9d9eb137e" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Saving::DocumentPartSavingArgs::get_KeepDocumentPartStreamOpen</definition>
+        <argsstring>() const</argsstring>
+        <name>get_KeepDocumentPartStreamOpen</name>
+        <qualifiedname>Aspose::Words::Saving::DocumentPartSavingArgs::get_KeepDocumentPartStreamOpen</qualifiedname>
+        <briefdescription>
+<para>Specifies whether Aspose.Words should keep the stream open or close it after saving a document part. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Default is <computeroutput>false</computeroutput> and Aspose.Words will close the stream you provided in the <ref refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1afaca967085ad287a709f75b431ccec79" kindref="member">DocumentPartStream</ref> property after writing a document part into it. Specify <computeroutput>true</computeroutput> to keep the stream open. Please note that the main output stream provided in the call to <ref refid="" kindref="compound">Save()</ref> or <ref refid="" kindref="compound">Save()</ref> will never be closed by Aspose.Words even if <ref refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1a13376aa154f50b705eb938d9d9eb137e" kindref="member">KeepDocumentPartStreamOpen</ref> is set to <computeroutput>false</computeroutput>.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1afaca967085ad287a709f75b431ccec79" kindref="member">Aspose::Words::Saving::DocumentPartSavingArgs::get_DocumentPartStream</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to split a document into parts and save them. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>DocumentPartsFileNames()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>outFileName<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;SavingCallback.DocumentPartsFileNames.html&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;HtmlFixedSaveOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>convert<sp/>the<sp/>document<sp/>to<sp/>HTML.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;HtmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>save<sp/>the<sp/>document<sp/>normally,<sp/>there<sp/>will<sp/>be<sp/>one<sp/>output<sp/>HTML</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>document<sp/>with<sp/>all<sp/>the<sp/>source<sp/>document&apos;s<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;DocumentSplitCriteria&quot;<sp/>property<sp/>to<sp/>&quot;DocumentSplitCriteria.SectionBreak&quot;<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>save<sp/>our<sp/>document<sp/>to<sp/>multiple<sp/>HTML<sp/>files:<sp/>one<sp/>for<sp/>each<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_DocumentSplitCriteria(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a21c39143a76e997332687767db80fc07ac6788b2b9719f26994fd409d52a778fb" kindref="member" tooltip="The document is split into parts at a section break of any type.">DocumentSplitCriteria::SectionBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Assign<sp/>a<sp/>custom<sp/>callback<sp/>to<sp/>the<sp/>&quot;DocumentPartSavingCallback&quot;<sp/>property<sp/>to<sp/>alter<sp/>the<sp/>document<sp/>part<sp/>saving<sp/>logic.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_DocumentPartSavingCallback(MakeObject&lt;ExSavingCallback::SavedDocumentPartRename&gt;(outFileName,<sp/>options-&gt;get_DocumentSplitCriteria()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>convert<sp/>a<sp/>document<sp/>that<sp/>contains<sp/>images<sp/>into<sp/>html,<sp/>we<sp/>will<sp/>end<sp/>up<sp/>with<sp/>one<sp/>html<sp/>file<sp/>which<sp/>links<sp/>to<sp/>several<sp/>images.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Each<sp/>image<sp/>will<sp/>be<sp/>in<sp/>the<sp/>form<sp/>of<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>There<sp/>is<sp/>also<sp/>a<sp/>callback<sp/>that<sp/>can<sp/>customize<sp/>the<sp/>name<sp/>and<sp/>file<sp/>system<sp/>location<sp/>of<sp/>each<sp/>image.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ImageSavingCallback(MakeObject&lt;ExSavingCallback::SavedImageRename&gt;(outFileName));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>outFileName,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">SavedDocumentPartRename<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IDocumentPartSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SavedDocumentPartRename(String<sp/>outFileName,<sp/>DocumentSplitCriteria<sp/>documentSplitCriteria)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>:<sp/>mCount(0),<sp/>mDocumentSplitCriteria(((<ref refid="namespace_aspose" kindref="compound">Aspose</ref>::<ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref>::Saving::<ref refid="namespace_aspose_1_1_words_1_1_saving_1a21c39143a76e997332687767db80fc07" kindref="member" tooltip="Specifies how the document is split into parts when saving to Html, Epub or Azw3 format.">DocumentSplitCriteria</ref>)0))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mOutFileName<sp/>=<sp/>outFileName;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocumentSplitCriteria<sp/>=<sp/>documentSplitCriteria;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mCount;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>mOutFileName;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_saving_1a21c39143a76e997332687767db80fc07" kindref="member" tooltip="Specifies how the document is split into parts when saving to Html, Epub or Azw3 format.">DocumentSplitCriteria</ref><sp/>mDocumentSplitCriteria;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>DocumentPartSaving(SharedPtr&lt;DocumentPartSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>access<sp/>the<sp/>entire<sp/>source<sp/>document<sp/>via<sp/>the<sp/>&quot;Document&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_Document()-&gt;get_OriginalFileName().EndsWith(u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>partType<sp/>=<sp/>String::Empty;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(mDocumentSplitCriteria)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::PageBreak:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Page&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::ColumnBreak:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Column&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::SectionBreak:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Section&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::HeadingParagraph:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>from<sp/>heading&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">default</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>partFileName<sp/>=<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>part<sp/>{1},<sp/>of<sp/>type<sp/>{2}{3}&quot;</highlight><highlight class="normal">,<sp/>mOutFileName,<sp/>++mCount,<sp/>partType,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.path/_1ae9e0f0c8b345ecfab2ca997411b81f97" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::GetExtension</ref>(args-&gt;get_DocumentPartFileName()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>specifying<sp/>where<sp/>Aspose.Words<sp/>will<sp/>save<sp/>each<sp/>part<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Set<sp/>a<sp/>filename<sp/>for<sp/>the<sp/>output<sp/>part<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_DocumentPartFileName(partFileName);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Create<sp/>a<sp/>custom<sp/>stream<sp/>for<sp/>the<sp/>output<sp/>part<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_DocumentPartStream(MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>partFileName,<sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_DocumentPartStream()-&gt;get_CanWrite());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(args-&gt;get_KeepDocumentPartStreamOpen());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">SavedImageRename<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IImageSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SavedImageRename(String<sp/>outFileName)<sp/>:<sp/>mCount(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mOutFileName<sp/>=<sp/>outFileName;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mCount;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>mOutFileName;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ImageSaving(SharedPtr&lt;ImageSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>imageFileName<sp/>=<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>shape<sp/>{1},<sp/>of<sp/>type<sp/>{2}{3}&quot;</highlight><highlight class="normal">,<sp/>mOutFileName,<sp/>++mCount,<sp/>args-&gt;get_CurrentShape()-&gt;get_ShapeType(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.path/_1ae9e0f0c8b345ecfab2ca997411b81f97" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::GetExtension</ref>(args-&gt;get_ImageFileName()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>specifying<sp/>where<sp/>Aspose.Words<sp/>will<sp/>save<sp/>each<sp/>part<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Set<sp/>a<sp/>filename<sp/>for<sp/>the<sp/>output<sp/>image<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ImageFileName(imageFileName);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Create<sp/>a<sp/>custom<sp/>stream<sp/>for<sp/>the<sp/>output<sp/>image<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ImageStream(MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>imageFileName,<sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_ImageStream()-&gt;get_CanWrite());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_IsImageAvailable());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(args-&gt;get_KeepImageStreamOpen());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h" line="596" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1a9eacf7d8a4144f4637d500e28acf19b6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::DocumentPartSavingArgs::set_DocumentPartFileName</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_DocumentPartFileName</name>
+        <qualifiedname>Aspose::Words::Saving::DocumentPartSavingArgs::set_DocumentPartFileName</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1ab83222efa0d36354fc938aea69d6b1cd" kindref="member">Aspose::Words::Saving::DocumentPartSavingArgs::get_DocumentPartFileName</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h" line="458" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1a5068adb891d272735ab7fe09a2fe52e9" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::DocumentPartSavingArgs::set_DocumentPartStream</definition>
+        <argsstring>(const System::SharedPtr&lt; System::IO::Stream &gt; &amp;value)</argsstring>
+        <name>set_DocumentPartStream</name>
+        <qualifiedname>Aspose::Words::Saving::DocumentPartSavingArgs::set_DocumentPartStream</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1afaca967085ad287a709f75b431ccec79" kindref="member">Aspose::Words::Saving::DocumentPartSavingArgs::get_DocumentPartStream</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h" line="745" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1ae2f8e88f5896ff964570a0df72cb66e7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename CharType</type>
+          </param>
+          <param>
+            <type>typename Traits</type>
+          </param>
+        </templateparamlist>
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::DocumentPartSavingArgs::set_DocumentPartStream</definition>
+        <argsstring>(std::basic_ostream&lt; CharType, Traits &gt; &amp;value)</argsstring>
+        <name>set_DocumentPartStream</name>
+        <qualifiedname>Aspose::Words::Saving::DocumentPartSavingArgs::set_DocumentPartStream</qualifiedname>
+        <param>
+          <type>std::basic_ostream&lt; CharType, Traits &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h" line="748" column="10" bodyfile="Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h" bodystart="748" bodyend="752"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1aa4badf05133ca195683a1449a8b937a9" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::DocumentPartSavingArgs::set_KeepDocumentPartStreamOpen</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_KeepDocumentPartStreamOpen</name>
+        <qualifiedname>Aspose::Words::Saving::DocumentPartSavingArgs::set_KeepDocumentPartStreamOpen</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1a13376aa154f50b705eb938d9d9eb137e" kindref="member">Aspose::Words::Saving::DocumentPartSavingArgs::get_KeepDocumentPartStreamOpen</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h" line="599" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Provides data for the <ref refid="class_aspose_1_1_words_1_1_saving_1_1_i_document_part_saving_callback_1a45a3cccb9688247bf15d2e60fa096b4b" kindref="member">DocumentPartSaving()</ref> callback. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>When Aspose.Words saves a document to HTML or related formats and <ref refid="class_aspose_1_1_words_1_1_saving_1_1_html_save_options_1af23548aa91432c2c0c6f63be12e653d4" kindref="member">DocumentSplitCriteria</ref> is specified, the document is split into parts and by default, each document part is saved into a separate file.</para>
+<para>Class <ref refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args" kindref="compound">DocumentPartSavingArgs</ref> allows you to control how each document part will be saved. It allows to redefine how file names are generated or to completely circumvent saving of document parts into files by providing your own stream objects.</para>
+<para>To save document parts into streams instead of files, use the <ref refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1afaca967085ad287a709f75b431ccec79" kindref="member">DocumentPartStream</ref> property.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to split a document into parts and save them. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>DocumentPartsFileNames()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>outFileName<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;SavingCallback.DocumentPartsFileNames.html&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;HtmlFixedSaveOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>convert<sp/>the<sp/>document<sp/>to<sp/>HTML.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;HtmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>save<sp/>the<sp/>document<sp/>normally,<sp/>there<sp/>will<sp/>be<sp/>one<sp/>output<sp/>HTML</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>document<sp/>with<sp/>all<sp/>the<sp/>source<sp/>document&apos;s<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;DocumentSplitCriteria&quot;<sp/>property<sp/>to<sp/>&quot;DocumentSplitCriteria.SectionBreak&quot;<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>save<sp/>our<sp/>document<sp/>to<sp/>multiple<sp/>HTML<sp/>files:<sp/>one<sp/>for<sp/>each<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_DocumentSplitCriteria(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a21c39143a76e997332687767db80fc07ac6788b2b9719f26994fd409d52a778fb" kindref="member" tooltip="The document is split into parts at a section break of any type.">DocumentSplitCriteria::SectionBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Assign<sp/>a<sp/>custom<sp/>callback<sp/>to<sp/>the<sp/>&quot;DocumentPartSavingCallback&quot;<sp/>property<sp/>to<sp/>alter<sp/>the<sp/>document<sp/>part<sp/>saving<sp/>logic.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_DocumentPartSavingCallback(MakeObject&lt;ExSavingCallback::SavedDocumentPartRename&gt;(outFileName,<sp/>options-&gt;get_DocumentSplitCriteria()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>convert<sp/>a<sp/>document<sp/>that<sp/>contains<sp/>images<sp/>into<sp/>html,<sp/>we<sp/>will<sp/>end<sp/>up<sp/>with<sp/>one<sp/>html<sp/>file<sp/>which<sp/>links<sp/>to<sp/>several<sp/>images.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Each<sp/>image<sp/>will<sp/>be<sp/>in<sp/>the<sp/>form<sp/>of<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>There<sp/>is<sp/>also<sp/>a<sp/>callback<sp/>that<sp/>can<sp/>customize<sp/>the<sp/>name<sp/>and<sp/>file<sp/>system<sp/>location<sp/>of<sp/>each<sp/>image.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ImageSavingCallback(MakeObject&lt;ExSavingCallback::SavedImageRename&gt;(outFileName));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>outFileName,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">SavedDocumentPartRename<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IDocumentPartSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SavedDocumentPartRename(String<sp/>outFileName,<sp/>DocumentSplitCriteria<sp/>documentSplitCriteria)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>:<sp/>mCount(0),<sp/>mDocumentSplitCriteria(((<ref refid="namespace_aspose" kindref="compound">Aspose</ref>::<ref refid="namespace_aspose_1_1_words_1aedb2afadc4813c7e4de736b7b7481c94a6f15b8d4b7287d60a8ea3d1c5cbadc84" kindref="member">Words</ref>::Saving::<ref refid="namespace_aspose_1_1_words_1_1_saving_1a21c39143a76e997332687767db80fc07" kindref="member" tooltip="Specifies how the document is split into parts when saving to Html, Epub or Azw3 format.">DocumentSplitCriteria</ref>)0))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mOutFileName<sp/>=<sp/>outFileName;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocumentSplitCriteria<sp/>=<sp/>documentSplitCriteria;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mCount;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>mOutFileName;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_saving_1a21c39143a76e997332687767db80fc07" kindref="member" tooltip="Specifies how the document is split into parts when saving to Html, Epub or Azw3 format.">DocumentSplitCriteria</ref><sp/>mDocumentSplitCriteria;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>DocumentPartSaving(SharedPtr&lt;DocumentPartSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>access<sp/>the<sp/>entire<sp/>source<sp/>document<sp/>via<sp/>the<sp/>&quot;Document&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_Document()-&gt;get_OriginalFileName().EndsWith(u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>partType<sp/>=<sp/>String::Empty;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(mDocumentSplitCriteria)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::PageBreak:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Page&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::ColumnBreak:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Column&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::SectionBreak:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Section&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>DocumentSplitCriteria::HeadingParagraph:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>partType<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>from<sp/>heading&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">default</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>partFileName<sp/>=<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>part<sp/>{1},<sp/>of<sp/>type<sp/>{2}{3}&quot;</highlight><highlight class="normal">,<sp/>mOutFileName,<sp/>++mCount,<sp/>partType,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.path/_1ae9e0f0c8b345ecfab2ca997411b81f97" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::GetExtension</ref>(args-&gt;get_DocumentPartFileName()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>specifying<sp/>where<sp/>Aspose.Words<sp/>will<sp/>save<sp/>each<sp/>part<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Set<sp/>a<sp/>filename<sp/>for<sp/>the<sp/>output<sp/>part<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_DocumentPartFileName(partFileName);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Create<sp/>a<sp/>custom<sp/>stream<sp/>for<sp/>the<sp/>output<sp/>part<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_DocumentPartStream(MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>partFileName,<sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_DocumentPartStream()-&gt;get_CanWrite());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(args-&gt;get_KeepDocumentPartStreamOpen());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">SavedImageRename<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IImageSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SavedImageRename(String<sp/>outFileName)<sp/>:<sp/>mCount(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mOutFileName<sp/>=<sp/>outFileName;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mCount;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>mOutFileName;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ImageSaving(SharedPtr&lt;ImageSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>imageFileName<sp/>=<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>shape<sp/>{1},<sp/>of<sp/>type<sp/>{2}{3}&quot;</highlight><highlight class="normal">,<sp/>mOutFileName,<sp/>++mCount,<sp/>args-&gt;get_CurrentShape()-&gt;get_ShapeType(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.path/_1ae9e0f0c8b345ecfab2ca997411b81f97" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::GetExtension</ref>(args-&gt;get_ImageFileName()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>specifying<sp/>where<sp/>Aspose.Words<sp/>will<sp/>save<sp/>each<sp/>part<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Set<sp/>a<sp/>filename<sp/>for<sp/>the<sp/>output<sp/>image<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ImageFileName(imageFileName);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Create<sp/>a<sp/>custom<sp/>stream<sp/>for<sp/>the<sp/>output<sp/>image<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ImageStream(MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>imageFileName,<sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_ImageStream()-&gt;get_CanWrite());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_IsImageAvailable());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(args-&gt;get_KeepImageStreamOpen());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::DocumentPartSavingArgs</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::DocumentPartSavingArgs</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h" line="175" column="1" bodyfile="Aspose.Words.Cpp/Saving/DocumentPartSavingArgs.h" bodystart="176" bodyend="763"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1ac3d4d33536323e4b19833711f9181582" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::DocumentPartSavingArgs</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1a263b63a8c72244b1851e044037a9d7b2" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocumentPartSavingArgs</scope><name>get_Document</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1ab83222efa0d36354fc938aea69d6b1cd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocumentPartSavingArgs</scope><name>get_DocumentPartFileName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1afaca967085ad287a709f75b431ccec79" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocumentPartSavingArgs</scope><name>get_DocumentPartStream</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1a13376aa154f50b705eb938d9d9eb137e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocumentPartSavingArgs</scope><name>get_KeepDocumentPartStreamOpen</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1a469c2d12fe4e46def4bc7f49141739a9" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::DocumentPartSavingArgs</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1a13b738f7371239c66c7bd0cfe9c9cbf1" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::DocumentPartSavingArgs</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1a48cc04317452a1b8a8c510d65759d6cb" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::DocumentPartSavingArgs</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1a71c1df9203a32a099c2b64e4ddca1fd9" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::DocumentPartSavingArgs</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1ab8d3e7a8e86defc8b02633d593f7ced8" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::DocumentPartSavingArgs</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1a9eacf7d8a4144f4637d500e28acf19b6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocumentPartSavingArgs</scope><name>set_DocumentPartFileName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1a5068adb891d272735ab7fe09a2fe52e9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocumentPartSavingArgs</scope><name>set_DocumentPartStream</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1ae2f8e88f5896ff964570a0df72cb66e7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocumentPartSavingArgs</scope><name>set_DocumentPartStream</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1aa4badf05133ca195683a1449a8b937a9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocumentPartSavingArgs</scope><name>set_KeepDocumentPartStreamOpen</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1a01a4f674100208d3b1dcd0f44b8e6bbc" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::DocumentPartSavingArgs</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_document_part_saving_args_1a66d8e5c73a254ded471bea5fca6da084" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::DocumentPartSavingArgs</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

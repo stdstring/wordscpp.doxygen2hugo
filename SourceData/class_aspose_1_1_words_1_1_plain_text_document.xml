@@ -1,0 +1,732 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_plain_text_document" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::PlainTextDocument</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_plain_text_document_8h" local="no">Aspose.Words.Cpp/PlainTextDocument.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_plain_text_document_1a1ade2aea5f65eef5724baf1fe0e784b7" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::PlainTextDocument::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::PlainTextDocument::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/PlainTextDocument.h" line="64" column="28" bodyfile="Aspose.Words.Cpp/PlainTextDocument.h" bodystart="64" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_plain_text_document_1a06a4cedcf0d718d6b35aac837738091f" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_plain_text_document" kindref="compound">PlainTextDocument</ref></type>
+        <definition>typedef PlainTextDocument Aspose::Words::PlainTextDocument::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::PlainTextDocument::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/PlainTextDocument.h" line="63" column="31" bodyfile="Aspose.Words.Cpp/PlainTextDocument.h" bodystart="63" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_plain_text_document_1a288dede1438667d38d2d62073f3d6316" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::PlainTextDocument::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::PlainTextDocument::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/PlainTextDocument.h" line="66" column="37" bodyfile="Aspose.Words.Cpp/PlainTextDocument.h" bodystart="66" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_plain_text_document_1a7f714c390ef71c0fea2a766e73946cd9" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::PlainTextDocument::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::PlainTextDocument::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/PlainTextDocument.h" line="272" column="20" bodyfile="Aspose.Words.Cpp/PlainTextDocument.h" bodystart="272" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_plain_text_document_1a45f3b858ff6cc0ec1566b2a039c7cd61" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::PlainTextDocument::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::PlainTextDocument::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/PlainTextDocument.h" line="273" column="23" bodyfile="Aspose.Words.Cpp/PlainTextDocument.h" bodystart="273" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_plain_text_document_1a6b157afbd0d251b38c80db0f55360121" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::PlainTextDocument::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::PlainTextDocument::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/PlainTextDocument.h" line="274" column="23" bodyfile="Aspose.Words.Cpp/PlainTextDocument.h" bodystart="274" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_plain_text_document_1aa267ff20368019bba7978de89795ab4a" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::PlainTextDocument::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::PlainTextDocument::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/PlainTextDocument.h" line="67" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_plain_text_document_1a132ddbbc9d4296cbd20b30c6889de9d7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::PlainTextDocument::PlainTextDocument</definition>
+        <argsstring>(const System::SharedPtr&lt; System::IO::Stream &gt; &amp;stream)</argsstring>
+        <name>PlainTextDocument</name>
+        <qualifiedname>Aspose::Words::PlainTextDocument::PlainTextDocument</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <declname>stream</declname>
+        </param>
+        <briefdescription>
+<para>Creates a plain text document from a stream. Automatically detects the file format. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The document must be stored at the beginning of the stream. The stream must support random positioning.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>stream</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The stream where to extract the text from.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername><ref refid="namespace_aspose_1_1_words_1a5f95c02b57c5a02d17215084f6a5beca" kindref="member">Aspose::Words::UnsupportedFileFormatException</ref></parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The document format is not recognized or not supported. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername><ref refid="namespace_aspose_1_1_words_1a7049037a1789fffea26a5c985c45c880" kindref="member">Aspose::Words::FileCorruptedException</ref></parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The document appears to be corrupted and cannot be loaded. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername><ref refid="namespace/system/_1af2ac70ce5544cf54b67cc546c2dc19aa" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Exception</ref></parametername>
+</parameternamelist>
+<parameterdescription>
+<para>There is a problem with the document and it should be reported to Aspose.Words developers. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>System::IO::IOException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>There is an input/output exception. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername><ref refid="namespace_aspose_1_1_words_1a69d5ddc9f0a7b4c2dfd356817c3be538" kindref="member">Aspose::Words::IncorrectPasswordException</ref></parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The document is encrypted and requires a password to open, but you supplied an incorrect password. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>System::ArgumentNullException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The stream cannot be null. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>System::NotSupportedException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The stream does not support reading or seeking. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>System::ObjectDisposedException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The stream is a disposed object.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to load the contents of a Microsoft Word document in plaintext using stream. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PlainTextDocument.LoadFromStream.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>stream<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PlainTextDocument.LoadFromStream.docx&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Open);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>plaintext<sp/>=<sp/>MakeObject&lt;PlainTextDocument&gt;(stream);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>plaintext-&gt;get_Text().Trim());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/PlainTextDocument.h" line="224" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_plain_text_document_1a1343ca03f83d2d5145bb3a06ebb80271" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::PlainTextDocument::PlainTextDocument</definition>
+        <argsstring>(const System::SharedPtr&lt; System::IO::Stream &gt; &amp;stream, const System::SharedPtr&lt; Aspose::Words::Loading::LoadOptions &gt; &amp;loadOptions)</argsstring>
+        <name>PlainTextDocument</name>
+        <qualifiedname>Aspose::Words::PlainTextDocument::PlainTextDocument</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <declname>stream</declname>
+        </param>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" kindref="compound">Aspose::Words::Loading::LoadOptions</ref> &gt; &amp;</type>
+          <declname>loadOptions</declname>
+        </param>
+        <briefdescription>
+<para>Creates a plain text document from a stream. Allows to specify additional options such as an encryption password. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The document must be stored at the beginning of the stream. The stream must support random positioning.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>stream</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The stream where to extract the text from. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>loadOptions</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Additional options to use when loading a document. Can be null.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername><ref refid="namespace_aspose_1_1_words_1a5f95c02b57c5a02d17215084f6a5beca" kindref="member">Aspose::Words::UnsupportedFileFormatException</ref></parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The document format is not recognized or not supported. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername><ref refid="namespace_aspose_1_1_words_1a7049037a1789fffea26a5c985c45c880" kindref="member">Aspose::Words::FileCorruptedException</ref></parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The document appears to be corrupted and cannot be loaded. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername><ref refid="namespace/system/_1af2ac70ce5544cf54b67cc546c2dc19aa" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Exception</ref></parametername>
+</parameternamelist>
+<parameterdescription>
+<para>There is a problem with the document and it should be reported to Aspose.Words developers. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>System::IO::IOException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>There is an input/output exception. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername><ref refid="namespace_aspose_1_1_words_1a69d5ddc9f0a7b4c2dfd356817c3be538" kindref="member">Aspose::Words::IncorrectPasswordException</ref></parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The document is encrypted and requires a password to open, but you supplied an incorrect password. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>System::ArgumentNullException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The stream cannot be null. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>System::NotSupportedException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The stream does not support reading or seeking. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>System::ObjectDisposedException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The stream is a disposed object.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to load the contents of an encrypted Microsoft Word document in plaintext using stream. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;OoxmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_Password(u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PlainTextDocument.LoadFromStreamWithOptions.docx&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>loadOptions<sp/>=<sp/>MakeObject&lt;LoadOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">loadOptions-&gt;set_Password(u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>stream<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PlainTextDocument.LoadFromStreamWithOptions.docx&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Open);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>plaintext<sp/>=<sp/>MakeObject&lt;PlainTextDocument&gt;(stream,<sp/>loadOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>plaintext-&gt;get_Text().Trim());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/PlainTextDocument.h" line="266" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_plain_text_document_1a1058377978594ba92fa9397e92f1afff" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::PlainTextDocument::PlainTextDocument</definition>
+        <argsstring>(const System::String &amp;fileName)</argsstring>
+        <name>PlainTextDocument</name>
+        <qualifiedname>Aspose::Words::PlainTextDocument::PlainTextDocument</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>fileName</declname>
+        </param>
+        <briefdescription>
+<para>Creates a plain text document from a file. Automatically detects the file format. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>fileName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Name of the file to extract the text from.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername><ref refid="namespace_aspose_1_1_words_1a5f95c02b57c5a02d17215084f6a5beca" kindref="member">Aspose::Words::UnsupportedFileFormatException</ref></parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The document format is not recognized or not supported. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername><ref refid="namespace_aspose_1_1_words_1a7049037a1789fffea26a5c985c45c880" kindref="member">Aspose::Words::FileCorruptedException</ref></parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The document appears to be corrupted and cannot be loaded. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername><ref refid="namespace/system/_1af2ac70ce5544cf54b67cc546c2dc19aa" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Exception</ref></parametername>
+</parameternamelist>
+<parameterdescription>
+<para>There is a problem with the document and it should be reported to Aspose.Words developers. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>System::IO::IOException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>There is an input/output exception. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername><ref refid="namespace_aspose_1_1_words_1a69d5ddc9f0a7b4c2dfd356817c3be538" kindref="member">Aspose::Words::IncorrectPasswordException</ref></parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The document is encrypted and requires a password to open, but you supplied an incorrect password. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>System::ArgumentException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The name of the file cannot be null or empty string.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to load the contents of a Microsoft Word document in plaintext. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PlainTextDocument.Load.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>plaintext<sp/>=<sp/>MakeObject&lt;PlainTextDocument&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PlainTextDocument.Load.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>plaintext-&gt;get_Text().Trim());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/PlainTextDocument.h" line="156" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_plain_text_document_1af7a6eef342a2eee396b756c2cade1027" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::PlainTextDocument::PlainTextDocument</definition>
+        <argsstring>(const System::String &amp;fileName, const System::SharedPtr&lt; Aspose::Words::Loading::LoadOptions &gt; &amp;loadOptions)</argsstring>
+        <name>PlainTextDocument</name>
+        <qualifiedname>Aspose::Words::PlainTextDocument::PlainTextDocument</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>fileName</declname>
+        </param>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" kindref="compound">Aspose::Words::Loading::LoadOptions</ref> &gt; &amp;</type>
+          <declname>loadOptions</declname>
+        </param>
+        <briefdescription>
+<para>Creates a plain text document from a file. Allows to specify additional options such as an encryption password. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>fileName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Name of the file to extract the text from. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>loadOptions</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Additional options to use when loading a document. Can be null.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername><ref refid="namespace_aspose_1_1_words_1a5f95c02b57c5a02d17215084f6a5beca" kindref="member">Aspose::Words::UnsupportedFileFormatException</ref></parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The document format is not recognized or not supported. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername><ref refid="namespace_aspose_1_1_words_1a7049037a1789fffea26a5c985c45c880" kindref="member">Aspose::Words::FileCorruptedException</ref></parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The document appears to be corrupted and cannot be loaded. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername><ref refid="namespace/system/_1af2ac70ce5544cf54b67cc546c2dc19aa" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Exception</ref></parametername>
+</parameternamelist>
+<parameterdescription>
+<para>There is a problem with the document and it should be reported to Aspose.Words developers. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>System::IO::IOException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>There is an input/output exception. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername><ref refid="namespace_aspose_1_1_words_1a69d5ddc9f0a7b4c2dfd356817c3be538" kindref="member">Aspose::Words::IncorrectPasswordException</ref></parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The document is encrypted and requires a password to open, but you supplied an incorrect password. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>System::ArgumentException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The name of the file cannot be null or empty string.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to load the contents of an encrypted Microsoft Word document in plaintext. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;OoxmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_Password(u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PlainTextDocument.LoadEncrypted.docx&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>loadOptions<sp/>=<sp/>MakeObject&lt;LoadOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">loadOptions-&gt;set_Password(u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>plaintext<sp/>=<sp/>MakeObject&lt;PlainTextDocument&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PlainTextDocument.LoadEncrypted.docx&quot;</highlight><highlight class="normal">,<sp/>loadOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>plaintext-&gt;get_Text().Trim());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/PlainTextDocument.h" line="190" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_plain_text_document_1a77bc754f7ce05267d42b1a3d1a2c29d1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::PlainTextDocument::PlainTextDocument</definition>
+        <argsstring>(std::istream &amp;stream)</argsstring>
+        <name>PlainTextDocument</name>
+        <qualifiedname>Aspose::Words::PlainTextDocument::PlainTextDocument</qualifiedname>
+        <param>
+          <type>std::istream &amp;</type>
+          <declname>stream</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/PlainTextDocument.h" line="267" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_plain_text_document_1a6db2d678be5ec0cab2a2a2e18ff3e25f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::PlainTextDocument::PlainTextDocument</definition>
+        <argsstring>(std::istream &amp;stream, const System::SharedPtr&lt; Aspose::Words::Loading::LoadOptions &gt; &amp;loadOptions)</argsstring>
+        <name>PlainTextDocument</name>
+        <qualifiedname>Aspose::Words::PlainTextDocument::PlainTextDocument</qualifiedname>
+        <param>
+          <type>std::istream &amp;</type>
+          <declname>stream</declname>
+        </param>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" kindref="compound">Aspose::Words::Loading::LoadOptions</ref> &gt; &amp;</type>
+          <declname>loadOptions</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/PlainTextDocument.h" line="268" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_plain_text_document_1a205c7f9c472dd64af3cdcfe1138073ab" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties" kindref="compound">Aspose::Words::Properties::BuiltInDocumentProperties</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Properties::BuiltInDocumentProperties &gt; Aspose::Words::PlainTextDocument::get_BuiltInDocumentProperties</definition>
+        <argsstring>() const</argsstring>
+        <name>get_BuiltInDocumentProperties</name>
+        <qualifiedname>Aspose::Words::PlainTextDocument::get_BuiltInDocumentProperties</qualifiedname>
+        <briefdescription>
+<para>Gets <ref refid="class_aspose_1_1_words_1_1_plain_text_document_1a205c7f9c472dd64af3cdcfe1138073ab" kindref="member">BuiltInDocumentProperties</ref> of the document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to load the contents of a Microsoft Word document in plaintext and then access the original document&apos;s built-in properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_BuiltInDocumentProperties()-&gt;set_Author(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PlainTextDocument.BuiltInProperties.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>plaintext<sp/>=<sp/>MakeObject&lt;PlainTextDocument&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PlainTextDocument.BuiltInProperties.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>plaintext-&gt;get_Text().Trim());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/>plaintext-&gt;get_BuiltInDocumentProperties()-&gt;get_Author());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/PlainTextDocument.h" line="108" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_plain_text_document_1a3ff175fbd223f3b077b4bd286239aa9a" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_properties_1_1_custom_document_properties" kindref="compound">Aspose::Words::Properties::CustomDocumentProperties</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Properties::CustomDocumentProperties &gt; Aspose::Words::PlainTextDocument::get_CustomDocumentProperties</definition>
+        <argsstring>() const</argsstring>
+        <name>get_CustomDocumentProperties</name>
+        <qualifiedname>Aspose::Words::PlainTextDocument::get_CustomDocumentProperties</qualifiedname>
+        <briefdescription>
+<para>Gets <ref refid="class_aspose_1_1_words_1_1_plain_text_document_1a3ff175fbd223f3b077b4bd286239aa9a" kindref="member">CustomDocumentProperties</ref> of the document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to load the contents of a Microsoft Word document in plaintext and then access the original document&apos;s custom properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_CustomDocumentProperties()-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Location<sp/>of<sp/>writing&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;123<sp/>Main<sp/>St,<sp/>London,<sp/>UK&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PlainTextDocument.CustomDocumentProperties.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>plaintext<sp/>=<sp/>MakeObject&lt;PlainTextDocument&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PlainTextDocument.CustomDocumentProperties.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>plaintext-&gt;get_Text().Trim());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;123<sp/>Main<sp/>St,<sp/>London,<sp/>UK&quot;</highlight><highlight class="normal">,<sp/>plaintext-&gt;get_CustomDocumentProperties()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Location<sp/>of<sp/>writing&quot;</highlight><highlight class="normal">)-&gt;get_Value());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/PlainTextDocument.h" line="129" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_plain_text_document_1ab6c1dfa9b90bd30bd1ebb5bd45649a90" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::PlainTextDocument::get_Text</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Text</name>
+        <qualifiedname>Aspose::Words::PlainTextDocument::get_Text</qualifiedname>
+        <briefdescription>
+<para>Gets textual content of the document concatenated as a string. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to load the contents of a Microsoft Word document in plaintext. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PlainTextDocument.Load.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>plaintext<sp/>=<sp/>MakeObject&lt;PlainTextDocument&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PlainTextDocument.Load.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>plaintext-&gt;get_Text().Trim());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/PlainTextDocument.h" line="87" column="23"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Allows to extract plain-text representation of the document&apos;s content. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to load the contents of a Microsoft Word document in plaintext. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PlainTextDocument.Load.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>plaintext<sp/>=<sp/>MakeObject&lt;PlainTextDocument&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PlainTextDocument.Load.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>plaintext-&gt;get_Text().Trim());</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::PlainTextDocument</label>
+        <link refid="class_aspose_1_1_words_1_1_plain_text_document"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::PlainTextDocument</label>
+        <link refid="class_aspose_1_1_words_1_1_plain_text_document"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/PlainTextDocument.h" line="61" column="1" bodyfile="Aspose.Words.Cpp/PlainTextDocument.h" bodystart="62" bodyend="276"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_plain_text_document_1a1ade2aea5f65eef5724baf1fe0e784b7" prot="private" virt="non-virtual"><scope>Aspose::Words::PlainTextDocument</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_plain_text_document_1a205c7f9c472dd64af3cdcfe1138073ab" prot="public" virt="non-virtual"><scope>Aspose::Words::PlainTextDocument</scope><name>get_BuiltInDocumentProperties</name></member>
+      <member refid="class_aspose_1_1_words_1_1_plain_text_document_1a3ff175fbd223f3b077b4bd286239aa9a" prot="public" virt="non-virtual"><scope>Aspose::Words::PlainTextDocument</scope><name>get_CustomDocumentProperties</name></member>
+      <member refid="class_aspose_1_1_words_1_1_plain_text_document_1ab6c1dfa9b90bd30bd1ebb5bd45649a90" prot="public" virt="non-virtual"><scope>Aspose::Words::PlainTextDocument</scope><name>get_Text</name></member>
+      <member refid="class_aspose_1_1_words_1_1_plain_text_document_1a7f714c390ef71c0fea2a766e73946cd9" prot="private" virt="non-virtual"><scope>Aspose::Words::PlainTextDocument</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_plain_text_document_1a45f3b858ff6cc0ec1566b2a039c7cd61" prot="private" virt="non-virtual"><scope>Aspose::Words::PlainTextDocument</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_plain_text_document_1a6b157afbd0d251b38c80db0f55360121" prot="private" virt="non-virtual"><scope>Aspose::Words::PlainTextDocument</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_plain_text_document_1a1058377978594ba92fa9397e92f1afff" prot="public" virt="non-virtual"><scope>Aspose::Words::PlainTextDocument</scope><name>PlainTextDocument</name></member>
+      <member refid="class_aspose_1_1_words_1_1_plain_text_document_1af7a6eef342a2eee396b756c2cade1027" prot="public" virt="non-virtual"><scope>Aspose::Words::PlainTextDocument</scope><name>PlainTextDocument</name></member>
+      <member refid="class_aspose_1_1_words_1_1_plain_text_document_1a132ddbbc9d4296cbd20b30c6889de9d7" prot="public" virt="non-virtual"><scope>Aspose::Words::PlainTextDocument</scope><name>PlainTextDocument</name></member>
+      <member refid="class_aspose_1_1_words_1_1_plain_text_document_1a1343ca03f83d2d5145bb3a06ebb80271" prot="public" virt="non-virtual"><scope>Aspose::Words::PlainTextDocument</scope><name>PlainTextDocument</name></member>
+      <member refid="class_aspose_1_1_words_1_1_plain_text_document_1a77bc754f7ce05267d42b1a3d1a2c29d1" prot="public" virt="non-virtual"><scope>Aspose::Words::PlainTextDocument</scope><name>PlainTextDocument</name></member>
+      <member refid="class_aspose_1_1_words_1_1_plain_text_document_1a6db2d678be5ec0cab2a2a2e18ff3e25f" prot="public" virt="non-virtual"><scope>Aspose::Words::PlainTextDocument</scope><name>PlainTextDocument</name></member>
+      <member refid="class_aspose_1_1_words_1_1_plain_text_document_1aa267ff20368019bba7978de89795ab4a" prot="private" virt="non-virtual"><scope>Aspose::Words::PlainTextDocument</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_plain_text_document_1a06a4cedcf0d718d6b35aac837738091f" prot="private" virt="non-virtual"><scope>Aspose::Words::PlainTextDocument</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_plain_text_document_1a288dede1438667d38d2d62073f3d6316" prot="private" virt="non-virtual"><scope>Aspose::Words::PlainTextDocument</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

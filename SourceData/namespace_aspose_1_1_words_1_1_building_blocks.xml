@@ -1,0 +1,722 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="namespace_aspose_1_1_words_1_1_building_blocks" kind="namespace" language="C++">
+    <compoundname>Aspose::Words::BuildingBlocks</compoundname>
+    <innerclass refid="class_aspose_1_1_words_1_1_building_blocks_1_1_building_block" prot="public">Aspose::Words::BuildingBlocks::BuildingBlock</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_building_blocks_1_1_building_block_collection" prot="public">Aspose::Words::BuildingBlocks::BuildingBlockCollection</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_building_blocks_1_1_glossary_document" prot="public">Aspose::Words::BuildingBlocks::GlossaryDocument</innerclass>
+      <sectiondef kind="enum">
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_building_blocks_1a983863dc1cbac800bf1d75ce1a9d8475" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>BuildingBlockBehavior</name>
+        <qualifiedname>Aspose::Words::BuildingBlocks::BuildingBlockBehavior</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a983863dc1cbac800bf1d75ce1a9d8475af15c1cae7882448b3fb0404682e17e61" prot="public">
+          <name>Content</name>
+          <briefdescription>
+<para>Specifies that the building block shall be inserted as inline content. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a983863dc1cbac800bf1d75ce1a9d8475afeaf0a320c3d678ad30dd179b7d21584" prot="public">
+          <name>Paragraph</name>
+          <briefdescription>
+<para>Specifies that the building block shall be inserted into its own paragraph. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a983863dc1cbac800bf1d75ce1a9d8475a193cfc9be3b995831c6af2fea6650e60" prot="public">
+          <name>Page</name>
+          <briefdescription>
+<para>Specifies that the building block shall be added into its own page. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a983863dc1cbac800bf1d75ce1a9d8475a7a1920d61156abc05a60135aefe8bc67" prot="public">
+          <name>Default</name>
+          <initializer>= static_cast&lt;int32_t&gt;(Content)</initializer>
+          <briefdescription>
+<para>Same as <ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a983863dc1cbac800bf1d75ce1a9d8475af15c1cae7882448b3fb0404682e17e61" kindref="member">Content</ref>. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies the behavior that shall be applied to the contents of the building block when it is inserted into the main document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Corresponds to the <bold>ST_DocPartBehavior</bold> type in OOXML.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_building_blocks_1_1_building_block_1a99b35759baf3f78b4a76307bcd40232a" kindref="member">Aspose::Words::BuildingBlocks::BuildingBlock::get_Behavior</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to add a custom building block to a document. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>CreateAndInsert()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>document&apos;s<sp/>glossary<sp/>document<sp/>stores<sp/>building<sp/>blocks.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>glossaryDoc<sp/>=<sp/>MakeObject&lt;GlossaryDocument&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;set_GlossaryDocument(glossaryDoc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>building<sp/>block,<sp/>name<sp/>it,<sp/>and<sp/>then<sp/>add<sp/>it<sp/>to<sp/>the<sp/>glossary<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>block<sp/>=<sp/>MakeObject&lt;BuildingBlock&gt;(glossaryDoc);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>block-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Custom<sp/>Block&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>glossaryDoc-&gt;AppendChild(block);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>All<sp/>new<sp/>building<sp/>block<sp/>GUIDs<sp/>have<sp/>the<sp/>same<sp/>zero<sp/>value<sp/>by<sp/>default,<sp/>and<sp/>we<sp/>can<sp/>give<sp/>them<sp/>a<sp/>new<sp/>unique<sp/>value.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;00000000-0000-0000-0000-000000000000&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Guid()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>block-&gt;set_Guid(<ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>following<sp/>properties<sp/>categorize<sp/>building<sp/>blocks</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>in<sp/>the<sp/>menu<sp/>we<sp/>can<sp/>access<sp/>in<sp/>Microsoft<sp/>Word<sp/>via<sp/>&quot;Insert&quot;<sp/>-&gt;<sp/>&quot;Quick<sp/>Parts&quot;<sp/>-&gt;<sp/>&quot;Building<sp/>Blocks<sp/>Organizer&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;(Empty<sp/>Category)&quot;</highlight><highlight class="normal">,<sp/>block-&gt;get_Category());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a4e90f5cd1592c29225630c831f035eaea6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No type information is specified for the building block.">BuildingBlockType::None</ref>,<sp/>block-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08ab1c94ca2fbc3e78fc30069c8d0f01680" kindref="member" tooltip="Specifies that this glossary document entry shall be associated with all possible gallery classificat...">BuildingBlockGallery::All</ref>,<sp/>block-&gt;get_Gallery());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a983863dc1cbac800bf1d75ce1a9d8475af15c1cae7882448b3fb0404682e17e61" kindref="member" tooltip="Specifies that the building block shall be inserted as inline content.">BuildingBlockBehavior::Content</ref>,<sp/>block-&gt;get_Behavior());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Before<sp/>we<sp/>can<sp/>add<sp/>this<sp/>building<sp/>block<sp/>to<sp/>our<sp/>document,<sp/>we<sp/>will<sp/>need<sp/>to<sp/>give<sp/>it<sp/>some<sp/>contents,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>which<sp/>we<sp/>will<sp/>do<sp/>using<sp/>a<sp/>document<sp/>visitor.<sp/>This<sp/>visitor<sp/>will<sp/>also<sp/>set<sp/>a<sp/>category,<sp/>gallery,<sp/>and<sp/>behavior.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>visitor<sp/>=<sp/>MakeObject&lt;ExBuildingBlocks::BuildingBlockVisitor&gt;(glossaryDoc);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>block-&gt;Accept(visitor);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>access<sp/>the<sp/>block<sp/>that<sp/>we<sp/>just<sp/>made<sp/>from<sp/>the<sp/>glossary<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;BuildingBlock&gt;<sp/>customBlock<sp/>=<sp/>glossaryDoc-&gt;GetBuildingBlock(<ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08aab6f92d73a7df27f0c99d4146c4107d2" kindref="member">BuildingBlockGallery::QuickParts</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;My<sp/>custom<sp/>building<sp/>blocks&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Custom<sp/>Block&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>block<sp/>itself<sp/>is<sp/>a<sp/>section<sp/>that<sp/>contains<sp/>the<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(String::Format(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>{0}\f&quot;</highlight><highlight class="normal">,<sp/>customBlock-&gt;get_Name()),<sp/>customBlock-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;GetText());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(customBlock-&gt;get_FirstSection(),<sp/>customBlock-&gt;get_LastSection());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::function&lt;void()&gt;<sp/>parseGuid<sp/>=<sp/>[&amp;customBlock]()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class/system.guid/_1a514508d9dd63f7eeb65ae305493f2411" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::Parse</ref>(<ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(customBlock-&gt;get_Guid()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>};</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Now,<sp/>we<sp/>can<sp/>insert<sp/>it<sp/>into<sp/>the<sp/>document<sp/>as<sp/>a<sp/>new<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;AppendChild(doc-&gt;ImportNode(customBlock-&gt;get_FirstSection(),<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>find<sp/>it<sp/>in<sp/>Microsoft<sp/>Word&apos;s<sp/>Building<sp/>Blocks<sp/>Organizer<sp/>and<sp/>place<sp/>it<sp/>manually.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;BuildingBlocks.CreateAndInsert.dotx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">BuildingBlockVisitor<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>BuildingBlockVisitor(SharedPtr&lt;GlossaryDocument&gt;<sp/>ownerGlossaryDoc)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder<sp/>=<sp/>MakeObject&lt;System::Text::StringBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mGlossaryDoc<sp/>=<sp/>ownerGlossaryDoc;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>VisitorAction<sp/>VisitBuildingBlockStart(SharedPtr&lt;BuildingBlock&gt;<sp/>block)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Configure<sp/>the<sp/>building<sp/>block<sp/>as<sp/>a<sp/>quick<sp/>part,<sp/>and<sp/>add<sp/>properties<sp/>used<sp/>by<sp/>Building<sp/>Blocks<sp/>Organizer.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;set_Behavior(BuildingBlockBehavior::Paragraph);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;set_Category(u</highlight><highlight class="stringliteral">&quot;My<sp/>custom<sp/>building<sp/>blocks&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;set_Description(u</highlight><highlight class="stringliteral">&quot;Using<sp/>this<sp/>block<sp/>in<sp/>the<sp/>Quick<sp/>Parts<sp/>section<sp/>of<sp/>word<sp/>will<sp/>place<sp/>its<sp/>contents<sp/>at<sp/>the<sp/>cursor.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;set_Gallery(BuildingBlockGallery::QuickParts);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Add<sp/>a<sp/>section<sp/>with<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Inserting<sp/>the<sp/>block<sp/>into<sp/>the<sp/>document<sp/>will<sp/>append<sp/>this<sp/>section<sp/>with<sp/>its<sp/>child<sp/>nodes<sp/>at<sp/>the<sp/>location.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>section<sp/>=<sp/>MakeObject&lt;Section&gt;(mGlossaryDoc);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;AppendChild(section);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;get_FirstSection()-&gt;EnsureMinimum();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>run<sp/>=<sp/>MakeObject&lt;Run&gt;(mGlossaryDoc,<sp/>String(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>block-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;AppendChild(run);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitBuildingBlockEnd(SharedPtr&lt;BuildingBlock&gt;<sp/>block)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;Append(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Visited<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>block-&gt;get_Name()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\r\n&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mBuilder;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;GlossaryDocument&gt;<sp/>mGlossaryDoc;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/BuildingBlocks/BuildingBlockBehavior.h" line="125" column="1" bodyfile="Aspose.Words.Cpp/BuildingBlocks/BuildingBlockBehavior.h" bodystart="126" bodyend="139"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>BuildingBlockGallery</name>
+        <qualifiedname>Aspose::Words::BuildingBlocks::BuildingBlockGallery</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08ab1c94ca2fbc3e78fc30069c8d0f01680" prot="public">
+          <name>All</name>
+          <briefdescription>
+<para>Specifies that this glossary document entry shall be associated with all possible gallery classification values. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08abd9d9e10eacd88dd09fcaad70374197d" prot="public">
+          <name>AutoText</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08aa7cc81119daa478a68f07f26836adbbf" prot="public">
+          <name>Bibliography</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a08ef9561168a5268ec70203a01ce0d2a" prot="public">
+          <name>CoverPage</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08af7356fabf9115f77275365458fdf8382" prot="public">
+          <name>CustomAutoText</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a0488d3f2a3c429ef9b462089f7e225bd" prot="public">
+          <name>CustomBibliography</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a4f2273a264c765fb8c8d38fb082b1989" prot="public">
+          <name>CustomCoverPage</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a1e5d9912c29d386405f819b31e6453f9" prot="public">
+          <name>CustomEquations</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a703cce48049e4b1d5ff5a3b30dd5fdd4" prot="public">
+          <name>CustomFooters</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a935028723e69a11ec7b45583eb8eeb36" prot="public">
+          <name>CustomHeaders</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08abfacbbe4e8be8fbc78a60cd9f8e67dd5" prot="public">
+          <name>Custom1</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a1d8ba0be5e8d76a3e6fb571c80929db2" prot="public">
+          <name>Custom2</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a01cd47f19cbca3337e2f0864d20544c8" prot="public">
+          <name>Custom3</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08aadea16898400a3a8fa1921341144807e" prot="public">
+          <name>Custom4</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08aee827f906d1f4427dd97b4d5d1a11118" prot="public">
+          <name>Custom5</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a73d96344d2b47f18f0d393f082a24ce5" prot="public">
+          <name>CustomPageNumber</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a3b66a1b13e46866d22c0623665b0002d" prot="public">
+          <name>CustomPageNumberAtBottom</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08aaf844de0b214a8a9d39bc66c6c3fb892" prot="public">
+          <name>CustomPageNumberAtMargin</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08aeb39682c5eaab1f332b5797e54baf237" prot="public">
+          <name>CustomPageNumberAtTop</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08ab641d32788423cb5d4319c5dd15ff9de" prot="public">
+          <name>CustomQuickParts</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a21986135416ed59b0139a990e22eaad4" prot="public">
+          <name>CustomTableOfContents</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a19affc874aef410a2668224bc108646a" prot="public">
+          <name>CustomTables</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a550003cf2f1f5e3fad28569a0dc2351e" prot="public">
+          <name>CustomTextBox</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a4d6a6f3a5664b45359827e21043b87a5" prot="public">
+          <name>CustomWatermarks</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08ad2978add7c030312d3bb732677edacf6" prot="public">
+          <name>NoGallery</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08aab6f92d73a7df27f0c99d4146c4107d2" prot="public">
+          <name>QuickParts</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a83140a627f470b6b4eefed9f9b96e475" prot="public">
+          <name>Equations</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a1af85687f4d37290f06d9b684c7cdc15" prot="public">
+          <name>Footers</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a883d7615c4d2de3fa1218f1298c46d0e" prot="public">
+          <name>Headers</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a30844578151522babbfde2fe9b3a7a22" prot="public">
+          <name>PageNumber</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a5b282ca27aeb210cc7bc8a03a9453447" prot="public">
+          <name>PageNumberAtBottom</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a1eaa920de19d82b09ccc12646403c46d" prot="public">
+          <name>PageNumberAtMargin</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08af12747177a1d60403055e4078a01899d" prot="public">
+          <name>PageNumberAtTop</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a7aca530848e51a863d275a11aa5729a4" prot="public">
+          <name>StructuredDocumentTagPlaceholderText</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08aa109d8b336b9d74d08d72d0ee6857bff" prot="public">
+          <name>TableOfContents</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a651ae5789ab776f2fcaf80b5e62801dc" prot="public">
+          <name>Tables</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08afbe16470e116e861d9fdf08f036ea22f" prot="public">
+          <name>TextBox</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08afaf4332505635e55ff1cdb47d504b302" prot="public">
+          <name>Watermarks</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08a7a1920d61156abc05a60135aefe8bc67" prot="public">
+          <name>Default</name>
+          <initializer>= static_cast&lt;int32_t&gt;(All)</initializer>
+          <briefdescription>
+<para>Same as <ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08ab1c94ca2fbc3e78fc30069c8d0f01680" kindref="member">All</ref>. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies the predefined gallery into which a building block is classified. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Corresponds to the <bold>ST_DocPartGallery</bold> type in OOXML.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_building_blocks_1_1_building_block_1a7808353bb18b44d37b463f9df7111364" kindref="member">Aspose::Words::BuildingBlocks::BuildingBlock::get_Gallery</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows ways of accessing building blocks in a glossary document. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>GlossaryDocument_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>glossaryDoc<sp/>=<sp/>MakeObject&lt;GlossaryDocument&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>1;<sp/>i<sp/>&lt;=<sp/>5;<sp/>++i)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>block<sp/>=<sp/>MakeObject&lt;BuildingBlock&gt;(glossaryDoc);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;set_Name(String(u</highlight><highlight class="stringliteral">&quot;Block<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="struct/system.convert/_1a8da6a3aaf0b91afba166691a08bc3ac0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Convert::ToString</ref>(i));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>glossaryDoc-&gt;AppendChild(block);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(5,<sp/>glossaryDoc-&gt;get_BuildingBlocks()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;set_GlossaryDocument(glossaryDoc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>various<sp/>ways<sp/>of<sp/>accessing<sp/>building<sp/>blocks.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Get<sp/>the<sp/>first/last<sp/>building<sp/>blocks<sp/>in<sp/>the<sp/>collection:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Block<sp/>1&quot;</highlight><highlight class="normal">,<sp/>glossaryDoc-&gt;get_FirstBuildingBlock()-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Block<sp/>5&quot;</highlight><highlight class="normal">,<sp/>glossaryDoc-&gt;get_LastBuildingBlock()-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Get<sp/>a<sp/>building<sp/>block<sp/>by<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Block<sp/>2&quot;</highlight><highlight class="normal">,<sp/>glossaryDoc-&gt;get_BuildingBlocks()-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Block<sp/>3&quot;</highlight><highlight class="normal">,<sp/>glossaryDoc-&gt;get_BuildingBlocks()-&gt;ToArray()-&gt;idx_get(2)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Get<sp/>the<sp/>first<sp/>building<sp/>block<sp/>that<sp/>matches<sp/>a<sp/>gallery,<sp/>name<sp/>and<sp/>category:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Block<sp/>4&quot;</highlight><highlight class="normal">,<sp/>glossaryDoc-&gt;GetBuildingBlock(<ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08ab1c94ca2fbc3e78fc30069c8d0f01680" kindref="member" tooltip="Specifies that this glossary document entry shall be associated with all possible gallery classificat...">BuildingBlockGallery::All</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;(Empty<sp/>Category)&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Block<sp/>4&quot;</highlight><highlight class="normal">)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>do<sp/>that<sp/>using<sp/>a<sp/>custom<sp/>visitor,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>give<sp/>every<sp/>BuildingBlock<sp/>in<sp/>the<sp/>GlossaryDocument<sp/>a<sp/>unique<sp/>GUID</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>visitor<sp/>=<sp/>MakeObject&lt;ExBuildingBlocks::GlossaryDocVisitor&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>glossaryDoc-&gt;Accept(visitor);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>visitor-&gt;GetText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>In<sp/>Microsoft<sp/>Word,<sp/>we<sp/>can<sp/>access<sp/>the<sp/>building<sp/>blocks<sp/>via<sp/>&quot;Insert&quot;<sp/>-&gt;<sp/>&quot;Quick<sp/>Parts&quot;<sp/>-&gt;<sp/>&quot;Building<sp/>Blocks<sp/>Organizer&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;BuildingBlocks.GlossaryDocument.dotx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">GlossaryDocVisitor<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>GlossaryDocVisitor()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBlocksByGuid<sp/>=<sp/>MakeObject&lt;System::Collections::Generic::Dictionary&lt;System::Guid,<sp/>SharedPtr&lt;BuildingBlock&gt;&gt;&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder<sp/>=<sp/>MakeObject&lt;System::Text::StringBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String<sp/>GetText()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mBuilder-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::Dictionary&lt;System::Guid,<sp/>SharedPtr&lt;BuildingBlock&gt;&gt;&gt;<sp/>GetDictionary()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mBlocksByGuid;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitGlossaryDocumentStart(SharedPtr&lt;GlossaryDocument&gt;<sp/>glossary)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(u</highlight><highlight class="stringliteral">&quot;Glossary<sp/>document<sp/>found!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitGlossaryDocumentEnd(SharedPtr&lt;GlossaryDocument&gt;<sp/>glossary)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(u</highlight><highlight class="stringliteral">&quot;Reached<sp/>end<sp/>of<sp/>glossary!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;BuildingBlocks<sp/>found:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>mBlocksByGuid-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitBuildingBlockStart(SharedPtr&lt;BuildingBlock&gt;<sp/>block)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;set_Guid(<ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBlocksByGuid-&gt;Add(block-&gt;get_Guid(),<sp/>block);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitBuildingBlockEnd(SharedPtr&lt;BuildingBlock&gt;<sp/>block)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tVisited<sp/>block<sp/>\&quot;&quot;</highlight><highlight class="normal">)<sp/>+<sp/>block-&gt;get_Name()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Type:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Type()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Gallery:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Gallery()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Behavior:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Behavior()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t<sp/>Description:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>block-&gt;get_Description());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::Dictionary&lt;System::Guid,<sp/>SharedPtr&lt;BuildingBlock&gt;&gt;&gt;<sp/>mBlocksByGuid;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mBuilder;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/BuildingBlocks/BuildingBlockGallery.h" line="130" column="1" bodyfile="Aspose.Words.Cpp/BuildingBlocks/BuildingBlockGallery.h" bodystart="131" bodyend="175"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_building_blocks_1a4e90f5cd1592c29225630c831f035eae" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>BuildingBlockType</name>
+        <qualifiedname>Aspose::Words::BuildingBlocks::BuildingBlockType</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a4e90f5cd1592c29225630c831f035eaea6adf97f83acf6453d4a6a4b1070f3754" prot="public">
+          <name>None</name>
+          <briefdescription>
+<para>No type information is specified for the building block. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a4e90f5cd1592c29225630c831f035eaeafd677b036bf6a621646cb7aef4b9004c" prot="public">
+          <name>AutomaticallyReplaceNameWithContent</name>
+          <briefdescription>
+<para>Allows the building block to be automatically inserted into the document whenever its name is entered into an application. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a4e90f5cd1592c29225630c831f035eaea7aca530848e51a863d275a11aa5729a4" prot="public">
+          <name>StructuredDocumentTagPlaceholderText</name>
+          <briefdescription>
+<para>The building block is a structured document tag placeholder text. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a4e90f5cd1592c29225630c831f035eaeab3939d0603afae2131777e2b049f7163" prot="public">
+          <name>FormFieldHelpText</name>
+          <briefdescription>
+<para>The building block is a form field help text. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a4e90f5cd1592c29225630c831f035eaea960b44c579bc2f6818d2daaf9e4c16f0" prot="public">
+          <name>Normal</name>
+          <briefdescription>
+<para>The building block is a normal (i.e. regular) glossary document entry. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a4e90f5cd1592c29225630c831f035eaeae336565230b923e35d5355a453a832a4" prot="public">
+          <name>AutoCorrect</name>
+          <briefdescription>
+<para>The building block is associated with the spelling and grammar tools. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a4e90f5cd1592c29225630c831f035eaeabd9d9e10eacd88dd09fcaad70374197d" prot="public">
+          <name>AutoText</name>
+          <briefdescription>
+<para>The building block is an AutoText entry. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a4e90f5cd1592c29225630c831f035eaeab1c94ca2fbc3e78fc30069c8d0f01680" prot="public">
+          <name>All</name>
+          <briefdescription>
+<para>The building block is associated with all types. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_building_blocks_1a4e90f5cd1592c29225630c831f035eaea7a1920d61156abc05a60135aefe8bc67" prot="public">
+          <name>Default</name>
+          <initializer>= static_cast&lt;int32_t&gt;(None)</initializer>
+          <briefdescription>
+<para>Save as <ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a4e90f5cd1592c29225630c831f035eaea6adf97f83acf6453d4a6a4b1070f3754" kindref="member">None</ref>. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies a building block type. The type might affect the visibility and behavior of the building block in Microsoft Word. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Corresponds to the <bold>ST_DocPartType</bold> type in OOXML.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_building_blocks_1_1_building_block_1a997426fcf931ac52bce97d5f74a70121" kindref="member">Aspose::Words::BuildingBlocks::BuildingBlock::get_Type</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to add a custom building block to a document. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>CreateAndInsert()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>document&apos;s<sp/>glossary<sp/>document<sp/>stores<sp/>building<sp/>blocks.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>glossaryDoc<sp/>=<sp/>MakeObject&lt;GlossaryDocument&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;set_GlossaryDocument(glossaryDoc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>building<sp/>block,<sp/>name<sp/>it,<sp/>and<sp/>then<sp/>add<sp/>it<sp/>to<sp/>the<sp/>glossary<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>block<sp/>=<sp/>MakeObject&lt;BuildingBlock&gt;(glossaryDoc);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>block-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Custom<sp/>Block&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>glossaryDoc-&gt;AppendChild(block);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>All<sp/>new<sp/>building<sp/>block<sp/>GUIDs<sp/>have<sp/>the<sp/>same<sp/>zero<sp/>value<sp/>by<sp/>default,<sp/>and<sp/>we<sp/>can<sp/>give<sp/>them<sp/>a<sp/>new<sp/>unique<sp/>value.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;00000000-0000-0000-0000-000000000000&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(block-&gt;get_Guid()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>block-&gt;set_Guid(<ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>following<sp/>properties<sp/>categorize<sp/>building<sp/>blocks</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>in<sp/>the<sp/>menu<sp/>we<sp/>can<sp/>access<sp/>in<sp/>Microsoft<sp/>Word<sp/>via<sp/>&quot;Insert&quot;<sp/>-&gt;<sp/>&quot;Quick<sp/>Parts&quot;<sp/>-&gt;<sp/>&quot;Building<sp/>Blocks<sp/>Organizer&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;(Empty<sp/>Category)&quot;</highlight><highlight class="normal">,<sp/>block-&gt;get_Category());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a4e90f5cd1592c29225630c831f035eaea6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No type information is specified for the building block.">BuildingBlockType::None</ref>,<sp/>block-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08ab1c94ca2fbc3e78fc30069c8d0f01680" kindref="member" tooltip="Specifies that this glossary document entry shall be associated with all possible gallery classificat...">BuildingBlockGallery::All</ref>,<sp/>block-&gt;get_Gallery());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a983863dc1cbac800bf1d75ce1a9d8475af15c1cae7882448b3fb0404682e17e61" kindref="member" tooltip="Specifies that the building block shall be inserted as inline content.">BuildingBlockBehavior::Content</ref>,<sp/>block-&gt;get_Behavior());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Before<sp/>we<sp/>can<sp/>add<sp/>this<sp/>building<sp/>block<sp/>to<sp/>our<sp/>document,<sp/>we<sp/>will<sp/>need<sp/>to<sp/>give<sp/>it<sp/>some<sp/>contents,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>which<sp/>we<sp/>will<sp/>do<sp/>using<sp/>a<sp/>document<sp/>visitor.<sp/>This<sp/>visitor<sp/>will<sp/>also<sp/>set<sp/>a<sp/>category,<sp/>gallery,<sp/>and<sp/>behavior.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>visitor<sp/>=<sp/>MakeObject&lt;ExBuildingBlocks::BuildingBlockVisitor&gt;(glossaryDoc);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>block-&gt;Accept(visitor);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>access<sp/>the<sp/>block<sp/>that<sp/>we<sp/>just<sp/>made<sp/>from<sp/>the<sp/>glossary<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;BuildingBlock&gt;<sp/>customBlock<sp/>=<sp/>glossaryDoc-&gt;GetBuildingBlock(<ref refid="namespace_aspose_1_1_words_1_1_building_blocks_1a8994300487d95724d3ef9e714dec2c08aab6f92d73a7df27f0c99d4146c4107d2" kindref="member">BuildingBlockGallery::QuickParts</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;My<sp/>custom<sp/>building<sp/>blocks&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Custom<sp/>Block&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>block<sp/>itself<sp/>is<sp/>a<sp/>section<sp/>that<sp/>contains<sp/>the<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(String::Format(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>{0}\f&quot;</highlight><highlight class="normal">,<sp/>customBlock-&gt;get_Name()),<sp/>customBlock-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;GetText());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(customBlock-&gt;get_FirstSection(),<sp/>customBlock-&gt;get_LastSection());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::function&lt;void()&gt;<sp/>parseGuid<sp/>=<sp/>[&amp;customBlock]()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class/system.guid/_1a514508d9dd63f7eeb65ae305493f2411" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::Parse</ref>(<ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(customBlock-&gt;get_Guid()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>};</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Now,<sp/>we<sp/>can<sp/>insert<sp/>it<sp/>into<sp/>the<sp/>document<sp/>as<sp/>a<sp/>new<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;AppendChild(doc-&gt;ImportNode(customBlock-&gt;get_FirstSection(),<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>find<sp/>it<sp/>in<sp/>Microsoft<sp/>Word&apos;s<sp/>Building<sp/>Blocks<sp/>Organizer<sp/>and<sp/>place<sp/>it<sp/>manually.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;BuildingBlocks.CreateAndInsert.dotx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">BuildingBlockVisitor<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>BuildingBlockVisitor(SharedPtr&lt;GlossaryDocument&gt;<sp/>ownerGlossaryDoc)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder<sp/>=<sp/>MakeObject&lt;System::Text::StringBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mGlossaryDoc<sp/>=<sp/>ownerGlossaryDoc;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>VisitorAction<sp/>VisitBuildingBlockStart(SharedPtr&lt;BuildingBlock&gt;<sp/>block)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Configure<sp/>the<sp/>building<sp/>block<sp/>as<sp/>a<sp/>quick<sp/>part,<sp/>and<sp/>add<sp/>properties<sp/>used<sp/>by<sp/>Building<sp/>Blocks<sp/>Organizer.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;set_Behavior(BuildingBlockBehavior::Paragraph);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;set_Category(u</highlight><highlight class="stringliteral">&quot;My<sp/>custom<sp/>building<sp/>blocks&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;set_Description(u</highlight><highlight class="stringliteral">&quot;Using<sp/>this<sp/>block<sp/>in<sp/>the<sp/>Quick<sp/>Parts<sp/>section<sp/>of<sp/>word<sp/>will<sp/>place<sp/>its<sp/>contents<sp/>at<sp/>the<sp/>cursor.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;set_Gallery(BuildingBlockGallery::QuickParts);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Add<sp/>a<sp/>section<sp/>with<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Inserting<sp/>the<sp/>block<sp/>into<sp/>the<sp/>document<sp/>will<sp/>append<sp/>this<sp/>section<sp/>with<sp/>its<sp/>child<sp/>nodes<sp/>at<sp/>the<sp/>location.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>section<sp/>=<sp/>MakeObject&lt;Section&gt;(mGlossaryDoc);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;AppendChild(section);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;get_FirstSection()-&gt;EnsureMinimum();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>run<sp/>=<sp/>MakeObject&lt;Run&gt;(mGlossaryDoc,<sp/>String(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>block-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>block-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;AppendChild(run);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitBuildingBlockEnd(SharedPtr&lt;BuildingBlock&gt;<sp/>block)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;Append(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Visited<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>block-&gt;get_Name()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\r\n&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mBuilder;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;GlossaryDocument&gt;<sp/>mGlossaryDoc;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/BuildingBlocks/BuildingBlockType.h" line="125" column="1" bodyfile="Aspose.Words.Cpp/BuildingBlocks/BuildingBlockType.h" bodystart="126" bodyend="155"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>The <bold>Aspose.Words.BuildingBlocks</bold> namespace provides classes that allow to access and use AutoText, AutoCorrect entries and Building Blocks in a document. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/BuildingBlocks/BuildingBlock.h" line="25" column="1"/>
+  </compounddef>
+</doxygen>

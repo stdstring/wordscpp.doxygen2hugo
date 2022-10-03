@@ -1,0 +1,706 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::FieldHyperlink</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field" prot="public" virt="non-virtual">Aspose::Words::Fields::Field</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IFieldCodeTokenInfoProvider</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IFieldResultFormatProvider</basecompoundref>
+    <includes refid="_field_hyperlink_8h" local="no">Aspose.Words.Cpp/Fields/FieldHyperlink.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a0db0b217d325912eb2b57361c17ee266" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref></type>
+        <definition>typedef Aspose::Words::Fields::Field Aspose::Words::Fields::FieldHyperlink::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldHyperlink::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="81" column="42" bodyfile="Aspose.Words.Cpp/Fields/FieldHyperlink.h" bodystart="81" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a51d9af612176a421ff65e7569b3253a8" prot="private" static="no">
+        <type>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</type>
+        <definition>typedef Aspose::Words::Fields::IFieldCodeTokenInfoProvider Aspose::Words::Fields::FieldHyperlink::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Fields::FieldHyperlink::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="82" column="64" bodyfile="Aspose.Words.Cpp/Fields/FieldHyperlink.h" bodystart="82" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a7fa3eba4a6a3e163cb9c03cc11d38588" prot="private" static="no">
+        <type>Aspose::Words::Fields::IFieldResultFormatProvider</type>
+        <definition>typedef Aspose::Words::Fields::IFieldResultFormatProvider Aspose::Words::Fields::FieldHyperlink::BaseType2</definition>
+        <argsstring></argsstring>
+        <name>BaseType2</name>
+        <qualifiedname>Aspose::Words::Fields::FieldHyperlink::BaseType2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="83" column="63" bodyfile="Aspose.Words.Cpp/Fields/FieldHyperlink.h" bodystart="83" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1ad7c09253b93259177c4b8b7e2aeb9822" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink" kindref="compound">FieldHyperlink</ref></type>
+        <definition>typedef FieldHyperlink Aspose::Words::Fields::FieldHyperlink::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldHyperlink::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="80" column="28" bodyfile="Aspose.Words.Cpp/Fields/FieldHyperlink.h" bodystart="80" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a3f3ab563ad8fdc2126a34971018b6cb8" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1, BaseType2 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1, BaseType2&gt; Aspose::Words::Fields::FieldHyperlink::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::FieldHyperlink::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="85" column="37" bodyfile="Aspose.Words.Cpp/Fields/FieldHyperlink.h" bodystart="85" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1aa721d44171b18b97873070d873b3bb2b" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Fields::FieldHyperlink::~FieldHyperlink</definition>
+        <argsstring>()</argsstring>
+        <name>~FieldHyperlink</name>
+        <qualifiedname>Aspose::Words::Fields::FieldHyperlink::~FieldHyperlink</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="314" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a66f1b03f4311aa3af6579050dcede52b" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldHyperlink::BeforeUnlink</definition>
+        <argsstring>() override</argsstring>
+        <name>BeforeUnlink</name>
+        <qualifiedname>Aspose::Words::Fields::FieldHyperlink::BeforeUnlink</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a8beea0f88f340d5955669d1c8eaeb740">BeforeUnlink</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="311" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a05444fd6a41c5a61f23fc55683ad7587" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::IFieldResultFormatApplier &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::IFieldResultFormatApplier &gt; Aspose::Words::Fields::FieldHyperlink::GetFormatApplier</definition>
+        <argsstring>() override</argsstring>
+        <name>GetFormatApplier</name>
+        <qualifiedname>Aspose::Words::Fields::FieldHyperlink::GetFormatApplier</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="320" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1ae1f52e5d3e2c7ef1cb359bc4e1f6150c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_inline" kindref="compound">Aspose::Words::Inline</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Inline &gt; Aspose::Words::Fields::FieldHyperlink::GetSourceNode</definition>
+        <argsstring>() override</argsstring>
+        <name>GetSourceNode</name>
+        <qualifiedname>Aspose::Words::Fields::FieldHyperlink::GetSourceNode</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="319" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1aee65f0c967da39a080b3ab6ac4bbcb02" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>Aspose::Words::Fields::FieldSwitchType</type>
+        <definition>Aspose::Words::Fields::FieldSwitchType Aspose::Words::Fields::FieldHyperlink::GetSwitchType</definition>
+        <argsstring>(System::String) override</argsstring>
+        <name>GetSwitchType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldHyperlink::GetSwitchType</qualifiedname>
+        <param>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="318" column="44"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a5c51e5c5391acf1ef177c1e28f1a8f46" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldHyperlink::NeedStoreOldResultNodes</definition>
+        <argsstring>() override</argsstring>
+        <name>NeedStoreOldResultNodes</name>
+        <qualifiedname>Aspose::Words::Fields::FieldHyperlink::NeedStoreOldResultNodes</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a3804d07aab1a30cdf0ddabaeb737290c">NeedStoreOldResultNodes</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="312" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a7c5718917ab62a747305f2c357d45fbd" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldHyperlink::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::FieldHyperlink::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="86" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1ac22ff9595c5864c98a949b4becc57cff" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldUpdateAction &gt; Aspose::Words::Fields::FieldHyperlink::UpdateCore</definition>
+        <argsstring>() override</argsstring>
+        <name>UpdateCore</name>
+        <qualifiedname>Aspose::Words::Fields::FieldHyperlink::UpdateCore</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afd2f4d29a84550a38375396538654ab8">UpdateCore</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="310" column="26"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a0da3cc53e3234da527e860141238f1fb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldHyperlink::get_Address</definition>
+        <argsstring>()</argsstring>
+        <name>get_Address</name>
+        <qualifiedname>Aspose::Words::Fields::FieldHyperlink::get_Address</qualifiedname>
+        <briefdescription>
+<para>Gets or sets a location where this hyperlink jumps. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use HYPERLINK fields to link to documents in the local file system. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldHyperlink&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca9b82936be64568478515e63821413371" kindref="member" tooltip="Specifies the HYPERLINK field.">FieldType::FieldHyperlink</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>click<sp/>this<sp/>HYPERLINK<sp/>field<sp/>in<sp/>Microsoft<sp/>Word,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>it<sp/>will<sp/>open<sp/>the<sp/>linked<sp/>document<sp/>and<sp/>then<sp/>place<sp/>the<sp/>cursor<sp/>at<sp/>the<sp/>specified<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_Address(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Bookmarks.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SubAddress(u</highlight><highlight class="stringliteral">&quot;MyBookmark3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScreenTip(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Open<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>field-&gt;get_Address()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>on<sp/>bookmark<sp/>&quot;</highlight><highlight class="normal"><sp/>+<sp/>field-&gt;get_SubAddress()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>in<sp/>a<sp/>new<sp/>window&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>click<sp/>this<sp/>HYPERLINK<sp/>field<sp/>in<sp/>Microsoft<sp/>Word,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>it<sp/>will<sp/>open<sp/>the<sp/>linked<sp/>document,<sp/>and<sp/>automatically<sp/>scroll<sp/>down<sp/>to<sp/>the<sp/>specified<sp/>iframe.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldHyperlink&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca9b82936be64568478515e63821413371" kindref="member" tooltip="Specifies the HYPERLINK field.">FieldType::FieldHyperlink</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_Address(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Iframes.html&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScreenTip(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Open<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>field-&gt;get_Address());</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_Target(u</highlight><highlight class="stringliteral">&quot;iframe_3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_OpenInNewWindow(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_IsImageMap(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.HYPERLINK.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="159" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1ae6810cc1cecc80d6ab21f7270147d886" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldHyperlink::get_IsImageMap</definition>
+        <argsstring>()</argsstring>
+        <name>get_IsImageMap</name>
+        <qualifiedname>Aspose::Words::Fields::FieldHyperlink::get_IsImageMap</qualifiedname>
+        <briefdescription>
+<para>Gets or sets whether to append coordinates to the hyperlink for a server-side image map. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use HYPERLINK fields to link to documents in the local file system. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldHyperlink&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca9b82936be64568478515e63821413371" kindref="member" tooltip="Specifies the HYPERLINK field.">FieldType::FieldHyperlink</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>click<sp/>this<sp/>HYPERLINK<sp/>field<sp/>in<sp/>Microsoft<sp/>Word,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>it<sp/>will<sp/>open<sp/>the<sp/>linked<sp/>document<sp/>and<sp/>then<sp/>place<sp/>the<sp/>cursor<sp/>at<sp/>the<sp/>specified<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_Address(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Bookmarks.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SubAddress(u</highlight><highlight class="stringliteral">&quot;MyBookmark3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScreenTip(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Open<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>field-&gt;get_Address()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>on<sp/>bookmark<sp/>&quot;</highlight><highlight class="normal"><sp/>+<sp/>field-&gt;get_SubAddress()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>in<sp/>a<sp/>new<sp/>window&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>click<sp/>this<sp/>HYPERLINK<sp/>field<sp/>in<sp/>Microsoft<sp/>Word,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>it<sp/>will<sp/>open<sp/>the<sp/>linked<sp/>document,<sp/>and<sp/>automatically<sp/>scroll<sp/>down<sp/>to<sp/>the<sp/>specified<sp/>iframe.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldHyperlink&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca9b82936be64568478515e63821413371" kindref="member" tooltip="Specifies the HYPERLINK field.">FieldType::FieldHyperlink</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_Address(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Iframes.html&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScreenTip(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Open<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>field-&gt;get_Address());</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_Target(u</highlight><highlight class="stringliteral">&quot;iframe_3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_OpenInNewWindow(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_IsImageMap(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.HYPERLINK.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="231" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a696bcee74bc510f9f284ca70cc74b476" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldHyperlink::get_OpenInNewWindow</definition>
+        <argsstring>()</argsstring>
+        <name>get_OpenInNewWindow</name>
+        <qualifiedname>Aspose::Words::Fields::FieldHyperlink::get_OpenInNewWindow</qualifiedname>
+        <briefdescription>
+<para>Gets or sets whether to open the destination site in a new web browser window. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use HYPERLINK fields to link to documents in the local file system. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldHyperlink&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca9b82936be64568478515e63821413371" kindref="member" tooltip="Specifies the HYPERLINK field.">FieldType::FieldHyperlink</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>click<sp/>this<sp/>HYPERLINK<sp/>field<sp/>in<sp/>Microsoft<sp/>Word,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>it<sp/>will<sp/>open<sp/>the<sp/>linked<sp/>document<sp/>and<sp/>then<sp/>place<sp/>the<sp/>cursor<sp/>at<sp/>the<sp/>specified<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_Address(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Bookmarks.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SubAddress(u</highlight><highlight class="stringliteral">&quot;MyBookmark3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScreenTip(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Open<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>field-&gt;get_Address()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>on<sp/>bookmark<sp/>&quot;</highlight><highlight class="normal"><sp/>+<sp/>field-&gt;get_SubAddress()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>in<sp/>a<sp/>new<sp/>window&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>click<sp/>this<sp/>HYPERLINK<sp/>field<sp/>in<sp/>Microsoft<sp/>Word,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>it<sp/>will<sp/>open<sp/>the<sp/>linked<sp/>document,<sp/>and<sp/>automatically<sp/>scroll<sp/>down<sp/>to<sp/>the<sp/>specified<sp/>iframe.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldHyperlink&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca9b82936be64568478515e63821413371" kindref="member" tooltip="Specifies the HYPERLINK field.">FieldType::FieldHyperlink</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_Address(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Iframes.html&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScreenTip(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Open<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>field-&gt;get_Address());</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_Target(u</highlight><highlight class="stringliteral">&quot;iframe_3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_OpenInNewWindow(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_IsImageMap(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.HYPERLINK.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="267" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1ac20fe09ab02cdcdd704a9a5322797330" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldHyperlink::get_ScreenTip</definition>
+        <argsstring>()</argsstring>
+        <name>get_ScreenTip</name>
+        <qualifiedname>Aspose::Words::Fields::FieldHyperlink::get_ScreenTip</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the ScreenTip text for the hyperlink. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use HYPERLINK fields to link to documents in the local file system. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldHyperlink&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca9b82936be64568478515e63821413371" kindref="member" tooltip="Specifies the HYPERLINK field.">FieldType::FieldHyperlink</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>click<sp/>this<sp/>HYPERLINK<sp/>field<sp/>in<sp/>Microsoft<sp/>Word,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>it<sp/>will<sp/>open<sp/>the<sp/>linked<sp/>document<sp/>and<sp/>then<sp/>place<sp/>the<sp/>cursor<sp/>at<sp/>the<sp/>specified<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_Address(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Bookmarks.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SubAddress(u</highlight><highlight class="stringliteral">&quot;MyBookmark3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScreenTip(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Open<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>field-&gt;get_Address()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>on<sp/>bookmark<sp/>&quot;</highlight><highlight class="normal"><sp/>+<sp/>field-&gt;get_SubAddress()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>in<sp/>a<sp/>new<sp/>window&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>click<sp/>this<sp/>HYPERLINK<sp/>field<sp/>in<sp/>Microsoft<sp/>Word,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>it<sp/>will<sp/>open<sp/>the<sp/>linked<sp/>document,<sp/>and<sp/>automatically<sp/>scroll<sp/>down<sp/>to<sp/>the<sp/>specified<sp/>iframe.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldHyperlink&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca9b82936be64568478515e63821413371" kindref="member" tooltip="Specifies the HYPERLINK field.">FieldType::FieldHyperlink</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_Address(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Iframes.html&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScreenTip(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Open<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>field-&gt;get_Address());</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_Target(u</highlight><highlight class="stringliteral">&quot;iframe_3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_OpenInNewWindow(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_IsImageMap(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.HYPERLINK.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="303" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1ab1a5d9a2a181c437dc42c785a4c2b8bc" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldHyperlink::get_SubAddress</definition>
+        <argsstring>()</argsstring>
+        <name>get_SubAddress</name>
+        <qualifiedname>Aspose::Words::Fields::FieldHyperlink::get_SubAddress</qualifiedname>
+        <briefdescription>
+<para>Gets or sets a location in the file, such as a bookmark, where this hyperlink jumps. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use HYPERLINK fields to link to documents in the local file system. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldHyperlink&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca9b82936be64568478515e63821413371" kindref="member" tooltip="Specifies the HYPERLINK field.">FieldType::FieldHyperlink</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>click<sp/>this<sp/>HYPERLINK<sp/>field<sp/>in<sp/>Microsoft<sp/>Word,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>it<sp/>will<sp/>open<sp/>the<sp/>linked<sp/>document<sp/>and<sp/>then<sp/>place<sp/>the<sp/>cursor<sp/>at<sp/>the<sp/>specified<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_Address(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Bookmarks.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SubAddress(u</highlight><highlight class="stringliteral">&quot;MyBookmark3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScreenTip(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Open<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>field-&gt;get_Address()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>on<sp/>bookmark<sp/>&quot;</highlight><highlight class="normal"><sp/>+<sp/>field-&gt;get_SubAddress()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>in<sp/>a<sp/>new<sp/>window&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>click<sp/>this<sp/>HYPERLINK<sp/>field<sp/>in<sp/>Microsoft<sp/>Word,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>it<sp/>will<sp/>open<sp/>the<sp/>linked<sp/>document,<sp/>and<sp/>automatically<sp/>scroll<sp/>down<sp/>to<sp/>the<sp/>specified<sp/>iframe.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldHyperlink&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca9b82936be64568478515e63821413371" kindref="member" tooltip="Specifies the HYPERLINK field.">FieldType::FieldHyperlink</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_Address(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Iframes.html&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScreenTip(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Open<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>field-&gt;get_Address());</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_Target(u</highlight><highlight class="stringliteral">&quot;iframe_3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_OpenInNewWindow(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_IsImageMap(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.HYPERLINK.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="195" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1aa0ed84bf806a324c599063a7bffed5d1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldHyperlink::get_Target</definition>
+        <argsstring>()</argsstring>
+        <name>get_Target</name>
+        <qualifiedname>Aspose::Words::Fields::FieldHyperlink::get_Target</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the target to which the link should be redirected. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use HYPERLINK fields to link to documents in the local file system. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldHyperlink&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca9b82936be64568478515e63821413371" kindref="member" tooltip="Specifies the HYPERLINK field.">FieldType::FieldHyperlink</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>click<sp/>this<sp/>HYPERLINK<sp/>field<sp/>in<sp/>Microsoft<sp/>Word,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>it<sp/>will<sp/>open<sp/>the<sp/>linked<sp/>document<sp/>and<sp/>then<sp/>place<sp/>the<sp/>cursor<sp/>at<sp/>the<sp/>specified<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_Address(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Bookmarks.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SubAddress(u</highlight><highlight class="stringliteral">&quot;MyBookmark3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScreenTip(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Open<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>field-&gt;get_Address()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>on<sp/>bookmark<sp/>&quot;</highlight><highlight class="normal"><sp/>+<sp/>field-&gt;get_SubAddress()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>in<sp/>a<sp/>new<sp/>window&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>click<sp/>this<sp/>HYPERLINK<sp/>field<sp/>in<sp/>Microsoft<sp/>Word,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>it<sp/>will<sp/>open<sp/>the<sp/>linked<sp/>document,<sp/>and<sp/>automatically<sp/>scroll<sp/>down<sp/>to<sp/>the<sp/>specified<sp/>iframe.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldHyperlink&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca9b82936be64568478515e63821413371" kindref="member" tooltip="Specifies the HYPERLINK field.">FieldType::FieldHyperlink</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_Address(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Iframes.html&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScreenTip(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Open<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>field-&gt;get_Address());</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_Target(u</highlight><highlight class="stringliteral">&quot;iframe_3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_OpenInNewWindow(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_IsImageMap(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.HYPERLINK.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="123" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a83e38ab7b4784b87c90bdb4ce33843b8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldHyperlink::set_Address</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Address</name>
+        <qualifiedname>Aspose::Words::Fields::FieldHyperlink::set_Address</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a0da3cc53e3234da527e860141238f1fb" kindref="member">Aspose::Words::Fields::FieldHyperlink::get_Address</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="162" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1ad85d96f4252514c3dd2e6ebe3b34f8f1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldHyperlink::set_IsImageMap</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_IsImageMap</name>
+        <qualifiedname>Aspose::Words::Fields::FieldHyperlink::set_IsImageMap</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1ae6810cc1cecc80d6ab21f7270147d886" kindref="member">Aspose::Words::Fields::FieldHyperlink::get_IsImageMap</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="234" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a0441caea5877d37126c986c9e12fc105" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldHyperlink::set_OpenInNewWindow</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_OpenInNewWindow</name>
+        <qualifiedname>Aspose::Words::Fields::FieldHyperlink::set_OpenInNewWindow</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a696bcee74bc510f9f284ca70cc74b476" kindref="member">Aspose::Words::Fields::FieldHyperlink::get_OpenInNewWindow</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="270" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a3a65e3bbadafcccb26620c3b55654688" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldHyperlink::set_ScreenTip</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ScreenTip</name>
+        <qualifiedname>Aspose::Words::Fields::FieldHyperlink::set_ScreenTip</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1ac20fe09ab02cdcdd704a9a5322797330" kindref="member">Aspose::Words::Fields::FieldHyperlink::get_ScreenTip</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="306" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1ab3490248eadad5a93162205ecbad4866" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldHyperlink::set_SubAddress</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_SubAddress</name>
+        <qualifiedname>Aspose::Words::Fields::FieldHyperlink::set_SubAddress</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1ab1a5d9a2a181c437dc42c785a4c2b8bc" kindref="member">Aspose::Words::Fields::FieldHyperlink::get_SubAddress</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="198" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a99f6991c8ccb5c0133d8d09ace7df649" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldHyperlink::set_Target</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Target</name>
+        <qualifiedname>Aspose::Words::Fields::FieldHyperlink::set_Target</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1aa0ed84bf806a324c599063a7bffed5d1" kindref="member">Aspose::Words::Fields::FieldHyperlink::get_Target</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="126" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implements the HYPERLINK field. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use HYPERLINK fields to link to documents in the local file system. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldHyperlink&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca9b82936be64568478515e63821413371" kindref="member" tooltip="Specifies the HYPERLINK field.">FieldType::FieldHyperlink</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>click<sp/>this<sp/>HYPERLINK<sp/>field<sp/>in<sp/>Microsoft<sp/>Word,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>it<sp/>will<sp/>open<sp/>the<sp/>linked<sp/>document<sp/>and<sp/>then<sp/>place<sp/>the<sp/>cursor<sp/>at<sp/>the<sp/>specified<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_Address(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Bookmarks.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SubAddress(u</highlight><highlight class="stringliteral">&quot;MyBookmark3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScreenTip(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Open<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>field-&gt;get_Address()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>on<sp/>bookmark<sp/>&quot;</highlight><highlight class="normal"><sp/>+<sp/>field-&gt;get_SubAddress()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>in<sp/>a<sp/>new<sp/>window&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>click<sp/>this<sp/>HYPERLINK<sp/>field<sp/>in<sp/>Microsoft<sp/>Word,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>it<sp/>will<sp/>open<sp/>the<sp/>linked<sp/>document,<sp/>and<sp/>automatically<sp/>scroll<sp/>down<sp/>to<sp/>the<sp/>specified<sp/>iframe.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldHyperlink&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca9b82936be64568478515e63821413371" kindref="member" tooltip="Specifies the HYPERLINK field.">FieldType::FieldHyperlink</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_Address(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Iframes.html&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScreenTip(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Open<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>field-&gt;get_Address());</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_Target(u</highlight><highlight class="stringliteral">&quot;iframe_3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_OpenInNewWindow(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_IsImageMap(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.HYPERLINK.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldHyperlink</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="5">
+        <label>Aspose::Words::Fields::IFieldResultFormatProvider</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldHyperlink</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="5">
+        <label>Aspose::Words::Fields::IFieldResultFormatProvider</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/FieldHyperlink.h" line="78" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldHyperlink.h" bodystart="79" bodyend="324"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a0db0b217d325912eb2b57361c17ee266" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a51d9af612176a421ff65e7569b3253a8" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a7fa3eba4a6a3e163cb9c03cc11d38588" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>BaseType2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a66f1b03f4311aa3af6579050dcede52b" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>BeforeUnlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a0da3cc53e3234da527e860141238f1fb" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>get_Address</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a5c2d01019c517ea8098f296903e37a34" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>get_DisplayResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad5f0995c85cce833806e847cf25809b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a399c14463916724cac0015b430175589" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>get_FieldEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abc40cddc1325f7fec80d8530e5287448" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>get_FieldStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a090c5d09915e2ead6cc54fda736dd7c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>get_Format</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ae68851d4a88a1fc867d3ddee2e4e88c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>get_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1ae6810cc1cecc80d6ab21f7270147d886" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>get_IsImageMap</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afda4c46db80761545c89e21aae5b717d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>get_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a93719d071099487b6aea1eaa241dd6e8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>get_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a696bcee74bc510f9f284ca70cc74b476" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>get_OpenInNewWindow</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a012c93472901dc077815970a9b2ab650" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>get_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1ac20fe09ab02cdcdd704a9a5322797330" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>get_ScreenTip</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abbc83ad66d5fb391a21980126ea96847" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>get_Separator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afa7cd5d4cf1a87b05058982f26786456" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1ab1a5d9a2a181c437dc42c785a4c2b8bc" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>get_SubAddress</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1aa0ed84bf806a324c599063a7bffed5d1" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>get_Target</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad68196653db5cfca30c1ba18ed44c76e" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa40bc0e4a5be11f0df785cc8bb2ff042" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a05444fd6a41c5a61f23fc55683ad7587" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>GetFormatApplier</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1ae1f52e5d3e2c7ef1cb359bc4e1f6150c" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>GetSourceNode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1aee65f0c967da39a080b3ab6ac4bbcb02" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>GetSwitchType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a5c51e5c5391acf1ef177c1e28f1a8f46" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>NeedStoreOldResultNodes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad26a8021af3dbdc5bf0a1360a201222f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a7c5718917ab62a747305f2c357d45fbd" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a83e38ab7b4784b87c90bdb4ce33843b8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>set_Address</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa637d825865724665fb8ed856e664d95" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>set_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1ad85d96f4252514c3dd2e6ebe3b34f8f1" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>set_IsImageMap</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ac70b125adbe7f0ba5b889280cd282c47" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>set_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a165f748dd5ba33844f1d765f6c710f88" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>set_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a0441caea5877d37126c986c9e12fc105" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>set_OpenInNewWindow</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa6af1e900c84ae806f071098dfe8f087" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>set_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a3a65e3bbadafcccb26620c3b55654688" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>set_ScreenTip</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1ab3490248eadad5a93162205ecbad4866" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>set_SubAddress</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a99f6991c8ccb5c0133d8d09ace7df649" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>set_Target</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1ad7c09253b93259177c4b8b7e2aeb9822" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1a3f3ab563ad8fdc2126a34971018b6cb8" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab9f908becb16b26bed76d58dbcee9929" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>Unlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aaec82418b2b6493aa2827b8e282b2e82" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a1298d7daa07c863bf97cb3f37a4d7a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1ac22ff9595c5864c98a949b4becc57cff" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>UpdateCore</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink_1aa721d44171b18b97873070d873b3bb2b" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldHyperlink</scope><name>~FieldHyperlink</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

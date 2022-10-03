@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="namespace_aspose_1_1_words_1_1_vba" kind="namespace" language="C++">
+    <compoundname>Aspose::Words::Vba</compoundname>
+    <innerclass refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module" prot="public">Aspose::Words::Vba::VbaModule</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module_collection" prot="public">Aspose::Words::Vba::VbaModuleCollection</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_vba_1_1_vba_project" prot="public">Aspose::Words::Vba::VbaProject</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_vba_1_1_vba_reference" prot="public">Aspose::Words::Vba::VbaReference</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_vba_1_1_vba_reference_collection" prot="public">Aspose::Words::Vba::VbaReferenceCollection</innerclass>
+      <sectiondef kind="enum">
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_vba_1afd5ebcd4b503fc52ecfef9f34d8e83a2" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>VbaModuleType</name>
+        <qualifiedname>Aspose::Words::Vba::VbaModuleType</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_vba_1afd5ebcd4b503fc52ecfef9f34d8e83a2a23f3f7542935d39a117277778176f53f" prot="public">
+          <name>DocumentModule</name>
+          <briefdescription>
+<para>A type of VBA project item that specifies a module for embedded macros and programmatic access operations that are associated with a document. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_vba_1afd5ebcd4b503fc52ecfef9f34d8e83a2a668d9e381c208001dc3a36fabb5866ad" prot="public">
+          <name>ProceduralModule</name>
+          <briefdescription>
+<para>A collection of subroutines and functions. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_vba_1afd5ebcd4b503fc52ecfef9f34d8e83a2a4f70b2e15728392df081926baad669d0" prot="public">
+          <name>ClassModule</name>
+          <briefdescription>
+<para>A module that contains the definition for a new object. Each instance of a class creates a new object, and procedures that are defined in the module become properties and methods of the object. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_vba_1afd5ebcd4b503fc52ecfef9f34d8e83a2ae0894c3052e04794b8ca7a9a1f6f35cf" prot="public">
+          <name>DesignerModule</name>
+          <briefdescription>
+<para>A VBA module that extends the methods and properties of an ActiveX control that has been registered with the project. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies the type of a model in a VBA project. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create a VBA project using macros. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>new<sp/>VBA<sp/>project.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>project<sp/>=<sp/>MakeObject&lt;VbaProject&gt;();</highlight></codeline>
+<codeline><highlight class="normal">project-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Aspose.Project&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_VbaProject(project);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>new<sp/>module<sp/>and<sp/>specify<sp/>a<sp/>macro<sp/>source<sp/>code.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>module_<sp/>=<sp/>MakeObject&lt;VbaModule&gt;();</highlight></codeline>
+<codeline><highlight class="normal">module_-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Aspose.Module&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">module_-&gt;set_Type(<ref refid="namespace_aspose_1_1_words_1_1_vba_1afd5ebcd4b503fc52ecfef9f34d8e83a2a668d9e381c208001dc3a36fabb5866ad" kindref="member" tooltip="A collection of subroutines and functions.">VbaModuleType::ProceduralModule</ref>);</highlight></codeline>
+<codeline><highlight class="normal">module_-&gt;set_SourceCode(u</highlight><highlight class="stringliteral">&quot;New<sp/>source<sp/>code&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>the<sp/>module<sp/>to<sp/>the<sp/>VBA<sp/>project.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_VbaProject()-&gt;get_Modules()-&gt;Add(module_);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;VbaProject.CreateVBAMacros.docm&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Vba/VbaModuleType.h" line="46" column="1" bodyfile="Aspose.Words.Cpp/Vba/VbaModuleType.h" bodystart="47" bodyend="62"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_vba_1add56617cb0566390d949c23b67ad0d60" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>VbaReferenceType</name>
+        <qualifiedname>Aspose::Words::Vba::VbaReferenceType</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_vba_1add56617cb0566390d949c23b67ad0d60a6205cf9436aee7ccb42779ac5e69bd3f" prot="public">
+          <name>Registered</name>
+          <initializer>= 0x0d</initializer>
+          <briefdescription>
+<para>Specifies an Automation type library reference type. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_vba_1add56617cb0566390d949c23b67ad0d60a9e727fdd3aec8274f46685441900280d" prot="public">
+          <name>Project</name>
+          <initializer>= 0x0e</initializer>
+          <briefdescription>
+<para>Specified an external VBA project reference type. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_vba_1add56617cb0566390d949c23b67ad0d60a0a52da7a03a6de3beefe54f8c03ad80d" prot="public">
+          <name>Original</name>
+          <initializer>= 0x33</initializer>
+          <briefdescription>
+<para>Specifies an original Automation type library reference type. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_vba_1add56617cb0566390d949c23b67ad0d60aa1595abbb4c3a326636dd178757cd6c1" prot="public">
+          <name>Control</name>
+          <initializer>= 0x2f</initializer>
+          <briefdescription>
+<para>Specifies a twiddled type library reference type. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Allows to specify the type of a <ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_reference" kindref="compound">VbaReference</ref> object. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to get/remove an element from the VBA reference collection. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>RemoveVbaReference()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/>String<sp/>brokenPath<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;X:\\broken.dll&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;VBA<sp/>project.docm&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;VbaReferenceCollection&gt;<sp/>references<sp/>=<sp/>doc-&gt;get_VbaProject()-&gt;get_References();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(5,<sp/>references-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>references-&gt;get_Count()<sp/>-<sp/>1;<sp/>i<sp/>&gt;=<sp/>0;<sp/>i--)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;VbaReference&gt;<sp/>reference<sp/>=<sp/>doc-&gt;get_VbaProject()-&gt;get_References()-&gt;idx_get(i);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String<sp/>path<sp/>=<sp/>GetLibIdPath(reference);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(path<sp/>==<sp/>brokenPath)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>references-&gt;RemoveAt(i);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(4,<sp/>references-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>references-&gt;Remove(references-&gt;idx_get(1));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(3,<sp/>references-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;VbaProject.RemoveVbaReference.docm&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/>String<sp/>GetLibIdPath(SharedPtr&lt;VbaReference&gt;<sp/>reference)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(reference-&gt;get_Type())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_vba_1add56617cb0566390d949c23b67ad0d60a6205cf9436aee7ccb42779ac5e69bd3f" kindref="member" tooltip="Specifies an Automation type library reference type.">VbaReferenceType::Registered</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_vba_1add56617cb0566390d949c23b67ad0d60a0a52da7a03a6de3beefe54f8c03ad80d" kindref="member" tooltip="Specifies an original Automation type library reference type.">VbaReferenceType::Original</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_vba_1add56617cb0566390d949c23b67ad0d60aa1595abbb4c3a326636dd178757cd6c1" kindref="member" tooltip="Specifies a twiddled type library reference type.">VbaReferenceType::Control</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>GetLibIdReferencePath(reference-&gt;get_LibId());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_vba_1add56617cb0566390d949c23b67ad0d60a9e727fdd3aec8274f46685441900280d" kindref="member" tooltip="Specified an external VBA project reference type.">VbaReferenceType::Project</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>GetLibIdProjectPath(reference-&gt;get_LibId());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">default</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">throw</highlight><highlight class="normal"><sp/>System::ArgumentOutOfRangeException();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>GetLibIdReferencePath(String<sp/>libIdReference)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(libIdReference<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ArrayPtr&lt;String&gt;<sp/>refParts<sp/>=<sp/>libIdReference.Split(MakeArray&lt;char16_t&gt;({u</highlight><highlight class="charliteral">&apos;#&apos;</highlight><highlight class="normal">}));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(refParts-&gt;get_Length()<sp/>&gt;<sp/>3)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>refParts[3];</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>u</highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>GetLibIdProjectPath(String<sp/>libIdProject)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>libIdProject<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal"><sp/>?<sp/>libIdProject.Substring(3)<sp/>:<sp/>u</highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Vba/VbaReferenceType.h" line="99" column="1" bodyfile="Aspose.Words.Cpp/Vba/VbaReferenceType.h" bodystart="100" bodyend="113"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>The <bold>Aspose.Words.Vba</bold> namespace provides classes to work with VBA projects. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>A <ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_project" kindref="compound">VbaProject</ref> inside the document is defined as a collection of <ref refid="class_aspose_1_1_words_1_1_vba_1_1_vba_module" kindref="compound">VbaModule</ref>. </para>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/Document.h" line="157" column="1"/>
+  </compounddef>
+</doxygen>

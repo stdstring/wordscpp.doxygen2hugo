@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="_layout_options_8h" kind="file" language="C++">
+    <compoundname>LayoutOptions.h</compoundname>
+    <includes local="no">system/object.h</includes>
+    <includes refid="_continuous_section_restart_8h" local="no">Aspose.Words.Cpp/Layout/ContinuousSectionRestart.h</includes>
+    <includes refid="_comment_display_mode_8h" local="no">Aspose.Words.Cpp/Layout/CommentDisplayMode.h</includes>
+    <includes refid="aspose__words__api__defs_8h" local="no">Aspose.Words.Cpp/aspose_words_api_defs.h</includes>
+    <includedby refid="_public_2_layout_options_8h" local="no">Aspose.Words.Cpp/Layout/Public/LayoutOptions.h</includedby>
+    <incdepgraph>
+      <node id="7">
+        <label>Aspose.Words.Cpp/Layout/CommentDisplayMode.h</label>
+        <link refid="_comment_display_mode_8h_source"/>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>Aspose.Words.Cpp/Layout/ContinuousSectionRestart.h</label>
+        <link refid="_continuous_section_restart_8h_source"/>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose.Words.Cpp/Layout/LayoutOptions.h</label>
+        <link refid="_layout_options_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>Aspose.Words.Cpp/aspose_words_api_defs.h</label>
+        <link refid="aspose__words__api__defs_8h_source"/>
+      </node>
+      <node id="5">
+        <label>system/enum.h</label>
+      </node>
+      <node id="2">
+        <label>system/object.h</label>
+      </node>
+      <node id="4">
+        <label>system/object_ext.h</label>
+      </node>
+    </incdepgraph>
+    <invincdepgraph>
+      <node id="1">
+        <label>Aspose.Words.Cpp/Layout/LayoutOptions.h</label>
+        <link refid="_layout_options_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose.Words.Cpp/Layout/Public/LayoutOptions.h</label>
+        <link refid="_public_2_layout_options_8h_source"/>
+      </node>
+    </invincdepgraph>
+    <innerclass refid="class_aspose_1_1_words_1_1_layout_1_1_layout_options" prot="public">Aspose::Words::Layout::LayoutOptions</innerclass>
+    <innernamespace refid="namespace_aspose">Aspose</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words">Aspose::Words</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words_1_1_layout">Aspose::Words::Layout</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words_1_1_shaping">Aspose::Words::Shaping</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/Layout/LayoutOptions.h"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="namespace_aspose_1_1_words_1_1_properties" kind="namespace" language="C++">
+    <compoundname>Aspose::Words::Properties</compoundname>
+    <innerclass refid="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties" prot="public">Aspose::Words::Properties::BuiltInDocumentProperties</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_properties_1_1_custom_document_properties" prot="public">Aspose::Words::Properties::CustomDocumentProperties</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_properties_1_1_document_property" prot="public">Aspose::Words::Properties::DocumentProperty</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_collection" prot="public">Aspose::Words::Properties::DocumentPropertyCollection</innerclass>
+      <sectiondef kind="enum">
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_properties_1aaa14731ef0c14bf07a89f9d1cd62f31d" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>DocumentSecurity</name>
+        <qualifiedname>Aspose::Words::Properties::DocumentSecurity</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_properties_1aaa14731ef0c14bf07a89f9d1cd62f31da6adf97f83acf6453d4a6a4b1070f3754" prot="public">
+          <name>None</name>
+          <initializer>= 0x0000</initializer>
+          <briefdescription>
+<para>There are no security states specified by the property. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_properties_1aaa14731ef0c14bf07a89f9d1cd62f31da3fbbd361e945bdc08ec049887395ec1c" prot="public">
+          <name>PasswordProtected</name>
+          <initializer>= 0x0001</initializer>
+          <briefdescription>
+<para>The document is password protected. (Note has never been seen in a document so far). </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_properties_1aaa14731ef0c14bf07a89f9d1cd62f31daa00e619642c7c4cff8bd199c09377bc1" prot="public">
+          <name>ReadOnlyRecommended</name>
+          <initializer>= 0x0002</initializer>
+          <briefdescription>
+<para>The document to be opened read-only if possible, but the setting can be overridden. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_properties_1aaa14731ef0c14bf07a89f9d1cd62f31dae48c24fea2a23ae4950e496fe8450d7b" prot="public">
+          <name>ReadOnlyEnforced</name>
+          <initializer>= 0x0004</initializer>
+          <briefdescription>
+<para>The document to always be opened read-only. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_properties_1aaa14731ef0c14bf07a89f9d1cd62f31da218986b303dfbb4c2967b5f3668699f9" prot="public">
+          <name>ReadOnlyExceptAnnotations</name>
+          <initializer>= 0x0008</initializer>
+          <briefdescription>
+<para>The document to always be opened read-only except for annotations. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Used as a value for the <ref refid="class_aspose_1_1_words_1_1_properties_1_1_built_in_document_properties_1a815b4b87727ee7d49c07a540ce93799b" kindref="member">Security</ref> property. Specifies the security level of a document as a numeric value. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use document properties to display the security level of a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1aaa14731ef0c14bf07a89f9d1cd62f31da6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="There are no security states specified by the property.">DocumentSecurity::None</ref>,<sp/>doc-&gt;get_BuiltInDocumentProperties()-&gt;get_Security());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>configure<sp/>a<sp/>document<sp/>to<sp/>be<sp/>read-only,<sp/>it<sp/>will<sp/>display<sp/>this<sp/>status<sp/>using<sp/>the<sp/>&quot;Security&quot;<sp/>built-in<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_WriteProtection()-&gt;set_ReadOnlyRecommended(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Security.ReadOnlyRecommended.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1aaa14731ef0c14bf07a89f9d1cd62f31daa00e619642c7c4cff8bd199c09377bc1" kindref="member" tooltip="The document to be opened read-only if possible, but the setting can be overridden.">DocumentSecurity::ReadOnlyRecommended</ref>,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Security.ReadOnlyRecommended.docx&quot;</highlight><highlight class="normal">)-&gt;get_BuiltInDocumentProperties()-&gt;get_Security());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Write-protect<sp/>a<sp/>document,<sp/>and<sp/>then<sp/>verify<sp/>its<sp/>security<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(doc-&gt;get_WriteProtection()-&gt;get_IsWriteProtected());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_WriteProtection()-&gt;SetPassword(u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_WriteProtection()-&gt;ValidatePassword(u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_WriteProtection()-&gt;get_IsWriteProtected());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Security.ReadOnlyEnforced.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1aaa14731ef0c14bf07a89f9d1cd62f31dae48c24fea2a23ae4950e496fe8450d7b" kindref="member" tooltip="The document to always be opened read-only.">DocumentSecurity::ReadOnlyEnforced</ref>,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Security.ReadOnlyEnforced.docx&quot;</highlight><highlight class="normal">)-&gt;get_BuiltInDocumentProperties()-&gt;get_Security());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;Security&quot;<sp/>is<sp/>a<sp/>descriptive<sp/>property.<sp/>We<sp/>can<sp/>edit<sp/>its<sp/>value<sp/>manually.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Protect(<ref refid="namespace_aspose_1_1_words_1a4b3be683cf728f992b0c78c0ce8acd60a9fb9e86c065a009c0661c3a0503d16b9" kindref="member" tooltip="User can only modify comments in the document.">ProtectionType::AllowOnlyComments</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_BuiltInDocumentProperties()-&gt;set_Security(<ref refid="namespace_aspose_1_1_words_1_1_properties_1aaa14731ef0c14bf07a89f9d1cd62f31da218986b303dfbb4c2967b5f3668699f9" kindref="member" tooltip="The document to always be opened read-only except for annotations.">DocumentSecurity::ReadOnlyExceptAnnotations</ref>);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Security.ReadOnlyExceptAnnotations.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1aaa14731ef0c14bf07a89f9d1cd62f31da218986b303dfbb4c2967b5f3668699f9" kindref="member" tooltip="The document to always be opened read-only except for annotations.">DocumentSecurity::ReadOnlyExceptAnnotations</ref>,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Security.ReadOnlyExceptAnnotations.docx&quot;</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;get_BuiltInDocumentProperties()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;get_Security());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Properties/DocumentSecurity.h" line="69" column="1" bodyfile="Aspose.Words.Cpp/Properties/DocumentSecurity.h" bodystart="70" bodyend="86"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>PropertyType</name>
+        <qualifiedname>Aspose::Words::Properties::PropertyType</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27226c864bac7454a8504f8edb15d95b" prot="public">
+          <name>Boolean</name>
+          <briefdescription>
+<para>The property is a boolean value. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a8cf10d2341ed01492506085688270c1e" prot="public">
+          <name>DateTime</name>
+          <briefdescription>
+<para>The property is a date time value. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108ad909d38d705ce75386dd86e611a82f5b" prot="public">
+          <name>Double</name>
+          <briefdescription>
+<para>The property is a floating number. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108ab2ee912b91d69b435159c7c3f6df7f5f" prot="public">
+          <name>Number</name>
+          <briefdescription>
+<para>The property is an integer number. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" prot="public">
+          <name>String</name>
+          <briefdescription>
+<para>The property is a string value. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a8647c824cc337c0245db15728e32ec3d" prot="public">
+          <name>StringArray</name>
+          <briefdescription>
+<para>The property is an array of strings. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108aee219de6a043fc9d26cb89af7a20d4a1" prot="public">
+          <name>ObjectArray</name>
+          <briefdescription>
+<para>The property is an array of objects. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a29d83f0080e24c1f4b3975dc9ff9e868" prot="public">
+          <name>ByteArray</name>
+          <briefdescription>
+<para>The property is an array of bytes. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a6311ae17c1ee52b36e68aaf4ad066387" prot="public">
+          <name>Other</name>
+          <briefdescription>
+<para>The property is some other type. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies data type of a document property. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property" kindref="compound">Aspose::Words::Properties::DocumentProperty</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_1ab947996e0d79548e6afe4f0e8a9f5b49" kindref="member">Aspose::Words::Properties::DocumentProperty::get_Type</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with a document&apos;s custom properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomDocumentProperties&gt;<sp/>properties<sp/>=<sp/>doc-&gt;get_CustomDocumentProperties();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>properties-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Custom<sp/>document<sp/>properties<sp/>are<sp/>key-value<sp/>pairs<sp/>that<sp/>we<sp/>can<sp/>add<sp/>to<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>By&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Date&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1a8b4667cfa17e4aff117188fee6dbd7ed" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Today</ref>());</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Revision&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_BuiltInDocumentProperties()-&gt;get_RevisionNumber());</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Amount&quot;</highlight><highlight class="normal">,<sp/>123.45);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>collection<sp/>sorts<sp/>the<sp/>custom<sp/>properties<sp/>in<sp/>alphabetic<sp/>order.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>properties-&gt;IndexOf(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Amount&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>properties-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Print<sp/>every<sp/>custom<sp/>property<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;DocumentProperty&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>properties-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;Name:<sp/>\&quot;{0}\&quot;\n\tType:<sp/>\&quot;{1}\&quot;\n\tValue:<sp/>\&quot;{2}\&quot;&quot;</highlight><highlight class="normal">,<sp/>enumerator-&gt;get_Current()-&gt;get_Name(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>enumerator-&gt;get_Current()-&gt;get_Type(),<sp/>enumerator-&gt;get_Current()-&gt;get_Value())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Display<sp/>the<sp/>value<sp/>of<sp/>a<sp/>custom<sp/>property<sp/>using<sp/>a<sp/>DOCPROPERTY<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldDocProperty&gt;(builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>DOCPROPERTY<sp/>\&quot;Authorized<sp/>By\&quot;&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>find<sp/>these<sp/>custom<sp/>properties<sp/>in<sp/>Microsoft<sp/>Word<sp/>via<sp/>&quot;File&quot;<sp/>-&gt;<sp/>&quot;Properties&quot;<sp/>&gt;<sp/>&quot;Advanced<sp/>Properties&quot;<sp/>&gt;<sp/>&quot;Custom&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.DocumentPropertyCollection.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>ways<sp/>or<sp/>removing<sp/>custom<sp/>properties<sp/>from<sp/>a<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Remove<sp/>by<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;RemoveAt(1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(properties-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Amount&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>properties-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Remove<sp/>by<sp/>name:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Revision&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(properties-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Revision&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>properties-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Empty<sp/>the<sp/>entire<sp/>collection<sp/>at<sp/>once:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>properties-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Properties/PropertyType.h" line="86" column="1" bodyfile="Aspose.Words.Cpp/Properties/PropertyType.h" bodystart="87" bodyend="115"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>The <bold>Aspose.Words.Properties</bold> namespace provides classes to work with custom and built-in document properties such as title, keywords, company etc. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/Document.h" line="114" column="1"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fonts_1_1_default_font_substitution_rule" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fonts::DefaultFontSubstitutionRule</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_substitution_rule" prot="public" virt="non-virtual">Aspose::Words::Fonts::FontSubstitutionRule</basecompoundref>
+    <includes refid="_default_font_substitution_rule_8h" local="no">Aspose.Words.Cpp/Fonts/DefaultFontSubstitutionRule.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_default_font_substitution_rule_1a3f98a83781a95f30b39679cc1b6875ba" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_substitution_rule" kindref="compound">Aspose::Words::Fonts::FontSubstitutionRule</ref></type>
+        <definition>typedef Aspose::Words::Fonts::FontSubstitutionRule Aspose::Words::Fonts::DefaultFontSubstitutionRule::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fonts::DefaultFontSubstitutionRule::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/DefaultFontSubstitutionRule.h" line="81" column="56" bodyfile="Aspose.Words.Cpp/Fonts/DefaultFontSubstitutionRule.h" bodystart="81" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_default_font_substitution_rule_1ae15ad7e99004ff84f3032d92e6597011" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_default_font_substitution_rule" kindref="compound">DefaultFontSubstitutionRule</ref></type>
+        <definition>typedef DefaultFontSubstitutionRule Aspose::Words::Fonts::DefaultFontSubstitutionRule::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fonts::DefaultFontSubstitutionRule::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/DefaultFontSubstitutionRule.h" line="80" column="41" bodyfile="Aspose.Words.Cpp/Fonts/DefaultFontSubstitutionRule.h" bodystart="80" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_default_font_substitution_rule_1a806902ab46e97c8f07dcca7d163d5922" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_substitution_rule" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Fonts::DefaultFontSubstitutionRule::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fonts::DefaultFontSubstitutionRule::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/DefaultFontSubstitutionRule.h" line="83" column="37" bodyfile="Aspose.Words.Cpp/Fonts/DefaultFontSubstitutionRule.h" bodystart="83" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_default_font_substitution_rule_1aecdfefbfc76d1bcaed01a99f0769d700" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fonts::DefaultFontSubstitutionRule::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Fonts::DefaultFontSubstitutionRule::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/DefaultFontSubstitutionRule.h" line="156" column="20" bodyfile="Aspose.Words.Cpp/Fonts/DefaultFontSubstitutionRule.h" bodystart="156" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_default_font_substitution_rule_1aa37fd36a685b4168a3dda555ee55cf60" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Fonts::TrueType::TTFont &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Fonts::TrueType::TTFont &gt; Aspose::Words::Fonts::DefaultFontSubstitutionRule::PerformSubstitutionCore</definition>
+        <argsstring>(System::String, System::Drawing::FontStyle, System::SharedPtr&lt; Aspose::Words::Fonts::FontInfo &gt;, System::SharedPtr&lt; Aspose::Fonts::ExternalFontCache &gt;) override</argsstring>
+        <name>PerformSubstitutionCore</name>
+        <qualifiedname>Aspose::Words::Fonts::DefaultFontSubstitutionRule::PerformSubstitutionCore</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fonts_1_1_font_substitution_rule_1a1860414de7d12eb748717230738b1472">PerformSubstitutionCore</reimplements>
+        <param>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        </param>
+        <param>
+          <type><ref refid="namespace/system.drawing/_1a6c1fe3c1830d158116f3729801cd7b49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::FontStyle</ref></type>
+        </param>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info" kindref="compound">Aspose::Words::Fonts::FontInfo</ref> &gt;</type>
+        </param>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Fonts::ExternalFontCache &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/DefaultFontSubstitutionRule.h" line="152" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_default_font_substitution_rule_1a61ab66ac725d7fd8787d62af85bcea91" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fonts::DefaultFontSubstitutionRule::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fonts::DefaultFontSubstitutionRule::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/DefaultFontSubstitutionRule.h" line="84" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_default_font_substitution_rule_1affd97596e9f274a25b84126fbd7b37ec" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fonts::DefaultFontSubstitutionRule::get_DefaultFontName</definition>
+        <argsstring>()</argsstring>
+        <name>get_DefaultFontName</name>
+        <qualifiedname>Aspose::Words::Fonts::DefaultFontSubstitutionRule::get_DefaultFontName</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the default font name. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The default value is &apos;Times New Roman&apos;.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to specify a default font. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arvo&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;The<sp/>quick<sp/>brown<sp/>fox<sp/>jumps<sp/>over<sp/>the<sp/>lazy<sp/>dog.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;FontSourceBase&gt;&gt;<sp/>fontSources<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;GetFontsSources();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>font<sp/>sources<sp/>that<sp/>the<sp/>document<sp/>uses<sp/>contain<sp/>the<sp/>font<sp/>&quot;Arial&quot;,<sp/>but<sp/>not<sp/>&quot;Arvo&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>fontSources-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(fontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(fontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Arvo&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;DefaultFontName&quot;<sp/>property<sp/>to<sp/>&quot;Courier<sp/>New&quot;<sp/>to,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>while<sp/>rendering<sp/>the<sp/>document,<sp/>apply<sp/>that<sp/>font<sp/>in<sp/>all<sp/>cases<sp/>when<sp/>another<sp/>font<sp/>is<sp/>not<sp/>available.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;get_SubstitutionSettings()-&gt;get_DefaultFontSubstitution()-&gt;set_DefaultFontName(u</highlight><highlight class="stringliteral">&quot;Courier<sp/>New&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(fontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Courier<sp/>New&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Aspose.Words<sp/>will<sp/>now<sp/>use<sp/>the<sp/>default<sp/>font<sp/>in<sp/>place<sp/>of<sp/>any<sp/>missing<sp/>fonts<sp/>during<sp/>any<sp/>rendering<sp/>calls.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.DefaultFontName.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to set the default font substitution rule. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>default<sp/>substitution<sp/>rule<sp/>within<sp/>FontSettings.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>rule<sp/>will<sp/>substitute<sp/>all<sp/>missing<sp/>fonts<sp/>with<sp/>&quot;Times<sp/>New<sp/>Roman&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;DefaultFontSubstitutionRule&gt;<sp/>defaultFontSubstitutionRule<sp/>=<sp/>fontSettings-&gt;get_SubstitutionSettings()-&gt;get_DefaultFontSubstitution();</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(defaultFontSubstitutionRule-&gt;get_Enabled());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">,<sp/>defaultFontSubstitutionRule-&gt;get_DefaultFontName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>default<sp/>font<sp/>substitute<sp/>to<sp/>&quot;Courier<sp/>New&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">defaultFontSubstitutionRule-&gt;set_DefaultFontName(u</highlight><highlight class="stringliteral">&quot;Courier<sp/>New&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Using<sp/>a<sp/>document<sp/>builder,<sp/>add<sp/>some<sp/>text<sp/>in<sp/>a<sp/>font<sp/>that<sp/>we<sp/>do<sp/>not<sp/>have<sp/>to<sp/>see<sp/>the<sp/>substitution<sp/>take<sp/>place,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>render<sp/>the<sp/>result<sp/>in<sp/>a<sp/>PDF.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Missing<sp/>Font&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Line<sp/>written<sp/>in<sp/>a<sp/>missing<sp/>font,<sp/>which<sp/>will<sp/>be<sp/>substituted<sp/>with<sp/>Courier<sp/>New.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.DefaultFontSubstitutionRule.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/DefaultFontSubstitutionRule.h" line="145" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_default_font_substitution_rule_1a893f2302484b58c9986e3bc217eda6a6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::DefaultFontSubstitutionRule::set_DefaultFontName</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_DefaultFontName</name>
+        <qualifiedname>Aspose::Words::Fonts::DefaultFontSubstitutionRule::set_DefaultFontName</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_default_font_substitution_rule_1affd97596e9f274a25b84126fbd7b37ec" kindref="member">Aspose::Words::Fonts::DefaultFontSubstitutionRule::get_DefaultFontName</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/DefaultFontSubstitutionRule.h" line="148" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Default font substitution rule. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set the default font substitution rule. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>default<sp/>substitution<sp/>rule<sp/>within<sp/>FontSettings.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>rule<sp/>will<sp/>substitute<sp/>all<sp/>missing<sp/>fonts<sp/>with<sp/>&quot;Times<sp/>New<sp/>Roman&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;DefaultFontSubstitutionRule&gt;<sp/>defaultFontSubstitutionRule<sp/>=<sp/>fontSettings-&gt;get_SubstitutionSettings()-&gt;get_DefaultFontSubstitution();</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(defaultFontSubstitutionRule-&gt;get_Enabled());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">,<sp/>defaultFontSubstitutionRule-&gt;get_DefaultFontName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>default<sp/>font<sp/>substitute<sp/>to<sp/>&quot;Courier<sp/>New&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">defaultFontSubstitutionRule-&gt;set_DefaultFontName(u</highlight><highlight class="stringliteral">&quot;Courier<sp/>New&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Using<sp/>a<sp/>document<sp/>builder,<sp/>add<sp/>some<sp/>text<sp/>in<sp/>a<sp/>font<sp/>that<sp/>we<sp/>do<sp/>not<sp/>have<sp/>to<sp/>see<sp/>the<sp/>substitution<sp/>take<sp/>place,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>render<sp/>the<sp/>result<sp/>in<sp/>a<sp/>PDF.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Missing<sp/>Font&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Line<sp/>written<sp/>in<sp/>a<sp/>missing<sp/>font,<sp/>which<sp/>will<sp/>be<sp/>substituted<sp/>with<sp/>Courier<sp/>New.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.DefaultFontSubstitutionRule.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Fonts::DefaultFontSubstitutionRule</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_default_font_substitution_rule"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Fonts::FontSubstitutionRule</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_font_substitution_rule"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Fonts::DefaultFontSubstitutionRule</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_default_font_substitution_rule"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Fonts::FontSubstitutionRule</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_font_substitution_rule"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fonts/DefaultFontSubstitutionRule.h" line="78" column="1" bodyfile="Aspose.Words.Cpp/Fonts/DefaultFontSubstitutionRule.h" bodystart="79" bodyend="158"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_default_font_substitution_rule_1a3f98a83781a95f30b39679cc1b6875ba" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::DefaultFontSubstitutionRule</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_default_font_substitution_rule_1affd97596e9f274a25b84126fbd7b37ec" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::DefaultFontSubstitutionRule</scope><name>get_DefaultFontName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_substitution_rule_1ac19c2d1d1cde9e95cb6ed666bbf5366c" prot="public" virt="virtual"><scope>Aspose::Words::Fonts::DefaultFontSubstitutionRule</scope><name>get_Enabled</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_default_font_substitution_rule_1aecdfefbfc76d1bcaed01a99f0769d700" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::DefaultFontSubstitutionRule</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_default_font_substitution_rule_1aa37fd36a685b4168a3dda555ee55cf60" prot="private" virt="virtual"><scope>Aspose::Words::Fonts::DefaultFontSubstitutionRule</scope><name>PerformSubstitutionCore</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_default_font_substitution_rule_1a61ab66ac725d7fd8787d62af85bcea91" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::DefaultFontSubstitutionRule</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_default_font_substitution_rule_1a893f2302484b58c9986e3bc217eda6a6" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::DefaultFontSubstitutionRule</scope><name>set_DefaultFontName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_substitution_rule_1a6122d5e51e1de88d2430c9db1262105f" prot="public" virt="virtual"><scope>Aspose::Words::Fonts::DefaultFontSubstitutionRule</scope><name>set_Enabled</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_default_font_substitution_rule_1ae15ad7e99004ff84f3032d92e6597011" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::DefaultFontSubstitutionRule</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_default_font_substitution_rule_1a806902ab46e97c8f07dcca7d163d5922" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::DefaultFontSubstitutionRule</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

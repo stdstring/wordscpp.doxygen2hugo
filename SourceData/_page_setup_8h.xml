@@ -1,0 +1,227 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="_page_setup_8h" kind="file" language="C++">
+    <compoundname>PageSetup.h</compoundname>
+    <includes local="no">system/shared_ptr.h</includes>
+    <includes local="no">mutex</includes>
+    <includes local="no">memory</includes>
+    <includes refid="_text_orientation_8h" local="no">Aspose.Words.Cpp/TextOrientation.h</includes>
+    <includes refid="_multiple_pages_type_8h" local="no">Aspose.Words.Cpp/Settings/MultiplePagesType.h</includes>
+    <includes refid="_section_start_8h" local="no">Aspose.Words.Cpp/SectionStart.h</includes>
+    <includes refid="_section_layout_mode_8h" local="no">Aspose.Words.Cpp/SectionLayoutMode.h</includes>
+    <includes refid="_paper_size_8h" local="no">Aspose.Words.Cpp/PaperSize.h</includes>
+    <includes refid="_page_vertical_alignment_8h" local="no">Aspose.Words.Cpp/PageVerticalAlignment.h</includes>
+    <includes refid="_page_border_distance_from_8h" local="no">Aspose.Words.Cpp/PageBorderDistanceFrom.h</includes>
+    <includes refid="_page_border_applies_to_8h" local="no">Aspose.Words.Cpp/PageBorderAppliesTo.h</includes>
+    <includes refid="_orientation_8h" local="no">Aspose.Words.Cpp/Orientation.h</includes>
+    <includes refid="_line_number_restart_mode_8h" local="no">Aspose.Words.Cpp/LineNumberRestartMode.h</includes>
+    <includes refid="_chapter_page_separator_8h" local="no">Aspose.Words.Cpp/ChapterPageSeparator.h</includes>
+    <includes refid="_number_style_8h" local="no">Aspose.Words.Cpp/NumberStyle.h</includes>
+    <includes refid="_i_border_attr_source_8h" local="no">Aspose.Words.Cpp/IBorderAttrSource.h</includes>
+    <includes refid="aspose__words__api__defs_8h" local="no">Aspose.Words.Cpp/aspose_words_api_defs.h</includes>
+    <incdepgraph>
+      <node id="19">
+        <label>Aspose.Words.Cpp/ChapterPageSeparator.h</label>
+        <link refid="_chapter_page_separator_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="21">
+        <label>Aspose.Words.Cpp/IBorderAttrSource.h</label>
+        <link refid="_i_border_attr_source_8h_source"/>
+        <childnode refid="22" relation="include">
+        </childnode>
+        <childnode refid="10" relation="include">
+        </childnode>
+      </node>
+      <node id="18">
+        <label>Aspose.Words.Cpp/LineNumberRestartMode.h</label>
+        <link refid="_line_number_restart_mode_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="20">
+        <label>Aspose.Words.Cpp/NumberStyle.h</label>
+        <link refid="_number_style_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="17">
+        <label>Aspose.Words.Cpp/Orientation.h</label>
+        <link refid="_orientation_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="16">
+        <label>Aspose.Words.Cpp/PageBorderAppliesTo.h</label>
+        <link refid="_page_border_applies_to_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="15">
+        <label>Aspose.Words.Cpp/PageBorderDistanceFrom.h</label>
+        <link refid="_page_border_distance_from_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose.Words.Cpp/PageSetup.h</label>
+        <link refid="_page_setup_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="9" relation="include">
+        </childnode>
+        <childnode refid="11" relation="include">
+        </childnode>
+        <childnode refid="12" relation="include">
+        </childnode>
+        <childnode refid="13" relation="include">
+        </childnode>
+        <childnode refid="14" relation="include">
+        </childnode>
+        <childnode refid="15" relation="include">
+        </childnode>
+        <childnode refid="16" relation="include">
+        </childnode>
+        <childnode refid="17" relation="include">
+        </childnode>
+        <childnode refid="18" relation="include">
+        </childnode>
+        <childnode refid="19" relation="include">
+        </childnode>
+        <childnode refid="20" relation="include">
+        </childnode>
+        <childnode refid="21" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="14">
+        <label>Aspose.Words.Cpp/PageVerticalAlignment.h</label>
+        <link refid="_page_vertical_alignment_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="13">
+        <label>Aspose.Words.Cpp/PaperSize.h</label>
+        <link refid="_paper_size_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="12">
+        <label>Aspose.Words.Cpp/SectionLayoutMode.h</label>
+        <link refid="_section_layout_mode_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="11">
+        <label>Aspose.Words.Cpp/SectionStart.h</label>
+        <link refid="_section_start_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="9">
+        <label>Aspose.Words.Cpp/Settings/MultiplePagesType.h</label>
+        <link refid="_multiple_pages_type_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="10" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>Aspose.Words.Cpp/TextOrientation.h</label>
+        <link refid="_text_orientation_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>Aspose.Words.Cpp/aspose_words_api_defs.h</label>
+        <link refid="aspose__words__api__defs_8h_source"/>
+      </node>
+      <node id="10">
+        <label>cstdint</label>
+      </node>
+      <node id="4">
+        <label>memory</label>
+      </node>
+      <node id="3">
+        <label>mutex</label>
+      </node>
+      <node id="7">
+        <label>system/enum.h</label>
+      </node>
+      <node id="22">
+        <label>system/object.h</label>
+      </node>
+      <node id="6">
+        <label>system/object_ext.h</label>
+      </node>
+      <node id="2">
+        <label>system/shared_ptr.h</label>
+      </node>
+    </incdepgraph>
+    <innerclass refid="class_aspose_1_1_words_1_1_page_setup" prot="public">Aspose::Words::PageSetup</innerclass>
+    <innernamespace refid="namespace_aspose">Aspose</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words">Aspose::Words</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words_1_1_notes">Aspose::Words::Notes</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/PageSetup.h"/>
+  </compounddef>
+</doxygen>

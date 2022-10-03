@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_field_e_q" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::FieldEQ</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field" prot="public" virt="non-virtual">Aspose::Words::Fields::Field</basecompoundref>
+    <includes refid="_field_e_q_8h" local="no">Aspose.Words.Cpp/Fields/FieldEQ.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_e_q_1a7a1bdca62e3feb0fc1e86949ca227552" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref></type>
+        <definition>typedef Aspose::Words::Fields::Field Aspose::Words::Fields::FieldEQ::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldEQ::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldEQ.h" line="137" column="42" bodyfile="Aspose.Words.Cpp/Fields/FieldEQ.h" bodystart="137" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_e_q_1ac449e35e301d33cae151299142813e20" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_e_q" kindref="compound">FieldEQ</ref></type>
+        <definition>typedef FieldEQ Aspose::Words::Fields::FieldEQ::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldEQ::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldEQ.h" line="136" column="21" bodyfile="Aspose.Words.Cpp/Fields/FieldEQ.h" bodystart="136" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_e_q_1aafd983a8a22eec147fec73c8b6b5fcad" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Fields::FieldEQ::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::FieldEQ::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldEQ.h" line="139" column="37" bodyfile="Aspose.Words.Cpp/Fields/FieldEQ.h" bodystart="139" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_field_e_q_1aec77c7f5a386e6e3468be02a114fd08c" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fields::FieldEQ::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Fields::FieldEQ::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldEQ.h" line="152" column="23" bodyfile="Aspose.Words.Cpp/Fields/FieldEQ.h" bodystart="152" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_e_q_1ae2902c68c0d115270e125bc9c39105af" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Fields::FieldEQ::~FieldEQ</definition>
+        <argsstring>()</argsstring>
+        <name>~FieldEQ</name>
+        <qualifiedname>Aspose::Words::Fields::FieldEQ::~FieldEQ</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldEQ.h" line="148" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_e_q_1a4b947a3dedb4f3720833ce3ec9e1b8e4" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::NodeRange &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::NodeRange &gt; Aspose::Words::Fields::FieldEQ::GetFakeResult</definition>
+        <argsstring>() override</argsstring>
+        <name>GetFakeResult</name>
+        <qualifiedname>Aspose::Words::Fields::FieldEQ::GetFakeResult</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aec0fb24827aecbea0ff27a044ba7c760">GetFakeResult</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldEQ.h" line="146" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_e_q_1a9abec8c26c8f172d44070a7f69d0d15b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldEQ::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::FieldEQ::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldEQ.h" line="140" column="5"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implements the EQ field. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use the EQ field to display a variety of mathematical equations. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldEQ_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>An<sp/>EQ<sp/>field<sp/>displays<sp/>a<sp/>mathematical<sp/>equation<sp/>consisting<sp/>of<sp/>one<sp/>or<sp/>many<sp/>elements.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Each<sp/>element<sp/>takes<sp/>the<sp/>following<sp/>form:<sp/>[switch][options][arguments].</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>There<sp/>may<sp/>be<sp/>one<sp/>switch,<sp/>and<sp/>several<sp/>possible<sp/>options.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>arguments<sp/>are<sp/>a<sp/>set<sp/>of<sp/>coma-separated<sp/>values<sp/>enclosed<sp/>by<sp/>round<sp/>braces.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Here<sp/>we<sp/>use<sp/>a<sp/>document<sp/>builder<sp/>to<sp/>insert<sp/>an<sp/>EQ<sp/>field,<sp/>with<sp/>an<sp/>&quot;\f&quot;<sp/>switch,<sp/>which<sp/>corresponds<sp/>to<sp/>&quot;Fraction&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>pass<sp/>values<sp/>1<sp/>and<sp/>4<sp/>as<sp/>arguments,<sp/>and<sp/>we<sp/>will<sp/>not<sp/>use<sp/>any<sp/>options.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>field<sp/>will<sp/>display<sp/>a<sp/>fraction<sp/>with<sp/>1<sp/>as<sp/>the<sp/>numerator<sp/>and<sp/>4<sp/>as<sp/>the<sp/>denominator.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FieldEQ&gt;<sp/>field<sp/>=<sp/>InsertFieldEQ(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\\f(1,4)&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>EQ<sp/>\\f(1,4)&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>One<sp/>EQ<sp/>field<sp/>may<sp/>contain<sp/>multiple<sp/>elements<sp/>placed<sp/>sequentially.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>nest<sp/>elements<sp/>inside<sp/>one<sp/>another<sp/>by<sp/>placing<sp/>the<sp/>inner<sp/>elements</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>inside<sp/>the<sp/>argument<sp/>brackets<sp/>of<sp/>outer<sp/>elements.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>find<sp/>the<sp/>full<sp/>list<sp/>of<sp/>switches,<sp/>along<sp/>with<sp/>their<sp/>uses<sp/>here:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>https://blogs.msdn.microsoft.com/murrays/2018/01/23/microsoft-word-eq-field/</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>applications<sp/>of<sp/>nine<sp/>different<sp/>EQ<sp/>field<sp/>switches<sp/>that<sp/>we<sp/>can<sp/>use<sp/>to<sp/>create<sp/>different<sp/>kinds<sp/>of<sp/>objects.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Array<sp/>switch<sp/>&quot;\a&quot;,<sp/>aligned<sp/>left,<sp/>2<sp/>columns,<sp/>3<sp/>points<sp/>of<sp/>horizontal<sp/>and<sp/>vertical<sp/>spacing:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertFieldEQ(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\\a<sp/>\\al<sp/>\\co2<sp/>\\vs3<sp/>\\hs3(4x,-<sp/>4y,-4x,+<sp/>y)&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Bracket<sp/>switch<sp/>&quot;\b&quot;,<sp/>bracket<sp/>character<sp/>&quot;[&quot;,<sp/>to<sp/>enclose<sp/>the<sp/>contents<sp/>in<sp/>a<sp/>set<sp/>of<sp/>square<sp/>braces:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Note<sp/>that<sp/>we<sp/>are<sp/>nesting<sp/>an<sp/>array<sp/>inside<sp/>the<sp/>brackets,<sp/>which<sp/>will<sp/>altogether<sp/>look<sp/>like<sp/>a<sp/>matrix<sp/>in<sp/>the<sp/>output.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertFieldEQ(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\\b<sp/>\\bc\\[<sp/>(\\a<sp/>\\al<sp/>\\co3<sp/>\\vs3<sp/>\\hs3(1,0,0,0,1,0,0,0,1))&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Displacement<sp/>switch<sp/>&quot;\d&quot;,<sp/>displacing<sp/>text<sp/>&quot;B&quot;<sp/>30<sp/>spaces<sp/>to<sp/>the<sp/>right<sp/>of<sp/>&quot;A&quot;,<sp/>displaying<sp/>the<sp/>gap<sp/>as<sp/>an<sp/>underline:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertFieldEQ(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;A<sp/>\\d<sp/>\\fo30<sp/>\\li()<sp/>B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>4<sp/>-<sp/><sp/>Formula<sp/>consisting<sp/>of<sp/>multiple<sp/>fractions:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertFieldEQ(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\\f(d,dx)(u<sp/>+<sp/>v)<sp/>=<sp/>\\f(du,dx)<sp/>+<sp/>\\f(dv,dx)&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>5<sp/>-<sp/><sp/>Integral<sp/>switch<sp/>&quot;\i&quot;,<sp/>with<sp/>a<sp/>summation<sp/>symbol:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertFieldEQ(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\\i<sp/>\\su(n=1,5,n)&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>6<sp/>-<sp/><sp/>List<sp/>switch<sp/>&quot;\l&quot;:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertFieldEQ(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\\l(1,1,2,3,n,8,13)&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>7<sp/>-<sp/><sp/>Radical<sp/>switch<sp/>&quot;\r&quot;,<sp/>displaying<sp/>a<sp/>cubed<sp/>root<sp/>of<sp/>x:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertFieldEQ(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\\r<sp/>(3,x)&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>8<sp/>-<sp/><sp/>Subscript/superscript<sp/>switch<sp/>&quot;/s&quot;,<sp/>first<sp/>as<sp/>a<sp/>superscript<sp/>and<sp/>then<sp/>as<sp/>a<sp/>subscript:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertFieldEQ(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\\s<sp/>\\up8(Superscript)<sp/>Text<sp/>\\s<sp/>\\do8(Subscript)&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>9<sp/>-<sp/><sp/>Box<sp/>switch<sp/>&quot;\x&quot;,<sp/>with<sp/>lines<sp/>at<sp/>the<sp/>top,<sp/>bottom,<sp/>left<sp/>and<sp/>right<sp/>of<sp/>the<sp/>input:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertFieldEQ(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\\x<sp/>\\to<sp/>\\bo<sp/>\\le<sp/>\\ri(5)&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Some<sp/>more<sp/>complex<sp/>combinations.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertFieldEQ(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\\a<sp/>\\ac<sp/>\\vs1<sp/>\\co1(lim,n→∞)<sp/>\\b<sp/>(\\f(n,n2<sp/>+<sp/>12)<sp/>+<sp/>\\f(n,n2<sp/>+<sp/>22)<sp/>+<sp/>...<sp/>+<sp/>\\f(n,n2<sp/>+<sp/>n2))&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertFieldEQ(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\\i<sp/>(,,<sp/><sp/>\\b(\\f(x,x2<sp/>+<sp/>3x<sp/>+<sp/>2)))<sp/>\\s<sp/>\\up10(2)&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertFieldEQ(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\\i<sp/>\\in(<sp/>tan<sp/>x,<sp/>\\s<sp/>\\up2(sec<sp/>x),<sp/>\\b(\\r(3)<sp/>)\\s<sp/>\\up4(t)<sp/>\\s<sp/>\\up7(2)<sp/><sp/>dt)&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.EQ.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/>SharedPtr&lt;FieldEQ&gt;<sp/>InsertFieldEQ(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>args)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldEQ&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecac56d26b7930bd47c7922e6df1a673816" kindref="member" tooltip="Specifies the EQ field.">FieldType::FieldEquation</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;MoveTo(field-&gt;get_Separator());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(args);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;MoveTo(field-&gt;get_Start()-&gt;get_ParentNode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertParagraph();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>field;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldEQ</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_e_q"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldEQ</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_e_q"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/FieldEQ.h" line="134" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldEQ.h" bodystart="135" bodyend="154"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_e_q_1a7a1bdca62e3feb0fc1e86949ca227552" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a5c2d01019c517ea8098f296903e37a34" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>get_DisplayResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad5f0995c85cce833806e847cf25809b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a399c14463916724cac0015b430175589" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>get_FieldEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abc40cddc1325f7fec80d8530e5287448" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>get_FieldStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a090c5d09915e2ead6cc54fda736dd7c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>get_Format</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ae68851d4a88a1fc867d3ddee2e4e88c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>get_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afda4c46db80761545c89e21aae5b717d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>get_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a93719d071099487b6aea1eaa241dd6e8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>get_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a012c93472901dc077815970a9b2ab650" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>get_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abbc83ad66d5fb391a21980126ea96847" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>get_Separator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afa7cd5d4cf1a87b05058982f26786456" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad68196653db5cfca30c1ba18ed44c76e" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_e_q_1a4b947a3dedb4f3720833ce3ec9e1b8e4" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>GetFakeResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa40bc0e4a5be11f0df785cc8bb2ff042" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_e_q_1aec77c7f5a386e6e3468be02a114fd08c" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad26a8021af3dbdc5bf0a1360a201222f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_e_q_1a9abec8c26c8f172d44070a7f69d0d15b" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa637d825865724665fb8ed856e664d95" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>set_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ac70b125adbe7f0ba5b889280cd282c47" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>set_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a165f748dd5ba33844f1d765f6c710f88" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>set_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa6af1e900c84ae806f071098dfe8f087" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>set_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_e_q_1ac449e35e301d33cae151299142813e20" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_e_q_1aafd983a8a22eec147fec73c8b6b5fcad" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab9f908becb16b26bed76d58dbcee9929" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>Unlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aaec82418b2b6493aa2827b8e282b2e82" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a1298d7daa07c863bf97cb3f37a4d7a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_e_q_1ae2902c68c0d115270e125bc9c39105af" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldEQ</scope><name>~FieldEQ</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

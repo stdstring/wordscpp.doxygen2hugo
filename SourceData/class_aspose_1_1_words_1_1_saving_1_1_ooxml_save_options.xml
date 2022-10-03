@@ -1,0 +1,818 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Saving::OoxmlSaveOptions</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_saving_1_1_save_options" prot="public" virt="non-virtual">Aspose::Words::Saving::SaveOptions</basecompoundref>
+    <includes refid="_ooxml_save_options_8h" local="no">Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1aa84581199596698f1e55db041dc7779f" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_save_options" kindref="compound">Aspose::Words::Saving::SaveOptions</ref></type>
+        <definition>typedef Aspose::Words::Saving::SaveOptions Aspose::Words::Saving::OoxmlSaveOptions::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="60" column="48" bodyfile="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" bodystart="60" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1ad324f37e9b89b8a982fc3bea67d89696" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options" kindref="compound">OoxmlSaveOptions</ref></type>
+        <definition>typedef OoxmlSaveOptions Aspose::Words::Saving::OoxmlSaveOptions::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="59" column="30" bodyfile="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" bodystart="59" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a1bcbbb6d878a7f8f16b3374aadc7a132" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_save_options" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::OoxmlSaveOptions::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="62" column="37" bodyfile="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" bodystart="62" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1ad73e19f7ccacf90be90221fcc23cdd89" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::OoxmlSaveOptions::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="355" column="23" bodyfile="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" bodystart="355" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1aed2b4b9b8c45a99cd46c1850b3925ac3" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Saving::OoxmlSaveOptions::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="356" column="23" bodyfile="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" bodystart="356" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a273e2aeab4928b89246dcefa09508c15" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Saving::OoxmlSaveOptions::mField10</definition>
+        <argsstring></argsstring>
+        <name>mField10</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::mField10</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="365" column="23" bodyfile="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" bodystart="365" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a5b768743bf4f69c46d52659579cba171" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::OoxmlSaveOptions::mField11</definition>
+        <argsstring></argsstring>
+        <name>mField11</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::mField11</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="366" column="20" bodyfile="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" bodystart="366" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a0c12f98cdb8b29f4f116fe2113fb9113" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Saving::OoxmlSaveOptions::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="357" column="23" bodyfile="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" bodystart="357" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1aecd785016e0e3c60f8e30a2f5a7808e9" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::OoxmlSaveOptions::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="358" column="23" bodyfile="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" bodystart="358" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1ae689d0565d5313d17d15673cb53b0ce7" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::OoxmlSaveOptions::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="359" column="23" bodyfile="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" bodystart="359" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a1960bcafffb86dbffbfdfcb2b03b8478" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::OoxmlSaveOptions::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="360" column="23" bodyfile="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" bodystart="360" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a880fa02f1a60275776e9d5a10c8d7d8b" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::OoxmlSaveOptions::mField6</definition>
+        <argsstring></argsstring>
+        <name>mField6</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::mField6</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="361" column="23" bodyfile="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" bodystart="361" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1ae336ab56c1fba340a35b044562f05d71" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::OoxmlSaveOptions::mField7</definition>
+        <argsstring></argsstring>
+        <name>mField7</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::mField7</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="362" column="23" bodyfile="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" bodystart="362" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a2acda154583fd6eecbc0aa0a8e22fc44" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::OoxmlSaveOptions::mField8</definition>
+        <argsstring></argsstring>
+        <name>mField8</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::mField8</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="363" column="23" bodyfile="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" bodystart="363" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a34f4924fa065c4c8a348af7974285fc9" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::OoxmlSaveOptions::mField9</definition>
+        <argsstring></argsstring>
+        <name>mField9</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::mField9</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="364" column="23" bodyfile="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" bodystart="364" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a24fdc3ca4679d5c054d45c5356d05624" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::OoxmlSaveOptions::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="63" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a2f4fe7d4f57284b8e026cfb5d8093483" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::OoxmlSaveOptions::SetTestMode</definition>
+        <argsstring>() override</argsstring>
+        <name>SetTestMode</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::SetTestMode</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2ecfd46ad2350b7f5ccba9c293c0d8a6">SetTestMode</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="351" column="13"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1aef8339f3bce655c7444d382d952b7b6b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::OoxmlSaveOptions::OoxmlSaveOptions</definition>
+        <argsstring>()</argsstring>
+        <name>OoxmlSaveOptions</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::OoxmlSaveOptions</qualifiedname>
+        <briefdescription>
+<para>Initializes a new instance of this class that can be used to save a document in the <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a21c22cc98b22ad080d57e7d8d847d8cb" kindref="member">Docx</ref> format. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set an OOXML compliance specification for a saved document to adhere to. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>configure<sp/>compatibility<sp/>options<sp/>to<sp/>comply<sp/>with<sp/>Microsoft<sp/>Word<sp/>2003,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>inserting<sp/>an<sp/>image<sp/>will<sp/>define<sp/>its<sp/>shape<sp/>using<sp/>VML.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_CompatibilityOptions()-&gt;OptimizeFor(MsWordVersion::Word2003);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertImage(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Transparent<sp/>background<sp/>logo.png&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(ShapeMarkupLanguage::Vml,<sp/>(System::DynamicCast&lt;Shape&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)))-&gt;get_MarkupLanguage());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;ISO/IEC<sp/>29500:2008&quot;<sp/>OOXML<sp/>standard<sp/>does<sp/>not<sp/>support<sp/>VML<sp/>shapes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>set<sp/>the<sp/>&quot;Compliance&quot;<sp/>property<sp/>of<sp/>the<sp/>SaveOptions<sp/>object<sp/>to<sp/>&quot;OoxmlCompliance.Iso29500_2008_Strict&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>any<sp/>document<sp/>we<sp/>save<sp/>while<sp/>passing<sp/>this<sp/>object<sp/>will<sp/>have<sp/>to<sp/>follow<sp/>that<sp/>standard.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;OoxmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_Compliance(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a060e41f8a4c148d5e55502900c3c4ba6a9afdd03dd54394b2f80967ee5eb27bc8" kindref="member" tooltip="ISO/IEC 29500:2008 Strict compliance level.">OoxmlCompliance::Iso29500_2008_Strict</ref>);</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_SaveFormat(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a21c22cc98b22ad080d57e7d8d847d8cb" kindref="member" tooltip="Saves the document as an Office Open XML WordprocessingML Document (macro-free).">SaveFormat::Docx</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OoxmlSaveOptions.Iso29500Strict.docx&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>saved<sp/>document<sp/>defines<sp/>the<sp/>shape<sp/>using<sp/>DML<sp/>to<sp/>adhere<sp/>to<sp/>the<sp/>&quot;ISO/IEC<sp/>29500:2008&quot;<sp/>OOXML<sp/>standard.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OoxmlSaveOptions.Iso29500Strict.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(ShapeMarkupLanguage::Dml,<sp/>(System::DynamicCast&lt;Shape&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)))-&gt;get_MarkupLanguage());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="316" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a3709fde08c23a56c072d4e54ce393a68" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::OoxmlSaveOptions::OoxmlSaveOptions</definition>
+        <argsstring>(Aspose::Words::SaveFormat saveFormat)</argsstring>
+        <name>OoxmlSaveOptions</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::OoxmlSaveOptions</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" kindref="member">Aspose::Words::SaveFormat</ref></type>
+          <declname>saveFormat</declname>
+        </param>
+        <briefdescription>
+<para>Initializes a new instance of this class that can be used to save a document in the <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a21c22cc98b22ad080d57e7d8d847d8cb" kindref="member">Docx</ref>, <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847ae4a760f39d051de12fe119230787cf31" kindref="member">Docm</ref>, <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847af677eacaea0757778d5ae6a5c7b6b33f" kindref="member">Dotx</ref>, <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a9ade78f4046d6517a2b17884c1307845" kindref="member">Dotm</ref> or <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a2b7085a73e76e581d28543a39fb2b981" kindref="member">FlatOpc</ref> format. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>saveFormat</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Can be <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a21c22cc98b22ad080d57e7d8d847d8cb" kindref="member">Docx</ref>, <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847ae4a760f39d051de12fe119230787cf31" kindref="member">Docm</ref>, <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847af677eacaea0757778d5ae6a5c7b6b33f" kindref="member">Dotx</ref>, <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a9ade78f4046d6517a2b17884c1307845" kindref="member">Dotm</ref> or <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a2b7085a73e76e581d28543a39fb2b981" kindref="member">FlatOpc</ref>.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to support legacy control characters when converting to .docx. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Legacy<sp/>control<sp/>character.doc&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>save<sp/>the<sp/>document<sp/>to<sp/>an<sp/>OOXML<sp/>format,<sp/>we<sp/>can<sp/>create<sp/>an<sp/>OoxmlSaveOptions<sp/>object</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>pass<sp/>it<sp/>to<sp/>the<sp/>document&apos;s<sp/>saving<sp/>method<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>save<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;KeepLegacyControlChars&quot;<sp/>property<sp/>to<sp/>&quot;true&quot;<sp/>to<sp/>preserve</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>&quot;ShortDateTime&quot;<sp/>legacy<sp/>character<sp/>while<sp/>saving.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;KeepLegacyControlChars&quot;<sp/>property<sp/>to<sp/>&quot;false&quot;<sp/>to<sp/>remove</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>&quot;ShortDateTime&quot;<sp/>legacy<sp/>character<sp/>from<sp/>the<sp/>output<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>so<sp/>=<sp/>MakeObject&lt;OoxmlSaveOptions&gt;(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a21c22cc98b22ad080d57e7d8d847d8cb" kindref="member" tooltip="Saves the document as an Office Open XML WordprocessingML Document (macro-free).">SaveFormat::Docx</ref>);</highlight></codeline>
+<codeline><highlight class="normal">so-&gt;set_KeepLegacyControlChars(keepLegacyControlChars);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OoxmlSaveOptions.KeepLegacyControlChars.docx&quot;</highlight><highlight class="normal">,<sp/>so);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OoxmlSaveOptions.KeepLegacyControlChars.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(keepLegacyControlChars<sp/>?<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\u0013date<sp/>\\@<sp/>\&quot;MM/dd/yyyy\&quot;\u0014\u0015\f&quot;</highlight><highlight class="normal">)<sp/>:<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\u001e\f&quot;</highlight><highlight class="normal">),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;GetText());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="347" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a566543e7312c27da6d1bb44a070151d9" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_saving_1a060e41f8a4c148d5e55502900c3c4ba6" kindref="member">Aspose::Words::Saving::OoxmlCompliance</ref></type>
+        <definition>Aspose::Words::Saving::OoxmlCompliance Aspose::Words::Saving::OoxmlSaveOptions::get_Compliance</definition>
+        <argsstring>()</argsstring>
+        <name>get_Compliance</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::get_Compliance</qualifiedname>
+        <briefdescription>
+<para>Specifies the OOXML version for the output document. The default value is <ref refid="namespace_aspose_1_1_words_1_1_saving_1a060e41f8a4c148d5e55502900c3c4ba6a821952cd9df4567bf7a9f1d2ff3b4f40" kindref="member">Ecma376_2006</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set an OOXML compliance specification for a saved document to adhere to. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>configure<sp/>compatibility<sp/>options<sp/>to<sp/>comply<sp/>with<sp/>Microsoft<sp/>Word<sp/>2003,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>inserting<sp/>an<sp/>image<sp/>will<sp/>define<sp/>its<sp/>shape<sp/>using<sp/>VML.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_CompatibilityOptions()-&gt;OptimizeFor(MsWordVersion::Word2003);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertImage(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Transparent<sp/>background<sp/>logo.png&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(ShapeMarkupLanguage::Vml,<sp/>(System::DynamicCast&lt;Shape&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)))-&gt;get_MarkupLanguage());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;ISO/IEC<sp/>29500:2008&quot;<sp/>OOXML<sp/>standard<sp/>does<sp/>not<sp/>support<sp/>VML<sp/>shapes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>set<sp/>the<sp/>&quot;Compliance&quot;<sp/>property<sp/>of<sp/>the<sp/>SaveOptions<sp/>object<sp/>to<sp/>&quot;OoxmlCompliance.Iso29500_2008_Strict&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>any<sp/>document<sp/>we<sp/>save<sp/>while<sp/>passing<sp/>this<sp/>object<sp/>will<sp/>have<sp/>to<sp/>follow<sp/>that<sp/>standard.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;OoxmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_Compliance(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a060e41f8a4c148d5e55502900c3c4ba6a9afdd03dd54394b2f80967ee5eb27bc8" kindref="member" tooltip="ISO/IEC 29500:2008 Strict compliance level.">OoxmlCompliance::Iso29500_2008_Strict</ref>);</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_SaveFormat(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a21c22cc98b22ad080d57e7d8d847d8cb" kindref="member" tooltip="Saves the document as an Office Open XML WordprocessingML Document (macro-free).">SaveFormat::Docx</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OoxmlSaveOptions.Iso29500Strict.docx&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>saved<sp/>document<sp/>defines<sp/>the<sp/>shape<sp/>using<sp/>DML<sp/>to<sp/>adhere<sp/>to<sp/>the<sp/>&quot;ISO/IEC<sp/>29500:2008&quot;<sp/>OOXML<sp/>standard.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OoxmlSaveOptions.Iso29500Strict.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(ShapeMarkupLanguage::Dml,<sp/>(System::DynamicCast&lt;Shape&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)))-&gt;get_MarkupLanguage());</highlight></codeline>
+</programlisting></para>
+<para>Shows how to configure a list to restart numbering at each section. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Lists()-&gt;Add(ListTemplate::NumberDefault);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Aspose::Words::Lists::List&gt;<sp/>list<sp/>=<sp/>doc-&gt;get_Lists()-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal">list-&gt;set_IsRestartAtEachSection(restartListAtEachSection);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;IsRestartAtEachSection&quot;<sp/>property<sp/>will<sp/>only<sp/>be<sp/>applicable<sp/>when</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>document&apos;s<sp/>OOXML<sp/>compliance<sp/>level<sp/>is<sp/>to<sp/>a<sp/>standard<sp/>that<sp/>is<sp/>newer<sp/>than<sp/>&quot;OoxmlComplianceCore.Ecma376&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;OoxmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_Compliance(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a060e41f8a4c148d5e55502900c3c4ba6a80890f1c5fae0b45c34d120b506703f6" kindref="member" tooltip="ISO/IEC 29500:2008 Transitional compliance level.">OoxmlCompliance::Iso29500_2008_Transitional</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(list);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;List<sp/>item<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;List<sp/>item<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea8e798e1e673d70f3c9d8b7be6234320b" kindref="member" tooltip="Specifies start of new section on a new page.">BreakType::SectionBreakNewPage</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;List<sp/>item<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;List<sp/>item<sp/>4&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OoxmlSaveOptions.RestartingDocumentList.docx&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OoxmlSaveOptions.RestartingDocumentList.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(restartListAtEachSection,<sp/>doc-&gt;get_Lists()-&gt;idx_get(0)-&gt;get_IsRestartAtEachSection());</highlight></codeline>
+</programlisting></para>
+<para>Shows how to insert DML shapes into a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>wrapping<sp/>types<sp/>that<sp/>shapes<sp/>may<sp/>have.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Floating:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertShape(ShapeType::TopCornersRounded,<sp/>RelativeHorizontalPosition::Page,<sp/>100,<sp/>RelativeVerticalPosition::Page,<sp/>100,<sp/>50,<sp/>50,<sp/>WrapType::None);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Inline:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertShape(ShapeType::DiagonalCornersRounded,<sp/>50,<sp/>50);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>you<sp/>need<sp/>to<sp/>create<sp/>&quot;non-primitive&quot;<sp/>shapes,<sp/>such<sp/>as<sp/>SingleCornerSnipped,<sp/>TopCornersSnipped,<sp/>DiagonalCornersSnipped,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>TopCornersOneRoundedOneSnipped,<sp/>SingleCornerRounded,<sp/>TopCornersRounded,<sp/>or<sp/>DiagonalCornersRounded,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>then<sp/>save<sp/>the<sp/>document<sp/>with<sp/>&quot;Strict&quot;<sp/>or<sp/>&quot;Transitional&quot;<sp/>compliance,<sp/>which<sp/>allows<sp/>saving<sp/>shape<sp/>as<sp/>DML.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;OoxmlSaveOptions&gt;(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a21c22cc98b22ad080d57e7d8d847d8cb" kindref="member" tooltip="Saves the document as an Office Open XML WordprocessingML Document (macro-free).">SaveFormat::Docx</ref>);</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_Compliance(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a060e41f8a4c148d5e55502900c3c4ba6a80890f1c5fae0b45c34d120b506703f6" kindref="member" tooltip="ISO/IEC 29500:2008 Transitional compliance level.">OoxmlCompliance::Iso29500_2008_Transitional</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.ShapeInsertion.docx&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="217" column="47"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1af85cba7194a8a8804f2a4f5df9469b1b" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_saving_1a8bca862ce175c808774a57560b8cffcb" kindref="member">Aspose::Words::Saving::CompressionLevel</ref></type>
+        <definition>Aspose::Words::Saving::CompressionLevel Aspose::Words::Saving::OoxmlSaveOptions::get_CompressionLevel</definition>
+        <argsstring>() const</argsstring>
+        <name>get_CompressionLevel</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::get_CompressionLevel</qualifiedname>
+        <briefdescription>
+<para>Specifies the compression level used to save document. The default value is <ref refid="namespace_aspose_1_1_words_1_1_saving_1a8bca862ce175c808774a57560b8cffcba960b44c579bc2f6818d2daaf9e4c16f0" kindref="member">Normal</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to specify the compression level to use while saving an OOXML document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Big<sp/>document.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>save<sp/>the<sp/>document<sp/>to<sp/>an<sp/>OOXML<sp/>format,<sp/>we<sp/>can<sp/>create<sp/>an<sp/>OoxmlSaveOptions<sp/>object</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>pass<sp/>it<sp/>to<sp/>the<sp/>document&apos;s<sp/>saving<sp/>method<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>save<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;CompressionLevel&quot;<sp/>property<sp/>to<sp/>&quot;CompressionLevel.Maximum&quot;<sp/>to<sp/>apply<sp/>the<sp/>strongest<sp/>and<sp/>slowest<sp/>compression.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;CompressionLevel&quot;<sp/>property<sp/>to<sp/>&quot;CompressionLevel.Normal&quot;<sp/>to<sp/>apply</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>default<sp/>compression<sp/>that<sp/>Aspose.Words<sp/>uses<sp/>while<sp/>saving<sp/>OOXML<sp/>documents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;CompressionLevel&quot;<sp/>property<sp/>to<sp/>&quot;CompressionLevel.Fast&quot;<sp/>to<sp/>apply<sp/>a<sp/>faster<sp/>and<sp/>weaker<sp/>compression.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;CompressionLevel&quot;<sp/>property<sp/>to<sp/>&quot;CompressionLevel.SuperFast&quot;<sp/>to<sp/>apply</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>default<sp/>compression<sp/>that<sp/>Microsoft<sp/>Word<sp/>uses.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;OoxmlSaveOptions&gt;(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a21c22cc98b22ad080d57e7d8d847d8cb" kindref="member" tooltip="Saves the document as an Office Open XML WordprocessingML Document (macro-free).">SaveFormat::Docx</ref>);</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_CompressionLevel(compressionLevel);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Diagnostics::Stopwatch&gt;<sp/>st<sp/>=<sp/><ref refid="class/system.diagnostics.stopwatch/_1a4d67a198f25cd108264557dfce1248ce" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Diagnostics::Stopwatch::StartNew</ref>();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OoxmlSaveOptions.DocumentCompression.docx&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+<codeline><highlight class="normal">st-&gt;Stop();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fileInfo<sp/>=<sp/>MakeObject&lt;System::IO::FileInfo&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OoxmlSaveOptions.DocumentCompression.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;Saving<sp/>operation<sp/>done<sp/>using<sp/>the<sp/>\&quot;{0}\&quot;<sp/>compression<sp/>level:&quot;</highlight><highlight class="normal">,<sp/>compressionLevel)<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tDuration:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>st-&gt;get_ElapsedMilliseconds()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>ms&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tFile<sp/>Size:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>fileInfo-&gt;get_Length()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>bytes&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="281" column="48"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a05600588657fd00b0b34d37c0c6043ef" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Saving::OoxmlSaveOptions::get_KeepLegacyControlChars</definition>
+        <argsstring>() const</argsstring>
+        <name>get_KeepLegacyControlChars</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::get_KeepLegacyControlChars</qualifiedname>
+        <briefdescription>
+<para>Keeps original representation of legacy control characters. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to support legacy control characters when converting to .docx. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Legacy<sp/>control<sp/>character.doc&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>save<sp/>the<sp/>document<sp/>to<sp/>an<sp/>OOXML<sp/>format,<sp/>we<sp/>can<sp/>create<sp/>an<sp/>OoxmlSaveOptions<sp/>object</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>pass<sp/>it<sp/>to<sp/>the<sp/>document&apos;s<sp/>saving<sp/>method<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>save<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;KeepLegacyControlChars&quot;<sp/>property<sp/>to<sp/>&quot;true&quot;<sp/>to<sp/>preserve</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>&quot;ShortDateTime&quot;<sp/>legacy<sp/>character<sp/>while<sp/>saving.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;KeepLegacyControlChars&quot;<sp/>property<sp/>to<sp/>&quot;false&quot;<sp/>to<sp/>remove</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>&quot;ShortDateTime&quot;<sp/>legacy<sp/>character<sp/>from<sp/>the<sp/>output<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>so<sp/>=<sp/>MakeObject&lt;OoxmlSaveOptions&gt;(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a21c22cc98b22ad080d57e7d8d847d8cb" kindref="member" tooltip="Saves the document as an Office Open XML WordprocessingML Document (macro-free).">SaveFormat::Docx</ref>);</highlight></codeline>
+<codeline><highlight class="normal">so-&gt;set_KeepLegacyControlChars(keepLegacyControlChars);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OoxmlSaveOptions.KeepLegacyControlChars.docx&quot;</highlight><highlight class="normal">,<sp/>so);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OoxmlSaveOptions.KeepLegacyControlChars.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(keepLegacyControlChars<sp/>?<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\u0013date<sp/>\\@<sp/>\&quot;MM/dd/yyyy\&quot;\u0014\u0015\f&quot;</highlight><highlight class="normal">)<sp/>:<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\u001e\f&quot;</highlight><highlight class="normal">),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;GetText());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="246" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1aeda1240b9dcf2faebad56ae78d4e7a08" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::OoxmlSaveOptions::get_Password</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Password</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::get_Password</qualifiedname>
+        <briefdescription>
+<para>Gets/sets a password to encrypt document using ECMA376 Standard encryption algorithm. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>In order to save document without encryption this property should be null or empty string.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create a password encrypted Office Open XML document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;OoxmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_Password(u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OoxmlSaveOptions.Password.docx&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>not<sp/>be<sp/>able<sp/>to<sp/>open<sp/>this<sp/>document<sp/>with<sp/>Microsoft<sp/>Word<sp/>or</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Aspose.Words<sp/>without<sp/>providing<sp/>the<sp/>correct<sp/>password.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_THROW(doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OoxmlSaveOptions.Password.docx&quot;</highlight><highlight class="normal">),<sp/><ref refid="namespace_aspose_1_1_words_1a69d5ddc9f0a7b4c2dfd356817c3be538" kindref="member" tooltip="Thrown if a document is encrypted with a password and the password specified when opening the documen...">IncorrectPasswordException</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Open<sp/>the<sp/>encrypted<sp/>document<sp/>by<sp/>passing<sp/>the<sp/>correct<sp/>password<sp/>in<sp/>a<sp/>LoadOptions<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OoxmlSaveOptions.Password.docx&quot;</highlight><highlight class="normal">,<sp/>MakeObject&lt;LoadOptions&gt;(u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="130" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1ae07d4583df9f738464de9579d1b9d90e" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" kindref="member">Aspose::Words::SaveFormat</ref></type>
+        <definition>Aspose::Words::SaveFormat Aspose::Words::Saving::OoxmlSaveOptions::get_SaveFormat</definition>
+        <argsstring>() override</argsstring>
+        <name>get_SaveFormat</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::get_SaveFormat</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6df9e8d37cc7794640ea5c5932134253">get_SaveFormat</reimplements>
+        <briefdescription>
+<para>Specifies the format in which the document will be saved if this save options object is used. Can be <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a21c22cc98b22ad080d57e7d8d847d8cb" kindref="member">Docx</ref>, <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847ae4a760f39d051de12fe119230787cf31" kindref="member">Docm</ref>, <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847af677eacaea0757778d5ae6a5c7b6b33f" kindref="member">Dotx</ref>, <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a9ade78f4046d6517a2b17884c1307845" kindref="member">Dotm</ref> or <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a2b7085a73e76e581d28543a39fb2b981" kindref="member">FlatOpc</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set an OOXML compliance specification for a saved document to adhere to. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>configure<sp/>compatibility<sp/>options<sp/>to<sp/>comply<sp/>with<sp/>Microsoft<sp/>Word<sp/>2003,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>inserting<sp/>an<sp/>image<sp/>will<sp/>define<sp/>its<sp/>shape<sp/>using<sp/>VML.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_CompatibilityOptions()-&gt;OptimizeFor(MsWordVersion::Word2003);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertImage(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Transparent<sp/>background<sp/>logo.png&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(ShapeMarkupLanguage::Vml,<sp/>(System::DynamicCast&lt;Shape&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)))-&gt;get_MarkupLanguage());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;ISO/IEC<sp/>29500:2008&quot;<sp/>OOXML<sp/>standard<sp/>does<sp/>not<sp/>support<sp/>VML<sp/>shapes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>set<sp/>the<sp/>&quot;Compliance&quot;<sp/>property<sp/>of<sp/>the<sp/>SaveOptions<sp/>object<sp/>to<sp/>&quot;OoxmlCompliance.Iso29500_2008_Strict&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>any<sp/>document<sp/>we<sp/>save<sp/>while<sp/>passing<sp/>this<sp/>object<sp/>will<sp/>have<sp/>to<sp/>follow<sp/>that<sp/>standard.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;OoxmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_Compliance(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a060e41f8a4c148d5e55502900c3c4ba6a9afdd03dd54394b2f80967ee5eb27bc8" kindref="member" tooltip="ISO/IEC 29500:2008 Strict compliance level.">OoxmlCompliance::Iso29500_2008_Strict</ref>);</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_SaveFormat(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a21c22cc98b22ad080d57e7d8d847d8cb" kindref="member" tooltip="Saves the document as an Office Open XML WordprocessingML Document (macro-free).">SaveFormat::Docx</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OoxmlSaveOptions.Iso29500Strict.docx&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>saved<sp/>document<sp/>defines<sp/>the<sp/>shape<sp/>using<sp/>DML<sp/>to<sp/>adhere<sp/>to<sp/>the<sp/>&quot;ISO/IEC<sp/>29500:2008&quot;<sp/>OOXML<sp/>standard.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OoxmlSaveOptions.Iso29500Strict.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(ShapeMarkupLanguage::Dml,<sp/>(System::DynamicCast&lt;Shape&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)))-&gt;get_MarkupLanguage());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="99" column="34"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a64be5b7e17dacf299184be8bc079a1a7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::OoxmlSaveOptions::set_Compliance</definition>
+        <argsstring>(Aspose::Words::Saving::OoxmlCompliance value)</argsstring>
+        <name>set_Compliance</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::set_Compliance</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_saving_1a060e41f8a4c148d5e55502900c3c4ba6" kindref="member">Aspose::Words::Saving::OoxmlCompliance</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a566543e7312c27da6d1bb44a070151d9" kindref="member">Aspose::Words::Saving::OoxmlSaveOptions::get_Compliance</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="220" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a7f6e50336ac93bf0758342e179168cc6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::OoxmlSaveOptions::set_CompressionLevel</definition>
+        <argsstring>(Aspose::Words::Saving::CompressionLevel value)</argsstring>
+        <name>set_CompressionLevel</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::set_CompressionLevel</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_saving_1a8bca862ce175c808774a57560b8cffcb" kindref="member">Aspose::Words::Saving::CompressionLevel</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1af85cba7194a8a8804f2a4f5df9469b1b" kindref="member">Aspose::Words::Saving::OoxmlSaveOptions::get_CompressionLevel</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="284" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a6a3eca8ba27d41dbc17813ac4226f946" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::OoxmlSaveOptions::set_KeepLegacyControlChars</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_KeepLegacyControlChars</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::set_KeepLegacyControlChars</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a05600588657fd00b0b34d37c0c6043ef" kindref="member">Aspose::Words::Saving::OoxmlSaveOptions::get_KeepLegacyControlChars</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="249" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1ad5006898f6b26e323aa22d195680ddf8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::OoxmlSaveOptions::set_Password</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Password</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::set_Password</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1aeda1240b9dcf2faebad56ae78d4e7a08" kindref="member">Aspose::Words::Saving::OoxmlSaveOptions::get_Password</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="133" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1aac8c847ff67afe4e870bfa145b53e9fe" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::OoxmlSaveOptions::set_SaveFormat</definition>
+        <argsstring>(Aspose::Words::SaveFormat value) override</argsstring>
+        <name>set_SaveFormat</name>
+        <qualifiedname>Aspose::Words::Saving::OoxmlSaveOptions::set_SaveFormat</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a75d9ec81ad960179eba172764d2c60b9">set_SaveFormat</reimplements>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" kindref="member">Aspose::Words::SaveFormat</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1ae07d4583df9f738464de9579d1b9d90e" kindref="member">Aspose::Words::Saving::OoxmlSaveOptions::get_SaveFormat</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="102" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Can be used to specify additional options when saving a document into the <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a21c22cc98b22ad080d57e7d8d847d8cb" kindref="member">Docx</ref>, <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847ae4a760f39d051de12fe119230787cf31" kindref="member">Docm</ref>, <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847af677eacaea0757778d5ae6a5c7b6b33f" kindref="member">Dotx</ref>, <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a9ade78f4046d6517a2b17884c1307845" kindref="member">Dotm</ref> or <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a2b7085a73e76e581d28543a39fb2b981" kindref="member">FlatOpc</ref> format. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set an OOXML compliance specification for a saved document to adhere to. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>configure<sp/>compatibility<sp/>options<sp/>to<sp/>comply<sp/>with<sp/>Microsoft<sp/>Word<sp/>2003,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>inserting<sp/>an<sp/>image<sp/>will<sp/>define<sp/>its<sp/>shape<sp/>using<sp/>VML.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_CompatibilityOptions()-&gt;OptimizeFor(MsWordVersion::Word2003);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertImage(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Transparent<sp/>background<sp/>logo.png&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(ShapeMarkupLanguage::Vml,<sp/>(System::DynamicCast&lt;Shape&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)))-&gt;get_MarkupLanguage());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;ISO/IEC<sp/>29500:2008&quot;<sp/>OOXML<sp/>standard<sp/>does<sp/>not<sp/>support<sp/>VML<sp/>shapes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>set<sp/>the<sp/>&quot;Compliance&quot;<sp/>property<sp/>of<sp/>the<sp/>SaveOptions<sp/>object<sp/>to<sp/>&quot;OoxmlCompliance.Iso29500_2008_Strict&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>any<sp/>document<sp/>we<sp/>save<sp/>while<sp/>passing<sp/>this<sp/>object<sp/>will<sp/>have<sp/>to<sp/>follow<sp/>that<sp/>standard.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;OoxmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_Compliance(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a060e41f8a4c148d5e55502900c3c4ba6a9afdd03dd54394b2f80967ee5eb27bc8" kindref="member" tooltip="ISO/IEC 29500:2008 Strict compliance level.">OoxmlCompliance::Iso29500_2008_Strict</ref>);</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_SaveFormat(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a21c22cc98b22ad080d57e7d8d847d8cb" kindref="member" tooltip="Saves the document as an Office Open XML WordprocessingML Document (macro-free).">SaveFormat::Docx</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OoxmlSaveOptions.Iso29500Strict.docx&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>saved<sp/>document<sp/>defines<sp/>the<sp/>shape<sp/>using<sp/>DML<sp/>to<sp/>adhere<sp/>to<sp/>the<sp/>&quot;ISO/IEC<sp/>29500:2008&quot;<sp/>OOXML<sp/>standard.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OoxmlSaveOptions.Iso29500Strict.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(ShapeMarkupLanguage::Dml,<sp/>(System::DynamicCast&lt;Shape&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)))-&gt;get_MarkupLanguage());</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::OoxmlSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Saving::SaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_save_options"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::OoxmlSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Saving::SaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_save_options"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" line="57" column="1" bodyfile="Aspose.Words.Cpp/Saving/OoxmlSaveOptions.h" bodystart="58" bodyend="368"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1aa84581199596698f1e55db041dc7779f" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a5f8b7264160980e775d0ebc2bb87ec6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>CreateSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a92aa5f878a1d0f3e06f620fd1376142f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>CreateSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9fecca2156a70f1834bd1c913a129d47" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_AllowEmbeddingPostScriptFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a566543e7312c27da6d1bb44a070151d9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_Compliance</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1af85cba7194a8a8804f2a4f5df9469b1b" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_CompressionLevel</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab9a4c7be9e7070ecbd5248bf01535ef3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_CustomTimeZoneInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a327b0f9146d84c39d72f09dffb55970d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_DefaultTemplate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ac309d37b349e0fd18de204c4b3493113" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_Dml3DEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0ad6a41669029f8bcb5d56ccd8eb1f25" prot="public" virt="virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_DmlEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a40d3faab0e88622c6fac579bbc050772" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_DmlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1add57516835dfbc84b4ac55117e03a6a5" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_ExportGeneratorName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab3a4c36623e1cba81e21fb0c18fc27d6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a4032bbd708177dd64e3ba455a509e470" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_ImlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a05600588657fd00b0b34d37c0c6043ef" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_KeepLegacyControlChars</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a00434e0916cf24f88a1cff9f4952bff3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_MemoryOptimization</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1aeda1240b9dcf2faebad56ae78d4e7a08" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_Password</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1af3590697cf94e5b1f546536a3bb20089" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_PrettyFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aabbd691992af320129ecf001454428b1" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1ae07d4583df9f738464de9579d1b9d90e" prot="public" virt="virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_SaveFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2eb22d168e7885c69f1a5ee73dfa9a9c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aafd986a59939576b688baf70ae2982b9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_UpdateCreatedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9058403d0bf8ef363c7265927c7d9689" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_UpdateFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ae00124e73b7ed35821a822f59a98456d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_UpdateLastPrintedProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aa37a14113e46f96d6a4100f33dbb41cd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_UpdateLastSavedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6ba4c67d7befc1d3959119554bc6ca0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_UpdateSdtContent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ac07a919eda7dd3104c3539643caab82f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_UseAntiAliasing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a926127b8a13db96c893d2e327d1ac458" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>get_UseHighQualityRendering</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1ad73e19f7ccacf90be90221fcc23cdd89" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1aed2b4b9b8c45a99cd46c1850b3925ac3" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a273e2aeab4928b89246dcefa09508c15" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>mField10</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a5b768743bf4f69c46d52659579cba171" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>mField11</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a0c12f98cdb8b29f4f116fe2113fb9113" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1aecd785016e0e3c60f8e30a2f5a7808e9" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1ae689d0565d5313d17d15673cb53b0ce7" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a1960bcafffb86dbffbfdfcb2b03b8478" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a880fa02f1a60275776e9d5a10c8d7d8b" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>mField6</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1ae336ab56c1fba340a35b044562f05d71" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>mField7</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a2acda154583fd6eecbc0aa0a8e22fc44" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>mField8</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a34f4924fa065c4c8a348af7974285fc9" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>mField9</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1aef8339f3bce655c7444d382d952b7b6b" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>OoxmlSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a3709fde08c23a56c072d4e54ce393a68" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>OoxmlSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a24fdc3ca4679d5c054d45c5356d05624" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9bf0591a869b2046558fac161fb5c8b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_AllowEmbeddingPostScriptFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a64be5b7e17dacf299184be8bc079a1a7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_Compliance</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a7f6e50336ac93bf0758342e179168cc6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_CompressionLevel</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a70292d5b6ed5dd4ed81ab6779ada5037" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_CustomTimeZoneInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6d50c71651e23523dd4edae9c8e03b0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_DefaultTemplate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a52f28c6f920bd4829f304f586dd52a4e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_Dml3DEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0415bb8f17f114f5b8bfbf77822f3e33" prot="public" virt="virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_DmlEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a925282153c1c7004637ce406968cd6bd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_DmlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2b3bada9094a54559b832d5051f5be6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_ExportGeneratorName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f2f79ea57714961156f913867823fc2" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afe2fd3cb5119a04f528a9da4b6c643b6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_ImlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a6a3eca8ba27d41dbc17813ac4226f946" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_KeepLegacyControlChars</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1b432af0d799842b6939005904d924b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_MemoryOptimization</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1ad5006898f6b26e323aa22d195680ddf8" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_Password</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0333c9e934c7b7066c108975a65291c9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_PrettyFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3ca5c36f7f1922b1f7b1f6e8528e29c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1aac8c847ff67afe4e870bfa145b53e9fe" prot="public" virt="virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_SaveFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a7488c6e1d35b21dda1fb3a6b24eb077c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aa6b3c59d2b5d93ecd4af333e7731a57a" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_UpdateCreatedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1ca0e9e7685d9cfdacad9b0c1c47fede" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_UpdateFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9253b0a7481cec6751f2d6e186d15f89" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_UpdateLastPrintedProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f8626f9e2fdd5ea38f656ecffea4433" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_UpdateLastSavedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afc31fd439351d75447554d3196522687" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_UpdateSdtContent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aee6a47d5aa51895c89fb99333990b15c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_UseAntiAliasing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aadd8de8195c06388cf619673c020dad3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>set_UseHighQualityRendering</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a2f4fe7d4f57284b8e026cfb5d8093483" prot="private" virt="virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>SetTestMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1ad324f37e9b89b8a982fc3bea67d89696" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_ooxml_save_options_1a1bcbbb6d878a7f8f16b3374aadc7a132" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::OoxmlSaveOptions</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

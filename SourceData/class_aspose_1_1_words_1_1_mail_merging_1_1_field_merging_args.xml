@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::MailMerging::FieldMergingArgs</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base" prot="public" virt="non-virtual">Aspose::Words::MailMerging::FieldMergingArgsBase</basecompoundref>
+    <includes refid="_field_merging_args_8h" local="no">Aspose.Words.Cpp/MailMerging/FieldMergingArgs.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_1a946c486cced85023cbfe926d3b890100" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base" kindref="compound">Aspose::Words::MailMerging::FieldMergingArgsBase</ref></type>
+        <definition>typedef Aspose::Words::MailMerging::FieldMergingArgsBase Aspose::Words::MailMerging::FieldMergingArgs::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::MailMerging::FieldMergingArgs::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/FieldMergingArgs.h" line="104" column="62" bodyfile="Aspose.Words.Cpp/MailMerging/FieldMergingArgs.h" bodystart="104" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_1a230af9436e4380c3014fbe6e8e782f1e" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args" kindref="compound">FieldMergingArgs</ref></type>
+        <definition>typedef FieldMergingArgs Aspose::Words::MailMerging::FieldMergingArgs::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::MailMerging::FieldMergingArgs::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/FieldMergingArgs.h" line="103" column="30" bodyfile="Aspose.Words.Cpp/MailMerging/FieldMergingArgs.h" bodystart="103" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_1a7c5a678a554307ed2fa94d2287c0867f" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::MailMerging::FieldMergingArgs::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::MailMerging::FieldMergingArgs::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/FieldMergingArgs.h" line="106" column="37" bodyfile="Aspose.Words.Cpp/MailMerging/FieldMergingArgs.h" bodystart="106" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_1a7cb36d1ca9c2ad61f08c60aecb342ad7" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::MailMerging::FieldMergingArgs::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::MailMerging::FieldMergingArgs::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/FieldMergingArgs.h" line="185" column="20" bodyfile="Aspose.Words.Cpp/MailMerging/FieldMergingArgs.h" bodystart="185" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_1ade8cf23622a4b64893134785e39a62be" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::MailMerging::FieldMergingArgs::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::MailMerging::FieldMergingArgs::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/FieldMergingArgs.h" line="107" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_1afcf7795bc8948a4826cf9b1538841560" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::MailMerging::FieldMergingArgs::get_Text</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Text</name>
+        <qualifiedname>Aspose::Words::MailMerging::FieldMergingArgs::get_Text</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the text that will be inserted into the document for the current merge field. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>When your event handler is called, this property is set to null.</para>
+<para>If you leave Text as null, the mail merge engine will insert <ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base_1a1e61345ef4cec152aef99c02d10ec006" kindref="member">FieldValue</ref> in place of the merge field.</para>
+<para>If you set Text to any string (including empty), the string will be inserted into the document in place of the merge field.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to execute a mail merge with a custom callback that handles merge data in the form of HTML documents. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>MergeHtml()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;MERGEFIELD<sp/><sp/>html_Title<sp/><sp/>\\b<sp/>Content&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;MERGEFIELD<sp/><sp/>html_Body<sp/><sp/>\\b<sp/>Content&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ArrayPtr&lt;SharedPtr&lt;System::Object&gt;&gt;<sp/>mergeData<sp/>=<sp/>MakeArray&lt;SharedPtr&lt;System::Object&gt;&gt;(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{System::ObjectExt::Box&lt;String&gt;(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;&lt;html&gt;&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;h1&gt;&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;span<sp/>style=\&quot;color:<sp/>#0000ff;<sp/>font-family:<sp/>Arial;\&quot;&gt;Hello<sp/>World!&lt;/span&gt;&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;&lt;/h1&gt;&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;/html&gt;&quot;</highlight><highlight class="normal">),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>System::ObjectExt::Box&lt;String&gt;(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;&lt;html&gt;&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;blockquote&gt;&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;&lt;p&gt;Lorem<sp/>ipsum<sp/>dolor<sp/>sit<sp/>amet,<sp/>consectetur<sp/>adipiscing<sp/>elit,<sp/>sed<sp/>do<sp/>eiusmod<sp/>tempor<sp/>incididunt<sp/>ut<sp/>labore<sp/>et<sp/>dolore<sp/>magna<sp/>aliqua.&lt;/p&gt;&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;&lt;/blockquote&gt;&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;/html&gt;&quot;</highlight><highlight class="normal">)});</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_MailMerge()-&gt;set_FieldMergingCallback(MakeObject&lt;ExMailMergeEvent::HandleMergeFieldInsertHtml&gt;());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_MailMerge()-&gt;Execute(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;html_Title&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;html_Body&quot;</highlight><highlight class="normal">}),<sp/>mergeData);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;MailMergeEvent.MergeHtml.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">HandleMergeFieldInsertHtml<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IFieldMergingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldMerging(SharedPtr&lt;FieldMergingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(args-&gt;get_DocumentFieldName().StartsWith(u</highlight><highlight class="stringliteral">&quot;html_&quot;</highlight><highlight class="normal">)<sp/>&amp;&amp;<sp/>args-&gt;get_Field()-&gt;GetFieldCode().Contains(u</highlight><highlight class="stringliteral">&quot;\\b&quot;</highlight><highlight class="normal">))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Add<sp/>parsed<sp/>HTML<sp/>data<sp/>to<sp/>the<sp/>document&apos;s<sp/>body.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(args-&gt;get_Document());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;MoveToMergeField(args-&gt;get_DocumentFieldName());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;InsertHtml(System::ObjectExt::Unbox&lt;String&gt;(args-&gt;get_FieldValue()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Since<sp/>we<sp/>have<sp/>already<sp/>inserted<sp/>the<sp/>merged<sp/>content<sp/>manually,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>we<sp/>will<sp/>not<sp/>need<sp/>to<sp/>respond<sp/>to<sp/>this<sp/>event<sp/>by<sp/>returning<sp/>content<sp/>via<sp/>the<sp/>&quot;Text&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_Text(String::Empty);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ImageFieldMerging(SharedPtr&lt;ImageFieldMergingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Do<sp/>nothing.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/FieldMergingArgs.h" line="176" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_1af0f816a13fbcd202f64225007d814d0b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::MailMerging::FieldMergingArgs::set_Text</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Text</name>
+        <qualifiedname>Aspose::Words::MailMerging::FieldMergingArgs::set_Text</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_1afcf7795bc8948a4826cf9b1538841560" kindref="member">Aspose::Words::MailMerging::FieldMergingArgs::get_Text</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/FieldMergingArgs.h" line="179" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Provides data for the <bold>MergeField</bold> event. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>The <bold>MergeField</bold> event occurs during mail merge when a simple mail merge field is encountered in the document. You can respond to this event to return text for the mail merge engine to insert into the document.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_i_field_merging_callback" kindref="compound">Aspose::Words::MailMerging::IFieldMergingCallback</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to execute a mail merge with a custom callback that handles merge data in the form of HTML documents. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>MergeHtml()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;MERGEFIELD<sp/><sp/>html_Title<sp/><sp/>\\b<sp/>Content&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;MERGEFIELD<sp/><sp/>html_Body<sp/><sp/>\\b<sp/>Content&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ArrayPtr&lt;SharedPtr&lt;System::Object&gt;&gt;<sp/>mergeData<sp/>=<sp/>MakeArray&lt;SharedPtr&lt;System::Object&gt;&gt;(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{System::ObjectExt::Box&lt;String&gt;(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;&lt;html&gt;&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;h1&gt;&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;span<sp/>style=\&quot;color:<sp/>#0000ff;<sp/>font-family:<sp/>Arial;\&quot;&gt;Hello<sp/>World!&lt;/span&gt;&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;&lt;/h1&gt;&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;/html&gt;&quot;</highlight><highlight class="normal">),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>System::ObjectExt::Box&lt;String&gt;(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;&lt;html&gt;&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;blockquote&gt;&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;&lt;p&gt;Lorem<sp/>ipsum<sp/>dolor<sp/>sit<sp/>amet,<sp/>consectetur<sp/>adipiscing<sp/>elit,<sp/>sed<sp/>do<sp/>eiusmod<sp/>tempor<sp/>incididunt<sp/>ut<sp/>labore<sp/>et<sp/>dolore<sp/>magna<sp/>aliqua.&lt;/p&gt;&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;&lt;/blockquote&gt;&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;/html&gt;&quot;</highlight><highlight class="normal">)});</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_MailMerge()-&gt;set_FieldMergingCallback(MakeObject&lt;ExMailMergeEvent::HandleMergeFieldInsertHtml&gt;());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_MailMerge()-&gt;Execute(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;html_Title&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;html_Body&quot;</highlight><highlight class="normal">}),<sp/>mergeData);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;MailMergeEvent.MergeHtml.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">HandleMergeFieldInsertHtml<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IFieldMergingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldMerging(SharedPtr&lt;FieldMergingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(args-&gt;get_DocumentFieldName().StartsWith(u</highlight><highlight class="stringliteral">&quot;html_&quot;</highlight><highlight class="normal">)<sp/>&amp;&amp;<sp/>args-&gt;get_Field()-&gt;GetFieldCode().Contains(u</highlight><highlight class="stringliteral">&quot;\\b&quot;</highlight><highlight class="normal">))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Add<sp/>parsed<sp/>HTML<sp/>data<sp/>to<sp/>the<sp/>document&apos;s<sp/>body.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(args-&gt;get_Document());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;MoveToMergeField(args-&gt;get_DocumentFieldName());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;InsertHtml(System::ObjectExt::Unbox&lt;String&gt;(args-&gt;get_FieldValue()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Since<sp/>we<sp/>have<sp/>already<sp/>inserted<sp/>the<sp/>merged<sp/>content<sp/>manually,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>we<sp/>will<sp/>not<sp/>need<sp/>to<sp/>respond<sp/>to<sp/>this<sp/>event<sp/>by<sp/>returning<sp/>content<sp/>via<sp/>the<sp/>&quot;Text&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_Text(String::Empty);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ImageFieldMerging(SharedPtr&lt;ImageFieldMergingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Do<sp/>nothing.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::MailMerging::FieldMergingArgs</label>
+        <link refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::MailMerging::FieldMergingArgsBase</label>
+        <link refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::MailMerging::FieldMergingArgs</label>
+        <link refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::MailMerging::FieldMergingArgsBase</label>
+        <link refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/MailMerging/FieldMergingArgs.h" line="101" column="1" bodyfile="Aspose.Words.Cpp/MailMerging/FieldMergingArgs.h" bodystart="102" bodyend="187"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_1a946c486cced85023cbfe926d3b890100" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::FieldMergingArgs</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base_1accf2b1f95f9c1897d088aa4d446c339e" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::FieldMergingArgs</scope><name>get_Document</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base_1af99cd4866937bdbb1b6d0e62e165b8d6" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::FieldMergingArgs</scope><name>get_DocumentFieldName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base_1a5082fa5b6e7a57712dac337797f77b4d" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::FieldMergingArgs</scope><name>get_Field</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base_1a18b86d6528012ab5a86c014b986e6f81" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::FieldMergingArgs</scope><name>get_FieldName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base_1a1e61345ef4cec152aef99c02d10ec006" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::FieldMergingArgs</scope><name>get_FieldValue</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base_1a721f8810dca5a4959eaeeb7b2d4cd79c" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::FieldMergingArgs</scope><name>get_RecordIndex</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base_1a633f4555dbddd38b15f22fe13ba20c51" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::FieldMergingArgs</scope><name>get_TableName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_1afcf7795bc8948a4826cf9b1538841560" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::FieldMergingArgs</scope><name>get_Text</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_1a7cb36d1ca9c2ad61f08c60aecb342ad7" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::FieldMergingArgs</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_1ade8cf23622a4b64893134785e39a62be" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::FieldMergingArgs</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base_1a1908c8699bb256be807385b7cf62818f" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::FieldMergingArgs</scope><name>set_FieldValue</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_1af0f816a13fbcd202f64225007d814d0b" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::FieldMergingArgs</scope><name>set_Text</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_1a230af9436e4380c3014fbe6e8e782f1e" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::FieldMergingArgs</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_1a7c5a678a554307ed2fa94d2287c0867f" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::FieldMergingArgs</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

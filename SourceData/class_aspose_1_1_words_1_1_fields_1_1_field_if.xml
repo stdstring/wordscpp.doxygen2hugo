@@ -1,0 +1,847 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_field_if" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::FieldIf</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field" prot="public" virt="non-virtual">Aspose::Words::Fields::Field</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IMergeFieldSurrogate</basecompoundref>
+    <includes refid="_field_if_8h" local="no">Aspose.Words.Cpp/Fields/FieldIf.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a930f510b0d8ab15416785983bf512737" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref></type>
+        <definition>typedef Aspose::Words::Fields::Field Aspose::Words::Fields::FieldIf::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="94" column="42" bodyfile="Aspose.Words.Cpp/Fields/FieldIf.h" bodystart="94" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1afcbe9384c4ee30a48603bb84e0f003e7" prot="private" static="no">
+        <type>Aspose::Words::Fields::IMergeFieldSurrogate</type>
+        <definition>typedef Aspose::Words::Fields::IMergeFieldSurrogate Aspose::Words::Fields::FieldIf::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="95" column="57" bodyfile="Aspose.Words.Cpp/Fields/FieldIf.h" bodystart="95" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a7ca4665de0407ef0cf4ec95192574e8a" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_if" kindref="compound">FieldIf</ref></type>
+        <definition>typedef FieldIf Aspose::Words::Fields::FieldIf::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="93" column="21" bodyfile="Aspose.Words.Cpp/Fields/FieldIf.h" bodystart="93" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a81cbe064de0a64755e14ae5e2d051668" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Fields::FieldIf::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="97" column="37" bodyfile="Aspose.Words.Cpp/Fields/FieldIf.h" bodystart="97" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a2870c675093bca238359f27637c54b4d" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fields::FieldIf::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="413" column="23" bodyfile="Aspose.Words.Cpp/Fields/FieldIf.h" bodystart="413" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a2c1a5d9140578adfdba00dfadff608d5" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Fields::FieldIf::~FieldIf</definition>
+        <argsstring>()</argsstring>
+        <name>~FieldIf</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::~FieldIf</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="409" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1aeb9a5c2003d36103d9c4bbdb1fe7e32f" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldIf::CanWorkAsMergeField</definition>
+        <argsstring>() override</argsstring>
+        <name>CanWorkAsMergeField</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::CanWorkAsMergeField</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="416" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a12f92277e72928d3eccb8d16c6e75fcd" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldIf::get_SupportsConditionalUpdate</definition>
+        <argsstring>() override</argsstring>
+        <name>get_SupportsConditionalUpdate</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::get_SupportsConditionalUpdate</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a1bc513fb40420b6d46d983ff6a804c77">get_SupportsConditionalUpdate</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="402" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a188efe8db3f6cd079c49fffa13800c52" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>Aspose::Words::Fields::FieldUpdateStrategy</type>
+        <definition>Aspose::Words::Fields::FieldUpdateStrategy Aspose::Words::Fields::FieldIf::GetChildFieldsUpdateStrategyInArgument</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::Fields::IFieldArgument &gt;) override</argsstring>
+        <name>GetChildFieldsUpdateStrategyInArgument</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::GetChildFieldsUpdateStrategyInArgument</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1af2ca5299128e70f16f83c5706524f643">GetChildFieldsUpdateStrategyInArgument</reimplements>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::IFieldArgument &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="405" column="51"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1ad9064816bf717e136bbd9ade62b67b13" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldIf::GetMergeFieldName</definition>
+        <argsstring>() override</argsstring>
+        <name>GetMergeFieldName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::GetMergeFieldName</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="415" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a596db6164375b95f20bde2f44bc4e8eb" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldIf::IsMergeValueRequired</definition>
+        <argsstring>() override</argsstring>
+        <name>IsMergeValueRequired</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::IsMergeValueRequired</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="417" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1ab3ac4f2591f363bd9d387b8c9d1b1551" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldIf::NotifyChildFieldUpdated</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::Fields::IFieldArgument &gt;) override</argsstring>
+        <name>NotifyChildFieldUpdated</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::NotifyChildFieldUpdated</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aff48bb5a80ad13f4e14f79c99cf1fb6d">NotifyChildFieldUpdated</reimplements>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::IFieldArgument &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="406" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a059f625e4d2db716a4131e5aa50556b0" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldIf::ParseFieldCode</definition>
+        <argsstring>() override</argsstring>
+        <name>ParseFieldCode</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::ParseFieldCode</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afd175a349099f9cae71188f36b6666d0">ParseFieldCode</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="407" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a34bd09eeed9ae40d336ee47a2d965e6e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldIf::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="98" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1ae4537ab2a4042021f0608eccd657ff46" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldUpdateAction &gt; Aspose::Words::Fields::FieldIf::UpdateCore</definition>
+        <argsstring>() override</argsstring>
+        <name>UpdateCore</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::UpdateCore</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afd2f4d29a84550a38375396538654ab8">UpdateCore</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="404" column="26"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a4fd4a13e407fbb2c17aeadeb63ab5672" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_fields_1af3645ee9775b87db08f406a6d73ffc48" kindref="member">Aspose::Words::Fields::FieldIfComparisonResult</ref></type>
+        <definition>Aspose::Words::Fields::FieldIfComparisonResult Aspose::Words::Fields::FieldIf::EvaluateCondition</definition>
+        <argsstring>()</argsstring>
+        <name>EvaluateCondition</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::EvaluateCondition</qualifiedname>
+        <briefdescription>
+<para>Evaluates the condition. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>A <ref refid="namespace_aspose_1_1_words_1_1_fields_1af3645ee9775b87db08f406a6d73ffc48" kindref="member">FieldIfComparisonResult</ref> value that represents the result of the condition evaluation.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert an IF field. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Statement<sp/>1:<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldIf&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca977dda6ca14fcff75096cef279a06ce8" kindref="member" tooltip="Specifies the IF field.">FieldType::FieldIf</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LeftExpression(u</highlight><highlight class="stringliteral">&quot;0&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ComparisonOperator(u</highlight><highlight class="stringliteral">&quot;=&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_RightExpression(u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>IF<sp/>field<sp/>will<sp/>display<sp/>a<sp/>string<sp/>from<sp/>either<sp/>its<sp/>&quot;TrueText&quot;<sp/>property,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>or<sp/>its<sp/>&quot;FalseText&quot;<sp/>property,<sp/>depending<sp/>on<sp/>the<sp/>truth<sp/>of<sp/>the<sp/>statement<sp/>that<sp/>we<sp/>have<sp/>constructed.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_TrueText(u</highlight><highlight class="stringliteral">&quot;True&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FalseText(u</highlight><highlight class="stringliteral">&quot;False&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>&quot;0<sp/>=<sp/>1&quot;<sp/>is<sp/>incorrect,<sp/>so<sp/>the<sp/>displayed<sp/>result<sp/>will<sp/>be<sp/>&quot;False&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>IF<sp/><sp/>0<sp/>=<sp/>1<sp/>True<sp/>False&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1af3645ee9775b87db08f406a6d73ffc48af8320b26d30ab433c5a54546d21f414c" kindref="member" tooltip="The condition is false.">FieldIfComparisonResult::False</ref>,<sp/>field-&gt;EvaluateCondition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;False&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;\nStatement<sp/>2:<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldIf&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca977dda6ca14fcff75096cef279a06ce8" kindref="member" tooltip="Specifies the IF field.">FieldType::FieldIf</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LeftExpression(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ComparisonOperator(u</highlight><highlight class="stringliteral">&quot;=&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_RightExpression(u</highlight><highlight class="stringliteral">&quot;2<sp/>+<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_TrueText(u</highlight><highlight class="stringliteral">&quot;True&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FalseText(u</highlight><highlight class="stringliteral">&quot;False&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>time<sp/>the<sp/>statement<sp/>is<sp/>correct,<sp/>so<sp/>the<sp/>displayed<sp/>result<sp/>will<sp/>be<sp/>&quot;True&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>IF<sp/><sp/>5<sp/>=<sp/>\&quot;2<sp/>+<sp/>3\&quot;<sp/>True<sp/>False&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1af3645ee9775b87db08f406a6d73ffc48af827cf462f62848df37c5e1e94a4da74" kindref="member" tooltip="The condition is true.">FieldIfComparisonResult::True</ref>,<sp/>field-&gt;EvaluateCondition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;True&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.IF.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="398" column="55"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a5267eac4d443e2ca37dc9592794325db" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldIf::get_ComparisonOperator</definition>
+        <argsstring>()</argsstring>
+        <name>get_ComparisonOperator</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::get_ComparisonOperator</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the comparison operator. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert an IF field. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Statement<sp/>1:<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldIf&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca977dda6ca14fcff75096cef279a06ce8" kindref="member" tooltip="Specifies the IF field.">FieldType::FieldIf</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LeftExpression(u</highlight><highlight class="stringliteral">&quot;0&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ComparisonOperator(u</highlight><highlight class="stringliteral">&quot;=&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_RightExpression(u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>IF<sp/>field<sp/>will<sp/>display<sp/>a<sp/>string<sp/>from<sp/>either<sp/>its<sp/>&quot;TrueText&quot;<sp/>property,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>or<sp/>its<sp/>&quot;FalseText&quot;<sp/>property,<sp/>depending<sp/>on<sp/>the<sp/>truth<sp/>of<sp/>the<sp/>statement<sp/>that<sp/>we<sp/>have<sp/>constructed.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_TrueText(u</highlight><highlight class="stringliteral">&quot;True&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FalseText(u</highlight><highlight class="stringliteral">&quot;False&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>&quot;0<sp/>=<sp/>1&quot;<sp/>is<sp/>incorrect,<sp/>so<sp/>the<sp/>displayed<sp/>result<sp/>will<sp/>be<sp/>&quot;False&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>IF<sp/><sp/>0<sp/>=<sp/>1<sp/>True<sp/>False&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1af3645ee9775b87db08f406a6d73ffc48af8320b26d30ab433c5a54546d21f414c" kindref="member" tooltip="The condition is false.">FieldIfComparisonResult::False</ref>,<sp/>field-&gt;EvaluateCondition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;False&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;\nStatement<sp/>2:<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldIf&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca977dda6ca14fcff75096cef279a06ce8" kindref="member" tooltip="Specifies the IF field.">FieldType::FieldIf</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LeftExpression(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ComparisonOperator(u</highlight><highlight class="stringliteral">&quot;=&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_RightExpression(u</highlight><highlight class="stringliteral">&quot;2<sp/>+<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_TrueText(u</highlight><highlight class="stringliteral">&quot;True&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FalseText(u</highlight><highlight class="stringliteral">&quot;False&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>time<sp/>the<sp/>statement<sp/>is<sp/>correct,<sp/>so<sp/>the<sp/>displayed<sp/>result<sp/>will<sp/>be<sp/>&quot;True&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>IF<sp/><sp/>5<sp/>=<sp/>\&quot;2<sp/>+<sp/>3\&quot;<sp/>True<sp/>False&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1af3645ee9775b87db08f406a6d73ffc48af827cf462f62848df37c5e1e94a4da74" kindref="member" tooltip="The condition is true.">FieldIfComparisonResult::True</ref>,<sp/>field-&gt;EvaluateCondition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;True&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.IF.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="204" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a0207de0b0cac82c1bbb66cc34cd559a3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_end" kindref="compound">Aspose::Words::Fields::FieldEnd</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldEnd &gt; Aspose::Words::Fields::FieldIf::get_End</definition>
+        <argsstring>() override</argsstring>
+        <name>get_End</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::get_End</qualifiedname>
+        <briefdescription>
+<para>Gets the node that represents the field end. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="111" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1ab67386a45321d89e84d9d4a360c44f8e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldIf::get_FalseText</definition>
+        <argsstring>()</argsstring>
+        <name>get_FalseText</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::get_FalseText</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the text displayed if the comparison expression is false. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert an IF field. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Statement<sp/>1:<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldIf&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca977dda6ca14fcff75096cef279a06ce8" kindref="member" tooltip="Specifies the IF field.">FieldType::FieldIf</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LeftExpression(u</highlight><highlight class="stringliteral">&quot;0&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ComparisonOperator(u</highlight><highlight class="stringliteral">&quot;=&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_RightExpression(u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>IF<sp/>field<sp/>will<sp/>display<sp/>a<sp/>string<sp/>from<sp/>either<sp/>its<sp/>&quot;TrueText&quot;<sp/>property,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>or<sp/>its<sp/>&quot;FalseText&quot;<sp/>property,<sp/>depending<sp/>on<sp/>the<sp/>truth<sp/>of<sp/>the<sp/>statement<sp/>that<sp/>we<sp/>have<sp/>constructed.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_TrueText(u</highlight><highlight class="stringliteral">&quot;True&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FalseText(u</highlight><highlight class="stringliteral">&quot;False&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>&quot;0<sp/>=<sp/>1&quot;<sp/>is<sp/>incorrect,<sp/>so<sp/>the<sp/>displayed<sp/>result<sp/>will<sp/>be<sp/>&quot;False&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>IF<sp/><sp/>0<sp/>=<sp/>1<sp/>True<sp/>False&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1af3645ee9775b87db08f406a6d73ffc48af8320b26d30ab433c5a54546d21f414c" kindref="member" tooltip="The condition is false.">FieldIfComparisonResult::False</ref>,<sp/>field-&gt;EvaluateCondition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;False&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;\nStatement<sp/>2:<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldIf&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca977dda6ca14fcff75096cef279a06ce8" kindref="member" tooltip="Specifies the IF field.">FieldType::FieldIf</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LeftExpression(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ComparisonOperator(u</highlight><highlight class="stringliteral">&quot;=&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_RightExpression(u</highlight><highlight class="stringliteral">&quot;2<sp/>+<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_TrueText(u</highlight><highlight class="stringliteral">&quot;True&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FalseText(u</highlight><highlight class="stringliteral">&quot;False&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>time<sp/>the<sp/>statement<sp/>is<sp/>correct,<sp/>so<sp/>the<sp/>displayed<sp/>result<sp/>will<sp/>be<sp/>&quot;True&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>IF<sp/><sp/>5<sp/>=<sp/>\&quot;2<sp/>+<sp/>3\&quot;<sp/>True<sp/>False&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1af3645ee9775b87db08f406a6d73ffc48af827cf462f62848df37c5e1e94a4da74" kindref="member" tooltip="The condition is true.">FieldIfComparisonResult::True</ref>,<sp/>field-&gt;EvaluateCondition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;True&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.IF.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="348" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a005b5114502f9a52d07774b2114da86f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldIf::get_LeftExpression</definition>
+        <argsstring>()</argsstring>
+        <name>get_LeftExpression</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::get_LeftExpression</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the left part of the comparison expression. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert an IF field. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Statement<sp/>1:<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldIf&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca977dda6ca14fcff75096cef279a06ce8" kindref="member" tooltip="Specifies the IF field.">FieldType::FieldIf</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LeftExpression(u</highlight><highlight class="stringliteral">&quot;0&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ComparisonOperator(u</highlight><highlight class="stringliteral">&quot;=&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_RightExpression(u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>IF<sp/>field<sp/>will<sp/>display<sp/>a<sp/>string<sp/>from<sp/>either<sp/>its<sp/>&quot;TrueText&quot;<sp/>property,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>or<sp/>its<sp/>&quot;FalseText&quot;<sp/>property,<sp/>depending<sp/>on<sp/>the<sp/>truth<sp/>of<sp/>the<sp/>statement<sp/>that<sp/>we<sp/>have<sp/>constructed.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_TrueText(u</highlight><highlight class="stringliteral">&quot;True&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FalseText(u</highlight><highlight class="stringliteral">&quot;False&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>&quot;0<sp/>=<sp/>1&quot;<sp/>is<sp/>incorrect,<sp/>so<sp/>the<sp/>displayed<sp/>result<sp/>will<sp/>be<sp/>&quot;False&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>IF<sp/><sp/>0<sp/>=<sp/>1<sp/>True<sp/>False&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1af3645ee9775b87db08f406a6d73ffc48af8320b26d30ab433c5a54546d21f414c" kindref="member" tooltip="The condition is false.">FieldIfComparisonResult::False</ref>,<sp/>field-&gt;EvaluateCondition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;False&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;\nStatement<sp/>2:<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldIf&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca977dda6ca14fcff75096cef279a06ce8" kindref="member" tooltip="Specifies the IF field.">FieldType::FieldIf</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LeftExpression(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ComparisonOperator(u</highlight><highlight class="stringliteral">&quot;=&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_RightExpression(u</highlight><highlight class="stringliteral">&quot;2<sp/>+<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_TrueText(u</highlight><highlight class="stringliteral">&quot;True&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FalseText(u</highlight><highlight class="stringliteral">&quot;False&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>time<sp/>the<sp/>statement<sp/>is<sp/>correct,<sp/>so<sp/>the<sp/>displayed<sp/>result<sp/>will<sp/>be<sp/>&quot;True&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>IF<sp/><sp/>5<sp/>=<sp/>\&quot;2<sp/>+<sp/>3\&quot;<sp/>True<sp/>False&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1af3645ee9775b87db08f406a6d73ffc48af827cf462f62848df37c5e1e94a4da74" kindref="member" tooltip="The condition is true.">FieldIfComparisonResult::True</ref>,<sp/>field-&gt;EvaluateCondition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;True&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.IF.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="156" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a5f0ff4c658c480c7dba88dd62572c3bd" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldIf::get_RightExpression</definition>
+        <argsstring>()</argsstring>
+        <name>get_RightExpression</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::get_RightExpression</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the right part of the comparison expression. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert an IF field. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Statement<sp/>1:<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldIf&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca977dda6ca14fcff75096cef279a06ce8" kindref="member" tooltip="Specifies the IF field.">FieldType::FieldIf</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LeftExpression(u</highlight><highlight class="stringliteral">&quot;0&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ComparisonOperator(u</highlight><highlight class="stringliteral">&quot;=&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_RightExpression(u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>IF<sp/>field<sp/>will<sp/>display<sp/>a<sp/>string<sp/>from<sp/>either<sp/>its<sp/>&quot;TrueText&quot;<sp/>property,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>or<sp/>its<sp/>&quot;FalseText&quot;<sp/>property,<sp/>depending<sp/>on<sp/>the<sp/>truth<sp/>of<sp/>the<sp/>statement<sp/>that<sp/>we<sp/>have<sp/>constructed.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_TrueText(u</highlight><highlight class="stringliteral">&quot;True&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FalseText(u</highlight><highlight class="stringliteral">&quot;False&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>&quot;0<sp/>=<sp/>1&quot;<sp/>is<sp/>incorrect,<sp/>so<sp/>the<sp/>displayed<sp/>result<sp/>will<sp/>be<sp/>&quot;False&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>IF<sp/><sp/>0<sp/>=<sp/>1<sp/>True<sp/>False&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1af3645ee9775b87db08f406a6d73ffc48af8320b26d30ab433c5a54546d21f414c" kindref="member" tooltip="The condition is false.">FieldIfComparisonResult::False</ref>,<sp/>field-&gt;EvaluateCondition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;False&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;\nStatement<sp/>2:<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldIf&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca977dda6ca14fcff75096cef279a06ce8" kindref="member" tooltip="Specifies the IF field.">FieldType::FieldIf</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LeftExpression(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ComparisonOperator(u</highlight><highlight class="stringliteral">&quot;=&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_RightExpression(u</highlight><highlight class="stringliteral">&quot;2<sp/>+<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_TrueText(u</highlight><highlight class="stringliteral">&quot;True&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FalseText(u</highlight><highlight class="stringliteral">&quot;False&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>time<sp/>the<sp/>statement<sp/>is<sp/>correct,<sp/>so<sp/>the<sp/>displayed<sp/>result<sp/>will<sp/>be<sp/>&quot;True&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>IF<sp/><sp/>5<sp/>=<sp/>\&quot;2<sp/>+<sp/>3\&quot;<sp/>True<sp/>False&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1af3645ee9775b87db08f406a6d73ffc48af827cf462f62848df37c5e1e94a4da74" kindref="member" tooltip="The condition is true.">FieldIfComparisonResult::True</ref>,<sp/>field-&gt;EvaluateCondition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;True&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.IF.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="252" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a6c65905ae3273ff9b98b3ab4194e6cb0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_separator" kindref="compound">Aspose::Words::Fields::FieldSeparator</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldSeparator &gt; Aspose::Words::Fields::FieldIf::get_Separator</definition>
+        <argsstring>() override</argsstring>
+        <name>get_Separator</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::get_Separator</qualifiedname>
+        <briefdescription>
+<para>Gets the node that represents the field separator. Can be null. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="108" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1aad4a11dc5091a590d5ffbf954cb958a4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_start" kindref="compound">Aspose::Words::Fields::FieldStart</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldStart &gt; Aspose::Words::Fields::FieldIf::get_Start</definition>
+        <argsstring>() override</argsstring>
+        <name>get_Start</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::get_Start</qualifiedname>
+        <briefdescription>
+<para>Gets the node that represents the start of the field. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="105" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a7c9e0491d6abf60eb4dded193f8ce752" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldIf::get_TrueText</definition>
+        <argsstring>()</argsstring>
+        <name>get_TrueText</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::get_TrueText</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the text displayed if the comparison expression is true. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert an IF field. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Statement<sp/>1:<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldIf&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca977dda6ca14fcff75096cef279a06ce8" kindref="member" tooltip="Specifies the IF field.">FieldType::FieldIf</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LeftExpression(u</highlight><highlight class="stringliteral">&quot;0&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ComparisonOperator(u</highlight><highlight class="stringliteral">&quot;=&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_RightExpression(u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>IF<sp/>field<sp/>will<sp/>display<sp/>a<sp/>string<sp/>from<sp/>either<sp/>its<sp/>&quot;TrueText&quot;<sp/>property,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>or<sp/>its<sp/>&quot;FalseText&quot;<sp/>property,<sp/>depending<sp/>on<sp/>the<sp/>truth<sp/>of<sp/>the<sp/>statement<sp/>that<sp/>we<sp/>have<sp/>constructed.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_TrueText(u</highlight><highlight class="stringliteral">&quot;True&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FalseText(u</highlight><highlight class="stringliteral">&quot;False&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>&quot;0<sp/>=<sp/>1&quot;<sp/>is<sp/>incorrect,<sp/>so<sp/>the<sp/>displayed<sp/>result<sp/>will<sp/>be<sp/>&quot;False&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>IF<sp/><sp/>0<sp/>=<sp/>1<sp/>True<sp/>False&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1af3645ee9775b87db08f406a6d73ffc48af8320b26d30ab433c5a54546d21f414c" kindref="member" tooltip="The condition is false.">FieldIfComparisonResult::False</ref>,<sp/>field-&gt;EvaluateCondition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;False&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;\nStatement<sp/>2:<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldIf&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca977dda6ca14fcff75096cef279a06ce8" kindref="member" tooltip="Specifies the IF field.">FieldType::FieldIf</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LeftExpression(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ComparisonOperator(u</highlight><highlight class="stringliteral">&quot;=&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_RightExpression(u</highlight><highlight class="stringliteral">&quot;2<sp/>+<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_TrueText(u</highlight><highlight class="stringliteral">&quot;True&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FalseText(u</highlight><highlight class="stringliteral">&quot;False&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>time<sp/>the<sp/>statement<sp/>is<sp/>correct,<sp/>so<sp/>the<sp/>displayed<sp/>result<sp/>will<sp/>be<sp/>&quot;True&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>IF<sp/><sp/>5<sp/>=<sp/>\&quot;2<sp/>+<sp/>3\&quot;<sp/>True<sp/>False&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1af3645ee9775b87db08f406a6d73ffc48af827cf462f62848df37c5e1e94a4da74" kindref="member" tooltip="The condition is true.">FieldIfComparisonResult::True</ref>,<sp/>field-&gt;EvaluateCondition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;True&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.IF.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="300" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1afd5af3ce09be42ba04259a900c73b61c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldIf::set_ComparisonOperator</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ComparisonOperator</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::set_ComparisonOperator</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a5267eac4d443e2ca37dc9592794325db" kindref="member">Aspose::Words::Fields::FieldIf::get_ComparisonOperator</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="207" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a235b7fa468318c75bbaff608da1b1b9d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldIf::set_FalseText</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_FalseText</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::set_FalseText</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1ab67386a45321d89e84d9d4a360c44f8e" kindref="member">Aspose::Words::Fields::FieldIf::get_FalseText</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="351" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a9dff0e76f79797a8026725f92c04d18a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldIf::set_LeftExpression</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_LeftExpression</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::set_LeftExpression</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a005b5114502f9a52d07774b2114da86f" kindref="member">Aspose::Words::Fields::FieldIf::get_LeftExpression</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="159" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a881df4b3a9d98c129286a7cec6901b7b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldIf::set_RightExpression</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_RightExpression</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::set_RightExpression</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a5f0ff4c658c480c7dba88dd62572c3bd" kindref="member">Aspose::Words::Fields::FieldIf::get_RightExpression</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="255" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a3b94e859956567eced7368ec50a56431" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldIf::set_TrueText</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_TrueText</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIf::set_TrueText</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a7c9e0491d6abf60eb4dded193f8ce752" kindref="member">Aspose::Words::Fields::FieldIf::get_TrueText</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="303" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implements the IF field. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>Compares the values designated by the expressions <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a005b5114502f9a52d07774b2114da86f" kindref="member">LeftExpression</ref> and <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a5f0ff4c658c480c7dba88dd62572c3bd" kindref="member">RightExpression</ref> in comparison using the operator designated by <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a5267eac4d443e2ca37dc9592794325db" kindref="member">ComparisonOperator</ref>.</para>
+<para>A field in the following format will be used as a mail merge source: { IF 0 = 0 &quot;{PatientsNameFML}&quot; &quot;&quot; \* MERGEFORMAT }</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert an IF field. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Statement<sp/>1:<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldIf&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca977dda6ca14fcff75096cef279a06ce8" kindref="member" tooltip="Specifies the IF field.">FieldType::FieldIf</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LeftExpression(u</highlight><highlight class="stringliteral">&quot;0&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ComparisonOperator(u</highlight><highlight class="stringliteral">&quot;=&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_RightExpression(u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>IF<sp/>field<sp/>will<sp/>display<sp/>a<sp/>string<sp/>from<sp/>either<sp/>its<sp/>&quot;TrueText&quot;<sp/>property,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>or<sp/>its<sp/>&quot;FalseText&quot;<sp/>property,<sp/>depending<sp/>on<sp/>the<sp/>truth<sp/>of<sp/>the<sp/>statement<sp/>that<sp/>we<sp/>have<sp/>constructed.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_TrueText(u</highlight><highlight class="stringliteral">&quot;True&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FalseText(u</highlight><highlight class="stringliteral">&quot;False&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>&quot;0<sp/>=<sp/>1&quot;<sp/>is<sp/>incorrect,<sp/>so<sp/>the<sp/>displayed<sp/>result<sp/>will<sp/>be<sp/>&quot;False&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>IF<sp/><sp/>0<sp/>=<sp/>1<sp/>True<sp/>False&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1af3645ee9775b87db08f406a6d73ffc48af8320b26d30ab433c5a54546d21f414c" kindref="member" tooltip="The condition is false.">FieldIfComparisonResult::False</ref>,<sp/>field-&gt;EvaluateCondition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;False&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;\nStatement<sp/>2:<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldIf&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca977dda6ca14fcff75096cef279a06ce8" kindref="member" tooltip="Specifies the IF field.">FieldType::FieldIf</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LeftExpression(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ComparisonOperator(u</highlight><highlight class="stringliteral">&quot;=&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_RightExpression(u</highlight><highlight class="stringliteral">&quot;2<sp/>+<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_TrueText(u</highlight><highlight class="stringliteral">&quot;True&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FalseText(u</highlight><highlight class="stringliteral">&quot;False&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>time<sp/>the<sp/>statement<sp/>is<sp/>correct,<sp/>so<sp/>the<sp/>displayed<sp/>result<sp/>will<sp/>be<sp/>&quot;True&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>IF<sp/><sp/>5<sp/>=<sp/>\&quot;2<sp/>+<sp/>3\&quot;<sp/>True<sp/>False&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1af3645ee9775b87db08f406a6d73ffc48af827cf462f62848df37c5e1e94a4da74" kindref="member" tooltip="The condition is true.">FieldIfComparisonResult::True</ref>,<sp/>field-&gt;EvaluateCondition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;True&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.IF.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldIf</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_if"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IMergeFieldSurrogate</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldIf</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_if"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IMergeFieldSurrogate</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/FieldIf.h" line="91" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldIf.h" bodystart="92" bodyend="421"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a930f510b0d8ab15416785983bf512737" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1afcbe9384c4ee30a48603bb84e0f003e7" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1aeb9a5c2003d36103d9c4bbdb1fe7e32f" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>CanWorkAsMergeField</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a4fd4a13e407fbb2c17aeadeb63ab5672" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>EvaluateCondition</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a5267eac4d443e2ca37dc9592794325db" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>get_ComparisonOperator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a5c2d01019c517ea8098f296903e37a34" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>get_DisplayResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a0207de0b0cac82c1bbb66cc34cd559a3" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad5f0995c85cce833806e847cf25809b7" prot="public" virt="non-virtual" ambiguityscope="Aspose::Words::Fields::Field::"><scope>Aspose::Words::Fields::FieldIf</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1ab67386a45321d89e84d9d4a360c44f8e" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>get_FalseText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a399c14463916724cac0015b430175589" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>get_FieldEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abc40cddc1325f7fec80d8530e5287448" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>get_FieldStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a090c5d09915e2ead6cc54fda736dd7c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>get_Format</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ae68851d4a88a1fc867d3ddee2e4e88c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>get_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afda4c46db80761545c89e21aae5b717d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>get_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a005b5114502f9a52d07774b2114da86f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>get_LeftExpression</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a93719d071099487b6aea1eaa241dd6e8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>get_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a012c93472901dc077815970a9b2ab650" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>get_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a5f0ff4c658c480c7dba88dd62572c3bd" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>get_RightExpression</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a6c65905ae3273ff9b98b3ab4194e6cb0" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>get_Separator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1aad4a11dc5091a590d5ffbf954cb958a4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afa7cd5d4cf1a87b05058982f26786456" prot="public" virt="non-virtual" ambiguityscope="Aspose::Words::Fields::Field::"><scope>Aspose::Words::Fields::FieldIf</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a12f92277e72928d3eccb8d16c6e75fcd" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>get_SupportsConditionalUpdate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a7c9e0491d6abf60eb4dded193f8ce752" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>get_TrueText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad68196653db5cfca30c1ba18ed44c76e" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a188efe8db3f6cd079c49fffa13800c52" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>GetChildFieldsUpdateStrategyInArgument</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa40bc0e4a5be11f0df785cc8bb2ff042" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1ad9064816bf717e136bbd9ade62b67b13" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>GetMergeFieldName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a596db6164375b95f20bde2f44bc4e8eb" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>IsMergeValueRequired</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a2870c675093bca238359f27637c54b4d" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1ab3ac4f2591f363bd9d387b8c9d1b1551" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>NotifyChildFieldUpdated</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a059f625e4d2db716a4131e5aa50556b0" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>ParseFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad26a8021af3dbdc5bf0a1360a201222f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a34bd09eeed9ae40d336ee47a2d965e6e" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1afd5af3ce09be42ba04259a900c73b61c" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>set_ComparisonOperator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a235b7fa468318c75bbaff608da1b1b9d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>set_FalseText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa637d825865724665fb8ed856e664d95" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>set_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ac70b125adbe7f0ba5b889280cd282c47" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>set_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a9dff0e76f79797a8026725f92c04d18a" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>set_LeftExpression</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a165f748dd5ba33844f1d765f6c710f88" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>set_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa6af1e900c84ae806f071098dfe8f087" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>set_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a881df4b3a9d98c129286a7cec6901b7b" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>set_RightExpression</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a3b94e859956567eced7368ec50a56431" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>set_TrueText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a7ca4665de0407ef0cf4ec95192574e8a" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a81cbe064de0a64755e14ae5e2d051668" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab9f908becb16b26bed76d58dbcee9929" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>Unlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aaec82418b2b6493aa2827b8e282b2e82" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a1298d7daa07c863bf97cb3f37a4d7a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1ae4537ab2a4042021f0608eccd657ff46" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>UpdateCore</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_if_1a2c1a5d9140578adfdba00dfadff608d5" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldIf</scope><name>~FieldIf</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

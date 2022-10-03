@@ -1,0 +1,645 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Saving::PdfDigitalSignatureDetails</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_pdf_digital_signature_details_8h" local="no">Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a614c4beb8cd3a72b31645319decd6379" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Saving::PdfDigitalSignatureDetails::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Saving::PdfDigitalSignatureDetails::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" line="82" column="28" bodyfile="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" bodystart="82" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a0bb88efaa80e5918d1ea738588ea95ec" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details" kindref="compound">PdfDigitalSignatureDetails</ref></type>
+        <definition>typedef PdfDigitalSignatureDetails Aspose::Words::Saving::PdfDigitalSignatureDetails::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Saving::PdfDigitalSignatureDetails::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" line="81" column="40" bodyfile="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" bodystart="81" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a709aad46f70c9758c7aa8a88028182d4" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::PdfDigitalSignatureDetails::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Saving::PdfDigitalSignatureDetails::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" line="84" column="37" bodyfile="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" bodystart="84" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a7878ee7d4e11e78888bb068c943d73f1" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::PdfDigitalSignatureDetails::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Saving::PdfDigitalSignatureDetails::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" line="283" column="23" bodyfile="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" bodystart="283" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1aaa86ff8fe4080a09a1d486de8d35debd" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::PdfDigitalSignatureDetails::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Saving::PdfDigitalSignatureDetails::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" line="284" column="20" bodyfile="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" bodystart="284" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a6f795bd998061fd0ad3ed8c5a6b2938d" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::PdfDigitalSignatureDetails::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Saving::PdfDigitalSignatureDetails::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" line="285" column="20" bodyfile="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" bodystart="285" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a4e6f071b8418b72df45603b189dd6005" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.date_time/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref></type>
+        <definition>System::DateTime Aspose::Words::Saving::PdfDigitalSignatureDetails::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Saving::PdfDigitalSignatureDetails::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" line="286" column="22" bodyfile="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" bodystart="286" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a045db9fcdd9389eaf027ada82aa2e4ca" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::PdfDigitalSignatureDetails::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Saving::PdfDigitalSignatureDetails::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" line="287" column="23" bodyfile="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" bodystart="287" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a603d55e088c126a007567b95d5a67d58" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Saving::PdfDigitalSignatureDetails::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::Saving::PdfDigitalSignatureDetails::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" line="288" column="23" bodyfile="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" bodystart="288" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1ab9d5dd00639de0cce868cad7f8dd6617" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::PdfDigitalSignatureDetails::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Saving::PdfDigitalSignatureDetails::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" line="85" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a9bf0964fce250098438e45e8bb0d429a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::PdfDigitalSignatureDetails::PdfDigitalSignatureDetails</definition>
+        <argsstring>()</argsstring>
+        <name>PdfDigitalSignatureDetails</name>
+        <qualifiedname>Aspose::Words::Saving::PdfDigitalSignatureDetails::PdfDigitalSignatureDetails</qualifiedname>
+        <briefdescription>
+<para>Initializes an instance of this class. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" line="242" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1ae7208e750a2f62e7dc1ded835d2060de" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::PdfDigitalSignatureDetails::PdfDigitalSignatureDetails</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::DigitalSignatures::CertificateHolder &gt; &amp;certificateHolder, const System::String &amp;reason, const System::String &amp;location, System::DateTime signatureDate)</argsstring>
+        <name>PdfDigitalSignatureDetails</name>
+        <qualifiedname>Aspose::Words::Saving::PdfDigitalSignatureDetails::PdfDigitalSignatureDetails</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder" kindref="compound">Aspose::Words::DigitalSignatures::CertificateHolder</ref> &gt; &amp;</type>
+          <declname>certificateHolder</declname>
+        </param>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>reason</declname>
+        </param>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>location</declname>
+        </param>
+        <param>
+          <type><ref refid="class/system.date_time/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref></type>
+          <declname>signatureDate</declname>
+        </param>
+        <briefdescription>
+<para>Initializes an instance of this class. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>certificateHolder</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>A certificate holder which contains the certificate itself. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>reason</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The reason for signing. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>location</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The location of signing. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>signatureDate</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The date and time of signing.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to sign a generated PDF document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Contents<sp/>of<sp/>signed<sp/>PDF.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CertificateHolder&gt;<sp/>certificateHolder<sp/>=<sp/>CertificateHolder::Create(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;morzal.pfx&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;aw&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;PdfSaveOptions&quot;<sp/>object<sp/>that<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>that<sp/>method<sp/>converts<sp/>the<sp/>document<sp/>to<sp/>.PDF.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;PdfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Configure<sp/>the<sp/>&quot;DigitalSignatureDetails&quot;<sp/>object<sp/>of<sp/>the<sp/>&quot;SaveOptions&quot;<sp/>object<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>digitally<sp/>sign<sp/>the<sp/>document<sp/>as<sp/>we<sp/>render<sp/>it<sp/>with<sp/>the<sp/>&quot;Save&quot;<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.date_time/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref><sp/>signingTime<sp/>=<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>();</highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_DigitalSignatureDetails(MakeObject&lt;PdfDigitalSignatureDetails&gt;(certificateHolder,<sp/>u</highlight><highlight class="stringliteral">&quot;Test<sp/>Signing&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;My<sp/>Office&quot;</highlight><highlight class="normal">,<sp/>signingTime));</highlight></codeline>
+<codeline><highlight class="normal">options-&gt;get_DigitalSignatureDetails()-&gt;set_HashAlgorithm(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a3df1cb8ee6a4e2c8bb11f2ead41672a9a15c0db5566b4b1794251c08e46022245" kindref="member" tooltip="SHA-256 hash algorithm.">PdfDigitalSignatureHashAlgorithm::Sha256</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Test<sp/>Signing&quot;</highlight><highlight class="normal">,<sp/>options-&gt;get_DigitalSignatureDetails()-&gt;get_Reason());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;My<sp/>Office&quot;</highlight><highlight class="normal">,<sp/>options-&gt;get_DigitalSignatureDetails()-&gt;get_Location());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(signingTime.ToUniversalTime(),<sp/>options-&gt;get_DigitalSignatureDetails()-&gt;get_SignatureDate().ToUniversalTime());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PdfSaveOptions.PdfDigitalSignature.pdf&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" line="277" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1ae32b30dfa27280cda57cd0d45603c4ae" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder" kindref="compound">Aspose::Words::DigitalSignatures::CertificateHolder</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::DigitalSignatures::CertificateHolder &gt; Aspose::Words::Saving::PdfDigitalSignatureDetails::get_CertificateHolder</definition>
+        <argsstring>() const</argsstring>
+        <name>get_CertificateHolder</name>
+        <qualifiedname>Aspose::Words::Saving::PdfDigitalSignatureDetails::get_CertificateHolder</qualifiedname>
+        <briefdescription>
+<para>Returns the certificate holder object that contains the certificate was used to sign the document. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" line="90" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1ae17a7c3fe7d65f0127d534a65312ce64" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_saving_1a3df1cb8ee6a4e2c8bb11f2ead41672a9" kindref="member">Aspose::Words::Saving::PdfDigitalSignatureHashAlgorithm</ref></type>
+        <definition>Aspose::Words::Saving::PdfDigitalSignatureHashAlgorithm Aspose::Words::Saving::PdfDigitalSignatureDetails::get_HashAlgorithm</definition>
+        <argsstring>() const</argsstring>
+        <name>get_HashAlgorithm</name>
+        <qualifiedname>Aspose::Words::Saving::PdfDigitalSignatureDetails::get_HashAlgorithm</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the hash algorithm. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to sign a generated PDF document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Contents<sp/>of<sp/>signed<sp/>PDF.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CertificateHolder&gt;<sp/>certificateHolder<sp/>=<sp/>CertificateHolder::Create(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;morzal.pfx&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;aw&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;PdfSaveOptions&quot;<sp/>object<sp/>that<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>that<sp/>method<sp/>converts<sp/>the<sp/>document<sp/>to<sp/>.PDF.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;PdfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Configure<sp/>the<sp/>&quot;DigitalSignatureDetails&quot;<sp/>object<sp/>of<sp/>the<sp/>&quot;SaveOptions&quot;<sp/>object<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>digitally<sp/>sign<sp/>the<sp/>document<sp/>as<sp/>we<sp/>render<sp/>it<sp/>with<sp/>the<sp/>&quot;Save&quot;<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.date_time/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref><sp/>signingTime<sp/>=<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>();</highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_DigitalSignatureDetails(MakeObject&lt;PdfDigitalSignatureDetails&gt;(certificateHolder,<sp/>u</highlight><highlight class="stringliteral">&quot;Test<sp/>Signing&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;My<sp/>Office&quot;</highlight><highlight class="normal">,<sp/>signingTime));</highlight></codeline>
+<codeline><highlight class="normal">options-&gt;get_DigitalSignatureDetails()-&gt;set_HashAlgorithm(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a3df1cb8ee6a4e2c8bb11f2ead41672a9a15c0db5566b4b1794251c08e46022245" kindref="member" tooltip="SHA-256 hash algorithm.">PdfDigitalSignatureHashAlgorithm::Sha256</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Test<sp/>Signing&quot;</highlight><highlight class="normal">,<sp/>options-&gt;get_DigitalSignatureDetails()-&gt;get_Reason());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;My<sp/>Office&quot;</highlight><highlight class="normal">,<sp/>options-&gt;get_DigitalSignatureDetails()-&gt;get_Location());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(signingTime.ToUniversalTime(),<sp/>options-&gt;get_DigitalSignatureDetails()-&gt;get_SignatureDate().ToUniversalTime());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PdfSaveOptions.PdfDigitalSignature.pdf&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" line="226" column="64"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a6015a1dc2a610af294fd02e2cbdb2636" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::PdfDigitalSignatureDetails::get_Location</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Location</name>
+        <qualifiedname>Aspose::Words::Saving::PdfDigitalSignatureDetails::get_Location</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the location of the signing. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to sign a generated PDF document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Contents<sp/>of<sp/>signed<sp/>PDF.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CertificateHolder&gt;<sp/>certificateHolder<sp/>=<sp/>CertificateHolder::Create(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;morzal.pfx&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;aw&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;PdfSaveOptions&quot;<sp/>object<sp/>that<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>that<sp/>method<sp/>converts<sp/>the<sp/>document<sp/>to<sp/>.PDF.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;PdfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Configure<sp/>the<sp/>&quot;DigitalSignatureDetails&quot;<sp/>object<sp/>of<sp/>the<sp/>&quot;SaveOptions&quot;<sp/>object<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>digitally<sp/>sign<sp/>the<sp/>document<sp/>as<sp/>we<sp/>render<sp/>it<sp/>with<sp/>the<sp/>&quot;Save&quot;<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.date_time/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref><sp/>signingTime<sp/>=<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>();</highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_DigitalSignatureDetails(MakeObject&lt;PdfDigitalSignatureDetails&gt;(certificateHolder,<sp/>u</highlight><highlight class="stringliteral">&quot;Test<sp/>Signing&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;My<sp/>Office&quot;</highlight><highlight class="normal">,<sp/>signingTime));</highlight></codeline>
+<codeline><highlight class="normal">options-&gt;get_DigitalSignatureDetails()-&gt;set_HashAlgorithm(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a3df1cb8ee6a4e2c8bb11f2ead41672a9a15c0db5566b4b1794251c08e46022245" kindref="member" tooltip="SHA-256 hash algorithm.">PdfDigitalSignatureHashAlgorithm::Sha256</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Test<sp/>Signing&quot;</highlight><highlight class="normal">,<sp/>options-&gt;get_DigitalSignatureDetails()-&gt;get_Reason());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;My<sp/>Office&quot;</highlight><highlight class="normal">,<sp/>options-&gt;get_DigitalSignatureDetails()-&gt;get_Location());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(signingTime.ToUniversalTime(),<sp/>options-&gt;get_DigitalSignatureDetails()-&gt;get_SignatureDate().ToUniversalTime());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PdfSaveOptions.PdfDigitalSignature.pdf&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" line="156" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1abb34534968ad5a4b30733564499b5f8d" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::PdfDigitalSignatureDetails::get_Reason</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Reason</name>
+        <qualifiedname>Aspose::Words::Saving::PdfDigitalSignatureDetails::get_Reason</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the reason for the signing. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to sign a generated PDF document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Contents<sp/>of<sp/>signed<sp/>PDF.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CertificateHolder&gt;<sp/>certificateHolder<sp/>=<sp/>CertificateHolder::Create(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;morzal.pfx&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;aw&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;PdfSaveOptions&quot;<sp/>object<sp/>that<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>that<sp/>method<sp/>converts<sp/>the<sp/>document<sp/>to<sp/>.PDF.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;PdfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Configure<sp/>the<sp/>&quot;DigitalSignatureDetails&quot;<sp/>object<sp/>of<sp/>the<sp/>&quot;SaveOptions&quot;<sp/>object<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>digitally<sp/>sign<sp/>the<sp/>document<sp/>as<sp/>we<sp/>render<sp/>it<sp/>with<sp/>the<sp/>&quot;Save&quot;<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.date_time/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref><sp/>signingTime<sp/>=<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>();</highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_DigitalSignatureDetails(MakeObject&lt;PdfDigitalSignatureDetails&gt;(certificateHolder,<sp/>u</highlight><highlight class="stringliteral">&quot;Test<sp/>Signing&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;My<sp/>Office&quot;</highlight><highlight class="normal">,<sp/>signingTime));</highlight></codeline>
+<codeline><highlight class="normal">options-&gt;get_DigitalSignatureDetails()-&gt;set_HashAlgorithm(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a3df1cb8ee6a4e2c8bb11f2ead41672a9a15c0db5566b4b1794251c08e46022245" kindref="member" tooltip="SHA-256 hash algorithm.">PdfDigitalSignatureHashAlgorithm::Sha256</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Test<sp/>Signing&quot;</highlight><highlight class="normal">,<sp/>options-&gt;get_DigitalSignatureDetails()-&gt;get_Reason());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;My<sp/>Office&quot;</highlight><highlight class="normal">,<sp/>options-&gt;get_DigitalSignatureDetails()-&gt;get_Location());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(signingTime.ToUniversalTime(),<sp/>options-&gt;get_DigitalSignatureDetails()-&gt;get_SignatureDate().ToUniversalTime());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PdfSaveOptions.PdfDigitalSignature.pdf&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" line="123" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1ac0cba469497a05302ab885f1a4368658" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.date_time/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref></type>
+        <definition>System::DateTime Aspose::Words::Saving::PdfDigitalSignatureDetails::get_SignatureDate</definition>
+        <argsstring>() const</argsstring>
+        <name>get_SignatureDate</name>
+        <qualifiedname>Aspose::Words::Saving::PdfDigitalSignatureDetails::get_SignatureDate</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the date of the signing. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The default value is the current time.</para>
+<para>This value will appear in the digital signature as an unverified computer time.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to sign a generated PDF document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Contents<sp/>of<sp/>signed<sp/>PDF.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CertificateHolder&gt;<sp/>certificateHolder<sp/>=<sp/>CertificateHolder::Create(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;morzal.pfx&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;aw&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;PdfSaveOptions&quot;<sp/>object<sp/>that<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>that<sp/>method<sp/>converts<sp/>the<sp/>document<sp/>to<sp/>.PDF.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;PdfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Configure<sp/>the<sp/>&quot;DigitalSignatureDetails&quot;<sp/>object<sp/>of<sp/>the<sp/>&quot;SaveOptions&quot;<sp/>object<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>digitally<sp/>sign<sp/>the<sp/>document<sp/>as<sp/>we<sp/>render<sp/>it<sp/>with<sp/>the<sp/>&quot;Save&quot;<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.date_time/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref><sp/>signingTime<sp/>=<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>();</highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_DigitalSignatureDetails(MakeObject&lt;PdfDigitalSignatureDetails&gt;(certificateHolder,<sp/>u</highlight><highlight class="stringliteral">&quot;Test<sp/>Signing&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;My<sp/>Office&quot;</highlight><highlight class="normal">,<sp/>signingTime));</highlight></codeline>
+<codeline><highlight class="normal">options-&gt;get_DigitalSignatureDetails()-&gt;set_HashAlgorithm(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a3df1cb8ee6a4e2c8bb11f2ead41672a9a15c0db5566b4b1794251c08e46022245" kindref="member" tooltip="SHA-256 hash algorithm.">PdfDigitalSignatureHashAlgorithm::Sha256</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Test<sp/>Signing&quot;</highlight><highlight class="normal">,<sp/>options-&gt;get_DigitalSignatureDetails()-&gt;get_Reason());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;My<sp/>Office&quot;</highlight><highlight class="normal">,<sp/>options-&gt;get_DigitalSignatureDetails()-&gt;get_Location());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(signingTime.ToUniversalTime(),<sp/>options-&gt;get_DigitalSignatureDetails()-&gt;get_SignatureDate().ToUniversalTime());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PdfSaveOptions.PdfDigitalSignature.pdf&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" line="193" column="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1aceeb7628d75d99f9fbb13f1845dfcd7a" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_timestamp_settings" kindref="compound">Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings &gt; Aspose::Words::Saving::PdfDigitalSignatureDetails::get_TimestampSettings</definition>
+        <argsstring>() const</argsstring>
+        <name>get_TimestampSettings</name>
+        <qualifiedname>Aspose::Words::Saving::PdfDigitalSignatureDetails::get_TimestampSettings</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the digital signature timestamp settings. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The default value is null and the digital signature will not be time-stamped. When this property is set to a valid <ref refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_timestamp_settings" kindref="compound">PdfDigitalSignatureTimestampSettings</ref> object, then the digital signature in the PDF document will be time-stamped. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" line="236" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1ade541f27872a2e648e7648cdbf3c1ef4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::PdfDigitalSignatureDetails::set_CertificateHolder</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::DigitalSignatures::CertificateHolder &gt; &amp;value)</argsstring>
+        <name>set_CertificateHolder</name>
+        <qualifiedname>Aspose::Words::Saving::PdfDigitalSignatureDetails::set_CertificateHolder</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder" kindref="compound">Aspose::Words::DigitalSignatures::CertificateHolder</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Returns the certificate holder object that contains the certificate was used to sign the document. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" line="93" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a94bf21db7a04b45f29e0489277bf707d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::PdfDigitalSignatureDetails::set_HashAlgorithm</definition>
+        <argsstring>(Aspose::Words::Saving::PdfDigitalSignatureHashAlgorithm value)</argsstring>
+        <name>set_HashAlgorithm</name>
+        <qualifiedname>Aspose::Words::Saving::PdfDigitalSignatureDetails::set_HashAlgorithm</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_saving_1a3df1cb8ee6a4e2c8bb11f2ead41672a9" kindref="member">Aspose::Words::Saving::PdfDigitalSignatureHashAlgorithm</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1ae17a7c3fe7d65f0127d534a65312ce64" kindref="member">Aspose::Words::Saving::PdfDigitalSignatureDetails::get_HashAlgorithm</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" line="229" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a5d8a5d278ecbc8df9fd6e9926caf6450" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::PdfDigitalSignatureDetails::set_Location</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Location</name>
+        <qualifiedname>Aspose::Words::Saving::PdfDigitalSignatureDetails::set_Location</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a6015a1dc2a610af294fd02e2cbdb2636" kindref="member">Aspose::Words::Saving::PdfDigitalSignatureDetails::get_Location</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" line="159" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a15bf1b444f9008a12ce54f396ac1964c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::PdfDigitalSignatureDetails::set_Reason</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Reason</name>
+        <qualifiedname>Aspose::Words::Saving::PdfDigitalSignatureDetails::set_Reason</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1abb34534968ad5a4b30733564499b5f8d" kindref="member">Aspose::Words::Saving::PdfDigitalSignatureDetails::get_Reason</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" line="126" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1ac18828bad637bf7a6c64789ba69545ac" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::PdfDigitalSignatureDetails::set_SignatureDate</definition>
+        <argsstring>(System::DateTime value)</argsstring>
+        <name>set_SignatureDate</name>
+        <qualifiedname>Aspose::Words::Saving::PdfDigitalSignatureDetails::set_SignatureDate</qualifiedname>
+        <param>
+          <type><ref refid="class/system.date_time/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1ac0cba469497a05302ab885f1a4368658" kindref="member">Aspose::Words::Saving::PdfDigitalSignatureDetails::get_SignatureDate</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" line="196" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1afbe149dd3487c0d8fca0320d1d81a35b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::PdfDigitalSignatureDetails::set_TimestampSettings</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings &gt; &amp;value)</argsstring>
+        <name>set_TimestampSettings</name>
+        <qualifiedname>Aspose::Words::Saving::PdfDigitalSignatureDetails::set_TimestampSettings</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_timestamp_settings" kindref="compound">Aspose::Words::Saving::PdfDigitalSignatureTimestampSettings</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1aceeb7628d75d99f9fbb13f1845dfcd7a" kindref="member">Aspose::Words::Saving::PdfDigitalSignatureDetails::get_TimestampSettings</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" line="239" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Contains details for signing a PDF document with a digital signature. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>At the moment digitally signing PDF documents is only available on .NET 2.0 or higher.</para>
+<para>To digitally sign a PDF document when it is created by Aspose.Words, set the <ref refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options_1acc8126912cf328f2f78cce9e484d4b1b" kindref="member">DigitalSignatureDetails</ref> property to a valid <ref refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details" kindref="compound">PdfDigitalSignatureDetails</ref> object and then save the document in the PDF format passing the <ref refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options" kindref="compound">PdfSaveOptions</ref> as a parameter into the <ref refid="" kindref="compound">Save()</ref> method.</para>
+<para>Aspose.Words creates a PKCS#7 signature over the whole PDF document and uses the &quot;Adobe.PPKMS&quot; filter and &quot;adbe.pkcs7.sha1&quot; subfilter when creating a digital signature.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options_1acc8126912cf328f2f78cce9e484d4b1b" kindref="member">Aspose::Words::Saving::PdfSaveOptions::get_DigitalSignatureDetails</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to sign a generated PDF document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Contents<sp/>of<sp/>signed<sp/>PDF.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CertificateHolder&gt;<sp/>certificateHolder<sp/>=<sp/>CertificateHolder::Create(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;morzal.pfx&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;aw&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;PdfSaveOptions&quot;<sp/>object<sp/>that<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>that<sp/>method<sp/>converts<sp/>the<sp/>document<sp/>to<sp/>.PDF.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;PdfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Configure<sp/>the<sp/>&quot;DigitalSignatureDetails&quot;<sp/>object<sp/>of<sp/>the<sp/>&quot;SaveOptions&quot;<sp/>object<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>digitally<sp/>sign<sp/>the<sp/>document<sp/>as<sp/>we<sp/>render<sp/>it<sp/>with<sp/>the<sp/>&quot;Save&quot;<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.date_time/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref><sp/>signingTime<sp/>=<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>();</highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_DigitalSignatureDetails(MakeObject&lt;PdfDigitalSignatureDetails&gt;(certificateHolder,<sp/>u</highlight><highlight class="stringliteral">&quot;Test<sp/>Signing&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;My<sp/>Office&quot;</highlight><highlight class="normal">,<sp/>signingTime));</highlight></codeline>
+<codeline><highlight class="normal">options-&gt;get_DigitalSignatureDetails()-&gt;set_HashAlgorithm(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a3df1cb8ee6a4e2c8bb11f2ead41672a9a15c0db5566b4b1794251c08e46022245" kindref="member" tooltip="SHA-256 hash algorithm.">PdfDigitalSignatureHashAlgorithm::Sha256</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Test<sp/>Signing&quot;</highlight><highlight class="normal">,<sp/>options-&gt;get_DigitalSignatureDetails()-&gt;get_Reason());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;My<sp/>Office&quot;</highlight><highlight class="normal">,<sp/>options-&gt;get_DigitalSignatureDetails()-&gt;get_Location());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(signingTime.ToUniversalTime(),<sp/>options-&gt;get_DigitalSignatureDetails()-&gt;get_SignatureDate().ToUniversalTime());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PdfSaveOptions.PdfDigitalSignature.pdf&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::PdfDigitalSignatureDetails</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::PdfDigitalSignatureDetails</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" line="79" column="1" bodyfile="Aspose.Words.Cpp/Saving/PdfDigitalSignatureDetails.h" bodystart="80" bodyend="290"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a614c4beb8cd3a72b31645319decd6379" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::PdfDigitalSignatureDetails</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1ae32b30dfa27280cda57cd0d45603c4ae" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PdfDigitalSignatureDetails</scope><name>get_CertificateHolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1ae17a7c3fe7d65f0127d534a65312ce64" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PdfDigitalSignatureDetails</scope><name>get_HashAlgorithm</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a6015a1dc2a610af294fd02e2cbdb2636" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PdfDigitalSignatureDetails</scope><name>get_Location</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1abb34534968ad5a4b30733564499b5f8d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PdfDigitalSignatureDetails</scope><name>get_Reason</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1ac0cba469497a05302ab885f1a4368658" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PdfDigitalSignatureDetails</scope><name>get_SignatureDate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1aceeb7628d75d99f9fbb13f1845dfcd7a" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PdfDigitalSignatureDetails</scope><name>get_TimestampSettings</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a7878ee7d4e11e78888bb068c943d73f1" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::PdfDigitalSignatureDetails</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1aaa86ff8fe4080a09a1d486de8d35debd" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::PdfDigitalSignatureDetails</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a6f795bd998061fd0ad3ed8c5a6b2938d" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::PdfDigitalSignatureDetails</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a4e6f071b8418b72df45603b189dd6005" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::PdfDigitalSignatureDetails</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a045db9fcdd9389eaf027ada82aa2e4ca" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::PdfDigitalSignatureDetails</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a603d55e088c126a007567b95d5a67d58" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::PdfDigitalSignatureDetails</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a9bf0964fce250098438e45e8bb0d429a" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PdfDigitalSignatureDetails</scope><name>PdfDigitalSignatureDetails</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1ae7208e750a2f62e7dc1ded835d2060de" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PdfDigitalSignatureDetails</scope><name>PdfDigitalSignatureDetails</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1ab9d5dd00639de0cce868cad7f8dd6617" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::PdfDigitalSignatureDetails</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1ade541f27872a2e648e7648cdbf3c1ef4" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PdfDigitalSignatureDetails</scope><name>set_CertificateHolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a94bf21db7a04b45f29e0489277bf707d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PdfDigitalSignatureDetails</scope><name>set_HashAlgorithm</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a5d8a5d278ecbc8df9fd6e9926caf6450" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PdfDigitalSignatureDetails</scope><name>set_Location</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a15bf1b444f9008a12ce54f396ac1964c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PdfDigitalSignatureDetails</scope><name>set_Reason</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1ac18828bad637bf7a6c64789ba69545ac" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PdfDigitalSignatureDetails</scope><name>set_SignatureDate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1afbe149dd3487c0d8fca0320d1d81a35b" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PdfDigitalSignatureDetails</scope><name>set_TimestampSettings</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a0bb88efaa80e5918d1ea738588ea95ec" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::PdfDigitalSignatureDetails</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_digital_signature_details_1a709aad46f70c9758c7aa8a88028182d4" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::PdfDigitalSignatureDetails</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

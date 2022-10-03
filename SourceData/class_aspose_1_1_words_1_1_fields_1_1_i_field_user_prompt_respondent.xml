@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_i_field_user_prompt_respondent" kind="interface" language="C++" prot="public" abstract="yes">
+    <compoundname>Aspose::Words::Fields::IFieldUserPromptRespondent</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_i_field_user_prompt_respondent_8h" local="no">Aspose.Words.Cpp/Fields/IFieldUserPromptRespondent.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_i_field_user_prompt_respondent_1aa788683d961d368ccaef043e841d9e5b" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Fields::IFieldUserPromptRespondent::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::IFieldUserPromptRespondent::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/IFieldUserPromptRespondent.h" line="31" column="28" bodyfile="Aspose.Words.Cpp/Fields/IFieldUserPromptRespondent.h" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_i_field_user_prompt_respondent_1a7da39ed482c1e598469da9e07e431de2" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_i_field_user_prompt_respondent" kindref="compound">IFieldUserPromptRespondent</ref></type>
+        <definition>typedef IFieldUserPromptRespondent Aspose::Words::Fields::IFieldUserPromptRespondent::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::IFieldUserPromptRespondent::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/IFieldUserPromptRespondent.h" line="30" column="40" bodyfile="Aspose.Words.Cpp/Fields/IFieldUserPromptRespondent.h" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_i_field_user_prompt_respondent_1ae3bd0698a9c222712126132ff9a0c5d4" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Fields::IFieldUserPromptRespondent::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::IFieldUserPromptRespondent::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/IFieldUserPromptRespondent.h" line="33" column="37" bodyfile="Aspose.Words.Cpp/Fields/IFieldUserPromptRespondent.h" bodystart="33" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_i_field_user_prompt_respondent_1aa12efd7d0ae7dc7f95d18d71d6487000" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::IFieldUserPromptRespondent::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::IFieldUserPromptRespondent::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/IFieldUserPromptRespondent.h" line="34" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_i_field_user_prompt_respondent_1ac922f60f1b98144b8020074310066cf5" prot="public" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>virtual System::String Aspose::Words::Fields::IFieldUserPromptRespondent::Respond</definition>
+        <argsstring>(System::String promptText, System::String defaultResponse)=0</argsstring>
+        <name>Respond</name>
+        <qualifiedname>Aspose::Words::Fields::IFieldUserPromptRespondent::Respond</qualifiedname>
+        <param>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+          <declname>promptText</declname>
+        </param>
+        <param>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+          <declname>defaultResponse</declname>
+        </param>
+        <briefdescription>
+<para>When implemented, returns a response from the user on prompting. Your implementation should return <bold>null</bold> to indicate that the user has not responded to the prompt (i.e. the user has pressed the Cancel button in the prompt window). </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>promptText</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Prompt text (i.e. title of the prompt window). </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>defaultResponse</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Default user response (i.e. initial value contained in the prompt window).</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>User response (i.e. confirmed value contained in the prompt window). </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/IFieldUserPromptRespondent.h" line="46" column="28"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents the respondent to user prompts during field update. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Fields::IFieldUserPromptRespondent</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_i_field_user_prompt_respondent"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Fields::IFieldUserPromptRespondent</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_i_field_user_prompt_respondent"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/IFieldUserPromptRespondent.h" line="28" column="1" bodyfile="Aspose.Words.Cpp/Fields/IFieldUserPromptRespondent.h" bodystart="29" bodyend="48"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_i_field_user_prompt_respondent_1aa788683d961d368ccaef043e841d9e5b" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::IFieldUserPromptRespondent</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_i_field_user_prompt_respondent_1ac922f60f1b98144b8020074310066cf5" prot="public" virt="pure-virtual"><scope>Aspose::Words::Fields::IFieldUserPromptRespondent</scope><name>Respond</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_i_field_user_prompt_respondent_1aa12efd7d0ae7dc7f95d18d71d6487000" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::IFieldUserPromptRespondent</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_i_field_user_prompt_respondent_1a7da39ed482c1e598469da9e07e431de2" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::IFieldUserPromptRespondent</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_i_field_user_prompt_respondent_1ae3bd0698a9c222712126132ff9a0c5d4" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::IFieldUserPromptRespondent</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

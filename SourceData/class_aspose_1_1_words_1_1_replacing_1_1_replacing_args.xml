@@ -1,0 +1,877 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Replacing::ReplacingArgs</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_replacing_args_8h" local="no">Aspose.Words.Cpp/Replacing/ReplacingArgs.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1ad20190b5bb3971e013b1a35491f21b50" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Replacing::ReplacingArgs::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Replacing::ReplacingArgs::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" line="180" column="28" bodyfile="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" bodystart="180" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a4278913620211b7cebc3f5fcb5495631" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args" kindref="compound">ReplacingArgs</ref></type>
+        <definition>typedef ReplacingArgs Aspose::Words::Replacing::ReplacingArgs::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Replacing::ReplacingArgs::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" line="179" column="27" bodyfile="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" bodystart="179" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a7afdf65b0596441b2f7d5de648e6173d" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Replacing::ReplacingArgs::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Replacing::ReplacingArgs::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" line="182" column="37" bodyfile="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" bodystart="182" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a3590bb7b02fc2c57b3d98a8fc31fa238" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Replacing::ReplacingArgs::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Replacing::ReplacingArgs::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" line="675" column="20" bodyfile="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" bodystart="675" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a4f7ad902efe29e6af87e75b4bb9ca160" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Replacing::ReplacingArgs::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Replacing::ReplacingArgs::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" line="676" column="23" bodyfile="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" bodystart="676" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a7510cde1cc8aa41014fffd7cb435f727" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Replacing::ReplacingArgs::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Replacing::ReplacingArgs::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" line="677" column="23" bodyfile="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" bodystart="677" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a3fa2dc446c26fb97a4266d659a30610e" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Replacing::ReplacingArgs::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Replacing::ReplacingArgs::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" line="678" column="23" bodyfile="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" bodystart="678" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1af1f841b2a8b6480600c3f5de7db77742" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Replacing::ReplacingArgs::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Replacing::ReplacingArgs::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" line="679" column="20" bodyfile="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" bodystart="679" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1aa0e5a35ba0be370dfdc3a283feec7894" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Replacing::ReplacingArgs::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::Replacing::ReplacingArgs::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" line="680" column="23" bodyfile="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" bodystart="680" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1ae5bb7b8843fdba94e3c6ede5d460dba0" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Replacing::ReplacingArgs::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Replacing::ReplacingArgs::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" line="183" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a532ee9ab4e2356802cd124e279f9d75c" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Replacing::ReplacingArgs::get_GroupIndex</definition>
+        <argsstring>() const</argsstring>
+        <name>get_GroupIndex</name>
+        <qualifiedname>Aspose::Words::Replacing::ReplacingArgs::get_GroupIndex</qualifiedname>
+        <briefdescription>
+<para>Identifies, by index, a captured group in the <ref refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1af910c4ef319862b1884cfbee3b33201a" kindref="member">Match</ref> that is to be replaced with the <ref refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a90ee5ad0f212d88f9d82c46357756302" kindref="member">Replacement</ref> string. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><ref refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a532ee9ab4e2356802cd124e279f9d75c" kindref="member">GroupIndex</ref> has effect only when <ref refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a7ca6cb7b9da6f9fe21d5da624f7e127f" kindref="member">GroupName</ref> is null.</para>
+<para>Default is zero.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to apply a different font to new content via <ref refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options" kindref="compound">FindReplaceOptions</ref>. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ConvertNumbersToHexadecimal()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Numbers<sp/>that<sp/>the<sp/>find-and-replace<sp/>operation<sp/>will<sp/>convert<sp/>to<sp/>hexadecimal<sp/>and<sp/>highlight:\n&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;123,<sp/>456,<sp/>789<sp/>and<sp/>17379.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>a<sp/>&quot;FindReplaceOptions&quot;<sp/>object<sp/>to<sp/>modify<sp/>the<sp/>find-and-replace<sp/>process.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;FindReplaceOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;HighlightColor&quot;<sp/>property<sp/>to<sp/>a<sp/>background<sp/>color<sp/>that<sp/>we<sp/>want<sp/>to<sp/>apply<sp/>to<sp/>the<sp/>operation&apos;s<sp/>resulting<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;get_ApplyFont()-&gt;set_HighlightColor(<ref refid="class/system.drawing.color/_1a77db5e3307f15da66f743080172caa68" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightGray</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>numberHexer<sp/>=<sp/>MakeObject&lt;ExRange::NumberHexer&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ReplacingCallback(numberHexer);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>replacementCount<sp/>=<sp/>doc-&gt;get_Range()-&gt;Replace(MakeObject&lt;System::Text::RegularExpressions::Regex&gt;(u</highlight><highlight class="stringliteral">&quot;[0-9]+&quot;</highlight><highlight class="normal">),<sp/>u</highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>numberHexer-&gt;GetLog()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(4,<sp/>replacementCount);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Numbers<sp/>that<sp/>the<sp/>find-and-replace<sp/>operation<sp/>will<sp/>convert<sp/>to<sp/>hexadecimal<sp/>and<sp/>highlight:\r&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;0x7B,<sp/>0x1C8,<sp/>0x315<sp/>and<sp/>0x43E3.&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>isLightGray<sp/>=<sp/>[](SharedPtr&lt;Run&gt;<sp/>r)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>r-&gt;get_Font()-&gt;get_HighlightColor().ToArgb()<sp/>==<sp/><ref refid="class/system.drawing.color/_1a77db5e3307f15da66f743080172caa68" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightGray</ref>().ToArgb();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>};</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(4,<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379ac5301693c4e792bcd5a479ef38fb8f8d" kindref="member" tooltip="A run of text.">NodeType::Run</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;LINQ_OfType&lt;SharedPtr&lt;Run&gt;&gt;()-&gt;LINQ_Count(isLightGray));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">NumberHexer<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IReplacingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_replacing_1af9076a3b0db42719d6e5fff0cecd794b" kindref="member" tooltip="Allows the user to specify what happens to the current match during a replace operation.">ReplaceAction</ref><sp/>Replacing(SharedPtr&lt;ReplacingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mCurrentReplacementNumber++;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>number<sp/>=<sp/><ref refid="struct/system.convert/_1a5ec7686ca1d45c99e58263fed936344c" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Convert::ToInt32</ref>(args-&gt;get_Match()-&gt;get_Value());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_Replacement(String::Format(u</highlight><highlight class="stringliteral">&quot;0x{0:X}&quot;</highlight><highlight class="normal">,<sp/>number));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;Match<sp/>#{0}&quot;</highlight><highlight class="normal">,<sp/>mCurrentReplacementNumber));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tOriginal<sp/>value:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Match()-&gt;get_Value()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tReplacement:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Replacement()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tOffset<sp/>in<sp/>parent<sp/>{0}<sp/>node:\t{1}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_MatchNode()-&gt;get_NodeType(),<sp/>args-&gt;get_MatchOffset()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::IsNullOrEmpty(args-&gt;get_GroupName())<sp/>?<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tGroup<sp/>index:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_GroupIndex())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>:<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tGroup<sp/>name:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_GroupName()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>ReplaceAction::Replace;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>GetLog()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mLog-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>NumberHexer()<sp/>:<sp/>mCurrentReplacementNumber(0),<sp/>mLog(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mCurrentReplacementNumber;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mLog;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" line="666" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a7ca6cb7b9da6f9fe21d5da624f7e127f" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Replacing::ReplacingArgs::get_GroupName</definition>
+        <argsstring>() const</argsstring>
+        <name>get_GroupName</name>
+        <qualifiedname>Aspose::Words::Replacing::ReplacingArgs::get_GroupName</qualifiedname>
+        <briefdescription>
+<para>Identifies, by name, a captured group in the <ref refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1af910c4ef319862b1884cfbee3b33201a" kindref="member">Match</ref> that is to be replaced with the <ref refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a90ee5ad0f212d88f9d82c46357756302" kindref="member">Replacement</ref> string. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>When group name is null, <ref refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a532ee9ab4e2356802cd124e279f9d75c" kindref="member">GroupIndex</ref> is used to identify the group.</para>
+<para>Default is null.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to apply a different font to new content via <ref refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options" kindref="compound">FindReplaceOptions</ref>. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ConvertNumbersToHexadecimal()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Numbers<sp/>that<sp/>the<sp/>find-and-replace<sp/>operation<sp/>will<sp/>convert<sp/>to<sp/>hexadecimal<sp/>and<sp/>highlight:\n&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;123,<sp/>456,<sp/>789<sp/>and<sp/>17379.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>a<sp/>&quot;FindReplaceOptions&quot;<sp/>object<sp/>to<sp/>modify<sp/>the<sp/>find-and-replace<sp/>process.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;FindReplaceOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;HighlightColor&quot;<sp/>property<sp/>to<sp/>a<sp/>background<sp/>color<sp/>that<sp/>we<sp/>want<sp/>to<sp/>apply<sp/>to<sp/>the<sp/>operation&apos;s<sp/>resulting<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;get_ApplyFont()-&gt;set_HighlightColor(<ref refid="class/system.drawing.color/_1a77db5e3307f15da66f743080172caa68" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightGray</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>numberHexer<sp/>=<sp/>MakeObject&lt;ExRange::NumberHexer&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ReplacingCallback(numberHexer);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>replacementCount<sp/>=<sp/>doc-&gt;get_Range()-&gt;Replace(MakeObject&lt;System::Text::RegularExpressions::Regex&gt;(u</highlight><highlight class="stringliteral">&quot;[0-9]+&quot;</highlight><highlight class="normal">),<sp/>u</highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>numberHexer-&gt;GetLog()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(4,<sp/>replacementCount);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Numbers<sp/>that<sp/>the<sp/>find-and-replace<sp/>operation<sp/>will<sp/>convert<sp/>to<sp/>hexadecimal<sp/>and<sp/>highlight:\r&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;0x7B,<sp/>0x1C8,<sp/>0x315<sp/>and<sp/>0x43E3.&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>isLightGray<sp/>=<sp/>[](SharedPtr&lt;Run&gt;<sp/>r)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>r-&gt;get_Font()-&gt;get_HighlightColor().ToArgb()<sp/>==<sp/><ref refid="class/system.drawing.color/_1a77db5e3307f15da66f743080172caa68" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightGray</ref>().ToArgb();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>};</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(4,<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379ac5301693c4e792bcd5a479ef38fb8f8d" kindref="member" tooltip="A run of text.">NodeType::Run</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;LINQ_OfType&lt;SharedPtr&lt;Run&gt;&gt;()-&gt;LINQ_Count(isLightGray));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">NumberHexer<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IReplacingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_replacing_1af9076a3b0db42719d6e5fff0cecd794b" kindref="member" tooltip="Allows the user to specify what happens to the current match during a replace operation.">ReplaceAction</ref><sp/>Replacing(SharedPtr&lt;ReplacingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mCurrentReplacementNumber++;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>number<sp/>=<sp/><ref refid="struct/system.convert/_1a5ec7686ca1d45c99e58263fed936344c" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Convert::ToInt32</ref>(args-&gt;get_Match()-&gt;get_Value());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_Replacement(String::Format(u</highlight><highlight class="stringliteral">&quot;0x{0:X}&quot;</highlight><highlight class="normal">,<sp/>number));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;Match<sp/>#{0}&quot;</highlight><highlight class="normal">,<sp/>mCurrentReplacementNumber));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tOriginal<sp/>value:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Match()-&gt;get_Value()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tReplacement:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Replacement()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tOffset<sp/>in<sp/>parent<sp/>{0}<sp/>node:\t{1}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_MatchNode()-&gt;get_NodeType(),<sp/>args-&gt;get_MatchOffset()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::IsNullOrEmpty(args-&gt;get_GroupName())<sp/>?<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tGroup<sp/>index:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_GroupIndex())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>:<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tGroup<sp/>name:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_GroupName()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>ReplaceAction::Replace;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>GetLog()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mLog-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>NumberHexer()<sp/>:<sp/>mCurrentReplacementNumber(0),<sp/>mLog(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mCurrentReplacementNumber;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mLog;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" line="578" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1af910c4ef319862b1884cfbee3b33201a" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.text.regular_expressions.match/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::RegularExpressions::Match</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; System::Text::RegularExpressions::Match &gt; Aspose::Words::Replacing::ReplacingArgs::get_Match</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Match</name>
+        <qualifiedname>Aspose::Words::Replacing::ReplacingArgs::get_Match</qualifiedname>
+        <briefdescription>
+<para>The <ref refid="class/system.text.regular_expressions.match/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">Match</ref> resulting from a single regular expression match during a <bold>Replace</bold>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><bold>Match.Index&quot;&lt;/b&gt;
+gets the zero-based starting
+position of the match from the start of the find and replace range.
+
+@par Examples
+
+Shows how to apply a different font to new content via FindReplaceOptions.
+@code 
+void ConvertNumbersToHexadecimal()
+{
+    auto doc = MakeObject&lt;Document&gt;();
+    auto builder = MakeObject&lt;DocumentBuilder&gt;(doc);
+
+    builder-&gt;get_Font()-&gt;set_Name(u&quot;Arial&quot;);
+    builder-&gt;Writeln(String(u&quot;Numbers that the find-and-replace operation will convert to hexadecimal and highlight:<linebreak/>
+&quot;) + u&quot;123, 456, 789 and 17379.&quot;);
+
+    // We can use a &quot;<ref refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options" kindref="compound">FindReplaceOptions</ref>&quot; object to modify the find-and-replace process.
+    auto options = MakeObject&lt;FindReplaceOptions&gt;();
+
+    // Set the &quot;HighlightColor&quot; property to a background color that we want to apply to the operation&apos;s resulting text.
+    options-&gt;get_ApplyFont()-&gt;set_HighlightColor(System::Drawing::Color::get_LightGray());
+
+    auto numberHexer = MakeObject&lt;ExRange::NumberHexer&gt;();
+    options-&gt;set_ReplacingCallback(numberHexer);
+
+    int replacementCount = doc-&gt;get_Range()-&gt;Replace(MakeObject&lt;System::Text::RegularExpressions::Regex&gt;(u&quot;[0-9]+&quot;), u&quot;&quot;, options);
+
+    std::cout &lt;&lt; numberHexer-&gt;GetLog() &lt;&lt; std::endl;
+
+    ASSERT_EQ(4, replacementCount);
+    ASSERT_EQ(String(u&quot;Numbers that the find-and-replace operation will convert to hexadecimal and highlight:\r&quot;) + u&quot;0x7B, 0x1C8, 0x315 and 0x43E3.&quot;,
+              doc-&gt;GetText().Trim());
+    auto isLightGray = [](SharedPtr&lt;Run&gt; r)
+    {
+        return r-&gt;get_Font()-&gt;get_HighlightColor().ToArgb() == System::Drawing::Color::get_LightGray().ToArgb();
+    };
+
+    ASSERT_EQ(4, doc-&gt;GetChildNodes(NodeType::Run, true)-&gt;LINQ_OfType&lt;SharedPtr&lt;Run&gt;&gt;()-&gt;LINQ_Count(isLightGray));
+}
+
+/// &lt;summary&gt;
+/// Replaces numeric find-and-replacement matches with their hexadecimal equivalents.
+/// Maintains a log of every replacement.
+/// &lt;/summary&gt;
+class NumberHexer : public IReplacingCallback
+{
+public:
+    ReplaceAction Replacing(SharedPtr&lt;ReplacingArgs&gt; args) override
+    {
+        mCurrentReplacementNumber++;
+
+        int number = System::Convert::ToInt32(args-&gt;get_Match()-&gt;get_Value());
+
+        args-&gt;set_Replacement(String::Format(u&quot;0x{0:X}&quot;, number));
+
+        mLog-&gt;AppendLine(String::Format(u&quot;Match #{0}&quot;, mCurrentReplacementNumber));
+        mLog-&gt;AppendLine(String::Format(u&quot;\tOriginal value:\t{0}&quot;, args-&gt;get_Match()-&gt;get_Value()));
+        mLog-&gt;AppendLine(String::Format(u&quot;\tReplacement:\t{0}&quot;, args-&gt;get_Replacement()));
+        mLog-&gt;AppendLine(String::Format(u&quot;\tOffset in parent {0} node:\t{1}&quot;, args-&gt;get_MatchNode()-&gt;get_NodeType(), args-&gt;get_MatchOffset()));
+
+        mLog-&gt;AppendLine(String::IsNullOrEmpty(args-&gt;get_GroupName()) ? String::Format(u&quot;\tGroup index:\t{0}&quot;, args-&gt;get_GroupIndex())
+                                                                      : String::Format(u&quot;\tGroup name:\t{0}", args-&gt;<ref refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a7ca6cb7b9da6f9fe21d5da624f7e127f" kindref="member">get_GroupName()</ref>));</bold></para>
+<para><bold> return <ref refid="namespace_aspose_1_1_words_1_1_replacing_1af9076a3b0db42719d6e5fff0cecd794ba0ebe6df8a3ac338e0512acc741823fdb" kindref="member">ReplaceAction::Replace</ref>; }</bold></para>
+<para><bold> String GetLog() { return mLog-&gt;<ref refid="class/system.object/_1a5f519d7ae99b64426cc20862bd6211fa" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">ToString()</ref>; }</bold></para>
+<para><bold> NumberHexer() : mCurrentReplacementNumber(0), mLog(MakeObject&lt;System::Text::StringBuilder&gt;()) { }</bold></para>
+<para><bold>private: int mCurrentReplacementNumber; SharedPtr&lt;System::Text::StringBuilder&gt; mLog; };  </bold></para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" line="270" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a2c3184944dbd4c8f7d40781a7b9860c4" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Node &gt; Aspose::Words::Replacing::ReplacingArgs::get_MatchNode</definition>
+        <argsstring>() const</argsstring>
+        <name>get_MatchNode</name>
+        <qualifiedname>Aspose::Words::Replacing::ReplacingArgs::get_MatchNode</qualifiedname>
+        <briefdescription>
+<para>Gets the node that contains the beginning of the match. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert an entire document&apos;s contents as a replacement of a match in a find-and-replace operation. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertDocumentAtReplace()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>mainDoc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document<sp/>insertion<sp/>destination.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>a<sp/>&quot;FindReplaceOptions&quot;<sp/>object<sp/>to<sp/>modify<sp/>the<sp/>find-and-replace<sp/>process.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;FindReplaceOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ReplacingCallback(MakeObject&lt;ExRange::InsertDocumentAtReplaceHandler&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>mainDoc-&gt;get_Range()-&gt;Replace(MakeObject&lt;System::Text::RegularExpressions::Regex&gt;(u</highlight><highlight class="stringliteral">&quot;\\[MY_DOCUMENT\\]&quot;</highlight><highlight class="normal">),<sp/>u</highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>mainDoc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;InsertDocument.InsertDocumentAtReplace.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">InsertDocumentAtReplaceHandler<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IReplacingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_replacing_1af9076a3b0db42719d6e5fff0cecd794b" kindref="member" tooltip="Allows the user to specify what happens to the current match during a replace operation.">ReplaceAction</ref><sp/>Replacing(SharedPtr&lt;ReplacingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>subDoc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>document<sp/>after<sp/>the<sp/>paragraph<sp/>containing<sp/>the<sp/>matched<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>para<sp/>=<sp/>System::DynamicCast&lt;Paragraph&gt;(args-&gt;get_MatchNode()-&gt;get_ParentNode());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>InsertDocument(para,<sp/>subDoc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Remove<sp/>the<sp/>paragraph<sp/>with<sp/>the<sp/>matched<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>para-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>ReplaceAction::Skip;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertDocument(SharedPtr&lt;Node&gt;<sp/>insertionDestination,<sp/>SharedPtr&lt;Document&gt;<sp/>docToInsert)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(insertionDestination-&gt;get_NodeType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref><sp/>||<sp/>insertionDestination-&gt;get_NodeType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="A Table object that represents a table in a Word document. A Table node can have Row nodes.">NodeType::Table</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;CompositeNode&gt;<sp/>dstStory<sp/>=<sp/>insertionDestination-&gt;get_ParentNode();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>importer<sp/>=<sp/>MakeObject&lt;NodeImporter&gt;(docToInsert,<sp/>insertionDestination-&gt;get_Document(),<sp/><ref refid="namespace_aspose_1_1_words_1aafaa52cbf0baa49c3225787c23a8c949a4cf454c612a2ed0c3ee75ac5175497c3" kindref="member" tooltip="Copy all required styles to the destination document, generate unique style names if needed.">ImportFormatMode::KeepSourceFormatting</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>srcSection<sp/>:<sp/>System::IterateOver(docToInsert-&gt;get_Sections()-&gt;LINQ_OfType&lt;SharedPtr&lt;Section&gt;&gt;()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>srcNode<sp/>:<sp/>System::IterateOver(srcSection-&gt;get_Body()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Skip<sp/>the<sp/>node<sp/>if<sp/>it<sp/>is<sp/>the<sp/>last<sp/>empty<sp/>paragraph<sp/>in<sp/>a<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(srcNode-&gt;get_NodeType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>para<sp/>=<sp/>System::DynamicCast&lt;Paragraph&gt;(srcNode);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(para-&gt;get_IsEndOfSection()<sp/>&amp;&amp;<sp/>!para-&gt;get_HasChildNodes())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">continue</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;Node&gt;<sp/>newNode<sp/>=<sp/>importer-&gt;ImportNode(srcNode,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>dstStory-&gt;InsertAfter(newNode,<sp/>insertionDestination);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>insertionDestination<sp/>=<sp/>newNode;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">throw</highlight><highlight class="normal"><sp/>System::ArgumentException(u</highlight><highlight class="stringliteral">&quot;The<sp/>destination<sp/>node<sp/>must<sp/>be<sp/>either<sp/>a<sp/>paragraph<sp/>or<sp/>table.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" line="347" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a3385e95332881080a8d6fa064bb40ae6" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Replacing::ReplacingArgs::get_MatchOffset</definition>
+        <argsstring>() const</argsstring>
+        <name>get_MatchOffset</name>
+        <qualifiedname>Aspose::Words::Replacing::ReplacingArgs::get_MatchOffset</qualifiedname>
+        <briefdescription>
+<para>Gets the zero-based starting position of the match from the start of the node that contains the beginning of the match. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to apply a different font to new content via <ref refid="class_aspose_1_1_words_1_1_replacing_1_1_find_replace_options" kindref="compound">FindReplaceOptions</ref>. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ConvertNumbersToHexadecimal()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Numbers<sp/>that<sp/>the<sp/>find-and-replace<sp/>operation<sp/>will<sp/>convert<sp/>to<sp/>hexadecimal<sp/>and<sp/>highlight:\n&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;123,<sp/>456,<sp/>789<sp/>and<sp/>17379.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>a<sp/>&quot;FindReplaceOptions&quot;<sp/>object<sp/>to<sp/>modify<sp/>the<sp/>find-and-replace<sp/>process.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;FindReplaceOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;HighlightColor&quot;<sp/>property<sp/>to<sp/>a<sp/>background<sp/>color<sp/>that<sp/>we<sp/>want<sp/>to<sp/>apply<sp/>to<sp/>the<sp/>operation&apos;s<sp/>resulting<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;get_ApplyFont()-&gt;set_HighlightColor(<ref refid="class/system.drawing.color/_1a77db5e3307f15da66f743080172caa68" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightGray</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>numberHexer<sp/>=<sp/>MakeObject&lt;ExRange::NumberHexer&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ReplacingCallback(numberHexer);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>replacementCount<sp/>=<sp/>doc-&gt;get_Range()-&gt;Replace(MakeObject&lt;System::Text::RegularExpressions::Regex&gt;(u</highlight><highlight class="stringliteral">&quot;[0-9]+&quot;</highlight><highlight class="normal">),<sp/>u</highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>numberHexer-&gt;GetLog()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(4,<sp/>replacementCount);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Numbers<sp/>that<sp/>the<sp/>find-and-replace<sp/>operation<sp/>will<sp/>convert<sp/>to<sp/>hexadecimal<sp/>and<sp/>highlight:\r&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;0x7B,<sp/>0x1C8,<sp/>0x315<sp/>and<sp/>0x43E3.&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>isLightGray<sp/>=<sp/>[](SharedPtr&lt;Run&gt;<sp/>r)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>r-&gt;get_Font()-&gt;get_HighlightColor().ToArgb()<sp/>==<sp/><ref refid="class/system.drawing.color/_1a77db5e3307f15da66f743080172caa68" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightGray</ref>().ToArgb();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>};</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(4,<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379ac5301693c4e792bcd5a479ef38fb8f8d" kindref="member" tooltip="A run of text.">NodeType::Run</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;LINQ_OfType&lt;SharedPtr&lt;Run&gt;&gt;()-&gt;LINQ_Count(isLightGray));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">NumberHexer<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IReplacingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_replacing_1af9076a3b0db42719d6e5fff0cecd794b" kindref="member" tooltip="Allows the user to specify what happens to the current match during a replace operation.">ReplaceAction</ref><sp/>Replacing(SharedPtr&lt;ReplacingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mCurrentReplacementNumber++;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>number<sp/>=<sp/><ref refid="struct/system.convert/_1a5ec7686ca1d45c99e58263fed936344c" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Convert::ToInt32</ref>(args-&gt;get_Match()-&gt;get_Value());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_Replacement(String::Format(u</highlight><highlight class="stringliteral">&quot;0x{0:X}&quot;</highlight><highlight class="normal">,<sp/>number));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;Match<sp/>#{0}&quot;</highlight><highlight class="normal">,<sp/>mCurrentReplacementNumber));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tOriginal<sp/>value:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Match()-&gt;get_Value()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tReplacement:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Replacement()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tOffset<sp/>in<sp/>parent<sp/>{0}<sp/>node:\t{1}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_MatchNode()-&gt;get_NodeType(),<sp/>args-&gt;get_MatchOffset()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::IsNullOrEmpty(args-&gt;get_GroupName())<sp/>?<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tGroup<sp/>index:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_GroupIndex())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>:<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tGroup<sp/>name:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_GroupName()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>ReplaceAction::Replace;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>GetLog()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mLog-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>NumberHexer()<sp/>:<sp/>mCurrentReplacementNumber(0),<sp/>mLog(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mCurrentReplacementNumber;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mLog;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" line="428" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a90ee5ad0f212d88f9d82c46357756302" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Replacing::ReplacingArgs::get_Replacement</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Replacement</name>
+        <qualifiedname>Aspose::Words::Replacing::ReplacingArgs::get_Replacement</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the replacement string. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to replace all occurrences of a regular expression pattern with another string, while tracking all such replacements. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ReplaceWithCallback()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Our<sp/>new<sp/>location<sp/>in<sp/>New<sp/>York<sp/>City<sp/>is<sp/>opening<sp/>tomorrow.<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Hope<sp/>to<sp/>see<sp/>all<sp/>our<sp/>NYC-based<sp/>customers<sp/>at<sp/>the<sp/>opening!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>a<sp/>&quot;FindReplaceOptions&quot;<sp/>object<sp/>to<sp/>modify<sp/>the<sp/>find-and-replace<sp/>process.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;FindReplaceOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>callback<sp/>that<sp/>tracks<sp/>any<sp/>replacements<sp/>that<sp/>the<sp/>&quot;Replace&quot;<sp/>method<sp/>will<sp/>make.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>logger<sp/>=<sp/>MakeObject&lt;ExRange::TextFindAndReplacementLogger&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ReplacingCallback(logger);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_Range()-&gt;Replace(MakeObject&lt;System::Text::RegularExpressions::Regex&gt;(u</highlight><highlight class="stringliteral">&quot;New<sp/>York<sp/>City|NYC&quot;</highlight><highlight class="normal">),<sp/>u</highlight><highlight class="stringliteral">&quot;Washington&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Our<sp/>new<sp/>location<sp/>in<sp/>(Old<sp/>value:\&quot;New<sp/>York<sp/>City\&quot;)<sp/>Washington<sp/>is<sp/>opening<sp/>tomorrow.<sp/>&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;Hope<sp/>to<sp/>see<sp/>all<sp/>our<sp/>(Old<sp/>value:\&quot;NYC\&quot;)<sp/>Washington-based<sp/>customers<sp/>at<sp/>the<sp/>opening!&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\&quot;New<sp/>York<sp/>City\&quot;<sp/>converted<sp/>to<sp/>\&quot;Washington\&quot;<sp/>20<sp/>characters<sp/>into<sp/>a<sp/>Run<sp/>node.\r\n&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;NYC\&quot;<sp/>converted<sp/>to<sp/>\&quot;Washington\&quot;<sp/>42<sp/>characters<sp/>into<sp/>a<sp/>Run<sp/>node.&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>logger-&gt;GetLog().Trim());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">TextFindAndReplacementLogger<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IReplacingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>GetLog()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mLog-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>TextFindAndReplacementLogger()<sp/>:<sp/>mLog(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mLog;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_replacing_1af9076a3b0db42719d6e5fff0cecd794b" kindref="member" tooltip="Allows the user to specify what happens to the current match during a replace operation.">ReplaceAction</ref><sp/>Replacing(SharedPtr&lt;ReplacingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\&quot;{0}\&quot;<sp/>converted<sp/>to<sp/>\&quot;{1}\&quot;<sp/>&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Match()-&gt;get_Value(),<sp/>args-&gt;get_Replacement())<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>characters<sp/>into<sp/>a<sp/>{1}<sp/>node.&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_MatchOffset(),<sp/>args-&gt;get_MatchNode()-&gt;get_NodeType()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_Replacement(String::Format(u</highlight><highlight class="stringliteral">&quot;(Old<sp/>value:\&quot;{0}\&quot;)<sp/>{1}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Match()-&gt;get_Value(),<sp/>args-&gt;get_Replacement()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>ReplaceAction::Replace;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" line="490" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a74cc6f8b10dde1bf26a05be711e4fbc4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Replacing::ReplacingArgs::set_GroupIndex</definition>
+        <argsstring>(int32_t value)</argsstring>
+        <name>set_GroupIndex</name>
+        <qualifiedname>Aspose::Words::Replacing::ReplacingArgs::set_GroupIndex</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a532ee9ab4e2356802cd124e279f9d75c" kindref="member">Aspose::Words::Replacing::ReplacingArgs::get_GroupIndex</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" line="669" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a072b899b0fc73122580232165b04d1ba" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Replacing::ReplacingArgs::set_GroupName</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_GroupName</name>
+        <qualifiedname>Aspose::Words::Replacing::ReplacingArgs::set_GroupName</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a7ca6cb7b9da6f9fe21d5da624f7e127f" kindref="member">Aspose::Words::Replacing::ReplacingArgs::get_GroupName</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" line="581" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a087caca71c7e706d0fde399a2df5e3ee" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Replacing::ReplacingArgs::set_Replacement</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Replacement</name>
+        <qualifiedname>Aspose::Words::Replacing::ReplacingArgs::set_Replacement</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a90ee5ad0f212d88f9d82c46357756302" kindref="member">Aspose::Words::Replacing::ReplacingArgs::get_Replacement</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" line="493" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Provides data for a custom replace operation. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_replacing_1_1_i_replacing_callback" kindref="compound">Aspose::Words::Replacing::IReplacingCallback</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_range" kindref="compound">Aspose::Words::Range</ref> </para>
+</simplesect>
+<simplesect kind="see"><para>Aspose::Words::Range::Replace(System::String, System::String, System::SharedPtr&lt;Aspose::Words::Replacing::FindReplaceOptions&gt;)</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to replace all occurrences of a regular expression pattern with another string, while tracking all such replacements. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ReplaceWithCallback()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Our<sp/>new<sp/>location<sp/>in<sp/>New<sp/>York<sp/>City<sp/>is<sp/>opening<sp/>tomorrow.<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Hope<sp/>to<sp/>see<sp/>all<sp/>our<sp/>NYC-based<sp/>customers<sp/>at<sp/>the<sp/>opening!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>a<sp/>&quot;FindReplaceOptions&quot;<sp/>object<sp/>to<sp/>modify<sp/>the<sp/>find-and-replace<sp/>process.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;FindReplaceOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>callback<sp/>that<sp/>tracks<sp/>any<sp/>replacements<sp/>that<sp/>the<sp/>&quot;Replace&quot;<sp/>method<sp/>will<sp/>make.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>logger<sp/>=<sp/>MakeObject&lt;ExRange::TextFindAndReplacementLogger&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ReplacingCallback(logger);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_Range()-&gt;Replace(MakeObject&lt;System::Text::RegularExpressions::Regex&gt;(u</highlight><highlight class="stringliteral">&quot;New<sp/>York<sp/>City|NYC&quot;</highlight><highlight class="normal">),<sp/>u</highlight><highlight class="stringliteral">&quot;Washington&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Our<sp/>new<sp/>location<sp/>in<sp/>(Old<sp/>value:\&quot;New<sp/>York<sp/>City\&quot;)<sp/>Washington<sp/>is<sp/>opening<sp/>tomorrow.<sp/>&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;Hope<sp/>to<sp/>see<sp/>all<sp/>our<sp/>(Old<sp/>value:\&quot;NYC\&quot;)<sp/>Washington-based<sp/>customers<sp/>at<sp/>the<sp/>opening!&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\&quot;New<sp/>York<sp/>City\&quot;<sp/>converted<sp/>to<sp/>\&quot;Washington\&quot;<sp/>20<sp/>characters<sp/>into<sp/>a<sp/>Run<sp/>node.\r\n&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;NYC\&quot;<sp/>converted<sp/>to<sp/>\&quot;Washington\&quot;<sp/>42<sp/>characters<sp/>into<sp/>a<sp/>Run<sp/>node.&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>logger-&gt;GetLog().Trim());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">TextFindAndReplacementLogger<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IReplacingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>GetLog()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mLog-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>TextFindAndReplacementLogger()<sp/>:<sp/>mLog(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mLog;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_replacing_1af9076a3b0db42719d6e5fff0cecd794b" kindref="member" tooltip="Allows the user to specify what happens to the current match during a replace operation.">ReplaceAction</ref><sp/>Replacing(SharedPtr&lt;ReplacingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\&quot;{0}\&quot;<sp/>converted<sp/>to<sp/>\&quot;{1}\&quot;<sp/>&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Match()-&gt;get_Value(),<sp/>args-&gt;get_Replacement())<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>characters<sp/>into<sp/>a<sp/>{1}<sp/>node.&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_MatchOffset(),<sp/>args-&gt;get_MatchNode()-&gt;get_NodeType()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_Replacement(String::Format(u</highlight><highlight class="stringliteral">&quot;(Old<sp/>value:\&quot;{0}\&quot;)<sp/>{1}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Match()-&gt;get_Value(),<sp/>args-&gt;get_Replacement()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>ReplaceAction::Replace;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting></para>
+<para>Shows how to insert an entire document&apos;s contents as a replacement of a match in a find-and-replace operation. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertDocumentAtReplace()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>mainDoc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document<sp/>insertion<sp/>destination.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>a<sp/>&quot;FindReplaceOptions&quot;<sp/>object<sp/>to<sp/>modify<sp/>the<sp/>find-and-replace<sp/>process.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;FindReplaceOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ReplacingCallback(MakeObject&lt;ExRange::InsertDocumentAtReplaceHandler&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>mainDoc-&gt;get_Range()-&gt;Replace(MakeObject&lt;System::Text::RegularExpressions::Regex&gt;(u</highlight><highlight class="stringliteral">&quot;\\[MY_DOCUMENT\\]&quot;</highlight><highlight class="normal">),<sp/>u</highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>mainDoc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;InsertDocument.InsertDocumentAtReplace.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">InsertDocumentAtReplaceHandler<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IReplacingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_replacing_1af9076a3b0db42719d6e5fff0cecd794b" kindref="member" tooltip="Allows the user to specify what happens to the current match during a replace operation.">ReplaceAction</ref><sp/>Replacing(SharedPtr&lt;ReplacingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>subDoc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>document<sp/>after<sp/>the<sp/>paragraph<sp/>containing<sp/>the<sp/>matched<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>para<sp/>=<sp/>System::DynamicCast&lt;Paragraph&gt;(args-&gt;get_MatchNode()-&gt;get_ParentNode());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>InsertDocument(para,<sp/>subDoc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Remove<sp/>the<sp/>paragraph<sp/>with<sp/>the<sp/>matched<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>para-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>ReplaceAction::Skip;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertDocument(SharedPtr&lt;Node&gt;<sp/>insertionDestination,<sp/>SharedPtr&lt;Document&gt;<sp/>docToInsert)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(insertionDestination-&gt;get_NodeType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref><sp/>||<sp/>insertionDestination-&gt;get_NodeType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="A Table object that represents a table in a Word document. A Table node can have Row nodes.">NodeType::Table</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;CompositeNode&gt;<sp/>dstStory<sp/>=<sp/>insertionDestination-&gt;get_ParentNode();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>importer<sp/>=<sp/>MakeObject&lt;NodeImporter&gt;(docToInsert,<sp/>insertionDestination-&gt;get_Document(),<sp/><ref refid="namespace_aspose_1_1_words_1aafaa52cbf0baa49c3225787c23a8c949a4cf454c612a2ed0c3ee75ac5175497c3" kindref="member" tooltip="Copy all required styles to the destination document, generate unique style names if needed.">ImportFormatMode::KeepSourceFormatting</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>srcSection<sp/>:<sp/>System::IterateOver(docToInsert-&gt;get_Sections()-&gt;LINQ_OfType&lt;SharedPtr&lt;Section&gt;&gt;()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>srcNode<sp/>:<sp/>System::IterateOver(srcSection-&gt;get_Body()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Skip<sp/>the<sp/>node<sp/>if<sp/>it<sp/>is<sp/>the<sp/>last<sp/>empty<sp/>paragraph<sp/>in<sp/>a<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(srcNode-&gt;get_NodeType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>para<sp/>=<sp/>System::DynamicCast&lt;Paragraph&gt;(srcNode);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(para-&gt;get_IsEndOfSection()<sp/>&amp;&amp;<sp/>!para-&gt;get_HasChildNodes())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">continue</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;Node&gt;<sp/>newNode<sp/>=<sp/>importer-&gt;ImportNode(srcNode,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>dstStory-&gt;InsertAfter(newNode,<sp/>insertionDestination);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>insertionDestination<sp/>=<sp/>newNode;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">throw</highlight><highlight class="normal"><sp/>System::ArgumentException(u</highlight><highlight class="stringliteral">&quot;The<sp/>destination<sp/>node<sp/>must<sp/>be<sp/>either<sp/>a<sp/>paragraph<sp/>or<sp/>table.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Replacing::ReplacingArgs</label>
+        <link refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Replacing::ReplacingArgs</label>
+        <link refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" line="177" column="1" bodyfile="Aspose.Words.Cpp/Replacing/ReplacingArgs.h" bodystart="178" bodyend="682"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1ad20190b5bb3971e013b1a35491f21b50" prot="private" virt="non-virtual"><scope>Aspose::Words::Replacing::ReplacingArgs</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a532ee9ab4e2356802cd124e279f9d75c" prot="public" virt="non-virtual"><scope>Aspose::Words::Replacing::ReplacingArgs</scope><name>get_GroupIndex</name></member>
+      <member refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a7ca6cb7b9da6f9fe21d5da624f7e127f" prot="public" virt="non-virtual"><scope>Aspose::Words::Replacing::ReplacingArgs</scope><name>get_GroupName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1af910c4ef319862b1884cfbee3b33201a" prot="public" virt="non-virtual"><scope>Aspose::Words::Replacing::ReplacingArgs</scope><name>get_Match</name></member>
+      <member refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a2c3184944dbd4c8f7d40781a7b9860c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Replacing::ReplacingArgs</scope><name>get_MatchNode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a3385e95332881080a8d6fa064bb40ae6" prot="public" virt="non-virtual"><scope>Aspose::Words::Replacing::ReplacingArgs</scope><name>get_MatchOffset</name></member>
+      <member refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a90ee5ad0f212d88f9d82c46357756302" prot="public" virt="non-virtual"><scope>Aspose::Words::Replacing::ReplacingArgs</scope><name>get_Replacement</name></member>
+      <member refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a3590bb7b02fc2c57b3d98a8fc31fa238" prot="private" virt="non-virtual"><scope>Aspose::Words::Replacing::ReplacingArgs</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a4f7ad902efe29e6af87e75b4bb9ca160" prot="private" virt="non-virtual"><scope>Aspose::Words::Replacing::ReplacingArgs</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a7510cde1cc8aa41014fffd7cb435f727" prot="private" virt="non-virtual"><scope>Aspose::Words::Replacing::ReplacingArgs</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a3fa2dc446c26fb97a4266d659a30610e" prot="private" virt="non-virtual"><scope>Aspose::Words::Replacing::ReplacingArgs</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1af1f841b2a8b6480600c3f5de7db77742" prot="private" virt="non-virtual"><scope>Aspose::Words::Replacing::ReplacingArgs</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1aa0e5a35ba0be370dfdc3a283feec7894" prot="private" virt="non-virtual"><scope>Aspose::Words::Replacing::ReplacingArgs</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1ae5bb7b8843fdba94e3c6ede5d460dba0" prot="private" virt="non-virtual"><scope>Aspose::Words::Replacing::ReplacingArgs</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a74cc6f8b10dde1bf26a05be711e4fbc4" prot="public" virt="non-virtual"><scope>Aspose::Words::Replacing::ReplacingArgs</scope><name>set_GroupIndex</name></member>
+      <member refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a072b899b0fc73122580232165b04d1ba" prot="public" virt="non-virtual"><scope>Aspose::Words::Replacing::ReplacingArgs</scope><name>set_GroupName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a087caca71c7e706d0fde399a2df5e3ee" prot="public" virt="non-virtual"><scope>Aspose::Words::Replacing::ReplacingArgs</scope><name>set_Replacement</name></member>
+      <member refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a4278913620211b7cebc3f5fcb5495631" prot="private" virt="non-virtual"><scope>Aspose::Words::Replacing::ReplacingArgs</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_replacing_1_1_replacing_args_1a7afdf65b0596441b2f7d5de648e6173d" prot="private" virt="non-virtual"><scope>Aspose::Words::Replacing::ReplacingArgs</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

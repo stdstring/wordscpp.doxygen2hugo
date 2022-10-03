@@ -1,0 +1,664 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_field_advance" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::FieldAdvance</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field" prot="public" virt="non-virtual">Aspose::Words::Fields::Field</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IFieldCodeTokenInfoProvider</basecompoundref>
+    <includes refid="_field_advance_8h" local="no">Aspose.Words.Cpp/Fields/FieldAdvance.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1a2e617ff043b6c8d6452ce9582ee466a2" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref></type>
+        <definition>typedef Aspose::Words::Fields::Field Aspose::Words::Fields::FieldAdvance::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAdvance::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAdvance.h" line="81" column="42" bodyfile="Aspose.Words.Cpp/Fields/FieldAdvance.h" bodystart="81" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1a44a288819c7869e6e2f27232eef2fdde" prot="private" static="no">
+        <type>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</type>
+        <definition>typedef Aspose::Words::Fields::IFieldCodeTokenInfoProvider Aspose::Words::Fields::FieldAdvance::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAdvance::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAdvance.h" line="82" column="64" bodyfile="Aspose.Words.Cpp/Fields/FieldAdvance.h" bodystart="82" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1ab7ff91c03918a01e3206621e47da3e35" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance" kindref="compound">FieldAdvance</ref></type>
+        <definition>typedef FieldAdvance Aspose::Words::Fields::FieldAdvance::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAdvance::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAdvance.h" line="80" column="26" bodyfile="Aspose.Words.Cpp/Fields/FieldAdvance.h" bodystart="80" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1af50595dc7dd6f41628bce87d7a13f31a" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Fields::FieldAdvance::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAdvance::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAdvance.h" line="84" column="37" bodyfile="Aspose.Words.Cpp/Fields/FieldAdvance.h" bodystart="84" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1ae29ccc80499798d0e8bf988ff11c868c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>Aspose::Words::Fields::FieldSwitchType</type>
+        <definition>Aspose::Words::Fields::FieldSwitchType Aspose::Words::Fields::FieldAdvance::GetSwitchType</definition>
+        <argsstring>(System::String) override</argsstring>
+        <name>GetSwitchType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAdvance::GetSwitchType</qualifiedname>
+        <param>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAdvance.h" line="375" column="44"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1ac07a623ed9b7907718329c6164772bb0" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldAdvance::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAdvance::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAdvance.h" line="85" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1ab11fb93320ffc8e9792f2cb9693ffd44" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldAdvance::get_DownOffset</definition>
+        <argsstring>()</argsstring>
+        <name>get_DownOffset</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAdvance::get_DownOffset</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the number of points by which the text that follows the field should be moved down. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert an ADVANCE field, and edit its properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>is<sp/>in<sp/>its<sp/>normal<sp/>place.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>using<sp/>the<sp/>ADVANCE<sp/>field<sp/>to<sp/>adjust<sp/>the<sp/>position<sp/>of<sp/>text<sp/>that<sp/>follows<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>effects<sp/>of<sp/>an<sp/>ADVANCE<sp/>field<sp/>continue<sp/>to<sp/>be<sp/>applied<sp/>until<sp/>the<sp/>paragraph<sp/>ends,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>or<sp/>another<sp/>ADVANCE<sp/>field<sp/>updates<sp/>the<sp/>offset/coordinate<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Specify<sp/>a<sp/>directional<sp/>offset:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldAdvance&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca8fbea641151c76ea8cd873a92aed1f65" kindref="member" tooltip="Specifies the ADVANCE field.">FieldType::FieldAdvance</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_RightOffset(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_UpOffset(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>ADVANCE<sp/><sp/>\\r<sp/>5<sp/>\\u<sp/>5&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>will<sp/>be<sp/>moved<sp/>up<sp/>and<sp/>to<sp/>the<sp/>right.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldAdvance&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca8fbea641151c76ea8cd873a92aed1f65" kindref="member" tooltip="Specifies the ADVANCE field.">FieldType::FieldAdvance</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DownOffset(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LeftOffset(u</highlight><highlight class="stringliteral">&quot;100&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>ADVANCE<sp/><sp/>\\d<sp/>5<sp/>\\l<sp/>100&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>is<sp/>moved<sp/>down<sp/>and<sp/>to<sp/>the<sp/>left,<sp/>overlapping<sp/>the<sp/>previous<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Move<sp/>text<sp/>to<sp/>a<sp/>position<sp/>specified<sp/>by<sp/>coordinates:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldAdvance&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca8fbea641151c76ea8cd873a92aed1f65" kindref="member" tooltip="Specifies the ADVANCE field.">FieldType::FieldAdvance</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_HorizontalPosition(u</highlight><highlight class="stringliteral">&quot;-100&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_VerticalPosition(u</highlight><highlight class="stringliteral">&quot;200&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>ADVANCE<sp/><sp/>\\x<sp/>-100<sp/>\\y<sp/>200&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>is<sp/>in<sp/>a<sp/>custom<sp/>position.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.ADVANCE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAdvance.h" line="131" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1a09749d433266a6efe4b61df915fec348" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldAdvance::get_HorizontalPosition</definition>
+        <argsstring>()</argsstring>
+        <name>get_HorizontalPosition</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAdvance::get_HorizontalPosition</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the number of points by which the text that follows the field should be moved horizontally from the left edge of the column, frame, or text box. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert an ADVANCE field, and edit its properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>is<sp/>in<sp/>its<sp/>normal<sp/>place.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>using<sp/>the<sp/>ADVANCE<sp/>field<sp/>to<sp/>adjust<sp/>the<sp/>position<sp/>of<sp/>text<sp/>that<sp/>follows<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>effects<sp/>of<sp/>an<sp/>ADVANCE<sp/>field<sp/>continue<sp/>to<sp/>be<sp/>applied<sp/>until<sp/>the<sp/>paragraph<sp/>ends,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>or<sp/>another<sp/>ADVANCE<sp/>field<sp/>updates<sp/>the<sp/>offset/coordinate<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Specify<sp/>a<sp/>directional<sp/>offset:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldAdvance&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca8fbea641151c76ea8cd873a92aed1f65" kindref="member" tooltip="Specifies the ADVANCE field.">FieldType::FieldAdvance</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_RightOffset(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_UpOffset(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>ADVANCE<sp/><sp/>\\r<sp/>5<sp/>\\u<sp/>5&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>will<sp/>be<sp/>moved<sp/>up<sp/>and<sp/>to<sp/>the<sp/>right.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldAdvance&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca8fbea641151c76ea8cd873a92aed1f65" kindref="member" tooltip="Specifies the ADVANCE field.">FieldType::FieldAdvance</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DownOffset(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LeftOffset(u</highlight><highlight class="stringliteral">&quot;100&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>ADVANCE<sp/><sp/>\\d<sp/>5<sp/>\\l<sp/>100&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>is<sp/>moved<sp/>down<sp/>and<sp/>to<sp/>the<sp/>left,<sp/>overlapping<sp/>the<sp/>previous<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Move<sp/>text<sp/>to<sp/>a<sp/>position<sp/>specified<sp/>by<sp/>coordinates:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldAdvance&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca8fbea641151c76ea8cd873a92aed1f65" kindref="member" tooltip="Specifies the ADVANCE field.">FieldType::FieldAdvance</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_HorizontalPosition(u</highlight><highlight class="stringliteral">&quot;-100&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_VerticalPosition(u</highlight><highlight class="stringliteral">&quot;200&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>ADVANCE<sp/><sp/>\\x<sp/>-100<sp/>\\y<sp/>200&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>is<sp/>in<sp/>a<sp/>custom<sp/>position.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.ADVANCE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAdvance.h" line="320" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1ad0e6af0527897fbc3ec69f0d4ac6ebab" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldAdvance::get_LeftOffset</definition>
+        <argsstring>()</argsstring>
+        <name>get_LeftOffset</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAdvance::get_LeftOffset</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the number of points by which the text that follows the field should be moved left. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert an ADVANCE field, and edit its properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>is<sp/>in<sp/>its<sp/>normal<sp/>place.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>using<sp/>the<sp/>ADVANCE<sp/>field<sp/>to<sp/>adjust<sp/>the<sp/>position<sp/>of<sp/>text<sp/>that<sp/>follows<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>effects<sp/>of<sp/>an<sp/>ADVANCE<sp/>field<sp/>continue<sp/>to<sp/>be<sp/>applied<sp/>until<sp/>the<sp/>paragraph<sp/>ends,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>or<sp/>another<sp/>ADVANCE<sp/>field<sp/>updates<sp/>the<sp/>offset/coordinate<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Specify<sp/>a<sp/>directional<sp/>offset:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldAdvance&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca8fbea641151c76ea8cd873a92aed1f65" kindref="member" tooltip="Specifies the ADVANCE field.">FieldType::FieldAdvance</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_RightOffset(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_UpOffset(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>ADVANCE<sp/><sp/>\\r<sp/>5<sp/>\\u<sp/>5&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>will<sp/>be<sp/>moved<sp/>up<sp/>and<sp/>to<sp/>the<sp/>right.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldAdvance&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca8fbea641151c76ea8cd873a92aed1f65" kindref="member" tooltip="Specifies the ADVANCE field.">FieldType::FieldAdvance</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DownOffset(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LeftOffset(u</highlight><highlight class="stringliteral">&quot;100&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>ADVANCE<sp/><sp/>\\d<sp/>5<sp/>\\l<sp/>100&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>is<sp/>moved<sp/>down<sp/>and<sp/>to<sp/>the<sp/>left,<sp/>overlapping<sp/>the<sp/>previous<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Move<sp/>text<sp/>to<sp/>a<sp/>position<sp/>specified<sp/>by<sp/>coordinates:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldAdvance&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca8fbea641151c76ea8cd873a92aed1f65" kindref="member" tooltip="Specifies the ADVANCE field.">FieldType::FieldAdvance</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_HorizontalPosition(u</highlight><highlight class="stringliteral">&quot;-100&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_VerticalPosition(u</highlight><highlight class="stringliteral">&quot;200&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>ADVANCE<sp/><sp/>\\x<sp/>-100<sp/>\\y<sp/>200&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>is<sp/>in<sp/>a<sp/>custom<sp/>position.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.ADVANCE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAdvance.h" line="178" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1a161bc85d0d227cbc80a1bd4814a074c5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldAdvance::get_RightOffset</definition>
+        <argsstring>()</argsstring>
+        <name>get_RightOffset</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAdvance::get_RightOffset</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the number of points by which the text that follows the field should be moved right. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert an ADVANCE field, and edit its properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>is<sp/>in<sp/>its<sp/>normal<sp/>place.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>using<sp/>the<sp/>ADVANCE<sp/>field<sp/>to<sp/>adjust<sp/>the<sp/>position<sp/>of<sp/>text<sp/>that<sp/>follows<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>effects<sp/>of<sp/>an<sp/>ADVANCE<sp/>field<sp/>continue<sp/>to<sp/>be<sp/>applied<sp/>until<sp/>the<sp/>paragraph<sp/>ends,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>or<sp/>another<sp/>ADVANCE<sp/>field<sp/>updates<sp/>the<sp/>offset/coordinate<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Specify<sp/>a<sp/>directional<sp/>offset:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldAdvance&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca8fbea641151c76ea8cd873a92aed1f65" kindref="member" tooltip="Specifies the ADVANCE field.">FieldType::FieldAdvance</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_RightOffset(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_UpOffset(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>ADVANCE<sp/><sp/>\\r<sp/>5<sp/>\\u<sp/>5&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>will<sp/>be<sp/>moved<sp/>up<sp/>and<sp/>to<sp/>the<sp/>right.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldAdvance&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca8fbea641151c76ea8cd873a92aed1f65" kindref="member" tooltip="Specifies the ADVANCE field.">FieldType::FieldAdvance</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DownOffset(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LeftOffset(u</highlight><highlight class="stringliteral">&quot;100&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>ADVANCE<sp/><sp/>\\d<sp/>5<sp/>\\l<sp/>100&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>is<sp/>moved<sp/>down<sp/>and<sp/>to<sp/>the<sp/>left,<sp/>overlapping<sp/>the<sp/>previous<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Move<sp/>text<sp/>to<sp/>a<sp/>position<sp/>specified<sp/>by<sp/>coordinates:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldAdvance&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca8fbea641151c76ea8cd873a92aed1f65" kindref="member" tooltip="Specifies the ADVANCE field.">FieldType::FieldAdvance</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_HorizontalPosition(u</highlight><highlight class="stringliteral">&quot;-100&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_VerticalPosition(u</highlight><highlight class="stringliteral">&quot;200&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>ADVANCE<sp/><sp/>\\x<sp/>-100<sp/>\\y<sp/>200&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>is<sp/>in<sp/>a<sp/>custom<sp/>position.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.ADVANCE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAdvance.h" line="225" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1aa7b59cf28f3487eca059e579885c08c6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldAdvance::get_UpOffset</definition>
+        <argsstring>()</argsstring>
+        <name>get_UpOffset</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAdvance::get_UpOffset</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the number of points by which the text that follows the field should be moved up. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert an ADVANCE field, and edit its properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>is<sp/>in<sp/>its<sp/>normal<sp/>place.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>using<sp/>the<sp/>ADVANCE<sp/>field<sp/>to<sp/>adjust<sp/>the<sp/>position<sp/>of<sp/>text<sp/>that<sp/>follows<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>effects<sp/>of<sp/>an<sp/>ADVANCE<sp/>field<sp/>continue<sp/>to<sp/>be<sp/>applied<sp/>until<sp/>the<sp/>paragraph<sp/>ends,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>or<sp/>another<sp/>ADVANCE<sp/>field<sp/>updates<sp/>the<sp/>offset/coordinate<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Specify<sp/>a<sp/>directional<sp/>offset:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldAdvance&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca8fbea641151c76ea8cd873a92aed1f65" kindref="member" tooltip="Specifies the ADVANCE field.">FieldType::FieldAdvance</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_RightOffset(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_UpOffset(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>ADVANCE<sp/><sp/>\\r<sp/>5<sp/>\\u<sp/>5&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>will<sp/>be<sp/>moved<sp/>up<sp/>and<sp/>to<sp/>the<sp/>right.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldAdvance&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca8fbea641151c76ea8cd873a92aed1f65" kindref="member" tooltip="Specifies the ADVANCE field.">FieldType::FieldAdvance</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DownOffset(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LeftOffset(u</highlight><highlight class="stringliteral">&quot;100&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>ADVANCE<sp/><sp/>\\d<sp/>5<sp/>\\l<sp/>100&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>is<sp/>moved<sp/>down<sp/>and<sp/>to<sp/>the<sp/>left,<sp/>overlapping<sp/>the<sp/>previous<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Move<sp/>text<sp/>to<sp/>a<sp/>position<sp/>specified<sp/>by<sp/>coordinates:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldAdvance&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca8fbea641151c76ea8cd873a92aed1f65" kindref="member" tooltip="Specifies the ADVANCE field.">FieldType::FieldAdvance</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_HorizontalPosition(u</highlight><highlight class="stringliteral">&quot;-100&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_VerticalPosition(u</highlight><highlight class="stringliteral">&quot;200&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>ADVANCE<sp/><sp/>\\x<sp/>-100<sp/>\\y<sp/>200&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>is<sp/>in<sp/>a<sp/>custom<sp/>position.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.ADVANCE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAdvance.h" line="272" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1aac5c13e6002ff042a4669b5885ad5842" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldAdvance::get_VerticalPosition</definition>
+        <argsstring>()</argsstring>
+        <name>get_VerticalPosition</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAdvance::get_VerticalPosition</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the number of points by which the text that follows the field should be moved vertically from the top edge of the page. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert an ADVANCE field, and edit its properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>is<sp/>in<sp/>its<sp/>normal<sp/>place.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>using<sp/>the<sp/>ADVANCE<sp/>field<sp/>to<sp/>adjust<sp/>the<sp/>position<sp/>of<sp/>text<sp/>that<sp/>follows<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>effects<sp/>of<sp/>an<sp/>ADVANCE<sp/>field<sp/>continue<sp/>to<sp/>be<sp/>applied<sp/>until<sp/>the<sp/>paragraph<sp/>ends,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>or<sp/>another<sp/>ADVANCE<sp/>field<sp/>updates<sp/>the<sp/>offset/coordinate<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Specify<sp/>a<sp/>directional<sp/>offset:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldAdvance&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca8fbea641151c76ea8cd873a92aed1f65" kindref="member" tooltip="Specifies the ADVANCE field.">FieldType::FieldAdvance</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_RightOffset(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_UpOffset(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>ADVANCE<sp/><sp/>\\r<sp/>5<sp/>\\u<sp/>5&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>will<sp/>be<sp/>moved<sp/>up<sp/>and<sp/>to<sp/>the<sp/>right.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldAdvance&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca8fbea641151c76ea8cd873a92aed1f65" kindref="member" tooltip="Specifies the ADVANCE field.">FieldType::FieldAdvance</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DownOffset(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LeftOffset(u</highlight><highlight class="stringliteral">&quot;100&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>ADVANCE<sp/><sp/>\\d<sp/>5<sp/>\\l<sp/>100&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>is<sp/>moved<sp/>down<sp/>and<sp/>to<sp/>the<sp/>left,<sp/>overlapping<sp/>the<sp/>previous<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Move<sp/>text<sp/>to<sp/>a<sp/>position<sp/>specified<sp/>by<sp/>coordinates:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldAdvance&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca8fbea641151c76ea8cd873a92aed1f65" kindref="member" tooltip="Specifies the ADVANCE field.">FieldType::FieldAdvance</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_HorizontalPosition(u</highlight><highlight class="stringliteral">&quot;-100&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_VerticalPosition(u</highlight><highlight class="stringliteral">&quot;200&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>ADVANCE<sp/><sp/>\\x<sp/>-100<sp/>\\y<sp/>200&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>is<sp/>in<sp/>a<sp/>custom<sp/>position.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.ADVANCE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAdvance.h" line="368" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1a3b66738be3369d41ecb195ce0be05627" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldAdvance::set_DownOffset</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_DownOffset</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAdvance::set_DownOffset</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1ab11fb93320ffc8e9792f2cb9693ffd44" kindref="member">Aspose::Words::Fields::FieldAdvance::get_DownOffset</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAdvance.h" line="134" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1af48f7f7bafd255f161b6547ae4f8c94a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldAdvance::set_HorizontalPosition</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_HorizontalPosition</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAdvance::set_HorizontalPosition</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1a09749d433266a6efe4b61df915fec348" kindref="member">Aspose::Words::Fields::FieldAdvance::get_HorizontalPosition</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAdvance.h" line="323" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1a9f25fc1013a6c6690fe84c5f16d8b8ac" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldAdvance::set_LeftOffset</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_LeftOffset</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAdvance::set_LeftOffset</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1ad0e6af0527897fbc3ec69f0d4ac6ebab" kindref="member">Aspose::Words::Fields::FieldAdvance::get_LeftOffset</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAdvance.h" line="181" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1ac24f3fb96e40824ed126e8034f2c756c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldAdvance::set_RightOffset</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_RightOffset</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAdvance::set_RightOffset</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1a161bc85d0d227cbc80a1bd4814a074c5" kindref="member">Aspose::Words::Fields::FieldAdvance::get_RightOffset</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAdvance.h" line="228" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1a955066d59690fbc82c23690fbd2c7d70" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldAdvance::set_UpOffset</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_UpOffset</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAdvance::set_UpOffset</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1aa7b59cf28f3487eca059e579885c08c6" kindref="member">Aspose::Words::Fields::FieldAdvance::get_UpOffset</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAdvance.h" line="275" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1a9e8629c7f8f9328274090e3907e7113b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldAdvance::set_VerticalPosition</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_VerticalPosition</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAdvance::set_VerticalPosition</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1aac5c13e6002ff042a4669b5885ad5842" kindref="member">Aspose::Words::Fields::FieldAdvance::get_VerticalPosition</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAdvance.h" line="371" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implements the ADVANCE field. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert an ADVANCE field, and edit its properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>is<sp/>in<sp/>its<sp/>normal<sp/>place.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>using<sp/>the<sp/>ADVANCE<sp/>field<sp/>to<sp/>adjust<sp/>the<sp/>position<sp/>of<sp/>text<sp/>that<sp/>follows<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>effects<sp/>of<sp/>an<sp/>ADVANCE<sp/>field<sp/>continue<sp/>to<sp/>be<sp/>applied<sp/>until<sp/>the<sp/>paragraph<sp/>ends,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>or<sp/>another<sp/>ADVANCE<sp/>field<sp/>updates<sp/>the<sp/>offset/coordinate<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Specify<sp/>a<sp/>directional<sp/>offset:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldAdvance&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca8fbea641151c76ea8cd873a92aed1f65" kindref="member" tooltip="Specifies the ADVANCE field.">FieldType::FieldAdvance</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_RightOffset(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_UpOffset(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>ADVANCE<sp/><sp/>\\r<sp/>5<sp/>\\u<sp/>5&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>will<sp/>be<sp/>moved<sp/>up<sp/>and<sp/>to<sp/>the<sp/>right.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldAdvance&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca8fbea641151c76ea8cd873a92aed1f65" kindref="member" tooltip="Specifies the ADVANCE field.">FieldType::FieldAdvance</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DownOffset(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LeftOffset(u</highlight><highlight class="stringliteral">&quot;100&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>ADVANCE<sp/><sp/>\\d<sp/>5<sp/>\\l<sp/>100&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>is<sp/>moved<sp/>down<sp/>and<sp/>to<sp/>the<sp/>left,<sp/>overlapping<sp/>the<sp/>previous<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Move<sp/>text<sp/>to<sp/>a<sp/>position<sp/>specified<sp/>by<sp/>coordinates:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldAdvance&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca8fbea641151c76ea8cd873a92aed1f65" kindref="member" tooltip="Specifies the ADVANCE field.">FieldType::FieldAdvance</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_HorizontalPosition(u</highlight><highlight class="stringliteral">&quot;-100&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_VerticalPosition(u</highlight><highlight class="stringliteral">&quot;200&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>ADVANCE<sp/><sp/>\\x<sp/>-100<sp/>\\y<sp/>200&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>is<sp/>in<sp/>a<sp/>custom<sp/>position.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.ADVANCE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldAdvance</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldAdvance</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/FieldAdvance.h" line="78" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldAdvance.h" bodystart="79" bodyend="377"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1a2e617ff043b6c8d6452ce9582ee466a2" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1a44a288819c7869e6e2f27232eef2fdde" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a5c2d01019c517ea8098f296903e37a34" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>get_DisplayResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1ab11fb93320ffc8e9792f2cb9693ffd44" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>get_DownOffset</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad5f0995c85cce833806e847cf25809b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a399c14463916724cac0015b430175589" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>get_FieldEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abc40cddc1325f7fec80d8530e5287448" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>get_FieldStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a090c5d09915e2ead6cc54fda736dd7c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>get_Format</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1a09749d433266a6efe4b61df915fec348" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>get_HorizontalPosition</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ae68851d4a88a1fc867d3ddee2e4e88c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>get_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afda4c46db80761545c89e21aae5b717d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>get_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1ad0e6af0527897fbc3ec69f0d4ac6ebab" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>get_LeftOffset</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a93719d071099487b6aea1eaa241dd6e8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>get_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a012c93472901dc077815970a9b2ab650" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>get_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1a161bc85d0d227cbc80a1bd4814a074c5" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>get_RightOffset</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abbc83ad66d5fb391a21980126ea96847" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>get_Separator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afa7cd5d4cf1a87b05058982f26786456" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad68196653db5cfca30c1ba18ed44c76e" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1aa7b59cf28f3487eca059e579885c08c6" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>get_UpOffset</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1aac5c13e6002ff042a4669b5885ad5842" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>get_VerticalPosition</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa40bc0e4a5be11f0df785cc8bb2ff042" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1ae29ccc80499798d0e8bf988ff11c868c" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>GetSwitchType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad26a8021af3dbdc5bf0a1360a201222f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1ac07a623ed9b7907718329c6164772bb0" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1a3b66738be3369d41ecb195ce0be05627" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>set_DownOffset</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1af48f7f7bafd255f161b6547ae4f8c94a" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>set_HorizontalPosition</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa637d825865724665fb8ed856e664d95" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>set_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ac70b125adbe7f0ba5b889280cd282c47" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>set_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1a9f25fc1013a6c6690fe84c5f16d8b8ac" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>set_LeftOffset</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a165f748dd5ba33844f1d765f6c710f88" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>set_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa6af1e900c84ae806f071098dfe8f087" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>set_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1ac24f3fb96e40824ed126e8034f2c756c" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>set_RightOffset</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1a955066d59690fbc82c23690fbd2c7d70" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>set_UpOffset</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1a9e8629c7f8f9328274090e3907e7113b" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>set_VerticalPosition</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1ab7ff91c03918a01e3206621e47da3e35" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance_1af50595dc7dd6f41628bce87d7a13f31a" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab9f908becb16b26bed76d58dbcee9929" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>Unlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aaec82418b2b6493aa2827b8e282b2e82" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a1298d7daa07c863bf97cb3f37a4d7a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAdvance</scope><name>Update</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

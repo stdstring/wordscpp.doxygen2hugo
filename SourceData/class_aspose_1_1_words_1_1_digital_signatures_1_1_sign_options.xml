@@ -1,0 +1,787 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::DigitalSignatures::SignOptions</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_sign_options_8h" local="no">Aspose.Words.Cpp/DigitalSignatures/SignOptions.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1aae0405d60a80af6d1b275749f717d058" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::DigitalSignatures::SignOptions::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::SignOptions::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" line="28" column="28" bodyfile="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1abc533681df10792d56a9c8a15bf82927" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options" kindref="compound">SignOptions</ref></type>
+        <definition>typedef SignOptions Aspose::Words::DigitalSignatures::SignOptions::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::SignOptions::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" line="27" column="25" bodyfile="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a20ff2de8cdf0677149472eabb4ae3c58" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::DigitalSignatures::SignOptions::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::SignOptions::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" line="30" column="37" bodyfile="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a5b1c5d58651816a8512d3e6522d76bc6" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::DigitalSignatures::SignOptions::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::SignOptions::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" line="480" column="20" bodyfile="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" bodystart="480" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1aa049dcc0e0b71ba664dd3ec8977c1a86" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.date_time/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref></type>
+        <definition>System::DateTime Aspose::Words::DigitalSignatures::SignOptions::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::SignOptions::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" line="481" column="22" bodyfile="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" bodystart="481" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1aadecf647abb571f338452b2a25e1a8fb" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.guid/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid</ref></type>
+        <definition>System::Guid Aspose::Words::DigitalSignatures::SignOptions::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::SignOptions::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" line="482" column="18" bodyfile="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" bodystart="482" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1affd3c2d1e166f2d65d7bb1814a4aa3f5" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.guid/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid</ref></type>
+        <definition>System::Guid Aspose::Words::DigitalSignatures::SignOptions::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::SignOptions::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" line="483" column="18" bodyfile="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" bodystart="483" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1ad8e7ac7635f59af39591ede18a1c4dd1" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::DigitalSignatures::SignOptions::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::SignOptions::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" line="484" column="23" bodyfile="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" bodystart="484" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a31088482270031d3f2b3eeb940cd12c7" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::DigitalSignatures::SignOptions::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::SignOptions::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" line="485" column="20" bodyfile="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" bodystart="485" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a4911efab5699820caa91c2b406171bc7" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::DigitalSignatures::SignOptions::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::SignOptions::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" line="31" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1aea4feabba8e6eb2d46f98d6cd50df839" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::DigitalSignatures::SignOptions::SignOptions</definition>
+        <argsstring>()</argsstring>
+        <name>SignOptions</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::SignOptions::SignOptions</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" line="474" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1ade016d0446b5711812d3784e86586e59" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::DigitalSignatures::SignOptions::get_Comments</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Comments</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::SignOptions::get_Comments</qualifiedname>
+        <briefdescription>
+<para>Specifies comments on the digital signature. Default value is <bold>empty string</bold>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to digitally sign documents. <programlisting><codeline><highlight class="comment">//<sp/>Create<sp/>an<sp/>X.509<sp/>certificate<sp/>from<sp/>a<sp/>PKCS#12<sp/>store,<sp/>which<sp/>should<sp/>contain<sp/>a<sp/>private<sp/>key.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CertificateHolder&gt;<sp/>certificateHolder<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder_1a0fd6423e6d95a9b92a170da169d3fa25" kindref="member" tooltip="Creates CertificateHolder object using byte array of PKCS12 store and its password.">CertificateHolder::Create</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;morzal.pfx&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;aw&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>comment<sp/>and<sp/>date<sp/>which<sp/>will<sp/>be<sp/>applied<sp/>with<sp/>our<sp/>new<sp/>digital<sp/>signature.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signOptions<sp/>=<sp/>MakeObject&lt;SignOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">signOptions-&gt;set_Comments(u</highlight><highlight class="stringliteral">&quot;My<sp/>comment&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">signOptions-&gt;set_SignTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Take<sp/>an<sp/>unsigned<sp/>document<sp/>from<sp/>the<sp/>local<sp/>file<sp/>system<sp/>via<sp/>a<sp/>file<sp/>stream,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>then<sp/>create<sp/>a<sp/>signed<sp/>copy<sp/>of<sp/>it<sp/>determined<sp/>by<sp/>the<sp/>filename<sp/>of<sp/>the<sp/>output<sp/>file<sp/>stream.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::Stream&gt;<sp/>streamIn<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Open);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::Stream&gt;<sp/>streamOut<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DigitalSignatureUtil.SignDocument.docx&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::OpenOrCreate);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_util_1af869532f846e545c8cd7436d45af6530" kindref="member" tooltip="Signs source document using given CertificateHolder and SignOptions with digital signature and writes...">DigitalSignatureUtil::Sign</ref>(streamIn,<sp/>streamOut,<sp/>certificateHolder,<sp/>signOptions);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" line="61" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a16324025e983cfffec0c5f0fdd2d588a" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::DigitalSignatures::SignOptions::get_DecryptionPassword</definition>
+        <argsstring>() const</argsstring>
+        <name>get_DecryptionPassword</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::SignOptions::get_DecryptionPassword</qualifiedname>
+        <briefdescription>
+<para>The password to decrypt source document. Default value is <bold>empty string</bold>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to sign encrypted document file. <programlisting><codeline><highlight class="comment">//<sp/>Create<sp/>an<sp/>X.509<sp/>certificate<sp/>from<sp/>a<sp/>PKCS#12<sp/>store,<sp/>which<sp/>should<sp/>contain<sp/>a<sp/>private<sp/>key.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CertificateHolder&gt;<sp/>certificateHolder<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder_1a0fd6423e6d95a9b92a170da169d3fa25" kindref="member" tooltip="Creates CertificateHolder object using byte array of PKCS12 store and its password.">CertificateHolder::Create</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;morzal.pfx&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;aw&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>comment,<sp/>date,<sp/>and<sp/>decryption<sp/>password<sp/>which<sp/>will<sp/>be<sp/>applied<sp/>with<sp/>our<sp/>new<sp/>digital<sp/>signature.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signOptions<sp/>=<sp/>MakeObject&lt;SignOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">signOptions-&gt;set_Comments(u</highlight><highlight class="stringliteral">&quot;Comment&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">signOptions-&gt;set_SignTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal">signOptions-&gt;set_DecryptionPassword(u</highlight><highlight class="stringliteral">&quot;docPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>local<sp/>system<sp/>filename<sp/>for<sp/>the<sp/>unsigned<sp/>input<sp/>document,<sp/>and<sp/>an<sp/>output<sp/>filename<sp/>for<sp/>its<sp/>new<sp/>digitally<sp/>signed<sp/>copy.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>inputFileName<sp/>=<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Encrypted.docx&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>outputFileName<sp/>=<sp/>ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DigitalSignatureUtil.DecryptionPassword.docx&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_util_1af869532f846e545c8cd7436d45af6530" kindref="member" tooltip="Signs source document using given CertificateHolder and SignOptions with digital signature and writes...">DigitalSignatureUtil::Sign</ref>(inputFileName,<sp/>outputFileName,<sp/>certificateHolder,<sp/>signOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" line="407" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a050f44c2708406d2a92b7733c516f4b6" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.guid/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid</ref></type>
+        <definition>System::Guid Aspose::Words::DigitalSignatures::SignOptions::get_ProviderId</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ProviderId</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::SignOptions::get_ProviderId</qualifiedname>
+        <briefdescription>
+<para>Specifies the class ID of the signature provider. Default value is <bold>Empty (all zeroes) Guid</bold>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The cryptographic service provider (CSP) is an independent software module that actually performs cryptography algorithms for authentication, encoding, and encryption. MS Office reserves the value of {00000000-0000-0000-0000-000000000000} for its default signature provider.</para>
+<para>The GUID of the additionally installed provider should be obtained from the documentation shipped with the provider.</para>
+<para>In addition, all the installed cryptographic providers are enumerated in windows registry. It can be found in the following path: HKLM\SOFTWARE\<ref refid="namespace/microsoft/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">Microsoft</ref>\Cryptography\Defaults\Provider. There is a key name &quot;CP Service UUID&quot; which corresponds to a GUID of signature provider.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to sign a document with a personal certificate and a signature line. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signatureLineOptions<sp/>=<sp/>MakeObject&lt;SignatureLineOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">signatureLineOptions-&gt;set_Signer(u</highlight><highlight class="stringliteral">&quot;vderyushev&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">signatureLineOptions-&gt;set_SignerTitle(u</highlight><highlight class="stringliteral">&quot;QA&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">signatureLineOptions-&gt;set_Email(u</highlight><highlight class="stringliteral">&quot;vderyushev@aspose.com&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">signatureLineOptions-&gt;set_ShowDate(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">signatureLineOptions-&gt;set_DefaultInstructions(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">signatureLineOptions-&gt;set_Instructions(u</highlight><highlight class="stringliteral">&quot;Please<sp/>sign<sp/>here.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">signatureLineOptions-&gt;set_AllowComments(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;SignatureLine&gt;<sp/>signatureLine<sp/>=<sp/>builder-&gt;InsertSignatureLine(signatureLineOptions)-&gt;get_SignatureLine();</highlight></codeline>
+<codeline><highlight class="normal">signatureLine-&gt;set_ProviderId(<ref refid="class/system.guid/_1a514508d9dd63f7eeb65ae305493f2411" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::Parse</ref>(u</highlight><highlight class="stringliteral">&quot;CF5A7BB4-8F3C-4756-9DF6-BEF7F13259A2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(signatureLine-&gt;get_IsSigned());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(signatureLine-&gt;get_IsValid());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBuilder.SignatureLineProviderId.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signOptions<sp/>=<sp/>MakeObject&lt;SignOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">signOptions-&gt;set_SignatureLineId(signatureLine-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal">signOptions-&gt;set_ProviderId(signatureLine-&gt;get_ProviderId());</highlight></codeline>
+<codeline><highlight class="normal">signOptions-&gt;set_Comments(u</highlight><highlight class="stringliteral">&quot;Document<sp/>was<sp/>signed<sp/>by<sp/>vderyushev&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">signOptions-&gt;set_SignTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CertificateHolder&gt;<sp/>certHolder<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder_1a0fd6423e6d95a9b92a170da169d3fa25" kindref="member" tooltip="Creates CertificateHolder object using byte array of PKCS12 store and its password.">CertificateHolder::Create</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;morzal.pfx&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;aw&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_util_1af869532f846e545c8cd7436d45af6530" kindref="member" tooltip="Signs source document using given CertificateHolder and SignOptions with digital signature and writes...">DigitalSignatureUtil::Sign</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBuilder.SignatureLineProviderId.docx&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBuilder.SignatureLineProviderId.Signed.docx&quot;</highlight><highlight class="normal">,<sp/>certHolder,<sp/>signOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Re-open<sp/>our<sp/>saved<sp/>document,<sp/>and<sp/>verify<sp/>that<sp/>the<sp/>&quot;IsSigned&quot;<sp/>and<sp/>&quot;IsValid&quot;<sp/>properties<sp/>both<sp/>equal<sp/>&quot;true&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>indicating<sp/>that<sp/>the<sp/>signature<sp/>line<sp/>contains<sp/>a<sp/>signature.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBuilder.SignatureLineProviderId.Signed.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>shape<sp/>=<sp/>System::DynamicCast&lt;Shape&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">signatureLine<sp/>=<sp/>shape-&gt;get_SignatureLine();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(signatureLine-&gt;get_IsSigned());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(signatureLine-&gt;get_IsValid());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" line="469" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a1ac7da1ad59915814caf3f3b9bcdff6c" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.guid/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid</ref></type>
+        <definition>System::Guid Aspose::Words::DigitalSignatures::SignOptions::get_SignatureLineId</definition>
+        <argsstring>() const</argsstring>
+        <name>get_SignatureLineId</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::SignOptions::get_SignatureLineId</qualifiedname>
+        <briefdescription>
+<para>Signature line identifier. Default value is <bold>Empty (all zeroes) Guid</bold>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to add a signature line to a document, and then sign it using a digital certificate. <programlisting><codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>Sign()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>signeeName<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Ron<sp/>Williams&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>srcDocumentPath<sp/>=<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>dstDocumentPath<sp/>=<sp/>ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SignDocumentCustom.Sign.docx&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>certificatePath<sp/>=<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;morzal.pfx&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>certificatePassword<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;aw&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>CreateSignees();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signeeInfo<sp/>=<sp/>mSignees-&gt;Find(<ref refid="class/system.multicast_delegate/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Predicate</ref>&lt;SharedPtr&lt;Signee&gt;&gt;([&amp;](SharedPtr&lt;Signee&gt;<sp/>c)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>c-&gt;get_Name()<sp/>==<sp/>signeeName;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(signeeInfo<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SignDocument(srcDocumentPath,<sp/>dstDocumentPath,<sp/>signeeInfo,<sp/>certificatePath,<sp/>certificatePassword);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>FAIL()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Signee<sp/>does<sp/>not<sp/>exist.&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">Signee<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.guid/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid</ref><sp/>get_PersonId()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>pr_PersonId;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>set_PersonId(<ref refid="class/system.guid/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid</ref><sp/>value)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>pr_PersonId<sp/>=<sp/>value;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>get_Name()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>pr_Name;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>set_Name(String<sp/>value)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>pr_Name<sp/>=<sp/>value;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>get_Position()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>pr_Position;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>set_Position(String<sp/>value)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>pr_Position<sp/>=<sp/>value;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ArrayPtr&lt;uint8_t&gt;<sp/>get_Image()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>pr_Image;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>set_Image(ArrayPtr&lt;uint8_t&gt;<sp/>value)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>pr_Image<sp/>=<sp/>value;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>Signee(<ref refid="class/system.guid/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid</ref><sp/>guid,<sp/>String<sp/>name,<sp/>String<sp/>position,<sp/>ArrayPtr&lt;uint8_t&gt;<sp/>image)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>set_PersonId(guid);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>set_Name(name);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>set_Position(position);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>set_Image(image);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.guid/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid</ref><sp/>pr_PersonId;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>pr_Name;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>pr_Position;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ArrayPtr&lt;uint8_t&gt;<sp/>pr_Image;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>SignDocument(String<sp/>srcDocumentPath,<sp/>String<sp/>dstDocumentPath,<sp/>SharedPtr&lt;ExSignDocumentCustom::Signee&gt;<sp/>signeeInfo,<sp/>String<sp/>certificatePath,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String<sp/>certificatePassword)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>document<sp/>=<sp/>MakeObject&lt;Document&gt;(srcDocumentPath);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(document);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Configure<sp/>and<sp/>insert<sp/>a<sp/>signature<sp/>line,<sp/>an<sp/>object<sp/>in<sp/>the<sp/>document<sp/>that<sp/>will<sp/>display<sp/>a<sp/>signature<sp/>that<sp/>we<sp/>sign<sp/>it<sp/>with.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signatureLineOptions<sp/>=<sp/>MakeObject&lt;SignatureLineOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>signatureLineOptions-&gt;set_Signer(signeeInfo-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>signatureLineOptions-&gt;set_SignerTitle(signeeInfo-&gt;get_Position());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;SignatureLine&gt;<sp/>signatureLine<sp/>=<sp/>builder-&gt;InsertSignatureLine(signatureLineOptions)-&gt;get_SignatureLine();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>signatureLine-&gt;set_Id(signeeInfo-&gt;get_PersonId());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>First,<sp/>we<sp/>will<sp/>save<sp/>an<sp/>unsigned<sp/>version<sp/>of<sp/>our<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Document()-&gt;Save(dstDocumentPath);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;CertificateHolder&gt;<sp/>certificateHolder<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder_1a0fd6423e6d95a9b92a170da169d3fa25" kindref="member" tooltip="Creates CertificateHolder object using byte array of PKCS12 store and its password.">CertificateHolder::Create</ref>(certificatePath,<sp/>certificatePassword);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signOptions<sp/>=<sp/>MakeObject&lt;SignOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>signOptions-&gt;set_SignatureLineId(signeeInfo-&gt;get_PersonId());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>signOptions-&gt;set_SignatureLineImage(signeeInfo-&gt;get_Image());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Overwrite<sp/>the<sp/>unsigned<sp/>document<sp/>we<sp/>saved<sp/>above<sp/>with<sp/>a<sp/>version<sp/>signed<sp/>using<sp/>the<sp/>certificate.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_util_1af869532f846e545c8cd7436d45af6530" kindref="member" tooltip="Signs source document using given CertificateHolder and SignOptions with digital signature and writes...">DigitalSignatureUtil::Sign</ref>(dstDocumentPath,<sp/>dstDocumentPath,<sp/>certificateHolder,<sp/>signOptions);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/>ArrayPtr&lt;uint8_t&gt;<sp/>ImageToByteArray(SharedPtr&lt;System::Drawing::Image&gt;<sp/>imageIn)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>ms<sp/>=<sp/>MakeObject&lt;System::IO::MemoryStream&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>imageIn-&gt;Save(ms,<sp/><ref refid="class/system.drawing.imaging.image_format/_1a854fe6ac4c8bb96087464e4e59112df5" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Imaging::ImageFormat::get_Png</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>ms-&gt;ToArray();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>CreateSignees()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>mSignees<sp/>=<sp/>MakeObject&lt;System::Collections::Generic::List&lt;SharedPtr&lt;ExSignDocumentCustom::Signee&gt;&gt;&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>mSignees-&gt;Add(MakeObject&lt;ExSignDocumentCustom::Signee&gt;(<ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>(),<sp/>u</highlight><highlight class="stringliteral">&quot;Ron<sp/>Williams&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Chief<sp/>Executive<sp/>Officer&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ImageToByteArray(<ref refid="class/system.drawing.image/_1a744ad35e2fcb00393fb7ce4e24e59263" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Image::FromFile</ref>(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">))));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>mSignees-&gt;Add(MakeObject&lt;ExSignDocumentCustom::Signee&gt;(<ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>(),<sp/>u</highlight><highlight class="stringliteral">&quot;Stephen<sp/>Morse&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Head<sp/>of<sp/>Compliance&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ImageToByteArray(<ref refid="class/system.drawing.image/_1a744ad35e2fcb00393fb7ce4e24e59263" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Image::FromFile</ref>(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">))));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/>SharedPtr&lt;System::Collections::Generic::List&lt;SharedPtr&lt;ExSignDocumentCustom::Signee&gt;&gt;&gt;<sp/>mSignees;</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" line="236" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1ace6ff3e0ac5ae7f0dd6a67ed3a367cdd" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt;</type>
+        <definition>System::ArrayPtr&lt; uint8_t &gt; Aspose::Words::DigitalSignatures::SignOptions::get_SignatureLineImage</definition>
+        <argsstring>() const</argsstring>
+        <name>get_SignatureLineImage</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::SignOptions::get_SignatureLineImage</qualifiedname>
+        <briefdescription>
+<para>The image that will be shown in associated <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_signature_line" kindref="compound">SignatureLine</ref>. Default value is <computeroutput>null</computeroutput>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to add a signature line to a document, and then sign it using a digital certificate. <programlisting><codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>Sign()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>signeeName<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;Ron<sp/>Williams&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>srcDocumentPath<sp/>=<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>dstDocumentPath<sp/>=<sp/>ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SignDocumentCustom.Sign.docx&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>certificatePath<sp/>=<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;morzal.pfx&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>certificatePassword<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;aw&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>CreateSignees();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signeeInfo<sp/>=<sp/>mSignees-&gt;Find(<ref refid="class/system.multicast_delegate/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Predicate</ref>&lt;SharedPtr&lt;Signee&gt;&gt;([&amp;](SharedPtr&lt;Signee&gt;<sp/>c)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>c-&gt;get_Name()<sp/>==<sp/>signeeName;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(signeeInfo<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SignDocument(srcDocumentPath,<sp/>dstDocumentPath,<sp/>signeeInfo,<sp/>certificatePath,<sp/>certificatePassword);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>FAIL()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Signee<sp/>does<sp/>not<sp/>exist.&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">Signee<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.guid/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid</ref><sp/>get_PersonId()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>pr_PersonId;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>set_PersonId(<ref refid="class/system.guid/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid</ref><sp/>value)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>pr_PersonId<sp/>=<sp/>value;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>get_Name()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>pr_Name;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>set_Name(String<sp/>value)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>pr_Name<sp/>=<sp/>value;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>get_Position()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>pr_Position;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>set_Position(String<sp/>value)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>pr_Position<sp/>=<sp/>value;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ArrayPtr&lt;uint8_t&gt;<sp/>get_Image()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>pr_Image;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>set_Image(ArrayPtr&lt;uint8_t&gt;<sp/>value)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>pr_Image<sp/>=<sp/>value;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>Signee(<ref refid="class/system.guid/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid</ref><sp/>guid,<sp/>String<sp/>name,<sp/>String<sp/>position,<sp/>ArrayPtr&lt;uint8_t&gt;<sp/>image)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>set_PersonId(guid);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>set_Name(name);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>set_Position(position);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>set_Image(image);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.guid/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid</ref><sp/>pr_PersonId;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>pr_Name;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>pr_Position;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ArrayPtr&lt;uint8_t&gt;<sp/>pr_Image;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>SignDocument(String<sp/>srcDocumentPath,<sp/>String<sp/>dstDocumentPath,<sp/>SharedPtr&lt;ExSignDocumentCustom::Signee&gt;<sp/>signeeInfo,<sp/>String<sp/>certificatePath,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String<sp/>certificatePassword)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>document<sp/>=<sp/>MakeObject&lt;Document&gt;(srcDocumentPath);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(document);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Configure<sp/>and<sp/>insert<sp/>a<sp/>signature<sp/>line,<sp/>an<sp/>object<sp/>in<sp/>the<sp/>document<sp/>that<sp/>will<sp/>display<sp/>a<sp/>signature<sp/>that<sp/>we<sp/>sign<sp/>it<sp/>with.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signatureLineOptions<sp/>=<sp/>MakeObject&lt;SignatureLineOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>signatureLineOptions-&gt;set_Signer(signeeInfo-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>signatureLineOptions-&gt;set_SignerTitle(signeeInfo-&gt;get_Position());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;SignatureLine&gt;<sp/>signatureLine<sp/>=<sp/>builder-&gt;InsertSignatureLine(signatureLineOptions)-&gt;get_SignatureLine();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>signatureLine-&gt;set_Id(signeeInfo-&gt;get_PersonId());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>First,<sp/>we<sp/>will<sp/>save<sp/>an<sp/>unsigned<sp/>version<sp/>of<sp/>our<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Document()-&gt;Save(dstDocumentPath);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;CertificateHolder&gt;<sp/>certificateHolder<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder_1a0fd6423e6d95a9b92a170da169d3fa25" kindref="member" tooltip="Creates CertificateHolder object using byte array of PKCS12 store and its password.">CertificateHolder::Create</ref>(certificatePath,<sp/>certificatePassword);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signOptions<sp/>=<sp/>MakeObject&lt;SignOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>signOptions-&gt;set_SignatureLineId(signeeInfo-&gt;get_PersonId());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>signOptions-&gt;set_SignatureLineImage(signeeInfo-&gt;get_Image());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Overwrite<sp/>the<sp/>unsigned<sp/>document<sp/>we<sp/>saved<sp/>above<sp/>with<sp/>a<sp/>version<sp/>signed<sp/>using<sp/>the<sp/>certificate.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_util_1af869532f846e545c8cd7436d45af6530" kindref="member" tooltip="Signs source document using given CertificateHolder and SignOptions with digital signature and writes...">DigitalSignatureUtil::Sign</ref>(dstDocumentPath,<sp/>dstDocumentPath,<sp/>certificateHolder,<sp/>signOptions);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/>ArrayPtr&lt;uint8_t&gt;<sp/>ImageToByteArray(SharedPtr&lt;System::Drawing::Image&gt;<sp/>imageIn)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>ms<sp/>=<sp/>MakeObject&lt;System::IO::MemoryStream&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>imageIn-&gt;Save(ms,<sp/><ref refid="class/system.drawing.imaging.image_format/_1a854fe6ac4c8bb96087464e4e59112df5" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Imaging::ImageFormat::get_Png</ref>());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>ms-&gt;ToArray();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>CreateSignees()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>mSignees<sp/>=<sp/>MakeObject&lt;System::Collections::Generic::List&lt;SharedPtr&lt;ExSignDocumentCustom::Signee&gt;&gt;&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>mSignees-&gt;Add(MakeObject&lt;ExSignDocumentCustom::Signee&gt;(<ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>(),<sp/>u</highlight><highlight class="stringliteral">&quot;Ron<sp/>Williams&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Chief<sp/>Executive<sp/>Officer&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ImageToByteArray(<ref refid="class/system.drawing.image/_1a744ad35e2fcb00393fb7ce4e24e59263" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Image::FromFile</ref>(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">))));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>mSignees-&gt;Add(MakeObject&lt;ExSignDocumentCustom::Signee&gt;(<ref refid="class/system.guid/_1a33465ce6eef642b741d2307309e36202" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid::NewGuid</ref>(),<sp/>u</highlight><highlight class="stringliteral">&quot;Stephen<sp/>Morse&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Head<sp/>of<sp/>Compliance&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ImageToByteArray(<ref refid="class/system.drawing.image/_1a744ad35e2fcb00393fb7ce4e24e59263" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Image::FromFile</ref>(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">))));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">static</highlight><highlight class="normal"><sp/>SharedPtr&lt;System::Collections::Generic::List&lt;SharedPtr&lt;ExSignDocumentCustom::Signee&gt;&gt;&gt;<sp/>mSignees;</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" line="380" column="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a880169f2f70a9087535afea974e700ee" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.date_time/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref></type>
+        <definition>System::DateTime Aspose::Words::DigitalSignatures::SignOptions::get_SignTime</definition>
+        <argsstring>() const</argsstring>
+        <name>get_SignTime</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::SignOptions::get_SignTime</qualifiedname>
+        <briefdescription>
+<para>The date of signing. Default value is <bold>current time</bold> (<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">Now</ref>). </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to digitally sign documents. <programlisting><codeline><highlight class="comment">//<sp/>Create<sp/>an<sp/>X.509<sp/>certificate<sp/>from<sp/>a<sp/>PKCS#12<sp/>store,<sp/>which<sp/>should<sp/>contain<sp/>a<sp/>private<sp/>key.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CertificateHolder&gt;<sp/>certificateHolder<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder_1a0fd6423e6d95a9b92a170da169d3fa25" kindref="member" tooltip="Creates CertificateHolder object using byte array of PKCS12 store and its password.">CertificateHolder::Create</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;morzal.pfx&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;aw&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>comment<sp/>and<sp/>date<sp/>which<sp/>will<sp/>be<sp/>applied<sp/>with<sp/>our<sp/>new<sp/>digital<sp/>signature.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signOptions<sp/>=<sp/>MakeObject&lt;SignOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">signOptions-&gt;set_Comments(u</highlight><highlight class="stringliteral">&quot;My<sp/>comment&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">signOptions-&gt;set_SignTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Take<sp/>an<sp/>unsigned<sp/>document<sp/>from<sp/>the<sp/>local<sp/>file<sp/>system<sp/>via<sp/>a<sp/>file<sp/>stream,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>then<sp/>create<sp/>a<sp/>signed<sp/>copy<sp/>of<sp/>it<sp/>determined<sp/>by<sp/>the<sp/>filename<sp/>of<sp/>the<sp/>output<sp/>file<sp/>stream.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::Stream&gt;<sp/>streamIn<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Open);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::Stream&gt;<sp/>streamOut<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DigitalSignatureUtil.SignDocument.docx&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::OpenOrCreate);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_util_1af869532f846e545c8cd7436d45af6530" kindref="member" tooltip="Signs source document using given CertificateHolder and SignOptions with digital signature and writes...">DigitalSignatureUtil::Sign</ref>(streamIn,<sp/>streamOut,<sp/>certificateHolder,<sp/>signOptions);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" line="92" column="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a95ebe24c9a28c090b3eaa6141c5b4f33" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::DigitalSignatures::SignOptions::set_Comments</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Comments</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::SignOptions::set_Comments</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1ade016d0446b5711812d3784e86586e59" kindref="member">Aspose::Words::DigitalSignatures::SignOptions::get_Comments</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" line="64" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1ab0ce413881b3b0810d9318d3723a36d0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::DigitalSignatures::SignOptions::set_DecryptionPassword</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_DecryptionPassword</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::SignOptions::set_DecryptionPassword</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a16324025e983cfffec0c5f0fdd2d588a" kindref="member">Aspose::Words::DigitalSignatures::SignOptions::get_DecryptionPassword</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" line="410" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a5eca61d4a8ed11e4c5f1715c89b53768" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::DigitalSignatures::SignOptions::set_ProviderId</definition>
+        <argsstring>(System::Guid value)</argsstring>
+        <name>set_ProviderId</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::SignOptions::set_ProviderId</qualifiedname>
+        <param>
+          <type><ref refid="class/system.guid/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a050f44c2708406d2a92b7733c516f4b6" kindref="member">Aspose::Words::DigitalSignatures::SignOptions::get_ProviderId</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" line="472" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a4b40db8ed63db011bda91fb5db5bba4d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::DigitalSignatures::SignOptions::set_SignatureLineId</definition>
+        <argsstring>(System::Guid value)</argsstring>
+        <name>set_SignatureLineId</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::SignOptions::set_SignatureLineId</qualifiedname>
+        <param>
+          <type><ref refid="class/system.guid/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a1ac7da1ad59915814caf3f3b9bcdff6c" kindref="member">Aspose::Words::DigitalSignatures::SignOptions::get_SignatureLineId</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" line="239" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1ad8148a4250719add7c521a81ae6a3c39" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::DigitalSignatures::SignOptions::set_SignatureLineImage</definition>
+        <argsstring>(const System::ArrayPtr&lt; uint8_t &gt; &amp;value)</argsstring>
+        <name>set_SignatureLineImage</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::SignOptions::set_SignatureLineImage</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1ace6ff3e0ac5ae7f0dd6a67ed3a367cdd" kindref="member">Aspose::Words::DigitalSignatures::SignOptions::get_SignatureLineImage</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" line="383" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a609c151c3c2772eebbeeb1c3fc36fdf4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::DigitalSignatures::SignOptions::set_SignTime</definition>
+        <argsstring>(System::DateTime value)</argsstring>
+        <name>set_SignTime</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::SignOptions::set_SignTime</qualifiedname>
+        <param>
+          <type><ref refid="class/system.date_time/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a880169f2f70a9087535afea974e700ee" kindref="member">Aspose::Words::DigitalSignatures::SignOptions::get_SignTime</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" line="95" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Allows to specify options for document signing. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::DigitalSignatures::SignOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::DigitalSignatures::SignOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" line="25" column="1" bodyfile="Aspose.Words.Cpp/DigitalSignatures/SignOptions.h" bodystart="26" bodyend="487"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1aae0405d60a80af6d1b275749f717d058" prot="private" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::SignOptions</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1ade016d0446b5711812d3784e86586e59" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::SignOptions</scope><name>get_Comments</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a16324025e983cfffec0c5f0fdd2d588a" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::SignOptions</scope><name>get_DecryptionPassword</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a050f44c2708406d2a92b7733c516f4b6" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::SignOptions</scope><name>get_ProviderId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a1ac7da1ad59915814caf3f3b9bcdff6c" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::SignOptions</scope><name>get_SignatureLineId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1ace6ff3e0ac5ae7f0dd6a67ed3a367cdd" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::SignOptions</scope><name>get_SignatureLineImage</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a880169f2f70a9087535afea974e700ee" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::SignOptions</scope><name>get_SignTime</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a5b1c5d58651816a8512d3e6522d76bc6" prot="private" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::SignOptions</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1aa049dcc0e0b71ba664dd3ec8977c1a86" prot="private" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::SignOptions</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1aadecf647abb571f338452b2a25e1a8fb" prot="private" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::SignOptions</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1affd3c2d1e166f2d65d7bb1814a4aa3f5" prot="private" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::SignOptions</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1ad8e7ac7635f59af39591ede18a1c4dd1" prot="private" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::SignOptions</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a31088482270031d3f2b3eeb940cd12c7" prot="private" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::SignOptions</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a4911efab5699820caa91c2b406171bc7" prot="private" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::SignOptions</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a95ebe24c9a28c090b3eaa6141c5b4f33" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::SignOptions</scope><name>set_Comments</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1ab0ce413881b3b0810d9318d3723a36d0" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::SignOptions</scope><name>set_DecryptionPassword</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a5eca61d4a8ed11e4c5f1715c89b53768" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::SignOptions</scope><name>set_ProviderId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a4b40db8ed63db011bda91fb5db5bba4d" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::SignOptions</scope><name>set_SignatureLineId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1ad8148a4250719add7c521a81ae6a3c39" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::SignOptions</scope><name>set_SignatureLineImage</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a609c151c3c2772eebbeeb1c3fc36fdf4" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::SignOptions</scope><name>set_SignTime</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1aea4feabba8e6eb2d46f98d6cd50df839" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::SignOptions</scope><name>SignOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1abc533681df10792d56a9c8a15bf82927" prot="private" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::SignOptions</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_sign_options_1a20ff2de8cdf0677149472eabb4ae3c58" prot="private" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::SignOptions</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

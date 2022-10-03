@@ -1,0 +1,538 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::FieldArgumentBuilder</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IFieldBuildingBlock</basecompoundref>
+    <includes refid="_field_argument_builder_8h" local="no">Aspose.Words.Cpp/Fields/FieldArgumentBuilder.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder_1a1d5a4a3302ec546a4e401c21062eee6e" prot="private" static="no">
+        <type>Aspose::Words::Fields::IFieldBuildingBlock</type>
+        <definition>typedef Aspose::Words::Fields::IFieldBuildingBlock Aspose::Words::Fields::FieldArgumentBuilder::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldArgumentBuilder::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldArgumentBuilder.h" line="130" column="56" bodyfile="Aspose.Words.Cpp/Fields/FieldArgumentBuilder.h" bodystart="130" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder_1a34859d6e7ab191fb00074a58e808f2fa" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder" kindref="compound">FieldArgumentBuilder</ref></type>
+        <definition>typedef FieldArgumentBuilder Aspose::Words::Fields::FieldArgumentBuilder::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldArgumentBuilder::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldArgumentBuilder.h" line="129" column="34" bodyfile="Aspose.Words.Cpp/Fields/FieldArgumentBuilder.h" bodystart="129" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder_1ae5a2518fa71c2c7456a374c282b13328" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; BaseType &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Fields::FieldArgumentBuilder::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::FieldArgumentBuilder::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldArgumentBuilder.h" line="132" column="37" bodyfile="Aspose.Words.Cpp/Fields/FieldArgumentBuilder.h" bodystart="132" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder_1ae9e34d866a019b1ce68e2b612545bd31" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fields::FieldArgumentBuilder::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Fields::FieldArgumentBuilder::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldArgumentBuilder.h" line="395" column="23" bodyfile="Aspose.Words.Cpp/Fields/FieldArgumentBuilder.h" bodystart="395" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder_1ae74eac122d3791e4feb36aa0db4dad9c" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Fields::FieldArgumentBuilder::~FieldArgumentBuilder</definition>
+        <argsstring>()</argsstring>
+        <name>~FieldArgumentBuilder</name>
+        <qualifiedname>Aspose::Words::Fields::FieldArgumentBuilder::~FieldArgumentBuilder</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldArgumentBuilder.h" line="391" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder_1a581e60842ce1244f4d3e16a46a818349" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldArgumentBuilder::BuildBlock</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::DocumentBuilder &gt;) override</argsstring>
+        <name>BuildBlock</name>
+        <qualifiedname>Aspose::Words::Fields::FieldArgumentBuilder::BuildBlock</qualifiedname>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_builder" kindref="compound">Aspose::Words::DocumentBuilder</ref> &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldArgumentBuilder.h" line="397" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder_1a04e1dddd91ddd12a14238e21f5956db0" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldArgumentBuilder::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::FieldArgumentBuilder::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldArgumentBuilder.h" line="133" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder_1afb00367e5cacff6148f8164af6081c07" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldArgumentBuilder::FieldArgumentBuilder</definition>
+        <argsstring>()</argsstring>
+        <name>FieldArgumentBuilder</name>
+        <qualifiedname>Aspose::Words::Fields::FieldArgumentBuilder::FieldArgumentBuilder</qualifiedname>
+        <briefdescription>
+<para>Initializes an instance of the <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder" kindref="compound">FieldArgumentBuilder</ref> class. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldArgumentBuilder.h" line="138" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder_1a5958d27072754d66a4403e8f0f361fd7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder" kindref="compound">Aspose::Words::Fields::FieldArgumentBuilder</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldArgumentBuilder &gt; Aspose::Words::Fields::FieldArgumentBuilder::AddField</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Fields::FieldBuilder &gt; &amp;fieldBuilder)</argsstring>
+        <name>AddField</name>
+        <qualifiedname>Aspose::Words::Fields::FieldArgumentBuilder::AddField</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_builder" kindref="compound">Aspose::Words::Fields::FieldBuilder</ref> &gt; &amp;</type>
+          <declname>fieldBuilder</declname>
+        </param>
+        <briefdescription>
+<para>Adds a field represented by a <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_builder" kindref="compound">FieldBuilder</ref> to the argument. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to construct fields using a field builder, and then insert them into the document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>examples<sp/>of<sp/>field<sp/>construction<sp/>done<sp/>using<sp/>a<sp/>field<sp/>builder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Single<sp/>field:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>a<sp/>field<sp/>builder<sp/>to<sp/>add<sp/>a<sp/>SYMBOL<sp/>field<sp/>which<sp/>displays<sp/>the<sp/>ƒ<sp/>(Florin)<sp/>symbol.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;FieldBuilder&gt;(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca35b6c0b5b0fdd0da6a7f0eec57d9b439" kindref="member" tooltip="Specifies the SYMBOL field.">FieldType::FieldSymbol</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(402);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddSwitch(u</highlight><highlight class="stringliteral">&quot;\\f&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddSwitch(u</highlight><highlight class="stringliteral">&quot;\\s&quot;</highlight><highlight class="normal">,<sp/>25);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddSwitch(u</highlight><highlight class="stringliteral">&quot;\\u&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Field&gt;<sp/>field<sp/>=<sp/>builder-&gt;BuildAndInsert(doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SYMBOL<sp/>402<sp/>\\f<sp/>Arial<sp/>\\s<sp/>25<sp/>\\u<sp/>&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Nested<sp/>field:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>a<sp/>field<sp/>builder<sp/>to<sp/>create<sp/>a<sp/>formula<sp/>field<sp/>used<sp/>as<sp/>an<sp/>inner<sp/>field<sp/>by<sp/>another<sp/>field<sp/>builder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>innerFormulaBuilder<sp/>=<sp/>MakeObject&lt;FieldBuilder&gt;(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca00ce93942fbfaabddfbbc26e8a8fc1da" kindref="member" tooltip="Specifies the = (formula) field.">FieldType::FieldFormula</ref>);</highlight></codeline>
+<codeline><highlight class="normal">innerFormulaBuilder-&gt;AddArgument(100);</highlight></codeline>
+<codeline><highlight class="normal">innerFormulaBuilder-&gt;AddArgument(u</highlight><highlight class="stringliteral">&quot;+&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">innerFormulaBuilder-&gt;AddArgument(74);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>another<sp/>builder<sp/>for<sp/>another<sp/>SYMBOL<sp/>field,<sp/>and<sp/>insert<sp/>the<sp/>formula<sp/>field</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>that<sp/>we<sp/>have<sp/>created<sp/>above<sp/>into<sp/>the<sp/>SYMBOL<sp/>field<sp/>as<sp/>its<sp/>argument.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder<sp/>=<sp/>MakeObject&lt;FieldBuilder&gt;(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca35b6c0b5b0fdd0da6a7f0eec57d9b439" kindref="member" tooltip="Specifies the SYMBOL field.">FieldType::FieldSymbol</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(innerFormulaBuilder);</highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>builder-&gt;BuildAndInsert(doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;AppendParagraph(String::Empty));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>outer<sp/>SYMBOL<sp/>field<sp/>will<sp/>use<sp/>the<sp/>formula<sp/>field<sp/>result,<sp/>174,<sp/>as<sp/>its<sp/>argument,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>make<sp/>the<sp/>field<sp/>display<sp/>the<sp/>®<sp/>(Registered<sp/>Sign)<sp/>symbol<sp/>since<sp/>its<sp/>character<sp/>number<sp/>is<sp/>174.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SYMBOL<sp/>\u0013<sp/>=<sp/>100<sp/>+<sp/>74<sp/>\u0014\u0015<sp/>&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Multiple<sp/>nested<sp/>fields<sp/>and<sp/>arguments:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Now,<sp/>we<sp/>will<sp/>use<sp/>a<sp/>builder<sp/>to<sp/>create<sp/>an<sp/>IF<sp/>field,<sp/>which<sp/>displays<sp/>one<sp/>of<sp/>two<sp/>custom<sp/>string<sp/>values,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>depending<sp/>on<sp/>the<sp/>true/false<sp/>value<sp/>of<sp/>its<sp/>expression.<sp/>To<sp/>get<sp/>a<sp/>true/false<sp/>value</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>that<sp/>determines<sp/>which<sp/>string<sp/>the<sp/>IF<sp/>field<sp/>displays,<sp/>the<sp/>IF<sp/>field<sp/>will<sp/>test<sp/>two<sp/>numeric<sp/>expressions<sp/>for<sp/>equality.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>provide<sp/>the<sp/>two<sp/>expressions<sp/>in<sp/>the<sp/>form<sp/>of<sp/>formula<sp/>fields,<sp/>which<sp/>we<sp/>will<sp/>nest<sp/>inside<sp/>the<sp/>IF<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>leftExpression<sp/>=<sp/>MakeObject&lt;FieldBuilder&gt;(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca00ce93942fbfaabddfbbc26e8a8fc1da" kindref="member" tooltip="Specifies the = (formula) field.">FieldType::FieldFormula</ref>);</highlight></codeline>
+<codeline><highlight class="normal">leftExpression-&gt;AddArgument(2);</highlight></codeline>
+<codeline><highlight class="normal">leftExpression-&gt;AddArgument(u</highlight><highlight class="stringliteral">&quot;+&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">leftExpression-&gt;AddArgument(3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>rightExpression<sp/>=<sp/>MakeObject&lt;FieldBuilder&gt;(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca00ce93942fbfaabddfbbc26e8a8fc1da" kindref="member" tooltip="Specifies the = (formula) field.">FieldType::FieldFormula</ref>);</highlight></codeline>
+<codeline><highlight class="normal">rightExpression-&gt;AddArgument(2.5);</highlight></codeline>
+<codeline><highlight class="normal">rightExpression-&gt;AddArgument(u</highlight><highlight class="stringliteral">&quot;*&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">rightExpression-&gt;AddArgument(5.2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Next,<sp/>we<sp/>will<sp/>build<sp/>two<sp/>field<sp/>arguments,<sp/>which<sp/>will<sp/>serve<sp/>as<sp/>the<sp/>true/false<sp/>output<sp/>strings<sp/>for<sp/>the<sp/>IF<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>arguments<sp/>will<sp/>reuse<sp/>the<sp/>output<sp/>values<sp/>of<sp/>our<sp/>numeric<sp/>expressions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>trueOutput<sp/>=<sp/>MakeObject&lt;FieldArgumentBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal">trueOutput-&gt;AddText(u</highlight><highlight class="stringliteral">&quot;True,<sp/>both<sp/>expressions<sp/>amount<sp/>to<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">trueOutput-&gt;AddField(leftExpression);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>falseOutput<sp/>=<sp/>MakeObject&lt;FieldArgumentBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal">falseOutput-&gt;AddNode(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;False,<sp/>&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">falseOutput-&gt;AddField(leftExpression);</highlight></codeline>
+<codeline><highlight class="normal">falseOutput-&gt;AddNode(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>does<sp/>not<sp/>equal<sp/>&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">falseOutput-&gt;AddField(rightExpression);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Finally,<sp/>we<sp/>will<sp/>create<sp/>one<sp/>more<sp/>field<sp/>builder<sp/>for<sp/>the<sp/>IF<sp/>field<sp/>and<sp/>combine<sp/>all<sp/>of<sp/>the<sp/>expressions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder<sp/>=<sp/>MakeObject&lt;FieldBuilder&gt;(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca977dda6ca14fcff75096cef279a06ce8" kindref="member" tooltip="Specifies the IF field.">FieldType::FieldIf</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(leftExpression);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(u</highlight><highlight class="stringliteral">&quot;=&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(rightExpression);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(trueOutput);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(falseOutput);</highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>builder-&gt;BuildAndInsert(doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;AppendParagraph(String::Empty));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;<sp/>IF<sp/>\u0013<sp/>=<sp/>2<sp/>+<sp/>3<sp/>\u0014\u0015<sp/>=<sp/>\u0013<sp/>=<sp/>2.5<sp/>*<sp/>5.2<sp/>\u0014\u0015<sp/>&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;True,<sp/>both<sp/>expressions<sp/>amount<sp/>to<sp/>\u0013<sp/>=<sp/>2<sp/>+<sp/>3<sp/>\u0014\u0015\&quot;<sp/>&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;False,<sp/>\u0013<sp/>=<sp/>2<sp/>+<sp/>3<sp/>\u0014\u0015<sp/>does<sp/>not<sp/>equal<sp/>\u0013<sp/>=<sp/>2.5<sp/>*<sp/>5.2<sp/>\u0014\u0015\&quot;<sp/>&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.SYMBOL.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldArgumentBuilder.h" line="387" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder_1af377426d88566bd6b953e778e3d39c01" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder" kindref="compound">Aspose::Words::Fields::FieldArgumentBuilder</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldArgumentBuilder &gt; Aspose::Words::Fields::FieldArgumentBuilder::AddNode</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Inline &gt; &amp;node)</argsstring>
+        <name>AddNode</name>
+        <qualifiedname>Aspose::Words::Fields::FieldArgumentBuilder::AddNode</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_inline" kindref="compound">Aspose::Words::Inline</ref> &gt; &amp;</type>
+          <declname>node</declname>
+        </param>
+        <briefdescription>
+<para>Adds a node to the argument. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to construct fields using a field builder, and then insert them into the document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>examples<sp/>of<sp/>field<sp/>construction<sp/>done<sp/>using<sp/>a<sp/>field<sp/>builder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Single<sp/>field:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>a<sp/>field<sp/>builder<sp/>to<sp/>add<sp/>a<sp/>SYMBOL<sp/>field<sp/>which<sp/>displays<sp/>the<sp/>ƒ<sp/>(Florin)<sp/>symbol.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;FieldBuilder&gt;(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca35b6c0b5b0fdd0da6a7f0eec57d9b439" kindref="member" tooltip="Specifies the SYMBOL field.">FieldType::FieldSymbol</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(402);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddSwitch(u</highlight><highlight class="stringliteral">&quot;\\f&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddSwitch(u</highlight><highlight class="stringliteral">&quot;\\s&quot;</highlight><highlight class="normal">,<sp/>25);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddSwitch(u</highlight><highlight class="stringliteral">&quot;\\u&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Field&gt;<sp/>field<sp/>=<sp/>builder-&gt;BuildAndInsert(doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SYMBOL<sp/>402<sp/>\\f<sp/>Arial<sp/>\\s<sp/>25<sp/>\\u<sp/>&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Nested<sp/>field:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>a<sp/>field<sp/>builder<sp/>to<sp/>create<sp/>a<sp/>formula<sp/>field<sp/>used<sp/>as<sp/>an<sp/>inner<sp/>field<sp/>by<sp/>another<sp/>field<sp/>builder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>innerFormulaBuilder<sp/>=<sp/>MakeObject&lt;FieldBuilder&gt;(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca00ce93942fbfaabddfbbc26e8a8fc1da" kindref="member" tooltip="Specifies the = (formula) field.">FieldType::FieldFormula</ref>);</highlight></codeline>
+<codeline><highlight class="normal">innerFormulaBuilder-&gt;AddArgument(100);</highlight></codeline>
+<codeline><highlight class="normal">innerFormulaBuilder-&gt;AddArgument(u</highlight><highlight class="stringliteral">&quot;+&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">innerFormulaBuilder-&gt;AddArgument(74);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>another<sp/>builder<sp/>for<sp/>another<sp/>SYMBOL<sp/>field,<sp/>and<sp/>insert<sp/>the<sp/>formula<sp/>field</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>that<sp/>we<sp/>have<sp/>created<sp/>above<sp/>into<sp/>the<sp/>SYMBOL<sp/>field<sp/>as<sp/>its<sp/>argument.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder<sp/>=<sp/>MakeObject&lt;FieldBuilder&gt;(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca35b6c0b5b0fdd0da6a7f0eec57d9b439" kindref="member" tooltip="Specifies the SYMBOL field.">FieldType::FieldSymbol</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(innerFormulaBuilder);</highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>builder-&gt;BuildAndInsert(doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;AppendParagraph(String::Empty));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>outer<sp/>SYMBOL<sp/>field<sp/>will<sp/>use<sp/>the<sp/>formula<sp/>field<sp/>result,<sp/>174,<sp/>as<sp/>its<sp/>argument,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>make<sp/>the<sp/>field<sp/>display<sp/>the<sp/>®<sp/>(Registered<sp/>Sign)<sp/>symbol<sp/>since<sp/>its<sp/>character<sp/>number<sp/>is<sp/>174.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SYMBOL<sp/>\u0013<sp/>=<sp/>100<sp/>+<sp/>74<sp/>\u0014\u0015<sp/>&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Multiple<sp/>nested<sp/>fields<sp/>and<sp/>arguments:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Now,<sp/>we<sp/>will<sp/>use<sp/>a<sp/>builder<sp/>to<sp/>create<sp/>an<sp/>IF<sp/>field,<sp/>which<sp/>displays<sp/>one<sp/>of<sp/>two<sp/>custom<sp/>string<sp/>values,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>depending<sp/>on<sp/>the<sp/>true/false<sp/>value<sp/>of<sp/>its<sp/>expression.<sp/>To<sp/>get<sp/>a<sp/>true/false<sp/>value</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>that<sp/>determines<sp/>which<sp/>string<sp/>the<sp/>IF<sp/>field<sp/>displays,<sp/>the<sp/>IF<sp/>field<sp/>will<sp/>test<sp/>two<sp/>numeric<sp/>expressions<sp/>for<sp/>equality.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>provide<sp/>the<sp/>two<sp/>expressions<sp/>in<sp/>the<sp/>form<sp/>of<sp/>formula<sp/>fields,<sp/>which<sp/>we<sp/>will<sp/>nest<sp/>inside<sp/>the<sp/>IF<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>leftExpression<sp/>=<sp/>MakeObject&lt;FieldBuilder&gt;(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca00ce93942fbfaabddfbbc26e8a8fc1da" kindref="member" tooltip="Specifies the = (formula) field.">FieldType::FieldFormula</ref>);</highlight></codeline>
+<codeline><highlight class="normal">leftExpression-&gt;AddArgument(2);</highlight></codeline>
+<codeline><highlight class="normal">leftExpression-&gt;AddArgument(u</highlight><highlight class="stringliteral">&quot;+&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">leftExpression-&gt;AddArgument(3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>rightExpression<sp/>=<sp/>MakeObject&lt;FieldBuilder&gt;(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca00ce93942fbfaabddfbbc26e8a8fc1da" kindref="member" tooltip="Specifies the = (formula) field.">FieldType::FieldFormula</ref>);</highlight></codeline>
+<codeline><highlight class="normal">rightExpression-&gt;AddArgument(2.5);</highlight></codeline>
+<codeline><highlight class="normal">rightExpression-&gt;AddArgument(u</highlight><highlight class="stringliteral">&quot;*&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">rightExpression-&gt;AddArgument(5.2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Next,<sp/>we<sp/>will<sp/>build<sp/>two<sp/>field<sp/>arguments,<sp/>which<sp/>will<sp/>serve<sp/>as<sp/>the<sp/>true/false<sp/>output<sp/>strings<sp/>for<sp/>the<sp/>IF<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>arguments<sp/>will<sp/>reuse<sp/>the<sp/>output<sp/>values<sp/>of<sp/>our<sp/>numeric<sp/>expressions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>trueOutput<sp/>=<sp/>MakeObject&lt;FieldArgumentBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal">trueOutput-&gt;AddText(u</highlight><highlight class="stringliteral">&quot;True,<sp/>both<sp/>expressions<sp/>amount<sp/>to<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">trueOutput-&gt;AddField(leftExpression);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>falseOutput<sp/>=<sp/>MakeObject&lt;FieldArgumentBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal">falseOutput-&gt;AddNode(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;False,<sp/>&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">falseOutput-&gt;AddField(leftExpression);</highlight></codeline>
+<codeline><highlight class="normal">falseOutput-&gt;AddNode(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>does<sp/>not<sp/>equal<sp/>&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">falseOutput-&gt;AddField(rightExpression);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Finally,<sp/>we<sp/>will<sp/>create<sp/>one<sp/>more<sp/>field<sp/>builder<sp/>for<sp/>the<sp/>IF<sp/>field<sp/>and<sp/>combine<sp/>all<sp/>of<sp/>the<sp/>expressions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder<sp/>=<sp/>MakeObject&lt;FieldBuilder&gt;(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca977dda6ca14fcff75096cef279a06ce8" kindref="member" tooltip="Specifies the IF field.">FieldType::FieldIf</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(leftExpression);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(u</highlight><highlight class="stringliteral">&quot;=&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(rightExpression);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(trueOutput);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(falseOutput);</highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>builder-&gt;BuildAndInsert(doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;AppendParagraph(String::Empty));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;<sp/>IF<sp/>\u0013<sp/>=<sp/>2<sp/>+<sp/>3<sp/>\u0014\u0015<sp/>=<sp/>\u0013<sp/>=<sp/>2.5<sp/>*<sp/>5.2<sp/>\u0014\u0015<sp/>&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;True,<sp/>both<sp/>expressions<sp/>amount<sp/>to<sp/>\u0013<sp/>=<sp/>2<sp/>+<sp/>3<sp/>\u0014\u0015\&quot;<sp/>&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;False,<sp/>\u0013<sp/>=<sp/>2<sp/>+<sp/>3<sp/>\u0014\u0015<sp/>does<sp/>not<sp/>equal<sp/>\u0013<sp/>=<sp/>2.5<sp/>*<sp/>5.2<sp/>\u0014\u0015\&quot;<sp/>&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.SYMBOL.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldArgumentBuilder.h" line="304" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder_1a5e10f5f8cfd98303d19ba86227590a0d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder" kindref="compound">Aspose::Words::Fields::FieldArgumentBuilder</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldArgumentBuilder &gt; Aspose::Words::Fields::FieldArgumentBuilder::AddText</definition>
+        <argsstring>(const System::String &amp;text)</argsstring>
+        <name>AddText</name>
+        <qualifiedname>Aspose::Words::Fields::FieldArgumentBuilder::AddText</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>text</declname>
+        </param>
+        <briefdescription>
+<para>Adds a plain text to the argument. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to construct fields using a field builder, and then insert them into the document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>examples<sp/>of<sp/>field<sp/>construction<sp/>done<sp/>using<sp/>a<sp/>field<sp/>builder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Single<sp/>field:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>a<sp/>field<sp/>builder<sp/>to<sp/>add<sp/>a<sp/>SYMBOL<sp/>field<sp/>which<sp/>displays<sp/>the<sp/>ƒ<sp/>(Florin)<sp/>symbol.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;FieldBuilder&gt;(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca35b6c0b5b0fdd0da6a7f0eec57d9b439" kindref="member" tooltip="Specifies the SYMBOL field.">FieldType::FieldSymbol</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(402);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddSwitch(u</highlight><highlight class="stringliteral">&quot;\\f&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddSwitch(u</highlight><highlight class="stringliteral">&quot;\\s&quot;</highlight><highlight class="normal">,<sp/>25);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddSwitch(u</highlight><highlight class="stringliteral">&quot;\\u&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Field&gt;<sp/>field<sp/>=<sp/>builder-&gt;BuildAndInsert(doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SYMBOL<sp/>402<sp/>\\f<sp/>Arial<sp/>\\s<sp/>25<sp/>\\u<sp/>&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Nested<sp/>field:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>a<sp/>field<sp/>builder<sp/>to<sp/>create<sp/>a<sp/>formula<sp/>field<sp/>used<sp/>as<sp/>an<sp/>inner<sp/>field<sp/>by<sp/>another<sp/>field<sp/>builder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>innerFormulaBuilder<sp/>=<sp/>MakeObject&lt;FieldBuilder&gt;(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca00ce93942fbfaabddfbbc26e8a8fc1da" kindref="member" tooltip="Specifies the = (formula) field.">FieldType::FieldFormula</ref>);</highlight></codeline>
+<codeline><highlight class="normal">innerFormulaBuilder-&gt;AddArgument(100);</highlight></codeline>
+<codeline><highlight class="normal">innerFormulaBuilder-&gt;AddArgument(u</highlight><highlight class="stringliteral">&quot;+&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">innerFormulaBuilder-&gt;AddArgument(74);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>another<sp/>builder<sp/>for<sp/>another<sp/>SYMBOL<sp/>field,<sp/>and<sp/>insert<sp/>the<sp/>formula<sp/>field</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>that<sp/>we<sp/>have<sp/>created<sp/>above<sp/>into<sp/>the<sp/>SYMBOL<sp/>field<sp/>as<sp/>its<sp/>argument.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder<sp/>=<sp/>MakeObject&lt;FieldBuilder&gt;(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca35b6c0b5b0fdd0da6a7f0eec57d9b439" kindref="member" tooltip="Specifies the SYMBOL field.">FieldType::FieldSymbol</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(innerFormulaBuilder);</highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>builder-&gt;BuildAndInsert(doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;AppendParagraph(String::Empty));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>outer<sp/>SYMBOL<sp/>field<sp/>will<sp/>use<sp/>the<sp/>formula<sp/>field<sp/>result,<sp/>174,<sp/>as<sp/>its<sp/>argument,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>make<sp/>the<sp/>field<sp/>display<sp/>the<sp/>®<sp/>(Registered<sp/>Sign)<sp/>symbol<sp/>since<sp/>its<sp/>character<sp/>number<sp/>is<sp/>174.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SYMBOL<sp/>\u0013<sp/>=<sp/>100<sp/>+<sp/>74<sp/>\u0014\u0015<sp/>&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Multiple<sp/>nested<sp/>fields<sp/>and<sp/>arguments:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Now,<sp/>we<sp/>will<sp/>use<sp/>a<sp/>builder<sp/>to<sp/>create<sp/>an<sp/>IF<sp/>field,<sp/>which<sp/>displays<sp/>one<sp/>of<sp/>two<sp/>custom<sp/>string<sp/>values,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>depending<sp/>on<sp/>the<sp/>true/false<sp/>value<sp/>of<sp/>its<sp/>expression.<sp/>To<sp/>get<sp/>a<sp/>true/false<sp/>value</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>that<sp/>determines<sp/>which<sp/>string<sp/>the<sp/>IF<sp/>field<sp/>displays,<sp/>the<sp/>IF<sp/>field<sp/>will<sp/>test<sp/>two<sp/>numeric<sp/>expressions<sp/>for<sp/>equality.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>provide<sp/>the<sp/>two<sp/>expressions<sp/>in<sp/>the<sp/>form<sp/>of<sp/>formula<sp/>fields,<sp/>which<sp/>we<sp/>will<sp/>nest<sp/>inside<sp/>the<sp/>IF<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>leftExpression<sp/>=<sp/>MakeObject&lt;FieldBuilder&gt;(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca00ce93942fbfaabddfbbc26e8a8fc1da" kindref="member" tooltip="Specifies the = (formula) field.">FieldType::FieldFormula</ref>);</highlight></codeline>
+<codeline><highlight class="normal">leftExpression-&gt;AddArgument(2);</highlight></codeline>
+<codeline><highlight class="normal">leftExpression-&gt;AddArgument(u</highlight><highlight class="stringliteral">&quot;+&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">leftExpression-&gt;AddArgument(3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>rightExpression<sp/>=<sp/>MakeObject&lt;FieldBuilder&gt;(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca00ce93942fbfaabddfbbc26e8a8fc1da" kindref="member" tooltip="Specifies the = (formula) field.">FieldType::FieldFormula</ref>);</highlight></codeline>
+<codeline><highlight class="normal">rightExpression-&gt;AddArgument(2.5);</highlight></codeline>
+<codeline><highlight class="normal">rightExpression-&gt;AddArgument(u</highlight><highlight class="stringliteral">&quot;*&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">rightExpression-&gt;AddArgument(5.2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Next,<sp/>we<sp/>will<sp/>build<sp/>two<sp/>field<sp/>arguments,<sp/>which<sp/>will<sp/>serve<sp/>as<sp/>the<sp/>true/false<sp/>output<sp/>strings<sp/>for<sp/>the<sp/>IF<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>arguments<sp/>will<sp/>reuse<sp/>the<sp/>output<sp/>values<sp/>of<sp/>our<sp/>numeric<sp/>expressions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>trueOutput<sp/>=<sp/>MakeObject&lt;FieldArgumentBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal">trueOutput-&gt;AddText(u</highlight><highlight class="stringliteral">&quot;True,<sp/>both<sp/>expressions<sp/>amount<sp/>to<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">trueOutput-&gt;AddField(leftExpression);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>falseOutput<sp/>=<sp/>MakeObject&lt;FieldArgumentBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal">falseOutput-&gt;AddNode(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;False,<sp/>&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">falseOutput-&gt;AddField(leftExpression);</highlight></codeline>
+<codeline><highlight class="normal">falseOutput-&gt;AddNode(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>does<sp/>not<sp/>equal<sp/>&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">falseOutput-&gt;AddField(rightExpression);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Finally,<sp/>we<sp/>will<sp/>create<sp/>one<sp/>more<sp/>field<sp/>builder<sp/>for<sp/>the<sp/>IF<sp/>field<sp/>and<sp/>combine<sp/>all<sp/>of<sp/>the<sp/>expressions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder<sp/>=<sp/>MakeObject&lt;FieldBuilder&gt;(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca977dda6ca14fcff75096cef279a06ce8" kindref="member" tooltip="Specifies the IF field.">FieldType::FieldIf</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(leftExpression);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(u</highlight><highlight class="stringliteral">&quot;=&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(rightExpression);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(trueOutput);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(falseOutput);</highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>builder-&gt;BuildAndInsert(doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;AppendParagraph(String::Empty));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;<sp/>IF<sp/>\u0013<sp/>=<sp/>2<sp/>+<sp/>3<sp/>\u0014\u0015<sp/>=<sp/>\u0013<sp/>=<sp/>2.5<sp/>*<sp/>5.2<sp/>\u0014\u0015<sp/>&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;True,<sp/>both<sp/>expressions<sp/>amount<sp/>to<sp/>\u0013<sp/>=<sp/>2<sp/>+<sp/>3<sp/>\u0014\u0015\&quot;<sp/>&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;False,<sp/>\u0013<sp/>=<sp/>2<sp/>+<sp/>3<sp/>\u0014\u0015<sp/>does<sp/>not<sp/>equal<sp/>\u0013<sp/>=<sp/>2.5<sp/>*<sp/>5.2<sp/>\u0014\u0015\&quot;<sp/>&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.SYMBOL.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldArgumentBuilder.h" line="221" column="26"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Builds a complex field argument consisting of fields, nodes, and plain text. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to construct fields using a field builder, and then insert them into the document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>examples<sp/>of<sp/>field<sp/>construction<sp/>done<sp/>using<sp/>a<sp/>field<sp/>builder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Single<sp/>field:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>a<sp/>field<sp/>builder<sp/>to<sp/>add<sp/>a<sp/>SYMBOL<sp/>field<sp/>which<sp/>displays<sp/>the<sp/>ƒ<sp/>(Florin)<sp/>symbol.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;FieldBuilder&gt;(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca35b6c0b5b0fdd0da6a7f0eec57d9b439" kindref="member" tooltip="Specifies the SYMBOL field.">FieldType::FieldSymbol</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(402);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddSwitch(u</highlight><highlight class="stringliteral">&quot;\\f&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddSwitch(u</highlight><highlight class="stringliteral">&quot;\\s&quot;</highlight><highlight class="normal">,<sp/>25);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddSwitch(u</highlight><highlight class="stringliteral">&quot;\\u&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Field&gt;<sp/>field<sp/>=<sp/>builder-&gt;BuildAndInsert(doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SYMBOL<sp/>402<sp/>\\f<sp/>Arial<sp/>\\s<sp/>25<sp/>\\u<sp/>&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Nested<sp/>field:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>a<sp/>field<sp/>builder<sp/>to<sp/>create<sp/>a<sp/>formula<sp/>field<sp/>used<sp/>as<sp/>an<sp/>inner<sp/>field<sp/>by<sp/>another<sp/>field<sp/>builder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>innerFormulaBuilder<sp/>=<sp/>MakeObject&lt;FieldBuilder&gt;(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca00ce93942fbfaabddfbbc26e8a8fc1da" kindref="member" tooltip="Specifies the = (formula) field.">FieldType::FieldFormula</ref>);</highlight></codeline>
+<codeline><highlight class="normal">innerFormulaBuilder-&gt;AddArgument(100);</highlight></codeline>
+<codeline><highlight class="normal">innerFormulaBuilder-&gt;AddArgument(u</highlight><highlight class="stringliteral">&quot;+&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">innerFormulaBuilder-&gt;AddArgument(74);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>another<sp/>builder<sp/>for<sp/>another<sp/>SYMBOL<sp/>field,<sp/>and<sp/>insert<sp/>the<sp/>formula<sp/>field</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>that<sp/>we<sp/>have<sp/>created<sp/>above<sp/>into<sp/>the<sp/>SYMBOL<sp/>field<sp/>as<sp/>its<sp/>argument.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder<sp/>=<sp/>MakeObject&lt;FieldBuilder&gt;(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca35b6c0b5b0fdd0da6a7f0eec57d9b439" kindref="member" tooltip="Specifies the SYMBOL field.">FieldType::FieldSymbol</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(innerFormulaBuilder);</highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>builder-&gt;BuildAndInsert(doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;AppendParagraph(String::Empty));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>outer<sp/>SYMBOL<sp/>field<sp/>will<sp/>use<sp/>the<sp/>formula<sp/>field<sp/>result,<sp/>174,<sp/>as<sp/>its<sp/>argument,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>make<sp/>the<sp/>field<sp/>display<sp/>the<sp/>®<sp/>(Registered<sp/>Sign)<sp/>symbol<sp/>since<sp/>its<sp/>character<sp/>number<sp/>is<sp/>174.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SYMBOL<sp/>\u0013<sp/>=<sp/>100<sp/>+<sp/>74<sp/>\u0014\u0015<sp/>&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Multiple<sp/>nested<sp/>fields<sp/>and<sp/>arguments:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Now,<sp/>we<sp/>will<sp/>use<sp/>a<sp/>builder<sp/>to<sp/>create<sp/>an<sp/>IF<sp/>field,<sp/>which<sp/>displays<sp/>one<sp/>of<sp/>two<sp/>custom<sp/>string<sp/>values,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>depending<sp/>on<sp/>the<sp/>true/false<sp/>value<sp/>of<sp/>its<sp/>expression.<sp/>To<sp/>get<sp/>a<sp/>true/false<sp/>value</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>that<sp/>determines<sp/>which<sp/>string<sp/>the<sp/>IF<sp/>field<sp/>displays,<sp/>the<sp/>IF<sp/>field<sp/>will<sp/>test<sp/>two<sp/>numeric<sp/>expressions<sp/>for<sp/>equality.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>provide<sp/>the<sp/>two<sp/>expressions<sp/>in<sp/>the<sp/>form<sp/>of<sp/>formula<sp/>fields,<sp/>which<sp/>we<sp/>will<sp/>nest<sp/>inside<sp/>the<sp/>IF<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>leftExpression<sp/>=<sp/>MakeObject&lt;FieldBuilder&gt;(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca00ce93942fbfaabddfbbc26e8a8fc1da" kindref="member" tooltip="Specifies the = (formula) field.">FieldType::FieldFormula</ref>);</highlight></codeline>
+<codeline><highlight class="normal">leftExpression-&gt;AddArgument(2);</highlight></codeline>
+<codeline><highlight class="normal">leftExpression-&gt;AddArgument(u</highlight><highlight class="stringliteral">&quot;+&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">leftExpression-&gt;AddArgument(3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>rightExpression<sp/>=<sp/>MakeObject&lt;FieldBuilder&gt;(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca00ce93942fbfaabddfbbc26e8a8fc1da" kindref="member" tooltip="Specifies the = (formula) field.">FieldType::FieldFormula</ref>);</highlight></codeline>
+<codeline><highlight class="normal">rightExpression-&gt;AddArgument(2.5);</highlight></codeline>
+<codeline><highlight class="normal">rightExpression-&gt;AddArgument(u</highlight><highlight class="stringliteral">&quot;*&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">rightExpression-&gt;AddArgument(5.2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Next,<sp/>we<sp/>will<sp/>build<sp/>two<sp/>field<sp/>arguments,<sp/>which<sp/>will<sp/>serve<sp/>as<sp/>the<sp/>true/false<sp/>output<sp/>strings<sp/>for<sp/>the<sp/>IF<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>arguments<sp/>will<sp/>reuse<sp/>the<sp/>output<sp/>values<sp/>of<sp/>our<sp/>numeric<sp/>expressions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>trueOutput<sp/>=<sp/>MakeObject&lt;FieldArgumentBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal">trueOutput-&gt;AddText(u</highlight><highlight class="stringliteral">&quot;True,<sp/>both<sp/>expressions<sp/>amount<sp/>to<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">trueOutput-&gt;AddField(leftExpression);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>falseOutput<sp/>=<sp/>MakeObject&lt;FieldArgumentBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal">falseOutput-&gt;AddNode(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;False,<sp/>&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">falseOutput-&gt;AddField(leftExpression);</highlight></codeline>
+<codeline><highlight class="normal">falseOutput-&gt;AddNode(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>does<sp/>not<sp/>equal<sp/>&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">falseOutput-&gt;AddField(rightExpression);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Finally,<sp/>we<sp/>will<sp/>create<sp/>one<sp/>more<sp/>field<sp/>builder<sp/>for<sp/>the<sp/>IF<sp/>field<sp/>and<sp/>combine<sp/>all<sp/>of<sp/>the<sp/>expressions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder<sp/>=<sp/>MakeObject&lt;FieldBuilder&gt;(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca977dda6ca14fcff75096cef279a06ce8" kindref="member" tooltip="Specifies the IF field.">FieldType::FieldIf</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(leftExpression);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(u</highlight><highlight class="stringliteral">&quot;=&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(rightExpression);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(trueOutput);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;AddArgument(falseOutput);</highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>builder-&gt;BuildAndInsert(doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;AppendParagraph(String::Empty));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;<sp/>IF<sp/>\u0013<sp/>=<sp/>2<sp/>+<sp/>3<sp/>\u0014\u0015<sp/>=<sp/>\u0013<sp/>=<sp/>2.5<sp/>*<sp/>5.2<sp/>\u0014\u0015<sp/>&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;True,<sp/>both<sp/>expressions<sp/>amount<sp/>to<sp/>\u0013<sp/>=<sp/>2<sp/>+<sp/>3<sp/>\u0014\u0015\&quot;<sp/>&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;False,<sp/>\u0013<sp/>=<sp/>2<sp/>+<sp/>3<sp/>\u0014\u0015<sp/>does<sp/>not<sp/>equal<sp/>\u0013<sp/>=<sp/>2.5<sp/>*<sp/>5.2<sp/>\u0014\u0015\&quot;<sp/>&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.SYMBOL.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldArgumentBuilder</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Fields::IFieldBuildingBlock</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldArgumentBuilder</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Fields::IFieldBuildingBlock</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/FieldArgumentBuilder.h" line="127" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldArgumentBuilder.h" bodystart="128" bodyend="399"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder_1a5958d27072754d66a4403e8f0f361fd7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldArgumentBuilder</scope><name>AddField</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder_1af377426d88566bd6b953e778e3d39c01" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldArgumentBuilder</scope><name>AddNode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder_1a5e10f5f8cfd98303d19ba86227590a0d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldArgumentBuilder</scope><name>AddText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder_1a1d5a4a3302ec546a4e401c21062eee6e" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldArgumentBuilder</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder_1a581e60842ce1244f4d3e16a46a818349" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldArgumentBuilder</scope><name>BuildBlock</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder_1afb00367e5cacff6148f8164af6081c07" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldArgumentBuilder</scope><name>FieldArgumentBuilder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder_1ae9e34d866a019b1ce68e2b612545bd31" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldArgumentBuilder</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder_1a04e1dddd91ddd12a14238e21f5956db0" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldArgumentBuilder</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder_1a34859d6e7ab191fb00074a58e808f2fa" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldArgumentBuilder</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder_1ae5a2518fa71c2c7456a374c282b13328" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldArgumentBuilder</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder_1ae74eac122d3791e4feb36aa0db4dad9c" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldArgumentBuilder</scope><name>~FieldArgumentBuilder</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

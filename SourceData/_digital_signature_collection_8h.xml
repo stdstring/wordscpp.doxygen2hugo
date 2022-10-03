@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="_digital_signature_collection_8h" kind="file" language="C++">
+    <compoundname>DigitalSignatureCollection.h</compoundname>
+    <includes local="no">system/shared_ptr.h</includes>
+    <includes local="no">system/collections/list.h</includes>
+    <includes local="no">system/collections/ienumerable.h</includes>
+    <includes local="no">cstdint</includes>
+    <includes refid="aspose__words__api__defs_8h" local="no">Aspose.Words.Cpp/aspose_words_api_defs.h</includes>
+    <incdepgraph>
+      <node id="1">
+        <label>Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h</label>
+        <link refid="_digital_signature_collection_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>Aspose.Words.Cpp/aspose_words_api_defs.h</label>
+        <link refid="aspose__words__api__defs_8h_source"/>
+      </node>
+      <node id="5">
+        <label>cstdint</label>
+      </node>
+      <node id="4">
+        <label>system/collections/ienumerable.h</label>
+      </node>
+      <node id="3">
+        <label>system/collections/list.h</label>
+      </node>
+      <node id="2">
+        <label>system/shared_ptr.h</label>
+      </node>
+    </incdepgraph>
+    <innerclass refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection" prot="public">Aspose::Words::DigitalSignatures::DigitalSignatureCollection</innerclass>
+    <innernamespace refid="namespace_aspose">Aspose</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words">Aspose::Words</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words_1_1_digital_signatures">Aspose::Words::DigitalSignatures</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h"/>
+  </compounddef>
+</doxygen>

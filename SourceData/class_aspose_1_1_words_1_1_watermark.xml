@@ -1,0 +1,504 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_watermark" kind="class" language="C++" prot="public" final="yes">
+    <compoundname>Aspose::Words::Watermark</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_watermark_8h" local="no">Aspose.Words.Cpp/Watermark.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_watermark_1abee0f06e7fed6f6b9548ad387bbd7245" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Watermark::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Watermark::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Watermark.h" line="44" column="28" bodyfile="Aspose.Words.Cpp/Watermark.h" bodystart="44" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_watermark_1ada31412d69dff800c47b7b8acb893a9d" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_watermark" kindref="compound">Watermark</ref></type>
+        <definition>typedef Watermark Aspose::Words::Watermark::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Watermark::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Watermark.h" line="43" column="23" bodyfile="Aspose.Words.Cpp/Watermark.h" bodystart="43" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_watermark_1aac77ce6f904aaf8dddafbcecbf01aa3d" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Watermark::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Watermark::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Watermark.h" line="46" column="37" bodyfile="Aspose.Words.Cpp/Watermark.h" bodystart="46" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_watermark_1a2ae16e9a74e5bea91f6452e2476df3e9" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::Watermark::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Watermark::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Watermark.h" line="205" column="21" bodyfile="Aspose.Words.Cpp/Watermark.h" bodystart="205" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_watermark_1accdea5aacfb6db8bd44425be54569770" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Watermark::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Watermark::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Watermark.h" line="206" column="23" bodyfile="Aspose.Words.Cpp/Watermark.h" bodystart="206" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_watermark_1abc9f3ccf0acaa787a8998a46e9261672" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Watermark::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Watermark::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Watermark.h" line="47" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_watermark_1ac0f85e49098625c6bf8f4c2ee73b761e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1adf56f9ff1b83ce3669804ca8e86596d9" kindref="member">Aspose::Words::WatermarkType</ref></type>
+        <definition>Aspose::Words::WatermarkType Aspose::Words::Watermark::get_Type</definition>
+        <argsstring>()</argsstring>
+        <name>get_Type</name>
+        <qualifiedname>Aspose::Words::Watermark::get_Type</qualifiedname>
+        <briefdescription>
+<para>Gets the watermark type. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Watermark.h" line="52" column="37"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_watermark_1a3c60af81a7c046fc91d2192479b3f8a5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Watermark::Remove</definition>
+        <argsstring>()</argsstring>
+        <name>Remove</name>
+        <qualifiedname>Aspose::Words::Watermark::Remove</qualifiedname>
+        <briefdescription>
+<para>Removes the watermark. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create a text watermark. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>a<sp/>plain<sp/>text<sp/>watermark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Watermark()-&gt;SetText(u</highlight><highlight class="stringliteral">&quot;Aspose<sp/>Watermark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>wish<sp/>to<sp/>edit<sp/>the<sp/>text<sp/>formatting<sp/>using<sp/>it<sp/>as<sp/>a<sp/>watermark,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>we<sp/>can<sp/>do<sp/>so<sp/>by<sp/>passing<sp/>a<sp/>TextWatermarkOptions<sp/>object<sp/>when<sp/>creating<sp/>the<sp/>watermark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>textWatermarkOptions<sp/>=<sp/>MakeObject&lt;TextWatermarkOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">textWatermarkOptions-&gt;set_FontFamily(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">textWatermarkOptions-&gt;set_FontSize(36.0f);</highlight></codeline>
+<codeline><highlight class="normal">textWatermarkOptions-&gt;set_Color(<ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
+<codeline><highlight class="normal">textWatermarkOptions-&gt;set_Layout(<ref refid="namespace_aspose_1_1_words_1a4591dac0d79068bc2f654b3c76958af8a9ac677ee4eec25d9e59707a661d2c5e1" kindref="member" tooltip="Diagonal watermark layout. Corresponds to 315 degrees of rotation.">WatermarkLayout::Diagonal</ref>);</highlight></codeline>
+<codeline><highlight class="normal">textWatermarkOptions-&gt;set_IsSemitrasparent(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Watermark()-&gt;SetText(u</highlight><highlight class="stringliteral">&quot;Aspose<sp/>Watermark&quot;</highlight><highlight class="normal">,<sp/>textWatermarkOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.TextWatermark.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>a<sp/>watermark<sp/>from<sp/>a<sp/>document<sp/>like<sp/>this.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(doc-&gt;get_Watermark()-&gt;get_Type()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1adf56f9ff1b83ce3669804ca8e86596d9a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Indicates that the text will be used as a watermark. Such a watermark corresponds to a WordArt object...">WatermarkType::Text</ref>)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_Watermark()-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Watermark.h" line="199" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_watermark_1acb0716422bfe8e83fc821a3e2b2e71f1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Watermark::SetImage</definition>
+        <argsstring>(const System::SharedPtr&lt; System::Drawing::Image &gt; &amp;image)</argsstring>
+        <name>SetImage</name>
+        <qualifiedname>Aspose::Words::Watermark::SetImage</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.drawing.image/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Image</ref> &gt; &amp;</type>
+          <declname>image</declname>
+        </param>
+        <briefdescription>
+<para>Adds Image watermark into the document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>image</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Image that is displayed as a watermark.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System::ArgumentNullException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Throws when the image is null. </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Watermark.h" line="134" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_watermark_1aa3f11d8e07f457c374dac6e1a616aed8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Watermark::SetImage</definition>
+        <argsstring>(const System::SharedPtr&lt; System::Drawing::Image &gt; &amp;image, const System::SharedPtr&lt; Aspose::Words::ImageWatermarkOptions &gt; &amp;options)</argsstring>
+        <name>SetImage</name>
+        <qualifiedname>Aspose::Words::Watermark::SetImage</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.drawing.image/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Image</ref> &gt; &amp;</type>
+          <declname>image</declname>
+        </param>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_image_watermark_options" kindref="compound">Aspose::Words::ImageWatermarkOptions</ref> &gt; &amp;</type>
+          <declname>options</declname>
+        </param>
+        <briefdescription>
+<para>Adds Image watermark into the document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>image</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Image that is displayed as a watermark. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>options</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Defines additional options for the image watermark.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System::ArgumentNullException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Throws when the image is null.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create a watermark from an image in the local file system. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Modify<sp/>the<sp/>image<sp/>watermark&apos;s<sp/>appearance<sp/>with<sp/>an<sp/>ImageWatermarkOptions<sp/>object,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>then<sp/>pass<sp/>it<sp/>while<sp/>creating<sp/>a<sp/>watermark<sp/>from<sp/>an<sp/>image<sp/>file.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>imageWatermarkOptions<sp/>=<sp/>MakeObject&lt;ImageWatermarkOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">imageWatermarkOptions-&gt;set_Scale(5);</highlight></codeline>
+<codeline><highlight class="normal">imageWatermarkOptions-&gt;set_IsWashout(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Watermark()-&gt;SetImage(<ref refid="class/system.drawing.image/_1a744ad35e2fcb00393fb7ce4e24e59263" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Image::FromFile</ref>(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">),<sp/>imageWatermarkOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.ImageWatermark.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Watermark.h" line="159" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_watermark_1a9f434088c0d6b5e5753a73529a01ae4b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Watermark::SetImage</definition>
+        <argsstring>(const System::String &amp;imagePath, const System::SharedPtr&lt; Aspose::Words::ImageWatermarkOptions &gt; &amp;options)</argsstring>
+        <name>SetImage</name>
+        <qualifiedname>Aspose::Words::Watermark::SetImage</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>imagePath</declname>
+        </param>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_image_watermark_options" kindref="compound">Aspose::Words::ImageWatermarkOptions</ref> &gt; &amp;</type>
+          <declname>options</declname>
+        </param>
+        <briefdescription>
+<para>Adds Image watermark into the document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>imagePath</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Path to the image file that is displayed as a watermark. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>options</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Defines additional options for the image watermark.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System::ArgumentNullException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Throws when the path is null. </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Watermark.h" line="167" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_watermark_1aaafc9bb6a7acd6a429934fed15d1950e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Watermark::SetText</definition>
+        <argsstring>(const System::String &amp;text)</argsstring>
+        <name>SetText</name>
+        <qualifiedname>Aspose::Words::Watermark::SetText</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>text</declname>
+        </param>
+        <briefdescription>
+<para>Adds Text watermark into the document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>text</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Text that is displayed as a watermark.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System::ArgumentOutOfRangeException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Throws when the text length is out of range or the text contains only whitespaces. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>System::ArgumentNullException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Throws when the text is null.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create a text watermark. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>a<sp/>plain<sp/>text<sp/>watermark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Watermark()-&gt;SetText(u</highlight><highlight class="stringliteral">&quot;Aspose<sp/>Watermark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>wish<sp/>to<sp/>edit<sp/>the<sp/>text<sp/>formatting<sp/>using<sp/>it<sp/>as<sp/>a<sp/>watermark,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>we<sp/>can<sp/>do<sp/>so<sp/>by<sp/>passing<sp/>a<sp/>TextWatermarkOptions<sp/>object<sp/>when<sp/>creating<sp/>the<sp/>watermark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>textWatermarkOptions<sp/>=<sp/>MakeObject&lt;TextWatermarkOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">textWatermarkOptions-&gt;set_FontFamily(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">textWatermarkOptions-&gt;set_FontSize(36.0f);</highlight></codeline>
+<codeline><highlight class="normal">textWatermarkOptions-&gt;set_Color(<ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
+<codeline><highlight class="normal">textWatermarkOptions-&gt;set_Layout(<ref refid="namespace_aspose_1_1_words_1a4591dac0d79068bc2f654b3c76958af8a9ac677ee4eec25d9e59707a661d2c5e1" kindref="member" tooltip="Diagonal watermark layout. Corresponds to 315 degrees of rotation.">WatermarkLayout::Diagonal</ref>);</highlight></codeline>
+<codeline><highlight class="normal">textWatermarkOptions-&gt;set_IsSemitrasparent(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Watermark()-&gt;SetText(u</highlight><highlight class="stringliteral">&quot;Aspose<sp/>Watermark&quot;</highlight><highlight class="normal">,<sp/>textWatermarkOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.TextWatermark.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>a<sp/>watermark<sp/>from<sp/>a<sp/>document<sp/>like<sp/>this.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(doc-&gt;get_Watermark()-&gt;get_Type()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1adf56f9ff1b83ce3669804ca8e86596d9a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Indicates that the text will be used as a watermark. Such a watermark corresponds to a WordArt object...">WatermarkType::Text</ref>)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_Watermark()-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Watermark.h" line="89" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_watermark_1a02d5d7993e8854f05bc5006dcda0a799" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Watermark::SetText</definition>
+        <argsstring>(const System::String &amp;text, const System::SharedPtr&lt; Aspose::Words::TextWatermarkOptions &gt; &amp;options)</argsstring>
+        <name>SetText</name>
+        <qualifiedname>Aspose::Words::Watermark::SetText</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>text</declname>
+        </param>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_text_watermark_options" kindref="compound">Aspose::Words::TextWatermarkOptions</ref> &gt; &amp;</type>
+          <declname>options</declname>
+        </param>
+        <briefdescription>
+<para>Adds Text watermark into the document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>text</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Text that is displayed as a watermark. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>options</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Defines additional options for the text watermark.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System::ArgumentOutOfRangeException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Throws when the text length is out of range or the text contain only whitespaces. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>System::ArgumentNullException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Throws when the text is null.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create a text watermark. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>a<sp/>plain<sp/>text<sp/>watermark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Watermark()-&gt;SetText(u</highlight><highlight class="stringliteral">&quot;Aspose<sp/>Watermark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>wish<sp/>to<sp/>edit<sp/>the<sp/>text<sp/>formatting<sp/>using<sp/>it<sp/>as<sp/>a<sp/>watermark,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>we<sp/>can<sp/>do<sp/>so<sp/>by<sp/>passing<sp/>a<sp/>TextWatermarkOptions<sp/>object<sp/>when<sp/>creating<sp/>the<sp/>watermark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>textWatermarkOptions<sp/>=<sp/>MakeObject&lt;TextWatermarkOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">textWatermarkOptions-&gt;set_FontFamily(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">textWatermarkOptions-&gt;set_FontSize(36.0f);</highlight></codeline>
+<codeline><highlight class="normal">textWatermarkOptions-&gt;set_Color(<ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
+<codeline><highlight class="normal">textWatermarkOptions-&gt;set_Layout(<ref refid="namespace_aspose_1_1_words_1a4591dac0d79068bc2f654b3c76958af8a9ac677ee4eec25d9e59707a661d2c5e1" kindref="member" tooltip="Diagonal watermark layout. Corresponds to 315 degrees of rotation.">WatermarkLayout::Diagonal</ref>);</highlight></codeline>
+<codeline><highlight class="normal">textWatermarkOptions-&gt;set_IsSemitrasparent(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Watermark()-&gt;SetText(u</highlight><highlight class="stringliteral">&quot;Aspose<sp/>Watermark&quot;</highlight><highlight class="normal">,<sp/>textWatermarkOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.TextWatermark.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>a<sp/>watermark<sp/>from<sp/>a<sp/>document<sp/>like<sp/>this.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(doc-&gt;get_Watermark()-&gt;get_Type()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1adf56f9ff1b83ce3669804ca8e86596d9a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Indicates that the text will be used as a watermark. Such a watermark corresponds to a WordArt object...">WatermarkType::Text</ref>)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_Watermark()-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Watermark.h" line="127" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents class to work with document watermark. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Watermark</label>
+        <link refid="class_aspose_1_1_words_1_1_watermark"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Watermark</label>
+        <link refid="class_aspose_1_1_words_1_1_watermark"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Watermark.h" line="41" column="1" bodyfile="Aspose.Words.Cpp/Watermark.h" bodystart="42" bodyend="208"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_watermark_1abee0f06e7fed6f6b9548ad387bbd7245" prot="private" virt="non-virtual"><scope>Aspose::Words::Watermark</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_watermark_1ac0f85e49098625c6bf8f4c2ee73b761e" prot="public" virt="non-virtual"><scope>Aspose::Words::Watermark</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_watermark_1a2ae16e9a74e5bea91f6452e2476df3e9" prot="private" virt="non-virtual"><scope>Aspose::Words::Watermark</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_watermark_1accdea5aacfb6db8bd44425be54569770" prot="private" virt="non-virtual"><scope>Aspose::Words::Watermark</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_watermark_1a3c60af81a7c046fc91d2192479b3f8a5" prot="public" virt="non-virtual"><scope>Aspose::Words::Watermark</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_watermark_1abc9f3ccf0acaa787a8998a46e9261672" prot="private" virt="non-virtual"><scope>Aspose::Words::Watermark</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_watermark_1acb0716422bfe8e83fc821a3e2b2e71f1" prot="public" virt="non-virtual"><scope>Aspose::Words::Watermark</scope><name>SetImage</name></member>
+      <member refid="class_aspose_1_1_words_1_1_watermark_1aa3f11d8e07f457c374dac6e1a616aed8" prot="public" virt="non-virtual"><scope>Aspose::Words::Watermark</scope><name>SetImage</name></member>
+      <member refid="class_aspose_1_1_words_1_1_watermark_1a9f434088c0d6b5e5753a73529a01ae4b" prot="public" virt="non-virtual"><scope>Aspose::Words::Watermark</scope><name>SetImage</name></member>
+      <member refid="class_aspose_1_1_words_1_1_watermark_1aaafc9bb6a7acd6a429934fed15d1950e" prot="public" virt="non-virtual"><scope>Aspose::Words::Watermark</scope><name>SetText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_watermark_1a02d5d7993e8854f05bc5006dcda0a799" prot="public" virt="non-virtual"><scope>Aspose::Words::Watermark</scope><name>SetText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_watermark_1ada31412d69dff800c47b7b8acb893a9d" prot="private" virt="non-virtual"><scope>Aspose::Words::Watermark</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_watermark_1aac77ce6f904aaf8dddafbcecbf01aa3d" prot="private" virt="non-virtual"><scope>Aspose::Words::Watermark</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

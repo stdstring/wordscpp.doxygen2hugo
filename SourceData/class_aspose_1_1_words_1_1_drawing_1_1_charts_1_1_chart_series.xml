@@ -1,0 +1,1489 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Drawing::Charts::ChartSeries</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_i_chart_data_point" prot="public" virt="non-virtual">Aspose::Words::Drawing::Charts::IChartDataPoint</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource</basecompoundref>
+    <includes refid="_chart_series_8h" local="no">Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a4ebcc51b5a1f0599e2afa6a3983be4c2" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_i_chart_data_point" kindref="compound">Aspose::Words::Drawing::Charts::IChartDataPoint</ref></type>
+        <definition>typedef Aspose::Words::Drawing::Charts::IChartDataPoint Aspose::Words::Drawing::Charts::ChartSeries::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="150" column="61" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="150" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1aac25ddc67a7578cd6487d4d8db1dc295" prot="private" static="no">
+        <type>Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource</type>
+        <definition>typedef Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource Aspose::Words::Drawing::Charts::ChartSeries::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="151" column="72" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="151" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a4ef657eef8d76e76903ffa657a74fd26" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series" kindref="compound">ChartSeries</ref></type>
+        <definition>typedef ChartSeries Aspose::Words::Drawing::Charts::ChartSeries::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="149" column="25" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="149" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a6494f83e855bf32863a719e92e0094b6" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_i_chart_data_point" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Drawing::Charts::ChartSeries::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="153" column="37" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="153" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a33fb9335c01facd8bc68aa3040ba4a27" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Drawing::Charts::ChartSeries::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="520" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="520" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a13be37628bf036dadaf53e296de21ef6" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartSeries::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="525" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="525" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a6c9a4bf34210a843e0e38b8edfdd5afa" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartSeries::mField10</definition>
+        <argsstring></argsstring>
+        <name>mField10</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField10</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="534" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="534" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a3ba40699ddeea9b5bf363409fe23039b" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartSeries::mField11</definition>
+        <argsstring></argsstring>
+        <name>mField11</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField11</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="535" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="535" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a3b311b29e4a36eb4b2858591d11da8b1" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartSeries::mField12</definition>
+        <argsstring></argsstring>
+        <name>mField12</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField12</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="536" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="536" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1acbc2d662e1724e43b8d4ecd89f9c5189" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartSeries::mField13</definition>
+        <argsstring></argsstring>
+        <name>mField13</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField13</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="537" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="537" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1ac7d9aeca386614f835b3e809608ee665" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartSeries::mField14</definition>
+        <argsstring></argsstring>
+        <name>mField14</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField14</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="538" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="538" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1ac9b7b0491083685199a2e3d4996a9baa" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartSeries::mField15</definition>
+        <argsstring></argsstring>
+        <name>mField15</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField15</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="539" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="539" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a708ff9ef3cca70b44ccc1b25ccf4ce44" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartSeries::mField16</definition>
+        <argsstring></argsstring>
+        <name>mField16</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField16</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="540" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="540" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a73c9dc462c59efe77ce99306db61cde9" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartSeries::mField17</definition>
+        <argsstring></argsstring>
+        <name>mField17</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField17</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="541" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="541" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a1ac66a131372e30f6629e1db152b64b9" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartSeries::mField18</definition>
+        <argsstring></argsstring>
+        <name>mField18</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField18</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="542" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="542" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a7ef3d0beba9cd322c2e07131f33acf3e" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartSeries::mField19</definition>
+        <argsstring></argsstring>
+        <name>mField19</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField19</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="543" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="543" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a3bb35c9adfbfc949c799dd3c6899902a" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Drawing::Charts::ChartSeries::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="526" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="526" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1aa971b4db1511ae0a51971f421c5109d5" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartSeries::mField20</definition>
+        <argsstring></argsstring>
+        <name>mField20</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField20</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="544" column="21" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="544" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1ae3037a7f620888043c08c731603e3106" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartSeries::mField21</definition>
+        <argsstring></argsstring>
+        <name>mField21</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField21</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="545" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="545" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a5cc8540e7799e99f183683736880e45c" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartSeries::mField22</definition>
+        <argsstring></argsstring>
+        <name>mField22</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField22</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="546" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="546" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1ac52cc8728201ed3b5c12a203a79032ae" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Drawing::Charts::ChartSeries::mField23</definition>
+        <argsstring></argsstring>
+        <name>mField23</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField23</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="547" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="547" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a9b9ad1c4df635f182671c6817856d62e" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Drawing::Charts::ChartSeries::mField24</definition>
+        <argsstring></argsstring>
+        <name>mField24</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField24</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="548" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="548" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a5ea6f9f42ff9e23f3b357de309b889f3" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartSeries::mField25</definition>
+        <argsstring></argsstring>
+        <name>mField25</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField25</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="549" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="549" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a03c4e19728cb67efbb7c2d6451f9e2de" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Drawing::Charts::ChartSeries::mField26</definition>
+        <argsstring></argsstring>
+        <name>mField26</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField26</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="550" column="20" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="550" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a48c02a001ba1231fda043937fa67fce0" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Drawing::Charts::ChartSeries::mField27</definition>
+        <argsstring></argsstring>
+        <name>mField27</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField27</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="551" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="551" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a7d8546f72fdde55e365c1c86b5375d98" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Drawing::Charts::ChartSeries::mField28</definition>
+        <argsstring></argsstring>
+        <name>mField28</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField28</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="552" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="552" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1ad9468f55e6779a81dc5a6f097bb1954e" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Drawing::Charts::ChartSeries::mField29</definition>
+        <argsstring></argsstring>
+        <name>mField29</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField29</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="553" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="553" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a246ffc4dd0fb3d5447f294c014de8fd7" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Drawing::Charts::ChartSeries::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="527" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="527" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1aee2d8c0b01283adcd9178174330cdce1" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartSeries::mField30</definition>
+        <argsstring></argsstring>
+        <name>mField30</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField30</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="554" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="554" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a038f59e8ed69bd7d0289216eccb1cfb6" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartSeries::mField31</definition>
+        <argsstring></argsstring>
+        <name>mField31</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField31</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="555" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="555" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a62beba0c9b6b1c46833be0443c94d5dd" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Drawing::Charts::ChartSeries::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="528" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="528" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1acbfd8053203fc02913b12465f3cfc69b" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Drawing::Charts::ChartSeries::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="529" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="529" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1aef4ad2c91f8021ad852f5ee67ca39394" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Drawing::Charts::ChartSeries::mField6</definition>
+        <argsstring></argsstring>
+        <name>mField6</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField6</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="530" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="530" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1ad42e8ad1fe946d80992a10a5d54605d8" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartSeries::mField7</definition>
+        <argsstring></argsstring>
+        <name>mField7</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField7</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="531" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="531" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1ad74d303acfd40f0b69ab8fb494e2f236" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartSeries::mField8</definition>
+        <argsstring></argsstring>
+        <name>mField8</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField8</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="532" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="532" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1aebe54a3f0c1eb0a17d4599a000d2327f" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartSeries::mField9</definition>
+        <argsstring></argsstring>
+        <name>mField9</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::mField9</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="533" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="533" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1ad855b06de27123d41e4801d38330d7ed" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Drawing::Charts::ChartSeries::~ChartSeries</definition>
+        <argsstring>()</argsstring>
+        <name>~ChartSeries</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::~ChartSeries</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="516" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a64ef1cb02bc07edb6720e29ebf465b17" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Collections::StringToObjDictionary&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Drawing::Core::Dml::DmlExtension &gt; &gt; &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Collections::StringToObjDictionary&lt; System::SharedPtr&lt; Aspose::Words::Drawing::Core::Dml::DmlExtension &gt; &gt; &gt; Aspose::Words::Drawing::Charts::ChartSeries::get_Extensions</definition>
+        <argsstring>() override</argsstring>
+        <name>get_Extensions</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::get_Extensions</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="522" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a9f73dca5cb94db7582e194a30fa1f1b9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Drawing::Charts::ChartSeries::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::RTTI_INFO_DECL_EX</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_i_chart_data_point_1a1d7242d5868da7720fc4ee66c0263e3c">RTTI_INFO_DECL_EX</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="154" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a56738612b13ffbd6b8f023767e841139" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartSeries::set_Extensions</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Collections::StringToObjDictionary&lt; System::SharedPtr&lt; Aspose::Words::Drawing::Core::Dml::DmlExtension &gt; &gt; &gt;) override</argsstring>
+        <name>set_Extensions</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::set_Extensions</qualifiedname>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Collections::StringToObjDictionary&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Drawing::Core::Dml::DmlExtension &gt; &gt; &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="523" column="10"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a774963e1bd7db50f896a3c3ee8574248" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Drawing::Charts::ChartSeries::get_Bubble3D</definition>
+        <argsstring>() override</argsstring>
+        <name>get_Bubble3D</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::get_Bubble3D</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_i_chart_data_point_1a92f10e79e6cedba54ea34863221b5e19">get_Bubble3D</reimplements>
+        <briefdescription>
+<para>Specifies whether the bubbles in Bubble chart should have a 3-D effect applied to them. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use 3D effects with bubble charts. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertChart(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36ac5d8ef46785f893afc223799a099b167" kindref="member" tooltip="3D Bubble chart.">ChartType::Bubble3D</ref>,<sp/>500,<sp/>350);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Chart&gt;<sp/>chart<sp/>=<sp/>shape-&gt;get_Chart();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>chart-&gt;get_Series()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Y-Values&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_Bubble3D());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>a<sp/>data<sp/>label<sp/>to<sp/>each<sp/>bubble<sp/>that<sp/>displays<sp/>its<sp/>diameter.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>3;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;set_HasDataLabels(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_ShowBubbleSize(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Charts.Bubble3D.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="163" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a9e65caee4d79f7da10fd5dbbc602a496" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_data_label_collection" kindref="compound">Aspose::Words::Drawing::Charts::ChartDataLabelCollection</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::Charts::ChartDataLabelCollection &gt; Aspose::Words::Drawing::Charts::ChartSeries::get_DataLabels</definition>
+        <argsstring>()</argsstring>
+        <name>get_DataLabels</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::get_DataLabels</qualifiedname>
+        <briefdescription>
+<para>Specifies the settings for the data labels for the entire series. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to apply labels to data points in a line chart. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>DataLabels()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Shape&gt;<sp/>chartShape<sp/>=<sp/>builder-&gt;InsertChart(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a4803e6b9e63dabf04de980788d6a13c4" kindref="member" tooltip="Line chart.">ChartType::Line</ref>,<sp/>400,<sp/>300);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Chart&gt;<sp/>chart<sp/>=<sp/>chartShape-&gt;get_Chart();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(3,<sp/>chart-&gt;get_Series()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>1&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>2&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>3&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(2)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Apply<sp/>data<sp/>labels<sp/>to<sp/>every<sp/>series<sp/>in<sp/>the<sp/>chart.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>These<sp/>labels<sp/>will<sp/>appear<sp/>next<sp/>to<sp/>each<sp/>data<sp/>point<sp/>in<sp/>the<sp/>graph<sp/>and<sp/>display<sp/>its<sp/>value.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>series<sp/>:<sp/>System::IterateOver(chart-&gt;get_Series()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ApplyDataLabels(series,<sp/>4,<sp/>u</highlight><highlight class="stringliteral">&quot;000.0&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;,<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_EQ(4,<sp/>series-&gt;get_DataLabels()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Change<sp/>the<sp/>separator<sp/>string<sp/>for<sp/>every<sp/>data<sp/>label<sp/>in<sp/>a<sp/>series.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;ChartDataLabel&gt;&gt;&gt;<sp/>enumerator<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_DataLabels()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;,<sp/>&quot;</highlight><highlight class="normal">,<sp/>enumerator-&gt;get_Current()-&gt;get_Separator());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>enumerator-&gt;get_Current()-&gt;set_Separator(u</highlight><highlight class="stringliteral">&quot;<sp/>&amp;<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>For<sp/>a<sp/>cleaner<sp/>looking<sp/>graph,<sp/>we<sp/>can<sp/>remove<sp/>data<sp/>labels<sp/>individually.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(1)-&gt;get_DataLabels()-&gt;idx_get(2)-&gt;ClearFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>strip<sp/>an<sp/>entire<sp/>series<sp/>of<sp/>its<sp/>data<sp/>labels<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(2)-&gt;get_DataLabels()-&gt;ClearFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Charts.DataLabels.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ApplyDataLabels(SharedPtr&lt;ChartSeries&gt;<sp/>series,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>labelsCount,<sp/>String<sp/>numberFormat,<sp/>String<sp/>separator)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>labelsCount;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;set_HasDataLabels(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;get_IsVisible());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_ShowCategoryName(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_ShowSeriesName(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_ShowValue(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_ShowLeaderLines(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_ShowLegendKey(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_ShowPercentage(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_IsHidden(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;get_ShowDataLabelsRange());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;get_NumberFormat()-&gt;set_FormatCode(numberFormat);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_Separator(separator);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;get_ShowDataLabelsRange());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;get_IsVisible());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;get_IsHidden());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="475" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1ab9d99c594261e6fb2f9fabf946e8eec2" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_data_point_collection" kindref="compound">Aspose::Words::Drawing::Charts::ChartDataPointCollection</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::Charts::ChartDataPointCollection &gt; Aspose::Words::Drawing::Charts::ChartSeries::get_DataPoints</definition>
+        <argsstring>() const</argsstring>
+        <name>get_DataPoints</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::get_DataPoints</qualifiedname>
+        <briefdescription>
+<para>Returns a collection of formatting objects for all data points in this series. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to apply labels to data points in a line chart. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>DataLabels()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Shape&gt;<sp/>chartShape<sp/>=<sp/>builder-&gt;InsertChart(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a4803e6b9e63dabf04de980788d6a13c4" kindref="member" tooltip="Line chart.">ChartType::Line</ref>,<sp/>400,<sp/>300);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Chart&gt;<sp/>chart<sp/>=<sp/>chartShape-&gt;get_Chart();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(3,<sp/>chart-&gt;get_Series()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>1&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>2&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>3&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(2)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Apply<sp/>data<sp/>labels<sp/>to<sp/>every<sp/>series<sp/>in<sp/>the<sp/>chart.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>These<sp/>labels<sp/>will<sp/>appear<sp/>next<sp/>to<sp/>each<sp/>data<sp/>point<sp/>in<sp/>the<sp/>graph<sp/>and<sp/>display<sp/>its<sp/>value.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>series<sp/>:<sp/>System::IterateOver(chart-&gt;get_Series()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ApplyDataLabels(series,<sp/>4,<sp/>u</highlight><highlight class="stringliteral">&quot;000.0&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;,<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_EQ(4,<sp/>series-&gt;get_DataLabels()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Change<sp/>the<sp/>separator<sp/>string<sp/>for<sp/>every<sp/>data<sp/>label<sp/>in<sp/>a<sp/>series.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;ChartDataLabel&gt;&gt;&gt;<sp/>enumerator<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_DataLabels()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;,<sp/>&quot;</highlight><highlight class="normal">,<sp/>enumerator-&gt;get_Current()-&gt;get_Separator());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>enumerator-&gt;get_Current()-&gt;set_Separator(u</highlight><highlight class="stringliteral">&quot;<sp/>&amp;<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>For<sp/>a<sp/>cleaner<sp/>looking<sp/>graph,<sp/>we<sp/>can<sp/>remove<sp/>data<sp/>labels<sp/>individually.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(1)-&gt;get_DataLabels()-&gt;idx_get(2)-&gt;ClearFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>strip<sp/>an<sp/>entire<sp/>series<sp/>of<sp/>its<sp/>data<sp/>labels<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(2)-&gt;get_DataLabels()-&gt;ClearFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Charts.DataLabels.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ApplyDataLabels(SharedPtr&lt;ChartSeries&gt;<sp/>series,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>labelsCount,<sp/>String<sp/>numberFormat,<sp/>String<sp/>separator)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>labelsCount;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;set_HasDataLabels(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;get_IsVisible());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_ShowCategoryName(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_ShowSeriesName(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_ShowValue(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_ShowLeaderLines(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_ShowLegendKey(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_ShowPercentage(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_IsHidden(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;get_ShowDataLabelsRange());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;get_NumberFormat()-&gt;set_FormatCode(numberFormat);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_Separator(separator);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;get_ShowDataLabelsRange());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;get_IsVisible());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;get_IsHidden());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="242" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1ace8098e72c626a72e33d55cd25a3895b" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Drawing::Charts::ChartSeries::get_Explosion</definition>
+        <argsstring>() override</argsstring>
+        <name>get_Explosion</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::get_Explosion</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_i_chart_data_point_1a0e591f0abbc92ab2906f7447afee56c5">get_Explosion</reimplements>
+        <briefdescription>
+<para>Specifies the amount the data point shall be moved from the center of the pie. Can be negative, negative means that property is not set and no explosion should be applied. Applies only to Pie charts. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to move the slices of a pie chart away from the center. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertChart(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a996589a1a7e9604b0dbd63858a59b247" kindref="member" tooltip="Pie chart.">ChartType::Pie</ref>,<sp/>500,<sp/>350);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Chart&gt;<sp/>chart<sp/>=<sp/>shape-&gt;get_Chart();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>chart-&gt;get_Series()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Sales&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;Slices&quot;<sp/>of<sp/>a<sp/>pie<sp/>chart<sp/>may<sp/>be<sp/>moved<sp/>away<sp/>from<sp/>the<sp/>center<sp/>by<sp/>a<sp/>distance<sp/>via<sp/>the<sp/>respective<sp/>data<sp/>point&apos;s<sp/>Explosion<sp/>attribute.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>a<sp/>data<sp/>point<sp/>to<sp/>the<sp/>first<sp/>portion<sp/>of<sp/>the<sp/>pie<sp/>chart<sp/>and<sp/>move<sp/>it<sp/>away<sp/>from<sp/>the<sp/>center<sp/>by<sp/>10<sp/>points.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Aspose.Words<sp/>create<sp/>data<sp/>points<sp/>automatically<sp/>if<sp/>them<sp/>does<sp/>not<sp/>exist.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ChartDataPoint&gt;<sp/>dataPoint<sp/>=<sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_DataPoints()-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal">dataPoint-&gt;set_Explosion(10);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Displace<sp/>the<sp/>second<sp/>portion<sp/>by<sp/>a<sp/>greater<sp/>distance.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dataPoint<sp/>=<sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_DataPoints()-&gt;idx_get(1);</highlight></codeline>
+<codeline><highlight class="normal">dataPoint-&gt;set_Explosion(40);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Charts.PieChartExplosion.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="158" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1ac78b9143d77e50caff0bdb5d755ea6df" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format" kindref="compound">Aspose::Words::Drawing::Charts::ChartFormat</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::Charts::ChartFormat &gt; Aspose::Words::Drawing::Charts::ChartSeries::get_Format</definition>
+        <argsstring>()</argsstring>
+        <name>get_Format</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::get_Format</qualifiedname>
+        <briefdescription>
+<para>Provides access to fill and line formatting of the series. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Sows how to set series color. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertChart(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a1976d7f704de389d9fe064e08ea35b2d" kindref="member" tooltip="Column chart.">ChartType::Column</ref>,<sp/>432,<sp/>252);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Chart&gt;<sp/>chart<sp/>=<sp/>shape-&gt;get_Chart();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ChartSeriesCollection&gt;<sp/>seriesColl<sp/>=<sp/>chart-&gt;get_Series();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Delete<sp/>default<sp/>generated<sp/>series.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">seriesColl-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>category<sp/>names<sp/>array.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>categories<sp/>=<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Category<sp/>1&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Category<sp/>2&quot;</highlight><highlight class="normal">});</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Adding<sp/>new<sp/>series.<sp/>Value<sp/>and<sp/>category<sp/>arrays<sp/>must<sp/>be<sp/>the<sp/>same<sp/>size.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ChartSeries&gt;<sp/>series1<sp/>=<sp/>seriesColl-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Series<sp/>1&quot;</highlight><highlight class="normal">,<sp/>categories,<sp/>MakeArray&lt;double&gt;({1,<sp/>2}));</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ChartSeries&gt;<sp/>series2<sp/>=<sp/>seriesColl-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Series<sp/>2&quot;</highlight><highlight class="normal">,<sp/>categories,<sp/>MakeArray&lt;double&gt;({3,<sp/>4}));</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ChartSeries&gt;<sp/>series3<sp/>=<sp/>seriesColl-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Series<sp/>3&quot;</highlight><highlight class="normal">,<sp/>categories,<sp/>MakeArray&lt;double&gt;({5,<sp/>6}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>series<sp/>color.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">series1-&gt;get_Format()-&gt;get_Fill()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">series2-&gt;get_Format()-&gt;get_Fill()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">series3-&gt;get_Format()-&gt;get_Fill()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Charts.SeriesColor.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="509" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a2b28fddee3a02b427acfcb84be10833e" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Drawing::Charts::ChartSeries::get_HasDataLabels</definition>
+        <argsstring>() const</argsstring>
+        <name>get_HasDataLabels</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::get_HasDataLabels</qualifiedname>
+        <briefdescription>
+<para>Gets a flag indicating whether data labels are displayed for the series. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="394" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1af75670e2f58343c93664457951e9e434" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Drawing::Charts::ChartSeries::get_InvertIfNegative</definition>
+        <argsstring>() override</argsstring>
+        <name>get_InvertIfNegative</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::get_InvertIfNegative</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_i_chart_data_point_1aef88671a70c914b264796c5263ae5abf">get_InvertIfNegative</reimplements>
+        <briefdescription>
+<para>Specifies whether the parent element shall inverts its colors if the value is negative. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with data points on a line chart. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ChartDataPoint_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertChart(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a4803e6b9e63dabf04de980788d6a13c4" kindref="member" tooltip="Line chart.">ChartType::Line</ref>,<sp/>500,<sp/>350);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Chart&gt;<sp/>chart<sp/>=<sp/>shape-&gt;get_Chart();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(3,<sp/>chart-&gt;get_Series()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>1&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>2&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>3&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(2)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Emphasize<sp/>the<sp/>chart&apos;s<sp/>data<sp/>points<sp/>by<sp/>making<sp/>them<sp/>appear<sp/>as<sp/>diamond<sp/>shapes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>series<sp/>:<sp/>System::IterateOver(chart-&gt;get_Series()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ApplyDataPoints(series,<sp/>4,<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a00dc99c10541d924bd92abb1fa4027a1a8f7671185d590914ac21c7511767b699" kindref="member" tooltip="Specifies a diamond shall be drawn at each data point.">MarkerSymbol::Diamond</ref>,<sp/>15);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Smooth<sp/>out<sp/>the<sp/>line<sp/>that<sp/>represents<sp/>the<sp/>first<sp/>data<sp/>series.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;set_Smooth(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Verify<sp/>that<sp/>data<sp/>points<sp/>for<sp/>the<sp/>first<sp/>series<sp/>will<sp/>not<sp/>invert<sp/>their<sp/>colors<sp/>if<sp/>the<sp/>value<sp/>is<sp/>negative.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;ChartDataPoint&gt;&gt;&gt;<sp/>enumerator<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_DataPoints()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(enumerator-&gt;get_Current()-&gt;get_InvertIfNegative());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>For<sp/>a<sp/>cleaner<sp/>looking<sp/>graph,<sp/>we<sp/>can<sp/>clear<sp/>format<sp/>individually.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(1)-&gt;get_DataPoints()-&gt;idx_get(2)-&gt;ClearFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>strip<sp/>an<sp/>entire<sp/>series<sp/>of<sp/>data<sp/>points<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(2)-&gt;get_DataPoints()-&gt;ClearFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Charts.ChartDataPoint.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ApplyDataPoints(SharedPtr&lt;ChartSeries&gt;<sp/>series,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>dataPointsCount,<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a00dc99c10541d924bd92abb1fa4027a1" kindref="member" tooltip="Specifies marker symbol style.">MarkerSymbol</ref><sp/>markerSymbol,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>dataPointSize)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>dataPointsCount;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;ChartDataPoint&gt;<sp/>point<sp/>=<sp/>series-&gt;get_DataPoints()-&gt;idx_get(i);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>point-&gt;get_Marker()-&gt;set_Symbol(markerSymbol);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>point-&gt;get_Marker()-&gt;set_Size(dataPointSize);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_EQ(i,<sp/>point-&gt;get_Index());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="160" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a0d233ba2463a10fe6e24604f0aeff417" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry" kindref="compound">Aspose::Words::Drawing::Charts::ChartLegendEntry</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::Charts::ChartLegendEntry &gt; Aspose::Words::Drawing::Charts::ChartSeries::get_LegendEntry</definition>
+        <argsstring>()</argsstring>
+        <name>get_LegendEntry</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::get_LegendEntry</qualifiedname>
+        <briefdescription>
+<para>Gets a legend entry for this chart series. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="512" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a5445c805bcbe6774299488a0a7aef584" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker" kindref="compound">Aspose::Words::Drawing::Charts::ChartMarker</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::Charts::ChartMarker &gt; Aspose::Words::Drawing::Charts::ChartSeries::get_Marker</definition>
+        <argsstring>() override</argsstring>
+        <name>get_Marker</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::get_Marker</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_i_chart_data_point_1abdc980860400bd1eca39119c96f86b55">get_Marker</reimplements>
+        <briefdescription>
+<para>Specifies a data marker. Marker is automatically created when requested. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with data points on a line chart. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ChartDataPoint_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertChart(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a4803e6b9e63dabf04de980788d6a13c4" kindref="member" tooltip="Line chart.">ChartType::Line</ref>,<sp/>500,<sp/>350);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Chart&gt;<sp/>chart<sp/>=<sp/>shape-&gt;get_Chart();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(3,<sp/>chart-&gt;get_Series()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>1&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>2&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>3&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(2)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Emphasize<sp/>the<sp/>chart&apos;s<sp/>data<sp/>points<sp/>by<sp/>making<sp/>them<sp/>appear<sp/>as<sp/>diamond<sp/>shapes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>series<sp/>:<sp/>System::IterateOver(chart-&gt;get_Series()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ApplyDataPoints(series,<sp/>4,<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a00dc99c10541d924bd92abb1fa4027a1a8f7671185d590914ac21c7511767b699" kindref="member" tooltip="Specifies a diamond shall be drawn at each data point.">MarkerSymbol::Diamond</ref>,<sp/>15);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Smooth<sp/>out<sp/>the<sp/>line<sp/>that<sp/>represents<sp/>the<sp/>first<sp/>data<sp/>series.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;set_Smooth(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Verify<sp/>that<sp/>data<sp/>points<sp/>for<sp/>the<sp/>first<sp/>series<sp/>will<sp/>not<sp/>invert<sp/>their<sp/>colors<sp/>if<sp/>the<sp/>value<sp/>is<sp/>negative.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;ChartDataPoint&gt;&gt;&gt;<sp/>enumerator<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_DataPoints()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(enumerator-&gt;get_Current()-&gt;get_InvertIfNegative());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>For<sp/>a<sp/>cleaner<sp/>looking<sp/>graph,<sp/>we<sp/>can<sp/>clear<sp/>format<sp/>individually.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(1)-&gt;get_DataPoints()-&gt;idx_get(2)-&gt;ClearFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>strip<sp/>an<sp/>entire<sp/>series<sp/>of<sp/>data<sp/>points<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(2)-&gt;get_DataPoints()-&gt;ClearFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Charts.ChartDataPoint.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ApplyDataPoints(SharedPtr&lt;ChartSeries&gt;<sp/>series,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>dataPointsCount,<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a00dc99c10541d924bd92abb1fa4027a1" kindref="member" tooltip="Specifies marker symbol style.">MarkerSymbol</ref><sp/>markerSymbol,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>dataPointSize)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>dataPointsCount;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;ChartDataPoint&gt;<sp/>point<sp/>=<sp/>series-&gt;get_DataPoints()-&gt;idx_get(i);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>point-&gt;get_Marker()-&gt;set_Symbol(markerSymbol);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>point-&gt;get_Marker()-&gt;set_Size(dataPointSize);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_EQ(i,<sp/>point-&gt;get_Index());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="162" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a9e5c82733193f21d8c4a0ab73f1cd5a0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Drawing::Charts::ChartSeries::get_Name</definition>
+        <argsstring>()</argsstring>
+        <name>get_Name</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::get_Name</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the name of the series, if name is not set explicitly it is generated using index. By default returns Series plus one based index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to apply labels to data points in a line chart. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>DataLabels()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Shape&gt;<sp/>chartShape<sp/>=<sp/>builder-&gt;InsertChart(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a4803e6b9e63dabf04de980788d6a13c4" kindref="member" tooltip="Line chart.">ChartType::Line</ref>,<sp/>400,<sp/>300);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Chart&gt;<sp/>chart<sp/>=<sp/>chartShape-&gt;get_Chart();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(3,<sp/>chart-&gt;get_Series()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>1&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>2&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>3&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(2)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Apply<sp/>data<sp/>labels<sp/>to<sp/>every<sp/>series<sp/>in<sp/>the<sp/>chart.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>These<sp/>labels<sp/>will<sp/>appear<sp/>next<sp/>to<sp/>each<sp/>data<sp/>point<sp/>in<sp/>the<sp/>graph<sp/>and<sp/>display<sp/>its<sp/>value.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>series<sp/>:<sp/>System::IterateOver(chart-&gt;get_Series()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ApplyDataLabels(series,<sp/>4,<sp/>u</highlight><highlight class="stringliteral">&quot;000.0&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;,<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_EQ(4,<sp/>series-&gt;get_DataLabels()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Change<sp/>the<sp/>separator<sp/>string<sp/>for<sp/>every<sp/>data<sp/>label<sp/>in<sp/>a<sp/>series.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;ChartDataLabel&gt;&gt;&gt;<sp/>enumerator<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_DataLabels()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;,<sp/>&quot;</highlight><highlight class="normal">,<sp/>enumerator-&gt;get_Current()-&gt;get_Separator());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>enumerator-&gt;get_Current()-&gt;set_Separator(u</highlight><highlight class="stringliteral">&quot;<sp/>&amp;<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>For<sp/>a<sp/>cleaner<sp/>looking<sp/>graph,<sp/>we<sp/>can<sp/>remove<sp/>data<sp/>labels<sp/>individually.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(1)-&gt;get_DataLabels()-&gt;idx_get(2)-&gt;ClearFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>strip<sp/>an<sp/>entire<sp/>series<sp/>of<sp/>its<sp/>data<sp/>labels<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(2)-&gt;get_DataLabels()-&gt;ClearFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Charts.DataLabels.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ApplyDataLabels(SharedPtr&lt;ChartSeries&gt;<sp/>series,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>labelsCount,<sp/>String<sp/>numberFormat,<sp/>String<sp/>separator)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>labelsCount;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;set_HasDataLabels(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;get_IsVisible());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_ShowCategoryName(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_ShowSeriesName(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_ShowValue(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_ShowLeaderLines(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_ShowLegendKey(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_ShowPercentage(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_IsHidden(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;get_ShowDataLabelsRange());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;get_NumberFormat()-&gt;set_FormatCode(numberFormat);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_Separator(separator);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;get_ShowDataLabelsRange());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;get_IsVisible());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;get_IsHidden());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="321" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a256e991f39096e48e156d621e94943d4" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Drawing::Charts::ChartSeries::get_Smooth</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Smooth</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::get_Smooth</qualifiedname>
+        <briefdescription>
+<para>Allows to specify whether the line connecting the points on the chart shall be smoothed using Catmull-Rom splines. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with data points on a line chart. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ChartDataPoint_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertChart(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a4803e6b9e63dabf04de980788d6a13c4" kindref="member" tooltip="Line chart.">ChartType::Line</ref>,<sp/>500,<sp/>350);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Chart&gt;<sp/>chart<sp/>=<sp/>shape-&gt;get_Chart();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(3,<sp/>chart-&gt;get_Series()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>1&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>2&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>3&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(2)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Emphasize<sp/>the<sp/>chart&apos;s<sp/>data<sp/>points<sp/>by<sp/>making<sp/>them<sp/>appear<sp/>as<sp/>diamond<sp/>shapes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>series<sp/>:<sp/>System::IterateOver(chart-&gt;get_Series()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ApplyDataPoints(series,<sp/>4,<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a00dc99c10541d924bd92abb1fa4027a1a8f7671185d590914ac21c7511767b699" kindref="member" tooltip="Specifies a diamond shall be drawn at each data point.">MarkerSymbol::Diamond</ref>,<sp/>15);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Smooth<sp/>out<sp/>the<sp/>line<sp/>that<sp/>represents<sp/>the<sp/>first<sp/>data<sp/>series.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;set_Smooth(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Verify<sp/>that<sp/>data<sp/>points<sp/>for<sp/>the<sp/>first<sp/>series<sp/>will<sp/>not<sp/>invert<sp/>their<sp/>colors<sp/>if<sp/>the<sp/>value<sp/>is<sp/>negative.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;ChartDataPoint&gt;&gt;&gt;<sp/>enumerator<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_DataPoints()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(enumerator-&gt;get_Current()-&gt;get_InvertIfNegative());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>For<sp/>a<sp/>cleaner<sp/>looking<sp/>graph,<sp/>we<sp/>can<sp/>clear<sp/>format<sp/>individually.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(1)-&gt;get_DataPoints()-&gt;idx_get(2)-&gt;ClearFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>strip<sp/>an<sp/>entire<sp/>series<sp/>of<sp/>data<sp/>points<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(2)-&gt;get_DataPoints()-&gt;ClearFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Charts.ChartDataPoint.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ApplyDataPoints(SharedPtr&lt;ChartSeries&gt;<sp/>series,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>dataPointsCount,<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a00dc99c10541d924bd92abb1fa4027a1" kindref="member" tooltip="Specifies marker symbol style.">MarkerSymbol</ref><sp/>markerSymbol,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>dataPointSize)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>dataPointsCount;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;ChartDataPoint&gt;<sp/>point<sp/>=<sp/>series-&gt;get_DataPoints()-&gt;idx_get(i);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>point-&gt;get_Marker()-&gt;set_Symbol(markerSymbol);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>point-&gt;get_Marker()-&gt;set_Size(dataPointSize);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_EQ(i,<sp/>point-&gt;get_Index());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="388" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a6f3791ab3d7f67eeeda196742657c8f7" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartSeries::set_Bubble3D</definition>
+        <argsstring>(bool value) override</argsstring>
+        <name>set_Bubble3D</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::set_Bubble3D</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_i_chart_data_point_1a972d1e4cbfd714510b5ea40580d5604e">set_Bubble3D</reimplements>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_i_chart_data_point_1a92f10e79e6cedba54ea34863221b5e19" kindref="member">Aspose::Words::Drawing::Charts::IChartDataPoint::get_Bubble3D</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="164" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a98430f4ab91066819a92d3066a57e37a" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartSeries::set_Explosion</definition>
+        <argsstring>(int32_t value) override</argsstring>
+        <name>set_Explosion</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::set_Explosion</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_i_chart_data_point_1abd1b9748ed48e66dd5e8f7f6fb861e0b">set_Explosion</reimplements>
+        <param>
+          <type>int32_t</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_i_chart_data_point_1a0e591f0abbc92ab2906f7447afee56c5" kindref="member">Aspose::Words::Drawing::Charts::IChartDataPoint::get_Explosion</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="159" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a353c15011c40e823e0d27e40e5b99b5a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartSeries::set_HasDataLabels</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_HasDataLabels</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::set_HasDataLabels</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets a flag indicating whether data labels are displayed for the series. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="397" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a57bd0bebf5e1e6225aff58187f5bfb5f" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartSeries::set_InvertIfNegative</definition>
+        <argsstring>(bool value) override</argsstring>
+        <name>set_InvertIfNegative</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::set_InvertIfNegative</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_i_chart_data_point_1aa88e0e9690de9670e7b8bb274b1949ee">set_InvertIfNegative</reimplements>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_i_chart_data_point_1aef88671a70c914b264796c5263ae5abf" kindref="member">Aspose::Words::Drawing::Charts::IChartDataPoint::get_InvertIfNegative</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="161" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1aad0e06f976c244d436bad23998d4ecbb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartSeries::set_Name</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Name</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::set_Name</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a9e5c82733193f21d8c4a0ab73f1cd5a0" kindref="member">Aspose::Words::Drawing::Charts::ChartSeries::get_Name</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="324" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1aad5f954f8df3881f1ba8ab6989bd0327" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartSeries::set_Smooth</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_Smooth</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartSeries::set_Smooth</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a256e991f39096e48e156d621e94943d4" kindref="member">Aspose::Words::Drawing::Charts::ChartSeries::get_Smooth</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="391" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents chart series properties. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to apply labels to data points in a line chart. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>DataLabels()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Shape&gt;<sp/>chartShape<sp/>=<sp/>builder-&gt;InsertChart(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a4803e6b9e63dabf04de980788d6a13c4" kindref="member" tooltip="Line chart.">ChartType::Line</ref>,<sp/>400,<sp/>300);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Chart&gt;<sp/>chart<sp/>=<sp/>chartShape-&gt;get_Chart();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(3,<sp/>chart-&gt;get_Series()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>1&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>2&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>3&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(2)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Apply<sp/>data<sp/>labels<sp/>to<sp/>every<sp/>series<sp/>in<sp/>the<sp/>chart.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>These<sp/>labels<sp/>will<sp/>appear<sp/>next<sp/>to<sp/>each<sp/>data<sp/>point<sp/>in<sp/>the<sp/>graph<sp/>and<sp/>display<sp/>its<sp/>value.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>series<sp/>:<sp/>System::IterateOver(chart-&gt;get_Series()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ApplyDataLabels(series,<sp/>4,<sp/>u</highlight><highlight class="stringliteral">&quot;000.0&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;,<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_EQ(4,<sp/>series-&gt;get_DataLabels()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Change<sp/>the<sp/>separator<sp/>string<sp/>for<sp/>every<sp/>data<sp/>label<sp/>in<sp/>a<sp/>series.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;ChartDataLabel&gt;&gt;&gt;<sp/>enumerator<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_DataLabels()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;,<sp/>&quot;</highlight><highlight class="normal">,<sp/>enumerator-&gt;get_Current()-&gt;get_Separator());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>enumerator-&gt;get_Current()-&gt;set_Separator(u</highlight><highlight class="stringliteral">&quot;<sp/>&amp;<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>For<sp/>a<sp/>cleaner<sp/>looking<sp/>graph,<sp/>we<sp/>can<sp/>remove<sp/>data<sp/>labels<sp/>individually.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(1)-&gt;get_DataLabels()-&gt;idx_get(2)-&gt;ClearFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>strip<sp/>an<sp/>entire<sp/>series<sp/>of<sp/>its<sp/>data<sp/>labels<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(2)-&gt;get_DataLabels()-&gt;ClearFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Charts.DataLabels.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ApplyDataLabels(SharedPtr&lt;ChartSeries&gt;<sp/>series,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>labelsCount,<sp/>String<sp/>numberFormat,<sp/>String<sp/>separator)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>labelsCount;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;set_HasDataLabels(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;get_IsVisible());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_ShowCategoryName(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_ShowSeriesName(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_ShowValue(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_ShowLeaderLines(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_ShowLegendKey(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_ShowPercentage(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_IsHidden(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;get_ShowDataLabelsRange());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;get_NumberFormat()-&gt;set_FormatCode(numberFormat);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;set_Separator(separator);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;get_ShowDataLabelsRange());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;get_IsVisible());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(series-&gt;get_DataLabels()-&gt;idx_get(i)-&gt;get_IsHidden());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Drawing::Charts::ChartSeries</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Drawing::Charts::IChartDataPoint</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_i_chart_data_point"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Drawing::Charts::ChartSeries</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Drawing::Charts::IChartDataPoint</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_i_chart_data_point"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" line="147" column="1" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartSeries.h" bodystart="148" bodyend="557"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a4ebcc51b5a1f0599e2afa6a3983be4c2" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1aac25ddc67a7578cd6487d4d8db1dc295" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a774963e1bd7db50f896a3c3ee8574248" prot="public" virt="virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>get_Bubble3D</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a9e65caee4d79f7da10fd5dbbc602a496" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>get_DataLabels</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1ab9d99c594261e6fb2f9fabf946e8eec2" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>get_DataPoints</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1ace8098e72c626a72e33d55cd25a3895b" prot="public" virt="virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>get_Explosion</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a64ef1cb02bc07edb6720e29ebf465b17" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>get_Extensions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1ac78b9143d77e50caff0bdb5d755ea6df" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>get_Format</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a2b28fddee3a02b427acfcb84be10833e" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>get_HasDataLabels</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1af75670e2f58343c93664457951e9e434" prot="public" virt="virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>get_InvertIfNegative</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a0d233ba2463a10fe6e24604f0aeff417" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>get_LegendEntry</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a5445c805bcbe6774299488a0a7aef584" prot="public" virt="virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>get_Marker</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a9e5c82733193f21d8c4a0ab73f1cd5a0" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>get_Name</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a256e991f39096e48e156d621e94943d4" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>get_Smooth</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a33fb9335c01facd8bc68aa3040ba4a27" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a13be37628bf036dadaf53e296de21ef6" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a6c9a4bf34210a843e0e38b8edfdd5afa" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField10</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a3ba40699ddeea9b5bf363409fe23039b" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField11</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a3b311b29e4a36eb4b2858591d11da8b1" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField12</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1acbc2d662e1724e43b8d4ecd89f9c5189" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField13</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1ac7d9aeca386614f835b3e809608ee665" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField14</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1ac9b7b0491083685199a2e3d4996a9baa" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField15</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a708ff9ef3cca70b44ccc1b25ccf4ce44" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField16</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a73c9dc462c59efe77ce99306db61cde9" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField17</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a1ac66a131372e30f6629e1db152b64b9" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField18</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a7ef3d0beba9cd322c2e07131f33acf3e" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField19</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a3bb35c9adfbfc949c799dd3c6899902a" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1aa971b4db1511ae0a51971f421c5109d5" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField20</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1ae3037a7f620888043c08c731603e3106" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField21</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a5cc8540e7799e99f183683736880e45c" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField22</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1ac52cc8728201ed3b5c12a203a79032ae" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField23</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a9b9ad1c4df635f182671c6817856d62e" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField24</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a5ea6f9f42ff9e23f3b357de309b889f3" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField25</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a03c4e19728cb67efbb7c2d6451f9e2de" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField26</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a48c02a001ba1231fda043937fa67fce0" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField27</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a7d8546f72fdde55e365c1c86b5375d98" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField28</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1ad9468f55e6779a81dc5a6f097bb1954e" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField29</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a246ffc4dd0fb3d5447f294c014de8fd7" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1aee2d8c0b01283adcd9178174330cdce1" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField30</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a038f59e8ed69bd7d0289216eccb1cfb6" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField31</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a62beba0c9b6b1c46833be0443c94d5dd" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1acbfd8053203fc02913b12465f3cfc69b" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1aef4ad2c91f8021ad852f5ee67ca39394" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField6</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1ad42e8ad1fe946d80992a10a5d54605d8" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField7</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1ad74d303acfd40f0b69ab8fb494e2f236" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField8</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1aebe54a3f0c1eb0a17d4599a000d2327f" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>mField9</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a9f73dca5cb94db7582e194a30fa1f1b9" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a6f3791ab3d7f67eeeda196742657c8f7" prot="public" virt="virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>set_Bubble3D</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a98430f4ab91066819a92d3066a57e37a" prot="public" virt="virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>set_Explosion</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a56738612b13ffbd6b8f023767e841139" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>set_Extensions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a353c15011c40e823e0d27e40e5b99b5a" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>set_HasDataLabels</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a57bd0bebf5e1e6225aff58187f5bfb5f" prot="public" virt="virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>set_InvertIfNegative</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1aad0e06f976c244d436bad23998d4ecbb" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>set_Name</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1aad5f954f8df3881f1ba8ab6989bd0327" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>set_Smooth</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a4ef657eef8d76e76903ffa657a74fd26" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1a6494f83e855bf32863a719e92e0094b6" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_series_1ad855b06de27123d41e4801d38330d7ed" prot="private" virt="virtual"><scope>Aspose::Words::Drawing::Charts::ChartSeries</scope><name>~ChartSeries</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

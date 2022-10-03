@@ -1,0 +1,606 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fonts::FontFallbackSettings</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_font_fallback_settings_8h" local="no">Aspose.Words.Cpp/Fonts/FontFallbackSettings.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1aaa9591ea2657446a2f3e080590db87a7" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Fonts::FontFallbackSettings::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fonts::FontFallbackSettings::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontFallbackSettings.h" line="91" column="28" bodyfile="Aspose.Words.Cpp/Fonts/FontFallbackSettings.h" bodystart="91" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1a5e81531eecb635b26027db578f504502" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings" kindref="compound">FontFallbackSettings</ref></type>
+        <definition>typedef FontFallbackSettings Aspose::Words::Fonts::FontFallbackSettings::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fonts::FontFallbackSettings::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontFallbackSettings.h" line="90" column="34" bodyfile="Aspose.Words.Cpp/Fonts/FontFallbackSettings.h" bodystart="90" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1a01501d8d66ab212ad2dac30c2f346c2b" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Fonts::FontFallbackSettings::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fonts::FontFallbackSettings::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontFallbackSettings.h" line="93" column="37" bodyfile="Aspose.Words.Cpp/Fonts/FontFallbackSettings.h" bodystart="93" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1aa02f480971d70ee39a8d5172b0d727be" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fonts::FontFallbackSettings::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Fonts::FontFallbackSettings::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontFallbackSettings.h" line="354" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontFallbackSettings.h" bodystart="354" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1a18181bb462ef3a8c3e7bebf29b99a716" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fonts::FontFallbackSettings::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Fonts::FontFallbackSettings::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontFallbackSettings.h" line="355" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontFallbackSettings.h" bodystart="355" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1a6bab62cdb5808178091a2a6c5510e0e1" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::Fonts::FontFallbackSettings::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Fonts::FontFallbackSettings::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontFallbackSettings.h" line="356" column="21" bodyfile="Aspose.Words.Cpp/Fonts/FontFallbackSettings.h" bodystart="356" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1a82680d38d5f232eaf3503674502f1fd5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fonts::FontFallbackSettings::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fonts::FontFallbackSettings::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontFallbackSettings.h" line="94" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1afefd6587aa38d4644ae4095d1babf103" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::FontFallbackSettings::BuildAutomatic</definition>
+        <argsstring>()</argsstring>
+        <name>BuildAutomatic</name>
+        <qualifiedname>Aspose::Words::Fonts::FontFallbackSettings::BuildAutomatic</qualifiedname>
+        <briefdescription>
+<para>Automatically builds the fallback settings by scanning available fonts. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to distribute fallback fonts across Unicode character code ranges. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FontFallbackSettings&gt;<sp/>fontFallbackSettings<sp/>=<sp/>fontSettings-&gt;get_FallbackSettings();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Configure<sp/>our<sp/>font<sp/>settings<sp/>to<sp/>source<sp/>fonts<sp/>only<sp/>from<sp/>the<sp/>&quot;MyFonts&quot;<sp/>folder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>folderFontSource<sp/>=<sp/>MakeObject&lt;FolderFontSource&gt;(FontsDir,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fontSettings-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({folderFontSource}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Calling<sp/>the<sp/>&quot;BuildAutomatic&quot;<sp/>method<sp/>will<sp/>generate<sp/>a<sp/>fallback<sp/>scheme<sp/>that</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>distributes<sp/>accessible<sp/>fonts<sp/>across<sp/>as<sp/>many<sp/>Unicode<sp/>character<sp/>codes<sp/>as<sp/>possible.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>our<sp/>case,<sp/>it<sp/>only<sp/>has<sp/>access<sp/>to<sp/>the<sp/>handful<sp/>of<sp/>fonts<sp/>inside<sp/>the<sp/>&quot;MyFonts&quot;<sp/>folder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fontFallbackSettings-&gt;BuildAutomatic();</highlight></codeline>
+<codeline><highlight class="normal">fontFallbackSettings-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.FallbackSettingsCustom.BuildAutomatic.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>load<sp/>a<sp/>custom<sp/>substitution<sp/>scheme<sp/>from<sp/>a<sp/>file<sp/>like<sp/>this.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>scheme<sp/>applies<sp/>the<sp/>&quot;AllegroOpen&quot;<sp/>font<sp/>across<sp/>the<sp/>&quot;0000-00ff&quot;<sp/>Unicode<sp/>blocks,<sp/>the<sp/>&quot;AllegroOpen&quot;<sp/>font<sp/>across<sp/>&quot;0100-024f&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>&quot;M+<sp/>2m&quot;<sp/>font<sp/>in<sp/>all<sp/>other<sp/>ranges<sp/>that<sp/>other<sp/>fonts<sp/>in<sp/>the<sp/>scheme<sp/>do<sp/>not<sp/>cover.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fontFallbackSettings-&gt;Load(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Custom<sp/>font<sp/>fallback<sp/>settings.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>document<sp/>builder<sp/>and<sp/>set<sp/>its<sp/>font<sp/>to<sp/>one<sp/>that<sp/>does<sp/>not<sp/>exist<sp/>in<sp/>any<sp/>of<sp/>our<sp/>sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>font<sp/>settings<sp/>will<sp/>invoke<sp/>the<sp/>fallback<sp/>scheme<sp/>for<sp/>characters<sp/>that<sp/>we<sp/>type<sp/>using<sp/>the<sp/>unavailable<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Missing<sp/>Font&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>builder<sp/>to<sp/>print<sp/>every<sp/>Unicode<sp/>character<sp/>from<sp/>0x0021<sp/>to<sp/>0x052F,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>with<sp/>descriptive<sp/>lines<sp/>dividing<sp/>Unicode<sp/>blocks<sp/>we<sp/>defined<sp/>in<sp/>our<sp/>custom<sp/>font<sp/>fallback<sp/>scheme.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0x0021;<sp/>i<sp/>&lt;<sp/>0x0530;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(i)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>0x0021:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;\n\n0x0021<sp/>-<sp/>0x00FF:<sp/>\nBasic<sp/>Latin/Latin-1<sp/>Supplement<sp/>Unicode<sp/>blocks<sp/>in<sp/>\&quot;AllegroOpen\&quot;<sp/>font:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>0x0100:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;\n\n0x0100<sp/>-<sp/>0x024F:<sp/>\nLatin<sp/>Extended<sp/>A/B<sp/>blocks,<sp/>mostly<sp/>in<sp/>\&quot;AllegroOpen\&quot;<sp/>font:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>0x0250:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;\n\n0x0250<sp/>-<sp/>0x052F:<sp/>\nIPA/Greek/Cyrillic<sp/>blocks<sp/>in<sp/>\&quot;M+<sp/>2m\&quot;<sp/>font:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(String::Format(u</highlight><highlight class="stringliteral">&quot;{0}&quot;</highlight><highlight class="normal">,<sp/><ref refid="struct/system.convert/_1ab7679cfe7a96466fa1493293b673cf98" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Convert::ToChar</ref>(i)));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.FallbackSettingsCustom.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontFallbackSettings.h" line="334" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1a2e756acc5360fd64df1bf2c221175a1b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::FontFallbackSettings::Load</definition>
+        <argsstring>(const System::SharedPtr&lt; System::IO::Stream &gt; &amp;stream)</argsstring>
+        <name>Load</name>
+        <qualifiedname>Aspose::Words::Fonts::FontFallbackSettings::Load</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <declname>stream</declname>
+        </param>
+        <briefdescription>
+<para>Loads fallback settings from XML stream. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>stream</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Input stream.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to load and save font fallback settings to/from a stream. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Load<sp/>an<sp/>XML<sp/>document<sp/>that<sp/>defines<sp/>a<sp/>set<sp/>of<sp/>font<sp/>fallback<sp/>settings.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontFallbackStream<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font<sp/>fallback<sp/>rules.xml&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Open);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fontSettings-&gt;get_FallbackSettings()-&gt;Load(fontFallbackStream);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.LoadFontFallbackSettingsFromStream.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>a<sp/>stream<sp/>to<sp/>save<sp/>our<sp/>document&apos;s<sp/>current<sp/>font<sp/>fallback<sp/>settings<sp/>as<sp/>an<sp/>XML<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontFallbackStream<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FallbackSettings.xml&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Create);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FontSettings()-&gt;get_FallbackSettings()-&gt;Save(fontFallbackStream);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontFallbackSettings.h" line="147" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1a29dd2b8ff050661f1721a04a2771bec9" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::FontFallbackSettings::Load</definition>
+        <argsstring>(const System::String &amp;fileName)</argsstring>
+        <name>Load</name>
+        <qualifiedname>Aspose::Words::Fonts::FontFallbackSettings::Load</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>fileName</declname>
+        </param>
+        <briefdescription>
+<para>Loads font fallback settings from XML file. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>fileName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Input file name.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to load and save font fallback settings to/from an XML document in the local file system. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Load<sp/>an<sp/>XML<sp/>document<sp/>that<sp/>defines<sp/>a<sp/>set<sp/>of<sp/>font<sp/>fallback<sp/>settings.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal">fontSettings-&gt;get_FallbackSettings()-&gt;Load(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font<sp/>fallback<sp/>rules.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.LoadFontFallbackSettingsFromFile.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Save<sp/>our<sp/>document&apos;s<sp/>current<sp/>font<sp/>fallback<sp/>settings<sp/>as<sp/>an<sp/>XML<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;get_FallbackSettings()-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FallbackSettings.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontFallbackSettings.h" line="118" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1aa7120d4982a5cf156de9abdf049a6034" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename CharType</type>
+          </param>
+          <param>
+            <type>typename Traits</type>
+          </param>
+        </templateparamlist>
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::FontFallbackSettings::Load</definition>
+        <argsstring>(std::basic_istream&lt; CharType, Traits &gt; &amp;stream)</argsstring>
+        <name>Load</name>
+        <qualifiedname>Aspose::Words::Fonts::FontFallbackSettings::Load</qualifiedname>
+        <param>
+          <type>std::basic_istream&lt; CharType, Traits &gt; &amp;</type>
+          <declname>stream</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontFallbackSettings.h" line="337" column="10" bodyfile="Aspose.Words.Cpp/Fonts/FontFallbackSettings.h" bodystart="337" bodyend="341"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1ae0a86c87d0e3b503247b9393306ffbb0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::FontFallbackSettings::LoadMsOfficeFallbackSettings</definition>
+        <argsstring>()</argsstring>
+        <name>LoadMsOfficeFallbackSettings</name>
+        <qualifiedname>Aspose::Words::Fonts::FontFallbackSettings::LoadMsOfficeFallbackSettings</qualifiedname>
+        <briefdescription>
+<para>Loads predefined fallback settings which mimics the Microsoft Word fallback and uses Microsoft office fonts. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to load pre-defined fallback font settings. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FontFallbackSettings&gt;<sp/>fontFallbackSettings<sp/>=<sp/>fontSettings-&gt;get_FallbackSettings();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Save<sp/>the<sp/>default<sp/>fallback<sp/>font<sp/>scheme<sp/>to<sp/>an<sp/>XML<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>For<sp/>example,<sp/>one<sp/>of<sp/>the<sp/>elements<sp/>has<sp/>a<sp/>value<sp/>of<sp/>&quot;0C00-0C7F&quot;<sp/>for<sp/>Range<sp/>and<sp/>a<sp/>corresponding<sp/>&quot;Vani&quot;<sp/>value<sp/>for<sp/>FallbackFonts.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>means<sp/>that<sp/>if<sp/>the<sp/>font<sp/>some<sp/>text<sp/>is<sp/>using<sp/>does<sp/>not<sp/>have<sp/>symbols<sp/>for<sp/>the<sp/>0x0C00-0x0C7F<sp/>Unicode<sp/>block,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>fallback<sp/>scheme<sp/>will<sp/>use<sp/>symbols<sp/>from<sp/>the<sp/>&quot;Vani&quot;<sp/>font<sp/>substitute.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fontFallbackSettings-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.FallbackSettings.Default.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>pre-defined<sp/>font<sp/>fallback<sp/>schemes<sp/>we<sp/>can<sp/>choose<sp/>from.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Use<sp/>the<sp/>default<sp/>Microsoft<sp/>Office<sp/>scheme,<sp/>which<sp/>is<sp/>the<sp/>same<sp/>one<sp/>as<sp/>the<sp/>default:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fontFallbackSettings-&gt;LoadMsOfficeFallbackSettings();</highlight></codeline>
+<codeline><highlight class="normal">fontFallbackSettings-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.FallbackSettings.LoadMsOfficeFallbackSettings.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Use<sp/>the<sp/>scheme<sp/>built<sp/>from<sp/>Google<sp/>Noto<sp/>fonts:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fontFallbackSettings-&gt;LoadNotoFallbackSettings();</highlight></codeline>
+<codeline><highlight class="normal">fontFallbackSettings-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.FallbackSettings.LoadNotoFallbackSettings.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontFallbackSettings.h" line="176" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1a5b8a35a3bc12d26d315142d753b7e8b1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::FontFallbackSettings::LoadNotoFallbackSettings</definition>
+        <argsstring>()</argsstring>
+        <name>LoadNotoFallbackSettings</name>
+        <qualifiedname>Aspose::Words::Fonts::FontFallbackSettings::LoadNotoFallbackSettings</qualifiedname>
+        <briefdescription>
+<para>Loads predefined fallback settings which uses Google Noto fonts. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to add predefined font fallback settings for Google Noto fonts. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>are<sp/>free<sp/>fonts<sp/>licensed<sp/>under<sp/>the<sp/>SIL<sp/>Open<sp/>Font<sp/>License.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>download<sp/>the<sp/>fonts<sp/>here:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>https://www.google.com/get/noto/#sans-lgc</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fontSettings-&gt;SetFontsFolder(FontsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Noto&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Note<sp/>that<sp/>the<sp/>predefined<sp/>settings<sp/>only<sp/>use<sp/>Sans-style<sp/>Noto<sp/>fonts<sp/>with<sp/>regular<sp/>weight.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Some<sp/>of<sp/>the<sp/>Noto<sp/>fonts<sp/>use<sp/>advanced<sp/>typography<sp/>features.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Fonts<sp/>featuring<sp/>advanced<sp/>typography<sp/>may<sp/>not<sp/>be<sp/>rendered<sp/>correctly<sp/>as<sp/>Aspose.Words<sp/>currently<sp/>do<sp/>not<sp/>support<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fontSettings-&gt;get_FallbackSettings()-&gt;LoadNotoFallbackSettings();</highlight></codeline>
+<codeline><highlight class="normal">fontSettings-&gt;get_SubstitutionSettings()-&gt;get_FontInfoSubstitution()-&gt;set_Enabled(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fontSettings-&gt;get_SubstitutionSettings()-&gt;get_DefaultFontSubstitution()-&gt;set_DefaultFontName(u</highlight><highlight class="stringliteral">&quot;Noto<sp/>Sans&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to load pre-defined fallback font settings. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FontFallbackSettings&gt;<sp/>fontFallbackSettings<sp/>=<sp/>fontSettings-&gt;get_FallbackSettings();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Save<sp/>the<sp/>default<sp/>fallback<sp/>font<sp/>scheme<sp/>to<sp/>an<sp/>XML<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>For<sp/>example,<sp/>one<sp/>of<sp/>the<sp/>elements<sp/>has<sp/>a<sp/>value<sp/>of<sp/>&quot;0C00-0C7F&quot;<sp/>for<sp/>Range<sp/>and<sp/>a<sp/>corresponding<sp/>&quot;Vani&quot;<sp/>value<sp/>for<sp/>FallbackFonts.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>means<sp/>that<sp/>if<sp/>the<sp/>font<sp/>some<sp/>text<sp/>is<sp/>using<sp/>does<sp/>not<sp/>have<sp/>symbols<sp/>for<sp/>the<sp/>0x0C00-0x0C7F<sp/>Unicode<sp/>block,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>fallback<sp/>scheme<sp/>will<sp/>use<sp/>symbols<sp/>from<sp/>the<sp/>&quot;Vani&quot;<sp/>font<sp/>substitute.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fontFallbackSettings-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.FallbackSettings.Default.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>pre-defined<sp/>font<sp/>fallback<sp/>schemes<sp/>we<sp/>can<sp/>choose<sp/>from.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Use<sp/>the<sp/>default<sp/>Microsoft<sp/>Office<sp/>scheme,<sp/>which<sp/>is<sp/>the<sp/>same<sp/>one<sp/>as<sp/>the<sp/>default:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fontFallbackSettings-&gt;LoadMsOfficeFallbackSettings();</highlight></codeline>
+<codeline><highlight class="normal">fontFallbackSettings-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.FallbackSettings.LoadMsOfficeFallbackSettings.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Use<sp/>the<sp/>scheme<sp/>built<sp/>from<sp/>Google<sp/>Noto<sp/>fonts:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fontFallbackSettings-&gt;LoadNotoFallbackSettings();</highlight></codeline>
+<codeline><highlight class="normal">fontFallbackSettings-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.FallbackSettings.LoadNotoFallbackSettings.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontFallbackSettings.h" line="225" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1a5143b0b307b1efd9c83fe7839fba504c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::FontFallbackSettings::Save</definition>
+        <argsstring>(const System::SharedPtr&lt; System::IO::Stream &gt; &amp;outputStream)</argsstring>
+        <name>Save</name>
+        <qualifiedname>Aspose::Words::Fonts::FontFallbackSettings::Save</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <declname>outputStream</declname>
+        </param>
+        <briefdescription>
+<para>Saves the current fallback settings to stream. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>outputStream</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Output stream.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to load and save font fallback settings to/from a stream. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Load<sp/>an<sp/>XML<sp/>document<sp/>that<sp/>defines<sp/>a<sp/>set<sp/>of<sp/>font<sp/>fallback<sp/>settings.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontFallbackStream<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font<sp/>fallback<sp/>rules.xml&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Open);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fontSettings-&gt;get_FallbackSettings()-&gt;Load(fontFallbackStream);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.LoadFontFallbackSettingsFromStream.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>a<sp/>stream<sp/>to<sp/>save<sp/>our<sp/>document&apos;s<sp/>current<sp/>font<sp/>fallback<sp/>settings<sp/>as<sp/>an<sp/>XML<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontFallbackStream<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FallbackSettings.xml&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Create);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FontSettings()-&gt;get_FallbackSettings()-&gt;Save(fontFallbackStream);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontFallbackSettings.h" line="254" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1a4e3860354ccdb192776e16d326345945" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::FontFallbackSettings::Save</definition>
+        <argsstring>(const System::String &amp;fileName)</argsstring>
+        <name>Save</name>
+        <qualifiedname>Aspose::Words::Fonts::FontFallbackSettings::Save</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>fileName</declname>
+        </param>
+        <briefdescription>
+<para>Saves the current fallback settings to file. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>fileName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Output file name.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to load and save font fallback settings to/from an XML document in the local file system. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Load<sp/>an<sp/>XML<sp/>document<sp/>that<sp/>defines<sp/>a<sp/>set<sp/>of<sp/>font<sp/>fallback<sp/>settings.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal">fontSettings-&gt;get_FallbackSettings()-&gt;Load(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font<sp/>fallback<sp/>rules.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.LoadFontFallbackSettingsFromFile.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Save<sp/>our<sp/>document&apos;s<sp/>current<sp/>font<sp/>fallback<sp/>settings<sp/>as<sp/>an<sp/>XML<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;get_FallbackSettings()-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FallbackSettings.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontFallbackSettings.h" line="276" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1ae7266f0bdc2c81aa01d3ead0302585d0" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename CharType</type>
+          </param>
+          <param>
+            <type>typename Traits</type>
+          </param>
+        </templateparamlist>
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::FontFallbackSettings::Save</definition>
+        <argsstring>(std::basic_ostream&lt; CharType, Traits &gt; &amp;outputStream)</argsstring>
+        <name>Save</name>
+        <qualifiedname>Aspose::Words::Fonts::FontFallbackSettings::Save</qualifiedname>
+        <param>
+          <type>std::basic_ostream&lt; CharType, Traits &gt; &amp;</type>
+          <declname>outputStream</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontFallbackSettings.h" line="344" column="10" bodyfile="Aspose.Words.Cpp/Fonts/FontFallbackSettings.h" bodystart="344" bodyend="348"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Specifies font fallback mechanism settings. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to distribute fallback fonts across Unicode character code ranges. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FontFallbackSettings&gt;<sp/>fontFallbackSettings<sp/>=<sp/>fontSettings-&gt;get_FallbackSettings();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Configure<sp/>our<sp/>font<sp/>settings<sp/>to<sp/>source<sp/>fonts<sp/>only<sp/>from<sp/>the<sp/>&quot;MyFonts&quot;<sp/>folder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>folderFontSource<sp/>=<sp/>MakeObject&lt;FolderFontSource&gt;(FontsDir,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fontSettings-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({folderFontSource}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Calling<sp/>the<sp/>&quot;BuildAutomatic&quot;<sp/>method<sp/>will<sp/>generate<sp/>a<sp/>fallback<sp/>scheme<sp/>that</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>distributes<sp/>accessible<sp/>fonts<sp/>across<sp/>as<sp/>many<sp/>Unicode<sp/>character<sp/>codes<sp/>as<sp/>possible.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>our<sp/>case,<sp/>it<sp/>only<sp/>has<sp/>access<sp/>to<sp/>the<sp/>handful<sp/>of<sp/>fonts<sp/>inside<sp/>the<sp/>&quot;MyFonts&quot;<sp/>folder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fontFallbackSettings-&gt;BuildAutomatic();</highlight></codeline>
+<codeline><highlight class="normal">fontFallbackSettings-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.FallbackSettingsCustom.BuildAutomatic.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>load<sp/>a<sp/>custom<sp/>substitution<sp/>scheme<sp/>from<sp/>a<sp/>file<sp/>like<sp/>this.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>scheme<sp/>applies<sp/>the<sp/>&quot;AllegroOpen&quot;<sp/>font<sp/>across<sp/>the<sp/>&quot;0000-00ff&quot;<sp/>Unicode<sp/>blocks,<sp/>the<sp/>&quot;AllegroOpen&quot;<sp/>font<sp/>across<sp/>&quot;0100-024f&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>&quot;M+<sp/>2m&quot;<sp/>font<sp/>in<sp/>all<sp/>other<sp/>ranges<sp/>that<sp/>other<sp/>fonts<sp/>in<sp/>the<sp/>scheme<sp/>do<sp/>not<sp/>cover.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fontFallbackSettings-&gt;Load(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Custom<sp/>font<sp/>fallback<sp/>settings.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>document<sp/>builder<sp/>and<sp/>set<sp/>its<sp/>font<sp/>to<sp/>one<sp/>that<sp/>does<sp/>not<sp/>exist<sp/>in<sp/>any<sp/>of<sp/>our<sp/>sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>font<sp/>settings<sp/>will<sp/>invoke<sp/>the<sp/>fallback<sp/>scheme<sp/>for<sp/>characters<sp/>that<sp/>we<sp/>type<sp/>using<sp/>the<sp/>unavailable<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Missing<sp/>Font&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>builder<sp/>to<sp/>print<sp/>every<sp/>Unicode<sp/>character<sp/>from<sp/>0x0021<sp/>to<sp/>0x052F,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>with<sp/>descriptive<sp/>lines<sp/>dividing<sp/>Unicode<sp/>blocks<sp/>we<sp/>defined<sp/>in<sp/>our<sp/>custom<sp/>font<sp/>fallback<sp/>scheme.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0x0021;<sp/>i<sp/>&lt;<sp/>0x0530;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(i)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>0x0021:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;\n\n0x0021<sp/>-<sp/>0x00FF:<sp/>\nBasic<sp/>Latin/Latin-1<sp/>Supplement<sp/>Unicode<sp/>blocks<sp/>in<sp/>\&quot;AllegroOpen\&quot;<sp/>font:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>0x0100:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;\n\n0x0100<sp/>-<sp/>0x024F:<sp/>\nLatin<sp/>Extended<sp/>A/B<sp/>blocks,<sp/>mostly<sp/>in<sp/>\&quot;AllegroOpen\&quot;<sp/>font:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>0x0250:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;\n\n0x0250<sp/>-<sp/>0x052F:<sp/>\nIPA/Greek/Cyrillic<sp/>blocks<sp/>in<sp/>\&quot;M+<sp/>2m\&quot;<sp/>font:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(String::Format(u</highlight><highlight class="stringliteral">&quot;{0}&quot;</highlight><highlight class="normal">,<sp/><ref refid="struct/system.convert/_1ab7679cfe7a96466fa1493293b673cf98" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Convert::ToChar</ref>(i)));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.FallbackSettingsCustom.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Fonts::FontFallbackSettings</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Fonts::FontFallbackSettings</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fonts/FontFallbackSettings.h" line="88" column="1" bodyfile="Aspose.Words.Cpp/Fonts/FontFallbackSettings.h" bodystart="89" bodyend="358"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1aaa9591ea2657446a2f3e080590db87a7" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontFallbackSettings</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1afefd6587aa38d4644ae4095d1babf103" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontFallbackSettings</scope><name>BuildAutomatic</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1a29dd2b8ff050661f1721a04a2771bec9" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontFallbackSettings</scope><name>Load</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1a2e756acc5360fd64df1bf2c221175a1b" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontFallbackSettings</scope><name>Load</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1aa7120d4982a5cf156de9abdf049a6034" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontFallbackSettings</scope><name>Load</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1ae0a86c87d0e3b503247b9393306ffbb0" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontFallbackSettings</scope><name>LoadMsOfficeFallbackSettings</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1a5b8a35a3bc12d26d315142d753b7e8b1" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontFallbackSettings</scope><name>LoadNotoFallbackSettings</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1aa02f480971d70ee39a8d5172b0d727be" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontFallbackSettings</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1a18181bb462ef3a8c3e7bebf29b99a716" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontFallbackSettings</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1a6bab62cdb5808178091a2a6c5510e0e1" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontFallbackSettings</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1a82680d38d5f232eaf3503674502f1fd5" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontFallbackSettings</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1a5143b0b307b1efd9c83fe7839fba504c" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontFallbackSettings</scope><name>Save</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1a4e3860354ccdb192776e16d326345945" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontFallbackSettings</scope><name>Save</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1ae7266f0bdc2c81aa01d3ead0302585d0" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontFallbackSettings</scope><name>Save</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1a5e81531eecb635b26027db578f504502" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontFallbackSettings</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings_1a01501d8d66ab212ad2dac30c2f346c2b" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontFallbackSettings</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

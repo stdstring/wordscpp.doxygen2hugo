@@ -1,0 +1,481 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="namespace_aspose_1_1_words_1_1_math" kind="namespace" language="C++">
+    <compoundname>Aspose::Words::Math</compoundname>
+    <innerclass refid="class_aspose_1_1_words_1_1_math_1_1_office_math" prot="public">Aspose::Words::Math::OfficeMath</innerclass>
+      <sectiondef kind="enum">
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30a" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>MathObjectType</name>
+        <qualifiedname>Aspose::Words::Math::MathObjectType</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa0de4c12778aaf5223d4762f31c33b622" prot="public">
+          <name>OMath</name>
+          <briefdescription>
+<para>Instance of mathematical text. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa15de98e6065597193144aa96a3a47fea" prot="public">
+          <name>OMathPara</name>
+          <briefdescription>
+<para><ref refid="namespace_aspose_1_1_words_1_1_math" kindref="compound">Math</ref> paragraph, or display math zone, that contains one or more <ref refid="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa0de4c12778aaf5223d4762f31c33b622" kindref="member">OMath</ref> elements that are in display mode. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aac900e1bd8e22771d610bd2a5861b544f" prot="public">
+          <name>Accent</name>
+          <briefdescription>
+<para>Accent function, consisting of a base and a combining diacritical mark. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aaddc35f88fa71b6ef142ae61f35364653" prot="public">
+          <name>Bar</name>
+          <briefdescription>
+<para>Bar function, consisting of a base argument and an overbar or underbar. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa8e19c92a582cdc5d1c59d34b8adab775" prot="public">
+          <name>BorderBox</name>
+          <briefdescription>
+<para><ref refid="class_aspose_1_1_words_1_1_border" kindref="compound">Border</ref> Box object, consisting of a border drawn around an instance of mathematical text (such as a formula or equation) </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa3cfce651e667ab85486dd42a8185f98a" prot="public">
+          <name>Box</name>
+          <briefdescription>
+<para>Box object, which is used to group components of an equation or other instance of mathematical text. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aaabb968fcf23cfb09b36e4d92bbbe7500" prot="public">
+          <name>Delimiter</name>
+          <briefdescription>
+<para>Delimiter object, consisting of opening and closing delimiters (such as parentheses, braces, brackets, and vertical bars), and an element contained inside. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa6669c4dc00cb161446821b3529ca07d8" prot="public">
+          <name>Degree</name>
+          <briefdescription>
+<para>Degree in the mathematical radical. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa1853680a6d666b9fea2d789dd00bc7eb" prot="public">
+          <name>Argument</name>
+          <briefdescription>
+<para>Argument object. Encloses Office <ref refid="namespace_aspose_1_1_words_1_1_math" kindref="compound">Math</ref> entities when they are used as arguments to other Office <ref refid="namespace_aspose_1_1_words_1_1_math" kindref="compound">Math</ref> entities. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa4410ec34d9e6c1a68100ca0ce033fb17" prot="public">
+          <name>Array</name>
+          <briefdescription>
+<para>Array object, consisting of one or more equations, expressions, or other mathematical text runs that can be vertically justified as a unit with respect to surrounding text on the line. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aaef993538f3968e9d1f6c9d19a3d6cfae" prot="public">
+          <name>Fraction</name>
+          <briefdescription>
+<para>Fraction object, consisting of a numerator and denominator separated by a fraction bar. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aabc08e655a5714d472e3304c5abfb2821" prot="public">
+          <name>Denominator</name>
+          <briefdescription>
+<para>Denominator of a fraction object. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa62e70ff6ef433fff4d4aed5f3412a1c9" prot="public">
+          <name>Numerator</name>
+          <briefdescription>
+<para>Numerator of the Fraction object. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa86408593c34af77fdd90df932f8b5261" prot="public">
+          <name>Function</name>
+          <briefdescription>
+<para>Function-Apply object, which consists of a function name and an argument element acted upon. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa485adff653e5456932b5d18b45e91b3d" prot="public">
+          <name>FunctionName</name>
+          <briefdescription>
+<para>Name of the function. For example, function names are sin and cos. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aac238f87cdafdfa6f98f99679bbfd398e" prot="public">
+          <name>GroupCharacter</name>
+          <briefdescription>
+<para>Group-Character object, consisting of a character drawn above or below text, often with the purpose of visually grouping items. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa80d2677cf518f4d04320042f4ea6c146" prot="public">
+          <name>Limit</name>
+          <briefdescription>
+<para>Lower limit of the <ref refid="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa3be54336e21b87feaae6c7e654506809" kindref="member">LowerLimit</ref> object and the upper limit of the <ref refid="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aab1794c9a29de5713ff0a42d07243bc7b" kindref="member">UpperLimit</ref> function. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa3be54336e21b87feaae6c7e654506809" prot="public">
+          <name>LowerLimit</name>
+          <briefdescription>
+<para>Lower-Limit object, consisting of text on the baseline and reduced-size text immediately below it. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aab1794c9a29de5713ff0a42d07243bc7b" prot="public">
+          <name>UpperLimit</name>
+          <briefdescription>
+<para>Upper-Limit object, consisting of text on the baseline and reduced-size text immediately above it. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aaf53df0293e169f562bc1d9a20e1d2589" prot="public">
+          <name>Matrix</name>
+          <briefdescription>
+<para>Matrix object, consisting of one or more elements laid out in one or more rows and one or more columns. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aaad92bd709b07ea871da0668bcdfbe819" prot="public">
+          <name>MatrixRow</name>
+          <briefdescription>
+<para>Single row of the matrix. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa261d56396c31d2a8a64dda43231ae623" prot="public">
+          <name>NAry</name>
+          <briefdescription>
+<para>N-ary object, consisting of an n-ary object, a base (or operand), and optional upper and lower limits. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aaf0a43d6e5eea19af337a176e9836acdd" prot="public">
+          <name>Phantom</name>
+          <briefdescription>
+<para>Phantom object. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa17625553a31a865c47137ec0df9a52e3" prot="public">
+          <name>Radical</name>
+          <briefdescription>
+<para>Radical object, consisting of a radical, a base element, and an optional degree . </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa35caa6e4e8fa5a4dd4db348ad0a2e4ce" prot="public">
+          <name>SubscriptPart</name>
+          <briefdescription>
+<para>Subscript of the object that can have subscript part. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa1fe2283c01c3099cf6a8edad763966be" prot="public">
+          <name>SuperscriptPart</name>
+          <briefdescription>
+<para>Superscript of the superscript object. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aaa8f8d34a3fd0bbbd395ee536c084314e" prot="public">
+          <name>PreSubSuperscript</name>
+          <briefdescription>
+<para>Pre-Sub-Superscript object, which consists of a base element and a subscript and superscript placed to the left of the base. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa928558e2f9712e38d447d674f2672200" prot="public">
+          <name>Subscript</name>
+          <briefdescription>
+<para>Subscript object, which consists of a base element and a reduced-size script placed below and to the right. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa3bcd75b9818f89cafaf1b32a77d628a1" prot="public">
+          <name>SubSuperscript</name>
+          <briefdescription>
+<para>Sub-superscript object, which consists of a base element, a reduced-size script placed below and to the right, and a reduced-size script placed above and to the right. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aaa3ce2a80ae750430f8f68e59bdffce39" prot="public">
+          <name>Supercript</name>
+          <briefdescription>
+<para>Superscript object, which consists of a base element and a reduced-size script placed above and to the right. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies type of an Office <ref refid="namespace_aspose_1_1_words_1_1_math" kindref="compound">Math</ref> object. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to print the node structure of every office math node in a document. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>OfficeMathToText()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentVisitor-compatible<sp/>features.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>visitor<sp/>=<sp/>MakeObject&lt;ExDocumentVisitor::OfficeMathStructurePrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>get<sp/>a<sp/>composite<sp/>node<sp/>to<sp/>accept<sp/>a<sp/>document<sp/>visitor,<sp/>the<sp/>visitor<sp/>visits<sp/>the<sp/>accepting<sp/>node,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>traverses<sp/>all<sp/>the<sp/>node&apos;s<sp/>children<sp/>in<sp/>a<sp/>depth-first<sp/>manner.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>visitor<sp/>can<sp/>read<sp/>and<sp/>modify<sp/>each<sp/>visited<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Accept(visitor);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>visitor-&gt;GetText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">OfficeMathStructurePrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound" tooltip="Base class for custom document visitors.">DocumentVisitor</ref></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>OfficeMathStructurePrinter()<sp/>:<sp/>mVisitorIsInsideOfficeMath(false),<sp/>mDocTraversalDepth(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder<sp/>=<sp/>MakeObject&lt;System::Text::StringBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideOfficeMath<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>String<sp/>GetText()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mBuilder-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>VisitorAction<sp/>VisitRun(SharedPtr&lt;Run&gt;<sp/>run)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(mVisitorIsInsideOfficeMath)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(String(u</highlight><highlight class="stringliteral">&quot;[Run]<sp/>\&quot;&quot;</highlight><highlight class="normal">)<sp/>+<sp/>run-&gt;GetText()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitOfficeMathStart(SharedPtr&lt;OfficeMath&gt;<sp/>officeMath)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[OfficeMath<sp/>start]<sp/>Math<sp/>object<sp/>type:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(officeMath-&gt;get_MathObjectType()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideOfficeMath<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitOfficeMathEnd(SharedPtr&lt;OfficeMath&gt;<sp/>officeMath)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth--;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(u</highlight><highlight class="stringliteral">&quot;[OfficeMath<sp/>end]&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideOfficeMath<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>mVisitorIsInsideOfficeMath;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mDocTraversalDepth;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mBuilder;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>IndentAndAppendLine(String<sp/>text)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>mDocTraversalDepth;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;Append(u</highlight><highlight class="stringliteral">&quot;|<sp/><sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(text);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/MathObjectType.h" line="119" column="1" bodyfile="Aspose.Words.Cpp/Math/MathObjectType.h" bodystart="120" bodyend="215"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_math_1a6bde800b2e379a2871fe30d1cff0e7c0" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>OfficeMathDisplayType</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMathDisplayType</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1a6bde800b2e379a2871fe30d1cff0e7c0ab9987a246a537f4fe86f1f2e3d10dbdb" prot="public">
+          <name>Display</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+<para>The Office <ref refid="namespace_aspose_1_1_words_1_1_math" kindref="compound">Math</ref> is displayed on its own line. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1a6bde800b2e379a2871fe30d1cff0e7c0a0125cf5f3ca38b312ca5d3b511c45a13" prot="public">
+          <name>Inline</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+<para>The Office <ref refid="namespace_aspose_1_1_words_1_1_math" kindref="compound">Math</ref> is displayed inline with the text. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies the display format type of the equation. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set office math display formatting. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Office<sp/>math.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>officeMath<sp/>=<sp/>System::DynamicCast&lt;OfficeMath&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>OfficeMath<sp/>nodes<sp/>that<sp/>are<sp/>children<sp/>of<sp/>other<sp/>OfficeMath<sp/>nodes<sp/>are<sp/>always<sp/>inline.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>node<sp/>we<sp/>are<sp/>working<sp/>with<sp/>is<sp/>the<sp/>base<sp/>node<sp/>to<sp/>change<sp/>its<sp/>location<sp/>and<sp/>display<sp/>type.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa15de98e6065597193144aa96a3a47fea" kindref="member" tooltip="Math paragraph, or display math zone, that contains one or more OMath elements that are in display mo...">MathObjectType::OMathPara</ref>,<sp/>officeMath-&gt;get_MathObjectType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>officeMath-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(officeMath-&gt;get_ParentNode(),<sp/>officeMath-&gt;get_ParentParagraph());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>OOXML<sp/>and<sp/>WML<sp/>formats<sp/>use<sp/>the<sp/>&quot;EquationXmlEncoding&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(officeMath-&gt;get_EquationXmlEncoding()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Change<sp/>the<sp/>location<sp/>and<sp/>display<sp/>type<sp/>of<sp/>the<sp/>OfficeMath<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">officeMath-&gt;set_DisplayType(<ref refid="namespace_aspose_1_1_words_1_1_math_1a6bde800b2e379a2871fe30d1cff0e7c0ab9987a246a537f4fe86f1f2e3d10dbdb" kindref="member" tooltip="The Office Math is displayed on its own line.">OfficeMathDisplayType::Display</ref>);</highlight></codeline>
+<codeline><highlight class="normal">officeMath-&gt;set_Justification(<ref refid="namespace_aspose_1_1_words_1_1_math_1a9fe5163ddc6fb967ad84181e0e41fc66a945d5e233cf7d6240f6b783b36a374ff" kindref="member" tooltip="Left justification of Math Paragraph.">OfficeMathJustification::Left</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.OfficeMath.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMathDisplayType.h" line="47" column="1" bodyfile="Aspose.Words.Cpp/Math/OfficeMathDisplayType.h" bodystart="48" bodyend="55"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_math_1a9fe5163ddc6fb967ad84181e0e41fc66" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>OfficeMathJustification</name>
+        <qualifiedname>Aspose::Words::Math::OfficeMathJustification</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1a9fe5163ddc6fb967ad84181e0e41fc66a40c892e0b0849bd8f483ea6e2515c93d" prot="public">
+          <name>CenterGroup</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+<para>Justifies instances of mathematical text to the left with respect to each other, and centers the group of mathematical text (the <ref refid="namespace_aspose_1_1_words_1_1_math" kindref="compound">Math</ref> <ref refid="class_aspose_1_1_words_1_1_paragraph" kindref="compound">Paragraph</ref>) with respect to the page. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1a9fe5163ddc6fb967ad84181e0e41fc66a4f1f6016fc9f3f2353c0cc7c67b292bd" prot="public">
+          <name>Center</name>
+          <initializer>= 2</initializer>
+          <briefdescription>
+<para>Centers each instance of mathematical text individually with respect to margins. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1a9fe5163ddc6fb967ad84181e0e41fc66a945d5e233cf7d6240f6b783b36a374ff" prot="public">
+          <name>Left</name>
+          <initializer>= 3</initializer>
+          <briefdescription>
+<para>Left justification of <ref refid="namespace_aspose_1_1_words_1_1_math" kindref="compound">Math</ref> <ref refid="class_aspose_1_1_words_1_1_paragraph" kindref="compound">Paragraph</ref>. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1a9fe5163ddc6fb967ad84181e0e41fc66a92b09c7c48c520c3c55e497875da437c" prot="public">
+          <name>Right</name>
+          <initializer>= 4</initializer>
+          <briefdescription>
+<para>Right Justification of <ref refid="namespace_aspose_1_1_words_1_1_math" kindref="compound">Math</ref> <ref refid="class_aspose_1_1_words_1_1_paragraph" kindref="compound">Paragraph</ref>. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1a9fe5163ddc6fb967ad84181e0e41fc66a0125cf5f3ca38b312ca5d3b511c45a13" prot="public">
+          <name>Inline</name>
+          <initializer>= 7</initializer>
+          <briefdescription>
+<para><ref refid="class_aspose_1_1_words_1_1_inline" kindref="compound">Inline</ref> position of <ref refid="namespace_aspose_1_1_words_1_1_math" kindref="compound">Math</ref>. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_math_1a9fe5163ddc6fb967ad84181e0e41fc66a7a1920d61156abc05a60135aefe8bc67" prot="public">
+          <name>Default</name>
+          <initializer>= static_cast&lt;int32_t&gt;(CenterGroup)</initializer>
+          <briefdescription>
+<para>Default value <ref refid="namespace_aspose_1_1_words_1_1_math_1a9fe5163ddc6fb967ad84181e0e41fc66a40c892e0b0849bd8f483ea6e2515c93d" kindref="member">CenterGroup</ref>. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies the justification of the equation. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set office math display formatting. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Office<sp/>math.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>officeMath<sp/>=<sp/>System::DynamicCast&lt;OfficeMath&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>OfficeMath<sp/>nodes<sp/>that<sp/>are<sp/>children<sp/>of<sp/>other<sp/>OfficeMath<sp/>nodes<sp/>are<sp/>always<sp/>inline.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>node<sp/>we<sp/>are<sp/>working<sp/>with<sp/>is<sp/>the<sp/>base<sp/>node<sp/>to<sp/>change<sp/>its<sp/>location<sp/>and<sp/>display<sp/>type.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_math_1aa25acf7a822315d15bf7cca52588b30aa15de98e6065597193144aa96a3a47fea" kindref="member" tooltip="Math paragraph, or display math zone, that contains one or more OMath elements that are in display mo...">MathObjectType::OMathPara</ref>,<sp/>officeMath-&gt;get_MathObjectType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>officeMath-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(officeMath-&gt;get_ParentNode(),<sp/>officeMath-&gt;get_ParentParagraph());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>OOXML<sp/>and<sp/>WML<sp/>formats<sp/>use<sp/>the<sp/>&quot;EquationXmlEncoding&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(officeMath-&gt;get_EquationXmlEncoding()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Change<sp/>the<sp/>location<sp/>and<sp/>display<sp/>type<sp/>of<sp/>the<sp/>OfficeMath<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">officeMath-&gt;set_DisplayType(<ref refid="namespace_aspose_1_1_words_1_1_math_1a6bde800b2e379a2871fe30d1cff0e7c0ab9987a246a537f4fe86f1f2e3d10dbdb" kindref="member" tooltip="The Office Math is displayed on its own line.">OfficeMathDisplayType::Display</ref>);</highlight></codeline>
+<codeline><highlight class="normal">officeMath-&gt;set_Justification(<ref refid="namespace_aspose_1_1_words_1_1_math_1a9fe5163ddc6fb967ad84181e0e41fc66a945d5e233cf7d6240f6b783b36a374ff" kindref="member" tooltip="Left justification of Math Paragraph.">OfficeMathJustification::Left</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.OfficeMath.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Math/OfficeMathJustification.h" line="48" column="1" bodyfile="Aspose.Words.Cpp/Math/OfficeMathJustification.h" bodystart="49" bodyend="69"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>The <bold>Aspose.Words.Math</bold> namespace contains classes that represent Office <ref refid="namespace_aspose_1_1_words_1_1_math" kindref="compound">Math</ref> elements. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/DocumentVisitor.h" line="57" column="1"/>
+  </compounddef>
+</doxygen>

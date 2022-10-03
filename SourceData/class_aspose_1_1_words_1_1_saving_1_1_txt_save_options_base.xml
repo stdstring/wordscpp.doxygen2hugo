@@ -1,0 +1,557 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Saving::TxtSaveOptionsBase</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_saving_1_1_save_options" prot="public" virt="non-virtual">Aspose::Words::Saving::SaveOptions</basecompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options" prot="public" virt="non-virtual">Aspose::Words::Saving::MarkdownSaveOptions</derivedcompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options" prot="public" virt="non-virtual">Aspose::Words::Saving::TxtSaveOptions</derivedcompoundref>
+    <includes refid="_txt_save_options_base_8h" local="no">Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a1a09edf1553141663636cd04d81ed762" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_save_options" kindref="compound">Aspose::Words::Saving::SaveOptions</ref></type>
+        <definition>typedef Aspose::Words::Saving::SaveOptions Aspose::Words::Saving::TxtSaveOptionsBase::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Saving::TxtSaveOptionsBase::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h" line="62" column="48" bodyfile="Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h" bodystart="62" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1ad5528293a7c042ee1b82b87dd3485439" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base" kindref="compound">TxtSaveOptionsBase</ref></type>
+        <definition>typedef TxtSaveOptionsBase Aspose::Words::Saving::TxtSaveOptionsBase::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Saving::TxtSaveOptionsBase::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h" line="61" column="32" bodyfile="Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h" bodystart="61" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a46604b38f6af350a34e3484017564aa8" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_save_options" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::TxtSaveOptionsBase::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Saving::TxtSaveOptionsBase::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h" line="64" column="37" bodyfile="Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h" bodystart="64" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1ac263b30bc6f91240bc4dc61ad4ed6638" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::TxtSaveOptionsBase::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Saving::TxtSaveOptionsBase::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h" line="251" column="23" bodyfile="Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h" bodystart="251" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a8880c86d644181c0f54eb914134536af" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::TxtSaveOptionsBase::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Saving::TxtSaveOptionsBase::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h" line="252" column="20" bodyfile="Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h" bodystart="252" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a45a470345181bd2025ad06cfa1c9cf52" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::TxtSaveOptionsBase::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Saving::TxtSaveOptionsBase::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h" line="253" column="23" bodyfile="Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h" bodystart="253" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a412602b5ca5fda4371d124e5f12f65d2" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Saving::TxtSaveOptionsBase::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Saving::TxtSaveOptionsBase::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h" line="254" column="23" bodyfile="Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h" bodystart="254" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a91320e8c32a8d924de9242604bb7c279" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::TxtSaveOptionsBase::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Saving::TxtSaveOptionsBase::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h" line="65" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a30328e9bc5cbcd8f53958c603d664e7d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::TxtSaveOptionsBase::TxtSaveOptionsBase</definition>
+        <argsstring>()</argsstring>
+        <name>TxtSaveOptionsBase</name>
+        <qualifiedname>Aspose::Words::Saving::TxtSaveOptionsBase::TxtSaveOptionsBase</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h" line="247" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1af7e3fa8fd0c504d8e57b1138d342f63a" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.text.encoding/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; System::Text::Encoding &gt; Aspose::Words::Saving::TxtSaveOptionsBase::get_Encoding</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Encoding</name>
+        <qualifiedname>Aspose::Words::Saving::TxtSaveOptionsBase::get_Encoding</qualifiedname>
+        <briefdescription>
+<para>Specifies the encoding to use when exporting in text formats. Default value is <bold>Encoding.UTF8</bold>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set encoding for a .txt output document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>some<sp/>text<sp/>with<sp/>characters<sp/>from<sp/>outside<sp/>the<sp/>ASCII<sp/>character<sp/>set.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;À<sp/>È<sp/>Ì<sp/>Ò<sp/>Ù.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;TxtSaveOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>save<sp/>the<sp/>document<sp/>to<sp/>plaintext.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>txtSaveOptions<sp/>=<sp/>MakeObject&lt;TxtSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Verify<sp/>that<sp/>the<sp/>&quot;Encoding&quot;<sp/>property<sp/>contains<sp/>the<sp/>appropriate<sp/>encoding<sp/>for<sp/>our<sp/>document&apos;s<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(<ref refid="class/system.text.encoding/_1a95985d0da959aa35a89574de5fb4bfd8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_UTF8</ref>(),<sp/>txtSaveOptions-&gt;get_Encoding());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;TxtSaveOptions.Encoding.UTF8.txt&quot;</highlight><highlight class="normal">,<sp/>txtSaveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>docText<sp/>=<sp/><ref refid="class/system.text.encoding/_1a95985d0da959aa35a89574de5fb4bfd8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_UTF8</ref>()-&gt;GetString(<ref refid="class/system.i_o.file/_1abdf236ad2f3924d0fc9259f8f715a5c4" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::ReadAllBytes</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;TxtSaveOptions.Encoding.UTF8.txt&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;\ufeffÀ<sp/>È<sp/>Ì<sp/>Ò<sp/>Ù.\r\n&quot;</highlight><highlight class="normal">,<sp/>docText);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Using<sp/>an<sp/>unsuitable<sp/>encoding<sp/>may<sp/>result<sp/>in<sp/>a<sp/>loss<sp/>of<sp/>document<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">txtSaveOptions-&gt;set_Encoding(<ref refid="class/system.text.encoding/_1ae1508feb411c49a70249109d1caddb9c" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_ASCII</ref>());</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;TxtSaveOptions.Encoding.ASCII.txt&quot;</highlight><highlight class="normal">,<sp/>txtSaveOptions);</highlight></codeline>
+<codeline><highlight class="normal">docText<sp/>=<sp/><ref refid="class/system.text.encoding/_1ae1508feb411c49a70249109d1caddb9c" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_ASCII</ref>()-&gt;GetString(<ref refid="class/system.i_o.file/_1abdf236ad2f3924d0fc9259f8f715a5c4" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::ReadAllBytes</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;TxtSaveOptions.Encoding.ASCII.txt&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;?<sp/>?<sp/>?<sp/>?<sp/>?.\r\n&quot;</highlight><highlight class="normal">,<sp/>docText);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h" line="102" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1af6eaf9602101f63dd03c454802de51e9" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_saving_1ad66754e10b9c103d1a04dfa2616b53dc" kindref="member">Aspose::Words::Saving::TxtExportHeadersFootersMode</ref></type>
+        <definition>Aspose::Words::Saving::TxtExportHeadersFootersMode Aspose::Words::Saving::TxtSaveOptionsBase::get_ExportHeadersFootersMode</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ExportHeadersFootersMode</name>
+        <qualifiedname>Aspose::Words::Saving::TxtSaveOptionsBase::get_ExportHeadersFootersMode</qualifiedname>
+        <briefdescription>
+<para>Specifies the way headers and footers are exported to the text formats. Default value is <ref refid="namespace_aspose_1_1_words_1_1_saving_1ad66754e10b9c103d1a04dfa2616b53dcac87d88536ab39aed19912f84f4e698cb" kindref="member">PrimaryOnly</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to specify how to export headers and footers to plain text format. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>even<sp/>and<sp/>primary<sp/>headers/footers<sp/>into<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>primary<sp/>header/footers<sp/>will<sp/>override<sp/>the<sp/>even<sp/>headers/footers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_HeadersFooters()-&gt;Add(MakeObject&lt;HeaderFooter&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69adfe2914bbaa51fcbf35bdb65ac3865d6" kindref="member" tooltip="Header for even numbered pages.">HeaderFooterType::HeaderEven</ref>));</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_HeadersFooters()-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69adfe2914bbaa51fcbf35bdb65ac3865d6" kindref="member" tooltip="Header for even numbered pages.">HeaderFooterType::HeaderEven</ref>)-&gt;AppendParagraph(u</highlight><highlight class="stringliteral">&quot;Even<sp/>header&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_HeadersFooters()-&gt;Add(MakeObject&lt;HeaderFooter&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69a080b23f68539379bbc520044d9e77b49" kindref="member" tooltip="Footer for even numbered pages.">HeaderFooterType::FooterEven</ref>));</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_HeadersFooters()-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69a080b23f68539379bbc520044d9e77b49" kindref="member" tooltip="Footer for even numbered pages.">HeaderFooterType::FooterEven</ref>)-&gt;AppendParagraph(u</highlight><highlight class="stringliteral">&quot;Even<sp/>footer&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_HeadersFooters()-&gt;Add(MakeObject&lt;HeaderFooter&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69a12c5d70f31f632e51d3a7273fc3c23f2" kindref="member" tooltip="Primary header, also used for odd numbered pages.">HeaderFooterType::HeaderPrimary</ref>));</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_HeadersFooters()-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69a12c5d70f31f632e51d3a7273fc3c23f2" kindref="member" tooltip="Primary header, also used for odd numbered pages.">HeaderFooterType::HeaderPrimary</ref>)-&gt;AppendParagraph(u</highlight><highlight class="stringliteral">&quot;Primary<sp/>header&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_HeadersFooters()-&gt;Add(MakeObject&lt;HeaderFooter&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69af8e178a8382a14e6a14bb9f08e7d6a86" kindref="member" tooltip="Primary footer, also used for odd numbered pages.">HeaderFooterType::FooterPrimary</ref>));</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_HeadersFooters()-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69af8e178a8382a14e6a14bb9f08e7d6a86" kindref="member" tooltip="Primary footer, also used for odd numbered pages.">HeaderFooterType::FooterPrimary</ref>)-&gt;AppendParagraph(u</highlight><highlight class="stringliteral">&quot;Primary<sp/>footer&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>pages<sp/>to<sp/>display<sp/>these<sp/>headers<sp/>and<sp/>footers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Page<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Page<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Page<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;TxtSaveOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>save<sp/>the<sp/>document<sp/>to<sp/>plaintext.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;TxtSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ExportHeadersFootersMode&quot;<sp/>property<sp/>to<sp/>&quot;TxtExportHeadersFootersMode.None&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>not<sp/>export<sp/>any<sp/>headers/footers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ExportHeadersFootersMode&quot;<sp/>property<sp/>to<sp/>&quot;TxtExportHeadersFootersMode.PrimaryOnly&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>only<sp/>export<sp/>primary<sp/>headers/footers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ExportHeadersFootersMode&quot;<sp/>property<sp/>to<sp/>&quot;TxtExportHeadersFootersMode.AllAtEnd&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>place<sp/>all<sp/>headers<sp/>and<sp/>footers<sp/>for<sp/>all<sp/>section<sp/>bodies<sp/>at<sp/>the<sp/>end<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_ExportHeadersFootersMode(txtExportHeadersFootersMode);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;TxtSaveOptions.ExportHeadersFooters.txt&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>docText<sp/>=<sp/><ref refid="class/system.i_o.file/_1a44b456da9461cd60c432ed0efac1e6d8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::ReadAllText</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;TxtSaveOptions.ExportHeadersFooters.txt&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(txtExportHeadersFootersMode)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_saving_1ad66754e10b9c103d1a04dfa2616b53dca68745e960acf12de639d5cceed0cf89d" kindref="member" tooltip="All headers and footers are placed after all section bodies at the very end of a document.">TxtExportHeadersFootersMode::AllAtEnd</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Page<sp/>1\r\n&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Page<sp/>2\r\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Page<sp/>3\r\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Even<sp/>header\r\n\r\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Primary<sp/>header\r\n\r\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Even<sp/>footer\r\n\r\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;Primary<sp/>footer\r\n\r\n&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>docText);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_saving_1ad66754e10b9c103d1a04dfa2616b53dcac87d88536ab39aed19912f84f4e698cb" kindref="member" tooltip="Only primary headers and footers are exported at the beginning and end of each section.">TxtExportHeadersFootersMode::PrimaryOnly</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Primary<sp/>header\r\n&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Page<sp/>1\r\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Page<sp/>2\r\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Page<sp/>3\r\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Primary<sp/>footer\r\n&quot;</highlight><highlight class="normal">,<sp/>docText);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_saving_1ad66754e10b9c103d1a04dfa2616b53dca6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No headers and footers are exported.">TxtExportHeadersFootersMode::None</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Page<sp/>1\r\n&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Page<sp/>2\r\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Page<sp/>3\r\n&quot;</highlight><highlight class="normal">,<sp/>docText);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h" line="242" column="59"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a706d4795c4fe5c5309896edd708ef43f" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Saving::TxtSaveOptionsBase::get_ForcePageBreaks</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ForcePageBreaks</name>
+        <qualifiedname>Aspose::Words::Saving::TxtSaveOptionsBase::get_ForcePageBreaks</qualifiedname>
+        <briefdescription>
+<para>Allows to specify whether the page breaks should be preserved during export. The default value is <bold>false</bold>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to specify whether to preserve page breaks when exporting a document to plaintext. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Page<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Page<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Page<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;TxtSaveOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>method<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>save<sp/>the<sp/>document<sp/>to<sp/>plaintext.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;TxtSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>Aspose.Words<sp/>&quot;Document&quot;<sp/>objects<sp/>have<sp/>page<sp/>breaks,<sp/>just<sp/>like<sp/>Microsoft<sp/>Word<sp/>documents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Save<sp/>formats<sp/>such<sp/>as<sp/>&quot;.txt&quot;<sp/>are<sp/>one<sp/>continuous<sp/>body<sp/>of<sp/>text<sp/>without<sp/>page<sp/>breaks.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ForcePageBreaks&quot;<sp/>property<sp/>to<sp/>&quot;true&quot;<sp/>to<sp/>preserve<sp/>all<sp/>page<sp/>breaks<sp/>in<sp/>the<sp/>form<sp/>of<sp/>&apos;\f&apos;<sp/>characters.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ForcePageBreaks&quot;<sp/>property<sp/>to<sp/>&quot;false&quot;<sp/>to<sp/>discard<sp/>all<sp/>page<sp/>breaks.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_ForcePageBreaks(forcePageBreaks);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;TxtSaveOptions.PageBreaks.txt&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>load<sp/>a<sp/>plaintext<sp/>document<sp/>with<sp/>page<sp/>breaks,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>&quot;Document&quot;<sp/>object<sp/>will<sp/>use<sp/>them<sp/>to<sp/>split<sp/>the<sp/>body<sp/>into<sp/>pages.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;TxtSaveOptions.PageBreaks.txt&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(forcePageBreaks<sp/>?<sp/>3<sp/>:<sp/>1,<sp/>doc-&gt;get_PageCount());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h" line="176" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a39db9107bb8d8ae9411a2d7ae4eb4a42" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::TxtSaveOptionsBase::get_ParagraphBreak</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ParagraphBreak</name>
+        <qualifiedname>Aspose::Words::Saving::TxtSaveOptionsBase::get_ParagraphBreak</qualifiedname>
+        <briefdescription>
+<para>Specifies the string to use as a paragraph break when exporting in text formats. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The default value is <ref refid="class_aspose_1_1_words_1_1_control_char_1a11f37d9d2b9145ec921b6f6e611eda89" kindref="member">CrLf</ref>.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to save a .txt document with a custom paragraph break. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;TxtSaveOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>save<sp/>the<sp/>document<sp/>to<sp/>plaintext.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>txtSaveOptions<sp/>=<sp/>MakeObject&lt;TxtSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Saves the document in the plain text format.">SaveFormat::Text</ref>,<sp/>txtSaveOptions-&gt;get_SaveFormat());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ParagraphBreak&quot;<sp/>to<sp/>a<sp/>custom<sp/>value<sp/>that<sp/>we<sp/>wish<sp/>to<sp/>put<sp/>at<sp/>the<sp/>end<sp/>of<sp/>every<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">txtSaveOptions-&gt;set_ParagraphBreak(u</highlight><highlight class="stringliteral">&quot;<sp/>End<sp/>of<sp/>paragraph.\n\n\t&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;TxtSaveOptions.ParagraphBreak.txt&quot;</highlight><highlight class="normal">,<sp/>txtSaveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>docText<sp/>=<sp/><ref refid="class/system.i_o.file/_1a44b456da9461cd60c432ed0efac1e6d8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::ReadAllText</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;TxtSaveOptions.ParagraphBreak.txt&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>1.<sp/>End<sp/>of<sp/>paragraph.\n\n\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>2.<sp/>End<sp/>of<sp/>paragraph.\n\n\t&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>3.<sp/>End<sp/>of<sp/>paragraph.\n\n\t&quot;</highlight><highlight class="normal">,<sp/>docText);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h" line="137" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a6eeb5be528b7619af7172e1865b9e555" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::TxtSaveOptionsBase::set_Encoding</definition>
+        <argsstring>(const System::SharedPtr&lt; System::Text::Encoding &gt; &amp;value)</argsstring>
+        <name>set_Encoding</name>
+        <qualifiedname>Aspose::Words::Saving::TxtSaveOptionsBase::set_Encoding</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.text.encoding/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1af7e3fa8fd0c504d8e57b1138d342f63a" kindref="member">Aspose::Words::Saving::TxtSaveOptionsBase::get_Encoding</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h" line="105" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1aadf390c79976fe3352222afe4f4a8ad8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::TxtSaveOptionsBase::set_ExportHeadersFootersMode</definition>
+        <argsstring>(Aspose::Words::Saving::TxtExportHeadersFootersMode value)</argsstring>
+        <name>set_ExportHeadersFootersMode</name>
+        <qualifiedname>Aspose::Words::Saving::TxtSaveOptionsBase::set_ExportHeadersFootersMode</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_saving_1ad66754e10b9c103d1a04dfa2616b53dc" kindref="member">Aspose::Words::Saving::TxtExportHeadersFootersMode</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1af6eaf9602101f63dd03c454802de51e9" kindref="member">Aspose::Words::Saving::TxtSaveOptionsBase::get_ExportHeadersFootersMode</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h" line="245" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a5e8745fd6e2b51b3b46d56fd4f923ac5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::TxtSaveOptionsBase::set_ForcePageBreaks</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_ForcePageBreaks</name>
+        <qualifiedname>Aspose::Words::Saving::TxtSaveOptionsBase::set_ForcePageBreaks</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a706d4795c4fe5c5309896edd708ef43f" kindref="member">Aspose::Words::Saving::TxtSaveOptionsBase::get_ForcePageBreaks</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h" line="179" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1ae79773f93624624196edcf3fd68e861d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::TxtSaveOptionsBase::set_ParagraphBreak</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ParagraphBreak</name>
+        <qualifiedname>Aspose::Words::Saving::TxtSaveOptionsBase::set_ParagraphBreak</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a39db9107bb8d8ae9411a2d7ae4eb4a42" kindref="member">Aspose::Words::Saving::TxtSaveOptionsBase::get_ParagraphBreak</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h" line="140" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>The base class for specifying additional options when saving a document into a text based formats. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to save a .txt document with a custom paragraph break. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;TxtSaveOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>save<sp/>the<sp/>document<sp/>to<sp/>plaintext.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>txtSaveOptions<sp/>=<sp/>MakeObject&lt;TxtSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Saves the document in the plain text format.">SaveFormat::Text</ref>,<sp/>txtSaveOptions-&gt;get_SaveFormat());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ParagraphBreak&quot;<sp/>to<sp/>a<sp/>custom<sp/>value<sp/>that<sp/>we<sp/>wish<sp/>to<sp/>put<sp/>at<sp/>the<sp/>end<sp/>of<sp/>every<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">txtSaveOptions-&gt;set_ParagraphBreak(u</highlight><highlight class="stringliteral">&quot;<sp/>End<sp/>of<sp/>paragraph.\n\n\t&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;TxtSaveOptions.ParagraphBreak.txt&quot;</highlight><highlight class="normal">,<sp/>txtSaveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>docText<sp/>=<sp/><ref refid="class/system.i_o.file/_1a44b456da9461cd60c432ed0efac1e6d8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::ReadAllText</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;TxtSaveOptions.ParagraphBreak.txt&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>1.<sp/>End<sp/>of<sp/>paragraph.\n\n\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>2.<sp/>End<sp/>of<sp/>paragraph.\n\n\t&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>3.<sp/>End<sp/>of<sp/>paragraph.\n\n\t&quot;</highlight><highlight class="normal">,<sp/>docText);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="4">
+        <label>Aspose::Words::Saving::MarkdownSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Saving::SaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_save_options"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>Aspose::Words::Saving::TxtSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Saving::TxtSaveOptionsBase</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Saving::SaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_save_options"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Saving::TxtSaveOptionsBase</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h" line="59" column="1" bodyfile="Aspose.Words.Cpp/Saving/TxtSaveOptionsBase.h" bodystart="60" bodyend="256"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a1a09edf1553141663636cd04d81ed762" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a5f8b7264160980e775d0ebc2bb87ec6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>CreateSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a92aa5f878a1d0f3e06f620fd1376142f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>CreateSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9fecca2156a70f1834bd1c913a129d47" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>get_AllowEmbeddingPostScriptFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab9a4c7be9e7070ecbd5248bf01535ef3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>get_CustomTimeZoneInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a327b0f9146d84c39d72f09dffb55970d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>get_DefaultTemplate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ac309d37b349e0fd18de204c4b3493113" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>get_Dml3DEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0ad6a41669029f8bcb5d56ccd8eb1f25" prot="public" virt="virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>get_DmlEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a40d3faab0e88622c6fac579bbc050772" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>get_DmlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1af7e3fa8fd0c504d8e57b1138d342f63a" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>get_Encoding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1add57516835dfbc84b4ac55117e03a6a5" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>get_ExportGeneratorName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1af6eaf9602101f63dd03c454802de51e9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>get_ExportHeadersFootersMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab3a4c36623e1cba81e21fb0c18fc27d6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>get_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a706d4795c4fe5c5309896edd708ef43f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>get_ForcePageBreaks</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a4032bbd708177dd64e3ba455a509e470" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>get_ImlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a00434e0916cf24f88a1cff9f4952bff3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>get_MemoryOptimization</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a39db9107bb8d8ae9411a2d7ae4eb4a42" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>get_ParagraphBreak</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1af3590697cf94e5b1f546536a3bb20089" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>get_PrettyFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aabbd691992af320129ecf001454428b1" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>get_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6df9e8d37cc7794640ea5c5932134253" prot="public" virt="pure-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>get_SaveFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2eb22d168e7885c69f1a5ee73dfa9a9c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>get_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aafd986a59939576b688baf70ae2982b9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>get_UpdateCreatedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9058403d0bf8ef363c7265927c7d9689" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>get_UpdateFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ae00124e73b7ed35821a822f59a98456d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>get_UpdateLastPrintedProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aa37a14113e46f96d6a4100f33dbb41cd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>get_UpdateLastSavedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6ba4c67d7befc1d3959119554bc6ca0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>get_UpdateSdtContent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ac07a919eda7dd3104c3539643caab82f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>get_UseAntiAliasing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a926127b8a13db96c893d2e327d1ac458" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>get_UseHighQualityRendering</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1ac263b30bc6f91240bc4dc61ad4ed6638" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a8880c86d644181c0f54eb914134536af" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a45a470345181bd2025ad06cfa1c9cf52" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a412602b5ca5fda4371d124e5f12f65d2" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a91320e8c32a8d924de9242604bb7c279" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9bf0591a869b2046558fac161fb5c8b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>set_AllowEmbeddingPostScriptFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a70292d5b6ed5dd4ed81ab6779ada5037" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>set_CustomTimeZoneInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6d50c71651e23523dd4edae9c8e03b0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>set_DefaultTemplate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a52f28c6f920bd4829f304f586dd52a4e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>set_Dml3DEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0415bb8f17f114f5b8bfbf77822f3e33" prot="public" virt="virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>set_DmlEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a925282153c1c7004637ce406968cd6bd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>set_DmlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a6eeb5be528b7619af7172e1865b9e555" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>set_Encoding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2b3bada9094a54559b832d5051f5be6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>set_ExportGeneratorName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1aadf390c79976fe3352222afe4f4a8ad8" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>set_ExportHeadersFootersMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f2f79ea57714961156f913867823fc2" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>set_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a5e8745fd6e2b51b3b46d56fd4f923ac5" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>set_ForcePageBreaks</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afe2fd3cb5119a04f528a9da4b6c643b6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>set_ImlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1b432af0d799842b6939005904d924b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>set_MemoryOptimization</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1ae79773f93624624196edcf3fd68e861d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>set_ParagraphBreak</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0333c9e934c7b7066c108975a65291c9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>set_PrettyFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3ca5c36f7f1922b1f7b1f6e8528e29c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>set_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a75d9ec81ad960179eba172764d2c60b9" prot="public" virt="pure-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>set_SaveFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a7488c6e1d35b21dda1fb3a6b24eb077c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>set_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aa6b3c59d2b5d93ecd4af333e7731a57a" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>set_UpdateCreatedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1ca0e9e7685d9cfdacad9b0c1c47fede" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>set_UpdateFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9253b0a7481cec6751f2d6e186d15f89" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>set_UpdateLastPrintedProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f8626f9e2fdd5ea38f656ecffea4433" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>set_UpdateLastSavedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afc31fd439351d75447554d3196522687" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>set_UpdateSdtContent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aee6a47d5aa51895c89fb99333990b15c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>set_UseAntiAliasing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aadd8de8195c06388cf619673c020dad3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>set_UseHighQualityRendering</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1ad5528293a7c042ee1b82b87dd3485439" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a46604b38f6af350a34e3484017564aa8" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a30328e9bc5cbcd8f53958c603d664e7d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::TxtSaveOptionsBase</scope><name>TxtSaveOptionsBase</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

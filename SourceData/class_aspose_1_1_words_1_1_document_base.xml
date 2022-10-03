@@ -1,0 +1,1610 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_document_base" kind="class" language="C++" prot="public" abstract="yes">
+    <compoundname>Aspose::Words::DocumentBase</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_composite_node" prot="public" virt="non-virtual">Aspose::Words::CompositeNode</basecompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_building_blocks_1_1_glossary_document" prot="public" virt="non-virtual">Aspose::Words::BuildingBlocks::GlossaryDocument</derivedcompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_document" prot="public" virt="non-virtual">Aspose::Words::Document</derivedcompoundref>
+    <includes refid="_document_base_8h" local="no">Aspose.Words.Cpp/DocumentBase.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_document_base_1a3c9ce1e560455dff54da2f51ebb1418d" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_composite_node" kindref="compound">Aspose::Words::CompositeNode</ref></type>
+        <definition>typedef Aspose::Words::CompositeNode Aspose::Words::DocumentBase::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::DocumentBase::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="110" column="42" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="110" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_document_base_1afe68c54b370f1b6b172b41a0b9d3169c" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">DocumentBase</ref></type>
+        <definition>typedef DocumentBase Aspose::Words::DocumentBase::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::DocumentBase::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="109" column="26" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="109" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_document_base_1a3a7e184d2a0aca336483d8fc5a658116" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_composite_node" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::DocumentBase::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::DocumentBase::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="112" column="37" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="112" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_document_base_1a3433c316a6e4e33558820aafa4987521" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::DocumentBase::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::DocumentBase::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="759" column="23" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="759" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_document_base_1a32bad275e4f4a4fd5e955f3ba7c5ac02" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::DocumentBase::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::DocumentBase::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="778" column="23" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="778" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_document_base_1acc18a188fa88e2c7375fc44368f0169e" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::DocumentBase::mField10</definition>
+        <argsstring></argsstring>
+        <name>mField10</name>
+        <qualifiedname>Aspose::Words::DocumentBase::mField10</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="787" column="23" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="787" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_document_base_1a5ba76e7d99e6f69b50835110471f1a14" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::DocumentBase::mField11</definition>
+        <argsstring></argsstring>
+        <name>mField11</name>
+        <qualifiedname>Aspose::Words::DocumentBase::mField11</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="788" column="23" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="788" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_document_base_1a8e0392aee9f3973e5140358b8a573bb8" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::DocumentBase::mField12</definition>
+        <argsstring></argsstring>
+        <name>mField12</name>
+        <qualifiedname>Aspose::Words::DocumentBase::mField12</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="789" column="23" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="789" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_document_base_1a30547c45476244591874862ea66cd4d7" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::DocumentBase::mField13</definition>
+        <argsstring></argsstring>
+        <name>mField13</name>
+        <qualifiedname>Aspose::Words::DocumentBase::mField13</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="790" column="23" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="790" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_document_base_1ab7844bca51468e169f22bed71db20e69" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::DocumentBase::mField14</definition>
+        <argsstring></argsstring>
+        <name>mField14</name>
+        <qualifiedname>Aspose::Words::DocumentBase::mField14</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="791" column="23" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="791" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_document_base_1a32cc42f880429468f4245570b314991a" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::DocumentBase::mField15</definition>
+        <argsstring></argsstring>
+        <name>mField15</name>
+        <qualifiedname>Aspose::Words::DocumentBase::mField15</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="792" column="23" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="792" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_document_base_1a71ca116468670ddba2d80c4c4b0c262f" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::DocumentBase::mField16</definition>
+        <argsstring></argsstring>
+        <name>mField16</name>
+        <qualifiedname>Aspose::Words::DocumentBase::mField16</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="793" column="23" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="793" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_document_base_1a159717909f3f7bb344d0b27dd596f7dd" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::DocumentBase::mField17</definition>
+        <argsstring></argsstring>
+        <name>mField17</name>
+        <qualifiedname>Aspose::Words::DocumentBase::mField17</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="794" column="23" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="794" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_document_base_1a9445116e2ef5f635692b5c4b58d06675" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::DocumentBase::mField18</definition>
+        <argsstring></argsstring>
+        <name>mField18</name>
+        <qualifiedname>Aspose::Words::DocumentBase::mField18</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="795" column="23" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="795" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_document_base_1aa31c92dfa1ed52b6760cebbc071f5297" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::DocumentBase::mField19</definition>
+        <argsstring></argsstring>
+        <name>mField19</name>
+        <qualifiedname>Aspose::Words::DocumentBase::mField19</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="796" column="23" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="796" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_document_base_1a377a478e73954594d4c4ed0571b7fece" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::DocumentBase::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::DocumentBase::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="779" column="23" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="779" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_document_base_1ae5c717dda6131509e3f1d40ac51d9f0a" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::DocumentBase::mField20</definition>
+        <argsstring></argsstring>
+        <name>mField20</name>
+        <qualifiedname>Aspose::Words::DocumentBase::mField20</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="797" column="23" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="797" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_document_base_1a77aaea6a8b97e4408075bab3ecb0c95d" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::DocumentBase::mField21</definition>
+        <argsstring></argsstring>
+        <name>mField21</name>
+        <qualifiedname>Aspose::Words::DocumentBase::mField21</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="798" column="23" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="798" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_document_base_1aa6066b93959eb7a9a2e271bf84dcdec0" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::DocumentBase::mField22</definition>
+        <argsstring></argsstring>
+        <name>mField22</name>
+        <qualifiedname>Aspose::Words::DocumentBase::mField22</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="799" column="23" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="799" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_document_base_1a8ae78f5b80e18e961037f5dcd425de94" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::DocumentBase::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::DocumentBase::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="780" column="23" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="780" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_document_base_1a679680f560c4544551cba224befcaa5d" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::DocumentBase::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::DocumentBase::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="781" column="23" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="781" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_document_base_1ab3c82e9ee7b24be9ba769336b3c2312a" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::DocumentBase::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::DocumentBase::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="782" column="23" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="782" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_document_base_1a062d85ec2fde3af6230cf1ea7d4ce6e1" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::DocumentBase::mField6</definition>
+        <argsstring></argsstring>
+        <name>mField6</name>
+        <qualifiedname>Aspose::Words::DocumentBase::mField6</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="783" column="23" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="783" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_document_base_1a5ae7458f5d0584ac1e418af898c91dda" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::DocumentBase::mField7</definition>
+        <argsstring></argsstring>
+        <name>mField7</name>
+        <qualifiedname>Aspose::Words::DocumentBase::mField7</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="784" column="23" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="784" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_document_base_1abe281df9ccb560c994868fbc68bcae49" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::DocumentBase::mField8</definition>
+        <argsstring></argsstring>
+        <name>mField8</name>
+        <qualifiedname>Aspose::Words::DocumentBase::mField8</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="785" column="23" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="785" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_document_base_1a1a424eb076d23d85111e79345f3a8a39" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::DocumentBase::mField9</definition>
+        <argsstring></argsstring>
+        <name>mField9</name>
+        <qualifiedname>Aspose::Words::DocumentBase::mField9</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="786" column="23" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="786" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1a3d04cee84a47bc1f8236f6bccd52958d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::DocumentBase::DocumentBase</definition>
+        <argsstring>()</argsstring>
+        <name>DocumentBase</name>
+        <qualifiedname>Aspose::Words::DocumentBase::DocumentBase</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="761" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1aed908b254b259871d9826641f40e6f05" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::DocumentBase::~DocumentBase</definition>
+        <argsstring>()</argsstring>
+        <name>~DocumentBase</name>
+        <qualifiedname>Aspose::Words::DocumentBase::~DocumentBase</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="774" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1ae1bb24315d5720565205a15d22cea3c9" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Node &gt; Aspose::Words::DocumentBase::Clone</definition>
+        <argsstring>(bool, System::SharedPtr&lt; Aspose::Words::INodeCloningListener &gt;) override</argsstring>
+        <name>Clone</name>
+        <qualifiedname>Aspose::Words::DocumentBase::Clone</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_composite_node_1ae90ecec13614a52c3ab6fe645fb88807">Clone</reimplements>
+        <param>
+          <type>bool</type>
+        </param>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::INodeCloningListener &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="763" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1aea991dcfd1d3808dde6913c0fffd7d6c" prot="private" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fonts::DocumentFontProvider &gt;</type>
+        <definition>virtual System::SharedPtr&lt; Aspose::Words::Fonts::DocumentFontProvider &gt; Aspose::Words::DocumentBase::get_FontProvider</definition>
+        <argsstring>()=0</argsstring>
+        <name>get_FontProvider</name>
+        <qualifiedname>Aspose::Words::DocumentBase::get_FontProvider</qualifiedname>
+        <reimplementedby refid="class_aspose_1_1_words_1_1_building_blocks_1_1_glossary_document_1a525faacca85f4837ff2d5ddf37899a58">get_FontProvider</reimplementedby>
+        <reimplementedby refid="class_aspose_1_1_words_1_1_document_1a4dca8f888715dcee7900b5a7b824633f">get_FontProvider</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="757" column="31"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1a97d0752e279529953a333f908cc79dd5" prot="private" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
+        <type>bool</type>
+        <definition>virtual bool Aspose::Words::DocumentBase::get_IsMoveRevisionsTracked</definition>
+        <argsstring>()=0</argsstring>
+        <name>get_IsMoveRevisionsTracked</name>
+        <qualifiedname>Aspose::Words::DocumentBase::get_IsMoveRevisionsTracked</qualifiedname>
+        <reimplementedby refid="class_aspose_1_1_words_1_1_building_blocks_1_1_glossary_document_1a0cfb85382ff1159e0475f8dafe3d2bbd">get_IsMoveRevisionsTracked</reimplementedby>
+        <reimplementedby refid="class_aspose_1_1_words_1_1_document_1a1248f8762f5a08362e859ee14f288b2f">get_IsMoveRevisionsTracked</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="755" column="18"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1a72429906d2d29bc89a9684699e750cdc" prot="private" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
+        <type>bool</type>
+        <definition>virtual bool Aspose::Words::DocumentBase::get_IsTrackRevisionsEnabled</definition>
+        <argsstring>()=0</argsstring>
+        <name>get_IsTrackRevisionsEnabled</name>
+        <qualifiedname>Aspose::Words::DocumentBase::get_IsTrackRevisionsEnabled</qualifiedname>
+        <reimplementedby refid="class_aspose_1_1_words_1_1_building_blocks_1_1_glossary_document_1ad0788fd625ccaaab501962e47b06f6b1">get_IsTrackRevisionsEnabled</reimplementedby>
+        <reimplementedby refid="class_aspose_1_1_words_1_1_document_1ae2d0929768372defce5408c9b7f232a2">get_IsTrackRevisionsEnabled</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="754" column="18"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1a8a97abb4820f6737a1fae49543b3f562" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>int32_t</type>
+        <definition>virtual int32_t Aspose::Words::DocumentBase::GetNextShapeId</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::Drawing::ShapeBase &gt;)</argsstring>
+        <name>GetNextShapeId</name>
+        <qualifiedname>Aspose::Words::DocumentBase::GetNextShapeId</qualifiedname>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base" kindref="compound">Aspose::Words::Drawing::ShapeBase</ref> &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="768" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1a29cd0ee186cba39972515cb4d1c3d32e" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>int32_t</type>
+        <definition>virtual int32_t Aspose::Words::DocumentBase::MapShapeToRange</definition>
+        <argsstring>(int32_t, int32_t)</argsstring>
+        <name>MapShapeToRange</name>
+        <qualifiedname>Aspose::Words::DocumentBase::MapShapeToRange</qualifiedname>
+        <param>
+          <type>int32_t</type>
+        </param>
+        <param>
+          <type>int32_t</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="770" column="24"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1a6d368bcb7f009be8d4469fc282191ca1" prot="private" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
+        <type>void</type>
+        <definition>virtual void Aspose::Words::DocumentBase::ResumeTrackRevisions</definition>
+        <argsstring>(Aspose::Words::SuspendedRevisionTypes)=0</argsstring>
+        <name>ResumeTrackRevisions</name>
+        <qualifiedname>Aspose::Words::DocumentBase::ResumeTrackRevisions</qualifiedname>
+        <reimplementedby refid="class_aspose_1_1_words_1_1_building_blocks_1_1_glossary_document_1a114397543f1c77b050b3b7a7e9558be9">ResumeTrackRevisions</reimplementedby>
+        <reimplementedby refid="class_aspose_1_1_words_1_1_document_1a5100f5cbede8a2ce1cecb444ee78699b">ResumeTrackRevisions</reimplementedby>
+        <param>
+          <type>Aspose::Words::SuspendedRevisionTypes</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="766" column="18"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1afd4137e5ec6f6ae416a0eded37a0eb7f" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::DocumentBase::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::DocumentBase::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="113" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1a0d324f09e783785285676c0fd9a2f0a4" prot="private" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
+        <type>void</type>
+        <definition>virtual void Aspose::Words::DocumentBase::SuspendTrackRevisions</definition>
+        <argsstring>(Aspose::Words::SuspendedRevisionTypes)=0</argsstring>
+        <name>SuspendTrackRevisions</name>
+        <qualifiedname>Aspose::Words::DocumentBase::SuspendTrackRevisions</qualifiedname>
+        <reimplementedby refid="class_aspose_1_1_words_1_1_building_blocks_1_1_glossary_document_1ac446d090a0a14deac9e85b6aa240563b">SuspendTrackRevisions</reimplementedby>
+        <reimplementedby refid="class_aspose_1_1_words_1_1_document_1a650b299ce55575764d81a15be16392d0">SuspendTrackRevisions</reimplementedby>
+        <param>
+          <type>Aspose::Words::SuspendedRevisionTypes</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="765" column="18"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1a0c7a428de73691d226c5b9a139165a88" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape" kindref="compound">Aspose::Words::Drawing::Shape</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::Shape &gt; Aspose::Words::DocumentBase::get_BackgroundShape</definition>
+        <argsstring>() const</argsstring>
+        <name>get_BackgroundShape</name>
+        <qualifiedname>Aspose::Words::DocumentBase::get_BackgroundShape</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the background shape of the document. Can be null. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Microsoft Word allows only a shape that has its <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a5eeaf9498ba9e55eadb2c610ee5bc017" kindref="member">ShapeType</ref> property equal to <ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccace9291906a4c3b042650b70d7f3b152e" kindref="member">Rectangle</ref> to be used as a background shape for a document.</para>
+<para>Microsoft Word supports only the fill properties of a background shape. All other properties are ignored.</para>
+<para>Setting this property to a non-null value will also set the <ref refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1ad53f9c8d196c4b8f1ee1e7b4da1e2b69" kindref="member">DisplayBackgroundShape</ref> to true.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1ad53f9c8d196c4b8f1ee1e7b4da1e2b69" kindref="member">Aspose::Words::Settings::ViewOptions::get_DisplayBackgroundShape</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_document_base_1afcc74ff9466bb2b12d14203046f2f469" kindref="member">Aspose::Words::DocumentBase::get_PageColor</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set a background shape for every page of a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_BackgroundShape()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>only<sp/>shape<sp/>type<sp/>that<sp/>we<sp/>can<sp/>use<sp/>as<sp/>a<sp/>background<sp/>is<sp/>a<sp/>rectangle.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>shapeRectangle<sp/>=<sp/>MakeObject&lt;Shape&gt;(doc,<sp/>ShapeType::Rectangle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>using<sp/>this<sp/>shape<sp/>as<sp/>a<sp/>page<sp/>background.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>A<sp/>flat<sp/>color:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">shapeRectangle-&gt;set_FillColor(<ref refid="class/system.drawing.color/_1a989243916cf2bfbe0fc140d29ec2ea2e" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightBlue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_BackgroundShape(shapeRectangle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBase.BackgroundShape.FlatColor.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>An<sp/>image:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">shapeRectangle<sp/>=<sp/>MakeObject&lt;Shape&gt;(doc,<sp/>ShapeType::Rectangle);</highlight></codeline>
+<codeline><highlight class="normal">shapeRectangle-&gt;get_ImageData()-&gt;SetImage(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Transparent<sp/>background<sp/>logo.png&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Adjust<sp/>the<sp/>image&apos;s<sp/>appearance<sp/>to<sp/>make<sp/>it<sp/>more<sp/>suitable<sp/>as<sp/>a<sp/>watermark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">shapeRectangle-&gt;get_ImageData()-&gt;set_Contrast(0.2);</highlight></codeline>
+<codeline><highlight class="normal">shapeRectangle-&gt;get_ImageData()-&gt;set_Brightness(0.7);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_BackgroundShape(shapeRectangle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_BackgroundShape()-&gt;get_HasImage());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>does<sp/>not<sp/>support<sp/>shapes<sp/>with<sp/>images<sp/>as<sp/>backgrounds,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>but<sp/>we<sp/>can<sp/>still<sp/>see<sp/>these<sp/>backgrounds<sp/>in<sp/>other<sp/>save<sp/>formats<sp/>such<sp/>as<sp/>.pdf.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBase.BackgroundShape.Image.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="609" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1a441771321c6cf18cfa933980eed032c5" prot="public" static="no" const="yes" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">Aspose::Words::DocumentBase</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::DocumentBase &gt; Aspose::Words::DocumentBase::get_Document</definition>
+        <argsstring>() const override</argsstring>
+        <name>get_Document</name>
+        <qualifiedname>Aspose::Words::DocumentBase::get_Document</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_node_1a2a69f84e3ccd323199299c999ab32d46">get_Document</reimplements>
+        <briefdescription>
+<para>Gets the document to which this node belongs. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The node always belongs to a document even if it has just been created and not yet added to the tree, or if it has been removed from the tree.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create a node and set its owning document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>para<sp/>=<sp/>MakeObject&lt;Paragraph&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">para-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>have<sp/>not<sp/>yet<sp/>appended<sp/>this<sp/>paragraph<sp/>as<sp/>a<sp/>child<sp/>to<sp/>any<sp/>composite<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(para-&gt;get_ParentNode()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>a<sp/>node<sp/>is<sp/>an<sp/>appropriate<sp/>child<sp/>node<sp/>type<sp/>of<sp/>another<sp/>composite<sp/>node,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>we<sp/>can<sp/>attach<sp/>it<sp/>as<sp/>a<sp/>child<sp/>only<sp/>if<sp/>both<sp/>nodes<sp/>have<sp/>the<sp/>same<sp/>owner<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>owner<sp/>document<sp/>is<sp/>the<sp/>document<sp/>we<sp/>passed<sp/>to<sp/>the<sp/>node&apos;s<sp/>constructor.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>have<sp/>not<sp/>attached<sp/>this<sp/>paragraph<sp/>to<sp/>the<sp/>document,<sp/>so<sp/>the<sp/>document<sp/>does<sp/>not<sp/>contain<sp/>its<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(para-&gt;get_Document(),<sp/>doc);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(String::Empty,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Since<sp/>the<sp/>document<sp/>owns<sp/>this<sp/>paragraph,<sp/>we<sp/>can<sp/>apply<sp/>one<sp/>of<sp/>its<sp/>styles<sp/>to<sp/>the<sp/>paragraph&apos;s<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">para-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>this<sp/>node<sp/>to<sp/>the<sp/>document,<sp/>and<sp/>then<sp/>verify<sp/>its<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;AppendChild(para);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(doc-&gt;get_FirstSection()-&gt;get_Body(),<sp/>para-&gt;get_ParentNode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="120" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1a68377fd35d6e3d7463bb9fc79423e382" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection" kindref="compound">Aspose::Words::Fonts::FontInfoCollection</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fonts::FontInfoCollection &gt; Aspose::Words::DocumentBase::get_FontInfos</definition>
+        <argsstring>() const</argsstring>
+        <name>get_FontInfos</name>
+        <qualifiedname>Aspose::Words::DocumentBase::get_FontInfos</qualifiedname>
+        <briefdescription>
+<para>Provides access to properties of fonts used in this document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This collection of font definitions is loaded as is from the document. <ref refid="class_aspose_1_1_words_1_1_font" kindref="compound">Font</ref> definitions might be optional, missing or incomplete in some documents.</para>
+<para>Do not rely on this collection to ascertain that a particular font is used in the document. You should only use this collection to get information about fonts that might be used in the document.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection" kindref="compound">Aspose::Words::Fonts::FontInfoCollection</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info" kindref="compound">Aspose::Words::Fonts::FontInfo</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to print the details of what fonts are present in a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Embedded<sp/>font.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Aspose::Words::Fonts::FontInfoCollection&gt;<sp/>allFonts<sp/>=<sp/>doc-&gt;get_FontInfos();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Print<sp/>all<sp/>the<sp/>used<sp/>and<sp/>unused<sp/>fonts<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>allFonts-&gt;get_Count();<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Font<sp/>index<sp/>#&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>i<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tName:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>allFonts-&gt;idx_get(i)-&gt;get_Name()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tIs<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>(allFonts-&gt;idx_get(i)-&gt;get_IsTrueType()<sp/>?<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">)<sp/>:<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;not<sp/>&quot;</highlight><highlight class="normal">))<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;a<sp/>trueType<sp/>font&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting></para>
+<para>Shows how to save a document with embedded TrueType fonts. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Aspose::Words::Fonts::FontInfoCollection&gt;<sp/>fontInfos<sp/>=<sp/>doc-&gt;get_FontInfos();</highlight></codeline>
+<codeline><highlight class="normal">fontInfos-&gt;set_EmbedTrueTypeFonts(embedAllFonts);</highlight></codeline>
+<codeline><highlight class="normal">fontInfos-&gt;set_EmbedSystemFonts(embedAllFonts);</highlight></codeline>
+<codeline><highlight class="normal">fontInfos-&gt;set_SaveSubsetFonts(embedAllFonts);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font.FontInfoCollection.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(embedAllFonts)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_LT(25000,<sp/>MakeObject&lt;System::IO::FileInfo&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font.FontInfoCollection.docx&quot;</highlight><highlight class="normal">)-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_GE(15000,<sp/>MakeObject&lt;System::IO::FileInfo&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font.FontInfoCollection.docx&quot;</highlight><highlight class="normal">)-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="321" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1af534377636a3e0931e27cb1c8582f341" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_collection" kindref="compound">Aspose::Words::Lists::ListCollection</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Lists::ListCollection &gt; Aspose::Words::DocumentBase::get_Lists</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Lists</name>
+        <qualifiedname>Aspose::Words::DocumentBase::get_Lists</qualifiedname>
+        <briefdescription>
+<para>Provides access to the list formatting used in the document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>For more information see the description of the <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_collection" kindref="compound">ListCollection</ref> class.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_collection" kindref="compound">Aspose::Words::Lists::ListCollection</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_lists_1_1_list" kindref="compound">Aspose::Words::Lists::List</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_format" kindref="compound">Aspose::Words::Lists::ListFormat</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with list levels. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(builder-&gt;get_ListFormat()-&gt;get_IsListItem());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>list<sp/>allows<sp/>us<sp/>to<sp/>organize<sp/>and<sp/>decorate<sp/>sets<sp/>of<sp/>paragraphs<sp/>with<sp/>prefix<sp/>symbols<sp/>and<sp/>indents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>create<sp/>nested<sp/>lists<sp/>by<sp/>increasing<sp/>the<sp/>indent<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>begin<sp/>and<sp/>end<sp/>a<sp/>list<sp/>by<sp/>using<sp/>a<sp/>document<sp/>builder&apos;s<sp/>&quot;ListFormat&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>paragraph<sp/>that<sp/>we<sp/>add<sp/>between<sp/>a<sp/>list&apos;s<sp/>start<sp/>and<sp/>the<sp/>end<sp/>will<sp/>become<sp/>an<sp/>item<sp/>in<sp/>the<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>types<sp/>of<sp/>lists<sp/>that<sp/>we<sp/>can<sp/>create<sp/>using<sp/>a<sp/>document<sp/>builder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>A<sp/>numbered<sp/>list:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Numbered<sp/>lists<sp/>create<sp/>a<sp/>logical<sp/>order<sp/>for<sp/>their<sp/>paragraphs<sp/>by<sp/>numbering<sp/>each<sp/>item.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(doc-&gt;get_Lists()-&gt;Add(ListTemplate::NumberDefault));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(builder-&gt;get_ListFormat()-&gt;get_IsListItem());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>By<sp/>setting<sp/>the<sp/>&quot;ListLevelNumber&quot;<sp/>property,<sp/>we<sp/>can<sp/>increase<sp/>the<sp/>list<sp/>level</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>begin<sp/>a<sp/>self-contained<sp/>sub-list<sp/>at<sp/>the<sp/>current<sp/>list<sp/>item.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>Microsoft<sp/>Word<sp/>list<sp/>template<sp/>called<sp/>&quot;NumberDefault&quot;<sp/>uses<sp/>numbers<sp/>to<sp/>create<sp/>list<sp/>levels<sp/>for<sp/>the<sp/>first<sp/>list<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Deeper<sp/>list<sp/>levels<sp/>use<sp/>letters<sp/>and<sp/>lowercase<sp/>Roman<sp/>numerals.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>9;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_ListFormat()-&gt;set_ListLevelNumber(i);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Level<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>i);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>A<sp/>bulleted<sp/>list:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>list<sp/>will<sp/>apply<sp/>an<sp/>indent<sp/>and<sp/>a<sp/>bullet<sp/>symbol<sp/>(&quot;•&quot;)<sp/>before<sp/>each<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Deeper<sp/>levels<sp/>of<sp/>this<sp/>list<sp/>will<sp/>use<sp/>different<sp/>symbols,<sp/>such<sp/>as<sp/>&quot;■&quot;<sp/>and<sp/>&quot;○&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(doc-&gt;get_Lists()-&gt;Add(ListTemplate::BulletDefault));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>9;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_ListFormat()-&gt;set_ListLevelNumber(i);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Level<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>i);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>disable<sp/>list<sp/>formatting<sp/>to<sp/>not<sp/>format<sp/>any<sp/>subsequent<sp/>paragraphs<sp/>as<sp/>lists<sp/>by<sp/>un-setting<sp/>the<sp/>&quot;List&quot;<sp/>flag.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(</highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(builder-&gt;get_ListFormat()-&gt;get_IsListItem());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Lists.SpecifyListLevel.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="437" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1a404420853b8f2d57a82c9d224d901680" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_i_node_changing_callback" kindref="compound">Aspose::Words::INodeChangingCallback</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::INodeChangingCallback &gt; Aspose::Words::DocumentBase::get_NodeChangingCallback</definition>
+        <argsstring>()</argsstring>
+        <name>get_NodeChangingCallback</name>
+        <qualifiedname>Aspose::Words::DocumentBase::get_NodeChangingCallback</qualifiedname>
+        <briefdescription>
+<para>Called when a node is inserted or removed in the document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how customize node changing with a callback. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FontChangeViaCallback()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>node<sp/>changing<sp/>callback<sp/>to<sp/>custom<sp/>implementation,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>then<sp/>add/remove<sp/>nodes<sp/>to<sp/>get<sp/>it<sp/>to<sp/>generate<sp/>a<sp/>log.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>callback<sp/>=<sp/>MakeObject&lt;ExDocument::HandleNodeChangingFontChanger&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;set_NodeChangingCallback(callback);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>again!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>HYPERLINK<sp/>\&quot;https://www.google.com/\&quot;<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertShape(ShapeType::Rectangle,<sp/>300,<sp/>300);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_Range()-&gt;get_Fields()-&gt;idx_get(0)-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>callback-&gt;GetLog()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">HandleNodeChangingFontChanger<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>INodeChangingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>GetLog()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mLog-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>HandleNodeChangingFontChanger()<sp/>:<sp/>mLog(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mLog;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>NodeInserted(SharedPtr&lt;NodeChangingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tType:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Node()-&gt;get_NodeType()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tHash:\t{0}&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(args-&gt;get_Node())));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(args-&gt;get_Node()-&gt;get_NodeType()<sp/>==<sp/>NodeType::Run)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;Aspose::Words::Font&gt;<sp/>font<sp/>=<sp/>(System::DynamicCast&lt;Run&gt;(args-&gt;get_Node()))-&gt;get_Font();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;Append(String::Format(u</highlight><highlight class="stringliteral">&quot;\tFont:\tChanged<sp/>from<sp/>\&quot;{0}\&quot;<sp/>{1}pt&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_Name(),<sp/>font-&gt;get_Size()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>font-&gt;set_Size(24);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>font-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;<sp/>to<sp/>\&quot;{0}\&quot;<sp/>{1}pt&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_Name(),<sp/>font-&gt;get_Size()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tContents:\n\t\t\&quot;{0}\&quot;&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Node()-&gt;GetText()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>NodeInserting(SharedPtr&lt;NodeChangingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\n{0:dd/MM/yyyy<sp/>HH:mm:ss:fff}\tNode<sp/>insertion:&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>NodeRemoved(SharedPtr&lt;NodeChangingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tType:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Node()-&gt;get_NodeType()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\tHash<sp/>code:\t{0}&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a911fa57b654ba73ed1f1fd24389ea94b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetHashCode</ref>(args-&gt;get_Node())));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>NodeRemoving(SharedPtr&lt;NodeChangingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mLog-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;\n{0:dd/MM/yyyy<sp/>HH:mm:ss:fff}\tNode<sp/>removal:&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="202" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1afcc74ff9466bb2b12d14203046f2f469" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+        <definition>System::Drawing::Color Aspose::Words::DocumentBase::get_PageColor</definition>
+        <argsstring>()</argsstring>
+        <name>get_PageColor</name>
+        <qualifiedname>Aspose::Words::DocumentBase::get_PageColor</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the page color of the document. This property is a simpler version of <ref refid="class_aspose_1_1_words_1_1_document_base_1a0c7a428de73691d226c5b9a139165a88" kindref="member">BackgroundShape</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This property provides a simple way to specify a solid page color for the document. Setting this property creates and sets an appropriate <ref refid="class_aspose_1_1_words_1_1_document_base_1a0c7a428de73691d226c5b9a139165a88" kindref="member">BackgroundShape</ref>.</para>
+<para>If the page color is not set (e.g. there is no background shape in the document) returns <ref refid="class/system.drawing.color/_1a41736737b8045f7ffbed1c8dc84182fe" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">Empty</ref>.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_document_base_1a0c7a428de73691d226c5b9a139165a88" kindref="member">Aspose::Words::DocumentBase::get_BackgroundShape</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set the background color for all pages of a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_PageColor(<ref refid="class/system.drawing.color/_1a77db5e3307f15da66f743080172caa68" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_LightGray</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBase.SetPageColor.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="636" column="31"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1a480297d6129fde4bd3654835f803256f" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_i_resource_loading_callback" kindref="compound">Aspose::Words::Loading::IResourceLoadingCallback</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Loading::IResourceLoadingCallback &gt; Aspose::Words::DocumentBase::get_ResourceLoadingCallback</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ResourceLoadingCallback</name>
+        <qualifiedname>Aspose::Words::DocumentBase::get_ResourceLoadingCallback</qualifiedname>
+        <briefdescription>
+<para>Allows to control how external resources are loaded. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to customize the process of loading external resources into a document. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceLoadingCallback()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;set_ResourceLoadingCallback(MakeObject&lt;ExDocumentBase::ImageNameHandler&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Images<sp/>usually<sp/>are<sp/>inserted<sp/>using<sp/>a<sp/>URI,<sp/>or<sp/>a<sp/>byte<sp/>array.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Every<sp/>instance<sp/>of<sp/>a<sp/>resource<sp/>load<sp/>will<sp/>call<sp/>our<sp/>callback&apos;s<sp/>ResourceLoading<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertImage(u</highlight><highlight class="stringliteral">&quot;Google<sp/>logo&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertImage(u</highlight><highlight class="stringliteral">&quot;Aspose<sp/>logo&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertImage(u</highlight><highlight class="stringliteral">&quot;Watermark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(3,<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBase.ResourceLoadingCallback.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">ImageNameHandler<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IResourceLoadingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_loading_1a0148f1f69fe70035e9a93fed1f2e612b" kindref="member" tooltip="Specifies the mode of resource loading.">ResourceLoadingAction</ref><sp/>ResourceLoading(SharedPtr&lt;ResourceLoadingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>this<sp/>callback<sp/>encounters<sp/>one<sp/>of<sp/>the<sp/>image<sp/>shorthands<sp/>while<sp/>loading<sp/>an<sp/>image,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>it<sp/>will<sp/>apply<sp/>unique<sp/>logic<sp/>for<sp/>each<sp/>defined<sp/>shorthand<sp/>instead<sp/>of<sp/>treating<sp/>it<sp/>as<sp/>a<sp/>URI.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(args-&gt;get_ResourceType()<sp/>==<sp/>ResourceType::Image)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>imageUri<sp/>=<sp/>args-&gt;get_OriginalUri();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(imageUri<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Google<sp/>logo&quot;</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>webClient<sp/>=<sp/>MakeObject&lt;System::Net::WebClient&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;SetData(webClient-&gt;DownloadData(u</highlight><highlight class="stringliteral">&quot;http://www.google.com/images/logos/ps_logo2.png&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>ResourceLoadingAction::UserProvided;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(imageUri<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Aspose<sp/>logo&quot;</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;SetData(<ref refid="class/system.i_o.file/_1abdf236ad2f3924d0fc9259f8f715a5c4" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::ReadAllBytes</ref>(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>ResourceLoadingAction::UserProvided;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(imageUri<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Watermark&quot;</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;SetData(<ref refid="class/system.i_o.file/_1abdf236ad2f3924d0fc9259f8f715a5c4" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::ReadAllBytes</ref>(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Transparent<sp/>background<sp/>logo.png&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>ResourceLoadingAction::UserProvided;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>ResourceLoadingAction::Default;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="268" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1a3bdb631c789b3d26f1626d08c09439ce" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_style_collection" kindref="compound">Aspose::Words::StyleCollection</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::StyleCollection &gt; Aspose::Words::DocumentBase::get_Styles</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Styles</name>
+        <qualifiedname>Aspose::Words::DocumentBase::get_Styles</qualifiedname>
+        <briefdescription>
+<para>Returns a collection of styles defined in the document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>For more information see the description of the <ref refid="class_aspose_1_1_words_1_1_style_collection" kindref="compound">StyleCollection</ref> class.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_style_collection" kindref="compound">Aspose::Words::StyleCollection</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Aspose::Words::Style</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access a document&apos;s style collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>doc-&gt;get_Styles()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>and<sp/>list<sp/>all<sp/>the<sp/>styles<sp/>that<sp/>a<sp/>document<sp/>created<sp/>using<sp/>Aspose.Words<sp/>contains<sp/>by<sp/>default.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;Style&gt;&gt;&gt;<sp/>stylesEnum<sp/>=<sp/>doc-&gt;get_Styles()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(stylesEnum-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;Style&gt;<sp/>curStyle<sp/>=<sp/>stylesEnum-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;Style<sp/>name:\t\&quot;{0}\&quot;,<sp/>of<sp/>type<sp/>\&quot;{1}\&quot;&quot;</highlight><highlight class="normal">,<sp/>curStyle-&gt;get_Name(),<sp/>curStyle-&gt;get_Type())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tSubsequent<sp/>style:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>curStyle-&gt;get_NextParagraphStyleName()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tIs<sp/>heading:\t\t\t{0}&quot;</highlight><highlight class="normal">,<sp/>curStyle-&gt;get_IsHeading())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tIs<sp/>QuickStyle:\t\t{0}&quot;</highlight><highlight class="normal">,<sp/>curStyle-&gt;get_IsQuickStyle())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(doc,<sp/>curStyle-&gt;get_Document());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting></para>
+<para>Shows how to create and use a paragraph style with list formatting. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>custom<sp/>paragraph<sp/>style.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>style<sp/>=<sp/>doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1bafeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="The style is a paragraph style.">StyleType::Paragraph</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyStyle1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_Size(24);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Verdana&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_ParagraphFormat()-&gt;set_SpaceAfter(12);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>list<sp/>and<sp/>make<sp/>sure<sp/>the<sp/>paragraphs<sp/>that<sp/>use<sp/>this<sp/>style<sp/>will<sp/>use<sp/>this<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_ListFormat()-&gt;set_List(doc-&gt;get_Lists()-&gt;Add(ListTemplate::BulletDefault));</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_ListFormat()-&gt;set_ListLevelNumber(0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>the<sp/>paragraph<sp/>style<sp/>to<sp/>the<sp/>document<sp/>builder&apos;s<sp/>current<sp/>paragraph,<sp/>and<sp/>then<sp/>add<sp/>some<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(style);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World:<sp/>MyStyle1,<sp/>bulleted<sp/>list.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Change<sp/>the<sp/>document<sp/>builder&apos;s<sp/>style<sp/>to<sp/>one<sp/>that<sp/>has<sp/>no<sp/>list<sp/>formatting<sp/>and<sp/>write<sp/>another<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Normal&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>World:<sp/>Normal.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Document()-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Styles.ParagraphStyleBulletedList.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="379" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1ad3d0e41dc067032ca0c0dcb098704927" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_i_warning_callback" kindref="compound">Aspose::Words::IWarningCallback</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::IWarningCallback &gt; Aspose::Words::DocumentBase::get_WarningCallback</definition>
+        <argsstring>() const</argsstring>
+        <name>get_WarningCallback</name>
+        <qualifiedname>Aspose::Words::DocumentBase::get_WarningCallback</qualifiedname>
+        <briefdescription>
+<para>Called during various document processing procedures when an issue is detected that might result in data or formatting fidelity loss. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use the <ref refid="class_aspose_1_1_words_1_1_i_warning_callback" kindref="compound">IWarningCallback</ref> interface to monitor font substitution warnings. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>SubstitutionWarning()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>callback<sp/>=<sp/>MakeObject&lt;ExFontSettings::FontSubstitutionWarningCollector&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;set_WarningCallback(callback);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Store<sp/>the<sp/>current<sp/>collection<sp/>of<sp/>font<sp/>sources,<sp/>which<sp/>will<sp/>be<sp/>the<sp/>default<sp/>font<sp/>source<sp/>for<sp/>every<sp/>document</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>for<sp/>which<sp/>we<sp/>do<sp/>not<sp/>specify<sp/>a<sp/>different<sp/>font<sp/>source.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ArrayPtr&lt;SharedPtr&lt;FontSourceBase&gt;&gt;<sp/>originalFontSources<sp/>=<sp/>FontSettings::get_DefaultInstance()-&gt;GetFontsSources();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>For<sp/>testing<sp/>purposes,<sp/>we<sp/>will<sp/>set<sp/>Aspose.Words<sp/>to<sp/>look<sp/>for<sp/>fonts<sp/>only<sp/>in<sp/>a<sp/>folder<sp/>that<sp/>does<sp/>not<sp/>exist.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>FontSettings::get_DefaultInstance()-&gt;SetFontsFolder(String::Empty,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>rendering<sp/>the<sp/>document,<sp/>there<sp/>will<sp/>be<sp/>no<sp/>place<sp/>to<sp/>find<sp/>the<sp/>&quot;Times<sp/>New<sp/>Roman&quot;<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>will<sp/>cause<sp/>a<sp/>font<sp/>substitution<sp/>warning,<sp/>which<sp/>our<sp/>callback<sp/>will<sp/>detect.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.SubstitutionWarning.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>FontSettings::get_DefaultInstance()-&gt;SetFontsSources(originalFontSources);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(callback-&gt;FontSubstitutionWarnings-&gt;idx_get(0)-&gt;get_WarningType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1a1c629c0b794b98e0d49bcaf2746f58d9ad7b637d53eb5dc1b3eaaf1fcb964a0cf" kindref="member" tooltip="Font has been substituted.">WarningType::FontSubstitution</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(callback-&gt;FontSubstitutionWarnings-&gt;idx_get(0)-&gt;get_Description(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;Font<sp/>&apos;Times<sp/>New<sp/>Roman&apos;<sp/>has<sp/>not<sp/>been<sp/>found.<sp/>Using<sp/>&apos;Fanwood&apos;<sp/>font<sp/>instead.<sp/>Reason:<sp/>first<sp/>available<sp/>font.&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">FontSubstitutionWarningCollector<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IWarningCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;WarningInfoCollection&gt;<sp/>FontSubstitutionWarnings;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>Warning(SharedPtr&lt;WarningInfo&gt;<sp/>info)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(info-&gt;get_WarningType()<sp/>==<sp/>WarningType::FontSubstitution)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>FontSubstitutionWarnings-&gt;Warning(info);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>FontSubstitutionWarningCollector()<sp/>:<sp/>FontSubstitutionWarnings(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;WarningInfoCollection&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting></para>
+<para>Shows how to set the property for finding the closest match for a missing font from the available font sources. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>EnableFontSubstitution()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>that<sp/>contains<sp/>text<sp/>formatted<sp/>with<sp/>a<sp/>font<sp/>that<sp/>does<sp/>not<sp/>exist<sp/>in<sp/>any<sp/>of<sp/>our<sp/>font<sp/>sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Missing<sp/>font.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Assign<sp/>a<sp/>callback<sp/>for<sp/>handling<sp/>font<sp/>substitution<sp/>warnings.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>substitutionWarningHandler<sp/>=<sp/>MakeObject&lt;ExFontSettings::HandleDocumentSubstitutionWarnings&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;set_WarningCallback(substitutionWarningHandler);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>default<sp/>font<sp/>name<sp/>and<sp/>enable<sp/>font<sp/>substitution.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fontSettings-&gt;get_SubstitutionSettings()-&gt;get_DefaultFontSubstitution()-&gt;set_DefaultFontName(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fontSettings-&gt;get_SubstitutionSettings()-&gt;get_FontInfoSubstitution()-&gt;set_Enabled(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>get<sp/>a<sp/>font<sp/>substitution<sp/>warning<sp/>if<sp/>we<sp/>save<sp/>a<sp/>document<sp/>with<sp/>a<sp/>missing<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.EnableFontSubstitution.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;WarningInfo&gt;&gt;&gt;<sp/>warnings<sp/>=<sp/>substitutionWarningHandler-&gt;FontWarnings-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(warnings-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>warnings-&gt;get_Current()-&gt;get_Description()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>verify<sp/>warnings<sp/>in<sp/>the<sp/>collection<sp/>and<sp/>clear<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1ae78cf72acefc2cbe63016b04f8f44e7caebd9bec4d70abc789d439c1f136b0538" kindref="member" tooltip="Module that builds a document layout.">WarningSource::Layout</ref>,<sp/>substitutionWarningHandler-&gt;FontWarnings-&gt;idx_get(0)-&gt;get_Source());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Font<sp/>&apos;28<sp/>Days<sp/>Later&apos;<sp/>has<sp/>not<sp/>been<sp/>found.<sp/>Using<sp/>&apos;Calibri&apos;<sp/>font<sp/>instead.<sp/>Reason:<sp/>alternative<sp/>name<sp/>from<sp/>document.&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>substitutionWarningHandler-&gt;FontWarnings-&gt;idx_get(0)-&gt;get_Description());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>substitutionWarningHandler-&gt;FontWarnings-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(0,<sp/>substitutionWarningHandler-&gt;FontWarnings-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">HandleDocumentSubstitutionWarnings<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IWarningCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;WarningInfoCollection&gt;<sp/>FontWarnings;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>Warning(SharedPtr&lt;WarningInfo&gt;<sp/>info)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(info-&gt;get_WarningType()<sp/>==<sp/>WarningType::FontSubstitution)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>FontWarnings-&gt;Warning(info);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>HandleDocumentSubstitutionWarnings()<sp/>:<sp/>FontWarnings(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;WarningInfoCollection&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="557" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1a42196707041d4b0c37ff1b827210c12c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Node &gt; Aspose::Words::DocumentBase::ImportNode</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Node &gt; &amp;srcNode, bool isImportChildren)</argsstring>
+        <name>ImportNode</name>
+        <qualifiedname>Aspose::Words::DocumentBase::ImportNode</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
+          <declname>srcNode</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>isImportChildren</declname>
+        </param>
+        <briefdescription>
+<para>Imports a node from another document to the current document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This method uses the <ref refid="namespace_aspose_1_1_words_1aafaa52cbf0baa49c3225787c23a8c949a844c076860bdab3f22de3694b97ed388" kindref="member">UseDestinationStyles</ref> option to resolve formatting.</para>
+<para>Importing a node creates a copy of the source node belonging to the importing document. The returned node has no parent. The source node is not altered or removed from the original document.</para>
+<para>Before a node from another document can be inserted into this document, it must be imported. During import, document-specific properties such as references to styles and lists are translated from the original to the importing document. After the node was imported, it can be inserted into the appropriate place in the document using <ref refid="" kindref="compound">InsertBefore()</ref> or <ref refid="" kindref="compound">InsertAfter()</ref>.</para>
+<para>If the source node already belongs to the destination document, then simply a deep clone of the source node is created.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>srcNode</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The node being imported. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>isImportChildren</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>True to import all child nodes recursively; otherwise, false.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The cloned node that belongs to the current document.</para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_node_importer" kindref="compound">Aspose::Words::NodeImporter</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to import a node from one document to another. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>srcDoc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>dstDoc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">srcDoc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;AppendChild(MakeObject&lt;Run&gt;(srcDoc,<sp/>u</highlight><highlight class="stringliteral">&quot;Source<sp/>document<sp/>first<sp/>paragraph<sp/>text.&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">dstDoc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;AppendChild(MakeObject&lt;Run&gt;(dstDoc,<sp/>u</highlight><highlight class="stringliteral">&quot;Destination<sp/>document<sp/>first<sp/>paragraph<sp/>text.&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Every<sp/>node<sp/>has<sp/>a<sp/>parent<sp/>document,<sp/>which<sp/>is<sp/>the<sp/>document<sp/>that<sp/>contains<sp/>the<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Inserting<sp/>a<sp/>node<sp/>into<sp/>a<sp/>document<sp/>that<sp/>the<sp/>node<sp/>does<sp/>not<sp/>belong<sp/>to<sp/>will<sp/>throw<sp/>an<sp/>exception.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_NE(dstDoc,<sp/>srcDoc-&gt;get_FirstSection()-&gt;get_Document());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_THROW(dstDoc-&gt;AppendChild(srcDoc-&gt;get_FirstSection()),<sp/>System::ArgumentException);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>ImportNode<sp/>method<sp/>to<sp/>create<sp/>a<sp/>copy<sp/>of<sp/>a<sp/>node,<sp/>which<sp/>will<sp/>have<sp/>the<sp/>document</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>that<sp/>called<sp/>the<sp/>ImportNode<sp/>method<sp/>set<sp/>as<sp/>its<sp/>new<sp/>owner<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>importedSection<sp/>=<sp/>System::DynamicCast&lt;Section&gt;(dstDoc-&gt;ImportNode(srcDoc-&gt;get_FirstSection(),<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(dstDoc,<sp/>importedSection-&gt;get_Document());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>now<sp/>insert<sp/>the<sp/>node<sp/>into<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dstDoc-&gt;AppendChild(importedSection);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Destination<sp/>document<sp/>first<sp/>paragraph<sp/>text.\r\nSource<sp/>document<sp/>first<sp/>paragraph<sp/>text.\r\n&quot;</highlight><highlight class="normal">,<sp/>dstDoc-&gt;ToString(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Saves the document in the plain text format.">SaveFormat::Text</ref>));</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="690" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1a1564b5b9026eba96010b5452b9df53d7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Node &gt; Aspose::Words::DocumentBase::ImportNode</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Node &gt; &amp;srcNode, bool isImportChildren, Aspose::Words::ImportFormatMode importFormatMode)</argsstring>
+        <name>ImportNode</name>
+        <qualifiedname>Aspose::Words::DocumentBase::ImportNode</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
+          <declname>srcNode</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>isImportChildren</declname>
+        </param>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1aafaa52cbf0baa49c3225787c23a8c949" kindref="member">Aspose::Words::ImportFormatMode</ref></type>
+          <declname>importFormatMode</declname>
+        </param>
+        <briefdescription>
+<para>Imports a node from another document to the current document with an option to control formatting. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This overload is useful to control how styles and list formatting are imported.</para>
+<para>Importing a node creates a copy of the source node belonging to the importing document. The returned node has no parent. The source node is not altered or removed from the original document.</para>
+<para>Before a node from another document can be inserted into this document, it must be imported. During import, document-specific properties such as references to styles and lists are translated from the original to the importing document. After the node was imported, it can be inserted into the appropriate place in the document using <ref refid="" kindref="compound">InsertBefore()</ref> or <ref refid="" kindref="compound">InsertAfter()</ref>.</para>
+<para>If the source node already belongs to the destination document, then simply a deep clone of the source node is created.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>srcNode</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The node to imported. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>isImportChildren</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>True to import all child nodes recursively; otherwise, false. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>importFormatMode</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Specifies how to merge style formatting that clashes.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The cloned, imported node. The node belongs to the destination document, but has no parent.</para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="namespace_aspose_1_1_words_1aafaa52cbf0baa49c3225787c23a8c949" kindref="member">Aspose::Words::ImportFormatMode</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_node_importer" kindref="compound">Aspose::Words::NodeImporter</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to import node from source document to destination document with specific options. <programlisting><codeline><highlight class="comment">//<sp/>Create<sp/>two<sp/>documents<sp/>and<sp/>add<sp/>a<sp/>character<sp/>style<sp/>to<sp/>each<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Configure<sp/>the<sp/>styles<sp/>to<sp/>have<sp/>the<sp/>same<sp/>name,<sp/>but<sp/>different<sp/>text<sp/>formatting.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>srcDoc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>srcStyle<sp/>=<sp/>srcDoc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba76a40e4f974fd895a0a2598c1cee28b4" kindref="member" tooltip="The style is a character style.">StyleType::Character</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;My<sp/>style&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">srcStyle-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Courier<sp/>New&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>srcBuilder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(srcDoc);</highlight></codeline>
+<codeline><highlight class="normal">srcBuilder-&gt;get_Font()-&gt;set_Style(srcStyle);</highlight></codeline>
+<codeline><highlight class="normal">srcBuilder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Source<sp/>document<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>dstDoc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>dstStyle<sp/>=<sp/>dstDoc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba76a40e4f974fd895a0a2598c1cee28b4" kindref="member" tooltip="The style is a character style.">StyleType::Character</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;My<sp/>style&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">dstStyle-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Calibri&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>dstBuilder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(dstDoc);</highlight></codeline>
+<codeline><highlight class="normal">dstBuilder-&gt;get_Font()-&gt;set_Style(dstStyle);</highlight></codeline>
+<codeline><highlight class="normal">dstBuilder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Destination<sp/>document<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Import<sp/>the<sp/>Section<sp/>from<sp/>the<sp/>destination<sp/>document<sp/>into<sp/>the<sp/>source<sp/>document,<sp/>causing<sp/>a<sp/>style<sp/>name<sp/>collision.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>use<sp/>destination<sp/>styles,<sp/>then<sp/>the<sp/>imported<sp/>source<sp/>text<sp/>with<sp/>the<sp/>same<sp/>style<sp/>name</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>as<sp/>destination<sp/>text<sp/>will<sp/>adopt<sp/>the<sp/>destination<sp/>style.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>importedSection<sp/>=<sp/>System::DynamicCast&lt;Section&gt;(dstDoc-&gt;ImportNode(srcDoc-&gt;get_FirstSection(),<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1aafaa52cbf0baa49c3225787c23a8c949a844c076860bdab3f22de3694b97ed388" kindref="member" tooltip="Use the destination document styles and copy new styles. This is the default option.">ImportFormatMode::UseDestinationStyles</ref>));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(dstStyle-&gt;get_Font()-&gt;get_Name(),<sp/>importedSection-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;get_Runs()-&gt;idx_get(0)-&gt;get_Font()-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(dstStyle-&gt;get_Name(),<sp/>importedSection-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;get_Runs()-&gt;idx_get(0)-&gt;get_Font()-&gt;get_StyleName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>use<sp/>ImportFormatMode.KeepDifferentStyles,<sp/>the<sp/>source<sp/>style<sp/>is<sp/>preserved,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>naming<sp/>clash<sp/>resolves<sp/>by<sp/>adding<sp/>a<sp/>suffix.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dstDoc-&gt;ImportNode(srcDoc-&gt;get_FirstSection(),<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1aafaa52cbf0baa49c3225787c23a8c949a02f5deab9b6eebb660679b3f779b57c2" kindref="member" tooltip="Only copy styles that are different from those in the source document.">ImportFormatMode::KeepDifferentStyles</ref>);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(dstStyle-&gt;get_Font()-&gt;get_Name(),<sp/>dstDoc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;My<sp/>style&quot;</highlight><highlight class="normal">)-&gt;get_Font()-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(srcStyle-&gt;get_Font()-&gt;get_Name(),<sp/>dstDoc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;My<sp/>style_0&quot;</highlight><highlight class="normal">)-&gt;get_Font()-&gt;get_Name());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="750" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1ad89985b7b8abc7795b7e977033968602" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::DocumentBase::set_BackgroundShape</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Drawing::Shape &gt; &amp;value)</argsstring>
+        <name>set_BackgroundShape</name>
+        <qualifiedname>Aspose::Words::DocumentBase::set_BackgroundShape</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape" kindref="compound">Aspose::Words::Drawing::Shape</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_document_base_1a0c7a428de73691d226c5b9a139165a88" kindref="member">Aspose::Words::DocumentBase::get_BackgroundShape</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="612" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1a2442ec8190e0cf0f87aa7627522d235a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::DocumentBase::set_NodeChangingCallback</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::INodeChangingCallback &gt; &amp;value)</argsstring>
+        <name>set_NodeChangingCallback</name>
+        <qualifiedname>Aspose::Words::DocumentBase::set_NodeChangingCallback</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_i_node_changing_callback" kindref="compound">Aspose::Words::INodeChangingCallback</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_document_base_1a404420853b8f2d57a82c9d224d901680" kindref="member">Aspose::Words::DocumentBase::get_NodeChangingCallback</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="205" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1a6bf7a597da2ec53efec60966499019d5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::DocumentBase::set_PageColor</definition>
+        <argsstring>(System::Drawing::Color value)</argsstring>
+        <name>set_PageColor</name>
+        <qualifiedname>Aspose::Words::DocumentBase::set_PageColor</qualifiedname>
+        <param>
+          <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_document_base_1afcc74ff9466bb2b12d14203046f2f469" kindref="member">Aspose::Words::DocumentBase::get_PageColor</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="639" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1a48b22d91766815ca07a9a69cb27ec48b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::DocumentBase::set_ResourceLoadingCallback</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Loading::IResourceLoadingCallback &gt; &amp;value)</argsstring>
+        <name>set_ResourceLoadingCallback</name>
+        <qualifiedname>Aspose::Words::DocumentBase::set_ResourceLoadingCallback</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_i_resource_loading_callback" kindref="compound">Aspose::Words::Loading::IResourceLoadingCallback</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_document_base_1a480297d6129fde4bd3654835f803256f" kindref="member">Aspose::Words::DocumentBase::get_ResourceLoadingCallback</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="271" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_document_base_1afcb6bef94003eea3cfc548e115e32b0c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::DocumentBase::set_WarningCallback</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::IWarningCallback &gt; &amp;value)</argsstring>
+        <name>set_WarningCallback</name>
+        <qualifiedname>Aspose::Words::DocumentBase::set_WarningCallback</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_i_warning_callback" kindref="compound">Aspose::Words::IWarningCallback</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_document_base_1ad3d0e41dc067032ca0c0dcb098704927" kindref="member">Aspose::Words::DocumentBase::get_WarningCallback</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DocumentBase.h" line="560" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Provides the abstract base class for a main document and a glossary document of a Word document. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>Aspose.Words represents a Word document as a tree of nodes. <ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">DocumentBase</ref> is a root node of the tree that contains all other nodes of the document.</para>
+<para><ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">DocumentBase</ref> also stores document-wide information such as <ref refid="class_aspose_1_1_words_1_1_document_base_1a3bdb631c789b3d26f1626d08c09439ce" kindref="member">Styles</ref> and <ref refid="class_aspose_1_1_words_1_1_document_base_1af534377636a3e0931e27cb1c8582f341" kindref="member">Lists</ref> that the tree nodes might refer to.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Aspose::Words::Document</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">Aspose::Words::DocumentBase</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to initialize the subclasses of <ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">DocumentBase</ref>. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(System::ObjectExt::GetType&lt;DocumentBase&gt;(),<sp/><ref refid="class/system.object_ext/_1a8f1bf7e3abe1fa9d15316478dae26b94" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetType</ref>(doc).get_BaseType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>glossaryDoc<sp/>=<sp/>MakeObject&lt;GlossaryDocument&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_GlossaryDocument(glossaryDoc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(System::ObjectExt::GetType&lt;DocumentBase&gt;(),<sp/><ref refid="class/system.object_ext/_1a8f1bf7e3abe1fa9d15316478dae26b94" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::GetType</ref>(glossaryDoc).get_BaseType());</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="7">
+        <label>Aspose::Words::BuildingBlocks::GlossaryDocument</label>
+        <link refid="class_aspose_1_1_words_1_1_building_blocks_1_1_glossary_document"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::CompositeNode</label>
+        <link refid="class_aspose_1_1_words_1_1_composite_node"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>Aspose::Words::Document</label>
+        <link refid="class_aspose_1_1_words_1_1_document"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::DocumentBase</label>
+        <link refid="class_aspose_1_1_words_1_1_document_base"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>Aspose::Words::INodeCollection</label>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::Node</label>
+        <link refid="class_aspose_1_1_words_1_1_node"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Node &gt; &gt;</label>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::CompositeNode</label>
+        <link refid="class_aspose_1_1_words_1_1_composite_node"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::DocumentBase</label>
+        <link refid="class_aspose_1_1_words_1_1_document_base"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>Aspose::Words::INodeCollection</label>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::Node</label>
+        <link refid="class_aspose_1_1_words_1_1_node"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Node &gt; &gt;</label>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/DocumentBase.h" line="107" column="1" bodyfile="Aspose.Words.Cpp/DocumentBase.h" bodystart="108" bodyend="803"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_node_1a556472e35a86820cf189f10594933f3e" prot="public" virt="pure-virtual"><scope>Aspose::Words::DocumentBase</scope><name>Accept</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1af74bc4213aebbe5fd01d2fc0f08b2bec" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>AppendChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a3c9ce1e560455dff54da2f51ebb1418d" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1ae1bb24315d5720565205a15d22cea3c9" prot="private" virt="virtual"><scope>Aspose::Words::DocumentBase</scope><name>Clone</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a81dedd9b241b09760112b5e5068f1daa" prot="public" virt="non-virtual" ambiguityscope="Aspose::Words::Node::"><scope>Aspose::Words::DocumentBase</scope><name>Clone</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a3d04cee84a47bc1f8236f6bccd52958d" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>DocumentBase</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a0c7a428de73691d226c5b9a139165a88" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>get_BackgroundShape</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a98d9935dcf818989566431ab3b75bbed" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>get_ChildNodes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a801d3d549eb73e216df5b7a64d9e1c68" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a941120df17372b25f9a7127a9d9b3816" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>get_CustomNodeId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a441771321c6cf18cfa933980eed032c5" prot="public" virt="virtual"><scope>Aspose::Words::DocumentBase</scope><name>get_Document</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a052d0e4560975f6c19c77bf19d82eedf" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>get_FirstChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a68377fd35d6e3d7463bb9fc79423e382" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>get_FontInfos</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1aea991dcfd1d3808dde6913c0fffd7d6c" prot="private" virt="pure-virtual"><scope>Aspose::Words::DocumentBase</scope><name>get_FontProvider</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a4b939686e9a6a245a31cf392d202316d" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>get_HasChildNodes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a96cf2dd90a284fe9939d1d90780d2d4b" prot="public" virt="virtual"><scope>Aspose::Words::DocumentBase</scope><name>get_IsComposite</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a97d0752e279529953a333f908cc79dd5" prot="private" virt="pure-virtual"><scope>Aspose::Words::DocumentBase</scope><name>get_IsMoveRevisionsTracked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a72429906d2d29bc89a9684699e750cdc" prot="private" virt="pure-virtual"><scope>Aspose::Words::DocumentBase</scope><name>get_IsTrackRevisionsEnabled</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a58fae512d8549219b7c3a17ef2d46439" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>get_LastChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1af534377636a3e0931e27cb1c8582f341" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>get_Lists</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a938ff32d060619d89ecefdf57984abf8" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>get_NextSibling</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a404420853b8f2d57a82c9d224d901680" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>get_NodeChangingCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a7f80e8d96b7a072fca14157b25ae025e" prot="public" virt="pure-virtual"><scope>Aspose::Words::DocumentBase</scope><name>get_NodeType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1afcc74ff9466bb2b12d14203046f2f469" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>get_PageColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1ab9e608488885c65a2a165dea6645d15e" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>get_ParentNode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a6013fe75e5859c54d12a87f9b97fa7f3" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>get_PreviousSibling</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a0f8077bf80409ba331148095b95bc3e5" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>get_Range</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a480297d6129fde4bd3654835f803256f" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>get_ResourceLoadingCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a3bdb631c789b3d26f1626d08c09439ce" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>get_Styles</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1ad3d0e41dc067032ca0c0dcb098704927" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>get_WarningCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a951706cfa681573e79a56204a2029e9e" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>GetAncestor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1ae19991f4d5aa7ccb60ce6d7207495f1c" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>GetAncestorOf</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a6d961b080681f8dc6ee551c6c0ce44da" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>GetChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1ae1fc746cc70cea4c9ab30caf39aec146" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>GetChildNodes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a6d3cc4280067e07fd504c11e6c968419" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>GetEnumerator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a8a97abb4820f6737a1fae49543b3f562" prot="private" virt="virtual"><scope>Aspose::Words::DocumentBase</scope><name>GetNextShapeId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a08b4d2cc617495b60d85a550422e2d8f" prot="public" virt="virtual"><scope>Aspose::Words::DocumentBase</scope><name>GetText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a42196707041d4b0c37ff1b827210c12c" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>ImportNode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a1564b5b9026eba96010b5452b9df53d7" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>ImportNode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1ac0cfce6ca5295fe714f5da1e8e244d9e" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>IndexOf</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a2b6e91eabfc75b02062ae6714cd95ec2" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>InsertAfter</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a247cedb3f1fe5474c87f5b5fa0dcd995" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>InsertBefore</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a29cd0ee186cba39972515cb4d1c3d32e" prot="private" virt="virtual"><scope>Aspose::Words::DocumentBase</scope><name>MapShapeToRange</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a3433c316a6e4e33558820aafa4987521" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a32bad275e4f4a4fd5e955f3ba7c5ac02" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1acc18a188fa88e2c7375fc44368f0169e" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>mField10</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a5ba76e7d99e6f69b50835110471f1a14" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>mField11</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a8e0392aee9f3973e5140358b8a573bb8" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>mField12</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a30547c45476244591874862ea66cd4d7" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>mField13</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1ab7844bca51468e169f22bed71db20e69" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>mField14</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a32cc42f880429468f4245570b314991a" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>mField15</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a71ca116468670ddba2d80c4c4b0c262f" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>mField16</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a159717909f3f7bb344d0b27dd596f7dd" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>mField17</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a9445116e2ef5f635692b5c4b58d06675" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>mField18</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1aa31c92dfa1ed52b6760cebbc071f5297" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>mField19</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a377a478e73954594d4c4ed0571b7fece" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1ae5c717dda6131509e3f1d40ac51d9f0a" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>mField20</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a77aaea6a8b97e4408075bab3ecb0c95d" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>mField21</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1aa6066b93959eb7a9a2e271bf84dcdec0" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>mField22</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a8ae78f5b80e18e961037f5dcd425de94" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a679680f560c4544551cba224befcaa5d" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1ab3c82e9ee7b24be9ba769336b3c2312a" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a062d85ec2fde3af6230cf1ea7d4ce6e1" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>mField6</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a5ae7458f5d0584ac1e418af898c91dda" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>mField7</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1abe281df9ccb560c994868fbc68bcae49" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>mField8</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a1a424eb076d23d85111e79345f3a8a39" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>mField9</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a4f6979e06a5914aeb37a9cb8448658a6" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>NextPreOrder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a0e46189d6dfa7a81c8fa2e2bd2354d61" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>NodeTypeToString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1abae3ff6d970ba209cf4eb1c539b205ee" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>PrependChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1af40f9573daf950d978d211d3e75c6a95" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>PreviousPreOrder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a75a9cc0fda5ec9c8aaa1c4910af8f28c" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a4afce861f4df13714988e44419374f21" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>RemoveAllChildren</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a28888dd687866f66b3bb221e63b5063c" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>RemoveChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a5a00bfd5d2e04d5752d96e226a3f5849" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>RemoveSmartTags</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a6d368bcb7f009be8d4469fc282191ca1" prot="private" virt="pure-virtual"><scope>Aspose::Words::DocumentBase</scope><name>ResumeTrackRevisions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1afd4137e5ec6f6ae416a0eded37a0eb7f" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a553923ba5225bd3d28f1960b72b45f4f" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>SelectNodes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1aa2eb340deba06c3dcb7cc29dfeca5a99" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>SelectSingleNode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1ad89985b7b8abc7795b7e977033968602" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>set_BackgroundShape</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a0d412cc05de7836acb92332e55eea267" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>set_CustomNodeId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a2442ec8190e0cf0f87aa7627522d235a" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>set_NodeChangingCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a6bf7a597da2ec53efec60966499019d5" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>set_PageColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a48b22d91766815ca07a9a69cb27ec48b" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>set_ResourceLoadingCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1afcb6bef94003eea3cfc548e115e32b0c" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>set_WarningCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a29e186f28a68773c7c7679079c77d827" prot="public" virt="virtual"><scope>Aspose::Words::DocumentBase</scope><name>SetTemplateWeakPtr</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a0d324f09e783785285676c0fd9a2f0a4" prot="private" virt="pure-virtual"><scope>Aspose::Words::DocumentBase</scope><name>SuspendTrackRevisions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1afe68c54b370f1b6b172b41a0b9d3169c" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1a3a7e184d2a0aca336483d8fc5a658116" prot="private" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1af7aa71ab5f185ee2463406dab7727595" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>ToString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1ad18f64c5586b84a071957824b24426a2" prot="public" virt="non-virtual"><scope>Aspose::Words::DocumentBase</scope><name>ToString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_document_base_1aed908b254b259871d9826641f40e6f05" prot="private" virt="virtual"><scope>Aspose::Words::DocumentBase</scope><name>~DocumentBase</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

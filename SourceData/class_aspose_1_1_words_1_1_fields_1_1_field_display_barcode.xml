@@ -1,0 +1,1395 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::FieldDisplayBarcode</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field" prot="public" virt="non-virtual">Aspose::Words::Fields::Field</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IFieldCodeTokenInfoProvider</basecompoundref>
+    <includes refid="_field_display_barcode_8h" local="no">Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a6ae31a801b026482e54dcefd4b7bf862" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref></type>
+        <definition>typedef Aspose::Words::Fields::Field Aspose::Words::Fields::FieldDisplayBarcode::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="96" column="42" bodyfile="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" bodystart="96" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1aeb544e3cb55c8d2f91a97bf5ad625a7d" prot="private" static="no">
+        <type>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</type>
+        <definition>typedef Aspose::Words::Fields::IFieldCodeTokenInfoProvider Aspose::Words::Fields::FieldDisplayBarcode::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="97" column="64" bodyfile="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" bodystart="97" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1affb0f8d2bb26d89d3ace5dcfb271831d" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode" kindref="compound">FieldDisplayBarcode</ref></type>
+        <definition>typedef FieldDisplayBarcode Aspose::Words::Fields::FieldDisplayBarcode::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="95" column="33" bodyfile="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" bodystart="95" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a27d73e4134d8b705a2dd980bd3752336" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Fields::FieldDisplayBarcode::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="99" column="37" bodyfile="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" bodystart="99" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a5d0de701630ce7e61079954d5f54ba2a" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Fields::FieldDisplayBarcode::~FieldDisplayBarcode</definition>
+        <argsstring>()</argsstring>
+        <name>~FieldDisplayBarcode</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::~FieldDisplayBarcode</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="888" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a244ca1b7b30c69c4b5488c40bf39bc82" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::NodeRange &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::NodeRange &gt; Aspose::Words::Fields::FieldDisplayBarcode::GetFakeResult</definition>
+        <argsstring>() override</argsstring>
+        <name>GetFakeResult</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::GetFakeResult</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aec0fb24827aecbea0ff27a044ba7c760">GetFakeResult</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="886" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1aeebd8ae737ffb415c8f677fd5c292aad" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>Aspose::Words::Fields::FieldSwitchType</type>
+        <definition>Aspose::Words::Fields::FieldSwitchType Aspose::Words::Fields::FieldDisplayBarcode::GetSwitchType</definition>
+        <argsstring>(System::String) override</argsstring>
+        <name>GetSwitchType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::GetSwitchType</qualifiedname>
+        <param>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="892" column="44"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a29c7f06e597a10376ac5237c57abd7a5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldDisplayBarcode::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="100" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a57cfdf32d1c37d7f8a355e44bd208ced" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldDisplayBarcode::get_AddStartStopChar</definition>
+        <argsstring>()</argsstring>
+        <name>get_AddStartStopChar</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::get_AddStartStopChar</qualifiedname>
+        <briefdescription>
+<para>Gets or sets whether to add Start/Stop characters for barcode types NW7 and CODE39. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a DISPLAYBARCODE field, and set its properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>four<sp/>types<sp/>of<sp/>barcodes,<sp/>decorated<sp/>in<sp/>various<sp/>ways,<sp/>that<sp/>the<sp/>DISPLAYBARCODE<sp/>field<sp/>can<sp/>display.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>QR<sp/>code<sp/>with<sp/>custom<sp/>colors:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;QR&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;ABC123&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BackgroundColor(u</highlight><highlight class="stringliteral">&quot;0xF8BD69&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ForegroundColor(u</highlight><highlight class="stringliteral">&quot;0xB5413B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ErrorCorrectionLevel(u</highlight><highlight class="stringliteral">&quot;3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScalingFactor(u</highlight><highlight class="stringliteral">&quot;250&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolHeight(u</highlight><highlight class="stringliteral">&quot;1000&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolRotation(u</highlight><highlight class="stringliteral">&quot;0&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>ABC123<sp/>QR<sp/>\\b<sp/>0xF8BD69<sp/>\\f<sp/>0xB5413B<sp/>\\q<sp/>3<sp/>\\s<sp/>250<sp/>\\h<sp/>1000<sp/>\\r<sp/>0&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>EAN13<sp/>barcode,<sp/>with<sp/>the<sp/>digits<sp/>displayed<sp/>below<sp/>the<sp/>bars:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;EAN13&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;501234567890&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DisplayText(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_PosCodeStyle(u</highlight><highlight class="stringliteral">&quot;CASE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FixCheckDigit(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>501234567890<sp/>EAN13<sp/>\\t<sp/>\\p<sp/>CASE<sp/>\\x&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>CODE39<sp/>barcode:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;CODE39&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;12345ABCDE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_AddStartStopChar(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>12345ABCDE<sp/>CODE39<sp/>\\d&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>4<sp/>-<sp/><sp/>ITF4<sp/>barcode,<sp/>with<sp/>a<sp/>specified<sp/>case<sp/>code:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;ITF14&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;09312345678907&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_CaseCodeStyle(u</highlight><highlight class="stringliteral">&quot;STD&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>09312345678907<sp/>ITF14<sp/>\\c<sp/>STD&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.DISPLAYBARCODE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="819" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1aa6e404888106e8c2e506a52a51760fe0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldDisplayBarcode::get_BackgroundColor</definition>
+        <argsstring>()</argsstring>
+        <name>get_BackgroundColor</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::get_BackgroundColor</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the background color of the barcode symbol. Valid values are in the range [0, 0xFFFFFF]. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a DISPLAYBARCODE field, and set its properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>four<sp/>types<sp/>of<sp/>barcodes,<sp/>decorated<sp/>in<sp/>various<sp/>ways,<sp/>that<sp/>the<sp/>DISPLAYBARCODE<sp/>field<sp/>can<sp/>display.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>QR<sp/>code<sp/>with<sp/>custom<sp/>colors:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;QR&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;ABC123&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BackgroundColor(u</highlight><highlight class="stringliteral">&quot;0xF8BD69&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ForegroundColor(u</highlight><highlight class="stringliteral">&quot;0xB5413B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ErrorCorrectionLevel(u</highlight><highlight class="stringliteral">&quot;3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScalingFactor(u</highlight><highlight class="stringliteral">&quot;250&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolHeight(u</highlight><highlight class="stringliteral">&quot;1000&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolRotation(u</highlight><highlight class="stringliteral">&quot;0&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>ABC123<sp/>QR<sp/>\\b<sp/>0xF8BD69<sp/>\\f<sp/>0xB5413B<sp/>\\q<sp/>3<sp/>\\s<sp/>250<sp/>\\h<sp/>1000<sp/>\\r<sp/>0&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>EAN13<sp/>barcode,<sp/>with<sp/>the<sp/>digits<sp/>displayed<sp/>below<sp/>the<sp/>bars:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;EAN13&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;501234567890&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DisplayText(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_PosCodeStyle(u</highlight><highlight class="stringliteral">&quot;CASE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FixCheckDigit(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>501234567890<sp/>EAN13<sp/>\\t<sp/>\\p<sp/>CASE<sp/>\\x&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>CODE39<sp/>barcode:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;CODE39&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;12345ABCDE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_AddStartStopChar(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>12345ABCDE<sp/>CODE39<sp/>\\d&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>4<sp/>-<sp/><sp/>ITF4<sp/>barcode,<sp/>with<sp/>a<sp/>specified<sp/>case<sp/>code:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;ITF14&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;09312345678907&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_CaseCodeStyle(u</highlight><highlight class="stringliteral">&quot;STD&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>09312345678907<sp/>ITF14<sp/>\\c<sp/>STD&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.DISPLAYBARCODE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="519" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a38cbeaee989dd1d675bd7e9488984db1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldDisplayBarcode::get_BarcodeType</definition>
+        <argsstring>()</argsstring>
+        <name>get_BarcodeType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::get_BarcodeType</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the barcode type (QR, etc.) </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a DISPLAYBARCODE field, and set its properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>four<sp/>types<sp/>of<sp/>barcodes,<sp/>decorated<sp/>in<sp/>various<sp/>ways,<sp/>that<sp/>the<sp/>DISPLAYBARCODE<sp/>field<sp/>can<sp/>display.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>QR<sp/>code<sp/>with<sp/>custom<sp/>colors:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;QR&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;ABC123&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BackgroundColor(u</highlight><highlight class="stringliteral">&quot;0xF8BD69&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ForegroundColor(u</highlight><highlight class="stringliteral">&quot;0xB5413B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ErrorCorrectionLevel(u</highlight><highlight class="stringliteral">&quot;3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScalingFactor(u</highlight><highlight class="stringliteral">&quot;250&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolHeight(u</highlight><highlight class="stringliteral">&quot;1000&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolRotation(u</highlight><highlight class="stringliteral">&quot;0&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>ABC123<sp/>QR<sp/>\\b<sp/>0xF8BD69<sp/>\\f<sp/>0xB5413B<sp/>\\q<sp/>3<sp/>\\s<sp/>250<sp/>\\h<sp/>1000<sp/>\\r<sp/>0&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>EAN13<sp/>barcode,<sp/>with<sp/>the<sp/>digits<sp/>displayed<sp/>below<sp/>the<sp/>bars:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;EAN13&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;501234567890&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DisplayText(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_PosCodeStyle(u</highlight><highlight class="stringliteral">&quot;CASE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FixCheckDigit(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>501234567890<sp/>EAN13<sp/>\\t<sp/>\\p<sp/>CASE<sp/>\\x&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>CODE39<sp/>barcode:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;CODE39&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;12345ABCDE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_AddStartStopChar(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>12345ABCDE<sp/>CODE39<sp/>\\d&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>4<sp/>-<sp/><sp/>ITF4<sp/>barcode,<sp/>with<sp/>a<sp/>specified<sp/>case<sp/>code:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;ITF14&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;09312345678907&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_CaseCodeStyle(u</highlight><highlight class="stringliteral">&quot;STD&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>09312345678907<sp/>ITF14<sp/>\\c<sp/>STD&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.DISPLAYBARCODE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="219" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a4b54400377a75fb253c1d276fcc583d3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldDisplayBarcode::get_BarcodeValue</definition>
+        <argsstring>()</argsstring>
+        <name>get_BarcodeValue</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::get_BarcodeValue</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the barcode value. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a DISPLAYBARCODE field, and set its properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>four<sp/>types<sp/>of<sp/>barcodes,<sp/>decorated<sp/>in<sp/>various<sp/>ways,<sp/>that<sp/>the<sp/>DISPLAYBARCODE<sp/>field<sp/>can<sp/>display.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>QR<sp/>code<sp/>with<sp/>custom<sp/>colors:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;QR&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;ABC123&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BackgroundColor(u</highlight><highlight class="stringliteral">&quot;0xF8BD69&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ForegroundColor(u</highlight><highlight class="stringliteral">&quot;0xB5413B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ErrorCorrectionLevel(u</highlight><highlight class="stringliteral">&quot;3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScalingFactor(u</highlight><highlight class="stringliteral">&quot;250&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolHeight(u</highlight><highlight class="stringliteral">&quot;1000&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolRotation(u</highlight><highlight class="stringliteral">&quot;0&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>ABC123<sp/>QR<sp/>\\b<sp/>0xF8BD69<sp/>\\f<sp/>0xB5413B<sp/>\\q<sp/>3<sp/>\\s<sp/>250<sp/>\\h<sp/>1000<sp/>\\r<sp/>0&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>EAN13<sp/>barcode,<sp/>with<sp/>the<sp/>digits<sp/>displayed<sp/>below<sp/>the<sp/>bars:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;EAN13&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;501234567890&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DisplayText(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_PosCodeStyle(u</highlight><highlight class="stringliteral">&quot;CASE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FixCheckDigit(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>501234567890<sp/>EAN13<sp/>\\t<sp/>\\p<sp/>CASE<sp/>\\x&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>CODE39<sp/>barcode:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;CODE39&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;12345ABCDE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_AddStartStopChar(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>12345ABCDE<sp/>CODE39<sp/>\\d&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>4<sp/>-<sp/><sp/>ITF4<sp/>barcode,<sp/>with<sp/>a<sp/>specified<sp/>case<sp/>code:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;ITF14&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;09312345678907&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_CaseCodeStyle(u</highlight><highlight class="stringliteral">&quot;STD&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>09312345678907<sp/>ITF14<sp/>\\c<sp/>STD&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.DISPLAYBARCODE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="159" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1accc4b74a1ebd6714f54b13a2748b68d4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldDisplayBarcode::get_CaseCodeStyle</definition>
+        <argsstring>()</argsstring>
+        <name>get_CaseCodeStyle</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::get_CaseCodeStyle</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the style of a Case Code for barcode type ITF14. The valid values are [STD|EXT|ADD]. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a DISPLAYBARCODE field, and set its properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>four<sp/>types<sp/>of<sp/>barcodes,<sp/>decorated<sp/>in<sp/>various<sp/>ways,<sp/>that<sp/>the<sp/>DISPLAYBARCODE<sp/>field<sp/>can<sp/>display.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>QR<sp/>code<sp/>with<sp/>custom<sp/>colors:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;QR&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;ABC123&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BackgroundColor(u</highlight><highlight class="stringliteral">&quot;0xF8BD69&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ForegroundColor(u</highlight><highlight class="stringliteral">&quot;0xB5413B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ErrorCorrectionLevel(u</highlight><highlight class="stringliteral">&quot;3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScalingFactor(u</highlight><highlight class="stringliteral">&quot;250&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolHeight(u</highlight><highlight class="stringliteral">&quot;1000&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolRotation(u</highlight><highlight class="stringliteral">&quot;0&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>ABC123<sp/>QR<sp/>\\b<sp/>0xF8BD69<sp/>\\f<sp/>0xB5413B<sp/>\\q<sp/>3<sp/>\\s<sp/>250<sp/>\\h<sp/>1000<sp/>\\r<sp/>0&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>EAN13<sp/>barcode,<sp/>with<sp/>the<sp/>digits<sp/>displayed<sp/>below<sp/>the<sp/>bars:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;EAN13&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;501234567890&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DisplayText(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_PosCodeStyle(u</highlight><highlight class="stringliteral">&quot;CASE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FixCheckDigit(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>501234567890<sp/>EAN13<sp/>\\t<sp/>\\p<sp/>CASE<sp/>\\x&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>CODE39<sp/>barcode:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;CODE39&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;12345ABCDE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_AddStartStopChar(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>12345ABCDE<sp/>CODE39<sp/>\\d&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>4<sp/>-<sp/><sp/>ITF4<sp/>barcode,<sp/>with<sp/>a<sp/>specified<sp/>case<sp/>code:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;ITF14&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;09312345678907&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_CaseCodeStyle(u</highlight><highlight class="stringliteral">&quot;STD&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>09312345678907<sp/>ITF14<sp/>\\c<sp/>STD&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.DISPLAYBARCODE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="639" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a2448efc380869967ff3dd59063acc114" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldDisplayBarcode::get_DisplayText</definition>
+        <argsstring>()</argsstring>
+        <name>get_DisplayText</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::get_DisplayText</qualifiedname>
+        <briefdescription>
+<para>Gets or sets whether to display barcode data (text) along with image. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a DISPLAYBARCODE field, and set its properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>four<sp/>types<sp/>of<sp/>barcodes,<sp/>decorated<sp/>in<sp/>various<sp/>ways,<sp/>that<sp/>the<sp/>DISPLAYBARCODE<sp/>field<sp/>can<sp/>display.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>QR<sp/>code<sp/>with<sp/>custom<sp/>colors:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;QR&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;ABC123&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BackgroundColor(u</highlight><highlight class="stringliteral">&quot;0xF8BD69&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ForegroundColor(u</highlight><highlight class="stringliteral">&quot;0xB5413B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ErrorCorrectionLevel(u</highlight><highlight class="stringliteral">&quot;3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScalingFactor(u</highlight><highlight class="stringliteral">&quot;250&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolHeight(u</highlight><highlight class="stringliteral">&quot;1000&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolRotation(u</highlight><highlight class="stringliteral">&quot;0&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>ABC123<sp/>QR<sp/>\\b<sp/>0xF8BD69<sp/>\\f<sp/>0xB5413B<sp/>\\q<sp/>3<sp/>\\s<sp/>250<sp/>\\h<sp/>1000<sp/>\\r<sp/>0&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>EAN13<sp/>barcode,<sp/>with<sp/>the<sp/>digits<sp/>displayed<sp/>below<sp/>the<sp/>bars:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;EAN13&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;501234567890&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DisplayText(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_PosCodeStyle(u</highlight><highlight class="stringliteral">&quot;CASE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FixCheckDigit(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>501234567890<sp/>EAN13<sp/>\\t<sp/>\\p<sp/>CASE<sp/>\\x&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>CODE39<sp/>barcode:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;CODE39&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;12345ABCDE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_AddStartStopChar(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>12345ABCDE<sp/>CODE39<sp/>\\d&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>4<sp/>-<sp/><sp/>ITF4<sp/>barcode,<sp/>with<sp/>a<sp/>specified<sp/>case<sp/>code:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;ITF14&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;09312345678907&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_CaseCodeStyle(u</highlight><highlight class="stringliteral">&quot;STD&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>09312345678907<sp/>ITF14<sp/>\\c<sp/>STD&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.DISPLAYBARCODE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="759" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a3d1fe398df65910eded5a03a80c12f99" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldDisplayBarcode::get_ErrorCorrectionLevel</definition>
+        <argsstring>()</argsstring>
+        <name>get_ErrorCorrectionLevel</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::get_ErrorCorrectionLevel</qualifiedname>
+        <briefdescription>
+<para>Gets or sets an error correction level of QR Code. Valid values are [0, 3]. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a DISPLAYBARCODE field, and set its properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>four<sp/>types<sp/>of<sp/>barcodes,<sp/>decorated<sp/>in<sp/>various<sp/>ways,<sp/>that<sp/>the<sp/>DISPLAYBARCODE<sp/>field<sp/>can<sp/>display.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>QR<sp/>code<sp/>with<sp/>custom<sp/>colors:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;QR&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;ABC123&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BackgroundColor(u</highlight><highlight class="stringliteral">&quot;0xF8BD69&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ForegroundColor(u</highlight><highlight class="stringliteral">&quot;0xB5413B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ErrorCorrectionLevel(u</highlight><highlight class="stringliteral">&quot;3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScalingFactor(u</highlight><highlight class="stringliteral">&quot;250&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolHeight(u</highlight><highlight class="stringliteral">&quot;1000&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolRotation(u</highlight><highlight class="stringliteral">&quot;0&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>ABC123<sp/>QR<sp/>\\b<sp/>0xF8BD69<sp/>\\f<sp/>0xB5413B<sp/>\\q<sp/>3<sp/>\\s<sp/>250<sp/>\\h<sp/>1000<sp/>\\r<sp/>0&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>EAN13<sp/>barcode,<sp/>with<sp/>the<sp/>digits<sp/>displayed<sp/>below<sp/>the<sp/>bars:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;EAN13&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;501234567890&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DisplayText(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_PosCodeStyle(u</highlight><highlight class="stringliteral">&quot;CASE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FixCheckDigit(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>501234567890<sp/>EAN13<sp/>\\t<sp/>\\p<sp/>CASE<sp/>\\x&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>CODE39<sp/>barcode:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;CODE39&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;12345ABCDE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_AddStartStopChar(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>12345ABCDE<sp/>CODE39<sp/>\\d&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>4<sp/>-<sp/><sp/>ITF4<sp/>barcode,<sp/>with<sp/>a<sp/>specified<sp/>case<sp/>code:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;ITF14&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;09312345678907&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_CaseCodeStyle(u</highlight><highlight class="stringliteral">&quot;STD&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>09312345678907<sp/>ITF14<sp/>\\c<sp/>STD&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.DISPLAYBARCODE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="699" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a967f4ada4510cc0e5c5cae55692e4f90" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldDisplayBarcode::get_FixCheckDigit</definition>
+        <argsstring>()</argsstring>
+        <name>get_FixCheckDigit</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::get_FixCheckDigit</qualifiedname>
+        <briefdescription>
+<para>Gets or sets whether to fix the check digit if it’s invalid. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a DISPLAYBARCODE field, and set its properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>four<sp/>types<sp/>of<sp/>barcodes,<sp/>decorated<sp/>in<sp/>various<sp/>ways,<sp/>that<sp/>the<sp/>DISPLAYBARCODE<sp/>field<sp/>can<sp/>display.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>QR<sp/>code<sp/>with<sp/>custom<sp/>colors:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;QR&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;ABC123&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BackgroundColor(u</highlight><highlight class="stringliteral">&quot;0xF8BD69&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ForegroundColor(u</highlight><highlight class="stringliteral">&quot;0xB5413B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ErrorCorrectionLevel(u</highlight><highlight class="stringliteral">&quot;3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScalingFactor(u</highlight><highlight class="stringliteral">&quot;250&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolHeight(u</highlight><highlight class="stringliteral">&quot;1000&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolRotation(u</highlight><highlight class="stringliteral">&quot;0&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>ABC123<sp/>QR<sp/>\\b<sp/>0xF8BD69<sp/>\\f<sp/>0xB5413B<sp/>\\q<sp/>3<sp/>\\s<sp/>250<sp/>\\h<sp/>1000<sp/>\\r<sp/>0&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>EAN13<sp/>barcode,<sp/>with<sp/>the<sp/>digits<sp/>displayed<sp/>below<sp/>the<sp/>bars:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;EAN13&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;501234567890&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DisplayText(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_PosCodeStyle(u</highlight><highlight class="stringliteral">&quot;CASE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FixCheckDigit(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>501234567890<sp/>EAN13<sp/>\\t<sp/>\\p<sp/>CASE<sp/>\\x&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>CODE39<sp/>barcode:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;CODE39&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;12345ABCDE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_AddStartStopChar(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>12345ABCDE<sp/>CODE39<sp/>\\d&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>4<sp/>-<sp/><sp/>ITF4<sp/>barcode,<sp/>with<sp/>a<sp/>specified<sp/>case<sp/>code:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;ITF14&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;09312345678907&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_CaseCodeStyle(u</highlight><highlight class="stringliteral">&quot;STD&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>09312345678907<sp/>ITF14<sp/>\\c<sp/>STD&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.DISPLAYBARCODE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="879" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a12cd738dd97b104891dcfcc9e0b5033f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldDisplayBarcode::get_ForegroundColor</definition>
+        <argsstring>()</argsstring>
+        <name>get_ForegroundColor</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::get_ForegroundColor</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the foreground color of the barcode symbol. Valid values are in the range [0, 0xFFFFFF]. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a DISPLAYBARCODE field, and set its properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>four<sp/>types<sp/>of<sp/>barcodes,<sp/>decorated<sp/>in<sp/>various<sp/>ways,<sp/>that<sp/>the<sp/>DISPLAYBARCODE<sp/>field<sp/>can<sp/>display.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>QR<sp/>code<sp/>with<sp/>custom<sp/>colors:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;QR&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;ABC123&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BackgroundColor(u</highlight><highlight class="stringliteral">&quot;0xF8BD69&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ForegroundColor(u</highlight><highlight class="stringliteral">&quot;0xB5413B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ErrorCorrectionLevel(u</highlight><highlight class="stringliteral">&quot;3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScalingFactor(u</highlight><highlight class="stringliteral">&quot;250&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolHeight(u</highlight><highlight class="stringliteral">&quot;1000&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolRotation(u</highlight><highlight class="stringliteral">&quot;0&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>ABC123<sp/>QR<sp/>\\b<sp/>0xF8BD69<sp/>\\f<sp/>0xB5413B<sp/>\\q<sp/>3<sp/>\\s<sp/>250<sp/>\\h<sp/>1000<sp/>\\r<sp/>0&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>EAN13<sp/>barcode,<sp/>with<sp/>the<sp/>digits<sp/>displayed<sp/>below<sp/>the<sp/>bars:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;EAN13&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;501234567890&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DisplayText(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_PosCodeStyle(u</highlight><highlight class="stringliteral">&quot;CASE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FixCheckDigit(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>501234567890<sp/>EAN13<sp/>\\t<sp/>\\p<sp/>CASE<sp/>\\x&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>CODE39<sp/>barcode:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;CODE39&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;12345ABCDE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_AddStartStopChar(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>12345ABCDE<sp/>CODE39<sp/>\\d&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>4<sp/>-<sp/><sp/>ITF4<sp/>barcode,<sp/>with<sp/>a<sp/>specified<sp/>case<sp/>code:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;ITF14&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;09312345678907&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_CaseCodeStyle(u</highlight><highlight class="stringliteral">&quot;STD&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>09312345678907<sp/>ITF14<sp/>\\c<sp/>STD&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.DISPLAYBARCODE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="459" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1afc293f0731627e2a903b7d73b72192e1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldDisplayBarcode::get_PosCodeStyle</definition>
+        <argsstring>()</argsstring>
+        <name>get_PosCodeStyle</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::get_PosCodeStyle</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the style of a Point of Sale barcode (barcode types UPCA|UPCE|EAN13|EAN8). The valid values (case insensitive) are [STD|SUP2|SUP5|CASE]. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a DISPLAYBARCODE field, and set its properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>four<sp/>types<sp/>of<sp/>barcodes,<sp/>decorated<sp/>in<sp/>various<sp/>ways,<sp/>that<sp/>the<sp/>DISPLAYBARCODE<sp/>field<sp/>can<sp/>display.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>QR<sp/>code<sp/>with<sp/>custom<sp/>colors:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;QR&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;ABC123&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BackgroundColor(u</highlight><highlight class="stringliteral">&quot;0xF8BD69&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ForegroundColor(u</highlight><highlight class="stringliteral">&quot;0xB5413B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ErrorCorrectionLevel(u</highlight><highlight class="stringliteral">&quot;3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScalingFactor(u</highlight><highlight class="stringliteral">&quot;250&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolHeight(u</highlight><highlight class="stringliteral">&quot;1000&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolRotation(u</highlight><highlight class="stringliteral">&quot;0&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>ABC123<sp/>QR<sp/>\\b<sp/>0xF8BD69<sp/>\\f<sp/>0xB5413B<sp/>\\q<sp/>3<sp/>\\s<sp/>250<sp/>\\h<sp/>1000<sp/>\\r<sp/>0&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>EAN13<sp/>barcode,<sp/>with<sp/>the<sp/>digits<sp/>displayed<sp/>below<sp/>the<sp/>bars:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;EAN13&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;501234567890&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DisplayText(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_PosCodeStyle(u</highlight><highlight class="stringliteral">&quot;CASE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FixCheckDigit(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>501234567890<sp/>EAN13<sp/>\\t<sp/>\\p<sp/>CASE<sp/>\\x&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>CODE39<sp/>barcode:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;CODE39&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;12345ABCDE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_AddStartStopChar(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>12345ABCDE<sp/>CODE39<sp/>\\d&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>4<sp/>-<sp/><sp/>ITF4<sp/>barcode,<sp/>with<sp/>a<sp/>specified<sp/>case<sp/>code:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;ITF14&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;09312345678907&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_CaseCodeStyle(u</highlight><highlight class="stringliteral">&quot;STD&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>09312345678907<sp/>ITF14<sp/>\\c<sp/>STD&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.DISPLAYBARCODE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="579" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a29464536ed8d10d1aaca61efd1d96c9a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldDisplayBarcode::get_ScalingFactor</definition>
+        <argsstring>()</argsstring>
+        <name>get_ScalingFactor</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::get_ScalingFactor</qualifiedname>
+        <briefdescription>
+<para>Gets or sets a scaling factor for the symbol. The value is in whole percentage points and the valid values are [10, 1000]. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a DISPLAYBARCODE field, and set its properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>four<sp/>types<sp/>of<sp/>barcodes,<sp/>decorated<sp/>in<sp/>various<sp/>ways,<sp/>that<sp/>the<sp/>DISPLAYBARCODE<sp/>field<sp/>can<sp/>display.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>QR<sp/>code<sp/>with<sp/>custom<sp/>colors:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;QR&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;ABC123&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BackgroundColor(u</highlight><highlight class="stringliteral">&quot;0xF8BD69&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ForegroundColor(u</highlight><highlight class="stringliteral">&quot;0xB5413B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ErrorCorrectionLevel(u</highlight><highlight class="stringliteral">&quot;3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScalingFactor(u</highlight><highlight class="stringliteral">&quot;250&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolHeight(u</highlight><highlight class="stringliteral">&quot;1000&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolRotation(u</highlight><highlight class="stringliteral">&quot;0&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>ABC123<sp/>QR<sp/>\\b<sp/>0xF8BD69<sp/>\\f<sp/>0xB5413B<sp/>\\q<sp/>3<sp/>\\s<sp/>250<sp/>\\h<sp/>1000<sp/>\\r<sp/>0&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>EAN13<sp/>barcode,<sp/>with<sp/>the<sp/>digits<sp/>displayed<sp/>below<sp/>the<sp/>bars:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;EAN13&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;501234567890&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DisplayText(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_PosCodeStyle(u</highlight><highlight class="stringliteral">&quot;CASE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FixCheckDigit(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>501234567890<sp/>EAN13<sp/>\\t<sp/>\\p<sp/>CASE<sp/>\\x&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>CODE39<sp/>barcode:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;CODE39&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;12345ABCDE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_AddStartStopChar(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>12345ABCDE<sp/>CODE39<sp/>\\d&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>4<sp/>-<sp/><sp/>ITF4<sp/>barcode,<sp/>with<sp/>a<sp/>specified<sp/>case<sp/>code:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;ITF14&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;09312345678907&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_CaseCodeStyle(u</highlight><highlight class="stringliteral">&quot;STD&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>09312345678907<sp/>ITF14<sp/>\\c<sp/>STD&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.DISPLAYBARCODE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="399" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a5a537d9a3c60cb802469923cda0d6b02" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldDisplayBarcode::get_SymbolHeight</definition>
+        <argsstring>()</argsstring>
+        <name>get_SymbolHeight</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::get_SymbolHeight</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the height of the symbol. The units are in TWIPS (1/1440 inch). </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a DISPLAYBARCODE field, and set its properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>four<sp/>types<sp/>of<sp/>barcodes,<sp/>decorated<sp/>in<sp/>various<sp/>ways,<sp/>that<sp/>the<sp/>DISPLAYBARCODE<sp/>field<sp/>can<sp/>display.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>QR<sp/>code<sp/>with<sp/>custom<sp/>colors:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;QR&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;ABC123&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BackgroundColor(u</highlight><highlight class="stringliteral">&quot;0xF8BD69&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ForegroundColor(u</highlight><highlight class="stringliteral">&quot;0xB5413B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ErrorCorrectionLevel(u</highlight><highlight class="stringliteral">&quot;3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScalingFactor(u</highlight><highlight class="stringliteral">&quot;250&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolHeight(u</highlight><highlight class="stringliteral">&quot;1000&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolRotation(u</highlight><highlight class="stringliteral">&quot;0&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>ABC123<sp/>QR<sp/>\\b<sp/>0xF8BD69<sp/>\\f<sp/>0xB5413B<sp/>\\q<sp/>3<sp/>\\s<sp/>250<sp/>\\h<sp/>1000<sp/>\\r<sp/>0&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>EAN13<sp/>barcode,<sp/>with<sp/>the<sp/>digits<sp/>displayed<sp/>below<sp/>the<sp/>bars:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;EAN13&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;501234567890&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DisplayText(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_PosCodeStyle(u</highlight><highlight class="stringliteral">&quot;CASE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FixCheckDigit(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>501234567890<sp/>EAN13<sp/>\\t<sp/>\\p<sp/>CASE<sp/>\\x&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>CODE39<sp/>barcode:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;CODE39&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;12345ABCDE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_AddStartStopChar(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>12345ABCDE<sp/>CODE39<sp/>\\d&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>4<sp/>-<sp/><sp/>ITF4<sp/>barcode,<sp/>with<sp/>a<sp/>specified<sp/>case<sp/>code:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;ITF14&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;09312345678907&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_CaseCodeStyle(u</highlight><highlight class="stringliteral">&quot;STD&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>09312345678907<sp/>ITF14<sp/>\\c<sp/>STD&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.DISPLAYBARCODE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="279" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a02ec3c6f74e7905bec90cf9f4446e16b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldDisplayBarcode::get_SymbolRotation</definition>
+        <argsstring>()</argsstring>
+        <name>get_SymbolRotation</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::get_SymbolRotation</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the rotation of the barcode symbol. Valid values are [0, 3]. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a DISPLAYBARCODE field, and set its properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>four<sp/>types<sp/>of<sp/>barcodes,<sp/>decorated<sp/>in<sp/>various<sp/>ways,<sp/>that<sp/>the<sp/>DISPLAYBARCODE<sp/>field<sp/>can<sp/>display.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>QR<sp/>code<sp/>with<sp/>custom<sp/>colors:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;QR&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;ABC123&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BackgroundColor(u</highlight><highlight class="stringliteral">&quot;0xF8BD69&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ForegroundColor(u</highlight><highlight class="stringliteral">&quot;0xB5413B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ErrorCorrectionLevel(u</highlight><highlight class="stringliteral">&quot;3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScalingFactor(u</highlight><highlight class="stringliteral">&quot;250&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolHeight(u</highlight><highlight class="stringliteral">&quot;1000&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolRotation(u</highlight><highlight class="stringliteral">&quot;0&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>ABC123<sp/>QR<sp/>\\b<sp/>0xF8BD69<sp/>\\f<sp/>0xB5413B<sp/>\\q<sp/>3<sp/>\\s<sp/>250<sp/>\\h<sp/>1000<sp/>\\r<sp/>0&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>EAN13<sp/>barcode,<sp/>with<sp/>the<sp/>digits<sp/>displayed<sp/>below<sp/>the<sp/>bars:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;EAN13&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;501234567890&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DisplayText(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_PosCodeStyle(u</highlight><highlight class="stringliteral">&quot;CASE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FixCheckDigit(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>501234567890<sp/>EAN13<sp/>\\t<sp/>\\p<sp/>CASE<sp/>\\x&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>CODE39<sp/>barcode:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;CODE39&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;12345ABCDE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_AddStartStopChar(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>12345ABCDE<sp/>CODE39<sp/>\\d&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>4<sp/>-<sp/><sp/>ITF4<sp/>barcode,<sp/>with<sp/>a<sp/>specified<sp/>case<sp/>code:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;ITF14&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;09312345678907&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_CaseCodeStyle(u</highlight><highlight class="stringliteral">&quot;STD&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>09312345678907<sp/>ITF14<sp/>\\c<sp/>STD&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.DISPLAYBARCODE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="339" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a916229938b87c81f6bb6ef03beb06638" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldDisplayBarcode::set_AddStartStopChar</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_AddStartStopChar</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::set_AddStartStopChar</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a57cfdf32d1c37d7f8a355e44bd208ced" kindref="member">Aspose::Words::Fields::FieldDisplayBarcode::get_AddStartStopChar</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="822" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a86df3e9ba80cb44fb2d98a859d7b3e54" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldDisplayBarcode::set_BackgroundColor</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_BackgroundColor</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::set_BackgroundColor</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1aa6e404888106e8c2e506a52a51760fe0" kindref="member">Aspose::Words::Fields::FieldDisplayBarcode::get_BackgroundColor</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="522" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1afde74ec030ed94477b942111606d1566" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldDisplayBarcode::set_BarcodeType</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_BarcodeType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::set_BarcodeType</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a38cbeaee989dd1d675bd7e9488984db1" kindref="member">Aspose::Words::Fields::FieldDisplayBarcode::get_BarcodeType</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="222" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1ab22eb8979e8e95f98caddf222c541a6b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldDisplayBarcode::set_BarcodeValue</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_BarcodeValue</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::set_BarcodeValue</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a4b54400377a75fb253c1d276fcc583d3" kindref="member">Aspose::Words::Fields::FieldDisplayBarcode::get_BarcodeValue</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="162" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1ab194eff2f5445e88e359820451415e54" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldDisplayBarcode::set_CaseCodeStyle</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_CaseCodeStyle</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::set_CaseCodeStyle</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1accc4b74a1ebd6714f54b13a2748b68d4" kindref="member">Aspose::Words::Fields::FieldDisplayBarcode::get_CaseCodeStyle</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="642" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1ad657d6af2739c0f31104c432a911c5ef" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldDisplayBarcode::set_DisplayText</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_DisplayText</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::set_DisplayText</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a2448efc380869967ff3dd59063acc114" kindref="member">Aspose::Words::Fields::FieldDisplayBarcode::get_DisplayText</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="762" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a3202540a7c0aba4d6cc76c0beafb00ac" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldDisplayBarcode::set_ErrorCorrectionLevel</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ErrorCorrectionLevel</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::set_ErrorCorrectionLevel</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a3d1fe398df65910eded5a03a80c12f99" kindref="member">Aspose::Words::Fields::FieldDisplayBarcode::get_ErrorCorrectionLevel</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="702" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a6dca6d37e1731229120b752922b35c1e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldDisplayBarcode::set_FixCheckDigit</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_FixCheckDigit</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::set_FixCheckDigit</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a967f4ada4510cc0e5c5cae55692e4f90" kindref="member">Aspose::Words::Fields::FieldDisplayBarcode::get_FixCheckDigit</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="882" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a86e1be68d7fe3a6d617bb8c13793462f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldDisplayBarcode::set_ForegroundColor</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ForegroundColor</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::set_ForegroundColor</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a12cd738dd97b104891dcfcc9e0b5033f" kindref="member">Aspose::Words::Fields::FieldDisplayBarcode::get_ForegroundColor</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="462" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a1fb6ba69b256e17c007a0aab62ee1c23" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldDisplayBarcode::set_PosCodeStyle</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_PosCodeStyle</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::set_PosCodeStyle</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1afc293f0731627e2a903b7d73b72192e1" kindref="member">Aspose::Words::Fields::FieldDisplayBarcode::get_PosCodeStyle</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="582" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1abedd419069187407cca3eae394c36bb6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldDisplayBarcode::set_ScalingFactor</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ScalingFactor</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::set_ScalingFactor</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a29464536ed8d10d1aaca61efd1d96c9a" kindref="member">Aspose::Words::Fields::FieldDisplayBarcode::get_ScalingFactor</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="402" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1adf5fe872ea7edc0556dd36df19769b72" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldDisplayBarcode::set_SymbolHeight</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_SymbolHeight</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::set_SymbolHeight</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a5a537d9a3c60cb802469923cda0d6b02" kindref="member">Aspose::Words::Fields::FieldDisplayBarcode::get_SymbolHeight</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="282" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a255a1a2ed91dcba7047b1b8861704f69" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldDisplayBarcode::set_SymbolRotation</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_SymbolRotation</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDisplayBarcode::set_SymbolRotation</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a02ec3c6f74e7905bec90cf9f4446e16b" kindref="member">Aspose::Words::Fields::FieldDisplayBarcode::get_SymbolRotation</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="342" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implements the DISPLAYBARCODE field. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a DISPLAYBARCODE field, and set its properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>four<sp/>types<sp/>of<sp/>barcodes,<sp/>decorated<sp/>in<sp/>various<sp/>ways,<sp/>that<sp/>the<sp/>DISPLAYBARCODE<sp/>field<sp/>can<sp/>display.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>QR<sp/>code<sp/>with<sp/>custom<sp/>colors:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;QR&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;ABC123&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BackgroundColor(u</highlight><highlight class="stringliteral">&quot;0xF8BD69&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ForegroundColor(u</highlight><highlight class="stringliteral">&quot;0xB5413B&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ErrorCorrectionLevel(u</highlight><highlight class="stringliteral">&quot;3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ScalingFactor(u</highlight><highlight class="stringliteral">&quot;250&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolHeight(u</highlight><highlight class="stringliteral">&quot;1000&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_SymbolRotation(u</highlight><highlight class="stringliteral">&quot;0&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>ABC123<sp/>QR<sp/>\\b<sp/>0xF8BD69<sp/>\\f<sp/>0xB5413B<sp/>\\q<sp/>3<sp/>\\s<sp/>250<sp/>\\h<sp/>1000<sp/>\\r<sp/>0&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>EAN13<sp/>barcode,<sp/>with<sp/>the<sp/>digits<sp/>displayed<sp/>below<sp/>the<sp/>bars:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;EAN13&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;501234567890&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DisplayText(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_PosCodeStyle(u</highlight><highlight class="stringliteral">&quot;CASE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FixCheckDigit(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>501234567890<sp/>EAN13<sp/>\\t<sp/>\\p<sp/>CASE<sp/>\\x&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>CODE39<sp/>barcode:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;CODE39&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;12345ABCDE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_AddStartStopChar(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>12345ABCDE<sp/>CODE39<sp/>\\d&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>4<sp/>-<sp/><sp/>ITF4<sp/>barcode,<sp/>with<sp/>a<sp/>specified<sp/>case<sp/>code:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDisplayBarcode&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" kindref="member" tooltip="Specifies the DISPLAYBARCODE field.">FieldType::FieldDisplayBarcode</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeType(u</highlight><highlight class="stringliteral">&quot;ITF14&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_BarcodeValue(u</highlight><highlight class="stringliteral">&quot;09312345678907&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_CaseCodeStyle(u</highlight><highlight class="stringliteral">&quot;STD&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DISPLAYBARCODE<sp/><sp/>09312345678907<sp/>ITF14<sp/>\\c<sp/>STD&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.DISPLAYBARCODE.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldDisplayBarcode</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldDisplayBarcode</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" line="93" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldDisplayBarcode.h" bodystart="94" bodyend="894"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a6ae31a801b026482e54dcefd4b7bf862" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1aeb544e3cb55c8d2f91a97bf5ad625a7d" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a57cfdf32d1c37d7f8a355e44bd208ced" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>get_AddStartStopChar</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1aa6e404888106e8c2e506a52a51760fe0" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>get_BackgroundColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a38cbeaee989dd1d675bd7e9488984db1" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>get_BarcodeType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a4b54400377a75fb253c1d276fcc583d3" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>get_BarcodeValue</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1accc4b74a1ebd6714f54b13a2748b68d4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>get_CaseCodeStyle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a5c2d01019c517ea8098f296903e37a34" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>get_DisplayResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a2448efc380869967ff3dd59063acc114" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>get_DisplayText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad5f0995c85cce833806e847cf25809b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a3d1fe398df65910eded5a03a80c12f99" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>get_ErrorCorrectionLevel</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a399c14463916724cac0015b430175589" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>get_FieldEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abc40cddc1325f7fec80d8530e5287448" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>get_FieldStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a967f4ada4510cc0e5c5cae55692e4f90" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>get_FixCheckDigit</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a12cd738dd97b104891dcfcc9e0b5033f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>get_ForegroundColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a090c5d09915e2ead6cc54fda736dd7c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>get_Format</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ae68851d4a88a1fc867d3ddee2e4e88c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>get_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afda4c46db80761545c89e21aae5b717d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>get_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a93719d071099487b6aea1eaa241dd6e8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>get_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1afc293f0731627e2a903b7d73b72192e1" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>get_PosCodeStyle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a012c93472901dc077815970a9b2ab650" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>get_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a29464536ed8d10d1aaca61efd1d96c9a" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>get_ScalingFactor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abbc83ad66d5fb391a21980126ea96847" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>get_Separator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afa7cd5d4cf1a87b05058982f26786456" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a5a537d9a3c60cb802469923cda0d6b02" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>get_SymbolHeight</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a02ec3c6f74e7905bec90cf9f4446e16b" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>get_SymbolRotation</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad68196653db5cfca30c1ba18ed44c76e" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a244ca1b7b30c69c4b5488c40bf39bc82" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>GetFakeResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa40bc0e4a5be11f0df785cc8bb2ff042" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1aeebd8ae737ffb415c8f677fd5c292aad" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>GetSwitchType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad26a8021af3dbdc5bf0a1360a201222f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a29c7f06e597a10376ac5237c57abd7a5" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a916229938b87c81f6bb6ef03beb06638" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>set_AddStartStopChar</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a86df3e9ba80cb44fb2d98a859d7b3e54" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>set_BackgroundColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1afde74ec030ed94477b942111606d1566" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>set_BarcodeType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1ab22eb8979e8e95f98caddf222c541a6b" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>set_BarcodeValue</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1ab194eff2f5445e88e359820451415e54" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>set_CaseCodeStyle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1ad657d6af2739c0f31104c432a911c5ef" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>set_DisplayText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a3202540a7c0aba4d6cc76c0beafb00ac" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>set_ErrorCorrectionLevel</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a6dca6d37e1731229120b752922b35c1e" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>set_FixCheckDigit</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a86e1be68d7fe3a6d617bb8c13793462f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>set_ForegroundColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa637d825865724665fb8ed856e664d95" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>set_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ac70b125adbe7f0ba5b889280cd282c47" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>set_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a165f748dd5ba33844f1d765f6c710f88" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>set_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a1fb6ba69b256e17c007a0aab62ee1c23" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>set_PosCodeStyle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa6af1e900c84ae806f071098dfe8f087" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>set_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1abedd419069187407cca3eae394c36bb6" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>set_ScalingFactor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1adf5fe872ea7edc0556dd36df19769b72" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>set_SymbolHeight</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a255a1a2ed91dcba7047b1b8861704f69" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>set_SymbolRotation</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1affb0f8d2bb26d89d3ace5dcfb271831d" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a27d73e4134d8b705a2dd980bd3752336" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab9f908becb16b26bed76d58dbcee9929" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>Unlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aaec82418b2b6493aa2827b8e282b2e82" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a1298d7daa07c863bf97cb3f37a4d7a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode_1a5d0de701630ce7e61079954d5f54ba2a" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldDisplayBarcode</scope><name>~FieldDisplayBarcode</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

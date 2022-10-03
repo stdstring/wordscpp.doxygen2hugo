@@ -1,0 +1,373 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base" kind="class" language="C++" prot="public" abstract="yes">
+    <compoundname>Aspose::Words::Fonts::FontSourceBase</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Fonts::IFontSource</basecompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_fonts_1_1_file_font_source" prot="public" virt="non-virtual">Aspose::Words::Fonts::FileFontSource</derivedcompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source" prot="public" virt="non-virtual">Aspose::Words::Fonts::FolderFontSource</derivedcompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source" prot="public" virt="non-virtual">Aspose::Words::Fonts::MemoryFontSource</derivedcompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source" prot="public" virt="non-virtual">Aspose::Words::Fonts::StreamFontSource</derivedcompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_fonts_1_1_system_font_source" prot="public" virt="non-virtual">Aspose::Words::Fonts::SystemFontSource</derivedcompoundref>
+    <includes refid="_font_source_base_8h" local="no">Aspose.Words.Cpp/Fonts/FontSourceBase.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1ac22bf3753976f28d4be747eb2a011f2f" prot="private" static="no">
+        <type>Aspose::Fonts::IFontSource</type>
+        <definition>typedef Aspose::Fonts::IFontSource Aspose::Words::Fonts::FontSourceBase::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSourceBase::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSourceBase.h" line="72" column="40" bodyfile="Aspose.Words.Cpp/Fonts/FontSourceBase.h" bodystart="72" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1aba6a7f46baee5a4f08ef1ee04e46c10d" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base" kindref="compound">FontSourceBase</ref></type>
+        <definition>typedef FontSourceBase Aspose::Words::Fonts::FontSourceBase::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSourceBase::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSourceBase.h" line="71" column="28" bodyfile="Aspose.Words.Cpp/Fonts/FontSourceBase.h" bodystart="71" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a63d88aa7517e19357fd532d6e5c5d710" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; BaseType &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Fonts::FontSourceBase::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSourceBase::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSourceBase.h" line="74" column="37" bodyfile="Aspose.Words.Cpp/Fonts/FontSourceBase.h" bodystart="74" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a0750db4c97c2b2ac9061d01322c3763b" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Fonts::FontSourceBase::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSourceBase::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSourceBase.h" line="193" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontSourceBase.h" bodystart="193" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a0547e64888ac14736fce3bdb5a7cfcdd" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fonts::FontSourceBase::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSourceBase::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSourceBase.h" line="194" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontSourceBase.h" bodystart="194" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a101ee757ca38507387025ea75da312a7" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fonts::FontSourceBase::FontSourceBase</definition>
+        <argsstring>()</argsstring>
+        <name>FontSourceBase</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSourceBase::FontSourceBase</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSourceBase.h" line="185" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1aa7c4466db4917fedad774c89a0994db4" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Fonts::FontSourceBase::~FontSourceBase</definition>
+        <argsstring>()</argsstring>
+        <name>~FontSourceBase</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSourceBase::~FontSourceBase</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSourceBase.h" line="187" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a7fcdcd4c3f40b316a7f1a6b062f23337" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fonts::FontSourceBase::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSourceBase::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSourceBase.h" line="75" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1abba3fb9827af183660bb750252ec78f6" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Fonts::FontSourceBase::get_Priority</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Priority</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSourceBase::get_Priority</qualifiedname>
+        <briefdescription>
+<para>Returns the font source priority. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This value is used when there are fonts with the same family name and style in different font sources. In this case Aspose.Words selects the font from the source with the higher priority value.</para>
+<para>The default value is 0.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use a font file in the local file system as a font source. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fileFontSource<sp/>=<sp/>MakeObject&lt;FileFontSource&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.ttf&quot;</highlight><highlight class="normal">,<sp/>0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(MakeObject&lt;FontSettings&gt;());</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({fileFontSource}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.ttf&quot;</highlight><highlight class="normal">,<sp/>fileFontSource-&gt;get_FilePath());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1af65db13b97485d8149963de13bf8866f" kindref="member" tooltip="A FileFontSource object that represents single font file.">FontSourceType::FontFile</ref>,<sp/>fileFontSource-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>fileFontSource-&gt;get_Priority());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSourceBase.h" line="118" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a7ee93eabec992e28bde2e2a7ccffb463" prot="public" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1" kindref="member">Aspose::Words::Fonts::FontSourceType</ref></type>
+        <definition>virtual Aspose::Words::Fonts::FontSourceType Aspose::Words::Fonts::FontSourceBase::get_Type</definition>
+        <argsstring>()=0</argsstring>
+        <name>get_Type</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSourceBase::get_Type</qualifiedname>
+        <reimplementedby refid="class_aspose_1_1_words_1_1_fonts_1_1_file_font_source_1a89e0f82b5278b1c6b6f55789fcdb6535">get_Type</reimplementedby>
+        <reimplementedby refid="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source_1a115ae3e7438d1dfe189b7a2c2fcd3f9b">get_Type</reimplementedby>
+        <reimplementedby refid="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1a4bc5c3ca40a1caf94f5a8f608b92c584">get_Type</reimplementedby>
+        <reimplementedby refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1a8ae57f7e9e3a81f70e83ffa95498b4c8">get_Type</reimplementedby>
+        <reimplementedby refid="class_aspose_1_1_words_1_1_fonts_1_1_system_font_source_1a75a89f5d533b6230e6d3f098d86af8f8">get_Type</reimplementedby>
+        <briefdescription>
+<para>Returns the type of the font source. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use a font file in the local file system as a font source. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fileFontSource<sp/>=<sp/>MakeObject&lt;FileFontSource&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.ttf&quot;</highlight><highlight class="normal">,<sp/>0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(MakeObject&lt;FontSettings&gt;());</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({fileFontSource}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.ttf&quot;</highlight><highlight class="normal">,<sp/>fileFontSource-&gt;get_FilePath());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1af65db13b97485d8149963de13bf8866f" kindref="member" tooltip="A FileFontSource object that represents single font file.">FontSourceType::FontFile</ref>,<sp/>fileFontSource-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>fileFontSource-&gt;get_Priority());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSourceBase.h" line="95" column="53"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a82c8254fe64b2f20579fd502db17032a" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_i_warning_callback" kindref="compound">Aspose::Words::IWarningCallback</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::IWarningCallback &gt; Aspose::Words::Fonts::FontSourceBase::get_WarningCallback</definition>
+        <argsstring>() const</argsstring>
+        <name>get_WarningCallback</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSourceBase::get_WarningCallback</qualifiedname>
+        <briefdescription>
+<para>Called during processing of font source when an issue is detected that might result in formatting fidelity loss. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to call warning callback when the font sources working with. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FontSourceWarning()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>settings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>settings-&gt;SetFontsFolder(u</highlight><highlight class="stringliteral">&quot;bad<sp/>folder?&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FontSourceBase&gt;<sp/>source<sp/>=<sp/>settings-&gt;GetFontsSources()-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>callback<sp/>=<sp/>MakeObject&lt;ExFontSettings::FontSourceWarningCollector&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>source-&gt;set_WarningCallback(callback);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>list<sp/>of<sp/>fonts<sp/>to<sp/>call<sp/>warning<sp/>callback.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IList&lt;SharedPtr&lt;PhysicalFontInfo&gt;&gt;&gt;<sp/>fontInfos<sp/>=<sp/>source-&gt;GetAvailableFonts();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(callback-&gt;FontSubstitutionWarnings-&gt;idx_get(0)-&gt;get_Description().Contains(u</highlight><highlight class="stringliteral">&quot;Error<sp/>loading<sp/>font<sp/>from<sp/>the<sp/>folder<sp/>\&quot;bad<sp/>folder?\&quot;&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">FontSourceWarningCollector<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IWarningCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;WarningInfoCollection&gt;<sp/>FontSubstitutionWarnings;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>Warning(SharedPtr&lt;WarningInfo&gt;<sp/>info)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>FontSubstitutionWarnings-&gt;Warning(info);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>FontSourceWarningCollector()<sp/>:<sp/>FontSubstitutionWarnings(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;WarningInfoCollection&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSourceBase.h" line="159" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a41658ea3418ae6df25dbd632fdaa0c43" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_list/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IList</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_physical_font_info" kindref="compound">Aspose::Words::Fonts::PhysicalFontInfo</ref> &gt; &gt; &gt;</type>
+        <definition>System::SharedPtr&lt; System::Collections::Generic::IList&lt; System::SharedPtr&lt; Aspose::Words::Fonts::PhysicalFontInfo &gt; &gt; &gt; Aspose::Words::Fonts::FontSourceBase::GetAvailableFonts</definition>
+        <argsstring>()</argsstring>
+        <name>GetAvailableFonts</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSourceBase::GetAvailableFonts</qualifiedname>
+        <briefdescription>
+<para>Returns list of fonts available via this source. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to list available fonts. <programlisting><codeline><highlight class="comment">//<sp/>Configure<sp/>Aspose.Words<sp/>to<sp/>source<sp/>fonts<sp/>from<sp/>a<sp/>custom<sp/>folder,<sp/>and<sp/>then<sp/>print<sp/>every<sp/>available<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;FontSourceBase&gt;&gt;<sp/>folderFontSource<sp/>=<sp/>MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({MakeObject&lt;FolderFontSource&gt;(FontsDir,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)});</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>fontInfo<sp/>:<sp/>System::IterateOver(folderFontSource[0]-&gt;<ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a41658ea3418ae6df25dbd632fdaa0c43" kindref="member" tooltip="Returns list of fonts available via this source.">GetAvailableFonts</ref>()))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;FontFamilyName<sp/>:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>fontInfo-&gt;get_FontFamilyName()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;FullFontName<sp/><sp/>:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>fontInfo-&gt;get_FullFontName()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Version<sp/><sp/>:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>fontInfo-&gt;get_Version()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;FilePath<sp/>:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>fontInfo-&gt;get_FilePath()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\n&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSourceBase.h" line="181" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a296a7f589143ba1850991e81fd1a1119" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::FontSourceBase::set_WarningCallback</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::IWarningCallback &gt; &amp;value)</argsstring>
+        <name>set_WarningCallback</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSourceBase::set_WarningCallback</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_i_warning_callback" kindref="compound">Aspose::Words::IWarningCallback</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a82c8254fe64b2f20579fd502db17032a" kindref="member">Aspose::Words::Fonts::FontSourceBase::get_WarningCallback</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSourceBase.h" line="162" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>This is an abstract base class for the classes that allow the user to specify various font sources. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use a font file in the local file system as a font source. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fileFontSource<sp/>=<sp/>MakeObject&lt;FileFontSource&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.ttf&quot;</highlight><highlight class="normal">,<sp/>0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(MakeObject&lt;FontSettings&gt;());</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({fileFontSource}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.ttf&quot;</highlight><highlight class="normal">,<sp/>fileFontSource-&gt;get_FilePath());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1af65db13b97485d8149963de13bf8866f" kindref="member" tooltip="A FileFontSource object that represents single font file.">FontSourceType::FontFile</ref>,<sp/>fileFontSource-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>fileFontSource-&gt;get_Priority());</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Fonts::IFontSource</label>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::Fonts::FileFontSource</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_file_font_source"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fonts::FolderFontSource</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fonts::FontSourceBase</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>Aspose::Words::Fonts::MemoryFontSource</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>Aspose::Words::Fonts::StreamFontSource</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>Aspose::Words::Fonts::SystemFontSource</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_system_font_source"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Fonts::IFontSource</label>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fonts::FontSourceBase</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fonts/FontSourceBase.h" line="69" column="1" bodyfile="Aspose.Words.Cpp/Fonts/FontSourceBase.h" bodystart="70" bodyend="198"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1ac22bf3753976f28d4be747eb2a011f2f" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSourceBase</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a101ee757ca38507387025ea75da312a7" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSourceBase</scope><name>FontSourceBase</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1abba3fb9827af183660bb750252ec78f6" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSourceBase</scope><name>get_Priority</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a7ee93eabec992e28bde2e2a7ccffb463" prot="public" virt="pure-virtual"><scope>Aspose::Words::Fonts::FontSourceBase</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a82c8254fe64b2f20579fd502db17032a" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSourceBase</scope><name>get_WarningCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a41658ea3418ae6df25dbd632fdaa0c43" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSourceBase</scope><name>GetAvailableFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a0750db4c97c2b2ac9061d01322c3763b" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSourceBase</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a0547e64888ac14736fce3bdb5a7cfcdd" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSourceBase</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a7fcdcd4c3f40b316a7f1a6b062f23337" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSourceBase</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a296a7f589143ba1850991e81fd1a1119" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSourceBase</scope><name>set_WarningCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1aba6a7f46baee5a4f08ef1ee04e46c10d" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSourceBase</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a63d88aa7517e19357fd532d6e5c5d710" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSourceBase</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1aa7c4466db4917fedad774c89a0994db4" prot="private" virt="virtual"><scope>Aspose::Words::Fonts::FontSourceBase</scope><name>~FontSourceBase</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

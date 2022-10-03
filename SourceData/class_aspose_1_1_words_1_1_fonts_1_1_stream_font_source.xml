@@ -1,0 +1,365 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source" kind="class" language="C++" prot="public" abstract="yes">
+    <compoundname>Aspose::Words::Fonts::StreamFontSource</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base" prot="public" virt="non-virtual">Aspose::Words::Fonts::FontSourceBase</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Fonts::IFontData</basecompoundref>
+    <includes refid="_stream_font_source_8h" local="no">Aspose.Words.Cpp/Fonts/StreamFontSource.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1a1496d49620e969ed015fd52f2d9868b7" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base" kindref="compound">Aspose::Words::Fonts::FontSourceBase</ref></type>
+        <definition>typedef Aspose::Words::Fonts::FontSourceBase Aspose::Words::Fonts::StreamFontSource::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fonts::StreamFontSource::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/StreamFontSource.h" line="89" column="50" bodyfile="Aspose.Words.Cpp/Fonts/StreamFontSource.h" bodystart="89" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1aee465d2d69ed4c31b553c921b5ab8633" prot="private" static="no">
+        <type>Aspose::Fonts::IFontData</type>
+        <definition>typedef Aspose::Fonts::IFontData Aspose::Words::Fonts::StreamFontSource::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Fonts::StreamFontSource::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/StreamFontSource.h" line="90" column="38" bodyfile="Aspose.Words.Cpp/Fonts/StreamFontSource.h" bodystart="90" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1a11bbbb16d46a66a41b33c5c250acabf8" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source" kindref="compound">StreamFontSource</ref></type>
+        <definition>typedef StreamFontSource Aspose::Words::Fonts::StreamFontSource::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fonts::StreamFontSource::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/StreamFontSource.h" line="88" column="30" bodyfile="Aspose.Words.Cpp/Fonts/StreamFontSource.h" bodystart="88" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1ac71f6195144a530342aed7253b64b6d5" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Fonts::StreamFontSource::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fonts::StreamFontSource::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/StreamFontSource.h" line="92" column="37" bodyfile="Aspose.Words.Cpp/Fonts/StreamFontSource.h" bodystart="92" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1abc194e0e654d9bcc280a50a3f9b3ddf1" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Fonts::StreamFontSource::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Fonts::StreamFontSource::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/StreamFontSource.h" line="151" column="23" bodyfile="Aspose.Words.Cpp/Fonts/StreamFontSource.h" bodystart="151" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1a996b6dd3fbb13bf85f8f2c1c4f3cad9e" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fonts::StreamFontSource::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Fonts::StreamFontSource::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/StreamFontSource.h" line="152" column="20" bodyfile="Aspose.Words.Cpp/Fonts/StreamFontSource.h" bodystart="152" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1a944fbd46c3df06917843a73d0f0c7de6" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fonts::StreamFontSource::StreamFontSource</definition>
+        <argsstring>()</argsstring>
+        <name>StreamFontSource</name>
+        <qualifiedname>Aspose::Words::Fonts::StreamFontSource::StreamFontSource</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/StreamFontSource.h" line="145" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1a9b978eb676d2e9b14da654552f976201" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Fonts::StreamFontSource::~StreamFontSource</definition>
+        <argsstring>()</argsstring>
+        <name>~StreamFontSource</name>
+        <qualifiedname>Aspose::Words::Fonts::StreamFontSource::~StreamFontSource</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/StreamFontSource.h" line="147" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1a7ae34a8a4ec9460ec72524b0053491e5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fonts::StreamFontSource::GetFilePath</definition>
+        <argsstring>() override</argsstring>
+        <name>GetFilePath</name>
+        <qualifiedname>Aspose::Words::Fonts::StreamFontSource::GetFilePath</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/StreamFontSource.h" line="156" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1af9fd976c0b60bf7daaf97d480d4bdc4b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Fonts::StreamFontSource::GetSize</definition>
+        <argsstring>() override</argsstring>
+        <name>GetSize</name>
+        <qualifiedname>Aspose::Words::Fonts::StreamFontSource::GetSize</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/StreamFontSource.h" line="155" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1a10d1ec4b7218f79684abbc3cfb5b8b64" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; System::IO::Stream &gt; Aspose::Words::Fonts::StreamFontSource::OpenStream</definition>
+        <argsstring>() override</argsstring>
+        <name>OpenStream</name>
+        <qualifiedname>Aspose::Words::Fonts::StreamFontSource::OpenStream</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/StreamFontSource.h" line="154" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1a1da0b2b19c239581950f0b325acd20a5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fonts::StreamFontSource::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fonts::StreamFontSource::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/StreamFontSource.h" line="93" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1aa451846a74e808dc58890ef5ed6571b0" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fonts::StreamFontSource::get_CacheKey</definition>
+        <argsstring>() const</argsstring>
+        <name>get_CacheKey</name>
+        <qualifiedname>Aspose::Words::Fonts::StreamFontSource::get_CacheKey</qualifiedname>
+        <briefdescription>
+<para>The key of this source in the cache. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/StreamFontSource.h" line="98" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1a8ae57f7e9e3a81f70e83ffa95498b4c8" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1" kindref="member">Aspose::Words::Fonts::FontSourceType</ref></type>
+        <definition>Aspose::Words::Fonts::FontSourceType Aspose::Words::Fonts::StreamFontSource::get_Type</definition>
+        <argsstring>() override</argsstring>
+        <name>get_Type</name>
+        <qualifiedname>Aspose::Words::Fonts::StreamFontSource::get_Type</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a7ee93eabec992e28bde2e2a7ccffb463">get_Type</reimplements>
+        <briefdescription>
+<para>Returns the type of the font source. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/StreamFontSource.h" line="101" column="45"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1ab85ce43308af055dd68ea2b3e068e63b" prot="public" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt;</type>
+        <definition>virtual System::SharedPtr&lt; System::IO::Stream &gt; Aspose::Words::Fonts::StreamFontSource::OpenFontDataStream</definition>
+        <argsstring>()=0</argsstring>
+        <name>OpenFontDataStream</name>
+        <qualifiedname>Aspose::Words::Fonts::StreamFontSource::OpenFontDataStream</qualifiedname>
+        <briefdescription>
+<para>This method should open the stream with font data on demand. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para><ref refid="class_aspose_1_1_words_1_1_font" kindref="compound">Font</ref> data stream.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to load fonts from stream. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>StreamFontSourceFileRendering()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fontSettings-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({MakeObject&lt;ExFontSettings::StreamFontSourceFile&gt;()}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Document()-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Kreon-Regular&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Test<sp/>aspose<sp/>text<sp/>when<sp/>saving<sp/>to<sp/>PDF.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Document()-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.StreamFontSourceFileRendering.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">StreamFontSourceFile<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>StreamFontSource</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::Stream&gt;<sp/>OpenFontDataStream()</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/><ref refid="class/system.i_o.file/_1acf0c889be242fb4723b33e96e9377423" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::OpenRead</ref>(FontsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Kreon-Regular.ttf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">protected</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">virtual</highlight><highlight class="normal"><sp/>~StreamFontSourceFile()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/StreamFontSource.h" line="141" column="34"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Base class for user-defined stream font source. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>In order to use the stream font source you should create a derived class from the <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source" kindref="compound">StreamFontSource</ref> and provide implementation of the <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1ab85ce43308af055dd68ea2b3e068e63b" kindref="member">OpenFontDataStream</ref> method.</para>
+<para><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1ab85ce43308af055dd68ea2b3e068e63b" kindref="member">OpenFontDataStream</ref> method could be called several times. For the first time it will be called when Aspose.Words scans the provided font sources to get the list of available fonts. Later it may be called if the font is used in the document to parse the font data and to embed the font data to some output formats.</para>
+<para><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source" kindref="compound">StreamFontSource</ref> may be useful because it allows to load the font data only when it is required and not to store it in the memory for the <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings" kindref="compound">FontSettings</ref> lifetime.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to load fonts from stream. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>StreamFontSourceFileRendering()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fontSettings-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({MakeObject&lt;ExFontSettings::StreamFontSourceFile&gt;()}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Document()-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Kreon-Regular&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Test<sp/>aspose<sp/>text<sp/>when<sp/>saving<sp/>to<sp/>PDF.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Document()-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.StreamFontSourceFileRendering.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">StreamFontSourceFile<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>StreamFontSource</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::Stream&gt;<sp/>OpenFontDataStream()</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/><ref refid="class/system.i_o.file/_1acf0c889be242fb4723b33e96e9377423" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::OpenRead</ref>(FontsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Kreon-Regular.ttf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">protected</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">virtual</highlight><highlight class="normal"><sp/>~StreamFontSourceFile()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="4">
+        <label>Aspose::Fonts::IFontData</label>
+      </node>
+      <node id="3">
+        <label>Aspose::Fonts::IFontSource</label>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Fonts::FontSourceBase</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fonts::StreamFontSource</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="4">
+        <label>Aspose::Fonts::IFontData</label>
+      </node>
+      <node id="3">
+        <label>Aspose::Fonts::IFontSource</label>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Fonts::FontSourceBase</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fonts::StreamFontSource</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fonts/StreamFontSource.h" line="86" column="1" bodyfile="Aspose.Words.Cpp/Fonts/StreamFontSource.h" bodystart="87" bodyend="160"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1a1496d49620e969ed015fd52f2d9868b7" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::StreamFontSource</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1aee465d2d69ed4c31b553c921b5ab8633" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::StreamFontSource</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1aa451846a74e808dc58890ef5ed6571b0" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::StreamFontSource</scope><name>get_CacheKey</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1abba3fb9827af183660bb750252ec78f6" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::StreamFontSource</scope><name>get_Priority</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1a8ae57f7e9e3a81f70e83ffa95498b4c8" prot="public" virt="virtual"><scope>Aspose::Words::Fonts::StreamFontSource</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a82c8254fe64b2f20579fd502db17032a" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::StreamFontSource</scope><name>get_WarningCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a41658ea3418ae6df25dbd632fdaa0c43" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::StreamFontSource</scope><name>GetAvailableFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1a7ae34a8a4ec9460ec72524b0053491e5" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::StreamFontSource</scope><name>GetFilePath</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1af9fd976c0b60bf7daaf97d480d4bdc4b" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::StreamFontSource</scope><name>GetSize</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1abc194e0e654d9bcc280a50a3f9b3ddf1" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::StreamFontSource</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1a996b6dd3fbb13bf85f8f2c1c4f3cad9e" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::StreamFontSource</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1ab85ce43308af055dd68ea2b3e068e63b" prot="public" virt="pure-virtual"><scope>Aspose::Words::Fonts::StreamFontSource</scope><name>OpenFontDataStream</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1a10d1ec4b7218f79684abbc3cfb5b8b64" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::StreamFontSource</scope><name>OpenStream</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1a1da0b2b19c239581950f0b325acd20a5" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::StreamFontSource</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a296a7f589143ba1850991e81fd1a1119" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::StreamFontSource</scope><name>set_WarningCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1a944fbd46c3df06917843a73d0f0c7de6" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::StreamFontSource</scope><name>StreamFontSource</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1a11bbbb16d46a66a41b33c5c250acabf8" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::StreamFontSource</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1ac71f6195144a530342aed7253b64b6d5" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::StreamFontSource</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1a9b978eb676d2e9b14da654552f976201" prot="private" virt="virtual"><scope>Aspose::Words::Fonts::StreamFontSource</scope><name>~StreamFontSource</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

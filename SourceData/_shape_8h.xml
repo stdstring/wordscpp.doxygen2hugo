@@ -1,0 +1,585 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="_shape_8h" kind="file" language="C++">
+    <compoundname>Shape.h</compoundname>
+    <includes local="no">system/array.h</includes>
+    <includes local="no">cstdint</includes>
+    <includes refid="_story_type_8h" local="no">Aspose.Words.Cpp/StoryType.h</includes>
+    <includes refid="_node_type_8h" local="no">Aspose.Words.Cpp/NodeType.h</includes>
+    <includes refid="_shape_type_8h" local="no">Aspose.Words.Cpp/Drawing/ShapeType.h</includes>
+    <includes refid="_shape_base_8h" local="no">Aspose.Words.Cpp/Drawing/ShapeBase.h</includes>
+    <includes refid="_i_text_box_8h" local="no">Aspose.Words.Cpp/Drawing/Core/ITextBox.h</includes>
+    <includes refid="_i_strokable_8h" local="no">Aspose.Words.Cpp/Drawing/Core/IStrokable.h</includes>
+    <includes refid="aspose__words__api__defs_8h" local="no">Aspose.Words.Cpp/aspose_words_api_defs.h</includes>
+    <incdepgraph>
+      <node id="40">
+        <label>Aspose.Words.Cpp/Model/Drawing/Core/FillTypeCore.h</label>
+      </node>
+      <node id="50">
+        <label>Aspose.Words.Cpp/Model/Drawing/Core/LineFillType.h</label>
+      </node>
+      <node id="16">
+        <label>Aspose.Words.Cpp/Model/Formatting/RunPrExpandFlags.h</label>
+      </node>
+      <node id="21">
+        <label>Aspose.Words.Cpp/CompositeNode.h</label>
+        <link refid="_composite_node_8h_source"/>
+        <childnode refid="22" relation="include">
+        </childnode>
+        <childnode refid="23" relation="include">
+        </childnode>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+        <childnode refid="24" relation="include">
+        </childnode>
+        <childnode refid="28" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="57">
+        <label>Aspose.Words.Cpp/Drawing/ArrowLength.h</label>
+        <link refid="_arrow_length_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="56">
+        <label>Aspose.Words.Cpp/Drawing/ArrowType.h</label>
+        <link refid="_arrow_type_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="55">
+        <label>Aspose.Words.Cpp/Drawing/ArrowWidth.h</label>
+        <link refid="_arrow_width_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="39">
+        <label>Aspose.Words.Cpp/Drawing/Core/IFillable.h</label>
+        <link refid="_i_fillable_8h_source"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="40" relation="include">
+        </childnode>
+        <childnode refid="41" relation="include">
+        </childnode>
+        <childnode refid="42" relation="include">
+        </childnode>
+        <childnode refid="43" relation="include">
+        </childnode>
+        <childnode refid="44" relation="include">
+        </childnode>
+        <childnode refid="45" relation="include">
+        </childnode>
+      </node>
+      <node id="38">
+        <label>Aspose.Words.Cpp/Drawing/Core/IShape.h</label>
+        <link refid="_i_shape_8h_source"/>
+        <childnode refid="18" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+      </node>
+      <node id="49">
+        <label>Aspose.Words.Cpp/Drawing/Core/IStrokable.h</label>
+        <link refid="_i_strokable_8h_source"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="50" relation="include">
+        </childnode>
+        <childnode refid="51" relation="include">
+        </childnode>
+        <childnode refid="52" relation="include">
+        </childnode>
+        <childnode refid="53" relation="include">
+        </childnode>
+        <childnode refid="54" relation="include">
+        </childnode>
+        <childnode refid="55" relation="include">
+        </childnode>
+        <childnode refid="56" relation="include">
+        </childnode>
+        <childnode refid="57" relation="include">
+        </childnode>
+      </node>
+      <node id="46">
+        <label>Aspose.Words.Cpp/Drawing/Core/ITextBox.h</label>
+        <link refid="_i_text_box_8h_source"/>
+        <childnode refid="18" relation="include">
+        </childnode>
+        <childnode refid="47" relation="include">
+        </childnode>
+        <childnode refid="33" relation="include">
+        </childnode>
+        <childnode refid="48" relation="include">
+        </childnode>
+      </node>
+      <node id="54">
+        <label>Aspose.Words.Cpp/Drawing/DashStyle.h</label>
+        <link refid="_dash_style_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="53">
+        <label>Aspose.Words.Cpp/Drawing/EndCap.h</label>
+        <link refid="_end_cap_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="37">
+        <label>Aspose.Words.Cpp/Drawing/FlipOrientation.h</label>
+        <link refid="_flip_orientation_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="15" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="45">
+        <label>Aspose.Words.Cpp/Drawing/GradientStyle.h</label>
+        <link refid="_gradient_style_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="44">
+        <label>Aspose.Words.Cpp/Drawing/GradientVariant.h</label>
+        <link refid="_gradient_variant_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="36">
+        <label>Aspose.Words.Cpp/Drawing/HorizontalAlignment.h</label>
+        <link refid="_horizontal_alignment_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="52">
+        <label>Aspose.Words.Cpp/Drawing/JoinStyle.h</label>
+        <link refid="_join_style_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="48">
+        <label>Aspose.Words.Cpp/Drawing/LayoutFlow.h</label>
+        <link refid="_layout_flow_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="43">
+        <label>Aspose.Words.Cpp/Drawing/PatternType.h</label>
+        <link refid="_pattern_type_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="42">
+        <label>Aspose.Words.Cpp/Drawing/PresetTexture.h</label>
+        <link refid="_preset_texture_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="35">
+        <label>Aspose.Words.Cpp/Drawing/RelativeHorizontalPosition.h</label>
+        <link refid="_relative_horizontal_position_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="34">
+        <label>Aspose.Words.Cpp/Drawing/RelativeVerticalPosition.h</label>
+        <link refid="_relative_vertical_position_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose.Words.Cpp/Drawing/Shape.h</label>
+        <link refid="_shape_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+        <childnode refid="9" relation="include">
+        </childnode>
+        <childnode refid="10" relation="include">
+        </childnode>
+        <childnode refid="46" relation="include">
+        </childnode>
+        <childnode refid="49" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="10">
+        <label>Aspose.Words.Cpp/Drawing/ShapeBase.h</label>
+        <link refid="_shape_base_8h_source"/>
+        <childnode refid="11" relation="include">
+        </childnode>
+        <childnode refid="12" relation="include">
+        </childnode>
+        <childnode refid="13" relation="include">
+        </childnode>
+        <childnode refid="14" relation="include">
+        </childnode>
+        <childnode refid="19" relation="include">
+        </childnode>
+        <childnode refid="21" relation="include">
+        </childnode>
+        <childnode refid="29" relation="include">
+        </childnode>
+        <childnode refid="30" relation="include">
+        </childnode>
+        <childnode refid="31" relation="include">
+        </childnode>
+        <childnode refid="32" relation="include">
+        </childnode>
+        <childnode refid="9" relation="include">
+        </childnode>
+        <childnode refid="33" relation="include">
+        </childnode>
+        <childnode refid="34" relation="include">
+        </childnode>
+        <childnode refid="35" relation="include">
+        </childnode>
+        <childnode refid="36" relation="include">
+        </childnode>
+        <childnode refid="37" relation="include">
+        </childnode>
+        <childnode refid="38" relation="include">
+        </childnode>
+        <childnode refid="39" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="51">
+        <label>Aspose.Words.Cpp/Drawing/ShapeLineStyle.h</label>
+        <link refid="_shape_line_style_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="33">
+        <label>Aspose.Words.Cpp/Drawing/ShapeMarkupLanguage.h</label>
+        <link refid="_shape_markup_language_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="9">
+        <label>Aspose.Words.Cpp/Drawing/ShapeType.h</label>
+        <link refid="_shape_type_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="47">
+        <label>Aspose.Words.Cpp/Drawing/TextBoxWrapMode.h</label>
+        <link refid="_text_box_wrap_mode_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="41">
+        <label>Aspose.Words.Cpp/Drawing/TextureAlignment.h</label>
+        <link refid="_texture_alignment_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="32">
+        <label>Aspose.Words.Cpp/Drawing/VerticalAlignment.h</label>
+        <link refid="_vertical_alignment_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="31">
+        <label>Aspose.Words.Cpp/Drawing/WrapSide.h</label>
+        <link refid="_wrap_side_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="30">
+        <label>Aspose.Words.Cpp/Drawing/WrapType.h</label>
+        <link refid="_wrap_type_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="14">
+        <label>Aspose.Words.Cpp/IInline.h</label>
+        <link refid="_i_inline_8h_source"/>
+        <childnode refid="15" relation="include">
+        </childnode>
+        <childnode refid="16" relation="include">
+        </childnode>
+        <childnode refid="17" relation="include">
+        </childnode>
+      </node>
+      <node id="26">
+        <label>Aspose.Words.Cpp/INodeCloningListener.h</label>
+        <link refid="_i_node_cloning_listener_8h_source"/>
+        <childnode refid="18" relation="include">
+        </childnode>
+      </node>
+      <node id="28">
+        <label>Aspose.Words.Cpp/INodeCollection.h</label>
+        <link refid="_i_node_collection_8h_source"/>
+        <childnode refid="18" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="17">
+        <label>Aspose.Words.Cpp/IRunAttrSource.h</label>
+        <link refid="_i_run_attr_source_8h_source"/>
+        <childnode refid="18" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+      </node>
+      <node id="29">
+        <label>Aspose.Words.Cpp/IShapeAttrSource.h</label>
+        <link refid="_i_shape_attr_source_8h_source"/>
+        <childnode refid="18" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+      </node>
+      <node id="24">
+        <label>Aspose.Words.Cpp/Node.h</label>
+        <link refid="_node_8h_source"/>
+        <childnode refid="25" relation="include">
+        </childnode>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+        <childnode refid="26" relation="include">
+        </childnode>
+        <childnode refid="27" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>Aspose.Words.Cpp/NodeType.h</label>
+        <link refid="_node_type_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="20">
+        <label>Aspose.Words.Cpp/Revisions/IMoveTrackableNode.h</label>
+        <link refid="_i_move_trackable_node_8h_source"/>
+        <childnode refid="18" relation="include">
+        </childnode>
+      </node>
+      <node id="19">
+        <label>Aspose.Words.Cpp/Revisions/ITrackableNode.h</label>
+        <link refid="_i_trackable_node_8h_source"/>
+        <childnode refid="20" relation="include">
+        </childnode>
+      </node>
+      <node id="27">
+        <label>Aspose.Words.Cpp/SaveFormat.h</label>
+        <link refid="_save_format_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="15" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose.Words.Cpp/StoryType.h</label>
+        <link refid="_story_type_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>Aspose.Words.Cpp/aspose_words_api_defs.h</label>
+        <link refid="aspose__words__api__defs_8h_source"/>
+      </node>
+      <node id="3">
+        <label>cstdint</label>
+      </node>
+      <node id="13">
+        <label>drawing/point_f.h</label>
+      </node>
+      <node id="12">
+        <label>drawing/size.h</label>
+      </node>
+      <node id="11">
+        <label>drawing/size_f.h</label>
+      </node>
+      <node id="2">
+        <label>system/array.h</label>
+      </node>
+      <node id="23">
+        <label>system/collections/ienumerable.h</label>
+      </node>
+      <node id="25">
+        <label>system/constraints.h</label>
+      </node>
+      <node id="22">
+        <label>system/details/pointer_collection_helpers.h</label>
+      </node>
+      <node id="6">
+        <label>system/enum.h</label>
+      </node>
+      <node id="15">
+        <label>system/enum_helpers.h</label>
+      </node>
+      <node id="18">
+        <label>system/object.h</label>
+      </node>
+      <node id="5">
+        <label>system/object_ext.h</label>
+      </node>
+    </incdepgraph>
+    <innerclass refid="class_aspose_1_1_words_1_1_drawing_1_1_shape" prot="public">Aspose::Words::Drawing::Shape</innerclass>
+    <innernamespace refid="namespace_aspose">Aspose</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words">Aspose::Words</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words_1_1_drawing">Aspose::Words::Drawing</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts">Aspose::Words::Drawing::Charts</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words_1_1_drawing_1_1_core">Aspose::Words::Drawing::Core</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/Drawing/Shape.h"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,1342 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Saving::BookmarksOutlineLevelCollection</compoundname>
+    <basecompoundref refid="class/system.collections.generic.i_enumerable/" prot="public" virt="non-virtual">System::Collections::Generic::IEnumerable&lt; System::Collections::Generic::KeyValuePair&lt; System::String, int32_t &gt; &gt;</basecompoundref>
+    <includes refid="_bookmarks_outline_level_collection_8h" local="no">Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1ac9bc3ff464307774f8d074b3443f84c2" prot="private" static="no">
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="class/system.collections.generic.key_value_pair/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::KeyValuePair</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref>, int32_t &gt; &gt;</type>
+        <definition>typedef System::Collections::Generic::IEnumerable&lt;System::Collections::Generic::KeyValuePair&lt;System::String, int32_t&gt; &gt; Aspose::Words::Saving::BookmarksOutlineLevelCollection::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="99" column="55" bodyfile="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" bodystart="99" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a8a6373f6fb0d60c0d82c83aba3f56a38" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection" kindref="compound">BookmarksOutlineLevelCollection</ref></type>
+        <definition>typedef BookmarksOutlineLevelCollection Aspose::Words::Saving::BookmarksOutlineLevelCollection::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="98" column="45" bodyfile="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" bodystart="98" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1ab92cd3ce382687d8afb26511380f4fb9" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::BookmarksOutlineLevelCollection::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="101" column="37" bodyfile="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" bodystart="101" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a670faf9b1201712cdf1ac6f87f8e68ca" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.sorted_list/_1a91d370b050163d5f0859ed4d87d916e3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
+        <definition>using Aspose::Words::Saving::BookmarksOutlineLevelCollection::const_iterator =  typename iterator_holder_type::const_iterator</definition>
+        <argsstring></argsstring>
+        <name>const_iterator</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::const_iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="110" column="5" bodyfile="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" bodystart="110" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a30175783866794992eb464029280fe92" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.sorted_list/_1ac3d6d4d22d9de58a188a64d37f68f697" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
+        <definition>using Aspose::Words::Saving::BookmarksOutlineLevelCollection::iterator =  typename iterator_holder_type::iterator</definition>
+        <argsstring></argsstring>
+        <name>iterator</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="108" column="5" bodyfile="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" bodystart="108" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1aef7f77ad9b68a18e60be08cc820da911" prot="public" static="no">
+        <type><ref refid="class/system.collections.generic.sorted_list/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::SortedList</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref>, int32_t &gt;</type>
+        <definition>using Aspose::Words::Saving::BookmarksOutlineLevelCollection::iterator_holder_type =  System::Collections::Generic::SortedList&lt;System::String, int32_t&gt;</definition>
+        <argsstring></argsstring>
+        <name>iterator_holder_type</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::iterator_holder_type</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="106" column="5" bodyfile="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" bodystart="106" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a24c45c61a083abdcfda95717c93c9c78" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
+        <definition>using Aspose::Words::Saving::BookmarksOutlineLevelCollection::virtualized_iterator =  typename iterator_holder_type::virtualized_iterator</definition>
+        <argsstring></argsstring>
+        <name>virtualized_iterator</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::virtualized_iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="114" column="5" bodyfile="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" bodystart="114" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a214f24c9a805eb03d0b27880590d7ff9" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
+        <definition>using Aspose::Words::Saving::BookmarksOutlineLevelCollection::virtualized_iterator_element =  typename iterator_holder_type::virtualized_iterator_element</definition>
+        <argsstring></argsstring>
+        <name>virtualized_iterator_element</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::virtualized_iterator_element</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="112" column="5" bodyfile="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" bodystart="112" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1ad4f03fa7b1571278f3e605c4439ca76f" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::BookmarksOutlineLevelCollection::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="805" column="23" bodyfile="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" bodystart="805" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1af9fad00537664f9e6430e35788e362a2" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Saving::BookmarksOutlineLevelCollection::~BookmarksOutlineLevelCollection</definition>
+        <argsstring>()</argsstring>
+        <name>~BookmarksOutlineLevelCollection</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::~BookmarksOutlineLevelCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="801" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1ae647296766062008f92f6f5edf0a3df5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::BookmarksOutlineLevelCollection::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="102" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1aa0b48ba483e1b26823c3ba5b1abb3c88" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::BookmarksOutlineLevelCollection::BookmarksOutlineLevelCollection</definition>
+        <argsstring>()</argsstring>
+        <name>BookmarksOutlineLevelCollection</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::BookmarksOutlineLevelCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="777" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1ad2276afdcdc25e9631986cc017404594" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::BookmarksOutlineLevelCollection::Add</definition>
+        <argsstring>(const System::String &amp;name, int32_t outlineLevel)</argsstring>
+        <name>Add</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::Add</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>name</declname>
+        </param>
+        <param>
+          <type>int32_t</type>
+          <declname>outlineLevel</declname>
+        </param>
+        <briefdescription>
+<para>Adds a bookmark to the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>name</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The case-insensitive name of the bookmark to add. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>outlineLevel</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The outline level of the bookmark. Valid range is 0 to 9.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set outline levels for bookmarks. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>bookmark<sp/>with<sp/>another<sp/>bookmark<sp/>nested<sp/>inside<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1<sp/>and<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>another<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>saving<sp/>to<sp/>.pdf,<sp/>bookmarks<sp/>can<sp/>be<sp/>accessed<sp/>via<sp/>a<sp/>drop-down<sp/>menu<sp/>and<sp/>used<sp/>as<sp/>anchors<sp/>by<sp/>most<sp/>readers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Bookmarks<sp/>can<sp/>also<sp/>have<sp/>numeric<sp/>values<sp/>for<sp/>outline<sp/>levels,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>enabling<sp/>lower<sp/>level<sp/>outline<sp/>entries<sp/>to<sp/>hide<sp/>higher-level<sp/>child<sp/>entries<sp/>when<sp/>collapsed<sp/>in<sp/>the<sp/>reader.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>pdfSaveOptions<sp/>=<sp/>MakeObject&lt;PdfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;BookmarksOutlineLevelCollection&gt;<sp/>outlineLevels<sp/>=<sp/>pdfSaveOptions-&gt;get_OutlineOptions()-&gt;get_BookmarksOutlineLevels();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">,<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">,<sp/>2);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">,<sp/>3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>outlineLevels-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(outlineLevels-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>outlineLevels-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>outlineLevels-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>outlineLevels-&gt;IndexOfKey(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>two<sp/>elements<sp/>so<sp/>that<sp/>only<sp/>the<sp/>outline<sp/>level<sp/>designation<sp/>for<sp/>&quot;Bookmark<sp/>1&quot;<sp/>is<sp/>left.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>nine<sp/>outline<sp/>levels.<sp/>Their<sp/>numbering<sp/>will<sp/>be<sp/>optimized<sp/>during<sp/>the<sp/>save<sp/>operation.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>levels<sp/>&quot;5&quot;<sp/>and<sp/>&quot;9&quot;<sp/>will<sp/>become<sp/>&quot;2&quot;<sp/>and<sp/>&quot;3&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">,<sp/>5);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">,<sp/>9);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;BookmarksOutlineLevelCollection.BookmarkLevels.pdf&quot;</highlight><highlight class="normal">,<sp/>pdfSaveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Emptying<sp/>this<sp/>collection<sp/>will<sp/>preserve<sp/>the<sp/>bookmarks<sp/>and<sp/>put<sp/>them<sp/>all<sp/>on<sp/>the<sp/>same<sp/>outline<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Clear();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="477" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a4506acf1f1dc9c8d99057587e078dee0" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a670faf9b1201712cdf1ac6f87f8e68ca" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::Saving::BookmarksOutlineLevelCollection::begin</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>begin</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::begin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="783" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1aad4aaa2d053fd89b624f4c5f3018c949" prot="public" static="no" const="no" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a30175783866794992eb464029280fe92" kindref="member">iterator</ref></type>
+        <definition>iterator Aspose::Words::Saving::BookmarksOutlineLevelCollection::begin</definition>
+        <argsstring>() noexcept</argsstring>
+        <name>begin</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::begin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="779" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a1d169ba769c5f92cb638a53a925271e0" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a670faf9b1201712cdf1ac6f87f8e68ca" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::Saving::BookmarksOutlineLevelCollection::cbegin</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>cbegin</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::cbegin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="787" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1ad5c4867a364191a746ca347ee5839d5a" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a670faf9b1201712cdf1ac6f87f8e68ca" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::Saving::BookmarksOutlineLevelCollection::cend</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>cend</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::cend</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="789" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1ac855d6bd6353897d49d4f3def24b0838" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::BookmarksOutlineLevelCollection::Clear</definition>
+        <argsstring>()</argsstring>
+        <name>Clear</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::Clear</qualifiedname>
+        <briefdescription>
+<para>Removes all elements from the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set outline levels for bookmarks. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>bookmark<sp/>with<sp/>another<sp/>bookmark<sp/>nested<sp/>inside<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1<sp/>and<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>another<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>saving<sp/>to<sp/>.pdf,<sp/>bookmarks<sp/>can<sp/>be<sp/>accessed<sp/>via<sp/>a<sp/>drop-down<sp/>menu<sp/>and<sp/>used<sp/>as<sp/>anchors<sp/>by<sp/>most<sp/>readers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Bookmarks<sp/>can<sp/>also<sp/>have<sp/>numeric<sp/>values<sp/>for<sp/>outline<sp/>levels,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>enabling<sp/>lower<sp/>level<sp/>outline<sp/>entries<sp/>to<sp/>hide<sp/>higher-level<sp/>child<sp/>entries<sp/>when<sp/>collapsed<sp/>in<sp/>the<sp/>reader.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>pdfSaveOptions<sp/>=<sp/>MakeObject&lt;PdfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;BookmarksOutlineLevelCollection&gt;<sp/>outlineLevels<sp/>=<sp/>pdfSaveOptions-&gt;get_OutlineOptions()-&gt;get_BookmarksOutlineLevels();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">,<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">,<sp/>2);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">,<sp/>3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>outlineLevels-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(outlineLevels-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>outlineLevels-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>outlineLevels-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>outlineLevels-&gt;IndexOfKey(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>two<sp/>elements<sp/>so<sp/>that<sp/>only<sp/>the<sp/>outline<sp/>level<sp/>designation<sp/>for<sp/>&quot;Bookmark<sp/>1&quot;<sp/>is<sp/>left.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>nine<sp/>outline<sp/>levels.<sp/>Their<sp/>numbering<sp/>will<sp/>be<sp/>optimized<sp/>during<sp/>the<sp/>save<sp/>operation.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>levels<sp/>&quot;5&quot;<sp/>and<sp/>&quot;9&quot;<sp/>will<sp/>become<sp/>&quot;2&quot;<sp/>and<sp/>&quot;3&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">,<sp/>5);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">,<sp/>9);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;BookmarksOutlineLevelCollection.BookmarkLevels.pdf&quot;</highlight><highlight class="normal">,<sp/>pdfSaveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Emptying<sp/>this<sp/>collection<sp/>will<sp/>preserve<sp/>the<sp/>bookmarks<sp/>and<sp/>put<sp/>them<sp/>all<sp/>on<sp/>the<sp/>same<sp/>outline<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Clear();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="774" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1afa6c48f5e16ae63640e7d822ded2ef2a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Saving::BookmarksOutlineLevelCollection::Contains</definition>
+        <argsstring>(const System::String &amp;name)</argsstring>
+        <name>Contains</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::Contains</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>name</declname>
+        </param>
+        <briefdescription>
+<para>Determines whether the collection contains a bookmark with the given name. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>name</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Case-insensitive name of the bookmark to locate.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>True if item is found in the collection; otherwise, false.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set outline levels for bookmarks. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>bookmark<sp/>with<sp/>another<sp/>bookmark<sp/>nested<sp/>inside<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1<sp/>and<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>another<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>saving<sp/>to<sp/>.pdf,<sp/>bookmarks<sp/>can<sp/>be<sp/>accessed<sp/>via<sp/>a<sp/>drop-down<sp/>menu<sp/>and<sp/>used<sp/>as<sp/>anchors<sp/>by<sp/>most<sp/>readers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Bookmarks<sp/>can<sp/>also<sp/>have<sp/>numeric<sp/>values<sp/>for<sp/>outline<sp/>levels,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>enabling<sp/>lower<sp/>level<sp/>outline<sp/>entries<sp/>to<sp/>hide<sp/>higher-level<sp/>child<sp/>entries<sp/>when<sp/>collapsed<sp/>in<sp/>the<sp/>reader.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>pdfSaveOptions<sp/>=<sp/>MakeObject&lt;PdfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;BookmarksOutlineLevelCollection&gt;<sp/>outlineLevels<sp/>=<sp/>pdfSaveOptions-&gt;get_OutlineOptions()-&gt;get_BookmarksOutlineLevels();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">,<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">,<sp/>2);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">,<sp/>3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>outlineLevels-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(outlineLevels-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>outlineLevels-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>outlineLevels-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>outlineLevels-&gt;IndexOfKey(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>two<sp/>elements<sp/>so<sp/>that<sp/>only<sp/>the<sp/>outline<sp/>level<sp/>designation<sp/>for<sp/>&quot;Bookmark<sp/>1&quot;<sp/>is<sp/>left.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>nine<sp/>outline<sp/>levels.<sp/>Their<sp/>numbering<sp/>will<sp/>be<sp/>optimized<sp/>during<sp/>the<sp/>save<sp/>operation.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>levels<sp/>&quot;5&quot;<sp/>and<sp/>&quot;9&quot;<sp/>will<sp/>become<sp/>&quot;2&quot;<sp/>and<sp/>&quot;3&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">,<sp/>5);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">,<sp/>9);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;BookmarksOutlineLevelCollection.BookmarkLevels.pdf&quot;</highlight><highlight class="normal">,<sp/>pdfSaveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Emptying<sp/>this<sp/>collection<sp/>will<sp/>preserve<sp/>the<sp/>bookmarks<sp/>and<sp/>put<sp/>them<sp/>all<sp/>on<sp/>the<sp/>same<sp/>outline<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Clear();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="538" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a3fa845ae791d6f1a95e92d03a445cb22" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a670faf9b1201712cdf1ac6f87f8e68ca" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::Saving::BookmarksOutlineLevelCollection::end</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>end</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::end</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="785" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a1f4f767cf1f35c29986fbabd2da5967a" prot="public" static="no" const="no" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a30175783866794992eb464029280fe92" kindref="member">iterator</ref></type>
+        <definition>iterator Aspose::Words::Saving::BookmarksOutlineLevelCollection::end</definition>
+        <argsstring>() noexcept</argsstring>
+        <name>end</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::end</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="781" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a2e33cd5e78032ea8a7ea14e07ee37c1f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Saving::BookmarksOutlineLevelCollection::get_Count</definition>
+        <argsstring>()</argsstring>
+        <name>get_Count</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::get_Count</qualifiedname>
+        <briefdescription>
+<para>Gets the number of elements contained in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set outline levels for bookmarks. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>bookmark<sp/>with<sp/>another<sp/>bookmark<sp/>nested<sp/>inside<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1<sp/>and<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>another<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>saving<sp/>to<sp/>.pdf,<sp/>bookmarks<sp/>can<sp/>be<sp/>accessed<sp/>via<sp/>a<sp/>drop-down<sp/>menu<sp/>and<sp/>used<sp/>as<sp/>anchors<sp/>by<sp/>most<sp/>readers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Bookmarks<sp/>can<sp/>also<sp/>have<sp/>numeric<sp/>values<sp/>for<sp/>outline<sp/>levels,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>enabling<sp/>lower<sp/>level<sp/>outline<sp/>entries<sp/>to<sp/>hide<sp/>higher-level<sp/>child<sp/>entries<sp/>when<sp/>collapsed<sp/>in<sp/>the<sp/>reader.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>pdfSaveOptions<sp/>=<sp/>MakeObject&lt;PdfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;BookmarksOutlineLevelCollection&gt;<sp/>outlineLevels<sp/>=<sp/>pdfSaveOptions-&gt;get_OutlineOptions()-&gt;get_BookmarksOutlineLevels();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">,<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">,<sp/>2);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">,<sp/>3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>outlineLevels-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(outlineLevels-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>outlineLevels-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>outlineLevels-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>outlineLevels-&gt;IndexOfKey(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>two<sp/>elements<sp/>so<sp/>that<sp/>only<sp/>the<sp/>outline<sp/>level<sp/>designation<sp/>for<sp/>&quot;Bookmark<sp/>1&quot;<sp/>is<sp/>left.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>nine<sp/>outline<sp/>levels.<sp/>Their<sp/>numbering<sp/>will<sp/>be<sp/>optimized<sp/>during<sp/>the<sp/>save<sp/>operation.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>levels<sp/>&quot;5&quot;<sp/>and<sp/>&quot;9&quot;<sp/>will<sp/>become<sp/>&quot;2&quot;<sp/>and<sp/>&quot;3&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">,<sp/>5);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">,<sp/>9);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;BookmarksOutlineLevelCollection.BookmarkLevels.pdf&quot;</highlight><highlight class="normal">,<sp/>pdfSaveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Emptying<sp/>this<sp/>collection<sp/>will<sp/>preserve<sp/>the<sp/>bookmarks<sp/>and<sp/>put<sp/>them<sp/>all<sp/>on<sp/>the<sp/>same<sp/>outline<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Clear();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="173" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a8e89263fb0cb413cb9f4dd3234a3f069" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="class/system.collections.generic.key_value_pair/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::KeyValuePair</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref>, int32_t &gt; &gt; &gt;</type>
+        <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::Collections::Generic::KeyValuePair&lt; System::String, int32_t &gt; &gt; &gt; Aspose::Words::Saving::BookmarksOutlineLevelCollection::GetEnumerator</definition>
+        <argsstring>() override</argsstring>
+        <name>GetEnumerator</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::GetEnumerator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="775" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a58393e19af4df403e3cd1182e8c03468" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Saving::BookmarksOutlineLevelCollection::idx_get</definition>
+        <argsstring>(const System::String &amp;name)</argsstring>
+        <name>idx_get</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::idx_get</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>name</declname>
+        </param>
+        <briefdescription>
+<para>Gets or a sets a bookmark outline level by the bookmark name. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>name</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Case-insensitive name of the bookmark.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The outline level of the bookmark. Valid range is 0 to 9.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set outline levels for bookmarks. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>bookmark<sp/>with<sp/>another<sp/>bookmark<sp/>nested<sp/>inside<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1<sp/>and<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>another<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>saving<sp/>to<sp/>.pdf,<sp/>bookmarks<sp/>can<sp/>be<sp/>accessed<sp/>via<sp/>a<sp/>drop-down<sp/>menu<sp/>and<sp/>used<sp/>as<sp/>anchors<sp/>by<sp/>most<sp/>readers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Bookmarks<sp/>can<sp/>also<sp/>have<sp/>numeric<sp/>values<sp/>for<sp/>outline<sp/>levels,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>enabling<sp/>lower<sp/>level<sp/>outline<sp/>entries<sp/>to<sp/>hide<sp/>higher-level<sp/>child<sp/>entries<sp/>when<sp/>collapsed<sp/>in<sp/>the<sp/>reader.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>pdfSaveOptions<sp/>=<sp/>MakeObject&lt;PdfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;BookmarksOutlineLevelCollection&gt;<sp/>outlineLevels<sp/>=<sp/>pdfSaveOptions-&gt;get_OutlineOptions()-&gt;get_BookmarksOutlineLevels();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">,<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">,<sp/>2);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">,<sp/>3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>outlineLevels-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(outlineLevels-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>outlineLevels-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>outlineLevels-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>outlineLevels-&gt;IndexOfKey(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>two<sp/>elements<sp/>so<sp/>that<sp/>only<sp/>the<sp/>outline<sp/>level<sp/>designation<sp/>for<sp/>&quot;Bookmark<sp/>1&quot;<sp/>is<sp/>left.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>nine<sp/>outline<sp/>levels.<sp/>Their<sp/>numbering<sp/>will<sp/>be<sp/>optimized<sp/>during<sp/>the<sp/>save<sp/>operation.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>levels<sp/>&quot;5&quot;<sp/>and<sp/>&quot;9&quot;<sp/>will<sp/>become<sp/>&quot;2&quot;<sp/>and<sp/>&quot;3&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">,<sp/>5);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">,<sp/>9);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;BookmarksOutlineLevelCollection.BookmarkLevels.pdf&quot;</highlight><highlight class="normal">,<sp/>pdfSaveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Emptying<sp/>this<sp/>collection<sp/>will<sp/>preserve<sp/>the<sp/>bookmarks<sp/>and<sp/>put<sp/>them<sp/>all<sp/>on<sp/>the<sp/>same<sp/>outline<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Clear();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="234" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1ad8352ceabf9abee7337088ecd546b52f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Saving::BookmarksOutlineLevelCollection::idx_get</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>idx_get</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::idx_get</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Gets or sets a bookmark outline level at the specified index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>index</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Zero-based index of the bookmark.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The outline level of the bookmark. Valid range is 0 to 9.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set outline levels for bookmarks. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>bookmark<sp/>with<sp/>another<sp/>bookmark<sp/>nested<sp/>inside<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1<sp/>and<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>another<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>saving<sp/>to<sp/>.pdf,<sp/>bookmarks<sp/>can<sp/>be<sp/>accessed<sp/>via<sp/>a<sp/>drop-down<sp/>menu<sp/>and<sp/>used<sp/>as<sp/>anchors<sp/>by<sp/>most<sp/>readers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Bookmarks<sp/>can<sp/>also<sp/>have<sp/>numeric<sp/>values<sp/>for<sp/>outline<sp/>levels,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>enabling<sp/>lower<sp/>level<sp/>outline<sp/>entries<sp/>to<sp/>hide<sp/>higher-level<sp/>child<sp/>entries<sp/>when<sp/>collapsed<sp/>in<sp/>the<sp/>reader.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>pdfSaveOptions<sp/>=<sp/>MakeObject&lt;PdfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;BookmarksOutlineLevelCollection&gt;<sp/>outlineLevels<sp/>=<sp/>pdfSaveOptions-&gt;get_OutlineOptions()-&gt;get_BookmarksOutlineLevels();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">,<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">,<sp/>2);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">,<sp/>3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>outlineLevels-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(outlineLevels-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>outlineLevels-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>outlineLevels-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>outlineLevels-&gt;IndexOfKey(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>two<sp/>elements<sp/>so<sp/>that<sp/>only<sp/>the<sp/>outline<sp/>level<sp/>designation<sp/>for<sp/>&quot;Bookmark<sp/>1&quot;<sp/>is<sp/>left.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>nine<sp/>outline<sp/>levels.<sp/>Their<sp/>numbering<sp/>will<sp/>be<sp/>optimized<sp/>during<sp/>the<sp/>save<sp/>operation.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>levels<sp/>&quot;5&quot;<sp/>and<sp/>&quot;9&quot;<sp/>will<sp/>become<sp/>&quot;2&quot;<sp/>and<sp/>&quot;3&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">,<sp/>5);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">,<sp/>9);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;BookmarksOutlineLevelCollection.BookmarkLevels.pdf&quot;</highlight><highlight class="normal">,<sp/>pdfSaveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Emptying<sp/>this<sp/>collection<sp/>will<sp/>preserve<sp/>the<sp/>bookmarks<sp/>and<sp/>put<sp/>them<sp/>all<sp/>on<sp/>the<sp/>same<sp/>outline<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Clear();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="356" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a1bdece4a6f5221698108ca47701d0d0d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::BookmarksOutlineLevelCollection::idx_set</definition>
+        <argsstring>(const System::String &amp;name, int32_t value)</argsstring>
+        <name>idx_set</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::idx_set</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>name</declname>
+        </param>
+        <param>
+          <type>int32_t</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Gets or a sets a bookmark outline level by the bookmark name. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>name</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Case-insensitive name of the bookmark.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The outline level of the bookmark. Valid range is 0 to 9.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set outline levels for bookmarks. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>bookmark<sp/>with<sp/>another<sp/>bookmark<sp/>nested<sp/>inside<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1<sp/>and<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>another<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>saving<sp/>to<sp/>.pdf,<sp/>bookmarks<sp/>can<sp/>be<sp/>accessed<sp/>via<sp/>a<sp/>drop-down<sp/>menu<sp/>and<sp/>used<sp/>as<sp/>anchors<sp/>by<sp/>most<sp/>readers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Bookmarks<sp/>can<sp/>also<sp/>have<sp/>numeric<sp/>values<sp/>for<sp/>outline<sp/>levels,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>enabling<sp/>lower<sp/>level<sp/>outline<sp/>entries<sp/>to<sp/>hide<sp/>higher-level<sp/>child<sp/>entries<sp/>when<sp/>collapsed<sp/>in<sp/>the<sp/>reader.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>pdfSaveOptions<sp/>=<sp/>MakeObject&lt;PdfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;BookmarksOutlineLevelCollection&gt;<sp/>outlineLevels<sp/>=<sp/>pdfSaveOptions-&gt;get_OutlineOptions()-&gt;get_BookmarksOutlineLevels();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">,<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">,<sp/>2);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">,<sp/>3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>outlineLevels-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(outlineLevels-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>outlineLevels-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>outlineLevels-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>outlineLevels-&gt;IndexOfKey(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>two<sp/>elements<sp/>so<sp/>that<sp/>only<sp/>the<sp/>outline<sp/>level<sp/>designation<sp/>for<sp/>&quot;Bookmark<sp/>1&quot;<sp/>is<sp/>left.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>nine<sp/>outline<sp/>levels.<sp/>Their<sp/>numbering<sp/>will<sp/>be<sp/>optimized<sp/>during<sp/>the<sp/>save<sp/>operation.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>levels<sp/>&quot;5&quot;<sp/>and<sp/>&quot;9&quot;<sp/>will<sp/>become<sp/>&quot;2&quot;<sp/>and<sp/>&quot;3&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">,<sp/>5);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">,<sp/>9);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;BookmarksOutlineLevelCollection.BookmarkLevels.pdf&quot;</highlight><highlight class="normal">,<sp/>pdfSaveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Emptying<sp/>this<sp/>collection<sp/>will<sp/>preserve<sp/>the<sp/>bookmarks<sp/>and<sp/>put<sp/>them<sp/>all<sp/>on<sp/>the<sp/>same<sp/>outline<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Clear();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="295" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a2c3454e38f1b9cbf63c2d89bf2ed6cd0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::BookmarksOutlineLevelCollection::idx_set</definition>
+        <argsstring>(int32_t index, int32_t value)</argsstring>
+        <name>idx_set</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::idx_set</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <param>
+          <type>int32_t</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Gets or sets a bookmark outline level at the specified index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>index</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Zero-based index of the bookmark.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The outline level of the bookmark. Valid range is 0 to 9.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set outline levels for bookmarks. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>bookmark<sp/>with<sp/>another<sp/>bookmark<sp/>nested<sp/>inside<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1<sp/>and<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>another<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>saving<sp/>to<sp/>.pdf,<sp/>bookmarks<sp/>can<sp/>be<sp/>accessed<sp/>via<sp/>a<sp/>drop-down<sp/>menu<sp/>and<sp/>used<sp/>as<sp/>anchors<sp/>by<sp/>most<sp/>readers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Bookmarks<sp/>can<sp/>also<sp/>have<sp/>numeric<sp/>values<sp/>for<sp/>outline<sp/>levels,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>enabling<sp/>lower<sp/>level<sp/>outline<sp/>entries<sp/>to<sp/>hide<sp/>higher-level<sp/>child<sp/>entries<sp/>when<sp/>collapsed<sp/>in<sp/>the<sp/>reader.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>pdfSaveOptions<sp/>=<sp/>MakeObject&lt;PdfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;BookmarksOutlineLevelCollection&gt;<sp/>outlineLevels<sp/>=<sp/>pdfSaveOptions-&gt;get_OutlineOptions()-&gt;get_BookmarksOutlineLevels();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">,<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">,<sp/>2);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">,<sp/>3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>outlineLevels-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(outlineLevels-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>outlineLevels-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>outlineLevels-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>outlineLevels-&gt;IndexOfKey(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>two<sp/>elements<sp/>so<sp/>that<sp/>only<sp/>the<sp/>outline<sp/>level<sp/>designation<sp/>for<sp/>&quot;Bookmark<sp/>1&quot;<sp/>is<sp/>left.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>nine<sp/>outline<sp/>levels.<sp/>Their<sp/>numbering<sp/>will<sp/>be<sp/>optimized<sp/>during<sp/>the<sp/>save<sp/>operation.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>levels<sp/>&quot;5&quot;<sp/>and<sp/>&quot;9&quot;<sp/>will<sp/>become<sp/>&quot;2&quot;<sp/>and<sp/>&quot;3&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">,<sp/>5);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">,<sp/>9);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;BookmarksOutlineLevelCollection.BookmarkLevels.pdf&quot;</highlight><highlight class="normal">,<sp/>pdfSaveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Emptying<sp/>this<sp/>collection<sp/>will<sp/>preserve<sp/>the<sp/>bookmarks<sp/>and<sp/>put<sp/>them<sp/>all<sp/>on<sp/>the<sp/>same<sp/>outline<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Clear();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="417" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a5c846106b7f675ba62f48f68f9261d62" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Saving::BookmarksOutlineLevelCollection::IndexOfKey</definition>
+        <argsstring>(const System::String &amp;name)</argsstring>
+        <name>IndexOfKey</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::IndexOfKey</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>name</declname>
+        </param>
+        <briefdescription>
+<para>Returns the zero-based index of the specified bookmark in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>name</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The case-insensitive name of the bookmark.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The zero based index. Negative value if not found.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set outline levels for bookmarks. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>bookmark<sp/>with<sp/>another<sp/>bookmark<sp/>nested<sp/>inside<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1<sp/>and<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>another<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>saving<sp/>to<sp/>.pdf,<sp/>bookmarks<sp/>can<sp/>be<sp/>accessed<sp/>via<sp/>a<sp/>drop-down<sp/>menu<sp/>and<sp/>used<sp/>as<sp/>anchors<sp/>by<sp/>most<sp/>readers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Bookmarks<sp/>can<sp/>also<sp/>have<sp/>numeric<sp/>values<sp/>for<sp/>outline<sp/>levels,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>enabling<sp/>lower<sp/>level<sp/>outline<sp/>entries<sp/>to<sp/>hide<sp/>higher-level<sp/>child<sp/>entries<sp/>when<sp/>collapsed<sp/>in<sp/>the<sp/>reader.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>pdfSaveOptions<sp/>=<sp/>MakeObject&lt;PdfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;BookmarksOutlineLevelCollection&gt;<sp/>outlineLevels<sp/>=<sp/>pdfSaveOptions-&gt;get_OutlineOptions()-&gt;get_BookmarksOutlineLevels();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">,<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">,<sp/>2);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">,<sp/>3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>outlineLevels-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(outlineLevels-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>outlineLevels-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>outlineLevels-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>outlineLevels-&gt;IndexOfKey(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>two<sp/>elements<sp/>so<sp/>that<sp/>only<sp/>the<sp/>outline<sp/>level<sp/>designation<sp/>for<sp/>&quot;Bookmark<sp/>1&quot;<sp/>is<sp/>left.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>nine<sp/>outline<sp/>levels.<sp/>Their<sp/>numbering<sp/>will<sp/>be<sp/>optimized<sp/>during<sp/>the<sp/>save<sp/>operation.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>levels<sp/>&quot;5&quot;<sp/>and<sp/>&quot;9&quot;<sp/>will<sp/>become<sp/>&quot;2&quot;<sp/>and<sp/>&quot;3&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">,<sp/>5);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">,<sp/>9);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;BookmarksOutlineLevelCollection.BookmarkLevels.pdf&quot;</highlight><highlight class="normal">,<sp/>pdfSaveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Emptying<sp/>this<sp/>collection<sp/>will<sp/>preserve<sp/>the<sp/>bookmarks<sp/>and<sp/>put<sp/>them<sp/>all<sp/>on<sp/>the<sp/>same<sp/>outline<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Clear();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="599" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1ade2424626d362118437c571586af7005" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::BookmarksOutlineLevelCollection::Remove</definition>
+        <argsstring>(const System::String &amp;name)</argsstring>
+        <name>Remove</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::Remove</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>name</declname>
+        </param>
+        <briefdescription>
+<para>Removes a bookmark with the specified name from the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>name</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The case-insensitive name of the bookmark.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set outline levels for bookmarks. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>bookmark<sp/>with<sp/>another<sp/>bookmark<sp/>nested<sp/>inside<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1<sp/>and<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>another<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>saving<sp/>to<sp/>.pdf,<sp/>bookmarks<sp/>can<sp/>be<sp/>accessed<sp/>via<sp/>a<sp/>drop-down<sp/>menu<sp/>and<sp/>used<sp/>as<sp/>anchors<sp/>by<sp/>most<sp/>readers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Bookmarks<sp/>can<sp/>also<sp/>have<sp/>numeric<sp/>values<sp/>for<sp/>outline<sp/>levels,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>enabling<sp/>lower<sp/>level<sp/>outline<sp/>entries<sp/>to<sp/>hide<sp/>higher-level<sp/>child<sp/>entries<sp/>when<sp/>collapsed<sp/>in<sp/>the<sp/>reader.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>pdfSaveOptions<sp/>=<sp/>MakeObject&lt;PdfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;BookmarksOutlineLevelCollection&gt;<sp/>outlineLevels<sp/>=<sp/>pdfSaveOptions-&gt;get_OutlineOptions()-&gt;get_BookmarksOutlineLevels();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">,<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">,<sp/>2);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">,<sp/>3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>outlineLevels-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(outlineLevels-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>outlineLevels-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>outlineLevels-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>outlineLevels-&gt;IndexOfKey(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>two<sp/>elements<sp/>so<sp/>that<sp/>only<sp/>the<sp/>outline<sp/>level<sp/>designation<sp/>for<sp/>&quot;Bookmark<sp/>1&quot;<sp/>is<sp/>left.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>nine<sp/>outline<sp/>levels.<sp/>Their<sp/>numbering<sp/>will<sp/>be<sp/>optimized<sp/>during<sp/>the<sp/>save<sp/>operation.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>levels<sp/>&quot;5&quot;<sp/>and<sp/>&quot;9&quot;<sp/>will<sp/>become<sp/>&quot;2&quot;<sp/>and<sp/>&quot;3&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">,<sp/>5);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">,<sp/>9);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;BookmarksOutlineLevelCollection.BookmarkLevels.pdf&quot;</highlight><highlight class="normal">,<sp/>pdfSaveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Emptying<sp/>this<sp/>collection<sp/>will<sp/>preserve<sp/>the<sp/>bookmarks<sp/>and<sp/>put<sp/>them<sp/>all<sp/>on<sp/>the<sp/>same<sp/>outline<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Clear();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="658" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a1277234a1d5156638fcf4c8a9f4299d0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::BookmarksOutlineLevelCollection::RemoveAt</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>RemoveAt</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::RemoveAt</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Removes a bookmark at the specified index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>index</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The zero based index.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set outline levels for bookmarks. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>bookmark<sp/>with<sp/>another<sp/>bookmark<sp/>nested<sp/>inside<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1<sp/>and<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>another<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>saving<sp/>to<sp/>.pdf,<sp/>bookmarks<sp/>can<sp/>be<sp/>accessed<sp/>via<sp/>a<sp/>drop-down<sp/>menu<sp/>and<sp/>used<sp/>as<sp/>anchors<sp/>by<sp/>most<sp/>readers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Bookmarks<sp/>can<sp/>also<sp/>have<sp/>numeric<sp/>values<sp/>for<sp/>outline<sp/>levels,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>enabling<sp/>lower<sp/>level<sp/>outline<sp/>entries<sp/>to<sp/>hide<sp/>higher-level<sp/>child<sp/>entries<sp/>when<sp/>collapsed<sp/>in<sp/>the<sp/>reader.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>pdfSaveOptions<sp/>=<sp/>MakeObject&lt;PdfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;BookmarksOutlineLevelCollection&gt;<sp/>outlineLevels<sp/>=<sp/>pdfSaveOptions-&gt;get_OutlineOptions()-&gt;get_BookmarksOutlineLevels();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">,<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">,<sp/>2);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">,<sp/>3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>outlineLevels-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(outlineLevels-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>outlineLevels-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>outlineLevels-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>outlineLevels-&gt;IndexOfKey(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>two<sp/>elements<sp/>so<sp/>that<sp/>only<sp/>the<sp/>outline<sp/>level<sp/>designation<sp/>for<sp/>&quot;Bookmark<sp/>1&quot;<sp/>is<sp/>left.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>nine<sp/>outline<sp/>levels.<sp/>Their<sp/>numbering<sp/>will<sp/>be<sp/>optimized<sp/>during<sp/>the<sp/>save<sp/>operation.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>levels<sp/>&quot;5&quot;<sp/>and<sp/>&quot;9&quot;<sp/>will<sp/>become<sp/>&quot;2&quot;<sp/>and<sp/>&quot;3&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">,<sp/>5);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">,<sp/>9);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;BookmarksOutlineLevelCollection.BookmarkLevels.pdf&quot;</highlight><highlight class="normal">,<sp/>pdfSaveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Emptying<sp/>this<sp/>collection<sp/>will<sp/>preserve<sp/>the<sp/>bookmarks<sp/>and<sp/>put<sp/>them<sp/>all<sp/>on<sp/>the<sp/>same<sp/>outline<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Clear();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="717" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1aa3fd8361eac67a53f2533d55aab1001a" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a24c45c61a083abdcfda95717c93c9c78" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::Saving::BookmarksOutlineLevelCollection::virtualizeBeginConstIterator</definition>
+        <argsstring>() const override</argsstring>
+        <name>virtualizeBeginConstIterator</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::virtualizeBeginConstIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="795" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1afda17000f44b98434181e0a486b63947" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a24c45c61a083abdcfda95717c93c9c78" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::Saving::BookmarksOutlineLevelCollection::virtualizeBeginIterator</definition>
+        <argsstring>() override</argsstring>
+        <name>virtualizeBeginIterator</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::virtualizeBeginIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="791" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1ae21bab267cf608ee16286d35c100c284" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a24c45c61a083abdcfda95717c93c9c78" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::Saving::BookmarksOutlineLevelCollection::virtualizeEndConstIterator</definition>
+        <argsstring>() const override</argsstring>
+        <name>virtualizeEndConstIterator</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::virtualizeEndConstIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="797" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a7fe0ad3ab1539640e5638913d86f4225" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a24c45c61a083abdcfda95717c93c9c78" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::Saving::BookmarksOutlineLevelCollection::virtualizeEndIterator</definition>
+        <argsstring>() override</argsstring>
+        <name>virtualizeEndIterator</name>
+        <qualifiedname>Aspose::Words::Saving::BookmarksOutlineLevelCollection::virtualizeEndIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="793" column="29"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>A collection of individual bookmarks outline level. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>Key is a case-insensitive string bookmark name. Value is a int bookmark outline level.</para>
+<para><ref refid="class_aspose_1_1_words_1_1_bookmark" kindref="compound">Bookmark</ref> outline level may be a value from 0 to 9. Specify 0 and Word bookmark will not be displayed in the document outline. Specify 1 and Word bookmark will be displayed in the document outline at level 1; 2 for level 2 and so on.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set outline levels for bookmarks. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>bookmark<sp/>with<sp/>another<sp/>bookmark<sp/>nested<sp/>inside<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1<sp/>and<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>another<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>Bookmark<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>saving<sp/>to<sp/>.pdf,<sp/>bookmarks<sp/>can<sp/>be<sp/>accessed<sp/>via<sp/>a<sp/>drop-down<sp/>menu<sp/>and<sp/>used<sp/>as<sp/>anchors<sp/>by<sp/>most<sp/>readers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Bookmarks<sp/>can<sp/>also<sp/>have<sp/>numeric<sp/>values<sp/>for<sp/>outline<sp/>levels,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>enabling<sp/>lower<sp/>level<sp/>outline<sp/>entries<sp/>to<sp/>hide<sp/>higher-level<sp/>child<sp/>entries<sp/>when<sp/>collapsed<sp/>in<sp/>the<sp/>reader.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>pdfSaveOptions<sp/>=<sp/>MakeObject&lt;PdfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;BookmarksOutlineLevelCollection&gt;<sp/>outlineLevels<sp/>=<sp/>pdfSaveOptions-&gt;get_OutlineOptions()-&gt;get_BookmarksOutlineLevels();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">,<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">,<sp/>2);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">,<sp/>3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>outlineLevels-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(outlineLevels-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>outlineLevels-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>outlineLevels-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>outlineLevels-&gt;IndexOfKey(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>two<sp/>elements<sp/>so<sp/>that<sp/>only<sp/>the<sp/>outline<sp/>level<sp/>designation<sp/>for<sp/>&quot;Bookmark<sp/>1&quot;<sp/>is<sp/>left.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>nine<sp/>outline<sp/>levels.<sp/>Their<sp/>numbering<sp/>will<sp/>be<sp/>optimized<sp/>during<sp/>the<sp/>save<sp/>operation.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>levels<sp/>&quot;5&quot;<sp/>and<sp/>&quot;9&quot;<sp/>will<sp/>become<sp/>&quot;2&quot;<sp/>and<sp/>&quot;3&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>2&quot;</highlight><highlight class="normal">,<sp/>5);</highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Bookmark<sp/>3&quot;</highlight><highlight class="normal">,<sp/>9);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;BookmarksOutlineLevelCollection.BookmarkLevels.pdf&quot;</highlight><highlight class="normal">,<sp/>pdfSaveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Emptying<sp/>this<sp/>collection<sp/>will<sp/>preserve<sp/>the<sp/>bookmarks<sp/>and<sp/>put<sp/>them<sp/>all<sp/>on<sp/>the<sp/>same<sp/>outline<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outlineLevels-&gt;Clear();</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::BookmarksOutlineLevelCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; System::Collections::Generic::KeyValuePair&lt; System::String, int32_t &gt; &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::BookmarksOutlineLevelCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; System::Collections::Generic::KeyValuePair&lt; System::String, int32_t &gt; &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" line="96" column="1" bodyfile="Aspose.Words.Cpp/Saving/BookmarksOutlineLevelCollection.h" bodystart="97" bodyend="807"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1ad2276afdcdc25e9631986cc017404594" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>Add</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1ac9bc3ff464307774f8d074b3443f84c2" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1aad4aaa2d053fd89b624f4c5f3018c949" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>begin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a4506acf1f1dc9c8d99057587e078dee0" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>begin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1aa0b48ba483e1b26823c3ba5b1abb3c88" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>BookmarksOutlineLevelCollection</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a1d169ba769c5f92cb638a53a925271e0" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>cbegin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1ad5c4867a364191a746ca347ee5839d5a" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>cend</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1ac855d6bd6353897d49d4f3def24b0838" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>Clear</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a670faf9b1201712cdf1ac6f87f8e68ca" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>const_iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1afa6c48f5e16ae63640e7d822ded2ef2a" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>Contains</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a1f4f767cf1f35c29986fbabd2da5967a" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>end</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a3fa845ae791d6f1a95e92d03a445cb22" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>end</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a2e33cd5e78032ea8a7ea14e07ee37c1f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a8e89263fb0cb413cb9f4dd3234a3f069" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>GetEnumerator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a58393e19af4df403e3cd1182e8c03468" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>idx_get</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1ad8352ceabf9abee7337088ecd546b52f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>idx_get</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a1bdece4a6f5221698108ca47701d0d0d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>idx_set</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a2c3454e38f1b9cbf63c2d89bf2ed6cd0" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>idx_set</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a5c846106b7f675ba62f48f68f9261d62" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>IndexOfKey</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a30175783866794992eb464029280fe92" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1aef7f77ad9b68a18e60be08cc820da911" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>iterator_holder_type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1ad4f03fa7b1571278f3e605c4439ca76f" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1ade2424626d362118437c571586af7005" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a1277234a1d5156638fcf4c8a9f4299d0" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>RemoveAt</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1ae647296766062008f92f6f5edf0a3df5" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a8a6373f6fb0d60c0d82c83aba3f56a38" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1ab92cd3ce382687d8afb26511380f4fb9" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1aa3fd8361eac67a53f2533d55aab1001a" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>virtualizeBeginConstIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1afda17000f44b98434181e0a486b63947" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>virtualizeBeginIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a24c45c61a083abdcfda95717c93c9c78" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>virtualized_iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a214f24c9a805eb03d0b27880590d7ff9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>virtualized_iterator_element</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1ae21bab267cf608ee16286d35c100c284" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>virtualizeEndConstIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1a7fe0ad3ab1539640e5638913d86f4225" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>virtualizeEndIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_bookmarks_outline_level_collection_1af9fad00537664f9e6430e35788e362a2" prot="private" virt="virtual"><scope>Aspose::Words::Saving::BookmarksOutlineLevelCollection</scope><name>~BookmarksOutlineLevelCollection</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

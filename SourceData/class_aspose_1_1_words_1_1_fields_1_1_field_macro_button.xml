@@ -1,0 +1,433 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::FieldMacroButton</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field" prot="public" virt="non-virtual">Aspose::Words::Fields::Field</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IMergeFieldSurrogate</basecompoundref>
+    <includes refid="_field_macro_button_8h" local="no">Aspose.Words.Cpp/Fields/FieldMacroButton.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a197a00d8a91645df5101cb28b1d5689f" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref></type>
+        <definition>typedef Aspose::Words::Fields::Field Aspose::Words::Fields::FieldMacroButton::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMacroButton::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMacroButton.h" line="81" column="42" bodyfile="Aspose.Words.Cpp/Fields/FieldMacroButton.h" bodystart="81" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a59f7db900123e95ad740c205c32b4a1b" prot="private" static="no">
+        <type>Aspose::Words::Fields::IMergeFieldSurrogate</type>
+        <definition>typedef Aspose::Words::Fields::IMergeFieldSurrogate Aspose::Words::Fields::FieldMacroButton::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMacroButton::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMacroButton.h" line="82" column="57" bodyfile="Aspose.Words.Cpp/Fields/FieldMacroButton.h" bodystart="82" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a8cc51ba4231962509344662a46cedf9a" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button" kindref="compound">FieldMacroButton</ref></type>
+        <definition>typedef FieldMacroButton Aspose::Words::Fields::FieldMacroButton::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMacroButton::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMacroButton.h" line="80" column="30" bodyfile="Aspose.Words.Cpp/Fields/FieldMacroButton.h" bodystart="80" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a9d6fdda2a89a585a70827bc82d485b55" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Fields::FieldMacroButton::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMacroButton::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMacroButton.h" line="84" column="37" bodyfile="Aspose.Words.Cpp/Fields/FieldMacroButton.h" bodystart="84" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1acb3caf2569f8b6204260fe4a04829b87" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldMacroButton::CanWorkAsMergeField</definition>
+        <argsstring>() override</argsstring>
+        <name>CanWorkAsMergeField</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMacroButton::CanWorkAsMergeField</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMacroButton.h" line="181" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a6f84bf7f425584c10a6c7cf332d3ddeb" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::NodeRange &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::NodeRange &gt; Aspose::Words::Fields::FieldMacroButton::GetFakeResult</definition>
+        <argsstring>() override</argsstring>
+        <name>GetFakeResult</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMacroButton::GetFakeResult</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aec0fb24827aecbea0ff27a044ba7c760">GetFakeResult</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMacroButton.h" line="176" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a41a23c4ed1ca1935bcf150c757d70766" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldMacroButton::GetMergeFieldName</definition>
+        <argsstring>() override</argsstring>
+        <name>GetMergeFieldName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMacroButton::GetMergeFieldName</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMacroButton.h" line="180" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a4c4a9d624a5eee23abdcfe9d122c7008" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldMacroButton::IsMergeValueRequired</definition>
+        <argsstring>() override</argsstring>
+        <name>IsMergeValueRequired</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMacroButton::IsMergeValueRequired</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMacroButton.h" line="182" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a9234fdcee68ac1d9f5e6945d15752d26" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldMacroButton::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMacroButton::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMacroButton.h" line="85" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1aeca5fb779cf6c71ec4da4f7604e72bd7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldMacroButton::get_DisplayText</definition>
+        <argsstring>()</argsstring>
+        <name>get_DisplayText</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMacroButton::get_DisplayText</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the text to appear as the &quot;button&quot; that is selected to run the macro or command. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use MACROBUTTON fields to allow us to run a document&apos;s macros by clicking. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Macro.docm&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_HasMacros());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>MACROBUTTON<sp/>field,<sp/>and<sp/>reference<sp/>one<sp/>of<sp/>the<sp/>document&apos;s<sp/>macros<sp/>by<sp/>name<sp/>in<sp/>the<sp/>MacroName<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldMacroButton&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca03028b077ef377441516ab1fd5a6d9e7" kindref="member" tooltip="Specifies the MACROBUTTON field.">FieldType::FieldMacroButton</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_MacroName(u</highlight><highlight class="stringliteral">&quot;MyMacro&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DisplayText(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Double<sp/>click<sp/>to<sp/>run<sp/>macro:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>field-&gt;get_MacroName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>MACROBUTTON<sp/><sp/>MyMacro<sp/>Double<sp/>click<sp/>to<sp/>run<sp/>macro:<sp/>MyMacro&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>property<sp/>to<sp/>reference<sp/>&quot;ViewZoom200&quot;,<sp/>a<sp/>macro<sp/>that<sp/>ships<sp/>with<sp/>Microsoft<sp/>Word.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>find<sp/>all<sp/>other<sp/>macros<sp/>via<sp/>View<sp/>-&gt;<sp/>Macros<sp/>(dropdown)<sp/>-&gt;<sp/>View<sp/>Macros.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>that<sp/>menu,<sp/>select<sp/>&quot;Word<sp/>Commands&quot;<sp/>from<sp/>the<sp/>&quot;Macros<sp/>in:&quot;<sp/>drop<sp/>down.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>our<sp/>document<sp/>contains<sp/>a<sp/>custom<sp/>macro<sp/>with<sp/>the<sp/>same<sp/>name<sp/>as<sp/>a<sp/>stock<sp/>macro,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>our<sp/>macro<sp/>will<sp/>be<sp/>the<sp/>one<sp/>that<sp/>the<sp/>MACROBUTTON<sp/>field<sp/>runs.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertParagraph();</highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldMacroButton&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca03028b077ef377441516ab1fd5a6d9e7" kindref="member" tooltip="Specifies the MACROBUTTON field.">FieldType::FieldMacroButton</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_MacroName(u</highlight><highlight class="stringliteral">&quot;ViewZoom200&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DisplayText(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Run<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>field-&gt;get_MacroName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>MACROBUTTON<sp/><sp/>ViewZoom200<sp/>Run<sp/>ViewZoom200&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Save<sp/>the<sp/>document<sp/>as<sp/>a<sp/>macro-enabled<sp/>document<sp/>type.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.MACROBUTTON.docm&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMacroButton.h" line="169" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a6f3a00664c368853e23cf80434b85b18" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_end" kindref="compound">Aspose::Words::Fields::FieldEnd</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldEnd &gt; Aspose::Words::Fields::FieldMacroButton::get_End</definition>
+        <argsstring>() override</argsstring>
+        <name>get_End</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMacroButton::get_End</qualifiedname>
+        <briefdescription>
+<para>Gets the node that represents the field end. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMacroButton.h" line="96" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a5c89c663855851fd9b037c8529f16778" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldMacroButton::get_MacroName</definition>
+        <argsstring>()</argsstring>
+        <name>get_MacroName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMacroButton::get_MacroName</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the name of the macro or command to run. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use MACROBUTTON fields to allow us to run a document&apos;s macros by clicking. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Macro.docm&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_HasMacros());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>MACROBUTTON<sp/>field,<sp/>and<sp/>reference<sp/>one<sp/>of<sp/>the<sp/>document&apos;s<sp/>macros<sp/>by<sp/>name<sp/>in<sp/>the<sp/>MacroName<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldMacroButton&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca03028b077ef377441516ab1fd5a6d9e7" kindref="member" tooltip="Specifies the MACROBUTTON field.">FieldType::FieldMacroButton</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_MacroName(u</highlight><highlight class="stringliteral">&quot;MyMacro&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DisplayText(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Double<sp/>click<sp/>to<sp/>run<sp/>macro:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>field-&gt;get_MacroName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>MACROBUTTON<sp/><sp/>MyMacro<sp/>Double<sp/>click<sp/>to<sp/>run<sp/>macro:<sp/>MyMacro&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>property<sp/>to<sp/>reference<sp/>&quot;ViewZoom200&quot;,<sp/>a<sp/>macro<sp/>that<sp/>ships<sp/>with<sp/>Microsoft<sp/>Word.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>find<sp/>all<sp/>other<sp/>macros<sp/>via<sp/>View<sp/>-&gt;<sp/>Macros<sp/>(dropdown)<sp/>-&gt;<sp/>View<sp/>Macros.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>that<sp/>menu,<sp/>select<sp/>&quot;Word<sp/>Commands&quot;<sp/>from<sp/>the<sp/>&quot;Macros<sp/>in:&quot;<sp/>drop<sp/>down.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>our<sp/>document<sp/>contains<sp/>a<sp/>custom<sp/>macro<sp/>with<sp/>the<sp/>same<sp/>name<sp/>as<sp/>a<sp/>stock<sp/>macro,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>our<sp/>macro<sp/>will<sp/>be<sp/>the<sp/>one<sp/>that<sp/>the<sp/>MACROBUTTON<sp/>field<sp/>runs.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertParagraph();</highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldMacroButton&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca03028b077ef377441516ab1fd5a6d9e7" kindref="member" tooltip="Specifies the MACROBUTTON field.">FieldType::FieldMacroButton</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_MacroName(u</highlight><highlight class="stringliteral">&quot;ViewZoom200&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DisplayText(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Run<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>field-&gt;get_MacroName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>MACROBUTTON<sp/><sp/>ViewZoom200<sp/>Run<sp/>ViewZoom200&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Save<sp/>the<sp/>document<sp/>as<sp/>a<sp/>macro-enabled<sp/>document<sp/>type.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.MACROBUTTON.docm&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMacroButton.h" line="131" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a71413c7a79514616ad4f427e22f039d1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_separator" kindref="compound">Aspose::Words::Fields::FieldSeparator</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldSeparator &gt; Aspose::Words::Fields::FieldMacroButton::get_Separator</definition>
+        <argsstring>() override</argsstring>
+        <name>get_Separator</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMacroButton::get_Separator</qualifiedname>
+        <briefdescription>
+<para>Gets the node that represents the field separator. Can be null. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMacroButton.h" line="93" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a98314658f37bd7f8ece9e0e79d4633c6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_start" kindref="compound">Aspose::Words::Fields::FieldStart</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldStart &gt; Aspose::Words::Fields::FieldMacroButton::get_Start</definition>
+        <argsstring>() override</argsstring>
+        <name>get_Start</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMacroButton::get_Start</qualifiedname>
+        <briefdescription>
+<para>Gets the node that represents the start of the field. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMacroButton.h" line="90" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1acdaf86eb3c48f3fe4c107d7c2ec49e9a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldMacroButton::set_DisplayText</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_DisplayText</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMacroButton::set_DisplayText</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1aeca5fb779cf6c71ec4da4f7604e72bd7" kindref="member">Aspose::Words::Fields::FieldMacroButton::get_DisplayText</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMacroButton.h" line="172" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a6a3f86e1d134735ba008dadfb009c356" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldMacroButton::set_MacroName</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_MacroName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMacroButton::set_MacroName</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a5c89c663855851fd9b037c8529f16778" kindref="member">Aspose::Words::Fields::FieldMacroButton::get_MacroName</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMacroButton.h" line="134" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implements the MACROBUTTON field. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>Allows a macro or command to be run.</para>
+<para>In Aspose.Words this field can also act as a merge field.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use MACROBUTTON fields to allow us to run a document&apos;s macros by clicking. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Macro.docm&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_HasMacros());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>MACROBUTTON<sp/>field,<sp/>and<sp/>reference<sp/>one<sp/>of<sp/>the<sp/>document&apos;s<sp/>macros<sp/>by<sp/>name<sp/>in<sp/>the<sp/>MacroName<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldMacroButton&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca03028b077ef377441516ab1fd5a6d9e7" kindref="member" tooltip="Specifies the MACROBUTTON field.">FieldType::FieldMacroButton</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_MacroName(u</highlight><highlight class="stringliteral">&quot;MyMacro&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DisplayText(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Double<sp/>click<sp/>to<sp/>run<sp/>macro:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>field-&gt;get_MacroName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>MACROBUTTON<sp/><sp/>MyMacro<sp/>Double<sp/>click<sp/>to<sp/>run<sp/>macro:<sp/>MyMacro&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>property<sp/>to<sp/>reference<sp/>&quot;ViewZoom200&quot;,<sp/>a<sp/>macro<sp/>that<sp/>ships<sp/>with<sp/>Microsoft<sp/>Word.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>find<sp/>all<sp/>other<sp/>macros<sp/>via<sp/>View<sp/>-&gt;<sp/>Macros<sp/>(dropdown)<sp/>-&gt;<sp/>View<sp/>Macros.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>that<sp/>menu,<sp/>select<sp/>&quot;Word<sp/>Commands&quot;<sp/>from<sp/>the<sp/>&quot;Macros<sp/>in:&quot;<sp/>drop<sp/>down.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>our<sp/>document<sp/>contains<sp/>a<sp/>custom<sp/>macro<sp/>with<sp/>the<sp/>same<sp/>name<sp/>as<sp/>a<sp/>stock<sp/>macro,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>our<sp/>macro<sp/>will<sp/>be<sp/>the<sp/>one<sp/>that<sp/>the<sp/>MACROBUTTON<sp/>field<sp/>runs.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertParagraph();</highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldMacroButton&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca03028b077ef377441516ab1fd5a6d9e7" kindref="member" tooltip="Specifies the MACROBUTTON field.">FieldType::FieldMacroButton</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_MacroName(u</highlight><highlight class="stringliteral">&quot;ViewZoom200&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_DisplayText(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Run<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>field-&gt;get_MacroName());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>MACROBUTTON<sp/><sp/>ViewZoom200<sp/>Run<sp/>ViewZoom200&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Save<sp/>the<sp/>document<sp/>as<sp/>a<sp/>macro-enabled<sp/>document<sp/>type.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.MACROBUTTON.docm&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldMacroButton</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IMergeFieldSurrogate</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldMacroButton</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IMergeFieldSurrogate</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/FieldMacroButton.h" line="78" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldMacroButton.h" bodystart="79" bodyend="186"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a197a00d8a91645df5101cb28b1d5689f" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a59f7db900123e95ad740c205c32b4a1b" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1acb3caf2569f8b6204260fe4a04829b87" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>CanWorkAsMergeField</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a5c2d01019c517ea8098f296903e37a34" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>get_DisplayResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1aeca5fb779cf6c71ec4da4f7604e72bd7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>get_DisplayText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a6f3a00664c368853e23cf80434b85b18" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad5f0995c85cce833806e847cf25809b7" prot="public" virt="non-virtual" ambiguityscope="Aspose::Words::Fields::Field::"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a399c14463916724cac0015b430175589" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>get_FieldEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abc40cddc1325f7fec80d8530e5287448" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>get_FieldStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a090c5d09915e2ead6cc54fda736dd7c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>get_Format</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ae68851d4a88a1fc867d3ddee2e4e88c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>get_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afda4c46db80761545c89e21aae5b717d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>get_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a93719d071099487b6aea1eaa241dd6e8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>get_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a5c89c663855851fd9b037c8529f16778" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>get_MacroName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a012c93472901dc077815970a9b2ab650" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>get_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a71413c7a79514616ad4f427e22f039d1" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>get_Separator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a98314658f37bd7f8ece9e0e79d4633c6" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afa7cd5d4cf1a87b05058982f26786456" prot="public" virt="non-virtual" ambiguityscope="Aspose::Words::Fields::Field::"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad68196653db5cfca30c1ba18ed44c76e" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a6f84bf7f425584c10a6c7cf332d3ddeb" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>GetFakeResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa40bc0e4a5be11f0df785cc8bb2ff042" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a41a23c4ed1ca1935bcf150c757d70766" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>GetMergeFieldName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a4c4a9d624a5eee23abdcfe9d122c7008" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>IsMergeValueRequired</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad26a8021af3dbdc5bf0a1360a201222f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a9234fdcee68ac1d9f5e6945d15752d26" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1acdaf86eb3c48f3fe4c107d7c2ec49e9a" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>set_DisplayText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa637d825865724665fb8ed856e664d95" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>set_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ac70b125adbe7f0ba5b889280cd282c47" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>set_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a165f748dd5ba33844f1d765f6c710f88" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>set_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a6a3f86e1d134735ba008dadfb009c356" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>set_MacroName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa6af1e900c84ae806f071098dfe8f087" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>set_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a8cc51ba4231962509344662a46cedf9a" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button_1a9d6fdda2a89a585a70827bc82d485b55" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab9f908becb16b26bed76d58dbcee9929" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>Unlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aaec82418b2b6493aa2827b8e282b2e82" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a1298d7daa07c863bf97cb3f37a4d7a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMacroButton</scope><name>Update</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

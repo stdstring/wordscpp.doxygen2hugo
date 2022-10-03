@@ -1,0 +1,443 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Drawing::Charts::ChartLegend</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource</basecompoundref>
+    <includes refid="_chart_legend_8h" local="no">Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1aee10f7f891fa099b1bd1dd653dc2a085" prot="private" static="no">
+        <type>Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource</type>
+        <definition>typedef Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource Aspose::Words::Drawing::Charts::ChartLegend::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegend::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" line="84" column="72" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" bodystart="84" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1af837478c1497bd860a19cc923d0b93dd" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend" kindref="compound">ChartLegend</ref></type>
+        <definition>typedef ChartLegend Aspose::Words::Drawing::Charts::ChartLegend::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegend::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" line="83" column="25" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" bodystart="83" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1ae85fd013c74080e65024a250ddc6014e" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; BaseType &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Drawing::Charts::ChartLegend::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegend::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" line="86" column="37" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" bodystart="86" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a4ec8ce4ebcf0181ca9008ef2574773d0" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartLegend::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegend::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" line="170" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" bodystart="170" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a7318079ccb74052796abf8efb8769021" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartLegend::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegend::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" line="171" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" bodystart="171" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a2399efc06bf1396d1e5793ca2eab28bc" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Drawing::Charts::ChartLegend::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegend::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" line="172" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" bodystart="172" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a69560185a58b1b27bb030fa05843fcde" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Drawing::Charts::ChartLegend::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegend::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" line="173" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" bodystart="173" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1afcba3e337f0e0ef54465bcb8ad09545a" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartLegend::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegend::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" line="174" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" bodystart="174" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a8a0916b6341bd7664da6b2d4382e87ca" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartLegend::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegend::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" line="175" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" bodystart="175" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1acb17ed7ad1e323eb188e051f2aa77b2d" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartLegend::mField6</definition>
+        <argsstring></argsstring>
+        <name>mField6</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegend::mField6</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" line="176" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" bodystart="176" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a6ff3ae8a47702ae69be6f86da4b35576" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Drawing::Charts::ChartLegend::mField7</definition>
+        <argsstring></argsstring>
+        <name>mField7</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegend::mField7</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" line="177" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" bodystart="177" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a1b25812fb354cbb02d8acd92fb7f80a9" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Drawing::Charts::ChartLegend::mField8</definition>
+        <argsstring></argsstring>
+        <name>mField8</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegend::mField8</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" line="178" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" bodystart="178" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1ac3c7284747955573fdf5b44d7428373a" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Collections::StringToObjDictionary&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Drawing::Core::Dml::DmlExtension &gt; &gt; &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Collections::StringToObjDictionary&lt; System::SharedPtr&lt; Aspose::Words::Drawing::Core::Dml::DmlExtension &gt; &gt; &gt; Aspose::Words::Drawing::Charts::ChartLegend::get_Extensions</definition>
+        <argsstring>() override</argsstring>
+        <name>get_Extensions</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegend::get_Extensions</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" line="167" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a4f7eb85b0f830f4fa1878030e8dadaf4" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Drawing::Charts::ChartLegend::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegend::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" line="87" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1abca55e70b2b794d651647e5cd0d6cf51" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartLegend::set_Extensions</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Collections::StringToObjDictionary&lt; System::SharedPtr&lt; Aspose::Words::Drawing::Core::Dml::DmlExtension &gt; &gt; &gt;) override</argsstring>
+        <name>set_Extensions</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegend::set_Extensions</qualifiedname>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Collections::StringToObjDictionary&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Drawing::Core::Dml::DmlExtension &gt; &gt; &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" line="168" column="10"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a49fc8cb8db821cca2975116aa9bfb3f1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Drawing::Charts::ChartLegend::ChartLegend</definition>
+        <argsstring>()</argsstring>
+        <name>ChartLegend</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegend::ChartLegend</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" line="161" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a3e55e8032d7bfe98c75173f23ee3bfbb" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry_collection" kindref="compound">Aspose::Words::Drawing::Charts::ChartLegendEntryCollection</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::Charts::ChartLegendEntryCollection &gt; Aspose::Words::Drawing::Charts::ChartLegend::get_LegendEntries</definition>
+        <argsstring>() const</argsstring>
+        <name>get_LegendEntries</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegend::get_LegendEntries</qualifiedname>
+        <briefdescription>
+<para>Returns a collection of legend entries for all series and trendlines of the parent chart. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" line="92" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a7269e8d35e95a738f3dd01037584f796" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Drawing::Charts::ChartLegend::get_Overlay</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Overlay</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegend::get_Overlay</qualifiedname>
+        <briefdescription>
+<para>Determines whether other chart elements shall be allowed to overlap legend. Default value is false. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to edit the appearance of a chart&apos;s legend. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertChart(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a4803e6b9e63dabf04de980788d6a13c4" kindref="member" tooltip="Line chart.">ChartType::Line</ref>,<sp/>450,<sp/>300);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Chart&gt;<sp/>chart<sp/>=<sp/>shape-&gt;get_Chart();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>chart-&gt;get_Series()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>1&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>2&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>3&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(2)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Move<sp/>the<sp/>chart&apos;s<sp/>legend<sp/>to<sp/>the<sp/>top<sp/>right<sp/>corner.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ChartLegend&gt;<sp/>legend<sp/>=<sp/>chart-&gt;get_Legend();</highlight></codeline>
+<codeline><highlight class="normal">legend-&gt;set_Position(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a2e8ec4c3e094fd0cb5f28ad2a3dbce15a1d85a557894c340c318493f33bfa8efb" kindref="member" tooltip="Specifies that the legend shall be drawn at the top right of the chart.">LegendPosition::TopRight</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Give<sp/>other<sp/>chart<sp/>elements,<sp/>such<sp/>as<sp/>the<sp/>graph,<sp/>more<sp/>room<sp/>by<sp/>allowing<sp/>them<sp/>to<sp/>overlap<sp/>the<sp/>legend.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">legend-&gt;set_Overlay(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Charts.ChartLegend.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" line="153" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a04a7c06e27da2072316cee527cd2543c" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a2e8ec4c3e094fd0cb5f28ad2a3dbce15" kindref="member">Aspose::Words::Drawing::Charts::LegendPosition</ref></type>
+        <definition>Aspose::Words::Drawing::Charts::LegendPosition Aspose::Words::Drawing::Charts::ChartLegend::get_Position</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Position</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegend::get_Position</qualifiedname>
+        <briefdescription>
+<para>Specifies the position of the legend on a chart. Default value is <ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a2e8ec4c3e094fd0cb5f28ad2a3dbce15a92b09c7c48c520c3c55e497875da437c" kindref="member">Right</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to edit the appearance of a chart&apos;s legend. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertChart(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a4803e6b9e63dabf04de980788d6a13c4" kindref="member" tooltip="Line chart.">ChartType::Line</ref>,<sp/>450,<sp/>300);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Chart&gt;<sp/>chart<sp/>=<sp/>shape-&gt;get_Chart();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>chart-&gt;get_Series()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>1&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>2&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>3&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(2)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Move<sp/>the<sp/>chart&apos;s<sp/>legend<sp/>to<sp/>the<sp/>top<sp/>right<sp/>corner.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ChartLegend&gt;<sp/>legend<sp/>=<sp/>chart-&gt;get_Legend();</highlight></codeline>
+<codeline><highlight class="normal">legend-&gt;set_Position(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a2e8ec4c3e094fd0cb5f28ad2a3dbce15a1d85a557894c340c318493f33bfa8efb" kindref="member" tooltip="Specifies that the legend shall be drawn at the top right of the chart.">LegendPosition::TopRight</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Give<sp/>other<sp/>chart<sp/>elements,<sp/>such<sp/>as<sp/>the<sp/>graph,<sp/>more<sp/>room<sp/>by<sp/>allowing<sp/>them<sp/>to<sp/>overlap<sp/>the<sp/>legend.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">legend-&gt;set_Overlay(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Charts.ChartLegend.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" line="121" column="55"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1ace6c8d2332517bc064742c3cc4d719d0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartLegend::set_Overlay</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_Overlay</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegend::set_Overlay</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a7269e8d35e95a738f3dd01037584f796" kindref="member">Aspose::Words::Drawing::Charts::ChartLegend::get_Overlay</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" line="156" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a060cff31cf183cb8c3795dfebe0aaa45" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartLegend::set_Position</definition>
+        <argsstring>(Aspose::Words::Drawing::Charts::LegendPosition value)</argsstring>
+        <name>set_Position</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegend::set_Position</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a2e8ec4c3e094fd0cb5f28ad2a3dbce15" kindref="member">Aspose::Words::Drawing::Charts::LegendPosition</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a04a7c06e27da2072316cee527cd2543c" kindref="member">Aspose::Words::Drawing::Charts::ChartLegend::get_Position</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" line="124" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents chart legend properties. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to edit the appearance of a chart&apos;s legend. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertChart(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a4803e6b9e63dabf04de980788d6a13c4" kindref="member" tooltip="Line chart.">ChartType::Line</ref>,<sp/>450,<sp/>300);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Chart&gt;<sp/>chart<sp/>=<sp/>shape-&gt;get_Chart();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>chart-&gt;get_Series()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>1&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>2&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>3&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(2)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Move<sp/>the<sp/>chart&apos;s<sp/>legend<sp/>to<sp/>the<sp/>top<sp/>right<sp/>corner.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ChartLegend&gt;<sp/>legend<sp/>=<sp/>chart-&gt;get_Legend();</highlight></codeline>
+<codeline><highlight class="normal">legend-&gt;set_Position(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a2e8ec4c3e094fd0cb5f28ad2a3dbce15a1d85a557894c340c318493f33bfa8efb" kindref="member" tooltip="Specifies that the legend shall be drawn at the top right of the chart.">LegendPosition::TopRight</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Give<sp/>other<sp/>chart<sp/>elements,<sp/>such<sp/>as<sp/>the<sp/>graph,<sp/>more<sp/>room<sp/>by<sp/>allowing<sp/>them<sp/>to<sp/>overlap<sp/>the<sp/>legend.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">legend-&gt;set_Overlay(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Charts.ChartLegend.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Drawing::Charts::ChartLegend</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Drawing::Charts::ChartLegend</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Drawing::Core::Dml::IDmlExtensionListSource</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" line="81" column="1" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartLegend.h" bodystart="82" bodyend="180"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1aee10f7f891fa099b1bd1dd653dc2a085" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegend</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a49fc8cb8db821cca2975116aa9bfb3f1" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegend</scope><name>ChartLegend</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1ac3c7284747955573fdf5b44d7428373a" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegend</scope><name>get_Extensions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a3e55e8032d7bfe98c75173f23ee3bfbb" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegend</scope><name>get_LegendEntries</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a7269e8d35e95a738f3dd01037584f796" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegend</scope><name>get_Overlay</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a04a7c06e27da2072316cee527cd2543c" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegend</scope><name>get_Position</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a4ec8ce4ebcf0181ca9008ef2574773d0" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegend</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a7318079ccb74052796abf8efb8769021" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegend</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a2399efc06bf1396d1e5793ca2eab28bc" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegend</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a69560185a58b1b27bb030fa05843fcde" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegend</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1afcba3e337f0e0ef54465bcb8ad09545a" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegend</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a8a0916b6341bd7664da6b2d4382e87ca" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegend</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1acb17ed7ad1e323eb188e051f2aa77b2d" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegend</scope><name>mField6</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a6ff3ae8a47702ae69be6f86da4b35576" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegend</scope><name>mField7</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a1b25812fb354cbb02d8acd92fb7f80a9" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegend</scope><name>mField8</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a4f7eb85b0f830f4fa1878030e8dadaf4" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegend</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1abca55e70b2b794d651647e5cd0d6cf51" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegend</scope><name>set_Extensions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1ace6c8d2332517bc064742c3cc4d719d0" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegend</scope><name>set_Overlay</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1a060cff31cf183cb8c3795dfebe0aaa45" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegend</scope><name>set_Position</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1af837478c1497bd860a19cc923d0b93dd" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegend</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_1ae85fd013c74080e65024a250ddc6014e" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegend</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

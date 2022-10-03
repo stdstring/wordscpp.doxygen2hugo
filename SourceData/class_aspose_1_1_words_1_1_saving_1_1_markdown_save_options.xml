@@ -1,0 +1,479 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Saving::MarkdownSaveOptions</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base" prot="public" virt="non-virtual">Aspose::Words::Saving::TxtSaveOptionsBase</basecompoundref>
+    <includes refid="_markdown_save_options_8h" local="no">Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1a0fd586d1b567f136f37f74e0c26cb7ec" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base" kindref="compound">Aspose::Words::Saving::TxtSaveOptionsBase</ref></type>
+        <definition>typedef Aspose::Words::Saving::TxtSaveOptionsBase Aspose::Words::Saving::MarkdownSaveOptions::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Saving::MarkdownSaveOptions::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h" line="40" column="55" bodyfile="Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h" bodystart="40" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1a6d949e8c28356baf886df3c854bac4e5" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options" kindref="compound">MarkdownSaveOptions</ref></type>
+        <definition>typedef MarkdownSaveOptions Aspose::Words::Saving::MarkdownSaveOptions::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Saving::MarkdownSaveOptions::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h" line="39" column="33" bodyfile="Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h" bodystart="39" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1af403a5672c9210be89bd65261c20f2ae" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::MarkdownSaveOptions::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Saving::MarkdownSaveOptions::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h" line="42" column="37" bodyfile="Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h" bodystart="42" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1acc3f43a1ffc62939ab26065f03edafc3" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Saving::MarkdownSaveOptions::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Saving::MarkdownSaveOptions::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h" line="166" column="23" bodyfile="Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h" bodystart="166" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1ab0486a353ff1a130f9c2ccff00c978c5" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::MarkdownSaveOptions::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Saving::MarkdownSaveOptions::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h" line="167" column="23" bodyfile="Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h" bodystart="167" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1a89dcb079ec26ecea16f176d5bf0656b6" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::MarkdownSaveOptions::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Saving::MarkdownSaveOptions::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h" line="168" column="20" bodyfile="Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h" bodystart="168" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1a172c311e747512048f7eae00ce159760" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::MarkdownSaveOptions::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Saving::MarkdownSaveOptions::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h" line="43" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1adb43f6535c3b67441dead4a27c3801a6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::MarkdownSaveOptions::MarkdownSaveOptions</definition>
+        <argsstring>()</argsstring>
+        <name>MarkdownSaveOptions</name>
+        <qualifiedname>Aspose::Words::Saving::MarkdownSaveOptions::MarkdownSaveOptions</qualifiedname>
+        <briefdescription>
+<para>Initializes a new instance of this class that can be used to save a document in the <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a2182a74bab7188d959e795d9301e87ff" kindref="member">Markdown</ref> format. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h" line="160" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1aa9c9df874270b1cc1a3cc8c05c61a029" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Saving::MarkdownSaveOptions::get_ExportImagesAsBase64</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ExportImagesAsBase64</name>
+        <qualifiedname>Aspose::Words::Saving::MarkdownSaveOptions::get_ExportImagesAsBase64</qualifiedname>
+        <briefdescription>
+<para>Specifies whether images are saved in Base64 format to the output file. Default is <computeroutput>false</computeroutput>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>When this property is set to <computeroutput>true</computeroutput> images data are exported directly into the <bold>img</bold> elements and separate files are not created. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h" line="153" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1a648b22a3919d25fde28ffc2a6685d611" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_i_image_saving_callback" kindref="compound">Aspose::Words::Saving::IImageSavingCallback</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Saving::IImageSavingCallback &gt; Aspose::Words::Saving::MarkdownSaveOptions::get_ImageSavingCallback</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ImageSavingCallback</name>
+        <qualifiedname>Aspose::Words::Saving::MarkdownSaveOptions::get_ImageSavingCallback</qualifiedname>
+        <briefdescription>
+<para>Allows to control how images are saved when a document is saved to <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a2182a74bab7188d959e795d9301e87ff" kindref="member">Markdown</ref> format. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to rename the image name during saving into Markdown document. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>RenameImages()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;MarkdownSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>convert<sp/>a<sp/>document<sp/>that<sp/>contains<sp/>images<sp/>into<sp/>Markdown,<sp/>we<sp/>will<sp/>end<sp/>up<sp/>with<sp/>one<sp/>Markdown<sp/>file<sp/>which<sp/>links<sp/>to<sp/>several<sp/>images.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Each<sp/>image<sp/>will<sp/>be<sp/>in<sp/>the<sp/>form<sp/>of<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>There<sp/>is<sp/>also<sp/>a<sp/>callback<sp/>that<sp/>can<sp/>customize<sp/>the<sp/>name<sp/>and<sp/>file<sp/>system<sp/>location<sp/>of<sp/>each<sp/>image.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ImageSavingCallback(MakeObject&lt;ExDocumentBuilder::SavedImageRename&gt;(u</highlight><highlight class="stringliteral">&quot;DocumentBuilder.HandleDocument.md&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>ImageSaving()<sp/>method<sp/>of<sp/>our<sp/>callback<sp/>will<sp/>be<sp/>run<sp/>at<sp/>this<sp/>time.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBuilder.HandleDocument.md&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(1,<sp/><ref refid="class/system.i_o.directory/_1a175e3c7c67d67de4fc93cd54b8fb6f2d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::GetFiles</ref>(ArtifactsDir)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;LINQ_Where([](String<sp/>s)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>s.StartsWith(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBuilder.HandleDocument.md<sp/>shape&quot;</highlight><highlight class="normal">);<sp/>})</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;LINQ_Count([](String<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f.EndsWith(u</highlight><highlight class="stringliteral">&quot;.jpeg&quot;</highlight><highlight class="normal">);<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(8,<sp/><ref refid="class/system.i_o.directory/_1a175e3c7c67d67de4fc93cd54b8fb6f2d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::GetFiles</ref>(ArtifactsDir)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;LINQ_Where([](String<sp/>s)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>s.StartsWith(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBuilder.HandleDocument.md<sp/>shape&quot;</highlight><highlight class="normal">);<sp/>})</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;LINQ_Count([](String<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f.EndsWith(u</highlight><highlight class="stringliteral">&quot;.png&quot;</highlight><highlight class="normal">);<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">SavedImageRename<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IImageSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SavedImageRename(String<sp/>outFileName)<sp/>:<sp/>mCount(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mOutFileName<sp/>=<sp/>outFileName;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mCount;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>mOutFileName;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ImageSaving(SharedPtr&lt;ImageSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>imageFileName<sp/>=<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}<sp/>shape<sp/>{1},<sp/>of<sp/>type<sp/>{2}{3}&quot;</highlight><highlight class="normal">,<sp/>mOutFileName,<sp/>++mCount,<sp/>args-&gt;get_CurrentShape()-&gt;get_ShapeType(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.path/_1ae9e0f0c8b345ecfab2ca997411b81f97" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::GetExtension</ref>(args-&gt;get_ImageFileName()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ImageFileName(imageFileName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ImageStream(MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>imageFileName,<sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_ImageStream()-&gt;get_CanWrite());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_IsImageAvailable());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(args-&gt;get_KeepImageStreamOpen());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h" line="143" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1ab04fb07a8946c1bede77d4455fe52d7b" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::MarkdownSaveOptions::get_ImagesFolder</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ImagesFolder</name>
+        <qualifiedname>Aspose::Words::Saving::MarkdownSaveOptions::get_ImagesFolder</qualifiedname>
+        <briefdescription>
+<para>Specifies the physical folder where images are saved when exporting a document to the <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a2182a74bab7188d959e795d9301e87ff" kindref="member">Markdown</ref> format. Default is an empty string. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>When you save a <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Document</ref> in <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a2182a74bab7188d959e795d9301e87ff" kindref="member">Markdown</ref> format, Aspose.Words needs to save all images embedded in the document as standalone files. <ref refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1ab04fb07a8946c1bede77d4455fe52d7b" kindref="member">ImagesFolder</ref> allows you to specify where the images will be saved.</para>
+<para>If you save a document into a file and provide a file name, Aspose.Words, by default, saves the images in the same folder where the document file is saved. Use <ref refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1ab04fb07a8946c1bede77d4455fe52d7b" kindref="member">ImagesFolder</ref> to override this behavior.</para>
+<para>If you save a document into a stream, Aspose.Words does not have a folder where to save the images, but still needs to save the images somewhere. In this case, you need to specify an accessible folder in the <ref refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1ab04fb07a8946c1bede77d4455fe52d7b" kindref="member">ImagesFolder</ref> property.</para>
+<para>If the folder specified by <ref refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1ab04fb07a8946c1bede77d4455fe52d7b" kindref="member">ImagesFolder</ref> doesn&apos;t exist, it will be created automatically. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h" line="80" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1ac69c117006e0f847715eed506b5b3582" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" kindref="member">Aspose::Words::SaveFormat</ref></type>
+        <definition>Aspose::Words::SaveFormat Aspose::Words::Saving::MarkdownSaveOptions::get_SaveFormat</definition>
+        <argsstring>() override</argsstring>
+        <name>get_SaveFormat</name>
+        <qualifiedname>Aspose::Words::Saving::MarkdownSaveOptions::get_SaveFormat</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6df9e8d37cc7794640ea5c5932134253">get_SaveFormat</reimplements>
+        <briefdescription>
+<para>Specifies the format in which the document will be saved if this save options object is used. Can only be <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a2182a74bab7188d959e795d9301e87ff" kindref="member">Markdown</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h" line="49" column="34"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1aa808b2d8721c2a58ae172f40f53a40b5" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_saving_1af125906eb44f769a76103921f31b1d13" kindref="member">Aspose::Words::Saving::TableContentAlignment</ref></type>
+        <definition>Aspose::Words::Saving::TableContentAlignment Aspose::Words::Saving::MarkdownSaveOptions::get_TableContentAlignment</definition>
+        <argsstring>() const</argsstring>
+        <name>get_TableContentAlignment</name>
+        <qualifiedname>Aspose::Words::Saving::MarkdownSaveOptions::get_TableContentAlignment</qualifiedname>
+        <briefdescription>
+<para>Gets a value that specifies how to align contents in tables when exporting into the <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a2182a74bab7188d959e795d9301e87ff" kindref="member">Markdown</ref> format. The default value is <ref refid="namespace_aspose_1_1_words_1_1_saving_1af125906eb44f769a76103921f31b1d13a06b9281e396db002010bde1de57262eb" kindref="member">Auto</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h" line="58" column="53"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1a6f7c956ff6d7418e9bfa6bbb95c1e702" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::MarkdownSaveOptions::set_ExportImagesAsBase64</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_ExportImagesAsBase64</name>
+        <qualifiedname>Aspose::Words::Saving::MarkdownSaveOptions::set_ExportImagesAsBase64</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1aa9c9df874270b1cc1a3cc8c05c61a029" kindref="member">Aspose::Words::Saving::MarkdownSaveOptions::get_ExportImagesAsBase64</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h" line="156" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1a5b20365a7b063714c267c5f4b19d1774" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::MarkdownSaveOptions::set_ImageSavingCallback</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Saving::IImageSavingCallback &gt; &amp;value)</argsstring>
+        <name>set_ImageSavingCallback</name>
+        <qualifiedname>Aspose::Words::Saving::MarkdownSaveOptions::set_ImageSavingCallback</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_i_image_saving_callback" kindref="compound">Aspose::Words::Saving::IImageSavingCallback</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1a648b22a3919d25fde28ffc2a6685d611" kindref="member">Aspose::Words::Saving::MarkdownSaveOptions::get_ImageSavingCallback</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h" line="146" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1afc080774418a1cbaa4c650a66ee52c9e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::MarkdownSaveOptions::set_ImagesFolder</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ImagesFolder</name>
+        <qualifiedname>Aspose::Words::Saving::MarkdownSaveOptions::set_ImagesFolder</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1ab04fb07a8946c1bede77d4455fe52d7b" kindref="member">Aspose::Words::Saving::MarkdownSaveOptions::get_ImagesFolder</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h" line="83" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1a552609c6e8599998d603d2ef3a6abf59" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::MarkdownSaveOptions::set_SaveFormat</definition>
+        <argsstring>(Aspose::Words::SaveFormat value) override</argsstring>
+        <name>set_SaveFormat</name>
+        <qualifiedname>Aspose::Words::Saving::MarkdownSaveOptions::set_SaveFormat</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a75d9ec81ad960179eba172764d2c60b9">set_SaveFormat</reimplements>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" kindref="member">Aspose::Words::SaveFormat</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Specifies the format in which the document will be saved if this save options object is used. Can only be <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a2182a74bab7188d959e795d9301e87ff" kindref="member">Markdown</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h" line="53" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1a3af164575b9e22458a06286be8db829a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::MarkdownSaveOptions::set_TableContentAlignment</definition>
+        <argsstring>(Aspose::Words::Saving::TableContentAlignment value)</argsstring>
+        <name>set_TableContentAlignment</name>
+        <qualifiedname>Aspose::Words::Saving::MarkdownSaveOptions::set_TableContentAlignment</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_saving_1af125906eb44f769a76103921f31b1d13" kindref="member">Aspose::Words::Saving::TableContentAlignment</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets a value that specifies how to align contents in tables when exporting into the <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a2182a74bab7188d959e795d9301e87ff" kindref="member">Markdown</ref> format. The default value is <ref refid="namespace_aspose_1_1_words_1_1_saving_1af125906eb44f769a76103921f31b1d13a06b9281e396db002010bde1de57262eb" kindref="member">Auto</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h" line="63" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Class to specify additional options when saving a document into the <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a2182a74bab7188d959e795d9301e87ff" kindref="member">Markdown</ref> format. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::MarkdownSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::Saving::SaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_save_options"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Saving::TxtSaveOptionsBase</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::MarkdownSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::Saving::SaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_save_options"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Saving::TxtSaveOptionsBase</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h" line="37" column="1" bodyfile="Aspose.Words.Cpp/Saving/MarkdownSaveOptions.h" bodystart="38" bodyend="170"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1a0fd586d1b567f136f37f74e0c26cb7ec" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a5f8b7264160980e775d0ebc2bb87ec6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>CreateSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a92aa5f878a1d0f3e06f620fd1376142f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>CreateSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9fecca2156a70f1834bd1c913a129d47" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_AllowEmbeddingPostScriptFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab9a4c7be9e7070ecbd5248bf01535ef3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_CustomTimeZoneInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a327b0f9146d84c39d72f09dffb55970d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_DefaultTemplate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ac309d37b349e0fd18de204c4b3493113" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_Dml3DEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0ad6a41669029f8bcb5d56ccd8eb1f25" prot="public" virt="virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_DmlEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a40d3faab0e88622c6fac579bbc050772" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_DmlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1af7e3fa8fd0c504d8e57b1138d342f63a" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_Encoding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1add57516835dfbc84b4ac55117e03a6a5" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_ExportGeneratorName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1af6eaf9602101f63dd03c454802de51e9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_ExportHeadersFootersMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1aa9c9df874270b1cc1a3cc8c05c61a029" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_ExportImagesAsBase64</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab3a4c36623e1cba81e21fb0c18fc27d6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a706d4795c4fe5c5309896edd708ef43f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_ForcePageBreaks</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1a648b22a3919d25fde28ffc2a6685d611" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_ImageSavingCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1ab04fb07a8946c1bede77d4455fe52d7b" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_ImagesFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a4032bbd708177dd64e3ba455a509e470" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_ImlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a00434e0916cf24f88a1cff9f4952bff3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_MemoryOptimization</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a39db9107bb8d8ae9411a2d7ae4eb4a42" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_ParagraphBreak</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1af3590697cf94e5b1f546536a3bb20089" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_PrettyFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aabbd691992af320129ecf001454428b1" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1ac69c117006e0f847715eed506b5b3582" prot="public" virt="virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_SaveFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1aa808b2d8721c2a58ae172f40f53a40b5" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_TableContentAlignment</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2eb22d168e7885c69f1a5ee73dfa9a9c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aafd986a59939576b688baf70ae2982b9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_UpdateCreatedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9058403d0bf8ef363c7265927c7d9689" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_UpdateFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ae00124e73b7ed35821a822f59a98456d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_UpdateLastPrintedProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aa37a14113e46f96d6a4100f33dbb41cd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_UpdateLastSavedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6ba4c67d7befc1d3959119554bc6ca0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_UpdateSdtContent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ac07a919eda7dd3104c3539643caab82f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_UseAntiAliasing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a926127b8a13db96c893d2e327d1ac458" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>get_UseHighQualityRendering</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1adb43f6535c3b67441dead4a27c3801a6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>MarkdownSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1acc3f43a1ffc62939ab26065f03edafc3" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1ab0486a353ff1a130f9c2ccff00c978c5" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1a89dcb079ec26ecea16f176d5bf0656b6" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1a172c311e747512048f7eae00ce159760" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9bf0591a869b2046558fac161fb5c8b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_AllowEmbeddingPostScriptFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a70292d5b6ed5dd4ed81ab6779ada5037" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_CustomTimeZoneInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6d50c71651e23523dd4edae9c8e03b0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_DefaultTemplate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a52f28c6f920bd4829f304f586dd52a4e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_Dml3DEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0415bb8f17f114f5b8bfbf77822f3e33" prot="public" virt="virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_DmlEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a925282153c1c7004637ce406968cd6bd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_DmlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a6eeb5be528b7619af7172e1865b9e555" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_Encoding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2b3bada9094a54559b832d5051f5be6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_ExportGeneratorName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1aadf390c79976fe3352222afe4f4a8ad8" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_ExportHeadersFootersMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1a6f7c956ff6d7418e9bfa6bbb95c1e702" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_ExportImagesAsBase64</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f2f79ea57714961156f913867823fc2" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a5e8745fd6e2b51b3b46d56fd4f923ac5" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_ForcePageBreaks</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1a5b20365a7b063714c267c5f4b19d1774" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_ImageSavingCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1afc080774418a1cbaa4c650a66ee52c9e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_ImagesFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afe2fd3cb5119a04f528a9da4b6c643b6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_ImlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1b432af0d799842b6939005904d924b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_MemoryOptimization</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1ae79773f93624624196edcf3fd68e861d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_ParagraphBreak</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0333c9e934c7b7066c108975a65291c9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_PrettyFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3ca5c36f7f1922b1f7b1f6e8528e29c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1a552609c6e8599998d603d2ef3a6abf59" prot="public" virt="virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_SaveFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1a3af164575b9e22458a06286be8db829a" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_TableContentAlignment</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a7488c6e1d35b21dda1fb3a6b24eb077c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aa6b3c59d2b5d93ecd4af333e7731a57a" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_UpdateCreatedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1ca0e9e7685d9cfdacad9b0c1c47fede" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_UpdateFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9253b0a7481cec6751f2d6e186d15f89" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_UpdateLastPrintedProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f8626f9e2fdd5ea38f656ecffea4433" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_UpdateLastSavedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afc31fd439351d75447554d3196522687" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_UpdateSdtContent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aee6a47d5aa51895c89fb99333990b15c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_UseAntiAliasing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aadd8de8195c06388cf619673c020dad3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>set_UseHighQualityRendering</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1a6d949e8c28356baf886df3c854bac4e5" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_markdown_save_options_1af403a5672c9210be89bd65261c20f2ae" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_txt_save_options_base_1a30328e9bc5cbcd8f53958c603d664e7d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::MarkdownSaveOptions</scope><name>TxtSaveOptionsBase</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

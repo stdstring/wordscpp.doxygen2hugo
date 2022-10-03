@@ -1,0 +1,908 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_bookmark_collection" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::BookmarkCollection</compoundname>
+    <basecompoundref refid="class/system.collections.generic.i_enumerable/" prot="public" virt="non-virtual">System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Bookmark &gt; &gt;</basecompoundref>
+    <includes refid="_bookmark_collection_8h" local="no">Aspose.Words.Cpp/BookmarkCollection.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_bookmark_collection_1a8da6d9ddaf99b926649a048af836d92b" prot="private" static="no">
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_bookmark" kindref="compound">Aspose::Words::Bookmark</ref> &gt; &gt;</type>
+        <definition>typedef System::Collections::Generic::IEnumerable&lt;System::SharedPtr&lt;Aspose::Words::Bookmark&gt; &gt; Aspose::Words::BookmarkCollection::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::BookmarkCollection::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/BookmarkCollection.h" line="127" column="55" bodyfile="Aspose.Words.Cpp/BookmarkCollection.h" bodystart="127" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_bookmark_collection_1afb6983722bf091e761f5f84668b1cb72" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_bookmark_collection" kindref="compound">BookmarkCollection</ref></type>
+        <definition>typedef BookmarkCollection Aspose::Words::BookmarkCollection::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::BookmarkCollection::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/BookmarkCollection.h" line="126" column="32" bodyfile="Aspose.Words.Cpp/BookmarkCollection.h" bodystart="126" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_bookmark_collection_1a0e72bf1dc0b001b7bc59f7f84344676a" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::BookmarkCollection::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::BookmarkCollection::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/BookmarkCollection.h" line="129" column="37" bodyfile="Aspose.Words.Cpp/BookmarkCollection.h" bodystart="129" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_bookmark_collection_1a92764d149c8f0d198c0733ae43342be6" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::BookmarkCollection::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::BookmarkCollection::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/BookmarkCollection.h" line="726" column="23" bodyfile="Aspose.Words.Cpp/BookmarkCollection.h" bodystart="726" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_bookmark_collection_1a6eef090c449517cb868c48afa2b563c2" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::BookmarkCollection::~BookmarkCollection</definition>
+        <argsstring>()</argsstring>
+        <name>~BookmarkCollection</name>
+        <qualifiedname>Aspose::Words::BookmarkCollection::~BookmarkCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/BookmarkCollection.h" line="722" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_bookmark_collection_1a2a4b06ac6c537529079b3a161e676e75" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::BookmarkCollection::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::BookmarkCollection::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/BookmarkCollection.h" line="130" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_bookmark_collection_1a8f59366a3d4944f03d3b5cd7535d0be8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::BookmarkCollection::Clear</definition>
+        <argsstring>()</argsstring>
+        <name>Clear</name>
+        <qualifiedname>Aspose::Words::BookmarkCollection::Clear</qualifiedname>
+        <briefdescription>
+<para>Removes all bookmarks from this collection and from the document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to remove bookmarks from a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>five<sp/>bookmarks<sp/>with<sp/>text<sp/>inside<sp/>their<sp/>boundaries.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>1;<sp/>i<sp/>&lt;=<sp/>5;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>bookmarkName<sp/>=<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;MyBookmark_&quot;</highlight><highlight class="normal">)<sp/>+<sp/>i;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(String::Format(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>{0}.&quot;</highlight><highlight class="normal">,<sp/>bookmarkName));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eac3316c9c335ce5fa8638df2fc5d518d4" kindref="member" tooltip="Break between paragraphs.">BreakType::ParagraphBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>collection<sp/>stores<sp/>bookmarks.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;BookmarkCollection&gt;<sp/>bookmarks<sp/>=<sp/>doc-&gt;get_Range()-&gt;get_Bookmarks();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>bookmarks-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>several<sp/>ways<sp/>of<sp/>removing<sp/>bookmarks.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Calling<sp/>the<sp/>bookmark&apos;s<sp/>Remove<sp/>method:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bookmarks-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyBookmark_1&quot;</highlight><highlight class="normal">)-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(bookmarks-&gt;LINQ_Any([](SharedPtr&lt;Bookmark&gt;<sp/>b)<sp/>{<sp/>return<sp/>b-&gt;get_Name()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark_1&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Passing<sp/>the<sp/>bookmark<sp/>to<sp/>the<sp/>collection&apos;s<sp/>Remove<sp/>method:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Bookmark&gt;<sp/>bookmark<sp/>=<sp/>doc-&gt;get_Range()-&gt;get_Bookmarks()-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Range()-&gt;get_Bookmarks()-&gt;Remove(bookmark);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(bookmarks-&gt;LINQ_Any([](SharedPtr&lt;Bookmark&gt;<sp/>b)<sp/>{<sp/>return<sp/>b-&gt;get_Name()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark_2&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Removing<sp/>a<sp/>bookmark<sp/>from<sp/>the<sp/>collection<sp/>by<sp/>name:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Range()-&gt;get_Bookmarks()-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;MyBookmark_3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(bookmarks-&gt;LINQ_Any([](SharedPtr&lt;Bookmark&gt;<sp/>b)<sp/>{<sp/>return<sp/>b-&gt;get_Name()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark_3&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>4<sp/>-<sp/><sp/>Removing<sp/>a<sp/>bookmark<sp/>at<sp/>an<sp/>index<sp/>in<sp/>the<sp/>bookmark<sp/>collection:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Range()-&gt;get_Bookmarks()-&gt;RemoveAt(0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(bookmarks-&gt;LINQ_Any([](SharedPtr&lt;Bookmark&gt;<sp/>b)<sp/>{<sp/>return<sp/>b-&gt;get_Name()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark_4&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>clear<sp/>the<sp/>entire<sp/>bookmark<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bookmarks-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>text<sp/>that<sp/>was<sp/>inside<sp/>the<sp/>bookmarks<sp/>is<sp/>still<sp/>present<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>bookmarks-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>MyBookmark_1.\r&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>MyBookmark_2.\r&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>MyBookmark_3.\r&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>MyBookmark_4.\r&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>MyBookmark_5.&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/BookmarkCollection.h" line="627" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_bookmark_collection_1a29de9fb9de955b01cd529fc16ba241bb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::BookmarkCollection::get_Count</definition>
+        <argsstring>()</argsstring>
+        <name>get_Count</name>
+        <qualifiedname>Aspose::Words::BookmarkCollection::get_Count</qualifiedname>
+        <briefdescription>
+<para>Returns the number of bookmarks in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to remove bookmarks from a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>five<sp/>bookmarks<sp/>with<sp/>text<sp/>inside<sp/>their<sp/>boundaries.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>1;<sp/>i<sp/>&lt;=<sp/>5;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>bookmarkName<sp/>=<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;MyBookmark_&quot;</highlight><highlight class="normal">)<sp/>+<sp/>i;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(String::Format(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>{0}.&quot;</highlight><highlight class="normal">,<sp/>bookmarkName));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eac3316c9c335ce5fa8638df2fc5d518d4" kindref="member" tooltip="Break between paragraphs.">BreakType::ParagraphBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>collection<sp/>stores<sp/>bookmarks.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;BookmarkCollection&gt;<sp/>bookmarks<sp/>=<sp/>doc-&gt;get_Range()-&gt;get_Bookmarks();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>bookmarks-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>several<sp/>ways<sp/>of<sp/>removing<sp/>bookmarks.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Calling<sp/>the<sp/>bookmark&apos;s<sp/>Remove<sp/>method:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bookmarks-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyBookmark_1&quot;</highlight><highlight class="normal">)-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(bookmarks-&gt;LINQ_Any([](SharedPtr&lt;Bookmark&gt;<sp/>b)<sp/>{<sp/>return<sp/>b-&gt;get_Name()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark_1&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Passing<sp/>the<sp/>bookmark<sp/>to<sp/>the<sp/>collection&apos;s<sp/>Remove<sp/>method:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Bookmark&gt;<sp/>bookmark<sp/>=<sp/>doc-&gt;get_Range()-&gt;get_Bookmarks()-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Range()-&gt;get_Bookmarks()-&gt;Remove(bookmark);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(bookmarks-&gt;LINQ_Any([](SharedPtr&lt;Bookmark&gt;<sp/>b)<sp/>{<sp/>return<sp/>b-&gt;get_Name()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark_2&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Removing<sp/>a<sp/>bookmark<sp/>from<sp/>the<sp/>collection<sp/>by<sp/>name:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Range()-&gt;get_Bookmarks()-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;MyBookmark_3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(bookmarks-&gt;LINQ_Any([](SharedPtr&lt;Bookmark&gt;<sp/>b)<sp/>{<sp/>return<sp/>b-&gt;get_Name()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark_3&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>4<sp/>-<sp/><sp/>Removing<sp/>a<sp/>bookmark<sp/>at<sp/>an<sp/>index<sp/>in<sp/>the<sp/>bookmark<sp/>collection:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Range()-&gt;get_Bookmarks()-&gt;RemoveAt(0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(bookmarks-&gt;LINQ_Any([](SharedPtr&lt;Bookmark&gt;<sp/>b)<sp/>{<sp/>return<sp/>b-&gt;get_Name()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark_4&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>clear<sp/>the<sp/>entire<sp/>bookmark<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bookmarks-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>text<sp/>that<sp/>was<sp/>inside<sp/>the<sp/>bookmarks<sp/>is<sp/>still<sp/>present<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>bookmarks-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>MyBookmark_1.\r&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>MyBookmark_2.\r&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>MyBookmark_3.\r&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>MyBookmark_4.\r&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>MyBookmark_5.&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/BookmarkCollection.h" line="192" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_bookmark_collection_1a93d47d0d7f4910bc9c93dab4d086fc89" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_bookmark" kindref="compound">Aspose::Words::Bookmark</ref> &gt; &gt; &gt;</type>
+        <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::SharedPtr&lt; Aspose::Words::Bookmark &gt; &gt; &gt; Aspose::Words::BookmarkCollection::GetEnumerator</definition>
+        <argsstring>() override</argsstring>
+        <name>GetEnumerator</name>
+        <qualifiedname>Aspose::Words::BookmarkCollection::GetEnumerator</qualifiedname>
+        <briefdescription>
+<para>Returns an enumerator object. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to add bookmarks and update their contents. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>CreateUpdateAndPrintBookmarks()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>document<sp/>with<sp/>three<sp/>bookmarks,<sp/>then<sp/>use<sp/>a<sp/>custom<sp/>document<sp/>visitor<sp/>implementation<sp/>to<sp/>print<sp/>their<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Document&gt;<sp/>doc<sp/>=<sp/>CreateDocumentWithBookmarks(3);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;BookmarkCollection&gt;<sp/>bookmarks<sp/>=<sp/>doc-&gt;get_Range()-&gt;get_Bookmarks();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>PrintAllBookmarkInfo(bookmarks);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Bookmarks<sp/>can<sp/>be<sp/>accessed<sp/>in<sp/>the<sp/>bookmark<sp/>collection<sp/>by<sp/>index<sp/>or<sp/>name,<sp/>and<sp/>their<sp/>names<sp/>can<sp/>be<sp/>updated.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>bookmarks-&gt;idx_get(0)-&gt;set_Name(String::Format(u</highlight><highlight class="stringliteral">&quot;{0}_NewName&quot;</highlight><highlight class="normal">,<sp/>bookmarks-&gt;idx_get(0)-&gt;get_Name()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>bookmarks-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyBookmark_2&quot;</highlight><highlight class="normal">)-&gt;set_Text(String::Format(u</highlight><highlight class="stringliteral">&quot;Updated<sp/>text<sp/>contents<sp/>of<sp/>{0}&quot;</highlight><highlight class="normal">,<sp/>bookmarks-&gt;idx_get(1)-&gt;get_Name()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Print<sp/>all<sp/>bookmarks<sp/>again<sp/>to<sp/>see<sp/>updated<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>PrintAllBookmarkInfo(bookmarks);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/>SharedPtr&lt;Document&gt;<sp/>CreateDocumentWithBookmarks(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>numberOfBookmarks)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>1;<sp/>i<sp/>&lt;=<sp/>numberOfBookmarks;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>bookmarkName<sp/>=<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;MyBookmark_&quot;</highlight><highlight class="normal">)<sp/>+<sp/>i;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>before<sp/>bookmark.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;Write(String::Format(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>{0}.&quot;</highlight><highlight class="normal">,<sp/>bookmarkName));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>after<sp/>bookmark.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>doc;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>PrintAllBookmarkInfo(SharedPtr&lt;BookmarkCollection&gt;<sp/>bookmarks)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>bookmarkVisitor<sp/>=<sp/>MakeObject&lt;ExBookmarks::BookmarkInfoPrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Get<sp/>each<sp/>bookmark<sp/>in<sp/>the<sp/>collection<sp/>to<sp/>accept<sp/>a<sp/>visitor<sp/>that<sp/>will<sp/>print<sp/>its<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;Bookmark&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>bookmarks-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;Bookmark&gt;<sp/>currentBookmark<sp/>=<sp/>enumerator-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(currentBookmark<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>currentBookmark-&gt;get_BookmarkStart()-&gt;Accept(bookmarkVisitor);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>currentBookmark-&gt;get_BookmarkEnd()-&gt;Accept(bookmarkVisitor);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>currentBookmark-&gt;get_BookmarkStart()-&gt;GetText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">BookmarkInfoPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitBookmarkStart(SharedPtr&lt;BookmarkStart&gt;<sp/>bookmarkStart)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;BookmarkStart<sp/>name:<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>bookmarkStart-&gt;get_Name()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;,<sp/>Contents:<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>bookmarkStart-&gt;get_Bookmark()-&gt;get_Text()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitBookmarkEnd(SharedPtr&lt;BookmarkEnd&gt;<sp/>bookmarkEnd)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;BookmarkEnd<sp/>name:<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>bookmarkEnd-&gt;get_Name()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/BookmarkCollection.h" line="718" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_bookmark_collection_1a1072ee3ac92869d3b01f352dba41e445" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_bookmark" kindref="compound">Aspose::Words::Bookmark</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Bookmark &gt; Aspose::Words::BookmarkCollection::idx_get</definition>
+        <argsstring>(const System::String &amp;bookmarkName)</argsstring>
+        <name>idx_get</name>
+        <qualifiedname>Aspose::Words::BookmarkCollection::idx_get</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>bookmarkName</declname>
+        </param>
+        <briefdescription>
+<para>Returns a bookmark by name. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Returns null if the bookmark with the specified name cannot be found.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>bookmarkName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Case-insensitive name of the bookmark.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to add bookmarks and update their contents. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>CreateUpdateAndPrintBookmarks()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>document<sp/>with<sp/>three<sp/>bookmarks,<sp/>then<sp/>use<sp/>a<sp/>custom<sp/>document<sp/>visitor<sp/>implementation<sp/>to<sp/>print<sp/>their<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Document&gt;<sp/>doc<sp/>=<sp/>CreateDocumentWithBookmarks(3);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;BookmarkCollection&gt;<sp/>bookmarks<sp/>=<sp/>doc-&gt;get_Range()-&gt;get_Bookmarks();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>PrintAllBookmarkInfo(bookmarks);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Bookmarks<sp/>can<sp/>be<sp/>accessed<sp/>in<sp/>the<sp/>bookmark<sp/>collection<sp/>by<sp/>index<sp/>or<sp/>name,<sp/>and<sp/>their<sp/>names<sp/>can<sp/>be<sp/>updated.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>bookmarks-&gt;idx_get(0)-&gt;set_Name(String::Format(u</highlight><highlight class="stringliteral">&quot;{0}_NewName&quot;</highlight><highlight class="normal">,<sp/>bookmarks-&gt;idx_get(0)-&gt;get_Name()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>bookmarks-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyBookmark_2&quot;</highlight><highlight class="normal">)-&gt;set_Text(String::Format(u</highlight><highlight class="stringliteral">&quot;Updated<sp/>text<sp/>contents<sp/>of<sp/>{0}&quot;</highlight><highlight class="normal">,<sp/>bookmarks-&gt;idx_get(1)-&gt;get_Name()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Print<sp/>all<sp/>bookmarks<sp/>again<sp/>to<sp/>see<sp/>updated<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>PrintAllBookmarkInfo(bookmarks);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/>SharedPtr&lt;Document&gt;<sp/>CreateDocumentWithBookmarks(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>numberOfBookmarks)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>1;<sp/>i<sp/>&lt;=<sp/>numberOfBookmarks;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>bookmarkName<sp/>=<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;MyBookmark_&quot;</highlight><highlight class="normal">)<sp/>+<sp/>i;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>before<sp/>bookmark.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;Write(String::Format(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>{0}.&quot;</highlight><highlight class="normal">,<sp/>bookmarkName));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>after<sp/>bookmark.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>doc;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>PrintAllBookmarkInfo(SharedPtr&lt;BookmarkCollection&gt;<sp/>bookmarks)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>bookmarkVisitor<sp/>=<sp/>MakeObject&lt;ExBookmarks::BookmarkInfoPrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Get<sp/>each<sp/>bookmark<sp/>in<sp/>the<sp/>collection<sp/>to<sp/>accept<sp/>a<sp/>visitor<sp/>that<sp/>will<sp/>print<sp/>its<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;Bookmark&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>bookmarks-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;Bookmark&gt;<sp/>currentBookmark<sp/>=<sp/>enumerator-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(currentBookmark<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>currentBookmark-&gt;get_BookmarkStart()-&gt;Accept(bookmarkVisitor);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>currentBookmark-&gt;get_BookmarkEnd()-&gt;Accept(bookmarkVisitor);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>currentBookmark-&gt;get_BookmarkStart()-&gt;GetText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">BookmarkInfoPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitBookmarkStart(SharedPtr&lt;BookmarkStart&gt;<sp/>bookmarkStart)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;BookmarkStart<sp/>name:<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>bookmarkStart-&gt;get_Name()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;,<sp/>Contents:<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>bookmarkStart-&gt;get_Bookmark()-&gt;get_Text()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitBookmarkEnd(SharedPtr&lt;BookmarkEnd&gt;<sp/>bookmarkEnd)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;BookmarkEnd<sp/>name:<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>bookmarkEnd-&gt;get_Name()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/BookmarkCollection.h" line="389" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_bookmark_collection_1ad6fdfb94a5871f01b0e2d5823f792b98" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_bookmark" kindref="compound">Aspose::Words::Bookmark</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Bookmark &gt; Aspose::Words::BookmarkCollection::idx_get</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>idx_get</name>
+        <qualifiedname>Aspose::Words::BookmarkCollection::idx_get</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Returns a bookmark at the specified index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The index is zero-based.</para>
+<para>Negative indexes are allowed and indicate access from the back of the collection. For example -1 means the last item, -2 means the second before last and so on.</para>
+<para>If index is greater than or equal to the number of items in the list, this returns a null reference.</para>
+<para>If index is negative and its absolute value is greater than the number of items in the list, this returns a null reference.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>index</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>An index into the collection.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to add bookmarks and update their contents. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>CreateUpdateAndPrintBookmarks()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>document<sp/>with<sp/>three<sp/>bookmarks,<sp/>then<sp/>use<sp/>a<sp/>custom<sp/>document<sp/>visitor<sp/>implementation<sp/>to<sp/>print<sp/>their<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Document&gt;<sp/>doc<sp/>=<sp/>CreateDocumentWithBookmarks(3);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;BookmarkCollection&gt;<sp/>bookmarks<sp/>=<sp/>doc-&gt;get_Range()-&gt;get_Bookmarks();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>PrintAllBookmarkInfo(bookmarks);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Bookmarks<sp/>can<sp/>be<sp/>accessed<sp/>in<sp/>the<sp/>bookmark<sp/>collection<sp/>by<sp/>index<sp/>or<sp/>name,<sp/>and<sp/>their<sp/>names<sp/>can<sp/>be<sp/>updated.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>bookmarks-&gt;idx_get(0)-&gt;set_Name(String::Format(u</highlight><highlight class="stringliteral">&quot;{0}_NewName&quot;</highlight><highlight class="normal">,<sp/>bookmarks-&gt;idx_get(0)-&gt;get_Name()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>bookmarks-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyBookmark_2&quot;</highlight><highlight class="normal">)-&gt;set_Text(String::Format(u</highlight><highlight class="stringliteral">&quot;Updated<sp/>text<sp/>contents<sp/>of<sp/>{0}&quot;</highlight><highlight class="normal">,<sp/>bookmarks-&gt;idx_get(1)-&gt;get_Name()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Print<sp/>all<sp/>bookmarks<sp/>again<sp/>to<sp/>see<sp/>updated<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>PrintAllBookmarkInfo(bookmarks);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/>SharedPtr&lt;Document&gt;<sp/>CreateDocumentWithBookmarks(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>numberOfBookmarks)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>1;<sp/>i<sp/>&lt;=<sp/>numberOfBookmarks;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>bookmarkName<sp/>=<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;MyBookmark_&quot;</highlight><highlight class="normal">)<sp/>+<sp/>i;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>before<sp/>bookmark.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;Write(String::Format(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>{0}.&quot;</highlight><highlight class="normal">,<sp/>bookmarkName));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>after<sp/>bookmark.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>doc;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>PrintAllBookmarkInfo(SharedPtr&lt;BookmarkCollection&gt;<sp/>bookmarks)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>bookmarkVisitor<sp/>=<sp/>MakeObject&lt;ExBookmarks::BookmarkInfoPrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Get<sp/>each<sp/>bookmark<sp/>in<sp/>the<sp/>collection<sp/>to<sp/>accept<sp/>a<sp/>visitor<sp/>that<sp/>will<sp/>print<sp/>its<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;Bookmark&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>bookmarks-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;Bookmark&gt;<sp/>currentBookmark<sp/>=<sp/>enumerator-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(currentBookmark<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>currentBookmark-&gt;get_BookmarkStart()-&gt;Accept(bookmarkVisitor);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>currentBookmark-&gt;get_BookmarkEnd()-&gt;Accept(bookmarkVisitor);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>currentBookmark-&gt;get_BookmarkStart()-&gt;GetText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">BookmarkInfoPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitBookmarkStart(SharedPtr&lt;BookmarkStart&gt;<sp/>bookmarkStart)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;BookmarkStart<sp/>name:<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>bookmarkStart-&gt;get_Name()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;,<sp/>Contents:<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>bookmarkStart-&gt;get_Bookmark()-&gt;get_Text()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitBookmarkEnd(SharedPtr&lt;BookmarkEnd&gt;<sp/>bookmarkEnd)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;BookmarkEnd<sp/>name:<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>bookmarkEnd-&gt;get_Name()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/BookmarkCollection.h" line="294" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_bookmark_collection_1a7a112283712c2099bc4eb9bd688b8024" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::BookmarkCollection::Remove</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Bookmark &gt; &amp;bookmark)</argsstring>
+        <name>Remove</name>
+        <qualifiedname>Aspose::Words::BookmarkCollection::Remove</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_bookmark" kindref="compound">Aspose::Words::Bookmark</ref> &gt; &amp;</type>
+          <declname>bookmark</declname>
+        </param>
+        <briefdescription>
+<para>Removes the specified bookmark from the document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>bookmark</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The bookmark to remove.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to remove bookmarks from a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>five<sp/>bookmarks<sp/>with<sp/>text<sp/>inside<sp/>their<sp/>boundaries.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>1;<sp/>i<sp/>&lt;=<sp/>5;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>bookmarkName<sp/>=<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;MyBookmark_&quot;</highlight><highlight class="normal">)<sp/>+<sp/>i;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(String::Format(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>{0}.&quot;</highlight><highlight class="normal">,<sp/>bookmarkName));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eac3316c9c335ce5fa8638df2fc5d518d4" kindref="member" tooltip="Break between paragraphs.">BreakType::ParagraphBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>collection<sp/>stores<sp/>bookmarks.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;BookmarkCollection&gt;<sp/>bookmarks<sp/>=<sp/>doc-&gt;get_Range()-&gt;get_Bookmarks();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>bookmarks-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>several<sp/>ways<sp/>of<sp/>removing<sp/>bookmarks.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Calling<sp/>the<sp/>bookmark&apos;s<sp/>Remove<sp/>method:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bookmarks-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyBookmark_1&quot;</highlight><highlight class="normal">)-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(bookmarks-&gt;LINQ_Any([](SharedPtr&lt;Bookmark&gt;<sp/>b)<sp/>{<sp/>return<sp/>b-&gt;get_Name()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark_1&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Passing<sp/>the<sp/>bookmark<sp/>to<sp/>the<sp/>collection&apos;s<sp/>Remove<sp/>method:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Bookmark&gt;<sp/>bookmark<sp/>=<sp/>doc-&gt;get_Range()-&gt;get_Bookmarks()-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Range()-&gt;get_Bookmarks()-&gt;Remove(bookmark);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(bookmarks-&gt;LINQ_Any([](SharedPtr&lt;Bookmark&gt;<sp/>b)<sp/>{<sp/>return<sp/>b-&gt;get_Name()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark_2&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Removing<sp/>a<sp/>bookmark<sp/>from<sp/>the<sp/>collection<sp/>by<sp/>name:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Range()-&gt;get_Bookmarks()-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;MyBookmark_3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(bookmarks-&gt;LINQ_Any([](SharedPtr&lt;Bookmark&gt;<sp/>b)<sp/>{<sp/>return<sp/>b-&gt;get_Name()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark_3&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>4<sp/>-<sp/><sp/>Removing<sp/>a<sp/>bookmark<sp/>at<sp/>an<sp/>index<sp/>in<sp/>the<sp/>bookmark<sp/>collection:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Range()-&gt;get_Bookmarks()-&gt;RemoveAt(0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(bookmarks-&gt;LINQ_Any([](SharedPtr&lt;Bookmark&gt;<sp/>b)<sp/>{<sp/>return<sp/>b-&gt;get_Name()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark_4&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>clear<sp/>the<sp/>entire<sp/>bookmark<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bookmarks-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>text<sp/>that<sp/>was<sp/>inside<sp/>the<sp/>bookmarks<sp/>is<sp/>still<sp/>present<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>bookmarks-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>MyBookmark_1.\r&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>MyBookmark_2.\r&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>MyBookmark_3.\r&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>MyBookmark_4.\r&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>MyBookmark_5.&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/BookmarkCollection.h" line="449" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_bookmark_collection_1a0d97498c059ec96ab80524d69f09add7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::BookmarkCollection::Remove</definition>
+        <argsstring>(const System::String &amp;bookmarkName)</argsstring>
+        <name>Remove</name>
+        <qualifiedname>Aspose::Words::BookmarkCollection::Remove</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>bookmarkName</declname>
+        </param>
+        <briefdescription>
+<para>Removes a bookmark with the specified name. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>bookmarkName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The case-insensitive name of the bookmark to remove.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to remove bookmarks from a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>five<sp/>bookmarks<sp/>with<sp/>text<sp/>inside<sp/>their<sp/>boundaries.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>1;<sp/>i<sp/>&lt;=<sp/>5;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>bookmarkName<sp/>=<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;MyBookmark_&quot;</highlight><highlight class="normal">)<sp/>+<sp/>i;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(String::Format(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>{0}.&quot;</highlight><highlight class="normal">,<sp/>bookmarkName));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eac3316c9c335ce5fa8638df2fc5d518d4" kindref="member" tooltip="Break between paragraphs.">BreakType::ParagraphBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>collection<sp/>stores<sp/>bookmarks.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;BookmarkCollection&gt;<sp/>bookmarks<sp/>=<sp/>doc-&gt;get_Range()-&gt;get_Bookmarks();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>bookmarks-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>several<sp/>ways<sp/>of<sp/>removing<sp/>bookmarks.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Calling<sp/>the<sp/>bookmark&apos;s<sp/>Remove<sp/>method:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bookmarks-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyBookmark_1&quot;</highlight><highlight class="normal">)-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(bookmarks-&gt;LINQ_Any([](SharedPtr&lt;Bookmark&gt;<sp/>b)<sp/>{<sp/>return<sp/>b-&gt;get_Name()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark_1&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Passing<sp/>the<sp/>bookmark<sp/>to<sp/>the<sp/>collection&apos;s<sp/>Remove<sp/>method:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Bookmark&gt;<sp/>bookmark<sp/>=<sp/>doc-&gt;get_Range()-&gt;get_Bookmarks()-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Range()-&gt;get_Bookmarks()-&gt;Remove(bookmark);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(bookmarks-&gt;LINQ_Any([](SharedPtr&lt;Bookmark&gt;<sp/>b)<sp/>{<sp/>return<sp/>b-&gt;get_Name()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark_2&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Removing<sp/>a<sp/>bookmark<sp/>from<sp/>the<sp/>collection<sp/>by<sp/>name:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Range()-&gt;get_Bookmarks()-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;MyBookmark_3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(bookmarks-&gt;LINQ_Any([](SharedPtr&lt;Bookmark&gt;<sp/>b)<sp/>{<sp/>return<sp/>b-&gt;get_Name()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark_3&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>4<sp/>-<sp/><sp/>Removing<sp/>a<sp/>bookmark<sp/>at<sp/>an<sp/>index<sp/>in<sp/>the<sp/>bookmark<sp/>collection:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Range()-&gt;get_Bookmarks()-&gt;RemoveAt(0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(bookmarks-&gt;LINQ_Any([](SharedPtr&lt;Bookmark&gt;<sp/>b)<sp/>{<sp/>return<sp/>b-&gt;get_Name()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark_4&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>clear<sp/>the<sp/>entire<sp/>bookmark<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bookmarks-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>text<sp/>that<sp/>was<sp/>inside<sp/>the<sp/>bookmarks<sp/>is<sp/>still<sp/>present<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>bookmarks-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>MyBookmark_1.\r&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>MyBookmark_2.\r&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>MyBookmark_3.\r&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>MyBookmark_4.\r&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>MyBookmark_5.&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/BookmarkCollection.h" line="509" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_bookmark_collection_1a760fa5f6a5180f5b5aa6d5adf8960ca9" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::BookmarkCollection::RemoveAt</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>RemoveAt</name>
+        <qualifiedname>Aspose::Words::BookmarkCollection::RemoveAt</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Removes a bookmark at the specified index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>index</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The zero-based index of the bookmark to remove.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to remove bookmarks from a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>five<sp/>bookmarks<sp/>with<sp/>text<sp/>inside<sp/>their<sp/>boundaries.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>1;<sp/>i<sp/>&lt;=<sp/>5;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>bookmarkName<sp/>=<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;MyBookmark_&quot;</highlight><highlight class="normal">)<sp/>+<sp/>i;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(String::Format(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>{0}.&quot;</highlight><highlight class="normal">,<sp/>bookmarkName));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eac3316c9c335ce5fa8638df2fc5d518d4" kindref="member" tooltip="Break between paragraphs.">BreakType::ParagraphBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>collection<sp/>stores<sp/>bookmarks.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;BookmarkCollection&gt;<sp/>bookmarks<sp/>=<sp/>doc-&gt;get_Range()-&gt;get_Bookmarks();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>bookmarks-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>several<sp/>ways<sp/>of<sp/>removing<sp/>bookmarks.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Calling<sp/>the<sp/>bookmark&apos;s<sp/>Remove<sp/>method:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bookmarks-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyBookmark_1&quot;</highlight><highlight class="normal">)-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(bookmarks-&gt;LINQ_Any([](SharedPtr&lt;Bookmark&gt;<sp/>b)<sp/>{<sp/>return<sp/>b-&gt;get_Name()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark_1&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Passing<sp/>the<sp/>bookmark<sp/>to<sp/>the<sp/>collection&apos;s<sp/>Remove<sp/>method:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Bookmark&gt;<sp/>bookmark<sp/>=<sp/>doc-&gt;get_Range()-&gt;get_Bookmarks()-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Range()-&gt;get_Bookmarks()-&gt;Remove(bookmark);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(bookmarks-&gt;LINQ_Any([](SharedPtr&lt;Bookmark&gt;<sp/>b)<sp/>{<sp/>return<sp/>b-&gt;get_Name()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark_2&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Removing<sp/>a<sp/>bookmark<sp/>from<sp/>the<sp/>collection<sp/>by<sp/>name:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Range()-&gt;get_Bookmarks()-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;MyBookmark_3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(bookmarks-&gt;LINQ_Any([](SharedPtr&lt;Bookmark&gt;<sp/>b)<sp/>{<sp/>return<sp/>b-&gt;get_Name()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark_3&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>4<sp/>-<sp/><sp/>Removing<sp/>a<sp/>bookmark<sp/>at<sp/>an<sp/>index<sp/>in<sp/>the<sp/>bookmark<sp/>collection:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Range()-&gt;get_Bookmarks()-&gt;RemoveAt(0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(bookmarks-&gt;LINQ_Any([](SharedPtr&lt;Bookmark&gt;<sp/>b)<sp/>{<sp/>return<sp/>b-&gt;get_Name()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark_4&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>clear<sp/>the<sp/>entire<sp/>bookmark<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bookmarks-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>text<sp/>that<sp/>was<sp/>inside<sp/>the<sp/>bookmarks<sp/>is<sp/>still<sp/>present<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>bookmarks-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>MyBookmark_1.\r&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>MyBookmark_2.\r&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>MyBookmark_3.\r&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>MyBookmark_4.\r&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>MyBookmark_5.&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/BookmarkCollection.h" line="569" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>A collection of <ref refid="class_aspose_1_1_words_1_1_bookmark" kindref="compound">Bookmark</ref> objects that represent the bookmarks in the specified range. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to add bookmarks and update their contents. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>CreateUpdateAndPrintBookmarks()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>document<sp/>with<sp/>three<sp/>bookmarks,<sp/>then<sp/>use<sp/>a<sp/>custom<sp/>document<sp/>visitor<sp/>implementation<sp/>to<sp/>print<sp/>their<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Document&gt;<sp/>doc<sp/>=<sp/>CreateDocumentWithBookmarks(3);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;BookmarkCollection&gt;<sp/>bookmarks<sp/>=<sp/>doc-&gt;get_Range()-&gt;get_Bookmarks();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>PrintAllBookmarkInfo(bookmarks);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Bookmarks<sp/>can<sp/>be<sp/>accessed<sp/>in<sp/>the<sp/>bookmark<sp/>collection<sp/>by<sp/>index<sp/>or<sp/>name,<sp/>and<sp/>their<sp/>names<sp/>can<sp/>be<sp/>updated.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>bookmarks-&gt;idx_get(0)-&gt;set_Name(String::Format(u</highlight><highlight class="stringliteral">&quot;{0}_NewName&quot;</highlight><highlight class="normal">,<sp/>bookmarks-&gt;idx_get(0)-&gt;get_Name()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>bookmarks-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;MyBookmark_2&quot;</highlight><highlight class="normal">)-&gt;set_Text(String::Format(u</highlight><highlight class="stringliteral">&quot;Updated<sp/>text<sp/>contents<sp/>of<sp/>{0}&quot;</highlight><highlight class="normal">,<sp/>bookmarks-&gt;idx_get(1)-&gt;get_Name()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Print<sp/>all<sp/>bookmarks<sp/>again<sp/>to<sp/>see<sp/>updated<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>PrintAllBookmarkInfo(bookmarks);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/>SharedPtr&lt;Document&gt;<sp/>CreateDocumentWithBookmarks(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>numberOfBookmarks)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>1;<sp/>i<sp/>&lt;=<sp/>numberOfBookmarks;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>bookmarkName<sp/>=<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;MyBookmark_&quot;</highlight><highlight class="normal">)<sp/>+<sp/>i;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>before<sp/>bookmark.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;Write(String::Format(u</highlight><highlight class="stringliteral">&quot;Text<sp/>inside<sp/>{0}.&quot;</highlight><highlight class="normal">,<sp/>bookmarkName));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(bookmarkName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>after<sp/>bookmark.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>doc;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>PrintAllBookmarkInfo(SharedPtr&lt;BookmarkCollection&gt;<sp/>bookmarks)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>bookmarkVisitor<sp/>=<sp/>MakeObject&lt;ExBookmarks::BookmarkInfoPrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Get<sp/>each<sp/>bookmark<sp/>in<sp/>the<sp/>collection<sp/>to<sp/>accept<sp/>a<sp/>visitor<sp/>that<sp/>will<sp/>print<sp/>its<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;Bookmark&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>bookmarks-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;Bookmark&gt;<sp/>currentBookmark<sp/>=<sp/>enumerator-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(currentBookmark<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>currentBookmark-&gt;get_BookmarkStart()-&gt;Accept(bookmarkVisitor);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>currentBookmark-&gt;get_BookmarkEnd()-&gt;Accept(bookmarkVisitor);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>currentBookmark-&gt;get_BookmarkStart()-&gt;GetText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">BookmarkInfoPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitBookmarkStart(SharedPtr&lt;BookmarkStart&gt;<sp/>bookmarkStart)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;BookmarkStart<sp/>name:<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>bookmarkStart-&gt;get_Name()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;,<sp/>Contents:<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>bookmarkStart-&gt;get_Bookmark()-&gt;get_Text()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitBookmarkEnd(SharedPtr&lt;BookmarkEnd&gt;<sp/>bookmarkEnd)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;BookmarkEnd<sp/>name:<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>bookmarkEnd-&gt;get_Name()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::BookmarkCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_bookmark_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Bookmark &gt; &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::BookmarkCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_bookmark_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Bookmark &gt; &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/BookmarkCollection.h" line="124" column="1" bodyfile="Aspose.Words.Cpp/BookmarkCollection.h" bodystart="125" bodyend="728"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_bookmark_collection_1a8da6d9ddaf99b926649a048af836d92b" prot="private" virt="non-virtual"><scope>Aspose::Words::BookmarkCollection</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_bookmark_collection_1a8f59366a3d4944f03d3b5cd7535d0be8" prot="public" virt="non-virtual"><scope>Aspose::Words::BookmarkCollection</scope><name>Clear</name></member>
+      <member refid="class_aspose_1_1_words_1_1_bookmark_collection_1a29de9fb9de955b01cd529fc16ba241bb" prot="public" virt="non-virtual"><scope>Aspose::Words::BookmarkCollection</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_bookmark_collection_1a93d47d0d7f4910bc9c93dab4d086fc89" prot="public" virt="non-virtual"><scope>Aspose::Words::BookmarkCollection</scope><name>GetEnumerator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_bookmark_collection_1ad6fdfb94a5871f01b0e2d5823f792b98" prot="public" virt="non-virtual"><scope>Aspose::Words::BookmarkCollection</scope><name>idx_get</name></member>
+      <member refid="class_aspose_1_1_words_1_1_bookmark_collection_1a1072ee3ac92869d3b01f352dba41e445" prot="public" virt="non-virtual"><scope>Aspose::Words::BookmarkCollection</scope><name>idx_get</name></member>
+      <member refid="class_aspose_1_1_words_1_1_bookmark_collection_1a92764d149c8f0d198c0733ae43342be6" prot="private" virt="non-virtual"><scope>Aspose::Words::BookmarkCollection</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_bookmark_collection_1a7a112283712c2099bc4eb9bd688b8024" prot="public" virt="non-virtual"><scope>Aspose::Words::BookmarkCollection</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_bookmark_collection_1a0d97498c059ec96ab80524d69f09add7" prot="public" virt="non-virtual"><scope>Aspose::Words::BookmarkCollection</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_bookmark_collection_1a760fa5f6a5180f5b5aa6d5adf8960ca9" prot="public" virt="non-virtual"><scope>Aspose::Words::BookmarkCollection</scope><name>RemoveAt</name></member>
+      <member refid="class_aspose_1_1_words_1_1_bookmark_collection_1a2a4b06ac6c537529079b3a161e676e75" prot="private" virt="non-virtual"><scope>Aspose::Words::BookmarkCollection</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_bookmark_collection_1afb6983722bf091e761f5f84668b1cb72" prot="private" virt="non-virtual"><scope>Aspose::Words::BookmarkCollection</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_bookmark_collection_1a0e72bf1dc0b001b7bc59f7f84344676a" prot="private" virt="non-virtual"><scope>Aspose::Words::BookmarkCollection</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_bookmark_collection_1a6eef090c449517cb868c48afa2b563c2" prot="private" virt="virtual"><scope>Aspose::Words::BookmarkCollection</scope><name>~BookmarkCollection</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,351 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_rendering_1_1_page_info" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Rendering::PageInfo</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_page_info_8h" local="no">Aspose.Words.Cpp/Rendering/PageInfo.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1a461e40363bce13e0f4b0b60301a7510e" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Rendering::PageInfo::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Rendering::PageInfo::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/PageInfo.h" line="43" column="28" bodyfile="Aspose.Words.Cpp/Rendering/PageInfo.h" bodystart="43" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1a2aa75f34d4c4520a4cfc3b65f07e6c99" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_rendering_1_1_page_info" kindref="compound">PageInfo</ref></type>
+        <definition>typedef PageInfo Aspose::Words::Rendering::PageInfo::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Rendering::PageInfo::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/PageInfo.h" line="42" column="22" bodyfile="Aspose.Words.Cpp/Rendering/PageInfo.h" bodystart="42" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1a39ee7846c1ab6a4141f3364214a0af43" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Rendering::PageInfo::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Rendering::PageInfo::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/PageInfo.h" line="45" column="37" bodyfile="Aspose.Words.Cpp/Rendering/PageInfo.h" bodystart="45" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1a1646f37534d2d4023133a97476f8ad7d" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.drawing.size_f/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::SizeF</ref></type>
+        <definition>System::Drawing::SizeF Aspose::Words::Rendering::PageInfo::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Rendering::PageInfo::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/PageInfo.h" line="90" column="28" bodyfile="Aspose.Words.Cpp/Rendering/PageInfo.h" bodystart="90" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1aacac45ee580a4bfb97c9ba4cd5c1c8e2" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Rendering::PageInfo::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Rendering::PageInfo::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/PageInfo.h" line="91" column="23" bodyfile="Aspose.Words.Cpp/Rendering/PageInfo.h" bodystart="91" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1ad351b5f5c95235893726b9650013a377" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Rendering::PageInfo::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Rendering::PageInfo::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/PageInfo.h" line="92" column="23" bodyfile="Aspose.Words.Cpp/Rendering/PageInfo.h" bodystart="92" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1af7a9b2efdfc768501d41970e65bcf656" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Rendering::PageInfo::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Rendering::PageInfo::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/PageInfo.h" line="46" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1a1e1dc75aa5ec0b440cddb597e956792b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>float</type>
+        <definition>float Aspose::Words::Rendering::PageInfo::get_HeightInPoints</definition>
+        <argsstring>()</argsstring>
+        <name>get_HeightInPoints</name>
+        <qualifiedname>Aspose::Words::Rendering::PageInfo::get_HeightInPoints</qualifiedname>
+        <briefdescription>
+<para>Gets the height of the page in points. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/PageInfo.h" line="57" column="14"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1ad97bc410c47d939c9a1d1d174d5a5486" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Rendering::PageInfo::get_Landscape</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Landscape</name>
+        <qualifiedname>Aspose::Words::Rendering::PageInfo::get_Landscape</qualifiedname>
+        <briefdescription>
+<para>Returns true if the page orientation specified in the document for this page is landscape. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/PageInfo.h" line="67" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1a629d9cffb20183898f54858034347261" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a1a2f6b44133c9bd897dabca36c39ba25" kindref="member">Aspose::Words::PaperSize</ref></type>
+        <definition>Aspose::Words::PaperSize Aspose::Words::Rendering::PageInfo::get_PaperSize</definition>
+        <argsstring>()</argsstring>
+        <name>get_PaperSize</name>
+        <qualifiedname>Aspose::Words::Rendering::PageInfo::get_PaperSize</qualifiedname>
+        <briefdescription>
+<para>Gets the paper size as enumeration. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/PageInfo.h" line="51" column="33"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1ab5f31f8e0f67ac01ffedd49e3036dee2" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Rendering::PageInfo::get_PaperTray</definition>
+        <argsstring>() const</argsstring>
+        <name>get_PaperTray</name>
+        <qualifiedname>Aspose::Words::Rendering::PageInfo::get_PaperTray</qualifiedname>
+        <briefdescription>
+<para>Gets the paper tray (bin) for this page as specified in the document. The value is implementation (printer) specific. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/PageInfo.h" line="64" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1adb79fdba38c20988c1b9a6f8626beb7f" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.drawing.size_f/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::SizeF</ref></type>
+        <definition>System::Drawing::SizeF Aspose::Words::Rendering::PageInfo::get_SizeInPoints</definition>
+        <argsstring>() const</argsstring>
+        <name>get_SizeInPoints</name>
+        <qualifiedname>Aspose::Words::Rendering::PageInfo::get_SizeInPoints</qualifiedname>
+        <briefdescription>
+<para>Gets the page size in points. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/PageInfo.h" line="60" column="31"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1a0007d70899d0d5d72c1a8b6af563b982" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>float</type>
+        <definition>float Aspose::Words::Rendering::PageInfo::get_WidthInPoints</definition>
+        <argsstring>()</argsstring>
+        <name>get_WidthInPoints</name>
+        <qualifiedname>Aspose::Words::Rendering::PageInfo::get_WidthInPoints</qualifiedname>
+        <briefdescription>
+<para>Gets the width of the page in points. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/PageInfo.h" line="54" column="14"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1a4cfb8fcada188c698b4db651624ae96a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.drawing.size/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Size</ref></type>
+        <definition>System::Drawing::Size Aspose::Words::Rendering::PageInfo::GetSizeInPixels</definition>
+        <argsstring>(float scale, float dpi)</argsstring>
+        <name>GetSizeInPixels</name>
+        <qualifiedname>Aspose::Words::Rendering::PageInfo::GetSizeInPixels</qualifiedname>
+        <param>
+          <type>float</type>
+          <declname>scale</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>dpi</declname>
+        </param>
+        <briefdescription>
+<para>Calculates the page size in pixels for a specified zoom factor and resolution. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>scale</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The zoom factor (1.0 is 100%). </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>dpi</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The resolution (horizontal and vertical) to convert from points to pixels (dots per inch).</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The size of the page in pixels. </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/PageInfo.h" line="75" column="30"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1a28f242aaf37b84d78a4e32d483a31740" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.drawing.size/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Size</ref></type>
+        <definition>System::Drawing::Size Aspose::Words::Rendering::PageInfo::GetSizeInPixels</definition>
+        <argsstring>(float scale, float horizontalDpi, float verticalDpi)</argsstring>
+        <name>GetSizeInPixels</name>
+        <qualifiedname>Aspose::Words::Rendering::PageInfo::GetSizeInPixels</qualifiedname>
+        <param>
+          <type>float</type>
+          <declname>scale</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>horizontalDpi</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>verticalDpi</declname>
+        </param>
+        <briefdescription>
+<para>Calculates the page size in pixels for a specified zoom factor and resolution. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>scale</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The zoom factor (1.0 is 100%). </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>horizontalDpi</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The horizontal resolution to convert from points to pixels (dots per inch). </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>verticalDpi</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The vertical resolution to convert from points to pixels (dots per inch).</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The size of the page in pixels. </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/PageInfo.h" line="84" column="30"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents information about a particular document page. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>The page width and height returned by this object represent the &quot;final&quot; size of the page e.g. they are already rotated to the correct orientation.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_document_1afb483f0120b0022298bfa4a9d2aabb34" kindref="member">Aspose::Words::Document::GetPageInfo(int32_t)</ref> </para>
+</simplesect>
+</para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Rendering::PageInfo</label>
+        <link refid="class_aspose_1_1_words_1_1_rendering_1_1_page_info"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Rendering::PageInfo</label>
+        <link refid="class_aspose_1_1_words_1_1_rendering_1_1_page_info"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Rendering/PageInfo.h" line="40" column="1" bodyfile="Aspose.Words.Cpp/Rendering/PageInfo.h" bodystart="41" bodyend="94"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1a461e40363bce13e0f4b0b60301a7510e" prot="private" virt="non-virtual"><scope>Aspose::Words::Rendering::PageInfo</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1a1e1dc75aa5ec0b440cddb597e956792b" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::PageInfo</scope><name>get_HeightInPoints</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1ad97bc410c47d939c9a1d1d174d5a5486" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::PageInfo</scope><name>get_Landscape</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1a629d9cffb20183898f54858034347261" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::PageInfo</scope><name>get_PaperSize</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1ab5f31f8e0f67ac01ffedd49e3036dee2" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::PageInfo</scope><name>get_PaperTray</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1adb79fdba38c20988c1b9a6f8626beb7f" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::PageInfo</scope><name>get_SizeInPoints</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1a0007d70899d0d5d72c1a8b6af563b982" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::PageInfo</scope><name>get_WidthInPoints</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1a4cfb8fcada188c698b4db651624ae96a" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::PageInfo</scope><name>GetSizeInPixels</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1a28f242aaf37b84d78a4e32d483a31740" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::PageInfo</scope><name>GetSizeInPixels</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1a1646f37534d2d4023133a97476f8ad7d" prot="private" virt="non-virtual"><scope>Aspose::Words::Rendering::PageInfo</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1aacac45ee580a4bfb97c9ba4cd5c1c8e2" prot="private" virt="non-virtual"><scope>Aspose::Words::Rendering::PageInfo</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1ad351b5f5c95235893726b9650013a377" prot="private" virt="non-virtual"><scope>Aspose::Words::Rendering::PageInfo</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1af7a9b2efdfc768501d41970e65bcf656" prot="private" virt="non-virtual"><scope>Aspose::Words::Rendering::PageInfo</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1a2aa75f34d4c4520a4cfc3b65f07e6c99" prot="private" virt="non-virtual"><scope>Aspose::Words::Rendering::PageInfo</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_page_info_1a39ee7846c1ab6a4141f3364214a0af43" prot="private" virt="non-virtual"><scope>Aspose::Words::Rendering::PageInfo</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

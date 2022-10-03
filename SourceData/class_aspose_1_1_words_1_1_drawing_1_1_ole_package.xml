@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_drawing_1_1_ole_package" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Drawing::OlePackage</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_ole_package_8h" local="no">Aspose.Words.Cpp/Drawing/OlePackage.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1a233d07c14daaf9c2ae9724444feeb2a4" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Drawing::OlePackage::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Drawing::OlePackage::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OlePackage.h" line="49" column="28" bodyfile="Aspose.Words.Cpp/Drawing/OlePackage.h" bodystart="49" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1a077e7ff058257075d123264040f73f03" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_package" kindref="compound">OlePackage</ref></type>
+        <definition>typedef OlePackage Aspose::Words::Drawing::OlePackage::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Drawing::OlePackage::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OlePackage.h" line="48" column="24" bodyfile="Aspose.Words.Cpp/Drawing/OlePackage.h" bodystart="48" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1ada8289a46a238f2914a7e617417377cb" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Drawing::OlePackage::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Drawing::OlePackage::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OlePackage.h" line="51" column="37" bodyfile="Aspose.Words.Cpp/Drawing/OlePackage.h" bodystart="51" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1abb7dbde5e544bc1340ab502cfef33c69" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Drawing::OlePackage::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Drawing::OlePackage::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OlePackage.h" line="116" column="20" bodyfile="Aspose.Words.Cpp/Drawing/OlePackage.h" bodystart="116" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1a4c4e757bc8fd674b38db3a3d1e13dbfe" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::OlePackage::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Drawing::OlePackage::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OlePackage.h" line="117" column="23" bodyfile="Aspose.Words.Cpp/Drawing/OlePackage.h" bodystart="117" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1aa888905e9a3cf21b2d0204add06731da" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Drawing::OlePackage::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Drawing::OlePackage::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OlePackage.h" line="123" column="20" bodyfile="Aspose.Words.Cpp/Drawing/OlePackage.h" bodystart="123" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1ac324775b3e38e7f62c56f1e002300826" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Drawing::OlePackage::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Drawing::OlePackage::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OlePackage.h" line="124" column="20" bodyfile="Aspose.Words.Cpp/Drawing/OlePackage.h" bodystart="124" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1abfcd7eb846dea981d7459e3ed85f23f3" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::OlePackage::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Drawing::OlePackage::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OlePackage.h" line="125" column="23" bodyfile="Aspose.Words.Cpp/Drawing/OlePackage.h" bodystart="125" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1a74c38a2ee531ae332990bdc621b49a01" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Drawing::OlePackage::OlePackage</definition>
+        <argsstring>()</argsstring>
+        <name>OlePackage</name>
+        <qualifiedname>Aspose::Words::Drawing::OlePackage::OlePackage</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OlePackage.h" line="119" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1ad58b3e09d0082a9aec11377e6f2a8ae5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Drawing::OlePackage::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Drawing::OlePackage::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OlePackage.h" line="52" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1ab632fea85fd6ba366ad6718bcf261858" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Drawing::OlePackage::get_DisplayName</definition>
+        <argsstring>() const</argsstring>
+        <name>get_DisplayName</name>
+        <qualifiedname>Aspose::Words::Drawing::OlePackage::get_DisplayName</qualifiedname>
+        <briefdescription>
+<para>Gets or sets OLE Package display name. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how insert an OLE object into a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>OLE<sp/>objects<sp/>allow<sp/>us<sp/>to<sp/>open<sp/>other<sp/>files<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system<sp/>using<sp/>another<sp/>installed<sp/>application</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>in<sp/>our<sp/>operating<sp/>system<sp/>by<sp/>double-clicking<sp/>on<sp/>the<sp/>shape<sp/>that<sp/>contains<sp/>the<sp/>OLE<sp/>object<sp/>in<sp/>the<sp/>document<sp/>body.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>our<sp/>external<sp/>file<sp/>will<sp/>be<sp/>a<sp/>ZIP<sp/>archive.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;uint8_t&gt;<sp/>zipFileBytes<sp/>=<sp/><ref refid="class/system.i_o.file/_1abdf236ad2f3924d0fc9259f8f715a5c4" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::ReadAllBytes</ref>(DatabaseDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;cat001.zip&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>stream<sp/>=<sp/>MakeObject&lt;System::IO::MemoryStream&gt;(zipFileBytes);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertOleObject(stream,<sp/>u</highlight><highlight class="stringliteral">&quot;Package&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>shape-&gt;get_OleFormat()-&gt;get_OlePackage()-&gt;set_FileName(u</highlight><highlight class="stringliteral">&quot;Package<sp/>file<sp/>name.zip&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>shape-&gt;get_OleFormat()-&gt;get_OlePackage()-&gt;set_DisplayName(u</highlight><highlight class="stringliteral">&quot;Package<sp/>display<sp/>name.zip&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.InsertOlePackage.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OlePackage.h" line="109" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1aef67e4835c57da9a44c5d3cb8cdfbe53" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Drawing::OlePackage::get_FileName</definition>
+        <argsstring>() const</argsstring>
+        <name>get_FileName</name>
+        <qualifiedname>Aspose::Words::Drawing::OlePackage::get_FileName</qualifiedname>
+        <briefdescription>
+<para>Gets or sets OLE Package file name. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how insert an OLE object into a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>OLE<sp/>objects<sp/>allow<sp/>us<sp/>to<sp/>open<sp/>other<sp/>files<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system<sp/>using<sp/>another<sp/>installed<sp/>application</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>in<sp/>our<sp/>operating<sp/>system<sp/>by<sp/>double-clicking<sp/>on<sp/>the<sp/>shape<sp/>that<sp/>contains<sp/>the<sp/>OLE<sp/>object<sp/>in<sp/>the<sp/>document<sp/>body.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>our<sp/>external<sp/>file<sp/>will<sp/>be<sp/>a<sp/>ZIP<sp/>archive.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;uint8_t&gt;<sp/>zipFileBytes<sp/>=<sp/><ref refid="class/system.i_o.file/_1abdf236ad2f3924d0fc9259f8f715a5c4" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::ReadAllBytes</ref>(DatabaseDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;cat001.zip&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>stream<sp/>=<sp/>MakeObject&lt;System::IO::MemoryStream&gt;(zipFileBytes);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertOleObject(stream,<sp/>u</highlight><highlight class="stringliteral">&quot;Package&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>shape-&gt;get_OleFormat()-&gt;get_OlePackage()-&gt;set_FileName(u</highlight><highlight class="stringliteral">&quot;Package<sp/>file<sp/>name.zip&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>shape-&gt;get_OleFormat()-&gt;get_OlePackage()-&gt;set_DisplayName(u</highlight><highlight class="stringliteral">&quot;Package<sp/>display<sp/>name.zip&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.InsertOlePackage.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OlePackage.h" line="80" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1af323b7b463d7ddb5d9065f38c234201f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::OlePackage::set_DisplayName</definition>
+        <argsstring>(System::String value)</argsstring>
+        <name>set_DisplayName</name>
+        <qualifiedname>Aspose::Words::Drawing::OlePackage::set_DisplayName</qualifiedname>
+        <param>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1ab632fea85fd6ba366ad6718bcf261858" kindref="member">Aspose::Words::Drawing::OlePackage::get_DisplayName</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OlePackage.h" line="112" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1a5f98c47018225d32bf4f90029c54bc79" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::OlePackage::set_FileName</definition>
+        <argsstring>(System::String value)</argsstring>
+        <name>set_FileName</name>
+        <qualifiedname>Aspose::Words::Drawing::OlePackage::set_FileName</qualifiedname>
+        <param>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1aef67e4835c57da9a44c5d3cb8cdfbe53" kindref="member">Aspose::Words::Drawing::OlePackage::get_FileName</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OlePackage.h" line="83" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Allows to access OLE Package properties. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how insert an OLE object into a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>OLE<sp/>objects<sp/>allow<sp/>us<sp/>to<sp/>open<sp/>other<sp/>files<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system<sp/>using<sp/>another<sp/>installed<sp/>application</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>in<sp/>our<sp/>operating<sp/>system<sp/>by<sp/>double-clicking<sp/>on<sp/>the<sp/>shape<sp/>that<sp/>contains<sp/>the<sp/>OLE<sp/>object<sp/>in<sp/>the<sp/>document<sp/>body.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>our<sp/>external<sp/>file<sp/>will<sp/>be<sp/>a<sp/>ZIP<sp/>archive.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;uint8_t&gt;<sp/>zipFileBytes<sp/>=<sp/><ref refid="class/system.i_o.file/_1abdf236ad2f3924d0fc9259f8f715a5c4" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::ReadAllBytes</ref>(DatabaseDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;cat001.zip&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>stream<sp/>=<sp/>MakeObject&lt;System::IO::MemoryStream&gt;(zipFileBytes);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertOleObject(stream,<sp/>u</highlight><highlight class="stringliteral">&quot;Package&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>shape-&gt;get_OleFormat()-&gt;get_OlePackage()-&gt;set_FileName(u</highlight><highlight class="stringliteral">&quot;Package<sp/>file<sp/>name.zip&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>shape-&gt;get_OleFormat()-&gt;get_OlePackage()-&gt;set_DisplayName(u</highlight><highlight class="stringliteral">&quot;Package<sp/>display<sp/>name.zip&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.InsertOlePackage.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Drawing::OlePackage</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_package"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Drawing::OlePackage</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_package"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Drawing/OlePackage.h" line="46" column="1" bodyfile="Aspose.Words.Cpp/Drawing/OlePackage.h" bodystart="47" bodyend="129"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1a233d07c14daaf9c2ae9724444feeb2a4" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::OlePackage</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1ab632fea85fd6ba366ad6718bcf261858" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OlePackage</scope><name>get_DisplayName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1aef67e4835c57da9a44c5d3cb8cdfbe53" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OlePackage</scope><name>get_FileName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1abb7dbde5e544bc1340ab502cfef33c69" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::OlePackage</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1a4c4e757bc8fd674b38db3a3d1e13dbfe" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::OlePackage</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1aa888905e9a3cf21b2d0204add06731da" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::OlePackage</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1ac324775b3e38e7f62c56f1e002300826" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::OlePackage</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1abfcd7eb846dea981d7459e3ed85f23f3" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::OlePackage</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1a74c38a2ee531ae332990bdc621b49a01" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::OlePackage</scope><name>OlePackage</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1ad58b3e09d0082a9aec11377e6f2a8ae5" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::OlePackage</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1af323b7b463d7ddb5d9065f38c234201f" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OlePackage</scope><name>set_DisplayName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1a5f98c47018225d32bf4f90029c54bc79" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OlePackage</scope><name>set_FileName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1a077e7ff058257075d123264040f73f03" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::OlePackage</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_package_1ada8289a46a238f2914a7e617417377cb" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::OlePackage</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,2344 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="namespace_aspose_1_1_words_1_1_loading" kind="namespace" language="C++">
+    <compoundname>Aspose::Words::Loading</compoundname>
+    <innerclass refid="class_aspose_1_1_words_1_1_loading_1_1_chm_load_options" prot="public">Aspose::Words::Loading::ChmLoadOptions</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_loading_1_1_document_loading_args" prot="public">Aspose::Words::Loading::DocumentLoadingArgs</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_loading_1_1_html_load_options" prot="public">Aspose::Words::Loading::HtmlLoadOptions</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_loading_1_1_i_document_loading_callback" prot="public">Aspose::Words::Loading::IDocumentLoadingCallback</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_loading_1_1_i_resource_loading_callback" prot="public">Aspose::Words::Loading::IResourceLoadingCallback</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_loading_1_1_language_preferences" prot="public">Aspose::Words::Loading::LanguagePreferences</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" prot="public">Aspose::Words::Loading::LoadOptions</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_loading_1_1_pdf_load_options" prot="public">Aspose::Words::Loading::PdfLoadOptions</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_loading_1_1_resource_loading_args" prot="public">Aspose::Words::Loading::ResourceLoadingArgs</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_loading_1_1_rtf_load_options" prot="public">Aspose::Words::Loading::RtfLoadOptions</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_loading_1_1_txt_load_options" prot="public">Aspose::Words::Loading::TxtLoadOptions</innerclass>
+      <sectiondef kind="enum">
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_loading_1a2b8092d1f2525b02ec31f2da94d46b69" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>BlockImportMode</name>
+        <qualifiedname>Aspose::Words::Loading::BlockImportMode</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a2b8092d1f2525b02ec31f2da94d46b69a68be4837f6c739877233e527a996dd00" prot="public">
+          <name>Merge</name>
+          <briefdescription>
+<para><ref refid="namespace_aspose_1_1_words_1_1_properties" kindref="compound">Properties</ref> of parent blocks are merged and stored on child elements (i.e. paragraphs or tables). </para>
+          </briefdescription>
+          <detaileddescription>
+<para><ref refid="namespace_aspose_1_1_words_1_1_properties" kindref="compound">Properties</ref> of parent blocks are merged as follows: margins are added together; borders of higher-level blocks are discarded and only the most inner-level borders are preserved. As a result, when this mode is specified, some formatting of blocks from the original document will be lost.</para>
+<para>On the other hand, since all merged block-level properties are stored on document nodes, all formating in the resulting document will be available for modification. </para>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a2b8092d1f2525b02ec31f2da94d46b69a6d2a1af98f2cad1e5ec2dd0a75953919" prot="public">
+          <name>Preserve</name>
+          <briefdescription>
+<para><ref refid="namespace_aspose_1_1_words_1_1_properties" kindref="compound">Properties</ref> of parent blocks are imported to a special logical structure and are stored separately from document nodes. </para>
+          </briefdescription>
+          <detaileddescription>
+<para>Only margins and borders of &apos;body&apos;, &apos;div&apos;, and &apos;blockquote&apos; HTML elements are imported. <ref refid="namespace_aspose_1_1_words_1_1_properties" kindref="compound">Properties</ref> of each HTML element are stored individually.</para>
+<para>This mode allows to better preserve borders and margins seen in the HTML document and get better conversion results. The downside is that the resulting document gets harder to modify, since borders and margins stored in the logical structure are not available for editing.</para>
+<para>This mode mimics MS Word&apos;s behavior regarding import of block properties. </para>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies how properties of block-level elements are imported from HTML-based documents. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/BlockImportMode.h" line="23" column="1" bodyfile="Aspose.Words.Cpp/Loading/BlockImportMode.h" bodystart="24" bodyend="48"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_loading_1a309e43cce7e43117f6570db146a05ce6" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>DocumentDirection</name>
+        <qualifiedname>Aspose::Words::Loading::DocumentDirection</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a309e43cce7e43117f6570db146a05ce6ad1e80c506f4c89e3c4fb1c1b4867a03c" prot="public">
+          <name>LeftToRight</name>
+          <briefdescription>
+<para>Left to right direction. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a309e43cce7e43117f6570db146a05ce6ab7b0ea3028791689ea070674776855e2" prot="public">
+          <name>RightToLeft</name>
+          <briefdescription>
+<para>Right to left direction. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a309e43cce7e43117f6570db146a05ce6a06b9281e396db002010bde1de57262eb" prot="public">
+          <name>Auto</name>
+          <briefdescription>
+<para>Auto-detect direction. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Allows to specify the direction to flow the text in a document. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/DocumentDirection.h" line="23" column="1" bodyfile="Aspose.Words.Cpp/Loading/DocumentDirection.h" bodystart="24" bodyend="34"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>EditingLanguage</name>
+        <qualifiedname>Aspose::Words::Loading::EditingLanguage</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a170d296d4201ee1af7a8867e9b0ca3a7" prot="public">
+          <name>Afrikaans</name>
+          <initializer>= 0x0436</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4aa716b6a3e8cf5994165d64d712db61d8" prot="public">
+          <name>Albanian</name>
+          <initializer>= 0x041C</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a74413d5da27111eb9d4f2a0c760489d2" prot="public">
+          <name>Alsatian</name>
+          <initializer>= 0x0484</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a2822b8f5aac2191afe534140a6629eea" prot="public">
+          <name>Amharic</name>
+          <initializer>= 0x045E</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a74f2c1f926b08647f9a1de3bdffe2c49" prot="public">
+          <name>ArabicAlgeria</name>
+          <initializer>= 0x1401</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a308d20204c0601ab629d44aa7e49b89f" prot="public">
+          <name>ArabicBahrain</name>
+          <initializer>= 0x3C01</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4af1d669c23a6fa35d248984cf9757b962" prot="public">
+          <name>ArabicEgypt</name>
+          <initializer>= 0x0C01</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a6da0742d50ea461d3cd0d38221fdad6b" prot="public">
+          <name>ArabicIraq</name>
+          <initializer>= 0x0801</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4aa4610ec421edf6c8c185bc93dd26c601" prot="public">
+          <name>ArabicJordan</name>
+          <initializer>= 0x2C01</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a7af8260a6d4d21887b34ac9c8c724062" prot="public">
+          <name>ArabicKuwait</name>
+          <initializer>= 0x3401</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a6d53268c136f1abe71106c5f864ed52d" prot="public">
+          <name>ArabicLebanon</name>
+          <initializer>= 0x3001</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4abc215c39cefdac090f40e89d9b3f5bc7" prot="public">
+          <name>ArabicLibya</name>
+          <initializer>= 0x1001</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ade2e2ff5124a49044cd4a4139090566d" prot="public">
+          <name>ArabicMorocco</name>
+          <initializer>= 0x1801</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ad12fe45ce065db81d9aadcf829b3fad4" prot="public">
+          <name>ArabicOman</name>
+          <initializer>= 0x2001</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ae169eefcd920a95018a709cfcea6a8ad" prot="public">
+          <name>ArabicQatar</name>
+          <initializer>= 0x4001</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a522665d2497c5ef6693998d1a093fbfe" prot="public">
+          <name>ArabicSaudiArabia</name>
+          <initializer>= 0x0401</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a26a27fb8f218c32cf8990e8548125756" prot="public">
+          <name>ArabicSyria</name>
+          <initializer>= 0x2801</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a06821eb76b4cc9af9e1d87c175030c7e" prot="public">
+          <name>ArabicTunisia</name>
+          <initializer>= 0x1C01</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ac28d522a8758b2974b9f5398a39c7591" prot="public">
+          <name>ArabicUAE</name>
+          <initializer>= 0x3801</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a313c7f8414d177ba8f87eff6bc1bb25f" prot="public">
+          <name>ArabicYemen</name>
+          <initializer>= 0x2401</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ab397edd35777a9f6036119e6ced96ff6" prot="public">
+          <name>Armenian</name>
+          <initializer>= 0x042B</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a7e832a2236372b3ac5e030c551d90bab" prot="public">
+          <name>Assamese</name>
+          <initializer>= 0x044D</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ac8f938be95c9ceed206c24600491c230" prot="public">
+          <name>AzerbaijaniCyrillic</name>
+          <initializer>= 0x082C</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4af613a6939813c92d12d73d685f085353" prot="public">
+          <name>AzerbaijaniLatin</name>
+          <initializer>= 0x042C</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a8f5c1d37606293023b2a734b641db89c" prot="public">
+          <name>BanglaBangladesh</name>
+          <initializer>= 0x0845</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a4c735ebd7cfac30812e042852494d77d" prot="public">
+          <name>BanglaIndia</name>
+          <initializer>= 0x0445</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a634e2c69edef2f7a8b287ffe57bffd2d" prot="public">
+          <name>Bashkir</name>
+          <initializer>= 0x046D</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4aa8a890709b5828879edc68e65a938695" prot="public">
+          <name>Basque</name>
+          <initializer>= 0x042D</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a0a6de4460095f398e8a45ed512a7538f" prot="public">
+          <name>Belarusian</name>
+          <initializer>= 0x0423</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a87e49aedb73e29d6e627ba7a69303c34" prot="public">
+          <name>BosnianCyrillic</name>
+          <initializer>= 0x201A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a56a73b52a7d259efba847cb6d260585c" prot="public">
+          <name>BosnianLatin</name>
+          <initializer>= 0x141A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4aeb2f428f5c2030a6f8e14ac7e8dd1eca" prot="public">
+          <name>Breton</name>
+          <initializer>= 0x047E</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a60bb3bcc6ff535428a38f76f1059b2d2" prot="public">
+          <name>Bulgarian</name>
+          <initializer>= 0x0402</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ac98e06a00f05511df3d6f2cfd610cb70" prot="public">
+          <name>Burmese</name>
+          <initializer>= 0x0455</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a900a14b115614d9d4d1c47f1d3a3251b" prot="public">
+          <name>Catalan</name>
+          <initializer>= 0x0403</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ad0caad3fd48e9f89d18f1a99d6a91b4b" prot="public">
+          <name>CentralKurdishIraq</name>
+          <initializer>= 0x0492</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a3d8cdfa057a87c191caa67b1677e376c" prot="public">
+          <name>Cherokee</name>
+          <initializer>= 0x045C</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4af8a53120c2d722948848159f237e7050" prot="public">
+          <name>ChineseHongKong</name>
+          <initializer>= 0x0C04</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ad0de6c9e92f7b324758953c0aed4400e" prot="public">
+          <name>ChineseMacao</name>
+          <initializer>= 0x1404</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a1f6abfe1dfd86fd3cb78b0dc2f831fd1" prot="public">
+          <name>ChinesePRC</name>
+          <initializer>= 0x0804</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a19e8bbdad14d26411081b17f2cc2f155" prot="public">
+          <name>ChineseSingapore</name>
+          <initializer>= 0x1004</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ae090df95435d84035ad1b46698042f95" prot="public">
+          <name>ChineseTaiwan</name>
+          <initializer>= 0x0404</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a9b73be92c05e1acec51c6ceba2950291" prot="public">
+          <name>Corsican</name>
+          <initializer>= 0x483</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a19e60af6533776bde752a6735f73cbaf" prot="public">
+          <name>CroatianBozniaAndHerzegovina</name>
+          <initializer>= 0x101A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a0c1be09bad2acaa2fa315b88abda8a32" prot="public">
+          <name>Croatian</name>
+          <initializer>= 0x041A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a83ff4480cdf2900ae83bf30d95774d76" prot="public">
+          <name>Czech</name>
+          <initializer>= 0x0405</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a7bc6f150ce738db3d21cbe0b75aea027" prot="public">
+          <name>Danish</name>
+          <initializer>= 0x0406</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4aedabb821b5164ba3dbf7dc05eb5590b3" prot="public">
+          <name>Divehi</name>
+          <initializer>= 0x0465</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a864244d91f6d4ecf2dde6d7c9a0d0bc4" prot="public">
+          <name>DutchBelgium</name>
+          <initializer>= 0x0813</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4aa7e0d2b67a47c4a060f152d755401e9d" prot="public">
+          <name>DutchNetherlands</name>
+          <initializer>= 0x0413</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a8f8965d69ee40337b540a0d800af022f" prot="public">
+          <name>Edo</name>
+          <initializer>= 0x0466</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a97f2a6bc8ed75e792ad30c6cf76b12e4" prot="public">
+          <name>EnglishAustralia</name>
+          <initializer>= 0x0C09</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ac7348b3f77f230153daa4cd34eaddfb7" prot="public">
+          <name>EnglishBelize</name>
+          <initializer>= 0x2809</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a00c4d014a78955b6ea25ab68e3fac9fd" prot="public">
+          <name>EnglishCanada</name>
+          <initializer>= 0x1009</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a352302ca2b8a49a69ab7516186743b7c" prot="public">
+          <name>EnglishCaribbean</name>
+          <initializer>= 0x2409</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4acff6360a67f7ba990b6e603f8acc5605" prot="public">
+          <name>EnglishHongKong</name>
+          <initializer>= 0x3C09</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4af7638b4a6ba273ddf7f3a8eabaa3b8a8" prot="public">
+          <name>EnglishIndia</name>
+          <initializer>= 0x4009</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ab6da55c04c1f82771c3d5a5bfb999954" prot="public">
+          <name>EnglishIndonesia</name>
+          <initializer>= 0x3809</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a8920557b9544aee1219c063f4fd7d003" prot="public">
+          <name>EnglishIreland</name>
+          <initializer>= 0x1809</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ad99cd567fc0c1f34a8f9909f7c7924f7" prot="public">
+          <name>EnglishJamaica</name>
+          <initializer>= 0x2009</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a7f32e4c59da66f74f84d2bf0d47df92a" prot="public">
+          <name>EnglishMalaysia</name>
+          <initializer>= 0x4409</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a8986fb346e7cb3c3531d9a427188db15" prot="public">
+          <name>EnglishNewZealand</name>
+          <initializer>= 0x1409</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4aa357abd2cc4b5be1f143f1c66455528e" prot="public">
+          <name>EnglishPhilippines</name>
+          <initializer>= 0x3409</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ab41526719ffe73f9cf459ed6573004c4" prot="public">
+          <name>EnglishSingapore</name>
+          <initializer>= 0x4809</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4acd86c9b900641a61d911abecbf51d9aa" prot="public">
+          <name>EnglishSouthAfrica</name>
+          <initializer>= 0x1C09</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ae38dc052d5b5c74c85d9637246badb8e" prot="public">
+          <name>EnglishTrinidadAndTobago</name>
+          <initializer>= 0x2C09</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4aeddfb120ac0e902bb7944c21baf538fe" prot="public">
+          <name>EnglishUK</name>
+          <initializer>= 0x0809</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a1c34ba3a790869be5cb1380eadbf0f3d" prot="public">
+          <name>EnglishUS</name>
+          <initializer>= 0x0409</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a84f91d36770ec2f2adda3b0fc1a4e0ba" prot="public">
+          <name>EnglishZimbabwe</name>
+          <initializer>= 0x3009</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a28916fc3da67a5190b2b98a7f309857f" prot="public">
+          <name>Estonian</name>
+          <initializer>= 0x0425</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4aed762ada0de452edc5ef442dc35640ab" prot="public">
+          <name>Faeroese</name>
+          <initializer>= 0x0438</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a473a1337a08505cff4da2b79e2145015" prot="public">
+          <name>Filipino</name>
+          <initializer>= 0x0464</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a9ae099fd082267fa2f2f85664a4f74dc" prot="public">
+          <name>Finnish</name>
+          <initializer>= 0x040B</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a30a8ae3585346ba8290508bf958337d8" prot="public">
+          <name>FrenchBelgium</name>
+          <initializer>= 0x080C</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a5c24748cb04dabaae17117e4266232a0" prot="public">
+          <name>FrenchCanada</name>
+          <initializer>= 0x0C0C</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ad2575bc1827a50a14924e26c64fd59bf" prot="public">
+          <name>FrenchFrance</name>
+          <initializer>= 0x040C</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a7c7b64b5718583ee00870eba2b3ccd1d" prot="public">
+          <name>FrenchLuxembourg</name>
+          <initializer>= 0x140C</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a7aa3b2f81f76a28d6ceab66440130bfd" prot="public">
+          <name>FrenchMonaco</name>
+          <initializer>= 0x180C</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a8910fa015226213c1fda922db15edca5" prot="public">
+          <name>FrenchSwitzerland</name>
+          <initializer>= 0x100C</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a592e43ed01df94afdd4396a9ab89376d" prot="public">
+          <name>Frisian</name>
+          <initializer>= 0x0462</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a715c3580114e3e065af836f424425069" prot="public">
+          <name>FulahLatinSenegal</name>
+          <initializer>= 0x0867</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a7bffcea012a2dba25d7417aa414cedbe" prot="public">
+          <name>FulahNigeria</name>
+          <initializer>= 0x0467</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a516a623325ded756f29f124618baabbc" prot="public">
+          <name>Galician</name>
+          <initializer>= 0x0456</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4aadc0753d37641ed117f7b999a0ae79a0" prot="public">
+          <name>Georgian</name>
+          <initializer>= 0x0437</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a6438ae3e8cedd361601f31353fd8ea0d" prot="public">
+          <name>GermanAustria</name>
+          <initializer>= 0x0C07</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a84cbce1f689f8a1ced1cd888ead93916" prot="public">
+          <name>GermanGermany</name>
+          <initializer>= 0x0407</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a50e80cdaa9f2a506df5e959018408b8e" prot="public">
+          <name>GermanLiechtenstein</name>
+          <initializer>= 0x1407</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ad0693cd30d70fc72cf00779e78dffef5" prot="public">
+          <name>GermanLuxembourg</name>
+          <initializer>= 0x1007</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a080d11007e7b2d33a96629235118ecb1" prot="public">
+          <name>GermanSwitzerland</name>
+          <initializer>= 0x0807</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a0aafa497807d5ac9b509656bd13b5283" prot="public">
+          <name>Greek</name>
+          <initializer>= 0x0408</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a1716eb61ffb00fa0d25740da1fff401f" prot="public">
+          <name>Greenlandic</name>
+          <initializer>= 0x046F</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4aee3432876af418b80741fdc6d3b99845" prot="public">
+          <name>Guarani</name>
+          <initializer>= 0x0474</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ad1a59333c7e56205fed9bda9da34b201" prot="public">
+          <name>Gujarati</name>
+          <initializer>= 0x0447</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a7593d697bfa3e798e23becb86cbf3503" prot="public">
+          <name>Hausa</name>
+          <initializer>= 0x0468</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4aa0d02c9438696d070d94a33e8f78885f" prot="public">
+          <name>Hawaiian</name>
+          <initializer>= 0x0475</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ac6c1f81a46666385fa7d85df7eaf8763" prot="public">
+          <name>Hebrew</name>
+          <initializer>= 0x040D</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a45c3171ef193c74b402f407fba9d955b" prot="public">
+          <name>Hindi</name>
+          <initializer>= 0x0439</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a7b86112ec6401fd8f06ab5251d1a68fe" prot="public">
+          <name>Hungarian</name>
+          <initializer>= 0x040E</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a4c545ca25c8a34a533be19e7a1c44a79" prot="public">
+          <name>Icelandic</name>
+          <initializer>= 0x040F</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ac555b579aa262e92dbdf0fed7f7638ee" prot="public">
+          <name>Igbo</name>
+          <initializer>= 0x0470</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a939a3ca152320c08ceda63f8a2757e8a" prot="public">
+          <name>InariSamiFinland</name>
+          <initializer>= 0x243B</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4acc1c9b57607b4439578b68074a5e2d80" prot="public">
+          <name>Indonesian</name>
+          <initializer>= 0x0421</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a10b3210dcc048e46673def3e5015dd22" prot="public">
+          <name>InuktitutLatin</name>
+          <initializer>= 0x7C5D</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ae4b31d719bbfedf9ded9e3096c7d70f2" prot="public">
+          <name>InuktitutSyllabics</name>
+          <initializer>= 0x785D</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a2cfce796f4703d560ae1c3a1b3fb7e74" prot="public">
+          <name>Irish</name>
+          <initializer>= 0x083C</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a92f3c61db0077255c265cea5cbb783e4" prot="public">
+          <name>IsiXhosa</name>
+          <initializer>= 0x0434</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a0d5700898020aff7cc5fba1393376f9a" prot="public">
+          <name>IsiZulu</name>
+          <initializer>= 0x0435</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a12ee62e1eb251d13431dc1c5b4c6d004" prot="public">
+          <name>ItalianItaly</name>
+          <initializer>= 0x0410</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a7cebc7b3aa6a85d1e326b8cf7d1dea34" prot="public">
+          <name>ItalianSwitzerland</name>
+          <initializer>= 0x0810</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4af32ced6a9ba164c4b3c047fd1d7c882e" prot="public">
+          <name>Japanese</name>
+          <initializer>= 0x0411</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a6b511fdce48a74274a35e3365e36230c" prot="public">
+          <name>Kannada</name>
+          <initializer>= 0x044B</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a552cfb777a66220ca896655f2282e116" prot="public">
+          <name>Kanuri</name>
+          <initializer>= 0x0471</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a2fc10ff987c277fc4fd5f440dd8263ab" prot="public">
+          <name>Kashmiri</name>
+          <initializer>= 0x0860</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4adc271815d9e878fdbbb2a6e43890db06" prot="public">
+          <name>KashmiriArabic</name>
+          <initializer>= 0x0460</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ad05ae627fcc808e7df1ee341c3d5cbc2" prot="public">
+          <name>Kazakh</name>
+          <initializer>= 0x043F</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a9f564ebabc9cf0b9589b4ecf6228379a" prot="public">
+          <name>Khmer</name>
+          <initializer>= 0x0453</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a2fa07f3c5c8bc56b508c2957290f5001" prot="public">
+          <name>Kiche</name>
+          <initializer>= 0x7C86</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ae4875932c8cf3d2b423234a1d35b15e0" prot="public">
+          <name>Kinyarwanda</name>
+          <initializer>= 0x0487</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ab08607e1c15d44db4e2bb074720bdead" prot="public">
+          <name>Kiswahili</name>
+          <initializer>= 0x0441</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a602a59defb60b6294f9205bd6834c18a" prot="public">
+          <name>Konkani</name>
+          <initializer>= 0x0457</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ad0bdb3cde477d82e766da05ebda50ccb" prot="public">
+          <name>Korean</name>
+          <initializer>= 0x0412</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a712a3d4ac894f0e98dd8febc5e17ab97" prot="public">
+          <name>Kyrgyz</name>
+          <initializer>= 0x0440</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ad8fd56d3ba0672de0f6625bfb1b4ca7b" prot="public">
+          <name>Lao</name>
+          <initializer>= 0x0454</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a7280578e6a45fd916ed9431425289c9e" prot="public">
+          <name>Latin</name>
+          <initializer>= 0x0476</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a76ad0358e45dd4087c0a26bbf4c160e3" prot="public">
+          <name>Latvian</name>
+          <initializer>= 0x0426</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a04f605836f660d879bf3fb2b3643d16b" prot="public">
+          <name>Lithuanian</name>
+          <initializer>= 0x0427</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a72c13d964dd7a2400db409bf73b5ae31" prot="public">
+          <name>LowerSorbian</name>
+          <initializer>= 0x7C2E</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4aadf819028d6f5865e62628d80912a8e3" prot="public">
+          <name>LuleSamiNorway</name>
+          <initializer>= 0x103B</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a863c2d5e517a1cf3bb57c6ebf2282cd4" prot="public">
+          <name>LuleSamiSweden</name>
+          <initializer>= 0x143B</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a1f84789c32702b7706ca0468f889fa44" prot="public">
+          <name>Luxembougish</name>
+          <initializer>= 0x046E</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ac1e1b1f8bdaab4b0fc183e147887e0e1" prot="public">
+          <name>Macedonian</name>
+          <initializer>= 0x042F</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a65163a2c56467a46982ec582eaeeb9b9" prot="public">
+          <name>MalayMalaysia</name>
+          <initializer>= 0x043E</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a8390d8b4052e8bdd97e39bfae50f2216" prot="public">
+          <name>MalayBruneiDarussalam</name>
+          <initializer>= 0x083E</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4af9b5a275bc456b62ad13e4a537f62a3b" prot="public">
+          <name>Malayalam</name>
+          <initializer>= 0x044C</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a4d0c1117e593a084406068a55ab227b9" prot="public">
+          <name>Maltese</name>
+          <initializer>= 0x043A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a65147bd137cead59dae2795726ff6b55" prot="public">
+          <name>Manipuri</name>
+          <initializer>= 0x0458</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a9c751c711ebc5775246f80308ef4d56e" prot="public">
+          <name>Maori</name>
+          <initializer>= 0x0481</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a51f1b66d275b1d96f6ed0052f047ec68" prot="public">
+          <name>MapudungunChile</name>
+          <initializer>= 0x047A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a529b1c6eafff3f34bcda64708f72586d" prot="public">
+          <name>Marathi</name>
+          <initializer>= 0x044E</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4afae9a73856d0261bc4185eaa7409c6cf" prot="public">
+          <name>Mohawk</name>
+          <initializer>= 0x047C</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a9f8d9b31688df8b45504a4a4e1f8432c" prot="public">
+          <name>MongolianCyrillic</name>
+          <initializer>= 0x0450</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ad2017e38cadd64549534f8d5b361da1c" prot="public">
+          <name>MongolianMongolian</name>
+          <initializer>= 0x0850</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a2f53f077d39632f0b325d5eabfc8798b" prot="public">
+          <name>Nepali</name>
+          <initializer>= 0x0461</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4abbf1adef2e0af2064bca6b6b423a2a63" prot="public">
+          <name>NorthernSamiFinland</name>
+          <initializer>= 0x0C3B</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a3c70183a2a830ba2c58501643597a8cb" prot="public">
+          <name>NorthernSamiNorway</name>
+          <initializer>= 0x043B</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a2ed676ff493fab46346c79b0b0d5b197" prot="public">
+          <name>NorthernSamiSweden</name>
+          <initializer>= 0x083B</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a8325c47711763c589964da62728cde1e" prot="public">
+          <name>NorwegianBokmal</name>
+          <initializer>= 0x0414</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a35fec539d45366ddd2be373a5b6f7b62" prot="public">
+          <name>NorwegianNynorsk</name>
+          <initializer>= 0x0814</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4aaa1fbe577ecc29ca7b970d4151dfe682" prot="public">
+          <name>Oriya</name>
+          <initializer>= 0x0448</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a57984441655728dfe9c7cc33e12dfa4c" prot="public">
+          <name>Oromo</name>
+          <initializer>= 0x0472</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a7f684bc84538be222828063eca943037" prot="public">
+          <name>Papiamentu</name>
+          <initializer>= 0x0479</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a7644701ba4a49efc8d457334dd1480cf" prot="public">
+          <name>Pashto</name>
+          <initializer>= 0x0463</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a8032c149d0e48ad38ef6b60289f910cd" prot="public">
+          <name>Persian</name>
+          <initializer>= 0x0429</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ac730389bc8d99e59c867766babdd48b5" prot="public">
+          <name>Polish</name>
+          <initializer>= 0x0415</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a3687bdee6a88f15581b7b3ca6f287f16" prot="public">
+          <name>PortugueseBrazil</name>
+          <initializer>= 0x0416</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a787dfdb17312944c67325f9b7c42bbf7" prot="public">
+          <name>PortuguesePortugal</name>
+          <initializer>= 0x0816</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4afeaad65f5f51994c302e6bb9dca72cbf" prot="public">
+          <name>PunjabiIndia</name>
+          <initializer>= 0x0446</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a0ccc9795a8f7d5c43e92e14c18a887d4" prot="public">
+          <name>PunjabiPakistan</name>
+          <initializer>= 0x0846</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a89dd9ef1a25a6b2d2b2a1901ca0ee9b7" prot="public">
+          <name>QuechuaBolivia</name>
+          <initializer>= 0x046B</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a7912ec714d77ee2624ab9e75842690d0" prot="public">
+          <name>QuechuaEcuador</name>
+          <initializer>= 0x086B</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a4a198f547b3762d658f1eeab0363d371" prot="public">
+          <name>QuechuaPeru</name>
+          <initializer>= 0x0C6B</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4aefa7394ecaa7fc7076a9da13a77236b8" prot="public">
+          <name>Romanian</name>
+          <initializer>= 0x0418</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a88c2cd3ecbb09b23c456ba8b33dfd266" prot="public">
+          <name>Romansh</name>
+          <initializer>= 0x0417</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4adeba6920e70615401385fe1fb5a379ec" prot="public">
+          <name>Russian</name>
+          <initializer>= 0x0419</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4aa4ab6fdb63a3882749112f0d94dd58f2" prot="public">
+          <name>Sakha</name>
+          <initializer>= 0x0485</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a4037f77713990c867a3c53066fbc4dd0" prot="public">
+          <name>Sanskrit</name>
+          <initializer>= 0x044F</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ae99060211896b9714e81ac517de52da2" prot="public">
+          <name>ScottishGaelic</name>
+          <initializer>= 0x491</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a3a0d3f3c2c8e9ac0750722760245c530" prot="public">
+          <name>SerbianCyrillicBosniaAndHerzegovina</name>
+          <initializer>= 0x1C1A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a8db6c46fc48e74258b7297221d5b030f" prot="public">
+          <name>SerbianCyrillicSerbiaAndMontenegro</name>
+          <initializer>= 0x0C1A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a3833fa12a7b1270de7a8fea39ad6934a" prot="public">
+          <name>SerbianLatinBosniaAndHerzegovina</name>
+          <initializer>= 0x181A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a6e4b53505dd8c5fd90b94018c6b3516d" prot="public">
+          <name>SerbianLatinSerbiaAndMontenegro</name>
+          <initializer>= 0x081A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4aff36f09ce3d926b3772948a4f72144dd" prot="public">
+          <name>Sindhi</name>
+          <initializer>= 0x0859</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a040cda193d8fcd4f8456181c785839e9" prot="public">
+          <name>SindhiDevanagaric</name>
+          <initializer>= 0x0459</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ad8be732622a4932cc914e5da766f0fb0" prot="public">
+          <name>Sinhalese</name>
+          <initializer>= 0x045B</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a9accc467b159e7ce158e53209c0cde2a" prot="public">
+          <name>Slovak</name>
+          <initializer>= 0x041B</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a6e9970eac6ca16e34a8eac50070c49ce" prot="public">
+          <name>Slovenian</name>
+          <initializer>= 0x0424</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a0b104da57394974764cc7b3a42f2c1de" prot="public">
+          <name>Somali</name>
+          <initializer>= 0x0477</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a25389f4383949d6db03d55f30c7e8dd7" prot="public">
+          <name>Sorbian</name>
+          <initializer>= 0x042E</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a0854618a07f29524b85309dbe3db5065" prot="public">
+          <name>SpanishArgentina</name>
+          <initializer>= 0x2C0A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a09898d89af5251490175d67c5f3d6e8a" prot="public">
+          <name>SpanishBolivia</name>
+          <initializer>= 0x400A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a56a9e94fa759c1dff82100ef7e837527" prot="public">
+          <name>SpanishChile</name>
+          <initializer>= 0x340A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a89919eeb3fefd5addd1fc0cdb0b5c73c" prot="public">
+          <name>SpanishColombia</name>
+          <initializer>= 0x240A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a89bfe575933c387eb2cf419685308979" prot="public">
+          <name>SpanishCostaRica</name>
+          <initializer>= 0x140A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a9073f0e1b6aff54d081e6b032e93e1fd" prot="public">
+          <name>SpanishDominicanRepublic</name>
+          <initializer>= 0x1C0A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a56a75270388559f330c22f58d7aa5afa" prot="public">
+          <name>SpanishEcuador</name>
+          <initializer>= 0x300A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a96b974d79b8ec57c9c0baa9aad453342" prot="public">
+          <name>SpanishElSalvador</name>
+          <initializer>= 0x440A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a01304cae6ac290e51815289a7f777fbe" prot="public">
+          <name>SpanishGuatemala</name>
+          <initializer>= 0x100A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a3d04b89623e988fbc387744aa03f3d29" prot="public">
+          <name>SpanishHonduras</name>
+          <initializer>= 0x480A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ad07f2390a35826977cb09e647b3fa7d6" prot="public">
+          <name>SpanishMexico</name>
+          <initializer>= 0x080A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4aa49e1eba16104492d2c4b3d952527c8e" prot="public">
+          <name>SpanishNicaragua</name>
+          <initializer>= 0x4C0A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a3298f82ebb665d1ce0fb30c88542e35d" prot="public">
+          <name>SpanishPanama</name>
+          <initializer>= 0x180A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a6ecf09e7576e098cf44b8c2fdfca5418" prot="public">
+          <name>SpanishParaguay</name>
+          <initializer>= 0x3C0A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ad542aba07253c5f5c5bbfecbda153b4d" prot="public">
+          <name>SpanishPeru</name>
+          <initializer>= 0x280A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a25dd5b69a05e454baa33d6d247832194" prot="public">
+          <name>SpanishPuertoRico</name>
+          <initializer>= 0x500A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a507c922ca7196a56d4f784a75fb16e78" prot="public">
+          <name>SpanishSpainModernSort</name>
+          <initializer>= 0x0C0A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ab6cc84d27f3196d4d46d4d7516a18940" prot="public">
+          <name>SpanishSpainTraditionalSort</name>
+          <initializer>= 0x040A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a2d88c95a751fc0b1ba261330e1335364" prot="public">
+          <name>SpanishUruguay</name>
+          <initializer>= 0x380A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4abc7ecfcf12298952ed96727da1ac78c1" prot="public">
+          <name>SpanishVenezuela</name>
+          <initializer>= 0x200A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a571fc45b5e28342d4c8bc552abc294b5" prot="public">
+          <name>Sutu</name>
+          <initializer>= 0x0430</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a4619dc65ca2262dfe730e84afe46b117" prot="public">
+          <name>SwedishFinland</name>
+          <initializer>= 0x081D</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a04448441925f1ee2b626fe6af777a00a" prot="public">
+          <name>SwedishSweden</name>
+          <initializer>= 0x041D</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ab4cfc6bec96fcb54650455f269f39b71" prot="public">
+          <name>Syriac</name>
+          <initializer>= 0x045A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a944c84bfafb071ea7f357c4f23cddf53" prot="public">
+          <name>Tajik</name>
+          <initializer>= 0x0428</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a9dbecd0f72b9f67cc6ac62c6f441f25f" prot="public">
+          <name>Tamazight</name>
+          <initializer>= 0x045F</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a793cc08f8fc2e37a98bf819b643b7016" prot="public">
+          <name>TamazightLatin</name>
+          <initializer>= 0x085F</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4af0670813020969b39ff8d85744b40400" prot="public">
+          <name>Tamil</name>
+          <initializer>= 0x0449</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a4c86bbde578e3648fa0b12aea66fc5f6" prot="public">
+          <name>Tatar</name>
+          <initializer>= 0x0444</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a15b88a88e6cf16a4462c1562fdcb0c19" prot="public">
+          <name>Telugu</name>
+          <initializer>= 0x044A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a43ddc789bcea4177a14791f6c9a03b28" prot="public">
+          <name>Thai</name>
+          <initializer>= 0x041E</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a7a633bcdda8f6ebad81910398e0255ac" prot="public">
+          <name>TibetanButan</name>
+          <initializer>= 0x0851</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a4a3676bce9dc7314858defb3584effb8" prot="public">
+          <name>TibetanChina</name>
+          <initializer>= 0x0451</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4aca143fb54c49e88be8a7b90ec43bc069" prot="public">
+          <name>TigrignaEritrea</name>
+          <initializer>= 0x0873</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a0d7849709a13ceda1fbbcf70f12864a3" prot="public">
+          <name>TigrignaEthiopia</name>
+          <initializer>= 0x0473</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ad634f58fd91b60c8615360fb2075bd03" prot="public">
+          <name>Tsonga</name>
+          <initializer>= 0x0431</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ad6cffba6050900b4f2d16f8e3b031476" prot="public">
+          <name>Tswana</name>
+          <initializer>= 0x0432</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ac1612bbdebfa45467e8ab814e08daff1" prot="public">
+          <name>Turkish</name>
+          <initializer>= 0x041F</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a6f1211929eb30a88188af058eb7dbcfb" prot="public">
+          <name>Turkmen</name>
+          <initializer>= 0x0442</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ae78a6fc14ad64f7a78386b20568ce95b" prot="public">
+          <name>Ukrainian</name>
+          <initializer>= 0x0422</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4af8aa4393427c2f2fd010f7adc5812517" prot="public">
+          <name>Urdu</name>
+          <initializer>= 0x0420</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a5b049dcf3fabbdf7d4b15678bf8b3075" prot="public">
+          <name>UzbekCyrillic</name>
+          <initializer>= 0x0843</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a876a7e057b5484b0f0acf16dcc191338" prot="public">
+          <name>UzbekLatin</name>
+          <initializer>= 0x0443</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a78df616ab31e95ee46c6a519a2ce9e12" prot="public">
+          <name>Venda</name>
+          <initializer>= 0x0433</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a7b80fae85640c16cdb0261bef0c27636" prot="public">
+          <name>Vietnamese</name>
+          <initializer>= 0x042A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4abbb0fa49b525c4264f4ad7a06adc3e07" prot="public">
+          <name>Welsh</name>
+          <initializer>= 0x0452</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4af52f0a4793a169d9b488936511fd7672" prot="public">
+          <name>Yi</name>
+          <initializer>= 0x0478</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4a6d49a35951ace13a6294548e5137157f" prot="public">
+          <name>Yiddish</name>
+          <initializer>= 0x043D</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4ace9ff4c0410d35afbc2206ab23c8759d" prot="public">
+          <name>Yoruba</name>
+          <initializer>= 0x046A</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies the editing language. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to apply language preferences when loading a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>loadOptions<sp/>=<sp/>MakeObject&lt;LoadOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">loadOptions-&gt;get_LanguagePreferences()-&gt;AddEditingLanguage(<ref refid="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4af32ced6a9ba164c4b3c047fd1d7c882e" kindref="member">EditingLanguage::Japanese</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;No<sp/>default<sp/>editing<sp/>language.docx&quot;</highlight><highlight class="normal">,<sp/>loadOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>localeIdFarEast<sp/>=<sp/>doc-&gt;get_Styles()-&gt;get_DefaultFont()-&gt;get_LocaleIdFarEast();</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/>(localeIdFarEast<sp/>==<sp/>(int)<ref refid="namespace_aspose_1_1_words_1_1_loading_1a3e1953ce01da5cb69cd0a5d858ba0bd4af32ced6a9ba164c4b3c047fd1d7c882e" kindref="member">EditingLanguage::Japanese</ref></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>?<sp/>String(u</highlight><highlight class="stringliteral">&quot;The<sp/>document<sp/>either<sp/>has<sp/>no<sp/>any<sp/>FarEast<sp/>language<sp/>set<sp/>in<sp/>defaults<sp/>or<sp/>it<sp/>was<sp/>set<sp/>to<sp/>Japanese<sp/>originally.&quot;</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>:<sp/>String(u</highlight><highlight class="stringliteral">&quot;The<sp/>document<sp/>default<sp/>FarEast<sp/>language<sp/>was<sp/>set<sp/>to<sp/>another<sp/>than<sp/>Japanese<sp/>language<sp/>originally,<sp/>so<sp/>it<sp/>is<sp/>not<sp/>overridden.&quot;</highlight><highlight class="normal">))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/EditingLanguage.h" line="39" column="1" bodyfile="Aspose.Words.Cpp/Loading/EditingLanguage.h" bodystart="40" bodyend="268"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_loading_1aaa5e81958aae3d7133af969937b6b2c6" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>HtmlControlType</name>
+        <qualifiedname>Aspose::Words::Loading::HtmlControlType</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1aaa5e81958aae3d7133af969937b6b2c6abc3ee36619f878ca7fb3724874fcec7d" prot="public">
+          <name>FormField</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1aaa5e81958aae3d7133af969937b6b2c6a68e4c6ed96f1d85ba56be9178fdbd738" prot="public">
+          <name>StructuredDocumentTag</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Type of document nodes that represent &lt;input&gt; and &lt;select&gt; elements imported from HTML. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/HtmlControlType.h" line="23" column="1" bodyfile="Aspose.Words.Cpp/Loading/HtmlControlType.h" bodystart="24" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_loading_1a0148f1f69fe70035e9a93fed1f2e612b" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>ResourceLoadingAction</name>
+        <qualifiedname>Aspose::Words::Loading::ResourceLoadingAction</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a0148f1f69fe70035e9a93fed1f2e612ba7a1920d61156abc05a60135aefe8bc67" prot="public">
+          <name>Default</name>
+          <briefdescription>
+<para>Aspose.Words will load this resource as usual. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a0148f1f69fe70035e9a93fed1f2e612ba72ef2b9b6965d078e3c7f95487a82d1c" prot="public">
+          <name>Skip</name>
+          <briefdescription>
+<para>Aspose.Words will skip loading of this resource. Only link without data will be stored for an image, CSS style sheet will be ignored for HTML format. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a0148f1f69fe70035e9a93fed1f2e612ba86cb5debcd1aabc7f255cb35bb6ccf8b" prot="public">
+          <name>UserProvided</name>
+          <briefdescription>
+<para>Aspose.Words will use byte array provided by user in <ref refid="" kindref="compound">SetData()</ref> as resource data. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies the mode of resource loading. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to customize the process of loading external resources into a document. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceLoadingCallback()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;set_ResourceLoadingCallback(MakeObject&lt;ExDocumentBase::ImageNameHandler&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Images<sp/>usually<sp/>are<sp/>inserted<sp/>using<sp/>a<sp/>URI,<sp/>or<sp/>a<sp/>byte<sp/>array.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Every<sp/>instance<sp/>of<sp/>a<sp/>resource<sp/>load<sp/>will<sp/>call<sp/>our<sp/>callback&apos;s<sp/>ResourceLoading<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertImage(u</highlight><highlight class="stringliteral">&quot;Google<sp/>logo&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertImage(u</highlight><highlight class="stringliteral">&quot;Aspose<sp/>logo&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertImage(u</highlight><highlight class="stringliteral">&quot;Watermark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(3,<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBase.ResourceLoadingCallback.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">ImageNameHandler<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IResourceLoadingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ResourceLoadingAction<sp/>ResourceLoading(SharedPtr&lt;ResourceLoadingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>this<sp/>callback<sp/>encounters<sp/>one<sp/>of<sp/>the<sp/>image<sp/>shorthands<sp/>while<sp/>loading<sp/>an<sp/>image,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>it<sp/>will<sp/>apply<sp/>unique<sp/>logic<sp/>for<sp/>each<sp/>defined<sp/>shorthand<sp/>instead<sp/>of<sp/>treating<sp/>it<sp/>as<sp/>a<sp/>URI.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(args-&gt;get_ResourceType()<sp/>==<sp/>ResourceType::Image)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String<sp/>imageUri<sp/>=<sp/>args-&gt;get_OriginalUri();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(imageUri<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Google<sp/>logo&quot;</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>webClient<sp/>=<sp/>MakeObject&lt;System::Net::WebClient&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;SetData(webClient-&gt;DownloadData(u</highlight><highlight class="stringliteral">&quot;http://www.google.com/images/logos/ps_logo2.png&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>ResourceLoadingAction::UserProvided;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(imageUri<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Aspose<sp/>logo&quot;</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;SetData(<ref refid="class/system.i_o.file/_1abdf236ad2f3924d0fc9259f8f715a5c4" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::ReadAllBytes</ref>(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>ResourceLoadingAction::UserProvided;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(imageUri<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Watermark&quot;</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;SetData(<ref refid="class/system.i_o.file/_1abdf236ad2f3924d0fc9259f8f715a5c4" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::ReadAllBytes</ref>(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Transparent<sp/>background<sp/>logo.png&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>ResourceLoadingAction::UserProvided;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>ResourceLoadingAction::Default;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/ResourceLoadingAction.h" line="83" column="1" bodyfile="Aspose.Words.Cpp/Loading/ResourceLoadingAction.h" bodystart="84" bodyend="95"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_loading_1ac36ff9a0727d3a12efb8a9c600826f81" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>ResourceType</name>
+        <qualifiedname>Aspose::Words::Loading::ResourceType</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1ac36ff9a0727d3a12efb8a9c600826f81abe53a0541a6d36f6ecb879fa2c584b08" prot="public">
+          <name>Image</name>
+          <briefdescription>
+<para>Image. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1ac36ff9a0727d3a12efb8a9c600826f81ac7a9f4f70e2b9a7f82fd5c713f3e8429" prot="public">
+          <name>CssStyleSheet</name>
+          <briefdescription>
+<para>Css style sheet. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1ac36ff9a0727d3a12efb8a9c600826f81a0945359809dad1fbf3dea1c95a0da951" prot="public">
+          <name>Document</name>
+          <briefdescription>
+<para><ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Document</ref>. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Type of loaded resource. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to customize the process of loading external resources into a document. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceLoadingCallback()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;set_ResourceLoadingCallback(MakeObject&lt;ExDocumentBase::ImageNameHandler&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Images<sp/>usually<sp/>are<sp/>inserted<sp/>using<sp/>a<sp/>URI,<sp/>or<sp/>a<sp/>byte<sp/>array.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Every<sp/>instance<sp/>of<sp/>a<sp/>resource<sp/>load<sp/>will<sp/>call<sp/>our<sp/>callback&apos;s<sp/>ResourceLoading<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertImage(u</highlight><highlight class="stringliteral">&quot;Google<sp/>logo&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertImage(u</highlight><highlight class="stringliteral">&quot;Aspose<sp/>logo&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertImage(u</highlight><highlight class="stringliteral">&quot;Watermark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(3,<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBase.ResourceLoadingCallback.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">ImageNameHandler<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IResourceLoadingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ResourceLoadingAction<sp/>ResourceLoading(SharedPtr&lt;ResourceLoadingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>this<sp/>callback<sp/>encounters<sp/>one<sp/>of<sp/>the<sp/>image<sp/>shorthands<sp/>while<sp/>loading<sp/>an<sp/>image,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>it<sp/>will<sp/>apply<sp/>unique<sp/>logic<sp/>for<sp/>each<sp/>defined<sp/>shorthand<sp/>instead<sp/>of<sp/>treating<sp/>it<sp/>as<sp/>a<sp/>URI.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(args-&gt;get_ResourceType()<sp/>==<sp/>ResourceType::Image)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String<sp/>imageUri<sp/>=<sp/>args-&gt;get_OriginalUri();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(imageUri<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Google<sp/>logo&quot;</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>webClient<sp/>=<sp/>MakeObject&lt;System::Net::WebClient&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;SetData(webClient-&gt;DownloadData(u</highlight><highlight class="stringliteral">&quot;http://www.google.com/images/logos/ps_logo2.png&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>ResourceLoadingAction::UserProvided;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(imageUri<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Aspose<sp/>logo&quot;</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;SetData(<ref refid="class/system.i_o.file/_1abdf236ad2f3924d0fc9259f8f715a5c4" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::ReadAllBytes</ref>(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>ResourceLoadingAction::UserProvided;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(imageUri<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Watermark&quot;</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;SetData(<ref refid="class/system.i_o.file/_1abdf236ad2f3924d0fc9259f8f715a5c4" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::ReadAllBytes</ref>(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Transparent<sp/>background<sp/>logo.png&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>ResourceLoadingAction::UserProvided;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>ResourceLoadingAction::Default;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/ResourceType.h" line="83" column="1" bodyfile="Aspose.Words.Cpp/Loading/ResourceType.h" bodystart="84" bodyend="94"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_loading_1ab22ce91e1a7d391cf58c639966af3fdc" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>TxtLeadingSpacesOptions</name>
+        <qualifiedname>Aspose::Words::Loading::TxtLeadingSpacesOptions</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1ab22ce91e1a7d391cf58c639966af3fdcaa30c41e29ca8ee0d5ef9190c40e22b72" prot="public">
+          <name>ConvertToIndent</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1ab22ce91e1a7d391cf58c639966af3fdca1fc5884251ca9f20a4fd5f79a458f94f" prot="public">
+          <name>Trim</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1ab22ce91e1a7d391cf58c639966af3fdca6d2a1af98f2cad1e5ec2dd0a75953919" prot="public">
+          <name>Preserve</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies available options for leading space handling during import from <ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member">Text</ref> file. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to trim whitespace when loading plaintext documents. <programlisting><codeline><highlight class="normal">String<sp/>textDoc<sp/>=<sp/>String(u</highlight><highlight class="stringliteral">&quot;<sp/><sp/><sp/><sp/><sp/><sp/>Line<sp/>1<sp/>\n&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/><sp/><sp/><sp/>Line<sp/>2<sp/><sp/><sp/>\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>Line<sp/>3<sp/><sp/><sp/><sp/><sp/><sp/><sp/>&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;TxtLoadOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>a<sp/>document&apos;s<sp/>constructor</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>load<sp/>a<sp/>plaintext<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>loadOptions<sp/>=<sp/>MakeObject&lt;TxtLoadOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;LeadingSpacesOptions&quot;<sp/>property<sp/>to<sp/>&quot;TxtLeadingSpacesOptions.Preserve&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>preserve<sp/>all<sp/>whitespace<sp/>characters<sp/>at<sp/>the<sp/>start<sp/>of<sp/>every<sp/>line.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;LeadingSpacesOptions&quot;<sp/>property<sp/>to<sp/>&quot;TxtLeadingSpacesOptions.ConvertToIndent&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>remove<sp/>all<sp/>whitespace<sp/>characters<sp/>from<sp/>the<sp/>start<sp/>of<sp/>every<sp/>line,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>apply<sp/>a<sp/>left<sp/>first<sp/>line<sp/>indent<sp/>to<sp/>the<sp/>paragraph<sp/>to<sp/>simulate<sp/>the<sp/>effect<sp/>of<sp/>the<sp/>whitespaces.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;LeadingSpacesOptions&quot;<sp/>property<sp/>to<sp/>&quot;TxtLeadingSpacesOptions.Trim&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>remove<sp/>all<sp/>whitespace<sp/>characters<sp/>from<sp/>every<sp/>line&apos;s<sp/>start.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">loadOptions-&gt;set_LeadingSpacesOptions(txtLeadingSpacesOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;TrailingSpacesOptions&quot;<sp/>property<sp/>to<sp/>&quot;TxtTrailingSpacesOptions.Preserve&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>preserve<sp/>all<sp/>whitespace<sp/>characters<sp/>at<sp/>the<sp/>end<sp/>of<sp/>every<sp/>line.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;TrailingSpacesOptions&quot;<sp/>property<sp/>to<sp/>&quot;TxtTrailingSpacesOptions.Trim&quot;<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>remove<sp/>all<sp/>whitespace<sp/>characters<sp/>from<sp/>the<sp/>end<sp/>of<sp/>every<sp/>line.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">loadOptions-&gt;set_TrailingSpacesOptions(txtTrailingSpacesOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MakeObject&lt;System::IO::MemoryStream&gt;(<ref refid="class/system.text.encoding/_1a95985d0da959aa35a89574de5fb4bfd8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_UTF8</ref>()-&gt;GetBytes(textDoc)),<sp/>loadOptions);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ParagraphCollection&gt;<sp/>paragraphs<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(txtLeadingSpacesOptions)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_loading_1ab22ce91e1a7d391cf58c639966af3fdcaa30c41e29ca8ee0d5ef9190c40e22b72" kindref="member">TxtLeadingSpacesOptions::ConvertToIndent</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(37.8,<sp/>paragraphs-&gt;idx_get(0)-&gt;get_ParagraphFormat()-&gt;get_FirstLineIndent());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(25.2,<sp/>paragraphs-&gt;idx_get(1)-&gt;get_ParagraphFormat()-&gt;get_FirstLineIndent());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(6.3,<sp/>paragraphs-&gt;idx_get(2)-&gt;get_ParagraphFormat()-&gt;get_FirstLineIndent());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(0)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(1)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(2)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_loading_1ab22ce91e1a7d391cf58c639966af3fdca6d2a1af98f2cad1e5ec2dd0a75953919" kindref="member">TxtLeadingSpacesOptions::Preserve</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;LINQ_All([](SharedPtr&lt;Node&gt;<sp/>p)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{<sp/>return<sp/>(System::DynamicCast&lt;Paragraph&gt;(p))-&gt;get_ParagraphFormat()-&gt;get_FirstLineIndent()<sp/>==<sp/>0.0;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(0)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;<sp/><sp/><sp/><sp/><sp/><sp/>Line<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(1)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;<sp/><sp/><sp/><sp/>Line<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(2)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;<sp/>Line<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_loading_1ab22ce91e1a7d391cf58c639966af3fdca1fc5884251ca9f20a4fd5f79a458f94f" kindref="member">TxtLeadingSpacesOptions::Trim</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;LINQ_All([](SharedPtr&lt;Node&gt;<sp/>p)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{<sp/>return<sp/>(System::DynamicCast&lt;Paragraph&gt;(p))-&gt;get_ParagraphFormat()-&gt;get_FirstLineIndent()<sp/>==<sp/>0.0;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(0)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(1)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(2)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(txtTrailingSpacesOptions)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_loading_1a204d1700c395e573597dfe4d94867faca6d2a1af98f2cad1e5ec2dd0a75953919" kindref="member">TxtTrailingSpacesOptions::Preserve</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(0)-&gt;GetText().EndsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>1<sp/>\r&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(1)-&gt;GetText().EndsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>2<sp/><sp/><sp/>\r&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(2)-&gt;GetText().EndsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>3<sp/><sp/><sp/><sp/><sp/><sp/><sp/>\f&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_loading_1a204d1700c395e573597dfe4d94867faca1fc5884251ca9f20a4fd5f79a458f94f" kindref="member">TxtTrailingSpacesOptions::Trim</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(0)-&gt;GetText().EndsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>1\r&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(1)-&gt;GetText().EndsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>2\r&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(2)-&gt;GetText().EndsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>3\f&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/TxtLeadingSpacesOptions.h" line="95" column="1" bodyfile="Aspose.Words.Cpp/Loading/TxtLeadingSpacesOptions.h" bodystart="96" bodyend="100"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_loading_1a204d1700c395e573597dfe4d94867fac" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>TxtTrailingSpacesOptions</name>
+        <qualifiedname>Aspose::Words::Loading::TxtTrailingSpacesOptions</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a204d1700c395e573597dfe4d94867faca1fc5884251ca9f20a4fd5f79a458f94f" prot="public">
+          <name>Trim</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_loading_1a204d1700c395e573597dfe4d94867faca6d2a1af98f2cad1e5ec2dd0a75953919" prot="public">
+          <name>Preserve</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies available options for trailing spaces handling during import from <ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member">Text</ref> file. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to trim whitespace when loading plaintext documents. <programlisting><codeline><highlight class="normal">String<sp/>textDoc<sp/>=<sp/>String(u</highlight><highlight class="stringliteral">&quot;<sp/><sp/><sp/><sp/><sp/><sp/>Line<sp/>1<sp/>\n&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/><sp/><sp/><sp/>Line<sp/>2<sp/><sp/><sp/>\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>Line<sp/>3<sp/><sp/><sp/><sp/><sp/><sp/><sp/>&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;TxtLoadOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>a<sp/>document&apos;s<sp/>constructor</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>load<sp/>a<sp/>plaintext<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>loadOptions<sp/>=<sp/>MakeObject&lt;TxtLoadOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;LeadingSpacesOptions&quot;<sp/>property<sp/>to<sp/>&quot;TxtLeadingSpacesOptions.Preserve&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>preserve<sp/>all<sp/>whitespace<sp/>characters<sp/>at<sp/>the<sp/>start<sp/>of<sp/>every<sp/>line.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;LeadingSpacesOptions&quot;<sp/>property<sp/>to<sp/>&quot;TxtLeadingSpacesOptions.ConvertToIndent&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>remove<sp/>all<sp/>whitespace<sp/>characters<sp/>from<sp/>the<sp/>start<sp/>of<sp/>every<sp/>line,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>apply<sp/>a<sp/>left<sp/>first<sp/>line<sp/>indent<sp/>to<sp/>the<sp/>paragraph<sp/>to<sp/>simulate<sp/>the<sp/>effect<sp/>of<sp/>the<sp/>whitespaces.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;LeadingSpacesOptions&quot;<sp/>property<sp/>to<sp/>&quot;TxtLeadingSpacesOptions.Trim&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>remove<sp/>all<sp/>whitespace<sp/>characters<sp/>from<sp/>every<sp/>line&apos;s<sp/>start.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">loadOptions-&gt;set_LeadingSpacesOptions(txtLeadingSpacesOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;TrailingSpacesOptions&quot;<sp/>property<sp/>to<sp/>&quot;TxtTrailingSpacesOptions.Preserve&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>preserve<sp/>all<sp/>whitespace<sp/>characters<sp/>at<sp/>the<sp/>end<sp/>of<sp/>every<sp/>line.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;TrailingSpacesOptions&quot;<sp/>property<sp/>to<sp/>&quot;TxtTrailingSpacesOptions.Trim&quot;<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>remove<sp/>all<sp/>whitespace<sp/>characters<sp/>from<sp/>the<sp/>end<sp/>of<sp/>every<sp/>line.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">loadOptions-&gt;set_TrailingSpacesOptions(txtTrailingSpacesOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MakeObject&lt;System::IO::MemoryStream&gt;(<ref refid="class/system.text.encoding/_1a95985d0da959aa35a89574de5fb4bfd8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_UTF8</ref>()-&gt;GetBytes(textDoc)),<sp/>loadOptions);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ParagraphCollection&gt;<sp/>paragraphs<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(txtLeadingSpacesOptions)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_loading_1ab22ce91e1a7d391cf58c639966af3fdcaa30c41e29ca8ee0d5ef9190c40e22b72" kindref="member">TxtLeadingSpacesOptions::ConvertToIndent</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(37.8,<sp/>paragraphs-&gt;idx_get(0)-&gt;get_ParagraphFormat()-&gt;get_FirstLineIndent());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(25.2,<sp/>paragraphs-&gt;idx_get(1)-&gt;get_ParagraphFormat()-&gt;get_FirstLineIndent());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(6.3,<sp/>paragraphs-&gt;idx_get(2)-&gt;get_ParagraphFormat()-&gt;get_FirstLineIndent());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(0)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(1)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(2)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_loading_1ab22ce91e1a7d391cf58c639966af3fdca6d2a1af98f2cad1e5ec2dd0a75953919" kindref="member">TxtLeadingSpacesOptions::Preserve</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;LINQ_All([](SharedPtr&lt;Node&gt;<sp/>p)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{<sp/>return<sp/>(System::DynamicCast&lt;Paragraph&gt;(p))-&gt;get_ParagraphFormat()-&gt;get_FirstLineIndent()<sp/>==<sp/>0.0;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(0)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;<sp/><sp/><sp/><sp/><sp/><sp/>Line<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(1)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;<sp/><sp/><sp/><sp/>Line<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(2)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;<sp/>Line<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_loading_1ab22ce91e1a7d391cf58c639966af3fdca1fc5884251ca9f20a4fd5f79a458f94f" kindref="member">TxtLeadingSpacesOptions::Trim</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;LINQ_All([](SharedPtr&lt;Node&gt;<sp/>p)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{<sp/>return<sp/>(System::DynamicCast&lt;Paragraph&gt;(p))-&gt;get_ParagraphFormat()-&gt;get_FirstLineIndent()<sp/>==<sp/>0.0;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(0)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(1)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(2)-&gt;GetText().StartsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(txtTrailingSpacesOptions)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_loading_1a204d1700c395e573597dfe4d94867faca6d2a1af98f2cad1e5ec2dd0a75953919" kindref="member">TxtTrailingSpacesOptions::Preserve</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(0)-&gt;GetText().EndsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>1<sp/>\r&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(1)-&gt;GetText().EndsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>2<sp/><sp/><sp/>\r&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(2)-&gt;GetText().EndsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>3<sp/><sp/><sp/><sp/><sp/><sp/><sp/>\f&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_loading_1a204d1700c395e573597dfe4d94867faca1fc5884251ca9f20a4fd5f79a458f94f" kindref="member">TxtTrailingSpacesOptions::Trim</ref>:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(0)-&gt;GetText().EndsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>1\r&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(1)-&gt;GetText().EndsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>2\r&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(paragraphs-&gt;idx_get(2)-&gt;GetText().EndsWith(u</highlight><highlight class="stringliteral">&quot;Line<sp/>3\f&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/TxtTrailingSpacesOptions.h" line="95" column="1" bodyfile="Aspose.Words.Cpp/Loading/TxtTrailingSpacesOptions.h" bodystart="96" bodyend="99"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>The <bold>Aspose.Words.Loading</bold> namespace provides classes and enumerations that allow to specify additional options when loading documents. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/Document.h" line="89" column="1"/>
+  </compounddef>
+</doxygen>

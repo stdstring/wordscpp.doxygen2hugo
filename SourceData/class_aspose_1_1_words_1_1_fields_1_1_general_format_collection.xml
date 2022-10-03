@@ -1,0 +1,714 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::GeneralFormatCollection</compoundname>
+    <basecompoundref refid="class/system.collections.generic.i_enumerable/" prot="public" virt="non-virtual">System::Collections::Generic::IEnumerable&lt; Aspose::Words::Fields::GeneralFormat &gt;</basecompoundref>
+    <includes refid="_general_format_collection_8h" local="no">Aspose.Words.Cpp/Fields/GeneralFormatCollection.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection_1aa2049f815a8523619ecc431bfa82d38a" prot="private" static="no">
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960" kindref="member">Aspose::Words::Fields::GeneralFormat</ref> &gt;</type>
+        <definition>typedef System::Collections::Generic::IEnumerable&lt;Aspose::Words::Fields::GeneralFormat&gt; Aspose::Words::Fields::GeneralFormatCollection::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::GeneralFormatCollection::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/GeneralFormatCollection.h" line="98" column="55" bodyfile="Aspose.Words.Cpp/Fields/GeneralFormatCollection.h" bodystart="98" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection_1ab88c700e1f4b94593b4dd16ff2ee0620" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection" kindref="compound">GeneralFormatCollection</ref></type>
+        <definition>typedef GeneralFormatCollection Aspose::Words::Fields::GeneralFormatCollection::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::GeneralFormatCollection::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/GeneralFormatCollection.h" line="97" column="37" bodyfile="Aspose.Words.Cpp/Fields/GeneralFormatCollection.h" bodystart="97" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection_1a00e3fa3a9ae2db5132a1207ddcd9c86d" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Fields::GeneralFormatCollection::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::GeneralFormatCollection::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/GeneralFormatCollection.h" line="100" column="37" bodyfile="Aspose.Words.Cpp/Fields/GeneralFormatCollection.h" bodystart="100" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection_1adc48189f4353f42c5bc49e362c10b794" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fields::GeneralFormatCollection::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Fields::GeneralFormatCollection::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/GeneralFormatCollection.h" line="523" column="23" bodyfile="Aspose.Words.Cpp/Fields/GeneralFormatCollection.h" bodystart="523" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection_1a0029c995d0e6bb6dc2be368b1c5b73fb" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Fields::GeneralFormatCollection::~GeneralFormatCollection</definition>
+        <argsstring>()</argsstring>
+        <name>~GeneralFormatCollection</name>
+        <qualifiedname>Aspose::Words::Fields::GeneralFormatCollection::~GeneralFormatCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/GeneralFormatCollection.h" line="519" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection_1ad70cf3ebdce74fa7f6e7c62fa0d28b75" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::GeneralFormatCollection::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::GeneralFormatCollection::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/GeneralFormatCollection.h" line="101" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection_1a3b15732289978318d798509628ac68a7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::GeneralFormatCollection::Add</definition>
+        <argsstring>(Aspose::Words::Fields::GeneralFormat item)</argsstring>
+        <name>Add</name>
+        <qualifiedname>Aspose::Words::Fields::GeneralFormatCollection::Add</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960" kindref="member">Aspose::Words::Fields::GeneralFormat</ref></type>
+          <declname>item</declname>
+        </param>
+        <briefdescription>
+<para>Adds a general format to the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>item</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>A general format.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to format field results. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>a<sp/>document<sp/>builder<sp/>to<sp/>insert<sp/>a<sp/>field<sp/>that<sp/>displays<sp/>a<sp/>result<sp/>with<sp/>no<sp/>format<sp/>applied.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Field&gt;<sp/>field<sp/>=<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;=<sp/>2<sp/>+<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>2<sp/>+<sp/>3&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>apply<sp/>a<sp/>format<sp/>to<sp/>a<sp/>field&apos;s<sp/>result<sp/>using<sp/>the<sp/>field&apos;s<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>types<sp/>of<sp/>formats<sp/>that<sp/>we<sp/>can<sp/>apply<sp/>to<sp/>a<sp/>field&apos;s<sp/>result.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Numeric<sp/>format:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldFormat&gt;<sp/>format<sp/>=<sp/>field-&gt;get_Format();</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;set_NumericFormat(u</highlight><highlight class="stringliteral">&quot;$###.00&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>2<sp/>+<sp/>3<sp/>\\#<sp/>$###.00&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;$<sp/><sp/>5.00&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Date/time<sp/>format:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;DATE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">format<sp/>=<sp/>field-&gt;get_Format();</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;set_DateTimeFormat(u</highlight><highlight class="stringliteral">&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;DATE<sp/>\\@<sp/>\&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy\&quot;&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Today&apos;s<sp/>date,<sp/>in<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>format-&gt;get_DateTimeFormat()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>format:\n\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>field-&gt;get_Result()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>General<sp/>format:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;=<sp/>25<sp/>+<sp/>33&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">format<sp/>=<sp/>field-&gt;get_Format();</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a039ae374b575c2cf4e150c0cc148d9bc" kindref="member" tooltip="Numeric formatting. Lowercase Roman (i, ii, iii, ...).">GeneralFormat::LowercaseRoman</ref>);</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a19de5b94f7b83900d4b296d9fa491aec" kindref="member" tooltip="Text formatting. All letters are uppercase.">GeneralFormat::Upper</ref>);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>0;</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;GeneralFormat&gt;&gt;<sp/>generalFormatEnumerator<sp/>=<sp/>format-&gt;get_GeneralFormats()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(generalFormatEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;General<sp/>format<sp/>index<sp/>{0}:<sp/>{1}&quot;</highlight><highlight class="normal">,<sp/>index++,<sp/>generalFormatEnumerator-&gt;get_Current())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>25<sp/>+<sp/>33<sp/>\\*<sp/>roman<sp/>\\*<sp/>Upper&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;LVIII&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>format-&gt;get_GeneralFormats()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a039ae374b575c2cf4e150c0cc148d9bc" kindref="member" tooltip="Numeric formatting. Lowercase Roman (i, ii, iii, ...).">GeneralFormat::LowercaseRoman</ref>,<sp/>format-&gt;get_GeneralFormats()-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>our<sp/>formats<sp/>to<sp/>revert<sp/>the<sp/>field&apos;s<sp/>result<sp/>to<sp/>its<sp/>original<sp/>form.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;Remove(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a039ae374b575c2cf4e150c0cc148d9bc" kindref="member" tooltip="Numeric formatting. Lowercase Roman (i, ii, iii, ...).">GeneralFormat::LowercaseRoman</ref>);</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;RemoveAt(0);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>format-&gt;get_GeneralFormats()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>25<sp/>+<sp/>33<sp/><sp/>&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;58&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>format-&gt;get_GeneralFormats()-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/GeneralFormatCollection.h" line="241" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection_1a774ac2c6e572797119972f7b20ed48e3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Fields::GeneralFormatCollection::get_Count</definition>
+        <argsstring>()</argsstring>
+        <name>get_Count</name>
+        <qualifiedname>Aspose::Words::Fields::GeneralFormatCollection::get_Count</qualifiedname>
+        <briefdescription>
+<para>Gets the total number of the items in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to format field results. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>a<sp/>document<sp/>builder<sp/>to<sp/>insert<sp/>a<sp/>field<sp/>that<sp/>displays<sp/>a<sp/>result<sp/>with<sp/>no<sp/>format<sp/>applied.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Field&gt;<sp/>field<sp/>=<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;=<sp/>2<sp/>+<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>2<sp/>+<sp/>3&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>apply<sp/>a<sp/>format<sp/>to<sp/>a<sp/>field&apos;s<sp/>result<sp/>using<sp/>the<sp/>field&apos;s<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>types<sp/>of<sp/>formats<sp/>that<sp/>we<sp/>can<sp/>apply<sp/>to<sp/>a<sp/>field&apos;s<sp/>result.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Numeric<sp/>format:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldFormat&gt;<sp/>format<sp/>=<sp/>field-&gt;get_Format();</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;set_NumericFormat(u</highlight><highlight class="stringliteral">&quot;$###.00&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>2<sp/>+<sp/>3<sp/>\\#<sp/>$###.00&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;$<sp/><sp/>5.00&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Date/time<sp/>format:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;DATE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">format<sp/>=<sp/>field-&gt;get_Format();</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;set_DateTimeFormat(u</highlight><highlight class="stringliteral">&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;DATE<sp/>\\@<sp/>\&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy\&quot;&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Today&apos;s<sp/>date,<sp/>in<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>format-&gt;get_DateTimeFormat()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>format:\n\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>field-&gt;get_Result()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>General<sp/>format:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;=<sp/>25<sp/>+<sp/>33&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">format<sp/>=<sp/>field-&gt;get_Format();</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a039ae374b575c2cf4e150c0cc148d9bc" kindref="member" tooltip="Numeric formatting. Lowercase Roman (i, ii, iii, ...).">GeneralFormat::LowercaseRoman</ref>);</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a19de5b94f7b83900d4b296d9fa491aec" kindref="member" tooltip="Text formatting. All letters are uppercase.">GeneralFormat::Upper</ref>);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>0;</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;GeneralFormat&gt;&gt;<sp/>generalFormatEnumerator<sp/>=<sp/>format-&gt;get_GeneralFormats()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(generalFormatEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;General<sp/>format<sp/>index<sp/>{0}:<sp/>{1}&quot;</highlight><highlight class="normal">,<sp/>index++,<sp/>generalFormatEnumerator-&gt;get_Current())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>25<sp/>+<sp/>33<sp/>\\*<sp/>roman<sp/>\\*<sp/>Upper&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;LVIII&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>format-&gt;get_GeneralFormats()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a039ae374b575c2cf4e150c0cc148d9bc" kindref="member" tooltip="Numeric formatting. Lowercase Roman (i, ii, iii, ...).">GeneralFormat::LowercaseRoman</ref>,<sp/>format-&gt;get_GeneralFormats()-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>our<sp/>formats<sp/>to<sp/>revert<sp/>the<sp/>field&apos;s<sp/>result<sp/>to<sp/>its<sp/>original<sp/>form.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;Remove(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a039ae374b575c2cf4e150c0cc148d9bc" kindref="member" tooltip="Numeric formatting. Lowercase Roman (i, ii, iii, ...).">GeneralFormat::LowercaseRoman</ref>);</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;RemoveAt(0);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>format-&gt;get_GeneralFormats()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>25<sp/>+<sp/>33<sp/><sp/>&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;58&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>format-&gt;get_GeneralFormats()-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/GeneralFormatCollection.h" line="172" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection_1a4290c03432210109bda0d24af5650c48" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960" kindref="member">Aspose::Words::Fields::GeneralFormat</ref> &gt; &gt;</type>
+        <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; Aspose::Words::Fields::GeneralFormat &gt; &gt; Aspose::Words::Fields::GeneralFormatCollection::GetEnumerator</definition>
+        <argsstring>() override</argsstring>
+        <name>GetEnumerator</name>
+        <qualifiedname>Aspose::Words::Fields::GeneralFormatCollection::GetEnumerator</qualifiedname>
+        <briefdescription>
+<para>Returns an enumerator object. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to format field results. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>a<sp/>document<sp/>builder<sp/>to<sp/>insert<sp/>a<sp/>field<sp/>that<sp/>displays<sp/>a<sp/>result<sp/>with<sp/>no<sp/>format<sp/>applied.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Field&gt;<sp/>field<sp/>=<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;=<sp/>2<sp/>+<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>2<sp/>+<sp/>3&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>apply<sp/>a<sp/>format<sp/>to<sp/>a<sp/>field&apos;s<sp/>result<sp/>using<sp/>the<sp/>field&apos;s<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>types<sp/>of<sp/>formats<sp/>that<sp/>we<sp/>can<sp/>apply<sp/>to<sp/>a<sp/>field&apos;s<sp/>result.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Numeric<sp/>format:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldFormat&gt;<sp/>format<sp/>=<sp/>field-&gt;get_Format();</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;set_NumericFormat(u</highlight><highlight class="stringliteral">&quot;$###.00&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>2<sp/>+<sp/>3<sp/>\\#<sp/>$###.00&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;$<sp/><sp/>5.00&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Date/time<sp/>format:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;DATE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">format<sp/>=<sp/>field-&gt;get_Format();</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;set_DateTimeFormat(u</highlight><highlight class="stringliteral">&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;DATE<sp/>\\@<sp/>\&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy\&quot;&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Today&apos;s<sp/>date,<sp/>in<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>format-&gt;get_DateTimeFormat()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>format:\n\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>field-&gt;get_Result()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>General<sp/>format:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;=<sp/>25<sp/>+<sp/>33&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">format<sp/>=<sp/>field-&gt;get_Format();</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a039ae374b575c2cf4e150c0cc148d9bc" kindref="member" tooltip="Numeric formatting. Lowercase Roman (i, ii, iii, ...).">GeneralFormat::LowercaseRoman</ref>);</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a19de5b94f7b83900d4b296d9fa491aec" kindref="member" tooltip="Text formatting. All letters are uppercase.">GeneralFormat::Upper</ref>);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>0;</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;GeneralFormat&gt;&gt;<sp/>generalFormatEnumerator<sp/>=<sp/>format-&gt;get_GeneralFormats()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(generalFormatEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;General<sp/>format<sp/>index<sp/>{0}:<sp/>{1}&quot;</highlight><highlight class="normal">,<sp/>index++,<sp/>generalFormatEnumerator-&gt;get_Current())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>25<sp/>+<sp/>33<sp/>\\*<sp/>roman<sp/>\\*<sp/>Upper&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;LVIII&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>format-&gt;get_GeneralFormats()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a039ae374b575c2cf4e150c0cc148d9bc" kindref="member" tooltip="Numeric formatting. Lowercase Roman (i, ii, iii, ...).">GeneralFormat::LowercaseRoman</ref>,<sp/>format-&gt;get_GeneralFormats()-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>our<sp/>formats<sp/>to<sp/>revert<sp/>the<sp/>field&apos;s<sp/>result<sp/>to<sp/>its<sp/>original<sp/>form.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;Remove(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a039ae374b575c2cf4e150c0cc148d9bc" kindref="member" tooltip="Numeric formatting. Lowercase Roman (i, ii, iii, ...).">GeneralFormat::LowercaseRoman</ref>);</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;RemoveAt(0);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>format-&gt;get_GeneralFormats()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>25<sp/>+<sp/>33<sp/><sp/>&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;58&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>format-&gt;get_GeneralFormats()-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/GeneralFormatCollection.h" line="515" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection_1ad784fcb5db00db96f13b626950e39b27" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960" kindref="member">Aspose::Words::Fields::GeneralFormat</ref></type>
+        <definition>Aspose::Words::Fields::GeneralFormat Aspose::Words::Fields::GeneralFormatCollection::idx_get</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>idx_get</name>
+        <qualifiedname>Aspose::Words::Fields::GeneralFormatCollection::idx_get</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Gets a general format at the specified index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>index</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The index of a general format.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>A general format.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to format field results. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>a<sp/>document<sp/>builder<sp/>to<sp/>insert<sp/>a<sp/>field<sp/>that<sp/>displays<sp/>a<sp/>result<sp/>with<sp/>no<sp/>format<sp/>applied.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Field&gt;<sp/>field<sp/>=<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;=<sp/>2<sp/>+<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>2<sp/>+<sp/>3&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>apply<sp/>a<sp/>format<sp/>to<sp/>a<sp/>field&apos;s<sp/>result<sp/>using<sp/>the<sp/>field&apos;s<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>types<sp/>of<sp/>formats<sp/>that<sp/>we<sp/>can<sp/>apply<sp/>to<sp/>a<sp/>field&apos;s<sp/>result.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Numeric<sp/>format:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldFormat&gt;<sp/>format<sp/>=<sp/>field-&gt;get_Format();</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;set_NumericFormat(u</highlight><highlight class="stringliteral">&quot;$###.00&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>2<sp/>+<sp/>3<sp/>\\#<sp/>$###.00&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;$<sp/><sp/>5.00&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Date/time<sp/>format:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;DATE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">format<sp/>=<sp/>field-&gt;get_Format();</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;set_DateTimeFormat(u</highlight><highlight class="stringliteral">&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;DATE<sp/>\\@<sp/>\&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy\&quot;&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Today&apos;s<sp/>date,<sp/>in<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>format-&gt;get_DateTimeFormat()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>format:\n\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>field-&gt;get_Result()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>General<sp/>format:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;=<sp/>25<sp/>+<sp/>33&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">format<sp/>=<sp/>field-&gt;get_Format();</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a039ae374b575c2cf4e150c0cc148d9bc" kindref="member" tooltip="Numeric formatting. Lowercase Roman (i, ii, iii, ...).">GeneralFormat::LowercaseRoman</ref>);</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a19de5b94f7b83900d4b296d9fa491aec" kindref="member" tooltip="Text formatting. All letters are uppercase.">GeneralFormat::Upper</ref>);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>0;</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;GeneralFormat&gt;&gt;<sp/>generalFormatEnumerator<sp/>=<sp/>format-&gt;get_GeneralFormats()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(generalFormatEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;General<sp/>format<sp/>index<sp/>{0}:<sp/>{1}&quot;</highlight><highlight class="normal">,<sp/>index++,<sp/>generalFormatEnumerator-&gt;get_Current())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>25<sp/>+<sp/>33<sp/>\\*<sp/>roman<sp/>\\*<sp/>Upper&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;LVIII&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>format-&gt;get_GeneralFormats()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a039ae374b575c2cf4e150c0cc148d9bc" kindref="member" tooltip="Numeric formatting. Lowercase Roman (i, ii, iii, ...).">GeneralFormat::LowercaseRoman</ref>,<sp/>format-&gt;get_GeneralFormats()-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>our<sp/>formats<sp/>to<sp/>revert<sp/>the<sp/>field&apos;s<sp/>result<sp/>to<sp/>its<sp/>original<sp/>form.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;Remove(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a039ae374b575c2cf4e150c0cc148d9bc" kindref="member" tooltip="Numeric formatting. Lowercase Roman (i, ii, iii, ...).">GeneralFormat::LowercaseRoman</ref>);</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;RemoveAt(0);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>format-&gt;get_GeneralFormats()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>25<sp/>+<sp/>33<sp/><sp/>&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;58&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>format-&gt;get_GeneralFormats()-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/GeneralFormatCollection.h" line="448" column="45"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection_1ad6845dee6e4bb420dec4523ab0c80188" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::GeneralFormatCollection::Remove</definition>
+        <argsstring>(Aspose::Words::Fields::GeneralFormat item)</argsstring>
+        <name>Remove</name>
+        <qualifiedname>Aspose::Words::Fields::GeneralFormatCollection::Remove</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960" kindref="member">Aspose::Words::Fields::GeneralFormat</ref></type>
+          <declname>item</declname>
+        </param>
+        <briefdescription>
+<para>Removes all occurrences of the specified general format from the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>item</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>A general format.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to format field results. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>a<sp/>document<sp/>builder<sp/>to<sp/>insert<sp/>a<sp/>field<sp/>that<sp/>displays<sp/>a<sp/>result<sp/>with<sp/>no<sp/>format<sp/>applied.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Field&gt;<sp/>field<sp/>=<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;=<sp/>2<sp/>+<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>2<sp/>+<sp/>3&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>apply<sp/>a<sp/>format<sp/>to<sp/>a<sp/>field&apos;s<sp/>result<sp/>using<sp/>the<sp/>field&apos;s<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>types<sp/>of<sp/>formats<sp/>that<sp/>we<sp/>can<sp/>apply<sp/>to<sp/>a<sp/>field&apos;s<sp/>result.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Numeric<sp/>format:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldFormat&gt;<sp/>format<sp/>=<sp/>field-&gt;get_Format();</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;set_NumericFormat(u</highlight><highlight class="stringliteral">&quot;$###.00&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>2<sp/>+<sp/>3<sp/>\\#<sp/>$###.00&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;$<sp/><sp/>5.00&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Date/time<sp/>format:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;DATE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">format<sp/>=<sp/>field-&gt;get_Format();</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;set_DateTimeFormat(u</highlight><highlight class="stringliteral">&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;DATE<sp/>\\@<sp/>\&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy\&quot;&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Today&apos;s<sp/>date,<sp/>in<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>format-&gt;get_DateTimeFormat()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>format:\n\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>field-&gt;get_Result()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>General<sp/>format:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;=<sp/>25<sp/>+<sp/>33&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">format<sp/>=<sp/>field-&gt;get_Format();</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a039ae374b575c2cf4e150c0cc148d9bc" kindref="member" tooltip="Numeric formatting. Lowercase Roman (i, ii, iii, ...).">GeneralFormat::LowercaseRoman</ref>);</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a19de5b94f7b83900d4b296d9fa491aec" kindref="member" tooltip="Text formatting. All letters are uppercase.">GeneralFormat::Upper</ref>);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>0;</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;GeneralFormat&gt;&gt;<sp/>generalFormatEnumerator<sp/>=<sp/>format-&gt;get_GeneralFormats()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(generalFormatEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;General<sp/>format<sp/>index<sp/>{0}:<sp/>{1}&quot;</highlight><highlight class="normal">,<sp/>index++,<sp/>generalFormatEnumerator-&gt;get_Current())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>25<sp/>+<sp/>33<sp/>\\*<sp/>roman<sp/>\\*<sp/>Upper&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;LVIII&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>format-&gt;get_GeneralFormats()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a039ae374b575c2cf4e150c0cc148d9bc" kindref="member" tooltip="Numeric formatting. Lowercase Roman (i, ii, iii, ...).">GeneralFormat::LowercaseRoman</ref>,<sp/>format-&gt;get_GeneralFormats()-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>our<sp/>formats<sp/>to<sp/>revert<sp/>the<sp/>field&apos;s<sp/>result<sp/>to<sp/>its<sp/>original<sp/>form.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;Remove(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a039ae374b575c2cf4e150c0cc148d9bc" kindref="member" tooltip="Numeric formatting. Lowercase Roman (i, ii, iii, ...).">GeneralFormat::LowercaseRoman</ref>);</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;RemoveAt(0);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>format-&gt;get_GeneralFormats()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>25<sp/>+<sp/>33<sp/><sp/>&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;58&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>format-&gt;get_GeneralFormats()-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/GeneralFormatCollection.h" line="310" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection_1af72de55b759574d4288575a38191ff8c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::GeneralFormatCollection::RemoveAt</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>RemoveAt</name>
+        <qualifiedname>Aspose::Words::Fields::GeneralFormatCollection::RemoveAt</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Removes a general format occurrence at the specified index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to format field results. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>a<sp/>document<sp/>builder<sp/>to<sp/>insert<sp/>a<sp/>field<sp/>that<sp/>displays<sp/>a<sp/>result<sp/>with<sp/>no<sp/>format<sp/>applied.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Field&gt;<sp/>field<sp/>=<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;=<sp/>2<sp/>+<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>2<sp/>+<sp/>3&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>apply<sp/>a<sp/>format<sp/>to<sp/>a<sp/>field&apos;s<sp/>result<sp/>using<sp/>the<sp/>field&apos;s<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>types<sp/>of<sp/>formats<sp/>that<sp/>we<sp/>can<sp/>apply<sp/>to<sp/>a<sp/>field&apos;s<sp/>result.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Numeric<sp/>format:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldFormat&gt;<sp/>format<sp/>=<sp/>field-&gt;get_Format();</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;set_NumericFormat(u</highlight><highlight class="stringliteral">&quot;$###.00&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>2<sp/>+<sp/>3<sp/>\\#<sp/>$###.00&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;$<sp/><sp/>5.00&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Date/time<sp/>format:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;DATE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">format<sp/>=<sp/>field-&gt;get_Format();</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;set_DateTimeFormat(u</highlight><highlight class="stringliteral">&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;DATE<sp/>\\@<sp/>\&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy\&quot;&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Today&apos;s<sp/>date,<sp/>in<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>format-&gt;get_DateTimeFormat()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>format:\n\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>field-&gt;get_Result()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>General<sp/>format:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;=<sp/>25<sp/>+<sp/>33&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">format<sp/>=<sp/>field-&gt;get_Format();</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a039ae374b575c2cf4e150c0cc148d9bc" kindref="member" tooltip="Numeric formatting. Lowercase Roman (i, ii, iii, ...).">GeneralFormat::LowercaseRoman</ref>);</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a19de5b94f7b83900d4b296d9fa491aec" kindref="member" tooltip="Text formatting. All letters are uppercase.">GeneralFormat::Upper</ref>);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>0;</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;GeneralFormat&gt;&gt;<sp/>generalFormatEnumerator<sp/>=<sp/>format-&gt;get_GeneralFormats()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(generalFormatEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;General<sp/>format<sp/>index<sp/>{0}:<sp/>{1}&quot;</highlight><highlight class="normal">,<sp/>index++,<sp/>generalFormatEnumerator-&gt;get_Current())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>25<sp/>+<sp/>33<sp/>\\*<sp/>roman<sp/>\\*<sp/>Upper&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;LVIII&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>format-&gt;get_GeneralFormats()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a039ae374b575c2cf4e150c0cc148d9bc" kindref="member" tooltip="Numeric formatting. Lowercase Roman (i, ii, iii, ...).">GeneralFormat::LowercaseRoman</ref>,<sp/>format-&gt;get_GeneralFormats()-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>our<sp/>formats<sp/>to<sp/>revert<sp/>the<sp/>field&apos;s<sp/>result<sp/>to<sp/>its<sp/>original<sp/>form.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;Remove(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a039ae374b575c2cf4e150c0cc148d9bc" kindref="member" tooltip="Numeric formatting. Lowercase Roman (i, ii, iii, ...).">GeneralFormat::LowercaseRoman</ref>);</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;RemoveAt(0);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>format-&gt;get_GeneralFormats()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>25<sp/>+<sp/>33<sp/><sp/>&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;58&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>format-&gt;get_GeneralFormats()-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/GeneralFormatCollection.h" line="377" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents a typed collection of general formats. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to format field results. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>a<sp/>document<sp/>builder<sp/>to<sp/>insert<sp/>a<sp/>field<sp/>that<sp/>displays<sp/>a<sp/>result<sp/>with<sp/>no<sp/>format<sp/>applied.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Field&gt;<sp/>field<sp/>=<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;=<sp/>2<sp/>+<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>2<sp/>+<sp/>3&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>apply<sp/>a<sp/>format<sp/>to<sp/>a<sp/>field&apos;s<sp/>result<sp/>using<sp/>the<sp/>field&apos;s<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>types<sp/>of<sp/>formats<sp/>that<sp/>we<sp/>can<sp/>apply<sp/>to<sp/>a<sp/>field&apos;s<sp/>result.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Numeric<sp/>format:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldFormat&gt;<sp/>format<sp/>=<sp/>field-&gt;get_Format();</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;set_NumericFormat(u</highlight><highlight class="stringliteral">&quot;$###.00&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>2<sp/>+<sp/>3<sp/>\\#<sp/>$###.00&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;$<sp/><sp/>5.00&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Date/time<sp/>format:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;DATE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">format<sp/>=<sp/>field-&gt;get_Format();</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;set_DateTimeFormat(u</highlight><highlight class="stringliteral">&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;DATE<sp/>\\@<sp/>\&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy\&quot;&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Today&apos;s<sp/>date,<sp/>in<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>format-&gt;get_DateTimeFormat()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>format:\n\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>field-&gt;get_Result()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>General<sp/>format:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;=<sp/>25<sp/>+<sp/>33&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">format<sp/>=<sp/>field-&gt;get_Format();</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a039ae374b575c2cf4e150c0cc148d9bc" kindref="member" tooltip="Numeric formatting. Lowercase Roman (i, ii, iii, ...).">GeneralFormat::LowercaseRoman</ref>);</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a19de5b94f7b83900d4b296d9fa491aec" kindref="member" tooltip="Text formatting. All letters are uppercase.">GeneralFormat::Upper</ref>);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>0;</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;GeneralFormat&gt;&gt;<sp/>generalFormatEnumerator<sp/>=<sp/>format-&gt;get_GeneralFormats()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(generalFormatEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;General<sp/>format<sp/>index<sp/>{0}:<sp/>{1}&quot;</highlight><highlight class="normal">,<sp/>index++,<sp/>generalFormatEnumerator-&gt;get_Current())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>25<sp/>+<sp/>33<sp/>\\*<sp/>roman<sp/>\\*<sp/>Upper&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;LVIII&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>format-&gt;get_GeneralFormats()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a039ae374b575c2cf4e150c0cc148d9bc" kindref="member" tooltip="Numeric formatting. Lowercase Roman (i, ii, iii, ...).">GeneralFormat::LowercaseRoman</ref>,<sp/>format-&gt;get_GeneralFormats()-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>our<sp/>formats<sp/>to<sp/>revert<sp/>the<sp/>field&apos;s<sp/>result<sp/>to<sp/>its<sp/>original<sp/>form.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;Remove(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a039ae374b575c2cf4e150c0cc148d9bc" kindref="member" tooltip="Numeric formatting. Lowercase Roman (i, ii, iii, ...).">GeneralFormat::LowercaseRoman</ref>);</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;RemoveAt(0);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>format-&gt;get_GeneralFormats()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>25<sp/>+<sp/>33<sp/><sp/>&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;58&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>format-&gt;get_GeneralFormats()-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Fields::GeneralFormatCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; Aspose::Words::Fields::GeneralFormat &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Fields::GeneralFormatCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; Aspose::Words::Fields::GeneralFormat &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/GeneralFormatCollection.h" line="95" column="1" bodyfile="Aspose.Words.Cpp/Fields/GeneralFormatCollection.h" bodystart="96" bodyend="525"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection_1a3b15732289978318d798509628ac68a7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::GeneralFormatCollection</scope><name>Add</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection_1aa2049f815a8523619ecc431bfa82d38a" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::GeneralFormatCollection</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection_1a774ac2c6e572797119972f7b20ed48e3" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::GeneralFormatCollection</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection_1a4290c03432210109bda0d24af5650c48" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::GeneralFormatCollection</scope><name>GetEnumerator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection_1ad784fcb5db00db96f13b626950e39b27" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::GeneralFormatCollection</scope><name>idx_get</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection_1adc48189f4353f42c5bc49e362c10b794" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::GeneralFormatCollection</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection_1ad6845dee6e4bb420dec4523ab0c80188" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::GeneralFormatCollection</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection_1af72de55b759574d4288575a38191ff8c" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::GeneralFormatCollection</scope><name>RemoveAt</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection_1ad70cf3ebdce74fa7f6e7c62fa0d28b75" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::GeneralFormatCollection</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection_1ab88c700e1f4b94593b4dd16ff2ee0620" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::GeneralFormatCollection</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection_1a00e3fa3a9ae2db5132a1207ddcd9c86d" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::GeneralFormatCollection</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection_1a0029c995d0e6bb6dc2be368b1c5b73fb" prot="private" virt="virtual"><scope>Aspose::Words::Fields::GeneralFormatCollection</scope><name>~GeneralFormatCollection</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,675 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_node_importer" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::NodeImporter</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_node_importer_8h" local="no">Aspose.Words.Cpp/NodeImporter.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_node_importer_1af99bf77ce5b0da6b460068d58d799966" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::NodeImporter::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::NodeImporter::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeImporter.h" line="152" column="28" bodyfile="Aspose.Words.Cpp/NodeImporter.h" bodystart="152" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_node_importer_1ae952cd1242358db25a2d145d64ea5bfb" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_node_importer" kindref="compound">NodeImporter</ref></type>
+        <definition>typedef NodeImporter Aspose::Words::NodeImporter::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::NodeImporter::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeImporter.h" line="151" column="26" bodyfile="Aspose.Words.Cpp/NodeImporter.h" bodystart="151" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_node_importer_1a1d7a1b64b9b4eefb8bcd8d19113db9aa" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::NodeImporter::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::NodeImporter::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeImporter.h" line="154" column="37" bodyfile="Aspose.Words.Cpp/NodeImporter.h" bodystart="154" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_node_importer_1a7b0cae8eaca5d9d2d4f61ef53eb968b3" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::NodeImporter::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::NodeImporter::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeImporter.h" line="386" column="23" bodyfile="Aspose.Words.Cpp/NodeImporter.h" bodystart="386" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_node_importer_1af766bc12a445b8cb4cf5e95195900658" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::NodeImporter::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::NodeImporter::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeImporter.h" line="387" column="23" bodyfile="Aspose.Words.Cpp/NodeImporter.h" bodystart="387" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_node_importer_1a52c32d0e7acc934ceb6cd03c0cab9f61" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::NodeImporter::mField10</definition>
+        <argsstring></argsstring>
+        <name>mField10</name>
+        <qualifiedname>Aspose::Words::NodeImporter::mField10</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeImporter.h" line="397" column="23" bodyfile="Aspose.Words.Cpp/NodeImporter.h" bodystart="397" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_node_importer_1ac9894b28dff578590d7374d9d7cca6b1" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::NodeImporter::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::NodeImporter::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeImporter.h" line="388" column="23" bodyfile="Aspose.Words.Cpp/NodeImporter.h" bodystart="388" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_node_importer_1a734809c1f3707260247025b644d14422" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::NodeImporter::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::NodeImporter::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeImporter.h" line="389" column="23" bodyfile="Aspose.Words.Cpp/NodeImporter.h" bodystart="389" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_node_importer_1a0c26e7ff47858abe3e3fef8cd9f1ed7c" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::NodeImporter::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::NodeImporter::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeImporter.h" line="390" column="23" bodyfile="Aspose.Words.Cpp/NodeImporter.h" bodystart="390" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_node_importer_1a0cc01a1ff9038bcbcf3c4fe6f3adee1a" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::NodeImporter::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::NodeImporter::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeImporter.h" line="391" column="23" bodyfile="Aspose.Words.Cpp/NodeImporter.h" bodystart="391" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_node_importer_1aac0d3da9ddbe499804fada864d19a47b" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::NodeImporter::mField6</definition>
+        <argsstring></argsstring>
+        <name>mField6</name>
+        <qualifiedname>Aspose::Words::NodeImporter::mField6</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeImporter.h" line="392" column="23" bodyfile="Aspose.Words.Cpp/NodeImporter.h" bodystart="392" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_node_importer_1a7885c654a51d35bef1718ad303b9f139" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::NodeImporter::mField7</definition>
+        <argsstring></argsstring>
+        <name>mField7</name>
+        <qualifiedname>Aspose::Words::NodeImporter::mField7</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeImporter.h" line="393" column="23" bodyfile="Aspose.Words.Cpp/NodeImporter.h" bodystart="393" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_node_importer_1a7b36d2628d5cb2fb2f43fab5235e362c" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::NodeImporter::mField8</definition>
+        <argsstring></argsstring>
+        <name>mField8</name>
+        <qualifiedname>Aspose::Words::NodeImporter::mField8</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeImporter.h" line="395" column="23" bodyfile="Aspose.Words.Cpp/NodeImporter.h" bodystart="395" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_node_importer_1a079fad6e3d1c91f95fb35660fa53f358" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::NodeImporter::mField9</definition>
+        <argsstring></argsstring>
+        <name>mField9</name>
+        <qualifiedname>Aspose::Words::NodeImporter::mField9</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeImporter.h" line="396" column="23" bodyfile="Aspose.Words.Cpp/NodeImporter.h" bodystart="396" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_node_importer_1a8084ad9310b513d8cc5c16907cec2e6b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::NodeImporter::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::NodeImporter::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeImporter.h" line="155" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_node_importer_1a6e65e5586bf05105e28929f12165c244" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::NodeImporter::NodeImporter</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::DocumentBase &gt; &amp;srcDoc, const System::SharedPtr&lt; Aspose::Words::DocumentBase &gt; &amp;dstDoc, Aspose::Words::ImportFormatMode importFormatMode)</argsstring>
+        <name>NodeImporter</name>
+        <qualifiedname>Aspose::Words::NodeImporter::NodeImporter</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">Aspose::Words::DocumentBase</ref> &gt; &amp;</type>
+          <declname>srcDoc</declname>
+        </param>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">Aspose::Words::DocumentBase</ref> &gt; &amp;</type>
+          <declname>dstDoc</declname>
+        </param>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1aafaa52cbf0baa49c3225787c23a8c949" kindref="member">Aspose::Words::ImportFormatMode</ref></type>
+          <declname>importFormatMode</declname>
+        </param>
+        <briefdescription>
+<para>Initializes a new instance of the <ref refid="class_aspose_1_1_words_1_1_node_importer" kindref="compound">NodeImporter</ref> class. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>srcDoc</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The source document. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>dstDoc</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The destination document that will be the owner of imported nodes. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>importFormatMode</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Specifies how to merge style formatting that clashes.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert the contents of one document to a bookmark in another document. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertAtBookmark()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;InsertionPoint&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;We<sp/>will<sp/>insert<sp/>a<sp/>document<sp/>here:<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;InsertionPoint&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>docToInsert<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(docToInsert);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>docToInsert-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;NodeImporter.InsertAtMergeField.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Bookmark&gt;<sp/>bookmark<sp/>=<sp/>doc-&gt;get_Range()-&gt;get_Bookmarks()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;InsertionPoint&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertDocument(bookmark-&gt;get_BookmarkStart()-&gt;get_ParentNode(),<sp/>docToInsert);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;We<sp/>will<sp/>insert<sp/>a<sp/>document<sp/>here:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\rHello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertDocument(SharedPtr&lt;Node&gt;<sp/>insertionDestination,<sp/>SharedPtr&lt;Document&gt;<sp/>docToInsert)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(insertionDestination-&gt;get_NodeType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref><sp/>||<sp/>insertionDestination-&gt;get_NodeType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="A Table object that represents a table in a Word document. A Table node can have Row nodes.">NodeType::Table</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;CompositeNode&gt;<sp/>destinationParent<sp/>=<sp/>insertionDestination-&gt;get_ParentNode();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>importer<sp/>=<sp/>MakeObject&lt;NodeImporter&gt;(docToInsert,<sp/>insertionDestination-&gt;get_Document(),<sp/><ref refid="namespace_aspose_1_1_words_1aafaa52cbf0baa49c3225787c23a8c949a4cf454c612a2ed0c3ee75ac5175497c3" kindref="member" tooltip="Copy all required styles to the destination document, generate unique style names if needed.">ImportFormatMode::KeepSourceFormatting</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Loop<sp/>through<sp/>all<sp/>block-level<sp/>nodes<sp/>in<sp/>the<sp/>section&apos;s<sp/>body,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>then<sp/>clone<sp/>and<sp/>insert<sp/>every<sp/>node<sp/>that<sp/>is<sp/>not<sp/>the<sp/>last<sp/>empty<sp/>paragraph<sp/>of<sp/>a<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>srcSection<sp/>:<sp/>System::IterateOver(docToInsert-&gt;get_Sections()-&gt;LINQ_OfType&lt;SharedPtr&lt;Section&gt;&gt;()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>srcNode<sp/>:<sp/>System::IterateOver(srcSection-&gt;get_Body()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(srcNode-&gt;get_NodeType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>para<sp/>=<sp/>System::DynamicCast&lt;Paragraph&gt;(srcNode);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(para-&gt;get_IsEndOfSection()<sp/>&amp;&amp;<sp/>!para-&gt;get_HasChildNodes())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">continue</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;Node&gt;<sp/>newNode<sp/>=<sp/>importer-&gt;ImportNode(srcNode,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>destinationParent-&gt;InsertAfter(newNode,<sp/>insertionDestination);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>insertionDestination<sp/>=<sp/>newNode;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">throw</highlight><highlight class="normal"><sp/>System::ArgumentException(u</highlight><highlight class="stringliteral">&quot;The<sp/>destination<sp/>node<sp/>should<sp/>be<sp/>either<sp/>a<sp/>paragraph<sp/>or<sp/>table.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeImporter.h" line="230" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_node_importer_1ac1e0798b5621f62ca88c62727dac7fa1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::NodeImporter::NodeImporter</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::DocumentBase &gt; &amp;srcDoc, const System::SharedPtr&lt; Aspose::Words::DocumentBase &gt; &amp;dstDoc, Aspose::Words::ImportFormatMode importFormatMode, const System::SharedPtr&lt; Aspose::Words::ImportFormatOptions &gt; &amp;importFormatOptions)</argsstring>
+        <name>NodeImporter</name>
+        <qualifiedname>Aspose::Words::NodeImporter::NodeImporter</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">Aspose::Words::DocumentBase</ref> &gt; &amp;</type>
+          <declname>srcDoc</declname>
+        </param>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">Aspose::Words::DocumentBase</ref> &gt; &amp;</type>
+          <declname>dstDoc</declname>
+        </param>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1aafaa52cbf0baa49c3225787c23a8c949" kindref="member">Aspose::Words::ImportFormatMode</ref></type>
+          <declname>importFormatMode</declname>
+        </param>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_import_format_options" kindref="compound">Aspose::Words::ImportFormatOptions</ref> &gt; &amp;</type>
+          <declname>importFormatOptions</declname>
+        </param>
+        <briefdescription>
+<para>Initializes a new instance of the <ref refid="class_aspose_1_1_words_1_1_node_importer" kindref="compound">NodeImporter</ref> class. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>srcDoc</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The source document. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>dstDoc</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The destination document that will be the owner of imported nodes. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>importFormatMode</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Specifies how to merge style formatting that clashes. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>importFormatOptions</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Specifies various options to format imported node.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how resolve a clash when importing documents that have lists with the same list definition identifier. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>srcDoc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;List<sp/>with<sp/>the<sp/>same<sp/>definition<sp/>identifier<sp/>-<sp/>source.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>dstDoc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;List<sp/>with<sp/>the<sp/>same<sp/>definition<sp/>identifier<sp/>-<sp/>destination.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;KeepSourceNumbering&quot;<sp/>property<sp/>to<sp/>&quot;true&quot;<sp/>to<sp/>apply<sp/>a<sp/>different<sp/>list<sp/>definition<sp/>ID</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>identical<sp/>styles<sp/>as<sp/>Aspose.Words<sp/>imports<sp/>them<sp/>into<sp/>destination<sp/>documents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>importFormatOptions<sp/>=<sp/>MakeObject&lt;ImportFormatOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">importFormatOptions-&gt;set_KeepSourceNumbering(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dstDoc-&gt;AppendDocument(srcDoc,<sp/><ref refid="namespace_aspose_1_1_words_1aafaa52cbf0baa49c3225787c23a8c949a844c076860bdab3f22de3694b97ed388" kindref="member" tooltip="Use the destination document styles and copy new styles. This is the default option.">ImportFormatMode::UseDestinationStyles</ref>,<sp/>importFormatOptions);</highlight></codeline>
+<codeline><highlight class="normal">dstDoc-&gt;UpdateListLabels();</highlight></codeline>
+</programlisting></para>
+<para>Shows how to resolve list numbering clashes in source and destination documents. <programlisting><codeline><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>with<sp/>a<sp/>custom<sp/>list<sp/>numbering<sp/>scheme,<sp/>and<sp/>then<sp/>clone<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Since<sp/>both<sp/>have<sp/>the<sp/>same<sp/>numbering<sp/>format,<sp/>the<sp/>formats<sp/>will<sp/>clash<sp/>if<sp/>we<sp/>import<sp/>one<sp/>document<sp/>into<sp/>the<sp/>other.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>srcDoc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Custom<sp/>list<sp/>numbering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Document&gt;<sp/>dstDoc<sp/>=<sp/>srcDoc-&gt;Clone();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>import<sp/>the<sp/>document&apos;s<sp/>clone<sp/>into<sp/>the<sp/>original<sp/>and<sp/>then<sp/>append<sp/>it,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>then<sp/>the<sp/>two<sp/>lists<sp/>with<sp/>the<sp/>same<sp/>list<sp/>format<sp/>will<sp/>join.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>set<sp/>the<sp/>&quot;KeepSourceNumbering&quot;<sp/>flag<sp/>to<sp/>&quot;false&quot;,<sp/>then<sp/>the<sp/>list<sp/>from<sp/>the<sp/>document<sp/>clone</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>that<sp/>we<sp/>append<sp/>to<sp/>the<sp/>original<sp/>will<sp/>carry<sp/>on<sp/>the<sp/>numbering<sp/>of<sp/>the<sp/>list<sp/>we<sp/>append<sp/>it<sp/>to.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>will<sp/>effectively<sp/>merge<sp/>the<sp/>two<sp/>lists<sp/>into<sp/>one.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>set<sp/>the<sp/>&quot;KeepSourceNumbering&quot;<sp/>flag<sp/>to<sp/>&quot;true&quot;,<sp/>then<sp/>the<sp/>document<sp/>clone</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>list<sp/>will<sp/>preserve<sp/>its<sp/>original<sp/>numbering,<sp/>making<sp/>the<sp/>two<sp/>lists<sp/>appear<sp/>as<sp/>separate<sp/>lists.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>importFormatOptions<sp/>=<sp/>MakeObject&lt;ImportFormatOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">importFormatOptions-&gt;set_KeepSourceNumbering(keepSourceNumbering);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>importer<sp/>=<sp/>MakeObject&lt;NodeImporter&gt;(srcDoc,<sp/>dstDoc,<sp/><ref refid="namespace_aspose_1_1_words_1aafaa52cbf0baa49c3225787c23a8c949a02f5deab9b6eebb660679b3f779b57c2" kindref="member" tooltip="Only copy styles that are different from those in the source document.">ImportFormatMode::KeepDifferentStyles</ref>,<sp/>importFormatOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>paragraph<sp/>:<sp/>System::IterateOver&lt;Paragraph&gt;(srcDoc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Node&gt;<sp/>importedNode<sp/>=<sp/>importer-&gt;ImportNode(paragraph,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>dstDoc-&gt;get_FirstSection()-&gt;get_Body()-&gt;AppendChild(importedNode);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dstDoc-&gt;UpdateListLabels();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(keepSourceNumbering)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;6.<sp/>Item<sp/>1\r\n&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;7.<sp/>Item<sp/>2<sp/>\r\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;8.<sp/>Item<sp/>3\r\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;9.<sp/>Item<sp/>4\r\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;6.<sp/>Item<sp/>1\r\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;7.<sp/>Item<sp/>2<sp/>\r\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;8.<sp/>Item<sp/>3\r\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;9.<sp/>Item<sp/>4&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>dstDoc-&gt;get_FirstSection()-&gt;get_Body()-&gt;ToString(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Saves the document in the plain text format.">SaveFormat::Text</ref>).Trim());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;6.<sp/>Item<sp/>1\r\n&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;7.<sp/>Item<sp/>2<sp/>\r\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;8.<sp/>Item<sp/>3\r\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;9.<sp/>Item<sp/>4\r\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;10.<sp/>Item<sp/>1\r\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;11.<sp/>Item<sp/>2<sp/>\r\n&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;12.<sp/>Item<sp/>3\r\n&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;13.<sp/>Item<sp/>4&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>dstDoc-&gt;get_FirstSection()-&gt;get_Body()-&gt;ToString(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Saves the document in the plain text format.">SaveFormat::Text</ref>).Trim());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeImporter.h" line="294" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_node_importer_1a8eb515956912a8002bbf73a53f0c0280" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Node &gt; Aspose::Words::NodeImporter::ImportNode</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Node &gt; &amp;srcNode, bool isImportChildren)</argsstring>
+        <name>ImportNode</name>
+        <qualifiedname>Aspose::Words::NodeImporter::ImportNode</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
+          <declname>srcNode</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>isImportChildren</declname>
+        </param>
+        <briefdescription>
+<para>Imports a node from one document into another. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Importing a node creates a copy of the source node belonging to the importing document. The returned node has no parent. The source node is not altered or removed from the original document.</para>
+<para>Before a node from another document can be inserted into this document, it must be imported. During import, document-specific properties such as references to styles and lists are translated from the original to the importing document. After the node was imported, it can be inserted into the appropriate place in the document using <ref refid="" kindref="compound">InsertBefore()</ref> or <ref refid="" kindref="compound">InsertAfter()</ref>.</para>
+<para>If the source node already belongs to the destination document, then simply a deep clone of the source node is created.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>srcNode</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The node to import. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>isImportChildren</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>True to import all child nodes recursively; otherwise, false.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The cloned, imported node. The node belongs to the destination document, but has no parent.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert the contents of one document to a bookmark in another document. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertAtBookmark()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;InsertionPoint&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;We<sp/>will<sp/>insert<sp/>a<sp/>document<sp/>here:<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;InsertionPoint&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>docToInsert<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(docToInsert);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>docToInsert-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;NodeImporter.InsertAtMergeField.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Bookmark&gt;<sp/>bookmark<sp/>=<sp/>doc-&gt;get_Range()-&gt;get_Bookmarks()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;InsertionPoint&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertDocument(bookmark-&gt;get_BookmarkStart()-&gt;get_ParentNode(),<sp/>docToInsert);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;We<sp/>will<sp/>insert<sp/>a<sp/>document<sp/>here:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\rHello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertDocument(SharedPtr&lt;Node&gt;<sp/>insertionDestination,<sp/>SharedPtr&lt;Document&gt;<sp/>docToInsert)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(insertionDestination-&gt;get_NodeType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref><sp/>||<sp/>insertionDestination-&gt;get_NodeType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="A Table object that represents a table in a Word document. A Table node can have Row nodes.">NodeType::Table</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;CompositeNode&gt;<sp/>destinationParent<sp/>=<sp/>insertionDestination-&gt;get_ParentNode();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>importer<sp/>=<sp/>MakeObject&lt;NodeImporter&gt;(docToInsert,<sp/>insertionDestination-&gt;get_Document(),<sp/><ref refid="namespace_aspose_1_1_words_1aafaa52cbf0baa49c3225787c23a8c949a4cf454c612a2ed0c3ee75ac5175497c3" kindref="member" tooltip="Copy all required styles to the destination document, generate unique style names if needed.">ImportFormatMode::KeepSourceFormatting</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Loop<sp/>through<sp/>all<sp/>block-level<sp/>nodes<sp/>in<sp/>the<sp/>section&apos;s<sp/>body,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>then<sp/>clone<sp/>and<sp/>insert<sp/>every<sp/>node<sp/>that<sp/>is<sp/>not<sp/>the<sp/>last<sp/>empty<sp/>paragraph<sp/>of<sp/>a<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>srcSection<sp/>:<sp/>System::IterateOver(docToInsert-&gt;get_Sections()-&gt;LINQ_OfType&lt;SharedPtr&lt;Section&gt;&gt;()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>srcNode<sp/>:<sp/>System::IterateOver(srcSection-&gt;get_Body()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(srcNode-&gt;get_NodeType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>para<sp/>=<sp/>System::DynamicCast&lt;Paragraph&gt;(srcNode);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(para-&gt;get_IsEndOfSection()<sp/>&amp;&amp;<sp/>!para-&gt;get_HasChildNodes())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">continue</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;Node&gt;<sp/>newNode<sp/>=<sp/>importer-&gt;ImportNode(srcNode,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>destinationParent-&gt;InsertAfter(newNode,<sp/>insertionDestination);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>insertionDestination<sp/>=<sp/>newNode;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">throw</highlight><highlight class="normal"><sp/>System::ArgumentException(u</highlight><highlight class="stringliteral">&quot;The<sp/>destination<sp/>node<sp/>should<sp/>be<sp/>either<sp/>a<sp/>paragraph<sp/>or<sp/>table.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/NodeImporter.h" line="380" column="26"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Allows to efficiently perform repeated import of nodes from one document to another. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>Aspose.Words provides functionality for easy copying and moving fragments between Microsoft Word documents. This is known as &quot;importing nodes&quot;. Before you can insert a fragment from one document into another, you need to &quot;import&quot; it. Importing creates a deep clone of the original node, ready to be inserted into the destination document.</para>
+<para>The simplest way to import a node is to use the <ref refid="" kindref="compound">ImportNode()</ref> method provided by the <ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">DocumentBase</ref> object.</para>
+<para>However, when you need to import nodes from one document to another multiple times, it is better to use the <ref refid="class_aspose_1_1_words_1_1_node_importer" kindref="compound">NodeImporter</ref> class. The <ref refid="class_aspose_1_1_words_1_1_node_importer" kindref="compound">NodeImporter</ref> class allows to minimize the number of styles and lists created in the destination document.</para>
+<para>Copying or moving fragments from one Microsoft Word document to another presents a number of technical challenges for Aspose.Words. In a Word document, styles and list formatting are stored centrally, separately from the text of the document. The paragraphs and runs of text merely reference the styles by internal unique identifiers.</para>
+<para>The challenges arise from the fact that styles and lists are different in different documents. For example, to copy a paragraph formatted with the Heading 1 style from one document to another, a number of things must be taken into account: decide whether to copy the Heading 1 style from the source document to the destination document, clone the paragraph, update the cloned paragraph so it refers to the correct Heading 1 style in the destination document. If the style had to be copied, all the styles that it references (based on style and next paragraph style) should be analyzed and possibly copied too and so on. Similar issues exist when copying bulleted or numbered paragraphs because Microsoft Word stores list definitions separately from text.</para>
+<para>The <ref refid="class_aspose_1_1_words_1_1_node_importer" kindref="compound">NodeImporter</ref> class is like a context, that holds the &quot;translation tables&quot; during the import. It correctly translates between styles and lists in the source and destination documents.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Aspose::Words::Document</ref> </para>
+</simplesect>
+<simplesect kind="see"><para>Aspose::Words::DocumentBase::ImportNode(System::SharedPtr&lt;Aspose::Words::Node&gt;, bool)</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert the contents of one document to a bookmark in another document. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertAtBookmark()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;InsertionPoint&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;We<sp/>will<sp/>insert<sp/>a<sp/>document<sp/>here:<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;InsertionPoint&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>docToInsert<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(docToInsert);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>docToInsert-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;NodeImporter.InsertAtMergeField.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Bookmark&gt;<sp/>bookmark<sp/>=<sp/>doc-&gt;get_Range()-&gt;get_Bookmarks()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;InsertionPoint&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertDocument(bookmark-&gt;get_BookmarkStart()-&gt;get_ParentNode(),<sp/>docToInsert);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;We<sp/>will<sp/>insert<sp/>a<sp/>document<sp/>here:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\rHello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertDocument(SharedPtr&lt;Node&gt;<sp/>insertionDestination,<sp/>SharedPtr&lt;Document&gt;<sp/>docToInsert)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(insertionDestination-&gt;get_NodeType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref><sp/>||<sp/>insertionDestination-&gt;get_NodeType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="A Table object that represents a table in a Word document. A Table node can have Row nodes.">NodeType::Table</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;CompositeNode&gt;<sp/>destinationParent<sp/>=<sp/>insertionDestination-&gt;get_ParentNode();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>importer<sp/>=<sp/>MakeObject&lt;NodeImporter&gt;(docToInsert,<sp/>insertionDestination-&gt;get_Document(),<sp/><ref refid="namespace_aspose_1_1_words_1aafaa52cbf0baa49c3225787c23a8c949a4cf454c612a2ed0c3ee75ac5175497c3" kindref="member" tooltip="Copy all required styles to the destination document, generate unique style names if needed.">ImportFormatMode::KeepSourceFormatting</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Loop<sp/>through<sp/>all<sp/>block-level<sp/>nodes<sp/>in<sp/>the<sp/>section&apos;s<sp/>body,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>then<sp/>clone<sp/>and<sp/>insert<sp/>every<sp/>node<sp/>that<sp/>is<sp/>not<sp/>the<sp/>last<sp/>empty<sp/>paragraph<sp/>of<sp/>a<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>srcSection<sp/>:<sp/>System::IterateOver(docToInsert-&gt;get_Sections()-&gt;LINQ_OfType&lt;SharedPtr&lt;Section&gt;&gt;()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>srcNode<sp/>:<sp/>System::IterateOver(srcSection-&gt;get_Body()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(srcNode-&gt;get_NodeType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>para<sp/>=<sp/>System::DynamicCast&lt;Paragraph&gt;(srcNode);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(para-&gt;get_IsEndOfSection()<sp/>&amp;&amp;<sp/>!para-&gt;get_HasChildNodes())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">continue</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;Node&gt;<sp/>newNode<sp/>=<sp/>importer-&gt;ImportNode(srcNode,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>destinationParent-&gt;InsertAfter(newNode,<sp/>insertionDestination);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>insertionDestination<sp/>=<sp/>newNode;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">throw</highlight><highlight class="normal"><sp/>System::ArgumentException(u</highlight><highlight class="stringliteral">&quot;The<sp/>destination<sp/>node<sp/>should<sp/>be<sp/>either<sp/>a<sp/>paragraph<sp/>or<sp/>table.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::NodeImporter</label>
+        <link refid="class_aspose_1_1_words_1_1_node_importer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::NodeImporter</label>
+        <link refid="class_aspose_1_1_words_1_1_node_importer"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/NodeImporter.h" line="149" column="1" bodyfile="Aspose.Words.Cpp/NodeImporter.h" bodystart="150" bodyend="399"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_node_importer_1af99bf77ce5b0da6b460068d58d799966" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeImporter</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_importer_1a8eb515956912a8002bbf73a53f0c0280" prot="public" virt="non-virtual"><scope>Aspose::Words::NodeImporter</scope><name>ImportNode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_importer_1a7b0cae8eaca5d9d2d4f61ef53eb968b3" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeImporter</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_importer_1af766bc12a445b8cb4cf5e95195900658" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeImporter</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_importer_1a52c32d0e7acc934ceb6cd03c0cab9f61" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeImporter</scope><name>mField10</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_importer_1ac9894b28dff578590d7374d9d7cca6b1" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeImporter</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_importer_1a734809c1f3707260247025b644d14422" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeImporter</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_importer_1a0c26e7ff47858abe3e3fef8cd9f1ed7c" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeImporter</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_importer_1a0cc01a1ff9038bcbcf3c4fe6f3adee1a" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeImporter</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_importer_1aac0d3da9ddbe499804fada864d19a47b" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeImporter</scope><name>mField6</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_importer_1a7885c654a51d35bef1718ad303b9f139" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeImporter</scope><name>mField7</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_importer_1a7b36d2628d5cb2fb2f43fab5235e362c" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeImporter</scope><name>mField8</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_importer_1a079fad6e3d1c91f95fb35660fa53f358" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeImporter</scope><name>mField9</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_importer_1a6e65e5586bf05105e28929f12165c244" prot="public" virt="non-virtual"><scope>Aspose::Words::NodeImporter</scope><name>NodeImporter</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_importer_1ac1e0798b5621f62ca88c62727dac7fa1" prot="public" virt="non-virtual"><scope>Aspose::Words::NodeImporter</scope><name>NodeImporter</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_importer_1a8084ad9310b513d8cc5c16907cec2e6b" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeImporter</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_importer_1ae952cd1242358db25a2d145d64ea5bfb" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeImporter</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_importer_1a1d7a1b64b9b4eefb8bcd8d19113db9aa" prot="private" virt="non-virtual"><scope>Aspose::Words::NodeImporter</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

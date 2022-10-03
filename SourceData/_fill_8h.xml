@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="_fill_8h" kind="file" language="C++">
+    <compoundname>Fill.h</compoundname>
+    <includes local="no">system/array.h</includes>
+    <includes local="no">cstdint</includes>
+    <includes refid="_texture_alignment_8h" local="no">Aspose.Words.Cpp/Drawing/TextureAlignment.h</includes>
+    <includes refid="_preset_texture_8h" local="no">Aspose.Words.Cpp/Drawing/PresetTexture.h</includes>
+    <includes refid="_pattern_type_8h" local="no">Aspose.Words.Cpp/Drawing/PatternType.h</includes>
+    <includes refid="_gradient_variant_8h" local="no">Aspose.Words.Cpp/Drawing/GradientVariant.h</includes>
+    <includes refid="_gradient_style_8h" local="no">Aspose.Words.Cpp/Drawing/GradientStyle.h</includes>
+    <includes refid="_fill_type_8h" local="no">Aspose.Words.Cpp/Drawing/FillType.h</includes>
+    <includes refid="aspose__words__api__defs_8h" local="no">Aspose.Words.Cpp/aspose_words_api_defs.h</includes>
+    <incdepgraph>
+      <node id="1">
+        <label>Aspose.Words.Cpp/Drawing/Fill.h</label>
+        <link refid="_fill_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+        <childnode refid="9" relation="include">
+        </childnode>
+        <childnode refid="10" relation="include">
+        </childnode>
+        <childnode refid="11" relation="include">
+        </childnode>
+        <childnode refid="12" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="12">
+        <label>Aspose.Words.Cpp/Drawing/FillType.h</label>
+        <link refid="_fill_type_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="11">
+        <label>Aspose.Words.Cpp/Drawing/GradientStyle.h</label>
+        <link refid="_gradient_style_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="10">
+        <label>Aspose.Words.Cpp/Drawing/GradientVariant.h</label>
+        <link refid="_gradient_variant_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="9">
+        <label>Aspose.Words.Cpp/Drawing/PatternType.h</label>
+        <link refid="_pattern_type_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>Aspose.Words.Cpp/Drawing/PresetTexture.h</label>
+        <link refid="_preset_texture_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose.Words.Cpp/Drawing/TextureAlignment.h</label>
+        <link refid="_texture_alignment_8h_source"/>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>Aspose.Words.Cpp/aspose_words_api_defs.h</label>
+        <link refid="aspose__words__api__defs_8h_source"/>
+      </node>
+      <node id="3">
+        <label>cstdint</label>
+      </node>
+      <node id="2">
+        <label>system/array.h</label>
+      </node>
+      <node id="6">
+        <label>system/enum.h</label>
+      </node>
+      <node id="5">
+        <label>system/object_ext.h</label>
+      </node>
+    </incdepgraph>
+    <innerclass refid="class_aspose_1_1_words_1_1_drawing_1_1_fill" prot="public">Aspose::Words::Drawing::Fill</innerclass>
+    <innernamespace refid="namespace_aspose">Aspose</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words">Aspose::Words</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words_1_1_drawing">Aspose::Words::Drawing</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/Drawing/Fill.h"/>
+  </compounddef>
+</doxygen>

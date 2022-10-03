@@ -1,0 +1,424 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Drawing::HorizontalRuleFormat</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_horizontal_rule_format_8h" local="no">Aspose.Words.Cpp/Drawing/HorizontalRuleFormat.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a590950c14b25ddcac1e212871db65181" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Drawing::HorizontalRuleFormat::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Drawing::HorizontalRuleFormat::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/HorizontalRuleFormat.h" line="53" column="28" bodyfile="Aspose.Words.Cpp/Drawing/HorizontalRuleFormat.h" bodystart="53" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a23c077fdca89777ca4232e44f99050e8" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format" kindref="compound">HorizontalRuleFormat</ref></type>
+        <definition>typedef HorizontalRuleFormat Aspose::Words::Drawing::HorizontalRuleFormat::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Drawing::HorizontalRuleFormat::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/HorizontalRuleFormat.h" line="52" column="34" bodyfile="Aspose.Words.Cpp/Drawing/HorizontalRuleFormat.h" bodystart="52" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a21470a5a4a6a2af5584f53b856007015" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Drawing::HorizontalRuleFormat::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Drawing::HorizontalRuleFormat::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/HorizontalRuleFormat.h" line="55" column="37" bodyfile="Aspose.Words.Cpp/Drawing/HorizontalRuleFormat.h" bodystart="55" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1aa61ffbb1f16c57c87cbb6f187d529486" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::Drawing::HorizontalRuleFormat::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Drawing::HorizontalRuleFormat::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/HorizontalRuleFormat.h" line="213" column="21" bodyfile="Aspose.Words.Cpp/Drawing/HorizontalRuleFormat.h" bodystart="213" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1ace82268ceb41d1d5b745d5006ef4ab46" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Drawing::HorizontalRuleFormat::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Drawing::HorizontalRuleFormat::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/HorizontalRuleFormat.h" line="56" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a0ce57769c66e0e76cbca57b2fef60840" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a325d40317fef89d527e8b5f62e3c192d" kindref="member">Aspose::Words::Drawing::HorizontalRuleAlignment</ref></type>
+        <definition>Aspose::Words::Drawing::HorizontalRuleAlignment Aspose::Words::Drawing::HorizontalRuleFormat::get_Alignment</definition>
+        <argsstring>()</argsstring>
+        <name>get_Alignment</name>
+        <qualifiedname>Aspose::Words::Drawing::HorizontalRuleFormat::get_Alignment</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the alignment of the horizontal rule. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The default value is <ref refid="namespace_aspose_1_1_words_1_1_drawing_1a325d40317fef89d527e8b5f62e3c192da945d5e233cf7d6240f6b783b36a374ff" kindref="member">Left</ref>.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a horizontal rule shape, and customize its formatting. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertHorizontalRule();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;HorizontalRuleFormat&gt;<sp/>horizontalRuleFormat<sp/>=<sp/>shape-&gt;get_HorizontalRuleFormat();</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a325d40317fef89d527e8b5f62e3c192da4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Aligned to the center.">HorizontalRuleAlignment::Center</ref>);</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_WidthPercent(70);</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Height(3);</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_NoShade(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(shape-&gt;get_IsHorizontalRule());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(shape-&gt;get_HorizontalRuleFormat()-&gt;get_NoShade());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/HorizontalRuleFormat.h" line="204" column="56"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a5256ec37950478ae4c88a24b8eadb310" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+        <definition>System::Drawing::Color Aspose::Words::Drawing::HorizontalRuleFormat::get_Color</definition>
+        <argsstring>()</argsstring>
+        <name>get_Color</name>
+        <qualifiedname>Aspose::Words::Drawing::HorizontalRuleFormat::get_Color</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the brush color that fills the horizontal rule. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This is a shortcut to the <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_fill_1a6d1d463852126769d752b89f97f1a6c7" kindref="member">Color</ref> property.</para>
+<para>The default value is <ref refid="class/system.drawing.color/_1aa9f270d5e00c371d120b993cc715551c" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">Gray</ref>.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a horizontal rule shape, and customize its formatting. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertHorizontalRule();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;HorizontalRuleFormat&gt;<sp/>horizontalRuleFormat<sp/>=<sp/>shape-&gt;get_HorizontalRuleFormat();</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a325d40317fef89d527e8b5f62e3c192da4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Aligned to the center.">HorizontalRuleAlignment::Center</ref>);</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_WidthPercent(70);</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Height(3);</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_NoShade(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(shape-&gt;get_IsHorizontalRule());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(shape-&gt;get_HorizontalRuleFormat()-&gt;get_NoShade());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/HorizontalRuleFormat.h" line="177" column="31"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1aca16771712c8483e76801045ad982c40" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::Drawing::HorizontalRuleFormat::get_Height</definition>
+        <argsstring>()</argsstring>
+        <name>get_Height</name>
+        <qualifiedname>Aspose::Words::Drawing::HorizontalRuleFormat::get_Height</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the height of the horizontal rule. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This is a shortcut to the <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a710f9f6525e90536ae70bb7e7088358c" kindref="member">Height</ref> property.</para>
+<para>Valid values ​​range from 0 to 1584 inclusive.</para>
+<para>The default value is 1.5.</para>
+<para><parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System::ArgumentOutOfRangeException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Throws when argument was out of the range of valid values.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a horizontal rule shape, and customize its formatting. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertHorizontalRule();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;HorizontalRuleFormat&gt;<sp/>horizontalRuleFormat<sp/>=<sp/>shape-&gt;get_HorizontalRuleFormat();</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a325d40317fef89d527e8b5f62e3c192da4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Aligned to the center.">HorizontalRuleAlignment::Center</ref>);</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_WidthPercent(70);</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Height(3);</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_NoShade(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(shape-&gt;get_IsHorizontalRule());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(shape-&gt;get_HorizontalRuleFormat()-&gt;get_NoShade());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/HorizontalRuleFormat.h" line="119" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a44b07e56a33256b9dae225982a1802a1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Drawing::HorizontalRuleFormat::get_NoShade</definition>
+        <argsstring>()</argsstring>
+        <name>get_NoShade</name>
+        <qualifiedname>Aspose::Words::Drawing::HorizontalRuleFormat::get_NoShade</qualifiedname>
+        <briefdescription>
+<para>Indicates the presence of 3D shading for the horizontal rule. If true, then the horizontal rule is without 3D shading and solid color is used. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The default value is false.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a horizontal rule shape, and customize its formatting. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertHorizontalRule();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;HorizontalRuleFormat&gt;<sp/>horizontalRuleFormat<sp/>=<sp/>shape-&gt;get_HorizontalRuleFormat();</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a325d40317fef89d527e8b5f62e3c192da4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Aligned to the center.">HorizontalRuleAlignment::Center</ref>);</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_WidthPercent(70);</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Height(3);</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_NoShade(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(shape-&gt;get_IsHorizontalRule());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(shape-&gt;get_HorizontalRuleFormat()-&gt;get_NoShade());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/HorizontalRuleFormat.h" line="147" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a3208f8ffa7e1cc4e4651b13480402554" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::Drawing::HorizontalRuleFormat::get_WidthPercent</definition>
+        <argsstring>()</argsstring>
+        <name>get_WidthPercent</name>
+        <qualifiedname>Aspose::Words::Drawing::HorizontalRuleFormat::get_WidthPercent</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the length of the specified horizontal rule expressed as a percentage of the window width. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Valid values ​​range from 1 to 100 inclusive.</para>
+<para>The default value is 100.</para>
+<para><parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System::ArgumentOutOfRangeException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Throws when argument was out of the range of valid values.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a horizontal rule shape, and customize its formatting. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertHorizontalRule();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;HorizontalRuleFormat&gt;<sp/>horizontalRuleFormat<sp/>=<sp/>shape-&gt;get_HorizontalRuleFormat();</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a325d40317fef89d527e8b5f62e3c192da4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Aligned to the center.">HorizontalRuleAlignment::Center</ref>);</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_WidthPercent(70);</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Height(3);</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_NoShade(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(shape-&gt;get_IsHorizontalRule());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(shape-&gt;get_HorizontalRuleFormat()-&gt;get_NoShade());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/HorizontalRuleFormat.h" line="86" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a97e2337ccb74170089842771b540b7a5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::HorizontalRuleFormat::set_Alignment</definition>
+        <argsstring>(Aspose::Words::Drawing::HorizontalRuleAlignment value)</argsstring>
+        <name>set_Alignment</name>
+        <qualifiedname>Aspose::Words::Drawing::HorizontalRuleFormat::set_Alignment</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a325d40317fef89d527e8b5f62e3c192d" kindref="member">Aspose::Words::Drawing::HorizontalRuleAlignment</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a0ce57769c66e0e76cbca57b2fef60840" kindref="member">Aspose::Words::Drawing::HorizontalRuleFormat::get_Alignment</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/HorizontalRuleFormat.h" line="207" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a904da606fab1e78ba808184f58449101" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::HorizontalRuleFormat::set_Color</definition>
+        <argsstring>(System::Drawing::Color value)</argsstring>
+        <name>set_Color</name>
+        <qualifiedname>Aspose::Words::Drawing::HorizontalRuleFormat::set_Color</qualifiedname>
+        <param>
+          <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a5256ec37950478ae4c88a24b8eadb310" kindref="member">Aspose::Words::Drawing::HorizontalRuleFormat::get_Color</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/HorizontalRuleFormat.h" line="180" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a6c5016371cb724eb7f5995fdb90fb685" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::HorizontalRuleFormat::set_Height</definition>
+        <argsstring>(double value)</argsstring>
+        <name>set_Height</name>
+        <qualifiedname>Aspose::Words::Drawing::HorizontalRuleFormat::set_Height</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1aca16771712c8483e76801045ad982c40" kindref="member">Aspose::Words::Drawing::HorizontalRuleFormat::get_Height</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/HorizontalRuleFormat.h" line="122" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a8a6b687373e2cf6e59632905e99dc3e3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::HorizontalRuleFormat::set_NoShade</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_NoShade</name>
+        <qualifiedname>Aspose::Words::Drawing::HorizontalRuleFormat::set_NoShade</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a44b07e56a33256b9dae225982a1802a1" kindref="member">Aspose::Words::Drawing::HorizontalRuleFormat::get_NoShade</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/HorizontalRuleFormat.h" line="150" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a680af3bf58fb66d7b2e726e53e23c7c1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::HorizontalRuleFormat::set_WidthPercent</definition>
+        <argsstring>(double value)</argsstring>
+        <name>set_WidthPercent</name>
+        <qualifiedname>Aspose::Words::Drawing::HorizontalRuleFormat::set_WidthPercent</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a3208f8ffa7e1cc4e4651b13480402554" kindref="member">Aspose::Words::Drawing::HorizontalRuleFormat::get_WidthPercent</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/HorizontalRuleFormat.h" line="89" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents horizontal rule formatting. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a horizontal rule shape, and customize its formatting. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertHorizontalRule();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;HorizontalRuleFormat&gt;<sp/>horizontalRuleFormat<sp/>=<sp/>shape-&gt;get_HorizontalRuleFormat();</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a325d40317fef89d527e8b5f62e3c192da4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Aligned to the center.">HorizontalRuleAlignment::Center</ref>);</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_WidthPercent(70);</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Height(3);</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">horizontalRuleFormat-&gt;set_NoShade(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(shape-&gt;get_IsHorizontalRule());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(shape-&gt;get_HorizontalRuleFormat()-&gt;get_NoShade());</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Drawing::HorizontalRuleFormat</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Drawing::HorizontalRuleFormat</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Drawing/HorizontalRuleFormat.h" line="50" column="1" bodyfile="Aspose.Words.Cpp/Drawing/HorizontalRuleFormat.h" bodystart="51" bodyend="215"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a590950c14b25ddcac1e212871db65181" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::HorizontalRuleFormat</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a0ce57769c66e0e76cbca57b2fef60840" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::HorizontalRuleFormat</scope><name>get_Alignment</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a5256ec37950478ae4c88a24b8eadb310" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::HorizontalRuleFormat</scope><name>get_Color</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1aca16771712c8483e76801045ad982c40" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::HorizontalRuleFormat</scope><name>get_Height</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a44b07e56a33256b9dae225982a1802a1" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::HorizontalRuleFormat</scope><name>get_NoShade</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a3208f8ffa7e1cc4e4651b13480402554" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::HorizontalRuleFormat</scope><name>get_WidthPercent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1aa61ffbb1f16c57c87cbb6f187d529486" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::HorizontalRuleFormat</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1ace82268ceb41d1d5b745d5006ef4ab46" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::HorizontalRuleFormat</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a97e2337ccb74170089842771b540b7a5" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::HorizontalRuleFormat</scope><name>set_Alignment</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a904da606fab1e78ba808184f58449101" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::HorizontalRuleFormat</scope><name>set_Color</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a6c5016371cb724eb7f5995fdb90fb685" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::HorizontalRuleFormat</scope><name>set_Height</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a8a6b687373e2cf6e59632905e99dc3e3" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::HorizontalRuleFormat</scope><name>set_NoShade</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a680af3bf58fb66d7b2e726e53e23c7c1" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::HorizontalRuleFormat</scope><name>set_WidthPercent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a23c077fdca89777ca4232e44f99050e8" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::HorizontalRuleFormat</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_horizontal_rule_format_1a21470a5a4a6a2af5584f53b856007015" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::HorizontalRuleFormat</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

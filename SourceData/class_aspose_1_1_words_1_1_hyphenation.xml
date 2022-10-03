@@ -1,0 +1,708 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_hyphenation" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Hyphenation</compoundname>
+    <includes refid="_hyphenation_8h" local="no">Aspose.Words.Cpp/Hyphenation.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_hyphenation_1a8608905ba8b92f594889a537a975e07e" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_hyphenation" kindref="compound">Hyphenation</ref></type>
+        <definition>typedef Hyphenation Aspose::Words::Hyphenation::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Hyphenation::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Hyphenation.h" line="115" column="25" bodyfile="Aspose.Words.Cpp/Hyphenation.h" bodystart="115" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_hyphenation_1ad52623249651c0ee0ab691931cc931a5" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_i_hyphenation_callback" kindref="compound">Aspose::Words::IHyphenationCallback</ref> &gt;</type>
+        <definition>static System::SharedPtr&lt; Aspose::Words::IHyphenationCallback &gt; Aspose::Words::Hyphenation::get_Callback</definition>
+        <argsstring>()</argsstring>
+        <name>get_Callback</name>
+        <qualifiedname>Aspose::Words::Hyphenation::get_Callback</qualifiedname>
+        <briefdescription>
+<para>Gets or sets callback interface used to request dictionaries when page layout of the document is built. This allows delay loading of dictionaries which may be useful when processing documents in many languages. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to open and register a dictionary from a file. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_hyphenation_1aa872f107aa67a1dd4a04a9f9cfff018b" kindref="member" tooltip="Registers and loads a hyphenation dictionary for the specified language from a stream....">RegisterDictionary</ref>()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>up<sp/>a<sp/>callback<sp/>that<sp/>tracks<sp/>warnings<sp/>that<sp/>occur<sp/>during<sp/>hyphenation<sp/>dictionary<sp/>registration.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>warningInfoCollection<sp/>=<sp/>MakeObject&lt;WarningInfoCollection&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_hyphenation_1a0b0259636882abbaeedb230db06f36ed" kindref="member" tooltip="Setter for Aspose::Words::Hyphenation::get_WarningCallback.">Hyphenation::set_WarningCallback</ref>(warningInfoCollection);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Register<sp/>an<sp/>English<sp/>(US)<sp/>hyphenation<sp/>dictionary<sp/>by<sp/>stream.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::Stream&gt;<sp/>dictionaryStream<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;hyph_en_US.dic&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Open);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_hyphenation_1aa872f107aa67a1dd4a04a9f9cfff018b" kindref="member" tooltip="Registers and loads a hyphenation dictionary for the specified language from a stream....">Hyphenation::RegisterDictionary</ref>(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">,<sp/>dictionaryStream);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(0,<sp/>warningInfoCollection-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>with<sp/>a<sp/>locale<sp/>that<sp/>Microsoft<sp/>Word<sp/>may<sp/>not<sp/>hyphenate<sp/>on<sp/>an<sp/>English<sp/>machine,<sp/>such<sp/>as<sp/>German.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;German<sp/>text.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>To<sp/>hyphenate<sp/>that<sp/>document<sp/>upon<sp/>saving,<sp/>we<sp/>need<sp/>a<sp/>hyphenation<sp/>dictionary<sp/>for<sp/>the<sp/>&quot;de-CH&quot;<sp/>language<sp/>code.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>callback<sp/>will<sp/>handle<sp/>the<sp/>automatic<sp/>request<sp/>for<sp/>that<sp/>dictionary.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_hyphenation_1a4a4e884a28752c7b277dbb6ab121a601" kindref="member" tooltip="Setter for Aspose::Words::Hyphenation::get_Callback.">Hyphenation::set_Callback</ref>(MakeObject&lt;ExHyphenation::CustomHyphenationDictionaryRegister&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>save<sp/>the<sp/>document,<sp/>German<sp/>hyphenation<sp/>will<sp/>take<sp/>effect.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Hyphenation.RegisterDictionary.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>dictionary<sp/>contains<sp/>two<sp/>identical<sp/>patterns,<sp/>which<sp/>will<sp/>trigger<sp/>a<sp/>warning.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(1,<sp/>warningInfoCollection-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a1c629c0b794b98e0d49bcaf2746f58d9a3bb648b63d3b0dadb5e06c5d8cffea99" kindref="member" tooltip="Generic minor formatting loss, no specific code.">WarningType::MinorFormattingLoss</ref>,<sp/>warningInfoCollection-&gt;idx_get(0)-&gt;get_WarningType());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1ae78cf72acefc2cbe63016b04f8f44e7caebd9bec4d70abc789d439c1f136b0538" kindref="member" tooltip="Module that builds a document layout.">WarningSource::Layout</ref>,<sp/>warningInfoCollection-&gt;idx_get(0)-&gt;get_Source());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Hyphenation<sp/>dictionary<sp/>contains<sp/>duplicate<sp/>patterns.<sp/>The<sp/>only<sp/>first<sp/>found<sp/>pattern<sp/>will<sp/>be<sp/>used.<sp/>&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;Content<sp/>can<sp/>be<sp/>wrapped<sp/>differently.&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>warningInfoCollection-&gt;idx_get(0)-&gt;get_Description());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">CustomHyphenationDictionaryRegister<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IHyphenationCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>CustomHyphenationDictionaryRegister()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mHyphenationDictionaryFiles<sp/>=<sp/>MakeObject&lt;System::Collections::Generic::Dictionary&lt;String,<sp/>String&gt;&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mHyphenationDictionaryFiles-&gt;Add(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;hyph_en_US.dic&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mHyphenationDictionaryFiles-&gt;Add(u</highlight><highlight class="stringliteral">&quot;de-CH&quot;</highlight><highlight class="normal">,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;hyph_de_CH.dic&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>RequestDictionary(String<sp/>language)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Hyphenation<sp/>dictionary<sp/>requested:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>language);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(Hyphenation::IsDictionaryRegistered(language))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>is<sp/>already<sp/>registered.&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(mHyphenationDictionaryFiles-&gt;ContainsKey(language))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>Hyphenation::RegisterDictionary(language,<sp/>mHyphenationDictionaryFiles-&gt;idx_get(language));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>successfully<sp/>registered.&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>no<sp/>respective<sp/>dictionary<sp/>file<sp/>known<sp/>by<sp/>this<sp/>Callback.&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::Dictionary&lt;String,<sp/>String&gt;&gt;<sp/>mHyphenationDictionaryFiles;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Hyphenation.h" line="194" column="33"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_hyphenation_1a25640c3f46e9cd177cb8c4b5c3e82098" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_i_warning_callback" kindref="compound">Aspose::Words::IWarningCallback</ref> &gt;</type>
+        <definition>static System::SharedPtr&lt; Aspose::Words::IWarningCallback &gt; Aspose::Words::Hyphenation::get_WarningCallback</definition>
+        <argsstring>()</argsstring>
+        <name>get_WarningCallback</name>
+        <qualifiedname>Aspose::Words::Hyphenation::get_WarningCallback</qualifiedname>
+        <briefdescription>
+<para>Called during a load hyphenation patterns, when an issue is detected that might result in formatting fidelity loss. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to open and register a dictionary from a file. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_hyphenation_1aa872f107aa67a1dd4a04a9f9cfff018b" kindref="member" tooltip="Registers and loads a hyphenation dictionary for the specified language from a stream....">RegisterDictionary</ref>()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>up<sp/>a<sp/>callback<sp/>that<sp/>tracks<sp/>warnings<sp/>that<sp/>occur<sp/>during<sp/>hyphenation<sp/>dictionary<sp/>registration.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>warningInfoCollection<sp/>=<sp/>MakeObject&lt;WarningInfoCollection&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_hyphenation_1a0b0259636882abbaeedb230db06f36ed" kindref="member" tooltip="Setter for Aspose::Words::Hyphenation::get_WarningCallback.">Hyphenation::set_WarningCallback</ref>(warningInfoCollection);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Register<sp/>an<sp/>English<sp/>(US)<sp/>hyphenation<sp/>dictionary<sp/>by<sp/>stream.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::Stream&gt;<sp/>dictionaryStream<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;hyph_en_US.dic&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Open);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_hyphenation_1aa872f107aa67a1dd4a04a9f9cfff018b" kindref="member" tooltip="Registers and loads a hyphenation dictionary for the specified language from a stream....">Hyphenation::RegisterDictionary</ref>(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">,<sp/>dictionaryStream);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(0,<sp/>warningInfoCollection-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>with<sp/>a<sp/>locale<sp/>that<sp/>Microsoft<sp/>Word<sp/>may<sp/>not<sp/>hyphenate<sp/>on<sp/>an<sp/>English<sp/>machine,<sp/>such<sp/>as<sp/>German.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;German<sp/>text.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>To<sp/>hyphenate<sp/>that<sp/>document<sp/>upon<sp/>saving,<sp/>we<sp/>need<sp/>a<sp/>hyphenation<sp/>dictionary<sp/>for<sp/>the<sp/>&quot;de-CH&quot;<sp/>language<sp/>code.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>callback<sp/>will<sp/>handle<sp/>the<sp/>automatic<sp/>request<sp/>for<sp/>that<sp/>dictionary.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_hyphenation_1a4a4e884a28752c7b277dbb6ab121a601" kindref="member" tooltip="Setter for Aspose::Words::Hyphenation::get_Callback.">Hyphenation::set_Callback</ref>(MakeObject&lt;ExHyphenation::CustomHyphenationDictionaryRegister&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>save<sp/>the<sp/>document,<sp/>German<sp/>hyphenation<sp/>will<sp/>take<sp/>effect.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Hyphenation.RegisterDictionary.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>dictionary<sp/>contains<sp/>two<sp/>identical<sp/>patterns,<sp/>which<sp/>will<sp/>trigger<sp/>a<sp/>warning.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(1,<sp/>warningInfoCollection-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a1c629c0b794b98e0d49bcaf2746f58d9a3bb648b63d3b0dadb5e06c5d8cffea99" kindref="member" tooltip="Generic minor formatting loss, no specific code.">WarningType::MinorFormattingLoss</ref>,<sp/>warningInfoCollection-&gt;idx_get(0)-&gt;get_WarningType());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1ae78cf72acefc2cbe63016b04f8f44e7caebd9bec4d70abc789d439c1f136b0538" kindref="member" tooltip="Module that builds a document layout.">WarningSource::Layout</ref>,<sp/>warningInfoCollection-&gt;idx_get(0)-&gt;get_Source());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Hyphenation<sp/>dictionary<sp/>contains<sp/>duplicate<sp/>patterns.<sp/>The<sp/>only<sp/>first<sp/>found<sp/>pattern<sp/>will<sp/>be<sp/>used.<sp/>&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;Content<sp/>can<sp/>be<sp/>wrapped<sp/>differently.&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>warningInfoCollection-&gt;idx_get(0)-&gt;get_Description());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">CustomHyphenationDictionaryRegister<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IHyphenationCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>CustomHyphenationDictionaryRegister()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mHyphenationDictionaryFiles<sp/>=<sp/>MakeObject&lt;System::Collections::Generic::Dictionary&lt;String,<sp/>String&gt;&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mHyphenationDictionaryFiles-&gt;Add(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;hyph_en_US.dic&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mHyphenationDictionaryFiles-&gt;Add(u</highlight><highlight class="stringliteral">&quot;de-CH&quot;</highlight><highlight class="normal">,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;hyph_de_CH.dic&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>RequestDictionary(String<sp/>language)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Hyphenation<sp/>dictionary<sp/>requested:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>language);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(Hyphenation::IsDictionaryRegistered(language))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>is<sp/>already<sp/>registered.&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(mHyphenationDictionaryFiles-&gt;ContainsKey(language))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>Hyphenation::RegisterDictionary(language,<sp/>mHyphenationDictionaryFiles-&gt;idx_get(language));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>successfully<sp/>registered.&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>no<sp/>respective<sp/>dictionary<sp/>file<sp/>known<sp/>by<sp/>this<sp/>Callback.&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::Dictionary&lt;String,<sp/>String&gt;&gt;<sp/>mHyphenationDictionaryFiles;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Hyphenation.h" line="273" column="33"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_hyphenation_1a2af584231dc9d8201e81569752679c97" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>static bool Aspose::Words::Hyphenation::IsDictionaryRegistered</definition>
+        <argsstring>(const System::String &amp;language)</argsstring>
+        <name>IsDictionaryRegistered</name>
+        <qualifiedname>Aspose::Words::Hyphenation::IsDictionaryRegistered</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>language</declname>
+        </param>
+        <briefdescription>
+<para>Returns False if for the specified language there is no dictionary registered or if registered is Null dictionary, True otherwise. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to register a hyphenation dictionary. <programlisting><codeline><highlight class="comment">//<sp/>A<sp/>hyphenation<sp/>dictionary<sp/>contains<sp/>a<sp/>list<sp/>of<sp/>strings<sp/>that<sp/>define<sp/>hyphenation<sp/>rules<sp/>for<sp/>the<sp/>dictionary&apos;s<sp/>language.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>a<sp/>document<sp/>contains<sp/>lines<sp/>of<sp/>text<sp/>in<sp/>which<sp/>a<sp/>word<sp/>could<sp/>be<sp/>split<sp/>up<sp/>and<sp/>continued<sp/>on<sp/>the<sp/>next<sp/>line,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>hyphenation<sp/>will<sp/>look<sp/>through<sp/>the<sp/>dictionary&apos;s<sp/>list<sp/>of<sp/>strings<sp/>for<sp/>that<sp/>word&apos;s<sp/>substrings.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>dictionary<sp/>contains<sp/>a<sp/>substring,<sp/>then<sp/>hyphenation<sp/>will<sp/>split<sp/>the<sp/>word<sp/>across<sp/>two<sp/>lines</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>by<sp/>the<sp/>substring<sp/>and<sp/>add<sp/>a<sp/>hyphen<sp/>to<sp/>the<sp/>first<sp/>half.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Register<sp/>a<sp/>dictionary<sp/>file<sp/>from<sp/>the<sp/>local<sp/>file<sp/>system<sp/>to<sp/>the<sp/>&quot;de-CH&quot;<sp/>locale.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_hyphenation_1aa872f107aa67a1dd4a04a9f9cfff018b" kindref="member" tooltip="Registers and loads a hyphenation dictionary for the specified language from a stream....">Hyphenation::RegisterDictionary</ref>(u</highlight><highlight class="stringliteral">&quot;de-CH&quot;</highlight><highlight class="normal">,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;hyph_de_CH.dic&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class_aspose_1_1_words_1_1_hyphenation_1a2af584231dc9d8201e81569752679c97" kindref="member" tooltip="Returns False if for the specified language there is no dictionary registered or if registered is Nul...">Hyphenation::IsDictionaryRegistered</ref>(u</highlight><highlight class="stringliteral">&quot;de-CH&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>containing<sp/>text<sp/>with<sp/>a<sp/>locale<sp/>matching<sp/>that<sp/>of<sp/>our<sp/>dictionary,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>save<sp/>it<sp/>to<sp/>a<sp/>fixed-page<sp/>save<sp/>format.<sp/>The<sp/>text<sp/>in<sp/>that<sp/>document<sp/>will<sp/>be<sp/>hyphenated.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;German<sp/>text.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;get_Runs()-&gt;LINQ_OfType&lt;SharedPtr&lt;Run&gt;&gt;()-&gt;LINQ_All(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Run&gt;<sp/>r)<sp/>{<sp/>return<sp/>r-&gt;get_Font()-&gt;get_LocaleId()<sp/>==<sp/>MakeObject&lt;System::Globalization::CultureInfo&gt;(u</highlight><highlight class="stringliteral">&quot;de-CH&quot;</highlight><highlight class="normal">)-&gt;get_LCID();<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Hyphenation.Dictionary.Registered.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Re-load<sp/>the<sp/>document<sp/>after<sp/>un-registering<sp/>the<sp/>dictionary,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>save<sp/>it<sp/>to<sp/>another<sp/>PDF,<sp/>which<sp/>will<sp/>not<sp/>have<sp/>hyphenated<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_hyphenation_1a1edafa8f4e749ef860c718706de69a62" kindref="member" tooltip="Unregisters a hyphenation dictionary for the specified language. This is different from registering N...">Hyphenation::UnregisterDictionary</ref>(u</highlight><highlight class="stringliteral">&quot;de-CH&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class_aspose_1_1_words_1_1_hyphenation_1a2af584231dc9d8201e81569752679c97" kindref="member" tooltip="Returns False if for the specified language there is no dictionary registered or if registered is Nul...">Hyphenation::IsDictionaryRegistered</ref>(u</highlight><highlight class="stringliteral">&quot;de-CH&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;German<sp/>text.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Hyphenation.Dictionary.Unregistered.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Hyphenation.h" line="544" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_hyphenation_1aa872f107aa67a1dd4a04a9f9cfff018b" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>static void Aspose::Words::Hyphenation::RegisterDictionary</definition>
+        <argsstring>(const System::String &amp;language, const System::SharedPtr&lt; System::IO::Stream &gt; &amp;stream)</argsstring>
+        <name>RegisterDictionary</name>
+        <qualifiedname>Aspose::Words::Hyphenation::RegisterDictionary</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>language</declname>
+        </param>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <declname>stream</declname>
+        </param>
+        <briefdescription>
+<para>Registers and loads a hyphenation dictionary for the specified language from a stream. Throws if dictionary cannot be read or has invalid format. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>language</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>A language name, e.g. &quot;en-US&quot;. See .NET documentation for &quot;culture name&quot; and RFC 4646 for details. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>stream</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>A stream for the dictionary file in OpenOffice format.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to open and register a dictionary from a file. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_hyphenation_1aa872f107aa67a1dd4a04a9f9cfff018b" kindref="member" tooltip="Registers and loads a hyphenation dictionary for the specified language from a stream....">RegisterDictionary</ref>()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>up<sp/>a<sp/>callback<sp/>that<sp/>tracks<sp/>warnings<sp/>that<sp/>occur<sp/>during<sp/>hyphenation<sp/>dictionary<sp/>registration.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>warningInfoCollection<sp/>=<sp/>MakeObject&lt;WarningInfoCollection&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_hyphenation_1a0b0259636882abbaeedb230db06f36ed" kindref="member" tooltip="Setter for Aspose::Words::Hyphenation::get_WarningCallback.">Hyphenation::set_WarningCallback</ref>(warningInfoCollection);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Register<sp/>an<sp/>English<sp/>(US)<sp/>hyphenation<sp/>dictionary<sp/>by<sp/>stream.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::Stream&gt;<sp/>dictionaryStream<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;hyph_en_US.dic&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Open);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_hyphenation_1aa872f107aa67a1dd4a04a9f9cfff018b" kindref="member" tooltip="Registers and loads a hyphenation dictionary for the specified language from a stream....">Hyphenation::RegisterDictionary</ref>(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">,<sp/>dictionaryStream);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(0,<sp/>warningInfoCollection-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>with<sp/>a<sp/>locale<sp/>that<sp/>Microsoft<sp/>Word<sp/>may<sp/>not<sp/>hyphenate<sp/>on<sp/>an<sp/>English<sp/>machine,<sp/>such<sp/>as<sp/>German.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;German<sp/>text.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>To<sp/>hyphenate<sp/>that<sp/>document<sp/>upon<sp/>saving,<sp/>we<sp/>need<sp/>a<sp/>hyphenation<sp/>dictionary<sp/>for<sp/>the<sp/>&quot;de-CH&quot;<sp/>language<sp/>code.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>callback<sp/>will<sp/>handle<sp/>the<sp/>automatic<sp/>request<sp/>for<sp/>that<sp/>dictionary.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_hyphenation_1a4a4e884a28752c7b277dbb6ab121a601" kindref="member" tooltip="Setter for Aspose::Words::Hyphenation::get_Callback.">Hyphenation::set_Callback</ref>(MakeObject&lt;ExHyphenation::CustomHyphenationDictionaryRegister&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>save<sp/>the<sp/>document,<sp/>German<sp/>hyphenation<sp/>will<sp/>take<sp/>effect.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Hyphenation.RegisterDictionary.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>dictionary<sp/>contains<sp/>two<sp/>identical<sp/>patterns,<sp/>which<sp/>will<sp/>trigger<sp/>a<sp/>warning.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(1,<sp/>warningInfoCollection-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a1c629c0b794b98e0d49bcaf2746f58d9a3bb648b63d3b0dadb5e06c5d8cffea99" kindref="member" tooltip="Generic minor formatting loss, no specific code.">WarningType::MinorFormattingLoss</ref>,<sp/>warningInfoCollection-&gt;idx_get(0)-&gt;get_WarningType());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1ae78cf72acefc2cbe63016b04f8f44e7caebd9bec4d70abc789d439c1f136b0538" kindref="member" tooltip="Module that builds a document layout.">WarningSource::Layout</ref>,<sp/>warningInfoCollection-&gt;idx_get(0)-&gt;get_Source());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Hyphenation<sp/>dictionary<sp/>contains<sp/>duplicate<sp/>patterns.<sp/>The<sp/>only<sp/>first<sp/>found<sp/>pattern<sp/>will<sp/>be<sp/>used.<sp/>&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;Content<sp/>can<sp/>be<sp/>wrapped<sp/>differently.&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>warningInfoCollection-&gt;idx_get(0)-&gt;get_Description());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">CustomHyphenationDictionaryRegister<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IHyphenationCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>CustomHyphenationDictionaryRegister()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mHyphenationDictionaryFiles<sp/>=<sp/>MakeObject&lt;System::Collections::Generic::Dictionary&lt;String,<sp/>String&gt;&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mHyphenationDictionaryFiles-&gt;Add(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;hyph_en_US.dic&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mHyphenationDictionaryFiles-&gt;Add(u</highlight><highlight class="stringliteral">&quot;de-CH&quot;</highlight><highlight class="normal">,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;hyph_de_CH.dic&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>RequestDictionary(String<sp/>language)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Hyphenation<sp/>dictionary<sp/>requested:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>language);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(Hyphenation::IsDictionaryRegistered(language))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>is<sp/>already<sp/>registered.&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(mHyphenationDictionaryFiles-&gt;ContainsKey(language))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>Hyphenation::RegisterDictionary(language,<sp/>mHyphenationDictionaryFiles-&gt;idx_get(language));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>successfully<sp/>registered.&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>no<sp/>respective<sp/>dictionary<sp/>file<sp/>known<sp/>by<sp/>this<sp/>Callback.&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::Dictionary&lt;String,<sp/>String&gt;&gt;<sp/>mHyphenationDictionaryFiles;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Hyphenation.h" line="355" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_hyphenation_1a70360647cd27c8690e2899f94f56d16c" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>static void Aspose::Words::Hyphenation::RegisterDictionary</definition>
+        <argsstring>(const System::String &amp;language, const System::String &amp;fileName)</argsstring>
+        <name>RegisterDictionary</name>
+        <qualifiedname>Aspose::Words::Hyphenation::RegisterDictionary</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>language</declname>
+        </param>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>fileName</declname>
+        </param>
+        <briefdescription>
+<para>Registers and loads a hyphenation dictionary for the specified language from file. Throws if dictionary cannot be read or has invalid format. This method can also be used to register Null dictionary to prevent <ref refid="class_aspose_1_1_words_1_1_hyphenation_1ad52623249651c0ee0ab691931cc931a5" kindref="member">Callback</ref> from being called repeatedly for the same language. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>language</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>A language name, e.g. &quot;en-US&quot;. See .NET documentation for &quot;culture name&quot; and RFC 4646 for details. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>fileName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>A path to the dictionary file in Open Office format. If this parameter is null or empty string then registered is Null dictionary and callback is not called anymore for this language. To enable callback again use <ref refid="" kindref="compound">UnregisterDictionary()</ref> method.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to register a hyphenation dictionary. <programlisting><codeline><highlight class="comment">//<sp/>A<sp/>hyphenation<sp/>dictionary<sp/>contains<sp/>a<sp/>list<sp/>of<sp/>strings<sp/>that<sp/>define<sp/>hyphenation<sp/>rules<sp/>for<sp/>the<sp/>dictionary&apos;s<sp/>language.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>a<sp/>document<sp/>contains<sp/>lines<sp/>of<sp/>text<sp/>in<sp/>which<sp/>a<sp/>word<sp/>could<sp/>be<sp/>split<sp/>up<sp/>and<sp/>continued<sp/>on<sp/>the<sp/>next<sp/>line,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>hyphenation<sp/>will<sp/>look<sp/>through<sp/>the<sp/>dictionary&apos;s<sp/>list<sp/>of<sp/>strings<sp/>for<sp/>that<sp/>word&apos;s<sp/>substrings.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>dictionary<sp/>contains<sp/>a<sp/>substring,<sp/>then<sp/>hyphenation<sp/>will<sp/>split<sp/>the<sp/>word<sp/>across<sp/>two<sp/>lines</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>by<sp/>the<sp/>substring<sp/>and<sp/>add<sp/>a<sp/>hyphen<sp/>to<sp/>the<sp/>first<sp/>half.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Register<sp/>a<sp/>dictionary<sp/>file<sp/>from<sp/>the<sp/>local<sp/>file<sp/>system<sp/>to<sp/>the<sp/>&quot;de-CH&quot;<sp/>locale.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_hyphenation_1aa872f107aa67a1dd4a04a9f9cfff018b" kindref="member" tooltip="Registers and loads a hyphenation dictionary for the specified language from a stream....">Hyphenation::RegisterDictionary</ref>(u</highlight><highlight class="stringliteral">&quot;de-CH&quot;</highlight><highlight class="normal">,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;hyph_de_CH.dic&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class_aspose_1_1_words_1_1_hyphenation_1a2af584231dc9d8201e81569752679c97" kindref="member" tooltip="Returns False if for the specified language there is no dictionary registered or if registered is Nul...">Hyphenation::IsDictionaryRegistered</ref>(u</highlight><highlight class="stringliteral">&quot;de-CH&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>containing<sp/>text<sp/>with<sp/>a<sp/>locale<sp/>matching<sp/>that<sp/>of<sp/>our<sp/>dictionary,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>save<sp/>it<sp/>to<sp/>a<sp/>fixed-page<sp/>save<sp/>format.<sp/>The<sp/>text<sp/>in<sp/>that<sp/>document<sp/>will<sp/>be<sp/>hyphenated.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;German<sp/>text.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;get_Runs()-&gt;LINQ_OfType&lt;SharedPtr&lt;Run&gt;&gt;()-&gt;LINQ_All(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Run&gt;<sp/>r)<sp/>{<sp/>return<sp/>r-&gt;get_Font()-&gt;get_LocaleId()<sp/>==<sp/>MakeObject&lt;System::Globalization::CultureInfo&gt;(u</highlight><highlight class="stringliteral">&quot;de-CH&quot;</highlight><highlight class="normal">)-&gt;get_LCID();<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Hyphenation.Dictionary.Registered.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Re-load<sp/>the<sp/>document<sp/>after<sp/>un-registering<sp/>the<sp/>dictionary,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>save<sp/>it<sp/>to<sp/>another<sp/>PDF,<sp/>which<sp/>will<sp/>not<sp/>have<sp/>hyphenated<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_hyphenation_1a1edafa8f4e749ef860c718706de69a62" kindref="member" tooltip="Unregisters a hyphenation dictionary for the specified language. This is different from registering N...">Hyphenation::UnregisterDictionary</ref>(u</highlight><highlight class="stringliteral">&quot;de-CH&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class_aspose_1_1_words_1_1_hyphenation_1a2af584231dc9d8201e81569752679c97" kindref="member" tooltip="Returns False if for the specified language there is no dictionary registered or if registered is Nul...">Hyphenation::IsDictionaryRegistered</ref>(u</highlight><highlight class="stringliteral">&quot;de-CH&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;German<sp/>text.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Hyphenation.Dictionary.Unregistered.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to open and register a dictionary from a file. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_hyphenation_1aa872f107aa67a1dd4a04a9f9cfff018b" kindref="member" tooltip="Registers and loads a hyphenation dictionary for the specified language from a stream....">RegisterDictionary</ref>()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>up<sp/>a<sp/>callback<sp/>that<sp/>tracks<sp/>warnings<sp/>that<sp/>occur<sp/>during<sp/>hyphenation<sp/>dictionary<sp/>registration.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>warningInfoCollection<sp/>=<sp/>MakeObject&lt;WarningInfoCollection&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_hyphenation_1a0b0259636882abbaeedb230db06f36ed" kindref="member" tooltip="Setter for Aspose::Words::Hyphenation::get_WarningCallback.">Hyphenation::set_WarningCallback</ref>(warningInfoCollection);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Register<sp/>an<sp/>English<sp/>(US)<sp/>hyphenation<sp/>dictionary<sp/>by<sp/>stream.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::Stream&gt;<sp/>dictionaryStream<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;hyph_en_US.dic&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Open);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_hyphenation_1aa872f107aa67a1dd4a04a9f9cfff018b" kindref="member" tooltip="Registers and loads a hyphenation dictionary for the specified language from a stream....">Hyphenation::RegisterDictionary</ref>(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">,<sp/>dictionaryStream);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(0,<sp/>warningInfoCollection-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>with<sp/>a<sp/>locale<sp/>that<sp/>Microsoft<sp/>Word<sp/>may<sp/>not<sp/>hyphenate<sp/>on<sp/>an<sp/>English<sp/>machine,<sp/>such<sp/>as<sp/>German.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;German<sp/>text.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>To<sp/>hyphenate<sp/>that<sp/>document<sp/>upon<sp/>saving,<sp/>we<sp/>need<sp/>a<sp/>hyphenation<sp/>dictionary<sp/>for<sp/>the<sp/>&quot;de-CH&quot;<sp/>language<sp/>code.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>callback<sp/>will<sp/>handle<sp/>the<sp/>automatic<sp/>request<sp/>for<sp/>that<sp/>dictionary.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_hyphenation_1a4a4e884a28752c7b277dbb6ab121a601" kindref="member" tooltip="Setter for Aspose::Words::Hyphenation::get_Callback.">Hyphenation::set_Callback</ref>(MakeObject&lt;ExHyphenation::CustomHyphenationDictionaryRegister&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>save<sp/>the<sp/>document,<sp/>German<sp/>hyphenation<sp/>will<sp/>take<sp/>effect.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Hyphenation.RegisterDictionary.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>dictionary<sp/>contains<sp/>two<sp/>identical<sp/>patterns,<sp/>which<sp/>will<sp/>trigger<sp/>a<sp/>warning.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(1,<sp/>warningInfoCollection-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a1c629c0b794b98e0d49bcaf2746f58d9a3bb648b63d3b0dadb5e06c5d8cffea99" kindref="member" tooltip="Generic minor formatting loss, no specific code.">WarningType::MinorFormattingLoss</ref>,<sp/>warningInfoCollection-&gt;idx_get(0)-&gt;get_WarningType());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1ae78cf72acefc2cbe63016b04f8f44e7caebd9bec4d70abc789d439c1f136b0538" kindref="member" tooltip="Module that builds a document layout.">WarningSource::Layout</ref>,<sp/>warningInfoCollection-&gt;idx_get(0)-&gt;get_Source());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Hyphenation<sp/>dictionary<sp/>contains<sp/>duplicate<sp/>patterns.<sp/>The<sp/>only<sp/>first<sp/>found<sp/>pattern<sp/>will<sp/>be<sp/>used.<sp/>&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;Content<sp/>can<sp/>be<sp/>wrapped<sp/>differently.&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>warningInfoCollection-&gt;idx_get(0)-&gt;get_Description());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">CustomHyphenationDictionaryRegister<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IHyphenationCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>CustomHyphenationDictionaryRegister()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mHyphenationDictionaryFiles<sp/>=<sp/>MakeObject&lt;System::Collections::Generic::Dictionary&lt;String,<sp/>String&gt;&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mHyphenationDictionaryFiles-&gt;Add(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;hyph_en_US.dic&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mHyphenationDictionaryFiles-&gt;Add(u</highlight><highlight class="stringliteral">&quot;de-CH&quot;</highlight><highlight class="normal">,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;hyph_de_CH.dic&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>RequestDictionary(String<sp/>language)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Hyphenation<sp/>dictionary<sp/>requested:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>language);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(Hyphenation::IsDictionaryRegistered(language))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>is<sp/>already<sp/>registered.&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(mHyphenationDictionaryFiles-&gt;ContainsKey(language))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>Hyphenation::RegisterDictionary(language,<sp/>mHyphenationDictionaryFiles-&gt;idx_get(language));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>successfully<sp/>registered.&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>no<sp/>respective<sp/>dictionary<sp/>file<sp/>known<sp/>by<sp/>this<sp/>Callback.&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::Dictionary&lt;String,<sp/>String&gt;&gt;<sp/>mHyphenationDictionaryFiles;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Hyphenation.h" line="468" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_hyphenation_1ac6a96f1a7fb3cbbbd6b52cb40869279f" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename CharType</type>
+          </param>
+          <param>
+            <type>typename Traits</type>
+          </param>
+        </templateparamlist>
+        <type>void</type>
+        <definition>static void Aspose::Words::Hyphenation::RegisterDictionary</definition>
+        <argsstring>(System::String language, std::basic_istream&lt; CharType, Traits &gt; &amp;stream)</argsstring>
+        <name>RegisterDictionary</name>
+        <qualifiedname>Aspose::Words::Hyphenation::RegisterDictionary</qualifiedname>
+        <param>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+          <declname>language</declname>
+        </param>
+        <param>
+          <type>std::basic_istream&lt; CharType, Traits &gt; &amp;</type>
+          <declname>stream</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Hyphenation.h" line="547" column="17" bodyfile="Aspose.Words.Cpp/Hyphenation.h" bodystart="547" bodyend="551"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_hyphenation_1a4a4e884a28752c7b277dbb6ab121a601" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>static void Aspose::Words::Hyphenation::set_Callback</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::IHyphenationCallback &gt; &amp;value)</argsstring>
+        <name>set_Callback</name>
+        <qualifiedname>Aspose::Words::Hyphenation::set_Callback</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_i_hyphenation_callback" kindref="compound">Aspose::Words::IHyphenationCallback</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_hyphenation_1ad52623249651c0ee0ab691931cc931a5" kindref="member">Aspose::Words::Hyphenation::get_Callback</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Hyphenation.h" line="197" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_hyphenation_1a0b0259636882abbaeedb230db06f36ed" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>static void Aspose::Words::Hyphenation::set_WarningCallback</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::IWarningCallback &gt; &amp;value)</argsstring>
+        <name>set_WarningCallback</name>
+        <qualifiedname>Aspose::Words::Hyphenation::set_WarningCallback</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_i_warning_callback" kindref="compound">Aspose::Words::IWarningCallback</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_hyphenation_1a25640c3f46e9cd177cb8c4b5c3e82098" kindref="member">Aspose::Words::Hyphenation::get_WarningCallback</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Hyphenation.h" line="276" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_hyphenation_1a1edafa8f4e749ef860c718706de69a62" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>static void Aspose::Words::Hyphenation::UnregisterDictionary</definition>
+        <argsstring>(const System::String &amp;language)</argsstring>
+        <name>UnregisterDictionary</name>
+        <qualifiedname>Aspose::Words::Hyphenation::UnregisterDictionary</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>language</declname>
+        </param>
+        <briefdescription>
+<para>Unregisters a hyphenation dictionary for the specified language. This is different from registering Null dictionary. Unregistering a dictionary enables callback for the specified language. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>language</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>A language name, e.g. &quot;en-US&quot;. See .NET documentation for &quot;culture name&quot; and RFC 4646 for details. If null or empty string then all dictionaries are unregistered.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to register a hyphenation dictionary. <programlisting><codeline><highlight class="comment">//<sp/>A<sp/>hyphenation<sp/>dictionary<sp/>contains<sp/>a<sp/>list<sp/>of<sp/>strings<sp/>that<sp/>define<sp/>hyphenation<sp/>rules<sp/>for<sp/>the<sp/>dictionary&apos;s<sp/>language.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>a<sp/>document<sp/>contains<sp/>lines<sp/>of<sp/>text<sp/>in<sp/>which<sp/>a<sp/>word<sp/>could<sp/>be<sp/>split<sp/>up<sp/>and<sp/>continued<sp/>on<sp/>the<sp/>next<sp/>line,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>hyphenation<sp/>will<sp/>look<sp/>through<sp/>the<sp/>dictionary&apos;s<sp/>list<sp/>of<sp/>strings<sp/>for<sp/>that<sp/>word&apos;s<sp/>substrings.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>dictionary<sp/>contains<sp/>a<sp/>substring,<sp/>then<sp/>hyphenation<sp/>will<sp/>split<sp/>the<sp/>word<sp/>across<sp/>two<sp/>lines</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>by<sp/>the<sp/>substring<sp/>and<sp/>add<sp/>a<sp/>hyphen<sp/>to<sp/>the<sp/>first<sp/>half.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Register<sp/>a<sp/>dictionary<sp/>file<sp/>from<sp/>the<sp/>local<sp/>file<sp/>system<sp/>to<sp/>the<sp/>&quot;de-CH&quot;<sp/>locale.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_hyphenation_1aa872f107aa67a1dd4a04a9f9cfff018b" kindref="member" tooltip="Registers and loads a hyphenation dictionary for the specified language from a stream....">Hyphenation::RegisterDictionary</ref>(u</highlight><highlight class="stringliteral">&quot;de-CH&quot;</highlight><highlight class="normal">,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;hyph_de_CH.dic&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class_aspose_1_1_words_1_1_hyphenation_1a2af584231dc9d8201e81569752679c97" kindref="member" tooltip="Returns False if for the specified language there is no dictionary registered or if registered is Nul...">Hyphenation::IsDictionaryRegistered</ref>(u</highlight><highlight class="stringliteral">&quot;de-CH&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>containing<sp/>text<sp/>with<sp/>a<sp/>locale<sp/>matching<sp/>that<sp/>of<sp/>our<sp/>dictionary,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>save<sp/>it<sp/>to<sp/>a<sp/>fixed-page<sp/>save<sp/>format.<sp/>The<sp/>text<sp/>in<sp/>that<sp/>document<sp/>will<sp/>be<sp/>hyphenated.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;German<sp/>text.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;get_Runs()-&gt;LINQ_OfType&lt;SharedPtr&lt;Run&gt;&gt;()-&gt;LINQ_All(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Run&gt;<sp/>r)<sp/>{<sp/>return<sp/>r-&gt;get_Font()-&gt;get_LocaleId()<sp/>==<sp/>MakeObject&lt;System::Globalization::CultureInfo&gt;(u</highlight><highlight class="stringliteral">&quot;de-CH&quot;</highlight><highlight class="normal">)-&gt;get_LCID();<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Hyphenation.Dictionary.Registered.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Re-load<sp/>the<sp/>document<sp/>after<sp/>un-registering<sp/>the<sp/>dictionary,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>save<sp/>it<sp/>to<sp/>another<sp/>PDF,<sp/>which<sp/>will<sp/>not<sp/>have<sp/>hyphenated<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_hyphenation_1a1edafa8f4e749ef860c718706de69a62" kindref="member" tooltip="Unregisters a hyphenation dictionary for the specified language. This is different from registering N...">Hyphenation::UnregisterDictionary</ref>(u</highlight><highlight class="stringliteral">&quot;de-CH&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class_aspose_1_1_words_1_1_hyphenation_1a2af584231dc9d8201e81569752679c97" kindref="member" tooltip="Returns False if for the specified language there is no dictionary registered or if registered is Nul...">Hyphenation::IsDictionaryRegistered</ref>(u</highlight><highlight class="stringliteral">&quot;de-CH&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;German<sp/>text.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Hyphenation.Dictionary.Unregistered.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Hyphenation.h" line="508" column="20"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_hyphenation_1a138476c5bfd2630debe6e6e0deb32342" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Hyphenation::Hyphenation</definition>
+        <argsstring>()=delete</argsstring>
+        <name>Hyphenation</name>
+        <qualifiedname>Aspose::Words::Hyphenation::Hyphenation</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Hyphenation.h" line="558" column="5"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Provides methods for working with hyphenation dictionaries. These dictionaries prescribe where words of a specific language can be hyphenated. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to open and register a dictionary from a file. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/><ref refid="class_aspose_1_1_words_1_1_hyphenation_1aa872f107aa67a1dd4a04a9f9cfff018b" kindref="member" tooltip="Registers and loads a hyphenation dictionary for the specified language from a stream....">RegisterDictionary</ref>()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>up<sp/>a<sp/>callback<sp/>that<sp/>tracks<sp/>warnings<sp/>that<sp/>occur<sp/>during<sp/>hyphenation<sp/>dictionary<sp/>registration.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>warningInfoCollection<sp/>=<sp/>MakeObject&lt;WarningInfoCollection&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_hyphenation_1a0b0259636882abbaeedb230db06f36ed" kindref="member" tooltip="Setter for Aspose::Words::Hyphenation::get_WarningCallback.">Hyphenation::set_WarningCallback</ref>(warningInfoCollection);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Register<sp/>an<sp/>English<sp/>(US)<sp/>hyphenation<sp/>dictionary<sp/>by<sp/>stream.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::Stream&gt;<sp/>dictionaryStream<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;hyph_en_US.dic&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Open);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_hyphenation_1aa872f107aa67a1dd4a04a9f9cfff018b" kindref="member" tooltip="Registers and loads a hyphenation dictionary for the specified language from a stream....">Hyphenation::RegisterDictionary</ref>(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">,<sp/>dictionaryStream);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(0,<sp/>warningInfoCollection-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>with<sp/>a<sp/>locale<sp/>that<sp/>Microsoft<sp/>Word<sp/>may<sp/>not<sp/>hyphenate<sp/>on<sp/>an<sp/>English<sp/>machine,<sp/>such<sp/>as<sp/>German.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;German<sp/>text.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>To<sp/>hyphenate<sp/>that<sp/>document<sp/>upon<sp/>saving,<sp/>we<sp/>need<sp/>a<sp/>hyphenation<sp/>dictionary<sp/>for<sp/>the<sp/>&quot;de-CH&quot;<sp/>language<sp/>code.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>callback<sp/>will<sp/>handle<sp/>the<sp/>automatic<sp/>request<sp/>for<sp/>that<sp/>dictionary.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_hyphenation_1a4a4e884a28752c7b277dbb6ab121a601" kindref="member" tooltip="Setter for Aspose::Words::Hyphenation::get_Callback.">Hyphenation::set_Callback</ref>(MakeObject&lt;ExHyphenation::CustomHyphenationDictionaryRegister&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>save<sp/>the<sp/>document,<sp/>German<sp/>hyphenation<sp/>will<sp/>take<sp/>effect.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Hyphenation.RegisterDictionary.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>dictionary<sp/>contains<sp/>two<sp/>identical<sp/>patterns,<sp/>which<sp/>will<sp/>trigger<sp/>a<sp/>warning.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(1,<sp/>warningInfoCollection-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a1c629c0b794b98e0d49bcaf2746f58d9a3bb648b63d3b0dadb5e06c5d8cffea99" kindref="member" tooltip="Generic minor formatting loss, no specific code.">WarningType::MinorFormattingLoss</ref>,<sp/>warningInfoCollection-&gt;idx_get(0)-&gt;get_WarningType());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1ae78cf72acefc2cbe63016b04f8f44e7caebd9bec4d70abc789d439c1f136b0538" kindref="member" tooltip="Module that builds a document layout.">WarningSource::Layout</ref>,<sp/>warningInfoCollection-&gt;idx_get(0)-&gt;get_Source());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Hyphenation<sp/>dictionary<sp/>contains<sp/>duplicate<sp/>patterns.<sp/>The<sp/>only<sp/>first<sp/>found<sp/>pattern<sp/>will<sp/>be<sp/>used.<sp/>&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;Content<sp/>can<sp/>be<sp/>wrapped<sp/>differently.&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>warningInfoCollection-&gt;idx_get(0)-&gt;get_Description());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">CustomHyphenationDictionaryRegister<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IHyphenationCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>CustomHyphenationDictionaryRegister()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mHyphenationDictionaryFiles<sp/>=<sp/>MakeObject&lt;System::Collections::Generic::Dictionary&lt;String,<sp/>String&gt;&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mHyphenationDictionaryFiles-&gt;Add(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;hyph_en_US.dic&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mHyphenationDictionaryFiles-&gt;Add(u</highlight><highlight class="stringliteral">&quot;de-CH&quot;</highlight><highlight class="normal">,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;hyph_de_CH.dic&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>RequestDictionary(String<sp/>language)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Hyphenation<sp/>dictionary<sp/>requested:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>language);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(Hyphenation::IsDictionaryRegistered(language))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>is<sp/>already<sp/>registered.&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(mHyphenationDictionaryFiles-&gt;ContainsKey(language))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>Hyphenation::RegisterDictionary(language,<sp/>mHyphenationDictionaryFiles-&gt;idx_get(language));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>successfully<sp/>registered.&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>no<sp/>respective<sp/>dictionary<sp/>file<sp/>known<sp/>by<sp/>this<sp/>Callback.&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::Dictionary&lt;String,<sp/>String&gt;&gt;<sp/>mHyphenationDictionaryFiles;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/Hyphenation.h" line="113" column="1" bodyfile="Aspose.Words.Cpp/Hyphenation.h" bodystart="114" bodyend="559"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_hyphenation_1ad52623249651c0ee0ab691931cc931a5" prot="public" virt="non-virtual"><scope>Aspose::Words::Hyphenation</scope><name>get_Callback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_hyphenation_1a25640c3f46e9cd177cb8c4b5c3e82098" prot="public" virt="non-virtual"><scope>Aspose::Words::Hyphenation</scope><name>get_WarningCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_hyphenation_1a138476c5bfd2630debe6e6e0deb32342" prot="public" virt="non-virtual"><scope>Aspose::Words::Hyphenation</scope><name>Hyphenation</name></member>
+      <member refid="class_aspose_1_1_words_1_1_hyphenation_1a2af584231dc9d8201e81569752679c97" prot="public" virt="non-virtual"><scope>Aspose::Words::Hyphenation</scope><name>IsDictionaryRegistered</name></member>
+      <member refid="class_aspose_1_1_words_1_1_hyphenation_1aa872f107aa67a1dd4a04a9f9cfff018b" prot="public" virt="non-virtual"><scope>Aspose::Words::Hyphenation</scope><name>RegisterDictionary</name></member>
+      <member refid="class_aspose_1_1_words_1_1_hyphenation_1a70360647cd27c8690e2899f94f56d16c" prot="public" virt="non-virtual"><scope>Aspose::Words::Hyphenation</scope><name>RegisterDictionary</name></member>
+      <member refid="class_aspose_1_1_words_1_1_hyphenation_1ac6a96f1a7fb3cbbbd6b52cb40869279f" prot="public" virt="non-virtual"><scope>Aspose::Words::Hyphenation</scope><name>RegisterDictionary</name></member>
+      <member refid="class_aspose_1_1_words_1_1_hyphenation_1a4a4e884a28752c7b277dbb6ab121a601" prot="public" virt="non-virtual"><scope>Aspose::Words::Hyphenation</scope><name>set_Callback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_hyphenation_1a0b0259636882abbaeedb230db06f36ed" prot="public" virt="non-virtual"><scope>Aspose::Words::Hyphenation</scope><name>set_WarningCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_hyphenation_1a8608905ba8b92f594889a537a975e07e" prot="private" virt="non-virtual"><scope>Aspose::Words::Hyphenation</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_hyphenation_1a1edafa8f4e749ef860c718706de69a62" prot="public" virt="non-virtual"><scope>Aspose::Words::Hyphenation</scope><name>UnregisterDictionary</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

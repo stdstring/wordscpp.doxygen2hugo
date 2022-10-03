@@ -1,0 +1,988 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::BarcodeParameters</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_barcode_parameters_8h" local="no">Aspose.Words.Cpp/Fields/BarcodeParameters.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1aee15274cc0e5a6fa5c6b60f6ab0f9ee7" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Fields::BarcodeParameters::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="25" column="28" bodyfile="Aspose.Words.Cpp/Fields/BarcodeParameters.h" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a229526726c8aad8008a552a911d90cbb" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters" kindref="compound">BarcodeParameters</ref></type>
+        <definition>typedef BarcodeParameters Aspose::Words::Fields::BarcodeParameters::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="24" column="31" bodyfile="Aspose.Words.Cpp/Fields/BarcodeParameters.h" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1aaccbdf180bad7e560485195ca709f37c" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Fields::BarcodeParameters::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="27" column="37" bodyfile="Aspose.Words.Cpp/Fields/BarcodeParameters.h" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a8a7b49ae6b93ca5be61a71f3ee2de21a" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::BarcodeParameters::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="138" column="20" bodyfile="Aspose.Words.Cpp/Fields/BarcodeParameters.h" bodystart="138" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1af24b5d0a714bc51bb1089fb88bbdbb42" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::BarcodeParameters::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="139" column="20" bodyfile="Aspose.Words.Cpp/Fields/BarcodeParameters.h" bodystart="139" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1afbab7181f8e9cc46cdff6f6d1275d327" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Fields::BarcodeParameters::mField10</definition>
+        <argsstring></argsstring>
+        <name>mField10</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::mField10</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="148" column="23" bodyfile="Aspose.Words.Cpp/Fields/BarcodeParameters.h" bodystart="148" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1adf4b654c8d05b11fd1f1b19d288bdcae" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Fields::BarcodeParameters::mField11</definition>
+        <argsstring></argsstring>
+        <name>mField11</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::mField11</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="149" column="23" bodyfile="Aspose.Words.Cpp/Fields/BarcodeParameters.h" bodystart="149" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a2c195b471ae0ab2def38bb07dad9e923" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Fields::BarcodeParameters::mField12</definition>
+        <argsstring></argsstring>
+        <name>mField12</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::mField12</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="150" column="23" bodyfile="Aspose.Words.Cpp/Fields/BarcodeParameters.h" bodystart="150" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a05a6744b5c8f2ee9d395f1b3ee6ee752" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::BarcodeParameters::mField13</definition>
+        <argsstring></argsstring>
+        <name>mField13</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::mField13</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="151" column="20" bodyfile="Aspose.Words.Cpp/Fields/BarcodeParameters.h" bodystart="151" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1add83786297214a7fde909e05694d71b1" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Fields::BarcodeParameters::mField14</definition>
+        <argsstring></argsstring>
+        <name>mField14</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::mField14</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="152" column="23" bodyfile="Aspose.Words.Cpp/Fields/BarcodeParameters.h" bodystart="152" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a5c6a0d9809d9bc82d5690a0d23b1afbd" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::BarcodeParameters::mField15</definition>
+        <argsstring></argsstring>
+        <name>mField15</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::mField15</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="153" column="20" bodyfile="Aspose.Words.Cpp/Fields/BarcodeParameters.h" bodystart="153" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1aeff41b425ceb73cef340688c08eb594a" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Fields::BarcodeParameters::mField16</definition>
+        <argsstring></argsstring>
+        <name>mField16</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::mField16</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="154" column="23" bodyfile="Aspose.Words.Cpp/Fields/BarcodeParameters.h" bodystart="154" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1af9b20c946f792854bd27149240ffefc6" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::BarcodeParameters::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="140" column="20" bodyfile="Aspose.Words.Cpp/Fields/BarcodeParameters.h" bodystart="140" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a9af347273b818f68e6c07d0c8a1de554" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::BarcodeParameters::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="141" column="20" bodyfile="Aspose.Words.Cpp/Fields/BarcodeParameters.h" bodystart="141" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a7b8c66f01fac0d33f85fbe94db663d37" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::BarcodeParameters::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="142" column="20" bodyfile="Aspose.Words.Cpp/Fields/BarcodeParameters.h" bodystart="142" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1ac21e632a649a2bd6743d2ae32be271ad" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::BarcodeParameters::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="143" column="20" bodyfile="Aspose.Words.Cpp/Fields/BarcodeParameters.h" bodystart="143" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a728ede5db7bd2522eb45f9a8702b4111" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::BarcodeParameters::mField6</definition>
+        <argsstring></argsstring>
+        <name>mField6</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::mField6</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="144" column="20" bodyfile="Aspose.Words.Cpp/Fields/BarcodeParameters.h" bodystart="144" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a20a867bd238be00be4c94b87a7979b6c" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::BarcodeParameters::mField7</definition>
+        <argsstring></argsstring>
+        <name>mField7</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::mField7</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="145" column="20" bodyfile="Aspose.Words.Cpp/Fields/BarcodeParameters.h" bodystart="145" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a9e0362d9730474e0c7c13b0d412e6481" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::BarcodeParameters::mField8</definition>
+        <argsstring></argsstring>
+        <name>mField8</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::mField8</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="146" column="20" bodyfile="Aspose.Words.Cpp/Fields/BarcodeParameters.h" bodystart="146" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a6da34b180dc1764a2aa8f99917b4fd22" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::BarcodeParameters::mField9</definition>
+        <argsstring></argsstring>
+        <name>mField9</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::mField9</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="147" column="20" bodyfile="Aspose.Words.Cpp/Fields/BarcodeParameters.h" bodystart="147" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a2935d17faaf6c4df6e54948bfe7beb6e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::BarcodeParameters::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="28" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a61efbc8d7d2349c2b95de3e2f8eb7413" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::BarcodeParameters::BarcodeParameters</definition>
+        <argsstring>()</argsstring>
+        <name>BarcodeParameters</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::BarcodeParameters</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="134" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a7b73d4c8a47e7608a2f8b73a03731e7f" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::BarcodeParameters::get_AddStartStopChar</definition>
+        <argsstring>() const</argsstring>
+        <name>get_AddStartStopChar</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::get_AddStartStopChar</qualifiedname>
+        <briefdescription>
+<para>Whether to add Start/Stop characters for barcode types NW7 and CODE39. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="99" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a635823b4e6836573121233617dc4bc85" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::BarcodeParameters::get_BackgroundColor</definition>
+        <argsstring>() const</argsstring>
+        <name>get_BackgroundColor</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::get_BackgroundColor</qualifiedname>
+        <briefdescription>
+<para>Bar code background color (0x000000 - 0xFFFFFF) </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="57" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a2a489d75a3b8ade437485dbecbf541dd" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::BarcodeParameters::get_BarcodeType</definition>
+        <argsstring>() const</argsstring>
+        <name>get_BarcodeType</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::get_BarcodeType</qualifiedname>
+        <briefdescription>
+<para>Bar code type. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="33" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a27d5f1ed74f83602152cb7c25476a963" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::BarcodeParameters::get_BarcodeValue</definition>
+        <argsstring>() const</argsstring>
+        <name>get_BarcodeValue</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::get_BarcodeValue</qualifiedname>
+        <briefdescription>
+<para>Data to be encoded. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="39" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a1f97c35bc19b68804256c575c073f2b3" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::BarcodeParameters::get_CaseCodeStyle</definition>
+        <argsstring>() const</argsstring>
+        <name>get_CaseCodeStyle</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::get_CaseCodeStyle</qualifiedname>
+        <briefdescription>
+<para><ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Style</ref> of a Case Code for barcode type ITF14. The valid values are [STD|EXT|ADD]. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="81" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a0b64a0e338f6a60f5b2c5d879e9036a1" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::BarcodeParameters::get_DisplayText</definition>
+        <argsstring>() const</argsstring>
+        <name>get_DisplayText</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::get_DisplayText</qualifiedname>
+        <briefdescription>
+<para>Whether to display barcode data (text) along with image. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="93" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a4526d9214986f37d68dae45347b20f87" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::BarcodeParameters::get_ErrorCorrectionLevel</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ErrorCorrectionLevel</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::get_ErrorCorrectionLevel</qualifiedname>
+        <briefdescription>
+<para>Error correction level of QR Code. Valid values are [0, 3]. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="87" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1ab15b85a5d0c7882aa3621fbacb47387e" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::BarcodeParameters::get_FacingIdentificationMark</definition>
+        <argsstring>() const</argsstring>
+        <name>get_FacingIdentificationMark</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::get_FacingIdentificationMark</qualifiedname>
+        <briefdescription>
+<para>Type of a Facing Identification Mark (FIM). </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="123" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a4c01f79bd7593e19b55467939a8f2451" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::BarcodeParameters::get_FixCheckDigit</definition>
+        <argsstring>() const</argsstring>
+        <name>get_FixCheckDigit</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::get_FixCheckDigit</qualifiedname>
+        <briefdescription>
+<para>Whether to fix the check digit if it’s invalid. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="105" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1abebc5f3d0878b7e6fa697dd9265b97ba" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::BarcodeParameters::get_ForegroundColor</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ForegroundColor</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::get_ForegroundColor</qualifiedname>
+        <briefdescription>
+<para>Bar code foreground color (0x000000 - 0xFFFFFF) </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="51" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1ac566da859fcf8d3adb15aaf4686073c2" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::BarcodeParameters::get_IsBookmark</definition>
+        <argsstring>() const</argsstring>
+        <name>get_IsBookmark</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::get_IsBookmark</qualifiedname>
+        <briefdescription>
+<para>Whether <ref refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1aeeca1a75d7d2276d4fe5c5276e407ef0" kindref="member">PostalAddress</ref> is the name of a bookmark. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="117" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1aaaf8b6ac7b5bcda50472e7fad6686bc0" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::BarcodeParameters::get_IsUSPostalAddress</definition>
+        <argsstring>() const</argsstring>
+        <name>get_IsUSPostalAddress</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::get_IsUSPostalAddress</qualifiedname>
+        <briefdescription>
+<para>Whether <ref refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1aeeca1a75d7d2276d4fe5c5276e407ef0" kindref="member">PostalAddress</ref> is a U.S. postal address. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="129" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a4db2b8c494f41ec101ea6f4fad560f6a" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::BarcodeParameters::get_PosCodeStyle</definition>
+        <argsstring>() const</argsstring>
+        <name>get_PosCodeStyle</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::get_PosCodeStyle</qualifiedname>
+        <briefdescription>
+<para><ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Style</ref> of a Point of Sale barcode (barcode types UPCA|UPCE|EAN13|EAN8). The valid values (case insensitive) are [STD|SUP2|SUP5|CASE]. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="75" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1aeeca1a75d7d2276d4fe5c5276e407ef0" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::BarcodeParameters::get_PostalAddress</definition>
+        <argsstring>() const</argsstring>
+        <name>get_PostalAddress</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::get_PostalAddress</qualifiedname>
+        <briefdescription>
+<para>Barcode postal address. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="111" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1ae9d621ac07508f122bf27568bdf23cf8" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::BarcodeParameters::get_ScalingFactor</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ScalingFactor</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::get_ScalingFactor</qualifiedname>
+        <briefdescription>
+<para>Scaling factor for the symbol. The value is in whole percentage points and the valid values are [10, 1000]. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="69" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1ab5b86cce59d28a5630a007e303b973c3" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::BarcodeParameters::get_SymbolHeight</definition>
+        <argsstring>() const</argsstring>
+        <name>get_SymbolHeight</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::get_SymbolHeight</qualifiedname>
+        <briefdescription>
+<para>Bar code image height (in twips - 1/1440 inches) </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="45" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a8550b7f54639e7d258557eb236ff3a18" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::BarcodeParameters::get_SymbolRotation</definition>
+        <argsstring>() const</argsstring>
+        <name>get_SymbolRotation</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::get_SymbolRotation</qualifiedname>
+        <briefdescription>
+<para>Rotation of the barcode symbol. Valid values are [0, 3]. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="63" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a02b3af25982fa5b22f5c0cebbad6c491" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::BarcodeParameters::set_AddStartStopChar</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_AddStartStopChar</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::set_AddStartStopChar</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Whether to add Start/Stop characters for barcode types NW7 and CODE39. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="102" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a5dbd5d2d85cd2eca6f6949d01e15f352" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::BarcodeParameters::set_BackgroundColor</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_BackgroundColor</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::set_BackgroundColor</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Bar code background color (0x000000 - 0xFFFFFF) </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="60" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1ade6d6549cd458ad6d0747fed558110b8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::BarcodeParameters::set_BarcodeType</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_BarcodeType</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::set_BarcodeType</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Bar code type. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="36" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a97b864b08e8a371f2961e6a28e22ea2b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::BarcodeParameters::set_BarcodeValue</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_BarcodeValue</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::set_BarcodeValue</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Data to be encoded. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="42" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a9d6cb6846ea17fa8030e0c986ad396c5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::BarcodeParameters::set_CaseCodeStyle</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_CaseCodeStyle</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::set_CaseCodeStyle</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para><ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Style</ref> of a Case Code for barcode type ITF14. The valid values are [STD|EXT|ADD]. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="84" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a7ebc8531bbbd32ba8c49062b5e6b45a3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::BarcodeParameters::set_DisplayText</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_DisplayText</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::set_DisplayText</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Whether to display barcode data (text) along with image. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="96" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1af5b50bbcea4e9914a9f9ff684233bf17" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::BarcodeParameters::set_ErrorCorrectionLevel</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ErrorCorrectionLevel</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::set_ErrorCorrectionLevel</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Error correction level of QR Code. Valid values are [0, 3]. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="90" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1ab7d62ade7e363b37852859a8bfb9751d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::BarcodeParameters::set_FacingIdentificationMark</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_FacingIdentificationMark</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::set_FacingIdentificationMark</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Type of a Facing Identification Mark (FIM). </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="126" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1aea51ccf08d099a824bb743773df6133d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::BarcodeParameters::set_FixCheckDigit</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_FixCheckDigit</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::set_FixCheckDigit</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Whether to fix the check digit if it’s invalid. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="108" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1ae3b4fab40f9487ce8e4f17b48e89cf57" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::BarcodeParameters::set_ForegroundColor</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ForegroundColor</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::set_ForegroundColor</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Bar code foreground color (0x000000 - 0xFFFFFF) </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="54" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1af340d6c227c1529a9f2c9835d4b57648" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::BarcodeParameters::set_IsBookmark</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_IsBookmark</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::set_IsBookmark</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Whether <ref refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1aeeca1a75d7d2276d4fe5c5276e407ef0" kindref="member">PostalAddress</ref> is the name of a bookmark. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="120" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1acb105487e5155e53fbc9b3ff58bffd98" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::BarcodeParameters::set_IsUSPostalAddress</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_IsUSPostalAddress</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::set_IsUSPostalAddress</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Whether <ref refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1aeeca1a75d7d2276d4fe5c5276e407ef0" kindref="member">PostalAddress</ref> is a U.S. postal address. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="132" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a30756dd2631c772dc3796a9ab7cfe5e5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::BarcodeParameters::set_PosCodeStyle</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_PosCodeStyle</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::set_PosCodeStyle</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para><ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Style</ref> of a Point of Sale barcode (barcode types UPCA|UPCE|EAN13|EAN8). The valid values (case insensitive) are [STD|SUP2|SUP5|CASE]. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="78" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a31f2402f7858192f9923f2c935fdf7de" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::BarcodeParameters::set_PostalAddress</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_PostalAddress</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::set_PostalAddress</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Barcode postal address. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="114" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a09fc435c5efdef1c60ed8b1cb74c2de5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::BarcodeParameters::set_ScalingFactor</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ScalingFactor</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::set_ScalingFactor</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Scaling factor for the symbol. The value is in whole percentage points and the valid values are [10, 1000]. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="72" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a98f533b53b62a63cd869b49300c35d39" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::BarcodeParameters::set_SymbolHeight</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_SymbolHeight</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::set_SymbolHeight</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Bar code image height (in twips - 1/1440 inches) </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="48" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1ab2cb6c9b8e7b8b062fd16b18e2a992e8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::BarcodeParameters::set_SymbolRotation</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_SymbolRotation</name>
+        <qualifiedname>Aspose::Words::Fields::BarcodeParameters::set_SymbolRotation</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Rotation of the barcode symbol. Valid values are [0, 3]. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="66" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Container class for barcode parameters to pass-through to BarcodeGenerator. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Fields::BarcodeParameters</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Fields::BarcodeParameters</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/BarcodeParameters.h" line="22" column="1" bodyfile="Aspose.Words.Cpp/Fields/BarcodeParameters.h" bodystart="23" bodyend="156"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a61efbc8d7d2349c2b95de3e2f8eb7413" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>BarcodeParameters</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1aee15274cc0e5a6fa5c6b60f6ab0f9ee7" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a7b73d4c8a47e7608a2f8b73a03731e7f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>get_AddStartStopChar</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a635823b4e6836573121233617dc4bc85" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>get_BackgroundColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a2a489d75a3b8ade437485dbecbf541dd" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>get_BarcodeType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a27d5f1ed74f83602152cb7c25476a963" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>get_BarcodeValue</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a1f97c35bc19b68804256c575c073f2b3" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>get_CaseCodeStyle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a0b64a0e338f6a60f5b2c5d879e9036a1" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>get_DisplayText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a4526d9214986f37d68dae45347b20f87" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>get_ErrorCorrectionLevel</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1ab15b85a5d0c7882aa3621fbacb47387e" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>get_FacingIdentificationMark</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a4c01f79bd7593e19b55467939a8f2451" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>get_FixCheckDigit</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1abebc5f3d0878b7e6fa697dd9265b97ba" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>get_ForegroundColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1ac566da859fcf8d3adb15aaf4686073c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>get_IsBookmark</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1aaaf8b6ac7b5bcda50472e7fad6686bc0" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>get_IsUSPostalAddress</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a4db2b8c494f41ec101ea6f4fad560f6a" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>get_PosCodeStyle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1aeeca1a75d7d2276d4fe5c5276e407ef0" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>get_PostalAddress</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1ae9d621ac07508f122bf27568bdf23cf8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>get_ScalingFactor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1ab5b86cce59d28a5630a007e303b973c3" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>get_SymbolHeight</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a8550b7f54639e7d258557eb236ff3a18" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>get_SymbolRotation</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a8a7b49ae6b93ca5be61a71f3ee2de21a" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1af24b5d0a714bc51bb1089fb88bbdbb42" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1afbab7181f8e9cc46cdff6f6d1275d327" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>mField10</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1adf4b654c8d05b11fd1f1b19d288bdcae" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>mField11</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a2c195b471ae0ab2def38bb07dad9e923" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>mField12</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a05a6744b5c8f2ee9d395f1b3ee6ee752" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>mField13</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1add83786297214a7fde909e05694d71b1" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>mField14</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a5c6a0d9809d9bc82d5690a0d23b1afbd" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>mField15</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1aeff41b425ceb73cef340688c08eb594a" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>mField16</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1af9b20c946f792854bd27149240ffefc6" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a9af347273b818f68e6c07d0c8a1de554" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a7b8c66f01fac0d33f85fbe94db663d37" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1ac21e632a649a2bd6743d2ae32be271ad" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a728ede5db7bd2522eb45f9a8702b4111" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>mField6</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a20a867bd238be00be4c94b87a7979b6c" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>mField7</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a9e0362d9730474e0c7c13b0d412e6481" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>mField8</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a6da34b180dc1764a2aa8f99917b4fd22" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>mField9</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a2935d17faaf6c4df6e54948bfe7beb6e" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a02b3af25982fa5b22f5c0cebbad6c491" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>set_AddStartStopChar</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a5dbd5d2d85cd2eca6f6949d01e15f352" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>set_BackgroundColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1ade6d6549cd458ad6d0747fed558110b8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>set_BarcodeType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a97b864b08e8a371f2961e6a28e22ea2b" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>set_BarcodeValue</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a9d6cb6846ea17fa8030e0c986ad396c5" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>set_CaseCodeStyle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a7ebc8531bbbd32ba8c49062b5e6b45a3" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>set_DisplayText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1af5b50bbcea4e9914a9f9ff684233bf17" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>set_ErrorCorrectionLevel</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1ab7d62ade7e363b37852859a8bfb9751d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>set_FacingIdentificationMark</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1aea51ccf08d099a824bb743773df6133d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>set_FixCheckDigit</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1ae3b4fab40f9487ce8e4f17b48e89cf57" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>set_ForegroundColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1af340d6c227c1529a9f2c9835d4b57648" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>set_IsBookmark</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1acb105487e5155e53fbc9b3ff58bffd98" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>set_IsUSPostalAddress</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a30756dd2631c772dc3796a9ab7cfe5e5" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>set_PosCodeStyle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a31f2402f7858192f9923f2c935fdf7de" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>set_PostalAddress</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a09fc435c5efdef1c60ed8b1cb74c2de5" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>set_ScalingFactor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a98f533b53b62a63cd869b49300c35d39" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>set_SymbolHeight</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1ab2cb6c9b8e7b8b062fd16b18e2a992e8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>set_SymbolRotation</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1a229526726c8aad8008a552a911d90cbb" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters_1aaccbdf180bad7e560485195ca709f37c" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::BarcodeParameters</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

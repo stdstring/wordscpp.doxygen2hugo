@@ -1,0 +1,579 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_settings_1_1_view_options" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Settings::ViewOptions</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_view_options_8h" local="no">Aspose.Words.Cpp/Settings/ViewOptions.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_settings_1_1_view_options_1ad8bf68fcc6404f8c0a43d505be1b4345" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Settings::ViewOptions::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Settings::ViewOptions::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/ViewOptions.h" line="65" column="28" bodyfile="Aspose.Words.Cpp/Settings/ViewOptions.h" bodystart="65" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_settings_1_1_view_options_1aaba654c7b6eb3bb6e14ac45c98a72dec" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_settings_1_1_view_options" kindref="compound">ViewOptions</ref></type>
+        <definition>typedef ViewOptions Aspose::Words::Settings::ViewOptions::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Settings::ViewOptions::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/ViewOptions.h" line="64" column="25" bodyfile="Aspose.Words.Cpp/Settings/ViewOptions.h" bodystart="64" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_settings_1_1_view_options_1a825b4c07dbd96994f19172647714ad78" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Settings::ViewOptions::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Settings::ViewOptions::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/ViewOptions.h" line="67" column="37" bodyfile="Aspose.Words.Cpp/Settings/ViewOptions.h" bodystart="67" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_view_options_1ae561ce3ce207c3447cb96bc5e7c3fa45" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Settings::ViewOptions::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Settings::ViewOptions::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/ViewOptions.h" line="262" column="23" bodyfile="Aspose.Words.Cpp/Settings/ViewOptions.h" bodystart="262" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_view_options_1a8c25de16addfb244cde0e7e925149e37" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Settings::ViewOptions::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Settings::ViewOptions::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/ViewOptions.h" line="263" column="23" bodyfile="Aspose.Words.Cpp/Settings/ViewOptions.h" bodystart="263" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_view_options_1a3a4ad3b75dd53e22771e5055ba55143e" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Settings::ViewOptions::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Settings::ViewOptions::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/ViewOptions.h" line="264" column="23" bodyfile="Aspose.Words.Cpp/Settings/ViewOptions.h" bodystart="264" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_view_options_1ab4e3cc8700be583873f36767a9512b5e" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Settings::ViewOptions::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Settings::ViewOptions::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/ViewOptions.h" line="265" column="23" bodyfile="Aspose.Words.Cpp/Settings/ViewOptions.h" bodystart="265" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_view_options_1aa53754e8ae6ec087e517cfe5f3781351" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Settings::ViewOptions::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Settings::ViewOptions::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/ViewOptions.h" line="266" column="23" bodyfile="Aspose.Words.Cpp/Settings/ViewOptions.h" bodystart="266" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_view_options_1a17248ae7329ff60b6398f6939c4e3628" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Settings::ViewOptions::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::Settings::ViewOptions::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/ViewOptions.h" line="267" column="23" bodyfile="Aspose.Words.Cpp/Settings/ViewOptions.h" bodystart="267" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_view_options_1ab2fdf553f380a3f153cc903f7861fe2b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Settings::ViewOptions::ViewOptions</definition>
+        <argsstring>()</argsstring>
+        <name>ViewOptions</name>
+        <qualifiedname>Aspose::Words::Settings::ViewOptions::ViewOptions</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/ViewOptions.h" line="258" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_view_options_1a98fd6bb4c33f0ff287a00234df0cfcf9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Settings::ViewOptions::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Settings::ViewOptions::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/ViewOptions.h" line="68" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_view_options_1ad53f9c8d196c4b8f1ee1e7b4da1e2b69" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Settings::ViewOptions::get_DisplayBackgroundShape</definition>
+        <argsstring>() const</argsstring>
+        <name>get_DisplayBackgroundShape</name>
+        <qualifiedname>Aspose::Words::Settings::ViewOptions::get_DisplayBackgroundShape</qualifiedname>
+        <briefdescription>
+<para>Controls display of the background shape in print layout view. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to hide/display document background images in view options. <programlisting><codeline><highlight class="comment">//<sp/>Use<sp/>an<sp/>HTML<sp/>string<sp/>to<sp/>create<sp/>a<sp/>new<sp/>document<sp/>with<sp/>a<sp/>flat<sp/>background<sp/>color.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>html<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;html&gt;\n<sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;body<sp/>style=&apos;background-color:<sp/>blue&apos;&gt;\n<sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;p&gt;Hello<sp/>world!&lt;/p&gt;\n<sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;&lt;/body&gt;\n<sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;/html&gt;&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MakeObject&lt;System::IO::MemoryStream&gt;(<ref refid="class/system.text.encoding/_1abb5f43673ec9f4bbb04cb66477a87fc5" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Text::Encoding::get_Unicode</ref>()-&gt;GetBytes(html)));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>source<sp/>for<sp/>the<sp/>document<sp/>has<sp/>a<sp/>flat<sp/>color<sp/>background,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>presence<sp/>of<sp/>which<sp/>will<sp/>set<sp/>the<sp/>&quot;DisplayBackgroundShape&quot;<sp/>flag<sp/>to<sp/>&quot;true&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_ViewOptions()-&gt;get_DisplayBackgroundShape());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Keep<sp/>the<sp/>&quot;DisplayBackgroundShape&quot;<sp/>as<sp/>&quot;true&quot;<sp/>to<sp/>get<sp/>the<sp/>document<sp/>to<sp/>display<sp/>the<sp/>background<sp/>color.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>may<sp/>affect<sp/>some<sp/>text<sp/>colors<sp/>to<sp/>improve<sp/>visibility.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;DisplayBackgroundShape&quot;<sp/>to<sp/>&quot;false&quot;<sp/>to<sp/>not<sp/>display<sp/>the<sp/>background<sp/>color.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_ViewOptions()-&gt;set_DisplayBackgroundShape(displayBackgroundShape);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;ViewOptions.DisplayBackgroundShape.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/ViewOptions.h" line="226" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_view_options_1ae08c46c54443da5d8af52cdf19f4d688" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Settings::ViewOptions::get_DoNotDisplayPageBoundaries</definition>
+        <argsstring>() const</argsstring>
+        <name>get_DoNotDisplayPageBoundaries</name>
+        <qualifiedname>Aspose::Words::Settings::ViewOptions::get_DoNotDisplayPageBoundaries</qualifiedname>
+        <briefdescription>
+<para>Turns off display of the space between the top of the text and the top edge of the page. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to hide vertical whitespace and headers/footers in view options. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>content<sp/>that<sp/>spans<sp/>across<sp/>3<sp/>pages.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>1,<sp/>Page<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>2,<sp/>Page<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>3,<sp/>Page<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>header<sp/>and<sp/>a<sp/>footer.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveToHeaderFooter(<ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69a12c5d70f31f632e51d3a7273fc3c23f2" kindref="member" tooltip="Primary header, also used for odd numbered pages.">HeaderFooterType::HeaderPrimary</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>the<sp/>header.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveToHeaderFooter(<ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69af8e178a8382a14e6a14bb9f08e7d6a86" kindref="member" tooltip="Primary footer, also used for odd numbered pages.">HeaderFooterType::FooterPrimary</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>the<sp/>footer.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>document<sp/>contains<sp/>a<sp/>small<sp/>amount<sp/>of<sp/>content<sp/>that<sp/>takes<sp/>up<sp/>a<sp/>few<sp/>full<sp/>pages<sp/>worth<sp/>of<sp/>space.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;DoNotDisplayPageBoundaries&quot;<sp/>flag<sp/>to<sp/>&quot;true&quot;<sp/>to<sp/>get<sp/>older<sp/>versions<sp/>of<sp/>Microsoft<sp/>Word<sp/>to<sp/>omit<sp/>headers,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>footers,<sp/>and<sp/>much<sp/>of<sp/>the<sp/>vertical<sp/>whitespace<sp/>when<sp/>displaying<sp/>our<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;DoNotDisplayPageBoundaries&quot;<sp/>flag<sp/>to<sp/>&quot;false&quot;<sp/>to<sp/>get<sp/>older<sp/>versions<sp/>of<sp/>Microsoft<sp/>Word</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>normally<sp/>display<sp/>our<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_ViewOptions()-&gt;set_DoNotDisplayPageBoundaries(doNotDisplayPageBoundaries);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;ViewOptions.DisplayPageBoundaries.doc&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/ViewOptions.h" line="198" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_view_options_1a5c8b9f5967cd0ca82295b6de29874514" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Settings::ViewOptions::get_FormsDesign</definition>
+        <argsstring>() const</argsstring>
+        <name>get_FormsDesign</name>
+        <qualifiedname>Aspose::Words::Settings::ViewOptions::get_FormsDesign</qualifiedname>
+        <briefdescription>
+<para>Specifies whether the document is in forms design mode. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Currently works only for documents in WordML format.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to enable/disable forms design mode. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;FormsDesign&quot;<sp/>property<sp/>to<sp/>&quot;false&quot;<sp/>to<sp/>keep<sp/>forms<sp/>design<sp/>mode<sp/>disabled.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;FormsDesign&quot;<sp/>property<sp/>to<sp/>&quot;true&quot;<sp/>to<sp/>enable<sp/>forms<sp/>design<sp/>mode.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_ViewOptions()-&gt;set_FormsDesign(useFormsDesign);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;ViewOptions.FormsDesign.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(useFormsDesign,<sp/><ref refid="class/system.i_o.file/_1a44b456da9461cd60c432ed0efac1e6d8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::ReadAllText</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;ViewOptions.FormsDesign.xml&quot;</highlight><highlight class="normal">).Contains(u</highlight><highlight class="stringliteral">&quot;&lt;w:formsDesign<sp/>/&gt;&quot;</highlight><highlight class="normal">));</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/ViewOptions.h" line="251" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_view_options_1a40515d73a14fe07aa0c0d0509f5ccc5b" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_settings_1a6ad6250edf69b8021951e03898231935" kindref="member">Aspose::Words::Settings::ViewType</ref></type>
+        <definition>Aspose::Words::Settings::ViewType Aspose::Words::Settings::ViewOptions::get_ViewType</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ViewType</name>
+        <qualifiedname>Aspose::Words::Settings::ViewOptions::get_ViewType</qualifiedname>
+        <briefdescription>
+<para>Controls the view mode in Microsoft Word. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Although Aspose.Words is able to read and write this option, its usage is application-specific. For example MS Word 2013 does not respect the value of this option.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set a custom zoom factor, which older versions of Microsoft Word will apply to a document upon loading. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_ViewOptions()-&gt;set_ViewType(<ref refid="namespace_aspose_1_1_words_1_1_settings_1a6ad6250edf69b8021951e03898231935a932e0cd60f6e3347fb5be24041681e02" kindref="member" tooltip="The document shall be opened in a view that displays the document as it will print.">ViewType::PageLayout</ref>);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_ViewOptions()-&gt;set_ZoomPercent(50);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_settings_1a669832789ed0bb30af35ae34c414fa56a90589c47f06eb971d548591f23c285af" kindref="member" tooltip="Zoom percentage is set explicitly. It is not recalculated automatically when control size changes.">ZoomType::Custom</ref>,<sp/>doc-&gt;get_ViewOptions()-&gt;get_ZoomType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_settings_1a669832789ed0bb30af35ae34c414fa56a6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="Indicates to use the explicit zoom percentage. Same as Custom.">ZoomType::None</ref>,<sp/>doc-&gt;get_ViewOptions()-&gt;get_ZoomType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;ViewOptions.SetZoomPercentage.doc&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/ViewOptions.h" line="93" column="42"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_view_options_1adefe2f9d3a7e03571801c698d4b9c6db" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Settings::ViewOptions::get_ZoomPercent</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ZoomPercent</name>
+        <qualifiedname>Aspose::Words::Settings::ViewOptions::get_ZoomPercent</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the percentage (between 10 and 500) at which you want to view your document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>If value is 0 then this property uses 100 instead, else if value is less than 10 or greater than 500 this property throws.</para>
+<para>Although Aspose.Words is able to read and write this option, its usage is application-specific. For example MS Word 2013 does not respect the value of this option.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set a custom zoom factor, which older versions of Microsoft Word will apply to a document upon loading. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_ViewOptions()-&gt;set_ViewType(<ref refid="namespace_aspose_1_1_words_1_1_settings_1a6ad6250edf69b8021951e03898231935a932e0cd60f6e3347fb5be24041681e02" kindref="member" tooltip="The document shall be opened in a view that displays the document as it will print.">ViewType::PageLayout</ref>);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_ViewOptions()-&gt;set_ZoomPercent(50);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_settings_1a669832789ed0bb30af35ae34c414fa56a90589c47f06eb971d548591f23c285af" kindref="member" tooltip="Zoom percentage is set explicitly. It is not recalculated automatically when control size changes.">ZoomType::Custom</ref>,<sp/>doc-&gt;get_ViewOptions()-&gt;get_ZoomType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_settings_1a669832789ed0bb30af35ae34c414fa56a6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="Indicates to use the explicit zoom percentage. Same as Custom.">ZoomType::None</ref>,<sp/>doc-&gt;get_ViewOptions()-&gt;get_ZoomType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;ViewOptions.SetZoomPercentage.doc&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/ViewOptions.h" line="162" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_view_options_1aeeb9803a9adbd282a160a6d8b67835cf" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_settings_1a669832789ed0bb30af35ae34c414fa56" kindref="member">Aspose::Words::Settings::ZoomType</ref></type>
+        <definition>Aspose::Words::Settings::ZoomType Aspose::Words::Settings::ViewOptions::get_ZoomType</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ZoomType</name>
+        <qualifiedname>Aspose::Words::Settings::ViewOptions::get_ZoomType</qualifiedname>
+        <briefdescription>
+<para>Gets or sets a zoom value based on the size of the window. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set a custom zoom factor, which older versions of Microsoft Word will apply to a document upon loading. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_ViewOptions()-&gt;set_ViewType(<ref refid="namespace_aspose_1_1_words_1_1_settings_1a6ad6250edf69b8021951e03898231935a932e0cd60f6e3347fb5be24041681e02" kindref="member" tooltip="The document shall be opened in a view that displays the document as it will print.">ViewType::PageLayout</ref>);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_ViewOptions()-&gt;set_ZoomPercent(50);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_settings_1a669832789ed0bb30af35ae34c414fa56a90589c47f06eb971d548591f23c285af" kindref="member" tooltip="Zoom percentage is set explicitly. It is not recalculated automatically when control size changes.">ZoomType::Custom</ref>,<sp/>doc-&gt;get_ViewOptions()-&gt;get_ZoomType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_settings_1a669832789ed0bb30af35ae34c414fa56a6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="Indicates to use the explicit zoom percentage. Same as Custom.">ZoomType::None</ref>,<sp/>doc-&gt;get_ViewOptions()-&gt;get_ZoomType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;ViewOptions.SetZoomPercentage.doc&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to set a custom zoom type, which older versions of Microsoft Word will apply to a document upon loading. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ZoomType&quot;<sp/>property<sp/>to<sp/>&quot;ZoomType.PageWidth&quot;<sp/>to<sp/>get<sp/>Microsoft<sp/>Word</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>automatically<sp/>zoom<sp/>the<sp/>document<sp/>to<sp/>fit<sp/>the<sp/>width<sp/>of<sp/>the<sp/>page.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ZoomType&quot;<sp/>property<sp/>to<sp/>&quot;ZoomType.FullPage&quot;<sp/>to<sp/>get<sp/>Microsoft<sp/>Word</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>automatically<sp/>zoom<sp/>the<sp/>document<sp/>to<sp/>make<sp/>the<sp/>entire<sp/>first<sp/>page<sp/>visible.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ZoomType&quot;<sp/>property<sp/>to<sp/>&quot;ZoomType.TextFit&quot;<sp/>to<sp/>get<sp/>Microsoft<sp/>Word</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>automatically<sp/>zoom<sp/>the<sp/>document<sp/>to<sp/>fit<sp/>the<sp/>inner<sp/>text<sp/>margins<sp/>of<sp/>the<sp/>first<sp/>page.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_ViewOptions()-&gt;set_ZoomType(zoomType);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;ViewOptions.SetZoomType.doc&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/ViewOptions.h" line="133" column="42"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_view_options_1a7966fb47be8c87d9e73be3a86db7bff4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::ViewOptions::set_DisplayBackgroundShape</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_DisplayBackgroundShape</name>
+        <qualifiedname>Aspose::Words::Settings::ViewOptions::set_DisplayBackgroundShape</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1ad53f9c8d196c4b8f1ee1e7b4da1e2b69" kindref="member">Aspose::Words::Settings::ViewOptions::get_DisplayBackgroundShape</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/ViewOptions.h" line="229" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_view_options_1a415b03ce5e22dc5d2619d79abec81057" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::ViewOptions::set_DoNotDisplayPageBoundaries</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_DoNotDisplayPageBoundaries</name>
+        <qualifiedname>Aspose::Words::Settings::ViewOptions::set_DoNotDisplayPageBoundaries</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1ae08c46c54443da5d8af52cdf19f4d688" kindref="member">Aspose::Words::Settings::ViewOptions::get_DoNotDisplayPageBoundaries</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/ViewOptions.h" line="201" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_view_options_1abe293de776a44256c283816b19e53cb5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::ViewOptions::set_FormsDesign</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_FormsDesign</name>
+        <qualifiedname>Aspose::Words::Settings::ViewOptions::set_FormsDesign</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1a5c8b9f5967cd0ca82295b6de29874514" kindref="member">Aspose::Words::Settings::ViewOptions::get_FormsDesign</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/ViewOptions.h" line="254" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_view_options_1a80aa2b5f7a61708793da6e46b026ba6b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::ViewOptions::set_ViewType</definition>
+        <argsstring>(Aspose::Words::Settings::ViewType value)</argsstring>
+        <name>set_ViewType</name>
+        <qualifiedname>Aspose::Words::Settings::ViewOptions::set_ViewType</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_settings_1a6ad6250edf69b8021951e03898231935" kindref="member">Aspose::Words::Settings::ViewType</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1a40515d73a14fe07aa0c0d0509f5ccc5b" kindref="member">Aspose::Words::Settings::ViewOptions::get_ViewType</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/ViewOptions.h" line="96" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_view_options_1aef5b3c7fadf791964a56a42ab5ebd730" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::ViewOptions::set_ZoomPercent</definition>
+        <argsstring>(int32_t value)</argsstring>
+        <name>set_ZoomPercent</name>
+        <qualifiedname>Aspose::Words::Settings::ViewOptions::set_ZoomPercent</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1adefe2f9d3a7e03571801c698d4b9c6db" kindref="member">Aspose::Words::Settings::ViewOptions::get_ZoomPercent</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/ViewOptions.h" line="165" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_view_options_1a19adc1e1040bc69866d071fc1814aa34" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::ViewOptions::set_ZoomType</definition>
+        <argsstring>(Aspose::Words::Settings::ZoomType value)</argsstring>
+        <name>set_ZoomType</name>
+        <qualifiedname>Aspose::Words::Settings::ViewOptions::set_ZoomType</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_settings_1a669832789ed0bb30af35ae34c414fa56" kindref="member">Aspose::Words::Settings::ZoomType</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1aeeb9803a9adbd282a160a6d8b67835cf" kindref="member">Aspose::Words::Settings::ViewOptions::get_ZoomType</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/ViewOptions.h" line="136" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Provides various options that control how a document is shown in Microsoft Word. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Aspose::Words::Document</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_document_1aee86ddf4cc74a7a8521b393e637aae87" kindref="member">Aspose::Words::Document::get_ViewOptions</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set a custom zoom factor, which older versions of Microsoft Word will apply to a document upon loading. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_ViewOptions()-&gt;set_ViewType(<ref refid="namespace_aspose_1_1_words_1_1_settings_1a6ad6250edf69b8021951e03898231935a932e0cd60f6e3347fb5be24041681e02" kindref="member" tooltip="The document shall be opened in a view that displays the document as it will print.">ViewType::PageLayout</ref>);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_ViewOptions()-&gt;set_ZoomPercent(50);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_settings_1a669832789ed0bb30af35ae34c414fa56a90589c47f06eb971d548591f23c285af" kindref="member" tooltip="Zoom percentage is set explicitly. It is not recalculated automatically when control size changes.">ZoomType::Custom</ref>,<sp/>doc-&gt;get_ViewOptions()-&gt;get_ZoomType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_settings_1a669832789ed0bb30af35ae34c414fa56a6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="Indicates to use the explicit zoom percentage. Same as Custom.">ZoomType::None</ref>,<sp/>doc-&gt;get_ViewOptions()-&gt;get_ZoomType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;ViewOptions.SetZoomPercentage.doc&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to set a custom zoom type, which older versions of Microsoft Word will apply to a document upon loading. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ZoomType&quot;<sp/>property<sp/>to<sp/>&quot;ZoomType.PageWidth&quot;<sp/>to<sp/>get<sp/>Microsoft<sp/>Word</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>automatically<sp/>zoom<sp/>the<sp/>document<sp/>to<sp/>fit<sp/>the<sp/>width<sp/>of<sp/>the<sp/>page.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ZoomType&quot;<sp/>property<sp/>to<sp/>&quot;ZoomType.FullPage&quot;<sp/>to<sp/>get<sp/>Microsoft<sp/>Word</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>automatically<sp/>zoom<sp/>the<sp/>document<sp/>to<sp/>make<sp/>the<sp/>entire<sp/>first<sp/>page<sp/>visible.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ZoomType&quot;<sp/>property<sp/>to<sp/>&quot;ZoomType.TextFit&quot;<sp/>to<sp/>get<sp/>Microsoft<sp/>Word</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>automatically<sp/>zoom<sp/>the<sp/>document<sp/>to<sp/>fit<sp/>the<sp/>inner<sp/>text<sp/>margins<sp/>of<sp/>the<sp/>first<sp/>page.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_ViewOptions()-&gt;set_ZoomType(zoomType);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;ViewOptions.SetZoomType.doc&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Settings::ViewOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_settings_1_1_view_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Settings::ViewOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_settings_1_1_view_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Settings/ViewOptions.h" line="62" column="1" bodyfile="Aspose.Words.Cpp/Settings/ViewOptions.h" bodystart="63" bodyend="269"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1ad8bf68fcc6404f8c0a43d505be1b4345" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::ViewOptions</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1ad53f9c8d196c4b8f1ee1e7b4da1e2b69" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::ViewOptions</scope><name>get_DisplayBackgroundShape</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1ae08c46c54443da5d8af52cdf19f4d688" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::ViewOptions</scope><name>get_DoNotDisplayPageBoundaries</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1a5c8b9f5967cd0ca82295b6de29874514" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::ViewOptions</scope><name>get_FormsDesign</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1a40515d73a14fe07aa0c0d0509f5ccc5b" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::ViewOptions</scope><name>get_ViewType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1adefe2f9d3a7e03571801c698d4b9c6db" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::ViewOptions</scope><name>get_ZoomPercent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1aeeb9803a9adbd282a160a6d8b67835cf" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::ViewOptions</scope><name>get_ZoomType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1ae561ce3ce207c3447cb96bc5e7c3fa45" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::ViewOptions</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1a8c25de16addfb244cde0e7e925149e37" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::ViewOptions</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1a3a4ad3b75dd53e22771e5055ba55143e" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::ViewOptions</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1ab4e3cc8700be583873f36767a9512b5e" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::ViewOptions</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1aa53754e8ae6ec087e517cfe5f3781351" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::ViewOptions</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1a17248ae7329ff60b6398f6939c4e3628" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::ViewOptions</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1a98fd6bb4c33f0ff287a00234df0cfcf9" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::ViewOptions</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1a7966fb47be8c87d9e73be3a86db7bff4" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::ViewOptions</scope><name>set_DisplayBackgroundShape</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1a415b03ce5e22dc5d2619d79abec81057" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::ViewOptions</scope><name>set_DoNotDisplayPageBoundaries</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1abe293de776a44256c283816b19e53cb5" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::ViewOptions</scope><name>set_FormsDesign</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1a80aa2b5f7a61708793da6e46b026ba6b" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::ViewOptions</scope><name>set_ViewType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1aef5b3c7fadf791964a56a42ab5ebd730" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::ViewOptions</scope><name>set_ZoomPercent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1a19adc1e1040bc69866d071fc1814aa34" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::ViewOptions</scope><name>set_ZoomType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1aaba654c7b6eb3bb6e14ac45c98a72dec" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::ViewOptions</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1a825b4c07dbd96994f19172647714ad78" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::ViewOptions</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1ab2fdf553f380a3f153cc903f7861fe2b" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::ViewOptions</scope><name>ViewOptions</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

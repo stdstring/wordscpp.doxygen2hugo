@@ -1,0 +1,753 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_warning_info_collection" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::WarningInfoCollection</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_i_warning_callback" prot="public" virt="non-virtual">Aspose::Words::IWarningCallback</basecompoundref>
+    <basecompoundref refid="class/system.collections.generic.i_enumerable/" prot="public" virt="non-virtual">System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::WarningInfo &gt; &gt;</basecompoundref>
+    <includes refid="_warning_info_collection_8h" local="no">Aspose.Words.Cpp/WarningInfoCollection.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_warning_info_collection_1ae71b94be8d5565678a22b276cb7ec499" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_i_warning_callback" kindref="compound">Aspose::Words::IWarningCallback</ref></type>
+        <definition>typedef Aspose::Words::IWarningCallback Aspose::Words::WarningInfoCollection::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="115" column="45" bodyfile="Aspose.Words.Cpp/WarningInfoCollection.h" bodystart="115" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_warning_info_collection_1ad00f8e9ddfd9c2071b4efc4b82b56e53" prot="private" static="no">
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_warning_info" kindref="compound">Aspose::Words::WarningInfo</ref> &gt; &gt;</type>
+        <definition>typedef System::Collections::Generic::IEnumerable&lt;System::SharedPtr&lt;Aspose::Words::WarningInfo&gt; &gt; Aspose::Words::WarningInfoCollection::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="116" column="55" bodyfile="Aspose.Words.Cpp/WarningInfoCollection.h" bodystart="116" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_warning_info_collection_1ad3e5c67f2b3c9ee172f3fcad5561129b" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_warning_info_collection" kindref="compound">WarningInfoCollection</ref></type>
+        <definition>typedef WarningInfoCollection Aspose::Words::WarningInfoCollection::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="114" column="35" bodyfile="Aspose.Words.Cpp/WarningInfoCollection.h" bodystart="114" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_warning_info_collection_1ac37e46a4a7a6dbb75a8055577fc01b5d" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_i_warning_callback" kindref="compound">BaseType</ref>, <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType1</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::WarningInfoCollection::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="118" column="37" bodyfile="Aspose.Words.Cpp/WarningInfoCollection.h" bodystart="118" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_warning_info_collection_1a67088caac8637aa34b2c1d4980ccde96" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.list/_1a0f284b9cbb583432336a9ce4f0b9c84a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
+        <definition>using Aspose::Words::WarningInfoCollection::const_iterator =  typename iterator_holder_type::const_iterator</definition>
+        <argsstring></argsstring>
+        <name>const_iterator</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::const_iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="127" column="5" bodyfile="Aspose.Words.Cpp/WarningInfoCollection.h" bodystart="127" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_warning_info_collection_1a78d4f6bbb74f307cf39e1b18caea630e" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.list/_1ab0ac6ed1e49acd56e069fe8614c87f3d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
+        <definition>using Aspose::Words::WarningInfoCollection::iterator =  typename iterator_holder_type::iterator</definition>
+        <argsstring></argsstring>
+        <name>iterator</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="125" column="5" bodyfile="Aspose.Words.Cpp/WarningInfoCollection.h" bodystart="125" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_warning_info_collection_1a648b181ba0e9f6b8e51a78cc4320b972" prot="public" static="no">
+        <type><ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_warning_info" kindref="compound">Aspose::Words::WarningInfo</ref> &gt; &gt;</type>
+        <definition>using Aspose::Words::WarningInfoCollection::iterator_holder_type =  System::Collections::Generic::List&lt;System::SharedPtr&lt;Aspose::Words::WarningInfo&gt; &gt;</definition>
+        <argsstring></argsstring>
+        <name>iterator_holder_type</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::iterator_holder_type</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="123" column="5" bodyfile="Aspose.Words.Cpp/WarningInfoCollection.h" bodystart="123" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_warning_info_collection_1a6338fc4b33f92f394352e282311a515f" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
+        <definition>using Aspose::Words::WarningInfoCollection::virtualized_iterator =  typename iterator_holder_type::virtualized_iterator</definition>
+        <argsstring></argsstring>
+        <name>virtualized_iterator</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::virtualized_iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="131" column="5" bodyfile="Aspose.Words.Cpp/WarningInfoCollection.h" bodystart="131" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_warning_info_collection_1a783d3a4143fbc33707be02c02a50d592" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
+        <definition>using Aspose::Words::WarningInfoCollection::virtualized_iterator_element =  typename iterator_holder_type::virtualized_iterator_element</definition>
+        <argsstring></argsstring>
+        <name>virtualized_iterator_element</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::virtualized_iterator_element</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="129" column="5" bodyfile="Aspose.Words.Cpp/WarningInfoCollection.h" bodystart="129" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_warning_info_collection_1addf6441367f5c944bf4ddf735d9fd18a" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::WarningInfoCollection::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="369" column="23" bodyfile="Aspose.Words.Cpp/WarningInfoCollection.h" bodystart="369" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_warning_info_collection_1a299c370d37bed76df039a8161bcfed9f" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::WarningInfoCollection::~WarningInfoCollection</definition>
+        <argsstring>()</argsstring>
+        <name>~WarningInfoCollection</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::~WarningInfoCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="365" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_warning_info_collection_1af6a9d5cc7147a36a62701c8562e9c21c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::WarningInfoCollection::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::RTTI_INFO_DECL_EX</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_i_warning_callback_1a0c96712c8b0464774453e9e85272e9a4">RTTI_INFO_DECL_EX</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="119" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_warning_info_collection_1ace6cce49cb865991da870c5f36b4f89a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::WarningInfoCollection::WarningInfoCollection</definition>
+        <argsstring>()</argsstring>
+        <name>WarningInfoCollection</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::WarningInfoCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="341" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_warning_info_collection_1a95bd360793049681162f24d081eaf3e3" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_warning_info_collection_1a67088caac8637aa34b2c1d4980ccde96" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::WarningInfoCollection::begin</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>begin</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::begin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="347" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_warning_info_collection_1a96e0db354a35fb7c1dc05cf1aa4d6395" prot="public" static="no" const="no" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_warning_info_collection_1a78d4f6bbb74f307cf39e1b18caea630e" kindref="member">iterator</ref></type>
+        <definition>iterator Aspose::Words::WarningInfoCollection::begin</definition>
+        <argsstring>() noexcept</argsstring>
+        <name>begin</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::begin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="343" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_warning_info_collection_1ab49fea304267853177d49f76133aa0ee" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_warning_info_collection_1a67088caac8637aa34b2c1d4980ccde96" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::WarningInfoCollection::cbegin</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>cbegin</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::cbegin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="351" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_warning_info_collection_1a6a8ede7c60212e655c05c89143500782" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_warning_info_collection_1a67088caac8637aa34b2c1d4980ccde96" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::WarningInfoCollection::cend</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>cend</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::cend</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="353" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_warning_info_collection_1a68ca6ffbaec8f742001c5ac2d9201872" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::WarningInfoCollection::Clear</definition>
+        <argsstring>()</argsstring>
+        <name>Clear</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::Clear</qualifiedname>
+        <briefdescription>
+<para>Removes all elements from the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set the property for finding the closest match for a missing font from the available font sources. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>EnableFontSubstitution()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>that<sp/>contains<sp/>text<sp/>formatted<sp/>with<sp/>a<sp/>font<sp/>that<sp/>does<sp/>not<sp/>exist<sp/>in<sp/>any<sp/>of<sp/>our<sp/>font<sp/>sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Missing<sp/>font.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Assign<sp/>a<sp/>callback<sp/>for<sp/>handling<sp/>font<sp/>substitution<sp/>warnings.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>substitutionWarningHandler<sp/>=<sp/>MakeObject&lt;ExFontSettings::HandleDocumentSubstitutionWarnings&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;set_WarningCallback(substitutionWarningHandler);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>default<sp/>font<sp/>name<sp/>and<sp/>enable<sp/>font<sp/>substitution.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fontSettings-&gt;get_SubstitutionSettings()-&gt;get_DefaultFontSubstitution()-&gt;set_DefaultFontName(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fontSettings-&gt;get_SubstitutionSettings()-&gt;get_FontInfoSubstitution()-&gt;set_Enabled(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>get<sp/>a<sp/>font<sp/>substitution<sp/>warning<sp/>if<sp/>we<sp/>save<sp/>a<sp/>document<sp/>with<sp/>a<sp/>missing<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.EnableFontSubstitution.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;WarningInfo&gt;&gt;&gt;<sp/>warnings<sp/>=<sp/>substitutionWarningHandler-&gt;FontWarnings-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(warnings-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>warnings-&gt;get_Current()-&gt;get_Description()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>verify<sp/>warnings<sp/>in<sp/>the<sp/>collection<sp/>and<sp/>clear<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1ae78cf72acefc2cbe63016b04f8f44e7caebd9bec4d70abc789d439c1f136b0538" kindref="member" tooltip="Module that builds a document layout.">WarningSource::Layout</ref>,<sp/>substitutionWarningHandler-&gt;FontWarnings-&gt;idx_get(0)-&gt;get_Source());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Font<sp/>&apos;28<sp/>Days<sp/>Later&apos;<sp/>has<sp/>not<sp/>been<sp/>found.<sp/>Using<sp/>&apos;Calibri&apos;<sp/>font<sp/>instead.<sp/>Reason:<sp/>alternative<sp/>name<sp/>from<sp/>document.&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>substitutionWarningHandler-&gt;FontWarnings-&gt;idx_get(0)-&gt;get_Description());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>substitutionWarningHandler-&gt;FontWarnings-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(0,<sp/>substitutionWarningHandler-&gt;FontWarnings-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">HandleDocumentSubstitutionWarnings<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IWarningCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;WarningInfoCollection&gt;<sp/>FontWarnings;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>Warning(SharedPtr&lt;WarningInfo&gt;<sp/>info)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(info-&gt;get_WarningType()<sp/>==<sp/>WarningType::FontSubstitution)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>FontWarnings-&gt;Warning(info);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>HandleDocumentSubstitutionWarnings()<sp/>:<sp/>FontWarnings(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;WarningInfoCollection&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="273" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_warning_info_collection_1a9edef9ab3cd0351485076dd979ea426a" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_warning_info_collection_1a67088caac8637aa34b2c1d4980ccde96" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::WarningInfoCollection::end</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>end</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::end</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="349" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_warning_info_collection_1a9223bd8530b4f4ff79b4a98cbac83b23" prot="public" static="no" const="no" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_warning_info_collection_1a78d4f6bbb74f307cf39e1b18caea630e" kindref="member">iterator</ref></type>
+        <definition>iterator Aspose::Words::WarningInfoCollection::end</definition>
+        <argsstring>() noexcept</argsstring>
+        <name>end</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::end</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="345" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_warning_info_collection_1ad414cd6baa0a09cfa32bbcbb8c8b29fc" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::WarningInfoCollection::get_Count</definition>
+        <argsstring>()</argsstring>
+        <name>get_Count</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::get_Count</qualifiedname>
+        <briefdescription>
+<para>Gets the number of elements contained in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="136" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_warning_info_collection_1a282ff3f32cad1b8dc078600f35f1a44b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_warning_info" kindref="compound">Aspose::Words::WarningInfo</ref> &gt; &gt; &gt;</type>
+        <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::SharedPtr&lt; Aspose::Words::WarningInfo &gt; &gt; &gt; Aspose::Words::WarningInfoCollection::GetEnumerator</definition>
+        <argsstring>() override</argsstring>
+        <name>GetEnumerator</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::GetEnumerator</qualifiedname>
+        <briefdescription>
+<para>Returns an enumerator object that can be used to iterate over all items in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set the property for finding the closest match for a missing font from the available font sources. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>EnableFontSubstitution()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>that<sp/>contains<sp/>text<sp/>formatted<sp/>with<sp/>a<sp/>font<sp/>that<sp/>does<sp/>not<sp/>exist<sp/>in<sp/>any<sp/>of<sp/>our<sp/>font<sp/>sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Missing<sp/>font.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Assign<sp/>a<sp/>callback<sp/>for<sp/>handling<sp/>font<sp/>substitution<sp/>warnings.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>substitutionWarningHandler<sp/>=<sp/>MakeObject&lt;ExFontSettings::HandleDocumentSubstitutionWarnings&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;set_WarningCallback(substitutionWarningHandler);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>default<sp/>font<sp/>name<sp/>and<sp/>enable<sp/>font<sp/>substitution.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fontSettings-&gt;get_SubstitutionSettings()-&gt;get_DefaultFontSubstitution()-&gt;set_DefaultFontName(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fontSettings-&gt;get_SubstitutionSettings()-&gt;get_FontInfoSubstitution()-&gt;set_Enabled(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>get<sp/>a<sp/>font<sp/>substitution<sp/>warning<sp/>if<sp/>we<sp/>save<sp/>a<sp/>document<sp/>with<sp/>a<sp/>missing<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.EnableFontSubstitution.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;WarningInfo&gt;&gt;&gt;<sp/>warnings<sp/>=<sp/>substitutionWarningHandler-&gt;FontWarnings-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(warnings-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>warnings-&gt;get_Current()-&gt;get_Description()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>verify<sp/>warnings<sp/>in<sp/>the<sp/>collection<sp/>and<sp/>clear<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1ae78cf72acefc2cbe63016b04f8f44e7caebd9bec4d70abc789d439c1f136b0538" kindref="member" tooltip="Module that builds a document layout.">WarningSource::Layout</ref>,<sp/>substitutionWarningHandler-&gt;FontWarnings-&gt;idx_get(0)-&gt;get_Source());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Font<sp/>&apos;28<sp/>Days<sp/>Later&apos;<sp/>has<sp/>not<sp/>been<sp/>found.<sp/>Using<sp/>&apos;Calibri&apos;<sp/>font<sp/>instead.<sp/>Reason:<sp/>alternative<sp/>name<sp/>from<sp/>document.&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>substitutionWarningHandler-&gt;FontWarnings-&gt;idx_get(0)-&gt;get_Description());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>substitutionWarningHandler-&gt;FontWarnings-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(0,<sp/>substitutionWarningHandler-&gt;FontWarnings-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">HandleDocumentSubstitutionWarnings<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IWarningCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;WarningInfoCollection&gt;<sp/>FontWarnings;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>Warning(SharedPtr&lt;WarningInfo&gt;<sp/>info)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(info-&gt;get_WarningType()<sp/>==<sp/>WarningType::FontSubstitution)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>FontWarnings-&gt;Warning(info);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>HandleDocumentSubstitutionWarnings()<sp/>:<sp/>FontWarnings(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;WarningInfoCollection&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="207" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_warning_info_collection_1aac8e3a248f32b1c473c5002aa88d20d7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_warning_info" kindref="compound">Aspose::Words::WarningInfo</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::WarningInfo &gt; Aspose::Words::WarningInfoCollection::idx_get</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>idx_get</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::idx_get</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Gets an item at the specified index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>index</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Zero-based index of the item. </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="141" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_warning_info_collection_1ad20e8cc2bb1eb7c6b5fd4fb0721ad21d" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_warning_info_collection_1a6338fc4b33f92f394352e282311a515f" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::WarningInfoCollection::virtualizeBeginConstIterator</definition>
+        <argsstring>() const override</argsstring>
+        <name>virtualizeBeginConstIterator</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::virtualizeBeginConstIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="359" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_warning_info_collection_1a760efc1dc887287d82f0471644ff8f55" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_warning_info_collection_1a6338fc4b33f92f394352e282311a515f" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::WarningInfoCollection::virtualizeBeginIterator</definition>
+        <argsstring>() override</argsstring>
+        <name>virtualizeBeginIterator</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::virtualizeBeginIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="355" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_warning_info_collection_1ad5bf44969ec8e463b499dddf12e62c61" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_warning_info_collection_1a6338fc4b33f92f394352e282311a515f" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::WarningInfoCollection::virtualizeEndConstIterator</definition>
+        <argsstring>() const override</argsstring>
+        <name>virtualizeEndConstIterator</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::virtualizeEndConstIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="361" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_warning_info_collection_1aab26c1f45d26084f935d9c7de51482b4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_warning_info_collection_1a6338fc4b33f92f394352e282311a515f" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::WarningInfoCollection::virtualizeEndIterator</definition>
+        <argsstring>() override</argsstring>
+        <name>virtualizeEndIterator</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::virtualizeEndIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="357" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_warning_info_collection_1a3c71064d351af080e2c9b97f40601172" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::WarningInfoCollection::Warning</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::WarningInfo &gt; info) override</argsstring>
+        <name>Warning</name>
+        <qualifiedname>Aspose::Words::WarningInfoCollection::Warning</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_i_warning_callback_1abed0df078d182560689726d9fda4d64a">Warning</reimplements>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_warning_info" kindref="compound">Aspose::Words::WarningInfo</ref> &gt;</type>
+          <declname>info</declname>
+        </param>
+        <briefdescription>
+<para>Implements the <ref refid="class_aspose_1_1_words_1_1_i_warning_callback" kindref="compound">IWarningCallback</ref> interface. Adds a warning to this collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set the property for finding the closest match for a missing font from the available font sources. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>EnableFontSubstitution()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>that<sp/>contains<sp/>text<sp/>formatted<sp/>with<sp/>a<sp/>font<sp/>that<sp/>does<sp/>not<sp/>exist<sp/>in<sp/>any<sp/>of<sp/>our<sp/>font<sp/>sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Missing<sp/>font.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Assign<sp/>a<sp/>callback<sp/>for<sp/>handling<sp/>font<sp/>substitution<sp/>warnings.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>substitutionWarningHandler<sp/>=<sp/>MakeObject&lt;ExFontSettings::HandleDocumentSubstitutionWarnings&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;set_WarningCallback(substitutionWarningHandler);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>default<sp/>font<sp/>name<sp/>and<sp/>enable<sp/>font<sp/>substitution.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fontSettings-&gt;get_SubstitutionSettings()-&gt;get_DefaultFontSubstitution()-&gt;set_DefaultFontName(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fontSettings-&gt;get_SubstitutionSettings()-&gt;get_FontInfoSubstitution()-&gt;set_Enabled(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>get<sp/>a<sp/>font<sp/>substitution<sp/>warning<sp/>if<sp/>we<sp/>save<sp/>a<sp/>document<sp/>with<sp/>a<sp/>missing<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.EnableFontSubstitution.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;WarningInfo&gt;&gt;&gt;<sp/>warnings<sp/>=<sp/>substitutionWarningHandler-&gt;FontWarnings-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(warnings-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>warnings-&gt;get_Current()-&gt;get_Description()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>verify<sp/>warnings<sp/>in<sp/>the<sp/>collection<sp/>and<sp/>clear<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1ae78cf72acefc2cbe63016b04f8f44e7caebd9bec4d70abc789d439c1f136b0538" kindref="member" tooltip="Module that builds a document layout.">WarningSource::Layout</ref>,<sp/>substitutionWarningHandler-&gt;FontWarnings-&gt;idx_get(0)-&gt;get_Source());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Font<sp/>&apos;28<sp/>Days<sp/>Later&apos;<sp/>has<sp/>not<sp/>been<sp/>found.<sp/>Using<sp/>&apos;Calibri&apos;<sp/>font<sp/>instead.<sp/>Reason:<sp/>alternative<sp/>name<sp/>from<sp/>document.&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>substitutionWarningHandler-&gt;FontWarnings-&gt;idx_get(0)-&gt;get_Description());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>substitutionWarningHandler-&gt;FontWarnings-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(0,<sp/>substitutionWarningHandler-&gt;FontWarnings-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">HandleDocumentSubstitutionWarnings<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IWarningCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;WarningInfoCollection&gt;<sp/>FontWarnings;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>Warning(SharedPtr&lt;WarningInfo&gt;<sp/>info)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(info-&gt;get_WarningType()<sp/>==<sp/>WarningType::FontSubstitution)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>FontWarnings-&gt;Warning(info);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>HandleDocumentSubstitutionWarnings()<sp/>:<sp/>FontWarnings(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;WarningInfoCollection&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="339" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents a typed collection of <ref refid="class_aspose_1_1_words_1_1_warning_info" kindref="compound">WarningInfo</ref> objects. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>You can use this collection object as the simplest form of <ref refid="class_aspose_1_1_words_1_1_i_warning_callback" kindref="compound">IWarningCallback</ref> implementation to gather all warnings that Aspose.Words generates during a load or save operation. Create an instance of this class and assign it to the <ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1a32191464471263de4bbd417d9ab8a1fb" kindref="member">WarningCallback</ref> or <ref refid="class_aspose_1_1_words_1_1_document_base_1ad3d0e41dc067032ca0c0dcb098704927" kindref="member">WarningCallback</ref> property.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_warning_info" kindref="compound">Aspose::Words::WarningInfo</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_i_warning_callback" kindref="compound">Aspose::Words::IWarningCallback</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set the property for finding the closest match for a missing font from the available font sources. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>EnableFontSubstitution()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>that<sp/>contains<sp/>text<sp/>formatted<sp/>with<sp/>a<sp/>font<sp/>that<sp/>does<sp/>not<sp/>exist<sp/>in<sp/>any<sp/>of<sp/>our<sp/>font<sp/>sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Missing<sp/>font.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Assign<sp/>a<sp/>callback<sp/>for<sp/>handling<sp/>font<sp/>substitution<sp/>warnings.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>substitutionWarningHandler<sp/>=<sp/>MakeObject&lt;ExFontSettings::HandleDocumentSubstitutionWarnings&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;set_WarningCallback(substitutionWarningHandler);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>default<sp/>font<sp/>name<sp/>and<sp/>enable<sp/>font<sp/>substitution.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fontSettings-&gt;get_SubstitutionSettings()-&gt;get_DefaultFontSubstitution()-&gt;set_DefaultFontName(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fontSettings-&gt;get_SubstitutionSettings()-&gt;get_FontInfoSubstitution()-&gt;set_Enabled(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>get<sp/>a<sp/>font<sp/>substitution<sp/>warning<sp/>if<sp/>we<sp/>save<sp/>a<sp/>document<sp/>with<sp/>a<sp/>missing<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.EnableFontSubstitution.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;WarningInfo&gt;&gt;&gt;<sp/>warnings<sp/>=<sp/>substitutionWarningHandler-&gt;FontWarnings-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(warnings-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>warnings-&gt;get_Current()-&gt;get_Description()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>verify<sp/>warnings<sp/>in<sp/>the<sp/>collection<sp/>and<sp/>clear<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1ae78cf72acefc2cbe63016b04f8f44e7caebd9bec4d70abc789d439c1f136b0538" kindref="member" tooltip="Module that builds a document layout.">WarningSource::Layout</ref>,<sp/>substitutionWarningHandler-&gt;FontWarnings-&gt;idx_get(0)-&gt;get_Source());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Font<sp/>&apos;28<sp/>Days<sp/>Later&apos;<sp/>has<sp/>not<sp/>been<sp/>found.<sp/>Using<sp/>&apos;Calibri&apos;<sp/>font<sp/>instead.<sp/>Reason:<sp/>alternative<sp/>name<sp/>from<sp/>document.&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>substitutionWarningHandler-&gt;FontWarnings-&gt;idx_get(0)-&gt;get_Description());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>substitutionWarningHandler-&gt;FontWarnings-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(0,<sp/>substitutionWarningHandler-&gt;FontWarnings-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">HandleDocumentSubstitutionWarnings<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IWarningCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;WarningInfoCollection&gt;<sp/>FontWarnings;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>Warning(SharedPtr&lt;WarningInfo&gt;<sp/>info)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(info-&gt;get_WarningType()<sp/>==<sp/>WarningType::FontSubstitution)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>FontWarnings-&gt;Warning(info);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>HandleDocumentSubstitutionWarnings()<sp/>:<sp/>FontWarnings(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;WarningInfoCollection&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::IWarningCallback</label>
+        <link refid="class_aspose_1_1_words_1_1_i_warning_callback"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::WarningInfoCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_warning_info_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::WarningInfo &gt; &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::IWarningCallback</label>
+        <link refid="class_aspose_1_1_words_1_1_i_warning_callback"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::WarningInfoCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_warning_info_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::WarningInfo &gt; &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/WarningInfoCollection.h" line="112" column="1" bodyfile="Aspose.Words.Cpp/WarningInfoCollection.h" bodystart="113" bodyend="371"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1ae71b94be8d5565678a22b276cb7ec499" prot="private" virt="non-virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1ad00f8e9ddfd9c2071b4efc4b82b56e53" prot="private" virt="non-virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1a96e0db354a35fb7c1dc05cf1aa4d6395" prot="public" virt="non-virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>begin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1a95bd360793049681162f24d081eaf3e3" prot="public" virt="non-virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>begin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1ab49fea304267853177d49f76133aa0ee" prot="public" virt="non-virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>cbegin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1a6a8ede7c60212e655c05c89143500782" prot="public" virt="non-virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>cend</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1a68ca6ffbaec8f742001c5ac2d9201872" prot="public" virt="non-virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>Clear</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1a67088caac8637aa34b2c1d4980ccde96" prot="public" virt="non-virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>const_iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1a9223bd8530b4f4ff79b4a98cbac83b23" prot="public" virt="non-virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>end</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1a9edef9ab3cd0351485076dd979ea426a" prot="public" virt="non-virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>end</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1ad414cd6baa0a09cfa32bbcbb8c8b29fc" prot="public" virt="non-virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1a282ff3f32cad1b8dc078600f35f1a44b" prot="public" virt="non-virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>GetEnumerator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1aac8e3a248f32b1c473c5002aa88d20d7" prot="public" virt="non-virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>idx_get</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1a78d4f6bbb74f307cf39e1b18caea630e" prot="public" virt="non-virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1a648b181ba0e9f6b8e51a78cc4320b972" prot="public" virt="non-virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>iterator_holder_type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1addf6441367f5c944bf4ddf735d9fd18a" prot="private" virt="non-virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1af6a9d5cc7147a36a62701c8562e9c21c" prot="private" virt="non-virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1ad3e5c67f2b3c9ee172f3fcad5561129b" prot="private" virt="non-virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1ac37e46a4a7a6dbb75a8055577fc01b5d" prot="private" virt="non-virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1ad20e8cc2bb1eb7c6b5fd4fb0721ad21d" prot="public" virt="non-virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>virtualizeBeginConstIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1a760efc1dc887287d82f0471644ff8f55" prot="public" virt="non-virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>virtualizeBeginIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1a6338fc4b33f92f394352e282311a515f" prot="public" virt="non-virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>virtualized_iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1a783d3a4143fbc33707be02c02a50d592" prot="public" virt="non-virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>virtualized_iterator_element</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1ad5bf44969ec8e463b499dddf12e62c61" prot="public" virt="non-virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>virtualizeEndConstIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1aab26c1f45d26084f935d9c7de51482b4" prot="public" virt="non-virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>virtualizeEndIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1a3c71064d351af080e2c9b97f40601172" prot="public" virt="virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>Warning</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1ace6cce49cb865991da870c5f36b4f89a" prot="public" virt="non-virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>WarningInfoCollection</name></member>
+      <member refid="class_aspose_1_1_words_1_1_warning_info_collection_1a299c370d37bed76df039a8161bcfed9f" prot="private" virt="virtual"><scope>Aspose::Words::WarningInfoCollection</scope><name>~WarningInfoCollection</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

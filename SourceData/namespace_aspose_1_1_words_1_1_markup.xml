@@ -1,0 +1,560 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="namespace_aspose_1_1_words_1_1_markup" kind="namespace" language="C++">
+    <compoundname>Aspose::Words::Markup</compoundname>
+    <innerclass refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part" prot="public">Aspose::Words::Markup::CustomPart</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_collection" prot="public">Aspose::Words::Markup::CustomPartCollection</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_part" prot="public">Aspose::Words::Markup::CustomXmlPart</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_part_collection" prot="public">Aspose::Words::Markup::CustomXmlPartCollection</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property" prot="public">Aspose::Words::Markup::CustomXmlProperty</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_collection" prot="public">Aspose::Words::Markup::CustomXmlPropertyCollection</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_schema_collection" prot="public">Aspose::Words::Markup::CustomXmlSchemaCollection</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_markup_1_1_i_structured_document_tag" prot="public">Aspose::Words::Markup::IStructuredDocumentTag</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item" prot="public">Aspose::Words::Markup::SdtListItem</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_collection" prot="public">Aspose::Words::Markup::SdtListItemCollection</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_markup_1_1_smart_tag" prot="public">Aspose::Words::Markup::SmartTag</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag" prot="public">Aspose::Words::Markup::StructuredDocumentTag</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_collection" prot="public">Aspose::Words::Markup::StructuredDocumentTagCollection</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_end" prot="public">Aspose::Words::Markup::StructuredDocumentTagRangeEnd</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_range_start" prot="public">Aspose::Words::Markup::StructuredDocumentTagRangeStart</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_markup_1_1_xml_mapping" prot="public">Aspose::Words::Markup::XmlMapping</innerclass>
+      <sectiondef kind="enum">
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_markup_1a57672f3522526bfeb73e0b7539583751" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>MarkupLevel</name>
+        <qualifiedname>Aspose::Words::Markup::MarkupLevel</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1a57672f3522526bfeb73e0b7539583751a88183b946cc5f0e8c96b2e66e1c74a7e" prot="public">
+          <name>Unknown</name>
+          <briefdescription>
+<para>Specifies the unknown or invalid value. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1a57672f3522526bfeb73e0b7539583751a0125cf5f3ca38b312ca5d3b511c45a13" prot="public">
+          <name>Inline</name>
+          <briefdescription>
+<para>The element occurs at the inline level (e.g. among as runs of text). </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1a57672f3522526bfeb73e0b7539583751ae1e4c8c9ccd9fc39c391da4bcd093fb2" prot="public">
+          <name>Block</name>
+          <briefdescription>
+<para>The element occurs at the block level (e.g. among tables and paragraphs). </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1a57672f3522526bfeb73e0b7539583751aa70367aa7cb74e510f4f9413ccf059d3" prot="public">
+          <name>Row</name>
+          <briefdescription>
+<para>The element occurs among rows in a table. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1a57672f3522526bfeb73e0b7539583751a1a66ab62bfc858b7bcf9e01aa9cd1841" prot="public">
+          <name>Cell</name>
+          <briefdescription>
+<para>The element occurs among cells in a row. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies the level in the document tree where a particular <ref refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag" kindref="compound">StructuredDocumentTag</ref> can occur. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with styles for content control elements. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>to<sp/>apply<sp/>a<sp/>style<sp/>from<sp/>the<sp/>document<sp/>to<sp/>a<sp/>structured<sp/>document<sp/>tag.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Apply<sp/>a<sp/>style<sp/>object<sp/>from<sp/>the<sp/>document&apos;s<sp/>style<sp/>collection:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>quoteStyle<sp/>=<sp/>doc-&gt;get_Styles()-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34ac48e929b2b1eabba2ba036884433345e" kindref="member">StyleIdentifier::Quote</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>sdtPlainText<sp/>=<sp/>MakeObject&lt;StructuredDocumentTag&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7ab7ebbf7f254ef646928dd58f62383a85" kindref="member" tooltip="The SDT represents a plain text box when displayed in the document.">SdtType::PlainText</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a57672f3522526bfeb73e0b7539583751a0125cf5f3ca38b312ca5d3b511c45a13" kindref="member" tooltip="The element occurs at the inline level (e.g. among as runs of text).">MarkupLevel::Inline</ref>);</highlight></codeline>
+<codeline><highlight class="normal">sdtPlainText-&gt;set_Style(quoteStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Reference<sp/>a<sp/>style<sp/>in<sp/>the<sp/>document<sp/>by<sp/>name:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>sdtRichText<sp/>=<sp/>MakeObject&lt;StructuredDocumentTag&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7a26dfbb5d9e174bf46f73d8fe97cb1dd5" kindref="member" tooltip="The SDT represents a rich text box when displayed in the document.">SdtType::RichText</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a57672f3522526bfeb73e0b7539583751a0125cf5f3ca38b312ca5d3b511c45a13" kindref="member" tooltip="The element occurs at the inline level (e.g. among as runs of text).">MarkupLevel::Inline</ref>);</highlight></codeline>
+<codeline><highlight class="normal">sdtRichText-&gt;set_StyleName(u</highlight><highlight class="stringliteral">&quot;Quote&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertNode(sdtPlainText);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertNode(sdtRichText);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a68e4c6ed96f1d85ba56be9178fdbd738" kindref="member" tooltip="Allows to define customer-specific information and its means of presentation.">NodeType::StructuredDocumentTag</ref>,<sp/>sdtPlainText-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;NodeCollection&gt;<sp/>tags<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a68e4c6ed96f1d85ba56be9178fdbd738" kindref="member" tooltip="Allows to define customer-specific information and its means of presentation.">NodeType::StructuredDocumentTag</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>node<sp/>:<sp/>System::IterateOver(tags))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>sdt<sp/>=<sp/>System::DynamicCast&lt;StructuredDocumentTag&gt;(node);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34ac48e929b2b1eabba2ba036884433345e" kindref="member">StyleIdentifier::Quote</ref>,<sp/>sdt-&gt;get_Style()-&gt;get_StyleIdentifier());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Quote&quot;</highlight><highlight class="normal">,<sp/>sdt-&gt;get_StyleName());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/MarkupLevel.h" line="56" column="1" bodyfile="Aspose.Words.Cpp/Markup/MarkupLevel.h" bodystart="57" bodyend="73"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_markup_1a7decb299dc9341a5e7c69b2de50756c6" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>SdtAppearance</name>
+        <qualifiedname>Aspose::Words::Markup::SdtAppearance</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1a7decb299dc9341a5e7c69b2de50756c6ab96da744287618055e5d086d53f42660" prot="public">
+          <name>BoundingBox</name>
+          <briefdescription>
+<para>Represents a structured document tag shown as a shaded rectangle or bounding box. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1a7decb299dc9341a5e7c69b2de50756c6a189f63f277cd73395561651753563065" prot="public">
+          <name>Tags</name>
+          <briefdescription>
+<para>Represents a structured document tag shown as start and end markers. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1a7decb299dc9341a5e7c69b2de50756c6a7acdf85c69cc3c5305456a293524386e" prot="public">
+          <name>Hidden</name>
+          <briefdescription>
+<para>Represents a structured document tag that is not shown. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1a7decb299dc9341a5e7c69b2de50756c6a7a1920d61156abc05a60135aefe8bc67" prot="public">
+          <name>Default</name>
+          <initializer>= static_cast&lt;int32_t&gt;(BoundingBox)</initializer>
+          <briefdescription>
+<para>Defaults to <ref refid="namespace_aspose_1_1_words_1_1_markup_1a7decb299dc9341a5e7c69b2de50756c6ab96da744287618055e5d086d53f42660" kindref="member">BoundingBox</ref>. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies the appearance of a structured document tag. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/SdtAppearance.h" line="24" column="1" bodyfile="Aspose.Words.Cpp/Markup/SdtAppearance.h" bodystart="25" bodyend="38"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_markup_1aedd5dacf4026bbe599c09eafd90b4159" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>SdtCalendarType</name>
+        <qualifiedname>Aspose::Words::Markup::SdtCalendarType</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1aedd5dacf4026bbe599c09eafd90b4159a7a1920d61156abc05a60135aefe8bc67" prot="public">
+          <name>Default</name>
+          <briefdescription>
+<para>Used as default value in OOXML. Equals <ref refid="namespace_aspose_1_1_words_1_1_markup_1aedd5dacf4026bbe599c09eafd90b4159a3aff3c505cd67950061bf5552f4bb354" kindref="member">Gregorian</ref>. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1aedd5dacf4026bbe599c09eafd90b4159a3aff3c505cd67950061bf5552f4bb354" prot="public">
+          <name>Gregorian</name>
+          <initializer>= static_cast&lt;int32_t&gt;(Default)</initializer>
+          <briefdescription>
+<para>Specifies that the Gregorian calendar, as defined in ISO 8601, shall be used. This calendar should be localized into the appropriate language. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1aedd5dacf4026bbe599c09eafd90b4159a08aec0a682dc4cb04a8a48eaf9ee06cd" prot="public">
+          <name>GregorianArabic</name>
+          <briefdescription>
+<para>Specifies that the Gregorian calendar, as defined in ISO 8601, shall be used. The values for this calendar should be presented in Arabic. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1aedd5dacf4026bbe599c09eafd90b4159a3c37ff73fd7ea2f6791fd461430f11bc" prot="public">
+          <name>GregorianMeFrench</name>
+          <briefdescription>
+<para>Specifies that the Gregorian calendar, as defined in ISO 8601, shall be used. The values for this calendar should be presented in Middle East French. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1aedd5dacf4026bbe599c09eafd90b4159ad4025e3591a41ae8c59e6f8fc58e0099" prot="public">
+          <name>GregorianUs</name>
+          <briefdescription>
+<para>Specifies that the Gregorian calendar, as defined in ISO 8601, shall be used. The values for this calendar should be presented in English. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1aedd5dacf4026bbe599c09eafd90b4159adcb371783d79a7a23a20882567c00b2c" prot="public">
+          <name>GregorianXlitEnglish</name>
+          <briefdescription>
+<para>Specifies that the Gregorian calendar, as defined in ISO 8601, shall be used. The values for this calendar should be the representation of the English strings in the corresponding Arabic characters (the Arabic transliteration of the English for the Gregorian calendar). </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1aedd5dacf4026bbe599c09eafd90b4159af1baec1a89aa2d6e57896b6ec24e55a6" prot="public">
+          <name>GregorianXlitFrench</name>
+          <briefdescription>
+<para>Specifies that the Gregorian calendar, as defined in ISO 8601, shall be used. The values for this calendar should be the representation of the French strings in the corresponding Arabic characters (the Arabic transliteration of the French for the Gregorian calendar). </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1aedd5dacf4026bbe599c09eafd90b4159ac6c1f81a46666385fa7d85df7eaf8763" prot="public">
+          <name>Hebrew</name>
+          <briefdescription>
+<para>Specifies that the Hebrew lunar calendar, as described by the Gauss formula for Passover [CITATION] and The Complete Restatement of Oral Law (Mishneh Torah),shall be used. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1aedd5dacf4026bbe599c09eafd90b4159acfe71ee5c60b5a13bd9dd39be418f96c" prot="public">
+          <name>Hijri</name>
+          <briefdescription>
+<para>Specifies that the Hijri lunar calendar, as described by the Kingdom of Saudi Arabia, Ministry of Islamic Affairs, Endowments, Da‘wah and Guidance, shall be used. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1aedd5dacf4026bbe599c09eafd90b4159a53a577bb3bc587b0c28ab808390f1c9b" prot="public">
+          <name>Japan</name>
+          <briefdescription>
+<para>Specifies that the Japanese Emperor Era calendar, as described by Japanese Industrial Standard JIS X 0301, shall be used. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1aedd5dacf4026bbe599c09eafd90b4159aa8f809c99c4a996780c3046b9b594195" prot="public">
+          <name>Korea</name>
+          <briefdescription>
+<para>Specifies that the Korean Tangun Era calendar, as described by Korean Law Enactment No. 4, shall be used. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1aedd5dacf4026bbe599c09eafd90b4159a6adf97f83acf6453d4a6a4b1070f3754" prot="public">
+          <name>None</name>
+          <briefdescription>
+<para>Specifies that no calendar should be used. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1aedd5dacf4026bbe599c09eafd90b4159a7349b5526cf474b6f4c94cecbf984a89" prot="public">
+          <name>Saka</name>
+          <briefdescription>
+<para>Specifies that the Saka Era calendar, as described by the Calendar Reform Committee of India, as part of the Indian Ephemeris and Nautical Almanac, shall be used. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1aedd5dacf4026bbe599c09eafd90b4159a551fe18ef47d4e6e9d943b9a68ada21d" prot="public">
+          <name>Taiwan</name>
+          <briefdescription>
+<para>Specifies that the Taiwanese calendar, as defined by the Chinese National Standard CNS 7648, shall be used. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1aedd5dacf4026bbe599c09eafd90b4159a43ddc789bcea4177a14791f6c9a03b28" prot="public">
+          <name>Thai</name>
+          <briefdescription>
+<para>Specifies that the Thai calendar, as defined by the Royal Decree of H.M. King Vajiravudh (Rama VI) in Royal Gazette B. E. 2456 (1913 A.D.) and by the decree of Prime Minister Phibunsongkhram (1941 A.D.) to start the year on the Gregorian January 1 and to map year zero to Gregorian year 543 B.C., shall be used. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies the possible types of calendars which can be used to specify <ref refid="class_aspose_1_1_words_1_1_markup_1_1_structured_document_tag_1a21a44e41c4c76b38de9efcde2436d002" kindref="member">CalendarType</ref> in an Office Open XML document. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/SdtCalendarType.h" line="25" column="1" bodyfile="Aspose.Words.Cpp/Markup/SdtCalendarType.h" bodystart="26" bodyend="87"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_markup_1aee4abdafc7177edadd79a4e0f83543d1" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>SdtDateStorageFormat</name>
+        <qualifiedname>Aspose::Words::Markup::SdtDateStorageFormat</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1aee4abdafc7177edadd79a4e0f83543d1a44749712dbec183e983dcd78a7736c41" prot="public">
+          <name>Date</name>
+          <briefdescription>
+<para>The date value for a date SDT is stored as a date in the standard XML Schema Date format. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1aee4abdafc7177edadd79a4e0f83543d1a8cf10d2341ed01492506085688270c1e" prot="public">
+          <name>DateTime</name>
+          <briefdescription>
+<para>The date value for a date SDT is stored as a date in the standard XML Schema DateTime format. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1aee4abdafc7177edadd79a4e0f83543d1a9dffbf69ffba8bc38bc4e01abf4b1675" prot="public">
+          <name>Text</name>
+          <briefdescription>
+<para>The date value for a date SDT is stored as text. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1aee4abdafc7177edadd79a4e0f83543d1a7a1920d61156abc05a60135aefe8bc67" prot="public">
+          <name>Default</name>
+          <initializer>= static_cast&lt;int32_t&gt;(DateTime)</initializer>
+          <briefdescription>
+<para>Defaults to <ref refid="namespace_aspose_1_1_words_1_1_markup_1aee4abdafc7177edadd79a4e0f83543d1a8cf10d2341ed01492506085688270c1e" kindref="member">DateTime</ref> </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies how the date for a date SDT is stored/retrieved when the SDT is bound to an XML node in the document&apos;s data store. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/SdtDateStorageFormat.h" line="24" column="1" bodyfile="Aspose.Words.Cpp/Markup/SdtDateStorageFormat.h" bodystart="25" bodyend="38"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>SdtType</name>
+        <qualifiedname>Aspose::Words::Markup::SdtType</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7a6adf97f83acf6453d4a6a4b1070f3754" prot="public">
+          <name>None</name>
+          <briefdescription>
+<para>No type is assigned to the SDT. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7aa7cc81119daa478a68f07f26836adbbf" prot="public">
+          <name>Bibliography</name>
+          <briefdescription>
+<para>The SDT represents a bibliography entry. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7a5879d056ec2cb4819a9e867829981a1a" prot="public">
+          <name>Citation</name>
+          <briefdescription>
+<para>The SDT represents a citation. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7aaa8a105043d90127c760e67170853c2c" prot="public">
+          <name>Equation</name>
+          <briefdescription>
+<para>The SDT represents an equation. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7ae4ef5c80fe94d0cad53a95d50691a0c7" prot="public">
+          <name>DropDownList</name>
+          <briefdescription>
+<para>The SDT represents a drop down list when displayed in the document. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7afd249a0c28275ebf9d4c8464ca2225cf" prot="public">
+          <name>ComboBox</name>
+          <briefdescription>
+<para>The SDT represents a combo box when displayed in the document. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7a44749712dbec183e983dcd78a7736c41" prot="public">
+          <name>Date</name>
+          <briefdescription>
+<para>The SDT represents a date picker when displayed in the document. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7a8015d4844c6e94e05ff443cc5cf816d4" prot="public">
+          <name>BuildingBlockGallery</name>
+          <briefdescription>
+<para>The SDT represents a building block gallery type. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7abb78851a2f96b2906cf90b791650e724" prot="public">
+          <name>DocPartObj</name>
+          <briefdescription>
+<para>The SDT represents a document part type. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7a03937134cedab9078be39a77ee3a48a0" prot="public">
+          <name>Group</name>
+          <briefdescription>
+<para>The SDT represents a restricted grouping when displayed in the document. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7a8ae5811be1a55b9b8447ad2dbdadbf6e" prot="public">
+          <name>Picture</name>
+          <briefdescription>
+<para>The SDT represents a picture when displayed in the document. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7a26dfbb5d9e174bf46f73d8fe97cb1dd5" prot="public">
+          <name>RichText</name>
+          <briefdescription>
+<para>The SDT represents a rich text box when displayed in the document. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7ab7ebbf7f254ef646928dd58f62383a85" prot="public">
+          <name>PlainText</name>
+          <briefdescription>
+<para>The SDT represents a plain text box when displayed in the document. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7a4f8222964f9a317cef99dddc23a121bd" prot="public">
+          <name>Checkbox</name>
+          <briefdescription>
+<para>The SDT represents a checkbox when displayed in the document. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7aeeb0f53363fad5005c4928eafe29f28f" prot="public">
+          <name>RepeatingSection</name>
+          <briefdescription>
+<para>The SDT represents repeating section type when displayed in the document. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7a56208c60012d3876ec4627621afa6460" prot="public">
+          <name>RepeatingSectionItem</name>
+          <briefdescription>
+<para>The SDT represents repeating section item. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7a8d11bac20f549f32b81c2c6bd3db5b0e" prot="public">
+          <name>EntityPicker</name>
+          <briefdescription>
+<para>The SDT represents an entity picker that allows the user to select an instance of an external content type. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies the type of a structured document tag (SDT) node. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with styles for content control elements. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>to<sp/>apply<sp/>a<sp/>style<sp/>from<sp/>the<sp/>document<sp/>to<sp/>a<sp/>structured<sp/>document<sp/>tag.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Apply<sp/>a<sp/>style<sp/>object<sp/>from<sp/>the<sp/>document&apos;s<sp/>style<sp/>collection:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>quoteStyle<sp/>=<sp/>doc-&gt;get_Styles()-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34ac48e929b2b1eabba2ba036884433345e" kindref="member">StyleIdentifier::Quote</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>sdtPlainText<sp/>=<sp/>MakeObject&lt;StructuredDocumentTag&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7ab7ebbf7f254ef646928dd58f62383a85" kindref="member" tooltip="The SDT represents a plain text box when displayed in the document.">SdtType::PlainText</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a57672f3522526bfeb73e0b7539583751a0125cf5f3ca38b312ca5d3b511c45a13" kindref="member" tooltip="The element occurs at the inline level (e.g. among as runs of text).">MarkupLevel::Inline</ref>);</highlight></codeline>
+<codeline><highlight class="normal">sdtPlainText-&gt;set_Style(quoteStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Reference<sp/>a<sp/>style<sp/>in<sp/>the<sp/>document<sp/>by<sp/>name:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>sdtRichText<sp/>=<sp/>MakeObject&lt;StructuredDocumentTag&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7a26dfbb5d9e174bf46f73d8fe97cb1dd5" kindref="member" tooltip="The SDT represents a rich text box when displayed in the document.">SdtType::RichText</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a57672f3522526bfeb73e0b7539583751a0125cf5f3ca38b312ca5d3b511c45a13" kindref="member" tooltip="The element occurs at the inline level (e.g. among as runs of text).">MarkupLevel::Inline</ref>);</highlight></codeline>
+<codeline><highlight class="normal">sdtRichText-&gt;set_StyleName(u</highlight><highlight class="stringliteral">&quot;Quote&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertNode(sdtPlainText);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertNode(sdtRichText);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a68e4c6ed96f1d85ba56be9178fdbd738" kindref="member" tooltip="Allows to define customer-specific information and its means of presentation.">NodeType::StructuredDocumentTag</ref>,<sp/>sdtPlainText-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;NodeCollection&gt;<sp/>tags<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a68e4c6ed96f1d85ba56be9178fdbd738" kindref="member" tooltip="Allows to define customer-specific information and its means of presentation.">NodeType::StructuredDocumentTag</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>node<sp/>:<sp/>System::IterateOver(tags))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>sdt<sp/>=<sp/>System::DynamicCast&lt;StructuredDocumentTag&gt;(node);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34ac48e929b2b1eabba2ba036884433345e" kindref="member">StyleIdentifier::Quote</ref>,<sp/>sdt-&gt;get_Style()-&gt;get_StyleIdentifier());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Quote&quot;</highlight><highlight class="normal">,<sp/>sdt-&gt;get_StyleName());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting></para>
+<para>Shows how to fill a table with data from in an XML part. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlPart&gt;<sp/>xmlPart<sp/>=<sp/>doc-&gt;get_CustomXmlParts()-&gt;Add(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;Books&quot;</highlight><highlight class="normal">,<sp/>String(u</highlight><highlight class="stringliteral">&quot;&lt;books&gt;&quot;</highlight><highlight class="normal">)<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;book&gt;&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;title&gt;Everyday<sp/>Italian&lt;/title&gt;&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;author&gt;Giada<sp/>De<sp/>Laurentiis&lt;/author&gt;&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;/book&gt;&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;book&gt;&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;&lt;title&gt;The<sp/>C<sp/>Programming<sp/>Language&lt;/title&gt;&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;author&gt;Brian<sp/>W.<sp/>Kernighan,<sp/>Dennis<sp/>M.<sp/>Ritchie&lt;/author&gt;&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;/book&gt;&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;book&gt;&quot;</highlight><highlight class="normal"><sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;&lt;title&gt;Learning<sp/>XML&lt;/title&gt;&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;author&gt;Erik<sp/>T.<sp/>Ray&lt;/author&gt;&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;/book&gt;&quot;</highlight><highlight class="normal"><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;&lt;/books&gt;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>headers<sp/>for<sp/>data<sp/>from<sp/>the<sp/>XML<sp/>content.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Title&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Author&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>table<sp/>with<sp/>a<sp/>repeating<sp/>section<sp/>inside.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>repeatingSectionSdt<sp/>=<sp/>MakeObject&lt;StructuredDocumentTag&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7aeeb0f53363fad5005c4928eafe29f28f" kindref="member" tooltip="The SDT represents repeating section type when displayed in the document.">SdtType::RepeatingSection</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a57672f3522526bfeb73e0b7539583751aa70367aa7cb74e510f4f9413ccf059d3" kindref="member" tooltip="The element occurs among rows in a table.">MarkupLevel::Row</ref>);</highlight></codeline>
+<codeline><highlight class="normal">repeatingSectionSdt-&gt;get_XmlMapping()-&gt;SetMapping(xmlPart,<sp/>u</highlight><highlight class="stringliteral">&quot;/books[1]/book&quot;</highlight><highlight class="normal">,<sp/>String::Empty);</highlight></codeline>
+<codeline><highlight class="normal">table-&gt;AppendChild(repeatingSectionSdt);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>repeating<sp/>section<sp/>item<sp/>inside<sp/>the<sp/>repeating<sp/>section<sp/>and<sp/>mark<sp/>it<sp/>as<sp/>a<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>table<sp/>will<sp/>have<sp/>a<sp/>row<sp/>for<sp/>each<sp/>element<sp/>that<sp/>we<sp/>can<sp/>find<sp/>in<sp/>the<sp/>XML<sp/>document</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>using<sp/>the<sp/>&quot;/books[1]/book&quot;<sp/>XPath,<sp/>of<sp/>which<sp/>there<sp/>are<sp/>three.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>repeatingSectionItemSdt<sp/>=<sp/>MakeObject&lt;StructuredDocumentTag&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7a56208c60012d3876ec4627621afa6460" kindref="member" tooltip="The SDT represents repeating section item.">SdtType::RepeatingSectionItem</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a57672f3522526bfeb73e0b7539583751aa70367aa7cb74e510f4f9413ccf059d3" kindref="member" tooltip="The element occurs among rows in a table.">MarkupLevel::Row</ref>);</highlight></codeline>
+<codeline><highlight class="normal">repeatingSectionSdt-&gt;AppendChild(repeatingSectionItemSdt);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>row<sp/>=<sp/>MakeObject&lt;Row&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">repeatingSectionItemSdt-&gt;AppendChild(row);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Map<sp/>XML<sp/>data<sp/>with<sp/>created<sp/>table<sp/>cells<sp/>for<sp/>the<sp/>title<sp/>and<sp/>author<sp/>of<sp/>each<sp/>book.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>titleSdt<sp/>=<sp/>MakeObject&lt;StructuredDocumentTag&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7ab7ebbf7f254ef646928dd58f62383a85" kindref="member" tooltip="The SDT represents a plain text box when displayed in the document.">SdtType::PlainText</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a57672f3522526bfeb73e0b7539583751a1a66ab62bfc858b7bcf9e01aa9cd1841" kindref="member" tooltip="The element occurs among cells in a row.">MarkupLevel::Cell</ref>);</highlight></codeline>
+<codeline><highlight class="normal">titleSdt-&gt;get_XmlMapping()-&gt;SetMapping(xmlPart,<sp/>u</highlight><highlight class="stringliteral">&quot;/books[1]/book[1]/title[1]&quot;</highlight><highlight class="normal">,<sp/>String::Empty);</highlight></codeline>
+<codeline><highlight class="normal">row-&gt;AppendChild(titleSdt);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>authorSdt<sp/>=<sp/>MakeObject&lt;StructuredDocumentTag&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7ab7ebbf7f254ef646928dd58f62383a85" kindref="member" tooltip="The SDT represents a plain text box when displayed in the document.">SdtType::PlainText</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a57672f3522526bfeb73e0b7539583751a1a66ab62bfc858b7bcf9e01aa9cd1841" kindref="member" tooltip="The element occurs among cells in a row.">MarkupLevel::Cell</ref>);</highlight></codeline>
+<codeline><highlight class="normal">authorSdt-&gt;get_XmlMapping()-&gt;SetMapping(xmlPart,<sp/>u</highlight><highlight class="stringliteral">&quot;/books[1]/book[1]/author[1]&quot;</highlight><highlight class="normal">,<sp/>String::Empty);</highlight></codeline>
+<codeline><highlight class="normal">row-&gt;AppendChild(authorSdt);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;StructuredDocumentTag.RepeatingSectionItem.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/SdtType.h" line="101" column="1" bodyfile="Aspose.Words.Cpp/Markup/SdtType.h" bodystart="102" bodyend="154"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>The <bold>Aspose.Words.Markup</bold> namespace contains classes that represent customer defined semantics in a document: smart tags, custom XML and structured document tags (content controls). </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/Document.h" line="99" column="1"/>
+  </compounddef>
+</doxygen>

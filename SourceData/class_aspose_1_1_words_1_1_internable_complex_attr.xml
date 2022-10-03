@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_internable_complex_attr" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::InternableComplexAttr</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="virtual">System::Object</basecompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_border" prot="public" virt="non-virtual">Aspose::Words::Border</derivedcompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_shading" prot="public" virt="non-virtual">Aspose::Words::Shading</derivedcompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_tab_stop_collection" prot="public" virt="non-virtual">Aspose::Words::TabStopCollection</derivedcompoundref>
+    <includes refid="_internable_complex_attr_8h" local="no">Aspose.Words.Cpp/InternableComplexAttr.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_internable_complex_attr_1a145ce659d32969dc949eed7c5cea2e8e" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::InternableComplexAttr::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::InternableComplexAttr::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/InternableComplexAttr.h" line="24" column="28" bodyfile="Aspose.Words.Cpp/InternableComplexAttr.h" bodystart="24" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_internable_complex_attr_1ae311750cb739614c8a22b5886379f523" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_internable_complex_attr" kindref="compound">InternableComplexAttr</ref></type>
+        <definition>typedef InternableComplexAttr Aspose::Words::InternableComplexAttr::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::InternableComplexAttr::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/InternableComplexAttr.h" line="23" column="35" bodyfile="Aspose.Words.Cpp/InternableComplexAttr.h" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_internable_complex_attr_1aeb95494cef6998ee157831d452bb8ad1" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::InternableComplexAttr::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::InternableComplexAttr::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/InternableComplexAttr.h" line="26" column="37" bodyfile="Aspose.Words.Cpp/InternableComplexAttr.h" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_internable_complex_attr_1acd18aa5faec2ca376329b86a068208d0" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::InternableComplexAttr::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::InternableComplexAttr::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/InternableComplexAttr.h" line="33" column="21" bodyfile="Aspose.Words.Cpp/InternableComplexAttr.h" bodystart="33" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_internable_complex_attr_1a67b342ff68acc4ef24f6468e7f50c598" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::InternableComplexAttr::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::InternableComplexAttr::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/InternableComplexAttr.h" line="27" column="5"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Base class for internable complex attribute. Internable complex attribute should notify parent collection when going to be changed. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="3">
+        <label>Aspose::Words::Border</label>
+        <link refid="class_aspose_1_1_words_1_1_border"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::InternableComplexAttr</label>
+        <link refid="class_aspose_1_1_words_1_1_internable_complex_attr"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Shading</label>
+        <link refid="class_aspose_1_1_words_1_1_shading"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>Aspose::Words::TabStopCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_tab_stop_collection"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::InternableComplexAttr</label>
+        <link refid="class_aspose_1_1_words_1_1_internable_complex_attr"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/InternableComplexAttr.h" line="21" column="1" bodyfile="Aspose.Words.Cpp/InternableComplexAttr.h" bodystart="22" bodyend="35"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_internable_complex_attr_1a145ce659d32969dc949eed7c5cea2e8e" prot="private" virt="non-virtual"><scope>Aspose::Words::InternableComplexAttr</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_internable_complex_attr_1acd18aa5faec2ca376329b86a068208d0" prot="private" virt="non-virtual"><scope>Aspose::Words::InternableComplexAttr</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_internable_complex_attr_1a67b342ff68acc4ef24f6468e7f50c598" prot="private" virt="non-virtual"><scope>Aspose::Words::InternableComplexAttr</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_internable_complex_attr_1ae311750cb739614c8a22b5886379f523" prot="private" virt="non-virtual"><scope>Aspose::Words::InternableComplexAttr</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_internable_complex_attr_1aeb95494cef6998ee157831d452bb8ad1" prot="private" virt="non-virtual"><scope>Aspose::Words::InternableComplexAttr</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

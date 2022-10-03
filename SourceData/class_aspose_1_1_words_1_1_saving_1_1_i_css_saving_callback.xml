@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_saving_1_1_i_css_saving_callback" kind="interface" language="C++" prot="public" abstract="yes">
+    <compoundname>Aspose::Words::Saving::ICssSavingCallback</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="virtual">System::Object</basecompoundref>
+    <includes refid="_i_css_saving_callback_8h" local="no">Aspose.Words.Cpp/Saving/ICssSavingCallback.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_i_css_saving_callback_1a101d70605367f1cff1aaf141a1e48768" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Saving::ICssSavingCallback::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Saving::ICssSavingCallback::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ICssSavingCallback.h" line="97" column="28" bodyfile="Aspose.Words.Cpp/Saving/ICssSavingCallback.h" bodystart="97" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_i_css_saving_callback_1a19eb96c0cd67be1564095bcaf7ce191e" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_i_css_saving_callback" kindref="compound">ICssSavingCallback</ref></type>
+        <definition>typedef ICssSavingCallback Aspose::Words::Saving::ICssSavingCallback::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Saving::ICssSavingCallback::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ICssSavingCallback.h" line="96" column="32" bodyfile="Aspose.Words.Cpp/Saving/ICssSavingCallback.h" bodystart="96" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_i_css_saving_callback_1a4ab407748663a799ce74a37553f3be16" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::ICssSavingCallback::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Saving::ICssSavingCallback::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ICssSavingCallback.h" line="99" column="37" bodyfile="Aspose.Words.Cpp/Saving/ICssSavingCallback.h" bodystart="99" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_i_css_saving_callback_1ac5268eefb4a366f4d0cd057e39b5a05b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::ICssSavingCallback::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Saving::ICssSavingCallback::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ICssSavingCallback.h" line="100" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_i_css_saving_callback_1a3e4babc56cbaf2f36395aab8f8cf0367" prot="public" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
+        <type>void</type>
+        <definition>virtual void Aspose::Words::Saving::ICssSavingCallback::CssSaving</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::Saving::CssSavingArgs &gt; args)=0</argsstring>
+        <name>CssSaving</name>
+        <qualifiedname>Aspose::Words::Saving::ICssSavingCallback::CssSaving</qualifiedname>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_css_saving_args" kindref="compound">Aspose::Words::Saving::CssSavingArgs</ref> &gt;</type>
+          <declname>args</declname>
+        </param>
+        <briefdescription>
+<para>Called when Aspose.Words saves an CSS (Cascading <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Style</ref> Sheet). </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with CSS stylesheets that an HTML conversion creates. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ExternalCssFilenames()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;HtmlFixedSaveOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>convert<sp/>the<sp/>document<sp/>to<sp/>HTML.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;HtmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;CssStylesheetType&quot;<sp/>property<sp/>to<sp/>&quot;CssStyleSheetType.External&quot;<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>accompany<sp/>a<sp/>saved<sp/>HTML<sp/>document<sp/>with<sp/>an<sp/>external<sp/>CSS<sp/>stylesheet<sp/>file.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_CssStyleSheetType(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a9e298505d9b6f2eeda205342d52692b0ab206a1b4ea1097761f78e8876f6da779" kindref="member" tooltip="CSS styles are written separately from the content in a style sheet in an external file....">CssStyleSheetType::External</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>specifying<sp/>directories<sp/>and<sp/>filenames<sp/>for<sp/>output<sp/>CSS<sp/>stylesheets.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Use<sp/>the<sp/>&quot;CssStyleSheetFileName&quot;<sp/>property<sp/>to<sp/>assign<sp/>a<sp/>filename<sp/>to<sp/>our<sp/>stylesheet:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_CssStyleSheetFileName(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SavingCallback.ExternalCssFilenames.css&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Use<sp/>a<sp/>custom<sp/>callback<sp/>to<sp/>name<sp/>our<sp/>stylesheet:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_CssSavingCallback(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>MakeObject&lt;ExSavingCallback::CustomCssSavingCallback&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SavingCallback.ExternalCssFilenames.css&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SavingCallback.ExternalCssFilenames.html&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">CustomCssSavingCallback<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>ICssSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>CustomCssSavingCallback(String<sp/>cssDocFilename,<sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>isExportNeeded,<sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>keepCssStreamOpen)<sp/>:<sp/>mIsExportNeeded(false),<sp/>mKeepCssStreamOpen(false)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mCssTextFileName<sp/>=<sp/>cssDocFilename;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mIsExportNeeded<sp/>=<sp/>isExportNeeded;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mKeepCssStreamOpen<sp/>=<sp/>keepCssStreamOpen;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>CssSaving(SharedPtr&lt;CssSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>access<sp/>the<sp/>entire<sp/>source<sp/>document<sp/>via<sp/>the<sp/>&quot;Document&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_Document()-&gt;get_OriginalFileName().EndsWith(u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_CssStream(MakeObject&lt;System::IO::FileStream&gt;(mCssTextFileName,<sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_IsExportNeeded(mIsExportNeeded);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_KeepCssStreamOpen(mKeepCssStreamOpen);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_CssStream()-&gt;get_CanWrite());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>mCssTextFileName;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>mIsExportNeeded;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>mKeepCssStreamOpen;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ICssSavingCallback.h" line="164" column="18"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implement this interface if you want to control how Aspose.Words saves CSS (Cascading <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Style</ref> Sheet) when saving a document to HTML. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with CSS stylesheets that an HTML conversion creates. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ExternalCssFilenames()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;HtmlFixedSaveOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>convert<sp/>the<sp/>document<sp/>to<sp/>HTML.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;HtmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;CssStylesheetType&quot;<sp/>property<sp/>to<sp/>&quot;CssStyleSheetType.External&quot;<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>accompany<sp/>a<sp/>saved<sp/>HTML<sp/>document<sp/>with<sp/>an<sp/>external<sp/>CSS<sp/>stylesheet<sp/>file.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_CssStyleSheetType(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a9e298505d9b6f2eeda205342d52692b0ab206a1b4ea1097761f78e8876f6da779" kindref="member" tooltip="CSS styles are written separately from the content in a style sheet in an external file....">CssStyleSheetType::External</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>specifying<sp/>directories<sp/>and<sp/>filenames<sp/>for<sp/>output<sp/>CSS<sp/>stylesheets.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Use<sp/>the<sp/>&quot;CssStyleSheetFileName&quot;<sp/>property<sp/>to<sp/>assign<sp/>a<sp/>filename<sp/>to<sp/>our<sp/>stylesheet:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_CssStyleSheetFileName(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SavingCallback.ExternalCssFilenames.css&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Use<sp/>a<sp/>custom<sp/>callback<sp/>to<sp/>name<sp/>our<sp/>stylesheet:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_CssSavingCallback(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>MakeObject&lt;ExSavingCallback::CustomCssSavingCallback&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SavingCallback.ExternalCssFilenames.css&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SavingCallback.ExternalCssFilenames.html&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">CustomCssSavingCallback<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>ICssSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>CustomCssSavingCallback(String<sp/>cssDocFilename,<sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>isExportNeeded,<sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>keepCssStreamOpen)<sp/>:<sp/>mIsExportNeeded(false),<sp/>mKeepCssStreamOpen(false)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mCssTextFileName<sp/>=<sp/>cssDocFilename;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mIsExportNeeded<sp/>=<sp/>isExportNeeded;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mKeepCssStreamOpen<sp/>=<sp/>keepCssStreamOpen;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>CssSaving(SharedPtr&lt;CssSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>access<sp/>the<sp/>entire<sp/>source<sp/>document<sp/>via<sp/>the<sp/>&quot;Document&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_Document()-&gt;get_OriginalFileName().EndsWith(u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_CssStream(MakeObject&lt;System::IO::FileStream&gt;(mCssTextFileName,<sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_IsExportNeeded(mIsExportNeeded);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_KeepCssStreamOpen(mKeepCssStreamOpen);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(args-&gt;get_CssStream()-&gt;get_CanWrite());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>mCssTextFileName;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>mIsExportNeeded;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>mKeepCssStreamOpen;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::ICssSavingCallback</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_i_css_saving_callback"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::ICssSavingCallback</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_i_css_saving_callback"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Saving/ICssSavingCallback.h" line="94" column="1" bodyfile="Aspose.Words.Cpp/Saving/ICssSavingCallback.h" bodystart="95" bodyend="166"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_i_css_saving_callback_1a101d70605367f1cff1aaf141a1e48768" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::ICssSavingCallback</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_i_css_saving_callback_1a3e4babc56cbaf2f36395aab8f8cf0367" prot="public" virt="pure-virtual"><scope>Aspose::Words::Saving::ICssSavingCallback</scope><name>CssSaving</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_i_css_saving_callback_1ac5268eefb4a366f4d0cd057e39b5a05b" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::ICssSavingCallback</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_i_css_saving_callback_1a19eb96c0cd67be1564095bcaf7ce191e" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::ICssSavingCallback</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_i_css_saving_callback_1a4ab407748663a799ce74a37553f3be16" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::ICssSavingCallback</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

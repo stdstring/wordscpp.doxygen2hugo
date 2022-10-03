@@ -1,0 +1,662 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</compoundname>
+    <basecompoundref refid="class/system.collections.generic.i_enumerable/" prot="public" virt="non-virtual">System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::DigitalSignatures::DigitalSignature &gt; &gt;</basecompoundref>
+    <includes refid="_digital_signature_collection_8h" local="no">Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1abd53f7d5905091403a9b1319424d032a" prot="private" static="no">
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature" kindref="compound">Aspose::Words::DigitalSignatures::DigitalSignature</ref> &gt; &gt;</type>
+        <definition>typedef System::Collections::Generic::IEnumerable&lt;System::SharedPtr&lt;Aspose::Words::DigitalSignatures::DigitalSignature&gt; &gt; Aspose::Words::DigitalSignatures::DigitalSignatureCollection::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="109" column="55" bodyfile="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" bodystart="109" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a0030bd59b421fb016268e141361bc15d" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection" kindref="compound">DigitalSignatureCollection</ref></type>
+        <definition>typedef DigitalSignatureCollection Aspose::Words::DigitalSignatures::DigitalSignatureCollection::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="108" column="40" bodyfile="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" bodystart="108" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1ab8858a08c719e779b631286256657056" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::DigitalSignatures::DigitalSignatureCollection::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="111" column="37" bodyfile="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" bodystart="111" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a801a5c85253799fca88fb56ef388a00e" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.list/_1a0f284b9cbb583432336a9ce4f0b9c84a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
+        <definition>using Aspose::Words::DigitalSignatures::DigitalSignatureCollection::const_iterator =  typename iterator_holder_type::const_iterator</definition>
+        <argsstring></argsstring>
+        <name>const_iterator</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::const_iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="120" column="5" bodyfile="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" bodystart="120" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a329e99a992fb827b1128a4cb2364b20a" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.list/_1ab0ac6ed1e49acd56e069fe8614c87f3d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
+        <definition>using Aspose::Words::DigitalSignatures::DigitalSignatureCollection::iterator =  typename iterator_holder_type::iterator</definition>
+        <argsstring></argsstring>
+        <name>iterator</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="118" column="5" bodyfile="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" bodystart="118" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a1f068ad68c760cd40e02cf63238d9a05" prot="public" static="no">
+        <type><ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature" kindref="compound">Aspose::Words::DigitalSignatures::DigitalSignature</ref> &gt; &gt;</type>
+        <definition>using Aspose::Words::DigitalSignatures::DigitalSignatureCollection::iterator_holder_type =  System::Collections::Generic::List&lt;System::SharedPtr&lt;Aspose::Words::DigitalSignatures::DigitalSignature&gt; &gt;</definition>
+        <argsstring></argsstring>
+        <name>iterator_holder_type</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::iterator_holder_type</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="116" column="5" bodyfile="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" bodystart="116" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1ac00e18f154fdc5cfdfc065aa8a129972" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
+        <definition>using Aspose::Words::DigitalSignatures::DigitalSignatureCollection::virtualized_iterator =  typename iterator_holder_type::virtualized_iterator</definition>
+        <argsstring></argsstring>
+        <name>virtualized_iterator</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::virtualized_iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="124" column="5" bodyfile="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" bodystart="124" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1ab49aeef6a19077f500ce12af32bdaa1d" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
+        <definition>using Aspose::Words::DigitalSignatures::DigitalSignatureCollection::virtualized_iterator_element =  typename iterator_holder_type::virtualized_iterator_element</definition>
+        <argsstring></argsstring>
+        <name>virtualized_iterator_element</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::virtualized_iterator_element</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="122" column="5" bodyfile="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" bodystart="122" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a8252a676e9e17e094fc2e4f7f9d1d836" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::DigitalSignatures::DigitalSignatureCollection::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="315" column="23" bodyfile="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" bodystart="315" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a33d1f531874e6abc7c689d96afa77ab5" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::DigitalSignatures::DigitalSignatureCollection::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="316" column="23" bodyfile="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" bodystart="316" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a3f9799e3c3de393b2c99c3bc80a9cd7f" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::DigitalSignatures::DigitalSignatureCollection::~DigitalSignatureCollection</definition>
+        <argsstring>()</argsstring>
+        <name>~DigitalSignatureCollection</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::~DigitalSignatureCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="311" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a362347fd448767a2a3a998380484e46b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="112" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a9c8edac9957f39982c983a14d00fb1f6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::DigitalSignatureCollection</definition>
+        <argsstring>()</argsstring>
+        <name>DigitalSignatureCollection</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::DigitalSignatureCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="287" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1aba0cfd43a6175623432842936a82a9c8" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a801a5c85253799fca88fb56ef388a00e" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::DigitalSignatures::DigitalSignatureCollection::begin</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>begin</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::begin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="293" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1ac6403d04a133abbbe0ea37bd1b758dab" prot="public" static="no" const="no" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a329e99a992fb827b1128a4cb2364b20a" kindref="member">iterator</ref></type>
+        <definition>iterator Aspose::Words::DigitalSignatures::DigitalSignatureCollection::begin</definition>
+        <argsstring>() noexcept</argsstring>
+        <name>begin</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::begin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="289" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1acbd8d1a3817d91f95494a829a26bbc3c" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a801a5c85253799fca88fb56ef388a00e" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::DigitalSignatures::DigitalSignatureCollection::cbegin</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>cbegin</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::cbegin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="297" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a4b19c722fbc6cc32507cddd23bb740d7" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a801a5c85253799fca88fb56ef388a00e" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::DigitalSignatures::DigitalSignatureCollection::cend</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>cend</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::cend</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="299" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a745df3704777b1839ba0f9d1fea79593" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a801a5c85253799fca88fb56ef388a00e" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::DigitalSignatures::DigitalSignatureCollection::end</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>end</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::end</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="295" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a677a5f10d2281b0864ffe555d4a87958" prot="public" static="no" const="no" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a329e99a992fb827b1128a4cb2364b20a" kindref="member">iterator</ref></type>
+        <definition>iterator Aspose::Words::DigitalSignatures::DigitalSignatureCollection::end</definition>
+        <argsstring>() noexcept</argsstring>
+        <name>end</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::end</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="291" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a82489419afba8df4541d8b2d7ad7f96b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::DigitalSignatures::DigitalSignatureCollection::get_Count</definition>
+        <argsstring>()</argsstring>
+        <name>get_Count</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::get_Count</qualifiedname>
+        <briefdescription>
+<para>Gets the number of elements contained in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to sign documents with X.509 certificates. <programlisting><codeline><highlight class="comment">//<sp/>Verify<sp/>that<sp/>a<sp/>document<sp/>is<sp/>not<sp/>signed.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class_aspose_1_1_words_1_1_file_format_util_1a0f7aae337dbe4dee5b3c025faf1ced64" kindref="member" tooltip="Detects and returns the information about a format of a document stored in a disk file.">FileFormatUtil::DetectFileFormat</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">)-&gt;get_HasDigitalSignature());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>CertificateHolder<sp/>object<sp/>from<sp/>a<sp/>PKCS12<sp/>file,<sp/>which<sp/>we<sp/>will<sp/>use<sp/>to<sp/>sign<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CertificateHolder&gt;<sp/>certificateHolder<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder_1a0fd6423e6d95a9b92a170da169d3fa25" kindref="member" tooltip="Creates CertificateHolder object using byte array of PKCS12 store and its password.">CertificateHolder::Create</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;morzal.pfx&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;aw&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>saving<sp/>a<sp/>signed<sp/>copy<sp/>of<sp/>a<sp/>document<sp/>to<sp/>the<sp/>local<sp/>file<sp/>system:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/>Designate<sp/>a<sp/>document<sp/>by<sp/>a<sp/>local<sp/>system<sp/>filename<sp/>and<sp/>save<sp/>a<sp/>signed<sp/>copy<sp/>at<sp/>a<sp/>location<sp/>specified<sp/>by<sp/>another<sp/>filename.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signOptions<sp/>=<sp/>MakeObject&lt;SignOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">signOptions-&gt;set_SignTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_util_1af869532f846e545c8cd7436d45af6530" kindref="member" tooltip="Signs source document using given CertificateHolder and SignOptions with digital signature and writes...">DigitalSignatureUtil::Sign</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">,<sp/>ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">,<sp/>certificateHolder,<sp/>signOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class_aspose_1_1_words_1_1_file_format_util_1a0f7aae337dbe4dee5b3c025faf1ced64" kindref="member" tooltip="Detects and returns the information about a format of a document stored in a disk file.">FileFormatUtil::DetectFileFormat</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">)-&gt;get_HasDigitalSignature());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/>Take<sp/>a<sp/>document<sp/>from<sp/>a<sp/>stream<sp/>and<sp/>save<sp/>a<sp/>signed<sp/>copy<sp/>to<sp/>another<sp/>stream.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>inDoc<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Open);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>outDoc<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Create);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_util_1af869532f846e545c8cd7436d45af6530" kindref="member" tooltip="Signs source document using given CertificateHolder and SignOptions with digital signature and writes...">DigitalSignatureUtil::Sign</ref>(inDoc,<sp/>outDoc,<sp/>certificateHolder);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class_aspose_1_1_words_1_1_file_format_util_1a0f7aae337dbe4dee5b3c025faf1ced64" kindref="member" tooltip="Detects and returns the information about a format of a document stored in a disk file.">FileFormatUtil::DetectFileFormat</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">)-&gt;get_HasDigitalSignature());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Please<sp/>verify<sp/>that<sp/>all<sp/>of<sp/>the<sp/>document&apos;s<sp/>digital<sp/>signatures<sp/>are<sp/>valid<sp/>and<sp/>check<sp/>their<sp/>details.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signedDoc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;DigitalSignatureCollection&gt;<sp/>digitalSignatureCollection<sp/>=<sp/>signedDoc-&gt;get_DigitalSignatures();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(digitalSignatureCollection-&gt;get_IsValid());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>digitalSignatureCollection-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_digital_signatures_1ad0f5ce1802c83e610c2b7797db20aff7a29afa82ce86aca427a1216507bdd23e1" kindref="member" tooltip="The XmlDsig signature method used in OOXML and OpenDocument documents.">DigitalSignatureType::XmlDsig</ref>,<sp/>digitalSignatureCollection-&gt;idx_get(0)-&gt;get_SignatureType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;CN=Morzal.Me&quot;</highlight><highlight class="normal">,<sp/>signedDoc-&gt;get_DigitalSignatures()-&gt;idx_get(0)-&gt;get_IssuerName());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;CN=Morzal.Me&quot;</highlight><highlight class="normal">,<sp/>signedDoc-&gt;get_DigitalSignatures()-&gt;idx_get(0)-&gt;get_SubjectName());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="216" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a0cb3409a8652d194706c402493946ba5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::DigitalSignatures::DigitalSignatureCollection::get_IsValid</definition>
+        <argsstring>()</argsstring>
+        <name>get_IsValid</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::get_IsValid</qualifiedname>
+        <briefdescription>
+<para>Returns <computeroutput>true</computeroutput> if all digital signatures in this collection are valid and the document has not been tampered with Also returns <computeroutput>true</computeroutput> if there are no digital signatures. Returns <computeroutput>false</computeroutput> if at least one digital signature is invalid. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to sign documents with X.509 certificates. <programlisting><codeline><highlight class="comment">//<sp/>Verify<sp/>that<sp/>a<sp/>document<sp/>is<sp/>not<sp/>signed.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class_aspose_1_1_words_1_1_file_format_util_1a0f7aae337dbe4dee5b3c025faf1ced64" kindref="member" tooltip="Detects and returns the information about a format of a document stored in a disk file.">FileFormatUtil::DetectFileFormat</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">)-&gt;get_HasDigitalSignature());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>CertificateHolder<sp/>object<sp/>from<sp/>a<sp/>PKCS12<sp/>file,<sp/>which<sp/>we<sp/>will<sp/>use<sp/>to<sp/>sign<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CertificateHolder&gt;<sp/>certificateHolder<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder_1a0fd6423e6d95a9b92a170da169d3fa25" kindref="member" tooltip="Creates CertificateHolder object using byte array of PKCS12 store and its password.">CertificateHolder::Create</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;morzal.pfx&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;aw&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>saving<sp/>a<sp/>signed<sp/>copy<sp/>of<sp/>a<sp/>document<sp/>to<sp/>the<sp/>local<sp/>file<sp/>system:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/>Designate<sp/>a<sp/>document<sp/>by<sp/>a<sp/>local<sp/>system<sp/>filename<sp/>and<sp/>save<sp/>a<sp/>signed<sp/>copy<sp/>at<sp/>a<sp/>location<sp/>specified<sp/>by<sp/>another<sp/>filename.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signOptions<sp/>=<sp/>MakeObject&lt;SignOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">signOptions-&gt;set_SignTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_util_1af869532f846e545c8cd7436d45af6530" kindref="member" tooltip="Signs source document using given CertificateHolder and SignOptions with digital signature and writes...">DigitalSignatureUtil::Sign</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">,<sp/>ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">,<sp/>certificateHolder,<sp/>signOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class_aspose_1_1_words_1_1_file_format_util_1a0f7aae337dbe4dee5b3c025faf1ced64" kindref="member" tooltip="Detects and returns the information about a format of a document stored in a disk file.">FileFormatUtil::DetectFileFormat</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">)-&gt;get_HasDigitalSignature());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/>Take<sp/>a<sp/>document<sp/>from<sp/>a<sp/>stream<sp/>and<sp/>save<sp/>a<sp/>signed<sp/>copy<sp/>to<sp/>another<sp/>stream.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>inDoc<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Open);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>outDoc<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Create);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_util_1af869532f846e545c8cd7436d45af6530" kindref="member" tooltip="Signs source document using given CertificateHolder and SignOptions with digital signature and writes...">DigitalSignatureUtil::Sign</ref>(inDoc,<sp/>outDoc,<sp/>certificateHolder);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class_aspose_1_1_words_1_1_file_format_util_1a0f7aae337dbe4dee5b3c025faf1ced64" kindref="member" tooltip="Detects and returns the information about a format of a document stored in a disk file.">FileFormatUtil::DetectFileFormat</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">)-&gt;get_HasDigitalSignature());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Please<sp/>verify<sp/>that<sp/>all<sp/>of<sp/>the<sp/>document&apos;s<sp/>digital<sp/>signatures<sp/>are<sp/>valid<sp/>and<sp/>check<sp/>their<sp/>details.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signedDoc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;DigitalSignatureCollection&gt;<sp/>digitalSignatureCollection<sp/>=<sp/>signedDoc-&gt;get_DigitalSignatures();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(digitalSignatureCollection-&gt;get_IsValid());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>digitalSignatureCollection-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_digital_signatures_1ad0f5ce1802c83e610c2b7797db20aff7a29afa82ce86aca427a1216507bdd23e1" kindref="member" tooltip="The XmlDsig signature method used in OOXML and OpenDocument documents.">DigitalSignatureType::XmlDsig</ref>,<sp/>digitalSignatureCollection-&gt;idx_get(0)-&gt;get_SignatureType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;CN=Morzal.Me&quot;</highlight><highlight class="normal">,<sp/>signedDoc-&gt;get_DigitalSignatures()-&gt;idx_get(0)-&gt;get_IssuerName());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;CN=Morzal.Me&quot;</highlight><highlight class="normal">,<sp/>signedDoc-&gt;get_DigitalSignatures()-&gt;idx_get(0)-&gt;get_SubjectName());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="172" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a8540f3e856660494d30cad146d7b1ad7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature" kindref="compound">Aspose::Words::DigitalSignatures::DigitalSignature</ref> &gt; &gt; &gt;</type>
+        <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::SharedPtr&lt; Aspose::Words::DigitalSignatures::DigitalSignature &gt; &gt; &gt; Aspose::Words::DigitalSignatures::DigitalSignatureCollection::GetEnumerator</definition>
+        <argsstring>() override</argsstring>
+        <name>GetEnumerator</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::GetEnumerator</qualifiedname>
+        <briefdescription>
+<para>Returns a dictionary enumerator object that can be used to iterate over all items in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to print all the digital signatures of a signed document. <programlisting><codeline><highlight class="normal">SharedPtr&lt;DigitalSignatureCollection&gt;<sp/>digitalSignatures<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_util_1adf40b7b0e71fbdfa695fd90b37e2b427" kindref="member" tooltip="Loads digital signatures from document.">DigitalSignatureUtil::LoadSignatures</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Digitally<sp/>signed.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;DigitalSignature&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>digitalSignatures-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;DigitalSignature&gt;<sp/>ds<sp/>=<sp/>enumerator-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(ds<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(ds)<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="285" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a20f6eba94c16b235d6aa94fa22ba16cb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature" kindref="compound">Aspose::Words::DigitalSignatures::DigitalSignature</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::DigitalSignatures::DigitalSignature &gt; Aspose::Words::DigitalSignatures::DigitalSignatureCollection::idx_get</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>idx_get</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::idx_get</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Gets a document signature at the specified index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>index</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Zero-based index of the signature.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to sign documents with X.509 certificates. <programlisting><codeline><highlight class="comment">//<sp/>Verify<sp/>that<sp/>a<sp/>document<sp/>is<sp/>not<sp/>signed.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class_aspose_1_1_words_1_1_file_format_util_1a0f7aae337dbe4dee5b3c025faf1ced64" kindref="member" tooltip="Detects and returns the information about a format of a document stored in a disk file.">FileFormatUtil::DetectFileFormat</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">)-&gt;get_HasDigitalSignature());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>CertificateHolder<sp/>object<sp/>from<sp/>a<sp/>PKCS12<sp/>file,<sp/>which<sp/>we<sp/>will<sp/>use<sp/>to<sp/>sign<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CertificateHolder&gt;<sp/>certificateHolder<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder_1a0fd6423e6d95a9b92a170da169d3fa25" kindref="member" tooltip="Creates CertificateHolder object using byte array of PKCS12 store and its password.">CertificateHolder::Create</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;morzal.pfx&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;aw&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>saving<sp/>a<sp/>signed<sp/>copy<sp/>of<sp/>a<sp/>document<sp/>to<sp/>the<sp/>local<sp/>file<sp/>system:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/>Designate<sp/>a<sp/>document<sp/>by<sp/>a<sp/>local<sp/>system<sp/>filename<sp/>and<sp/>save<sp/>a<sp/>signed<sp/>copy<sp/>at<sp/>a<sp/>location<sp/>specified<sp/>by<sp/>another<sp/>filename.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signOptions<sp/>=<sp/>MakeObject&lt;SignOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">signOptions-&gt;set_SignTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_util_1af869532f846e545c8cd7436d45af6530" kindref="member" tooltip="Signs source document using given CertificateHolder and SignOptions with digital signature and writes...">DigitalSignatureUtil::Sign</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">,<sp/>ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">,<sp/>certificateHolder,<sp/>signOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class_aspose_1_1_words_1_1_file_format_util_1a0f7aae337dbe4dee5b3c025faf1ced64" kindref="member" tooltip="Detects and returns the information about a format of a document stored in a disk file.">FileFormatUtil::DetectFileFormat</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">)-&gt;get_HasDigitalSignature());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/>Take<sp/>a<sp/>document<sp/>from<sp/>a<sp/>stream<sp/>and<sp/>save<sp/>a<sp/>signed<sp/>copy<sp/>to<sp/>another<sp/>stream.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>inDoc<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Open);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>outDoc<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Create);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_util_1af869532f846e545c8cd7436d45af6530" kindref="member" tooltip="Signs source document using given CertificateHolder and SignOptions with digital signature and writes...">DigitalSignatureUtil::Sign</ref>(inDoc,<sp/>outDoc,<sp/>certificateHolder);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class_aspose_1_1_words_1_1_file_format_util_1a0f7aae337dbe4dee5b3c025faf1ced64" kindref="member" tooltip="Detects and returns the information about a format of a document stored in a disk file.">FileFormatUtil::DetectFileFormat</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">)-&gt;get_HasDigitalSignature());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Please<sp/>verify<sp/>that<sp/>all<sp/>of<sp/>the<sp/>document&apos;s<sp/>digital<sp/>signatures<sp/>are<sp/>valid<sp/>and<sp/>check<sp/>their<sp/>details.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signedDoc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;DigitalSignatureCollection&gt;<sp/>digitalSignatureCollection<sp/>=<sp/>signedDoc-&gt;get_DigitalSignatures();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(digitalSignatureCollection-&gt;get_IsValid());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>digitalSignatureCollection-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_digital_signatures_1ad0f5ce1802c83e610c2b7797db20aff7a29afa82ce86aca427a1216507bdd23e1" kindref="member" tooltip="The XmlDsig signature method used in OOXML and OpenDocument documents.">DigitalSignatureType::XmlDsig</ref>,<sp/>digitalSignatureCollection-&gt;idx_get(0)-&gt;get_SignatureType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;CN=Morzal.Me&quot;</highlight><highlight class="normal">,<sp/>signedDoc-&gt;get_DigitalSignatures()-&gt;idx_get(0)-&gt;get_IssuerName());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;CN=Morzal.Me&quot;</highlight><highlight class="normal">,<sp/>signedDoc-&gt;get_DigitalSignatures()-&gt;idx_get(0)-&gt;get_SubjectName());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="262" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1ae1fc85f532bf9aabb04f7bf88bdc4c84" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1ac00e18f154fdc5cfdfc065aa8a129972" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::DigitalSignatures::DigitalSignatureCollection::virtualizeBeginConstIterator</definition>
+        <argsstring>() const override</argsstring>
+        <name>virtualizeBeginConstIterator</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::virtualizeBeginConstIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="305" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a54ebc07cb6f68202ebdbf1e96eca8442" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1ac00e18f154fdc5cfdfc065aa8a129972" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::DigitalSignatures::DigitalSignatureCollection::virtualizeBeginIterator</definition>
+        <argsstring>() override</argsstring>
+        <name>virtualizeBeginIterator</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::virtualizeBeginIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="301" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1aa1894f7789b8f94ac15bdcc85d4a2de8" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1ac00e18f154fdc5cfdfc065aa8a129972" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::DigitalSignatures::DigitalSignatureCollection::virtualizeEndConstIterator</definition>
+        <argsstring>() const override</argsstring>
+        <name>virtualizeEndConstIterator</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::virtualizeEndConstIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="307" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1ac155a03ed37e96b9a1a3bf357952ff55" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1ac00e18f154fdc5cfdfc065aa8a129972" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::DigitalSignatures::DigitalSignatureCollection::virtualizeEndIterator</definition>
+        <argsstring>() override</argsstring>
+        <name>virtualizeEndIterator</name>
+        <qualifiedname>Aspose::Words::DigitalSignatures::DigitalSignatureCollection::virtualizeEndIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="303" column="29"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Provides a read-only collection of digital signatures attached to a document. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to validate and display information about each signature in a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Digitally<sp/>signed.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>signature<sp/>:<sp/>doc-&gt;get_DigitalSignatures())</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(signature-&gt;get_IsValid()<sp/>?<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Valid&quot;</highlight><highlight class="normal">)<sp/>:<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Invalid&quot;</highlight><highlight class="normal">))<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>signature:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tReason:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>signature-&gt;get_Comments()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tType:\t{0}&quot;</highlight><highlight class="normal">,<sp/>signature-&gt;get_SignatureType())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tSign<sp/>time:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>signature-&gt;get_SignTime()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tSubject<sp/>name:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>signature-&gt;get_CertificateHolder()-&gt;get_Certificate()-&gt;get_SubjectName()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tIssuer<sp/>name:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>signature-&gt;get_CertificateHolder()-&gt;get_Certificate()-&gt;get_IssuerName()-&gt;get_Name()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting></para>
+<para>Shows how to sign documents with X.509 certificates. <programlisting><codeline><highlight class="comment">//<sp/>Verify<sp/>that<sp/>a<sp/>document<sp/>is<sp/>not<sp/>signed.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class_aspose_1_1_words_1_1_file_format_util_1a0f7aae337dbe4dee5b3c025faf1ced64" kindref="member" tooltip="Detects and returns the information about a format of a document stored in a disk file.">FileFormatUtil::DetectFileFormat</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">)-&gt;get_HasDigitalSignature());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>CertificateHolder<sp/>object<sp/>from<sp/>a<sp/>PKCS12<sp/>file,<sp/>which<sp/>we<sp/>will<sp/>use<sp/>to<sp/>sign<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CertificateHolder&gt;<sp/>certificateHolder<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_certificate_holder_1a0fd6423e6d95a9b92a170da169d3fa25" kindref="member" tooltip="Creates CertificateHolder object using byte array of PKCS12 store and its password.">CertificateHolder::Create</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;morzal.pfx&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;aw&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>saving<sp/>a<sp/>signed<sp/>copy<sp/>of<sp/>a<sp/>document<sp/>to<sp/>the<sp/>local<sp/>file<sp/>system:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/>Designate<sp/>a<sp/>document<sp/>by<sp/>a<sp/>local<sp/>system<sp/>filename<sp/>and<sp/>save<sp/>a<sp/>signed<sp/>copy<sp/>at<sp/>a<sp/>location<sp/>specified<sp/>by<sp/>another<sp/>filename.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signOptions<sp/>=<sp/>MakeObject&lt;SignOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">signOptions-&gt;set_SignTime(<ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_util_1af869532f846e545c8cd7436d45af6530" kindref="member" tooltip="Signs source document using given CertificateHolder and SignOptions with digital signature and writes...">DigitalSignatureUtil::Sign</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">,<sp/>ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">,<sp/>certificateHolder,<sp/>signOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class_aspose_1_1_words_1_1_file_format_util_1a0f7aae337dbe4dee5b3c025faf1ced64" kindref="member" tooltip="Detects and returns the information about a format of a document stored in a disk file.">FileFormatUtil::DetectFileFormat</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">)-&gt;get_HasDigitalSignature());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/>Take<sp/>a<sp/>document<sp/>from<sp/>a<sp/>stream<sp/>and<sp/>save<sp/>a<sp/>signed<sp/>copy<sp/>to<sp/>another<sp/>stream.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>inDoc<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Open);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>outDoc<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Create);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_util_1af869532f846e545c8cd7436d45af6530" kindref="member" tooltip="Signs source document using given CertificateHolder and SignOptions with digital signature and writes...">DigitalSignatureUtil::Sign</ref>(inDoc,<sp/>outDoc,<sp/>certificateHolder);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class_aspose_1_1_words_1_1_file_format_util_1a0f7aae337dbe4dee5b3c025faf1ced64" kindref="member" tooltip="Detects and returns the information about a format of a document stored in a disk file.">FileFormatUtil::DetectFileFormat</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">)-&gt;get_HasDigitalSignature());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Please<sp/>verify<sp/>that<sp/>all<sp/>of<sp/>the<sp/>document&apos;s<sp/>digital<sp/>signatures<sp/>are<sp/>valid<sp/>and<sp/>check<sp/>their<sp/>details.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>signedDoc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.DigitalSignature.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;DigitalSignatureCollection&gt;<sp/>digitalSignatureCollection<sp/>=<sp/>signedDoc-&gt;get_DigitalSignatures();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(digitalSignatureCollection-&gt;get_IsValid());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>digitalSignatureCollection-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_digital_signatures_1ad0f5ce1802c83e610c2b7797db20aff7a29afa82ce86aca427a1216507bdd23e1" kindref="member" tooltip="The XmlDsig signature method used in OOXML and OpenDocument documents.">DigitalSignatureType::XmlDsig</ref>,<sp/>digitalSignatureCollection-&gt;idx_get(0)-&gt;get_SignatureType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;CN=Morzal.Me&quot;</highlight><highlight class="normal">,<sp/>signedDoc-&gt;get_DigitalSignatures()-&gt;idx_get(0)-&gt;get_IssuerName());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;CN=Morzal.Me&quot;</highlight><highlight class="normal">,<sp/>signedDoc-&gt;get_DigitalSignatures()-&gt;idx_get(0)-&gt;get_SubjectName());</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::DigitalSignatures::DigitalSignature &gt; &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::DigitalSignatures::DigitalSignature &gt; &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" line="106" column="1" bodyfile="Aspose.Words.Cpp/DigitalSignatures/DigitalSignatureCollection.h" bodystart="107" bodyend="318"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1abd53f7d5905091403a9b1319424d032a" prot="private" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1ac6403d04a133abbbe0ea37bd1b758dab" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>begin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1aba0cfd43a6175623432842936a82a9c8" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>begin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1acbd8d1a3817d91f95494a829a26bbc3c" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>cbegin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a4b19c722fbc6cc32507cddd23bb740d7" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>cend</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a801a5c85253799fca88fb56ef388a00e" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>const_iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a9c8edac9957f39982c983a14d00fb1f6" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>DigitalSignatureCollection</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a677a5f10d2281b0864ffe555d4a87958" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>end</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a745df3704777b1839ba0f9d1fea79593" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>end</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a82489419afba8df4541d8b2d7ad7f96b" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a0cb3409a8652d194706c402493946ba5" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>get_IsValid</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a8540f3e856660494d30cad146d7b1ad7" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>GetEnumerator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a20f6eba94c16b235d6aa94fa22ba16cb" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>idx_get</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a329e99a992fb827b1128a4cb2364b20a" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a1f068ad68c760cd40e02cf63238d9a05" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>iterator_holder_type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a8252a676e9e17e094fc2e4f7f9d1d836" prot="private" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a33d1f531874e6abc7c689d96afa77ab5" prot="private" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a362347fd448767a2a3a998380484e46b" prot="private" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a0030bd59b421fb016268e141361bc15d" prot="private" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1ab8858a08c719e779b631286256657056" prot="private" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1ae1fc85f532bf9aabb04f7bf88bdc4c84" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>virtualizeBeginConstIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a54ebc07cb6f68202ebdbf1e96eca8442" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>virtualizeBeginIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1ac00e18f154fdc5cfdfc065aa8a129972" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>virtualized_iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1ab49aeef6a19077f500ce12af32bdaa1d" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>virtualized_iterator_element</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1aa1894f7789b8f94ac15bdcc85d4a2de8" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>virtualizeEndConstIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1ac155a03ed37e96b9a1a3bf357952ff55" prot="public" virt="non-virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>virtualizeEndIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_digital_signatures_1_1_digital_signature_collection_1a3f9799e3c3de393b2c99c3bc80a9cd7f" prot="private" virt="virtual"><scope>Aspose::Words::DigitalSignatures::DigitalSignatureCollection</scope><name>~DigitalSignatureCollection</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,985 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fonts::TableSubstitutionRule</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_substitution_rule" prot="public" virt="non-virtual">Aspose::Words::Fonts::FontSubstitutionRule</basecompoundref>
+    <includes refid="_table_substitution_rule_8h" local="no">Aspose.Words.Cpp/Fonts/TableSubstitutionRule.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1a79713ce8f3a084c2e775fbe526b58925" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_substitution_rule" kindref="compound">Aspose::Words::Fonts::FontSubstitutionRule</ref></type>
+        <definition>typedef Aspose::Words::Fonts::FontSubstitutionRule Aspose::Words::Fonts::TableSubstitutionRule::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fonts::TableSubstitutionRule::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/TableSubstitutionRule.h" line="98" column="56" bodyfile="Aspose.Words.Cpp/Fonts/TableSubstitutionRule.h" bodystart="98" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1aee28b45996ed3075e3d6258477479718" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule" kindref="compound">TableSubstitutionRule</ref></type>
+        <definition>typedef TableSubstitutionRule Aspose::Words::Fonts::TableSubstitutionRule::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fonts::TableSubstitutionRule::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/TableSubstitutionRule.h" line="97" column="35" bodyfile="Aspose.Words.Cpp/Fonts/TableSubstitutionRule.h" bodystart="97" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1a2294face23f6a4ec575f6a6aa2259923" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_substitution_rule" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Fonts::TableSubstitutionRule::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fonts::TableSubstitutionRule::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/TableSubstitutionRule.h" line="100" column="37" bodyfile="Aspose.Words.Cpp/Fonts/TableSubstitutionRule.h" bodystart="100" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1a75bce774b18d7b77b2eba30e69788e1d" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fonts::TableSubstitutionRule::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Fonts::TableSubstitutionRule::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/TableSubstitutionRule.h" line="710" column="23" bodyfile="Aspose.Words.Cpp/Fonts/TableSubstitutionRule.h" bodystart="710" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1aa90a9f3de8d3737580557da81654702e" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Fonts::TrueType::TTFont &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Fonts::TrueType::TTFont &gt; Aspose::Words::Fonts::TableSubstitutionRule::PerformSubstitutionCore</definition>
+        <argsstring>(System::String, System::Drawing::FontStyle, System::SharedPtr&lt; Aspose::Words::Fonts::FontInfo &gt;, System::SharedPtr&lt; Aspose::Fonts::ExternalFontCache &gt;) override</argsstring>
+        <name>PerformSubstitutionCore</name>
+        <qualifiedname>Aspose::Words::Fonts::TableSubstitutionRule::PerformSubstitutionCore</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fonts_1_1_font_substitution_rule_1a1860414de7d12eb748717230738b1472">PerformSubstitutionCore</reimplements>
+        <param>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        </param>
+        <param>
+          <type><ref refid="namespace/system.drawing/_1a6c1fe3c1830d158116f3729801cd7b49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::FontStyle</ref></type>
+        </param>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info" kindref="compound">Aspose::Words::Fonts::FontInfo</ref> &gt;</type>
+        </param>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Fonts::ExternalFontCache &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/TableSubstitutionRule.h" line="706" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1a5bba3d81d54ddc30b49fe8e9594573ff" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fonts::TableSubstitutionRule::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fonts::TableSubstitutionRule::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/TableSubstitutionRule.h" line="101" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1a10682ac7418abe0b51c5cc3465cfd788" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::TableSubstitutionRule::AddSubstitutes</definition>
+        <argsstring>(const System::String &amp;originalFontName, const System::ArrayPtr&lt; System::String &gt; &amp;substituteFontNames)</argsstring>
+        <name>AddSubstitutes</name>
+        <qualifiedname>Aspose::Words::Fonts::TableSubstitutionRule::AddSubstitutes</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>originalFontName</declname>
+        </param>
+        <param>
+          <type>const <ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt; &amp;</type>
+          <declname>substituteFontNames</declname>
+        </param>
+        <briefdescription>
+<para>Adds substitute font names for given original font name. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>originalFontName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Original font name. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>substituteFontNames</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>List of alternative font names.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access a document&apos;s system font source and set font substitutes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(MakeObject&lt;FontSettings&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>a<sp/>blank<sp/>document<sp/>always<sp/>contains<sp/>a<sp/>system<sp/>font<sp/>source.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>doc-&gt;get_FontSettings()-&gt;GetFontsSources()-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>systemFontSource<sp/>=<sp/>System::DynamicCast&lt;SystemFontSource&gt;(doc-&gt;get_FontSettings()-&gt;GetFontsSources()-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1a7e137df3895b9c46e2757cf73237c983" kindref="member" tooltip="A SystemFontSource object that represents all fonts installed to the system.">FontSourceType::SystemFonts</ref>,<sp/>systemFontSource-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>systemFontSource-&gt;get_Priority());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace/system/_1a9326d04561ea76c1b9ed2866512bce58" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::PlatformID</ref><sp/>pid<sp/>=<sp/><ref refid="struct/system.environment/_1a8e941e4180a8e017dc874d8bddd7f66a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Environment::get_OSVersion</ref>().get_Platform();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>isWindows<sp/>=<sp/>(pid<sp/>==<sp/>System::PlatformID::Win32NT)<sp/>||<sp/>(pid<sp/>==<sp/>System::PlatformID::Win32S)<sp/>||<sp/>(pid<sp/>==<sp/>System::PlatformID::Win32Windows)<sp/>||</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>(pid<sp/>==<sp/>System::PlatformID::WinCE);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(isWindows)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>fontsPath<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;C:\\WINDOWS\\Fonts&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(fontsPath.ToLower(),<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_system_font_source_1a96cc1c29e270b1131f266822be4b7742" kindref="member" tooltip="Returns system font folders or empty array if folders are not accessible.">SystemFontSource::GetSystemFontFolders</ref>()-&gt;LINQ_First().ToLower());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(String<sp/>systemFontFolder<sp/>:<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_system_font_source_1a96cc1c29e270b1131f266822be4b7742" kindref="member" tooltip="Returns system font folders or empty array if folders are not accessible.">SystemFontSource::GetSystemFontFolders</ref>())</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>systemFontFolder<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>font<sp/>that<sp/>exists<sp/>in<sp/>the<sp/>Windows<sp/>Fonts<sp/>directory<sp/>as<sp/>a<sp/>substitute<sp/>for<sp/>one<sp/>that<sp/>does<sp/>not.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;get_SubstitutionSettings()-&gt;get_FontInfoSubstitution()-&gt;set_Enabled(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;get_SubstitutionSettings()-&gt;get_TableSubstitution()-&gt;AddSubstitutes(u</highlight><highlight class="stringliteral">&quot;Kreon-Regular&quot;</highlight><highlight class="normal">,<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Calibri&quot;</highlight><highlight class="normal">}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>doc-&gt;get_FontSettings()-&gt;get_SubstitutionSettings()-&gt;get_TableSubstitution()-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Kreon-Regular&quot;</highlight><highlight class="normal">)-&gt;LINQ_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_FontSettings()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;get_SubstitutionSettings()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;get_TableSubstitution()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Kreon-Regular&quot;</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;LINQ_ToArray()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Calibri&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Alternatively,<sp/>we<sp/>could<sp/>add<sp/>a<sp/>folder<sp/>font<sp/>source<sp/>in<sp/>which<sp/>the<sp/>corresponding<sp/>folder<sp/>contains<sp/>the<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>folderFontSource<sp/>=<sp/>MakeObject&lt;FolderFontSource&gt;(FontsDir,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({systemFontSource,<sp/>folderFontSource}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_FontSettings()-&gt;GetFontsSources()-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Resetting<sp/>the<sp/>font<sp/>sources<sp/>still<sp/>leaves<sp/>us<sp/>with<sp/>the<sp/>system<sp/>font<sp/>source<sp/>as<sp/>well<sp/>as<sp/>our<sp/>substitutes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;ResetFontSources();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>doc-&gt;get_FontSettings()-&gt;GetFontsSources()-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1a7e137df3895b9c46e2757cf73237c983" kindref="member" tooltip="A SystemFontSource object that represents all fonts installed to the system.">FontSourceType::SystemFonts</ref>,<sp/>doc-&gt;get_FontSettings()-&gt;GetFontsSources()-&gt;idx_get(0)-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>doc-&gt;get_FontSettings()-&gt;get_SubstitutionSettings()-&gt;get_TableSubstitution()-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Kreon-Regular&quot;</highlight><highlight class="normal">)-&gt;LINQ_Count());</highlight></codeline>
+</programlisting></para>
+<para>Shows how to work with custom font substitution tables. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>new<sp/>table<sp/>substitution<sp/>rule<sp/>and<sp/>load<sp/>the<sp/>default<sp/>Windows<sp/>font<sp/>substitution<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TableSubstitutionRule&gt;<sp/>tableSubstitutionRule<sp/>=<sp/>fontSettings-&gt;get_SubstitutionSettings()-&gt;get_TableSubstitution();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>select<sp/>fonts<sp/>exclusively<sp/>from<sp/>our<sp/>folder,<sp/>we<sp/>will<sp/>need<sp/>a<sp/>custom<sp/>substitution<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>no<sp/>longer<sp/>have<sp/>access<sp/>to<sp/>the<sp/>Microsoft<sp/>Windows<sp/>fonts,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>such<sp/>as<sp/>&quot;Arial&quot;<sp/>or<sp/>&quot;Times<sp/>New<sp/>Roman&quot;<sp/>since<sp/>they<sp/>do<sp/>not<sp/>exist<sp/>in<sp/>our<sp/>new<sp/>font<sp/>folder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>folderFontSource<sp/>=<sp/>MakeObject&lt;FolderFontSource&gt;(FontsDir,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fontSettings-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({folderFontSource}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>loading<sp/>a<sp/>substitution<sp/>table<sp/>from<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>From<sp/>a<sp/>stream:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fileStream<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font<sp/>substitution<sp/>rules.xml&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Open);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>tableSubstitutionRule-&gt;Load(fileStream);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Directly<sp/>from<sp/>a<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;Load(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font<sp/>substitution<sp/>rules.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Since<sp/>we<sp/>no<sp/>longer<sp/>have<sp/>access<sp/>to<sp/>&quot;Arial&quot;,<sp/>our<sp/>font<sp/>table<sp/>will<sp/>first<sp/>try<sp/>substitute<sp/>it<sp/>with<sp/>&quot;Nonexistent<sp/>Font&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>do<sp/>not<sp/>have<sp/>this<sp/>font<sp/>so<sp/>that<sp/>it<sp/>will<sp/>move<sp/>onto<sp/>the<sp/>next<sp/>substitute,<sp/>&quot;Kreon&quot;,<sp/>found<sp/>in<sp/>the<sp/>&quot;MyFonts&quot;<sp/>folder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Missing<sp/>Font&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Kreon&quot;</highlight><highlight class="normal">}),<sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>expand<sp/>this<sp/>table<sp/>programmatically.<sp/>We<sp/>will<sp/>add<sp/>an<sp/>entry<sp/>that<sp/>substitutes<sp/>&quot;Times<sp/>New<sp/>Roman&quot;<sp/>with<sp/>&quot;Arvo&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">)<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;AddSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">,<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Arvo&quot;</highlight><highlight class="normal">}));</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Arvo&quot;</highlight><highlight class="normal">}),<sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>add<sp/>a<sp/>secondary<sp/>fallback<sp/>substitute<sp/>for<sp/>an<sp/>existing<sp/>font<sp/>entry<sp/>with<sp/>AddSubstitutes().</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>case<sp/>&quot;Arvo&quot;<sp/>is<sp/>unavailable,<sp/>our<sp/>table<sp/>will<sp/>look<sp/>for<sp/>&quot;M+<sp/>2m&quot;<sp/>as<sp/>a<sp/>second<sp/>substitute<sp/>option.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;AddSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">,<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;M+<sp/>2m&quot;</highlight><highlight class="normal">}));</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Arvo&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;M+<sp/>2m&quot;</highlight><highlight class="normal">}),<sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>SetSubstitutes()<sp/>can<sp/>set<sp/>a<sp/>new<sp/>list<sp/>of<sp/>substitute<sp/>fonts<sp/>for<sp/>a<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;SetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">,<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Squarish<sp/>Sans<sp/>CT&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;M+<sp/>2m&quot;</highlight><highlight class="normal">}));</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Squarish<sp/>Sans<sp/>CT&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;M+<sp/>2m&quot;</highlight><highlight class="normal">}),<sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Writing<sp/>text<sp/>in<sp/>fonts<sp/>that<sp/>we<sp/>do<sp/>not<sp/>have<sp/>access<sp/>to<sp/>will<sp/>invoke<sp/>our<sp/>substitution<sp/>rules.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>written<sp/>in<sp/>Arial,<sp/>to<sp/>be<sp/>substituted<sp/>by<sp/>Kreon.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>written<sp/>in<sp/>Times<sp/>New<sp/>Roman,<sp/>to<sp/>be<sp/>substituted<sp/>by<sp/>Squarish<sp/>Sans<sp/>CT.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.TableSubstitutionRule.Custom.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/TableSubstitutionRule.h" line="702" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1a7f09cb03b5561a6d1714a19d5a98d04e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt; &gt;</type>
+        <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerable&lt; System::String &gt; &gt; Aspose::Words::Fonts::TableSubstitutionRule::GetSubstitutes</definition>
+        <argsstring>(const System::String &amp;originalFontName)</argsstring>
+        <name>GetSubstitutes</name>
+        <qualifiedname>Aspose::Words::Fonts::TableSubstitutionRule::GetSubstitutes</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>originalFontName</declname>
+        </param>
+        <briefdescription>
+<para>Returns array containing substitute font names for the specified original font name. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>originalFontName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Original font name.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>List of alternative font names.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access a document&apos;s system font source and set font substitutes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(MakeObject&lt;FontSettings&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>a<sp/>blank<sp/>document<sp/>always<sp/>contains<sp/>a<sp/>system<sp/>font<sp/>source.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>doc-&gt;get_FontSettings()-&gt;GetFontsSources()-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>systemFontSource<sp/>=<sp/>System::DynamicCast&lt;SystemFontSource&gt;(doc-&gt;get_FontSettings()-&gt;GetFontsSources()-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1a7e137df3895b9c46e2757cf73237c983" kindref="member" tooltip="A SystemFontSource object that represents all fonts installed to the system.">FontSourceType::SystemFonts</ref>,<sp/>systemFontSource-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>systemFontSource-&gt;get_Priority());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace/system/_1a9326d04561ea76c1b9ed2866512bce58" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::PlatformID</ref><sp/>pid<sp/>=<sp/><ref refid="struct/system.environment/_1a8e941e4180a8e017dc874d8bddd7f66a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Environment::get_OSVersion</ref>().get_Platform();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>isWindows<sp/>=<sp/>(pid<sp/>==<sp/>System::PlatformID::Win32NT)<sp/>||<sp/>(pid<sp/>==<sp/>System::PlatformID::Win32S)<sp/>||<sp/>(pid<sp/>==<sp/>System::PlatformID::Win32Windows)<sp/>||</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>(pid<sp/>==<sp/>System::PlatformID::WinCE);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(isWindows)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>fontsPath<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;C:\\WINDOWS\\Fonts&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(fontsPath.ToLower(),<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_system_font_source_1a96cc1c29e270b1131f266822be4b7742" kindref="member" tooltip="Returns system font folders or empty array if folders are not accessible.">SystemFontSource::GetSystemFontFolders</ref>()-&gt;LINQ_First().ToLower());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(String<sp/>systemFontFolder<sp/>:<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_system_font_source_1a96cc1c29e270b1131f266822be4b7742" kindref="member" tooltip="Returns system font folders or empty array if folders are not accessible.">SystemFontSource::GetSystemFontFolders</ref>())</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>systemFontFolder<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>font<sp/>that<sp/>exists<sp/>in<sp/>the<sp/>Windows<sp/>Fonts<sp/>directory<sp/>as<sp/>a<sp/>substitute<sp/>for<sp/>one<sp/>that<sp/>does<sp/>not.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;get_SubstitutionSettings()-&gt;get_FontInfoSubstitution()-&gt;set_Enabled(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;get_SubstitutionSettings()-&gt;get_TableSubstitution()-&gt;AddSubstitutes(u</highlight><highlight class="stringliteral">&quot;Kreon-Regular&quot;</highlight><highlight class="normal">,<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Calibri&quot;</highlight><highlight class="normal">}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>doc-&gt;get_FontSettings()-&gt;get_SubstitutionSettings()-&gt;get_TableSubstitution()-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Kreon-Regular&quot;</highlight><highlight class="normal">)-&gt;LINQ_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_FontSettings()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;get_SubstitutionSettings()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;get_TableSubstitution()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Kreon-Regular&quot;</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;LINQ_ToArray()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Calibri&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Alternatively,<sp/>we<sp/>could<sp/>add<sp/>a<sp/>folder<sp/>font<sp/>source<sp/>in<sp/>which<sp/>the<sp/>corresponding<sp/>folder<sp/>contains<sp/>the<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>folderFontSource<sp/>=<sp/>MakeObject&lt;FolderFontSource&gt;(FontsDir,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({systemFontSource,<sp/>folderFontSource}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_FontSettings()-&gt;GetFontsSources()-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Resetting<sp/>the<sp/>font<sp/>sources<sp/>still<sp/>leaves<sp/>us<sp/>with<sp/>the<sp/>system<sp/>font<sp/>source<sp/>as<sp/>well<sp/>as<sp/>our<sp/>substitutes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;ResetFontSources();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>doc-&gt;get_FontSettings()-&gt;GetFontsSources()-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1a7e137df3895b9c46e2757cf73237c983" kindref="member" tooltip="A SystemFontSource object that represents all fonts installed to the system.">FontSourceType::SystemFonts</ref>,<sp/>doc-&gt;get_FontSettings()-&gt;GetFontsSources()-&gt;idx_get(0)-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>doc-&gt;get_FontSettings()-&gt;get_SubstitutionSettings()-&gt;get_TableSubstitution()-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Kreon-Regular&quot;</highlight><highlight class="normal">)-&gt;LINQ_Count());</highlight></codeline>
+</programlisting></para>
+<para>Shows how to work with custom font substitution tables. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>new<sp/>table<sp/>substitution<sp/>rule<sp/>and<sp/>load<sp/>the<sp/>default<sp/>Windows<sp/>font<sp/>substitution<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TableSubstitutionRule&gt;<sp/>tableSubstitutionRule<sp/>=<sp/>fontSettings-&gt;get_SubstitutionSettings()-&gt;get_TableSubstitution();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>select<sp/>fonts<sp/>exclusively<sp/>from<sp/>our<sp/>folder,<sp/>we<sp/>will<sp/>need<sp/>a<sp/>custom<sp/>substitution<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>no<sp/>longer<sp/>have<sp/>access<sp/>to<sp/>the<sp/>Microsoft<sp/>Windows<sp/>fonts,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>such<sp/>as<sp/>&quot;Arial&quot;<sp/>or<sp/>&quot;Times<sp/>New<sp/>Roman&quot;<sp/>since<sp/>they<sp/>do<sp/>not<sp/>exist<sp/>in<sp/>our<sp/>new<sp/>font<sp/>folder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>folderFontSource<sp/>=<sp/>MakeObject&lt;FolderFontSource&gt;(FontsDir,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fontSettings-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({folderFontSource}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>loading<sp/>a<sp/>substitution<sp/>table<sp/>from<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>From<sp/>a<sp/>stream:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fileStream<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font<sp/>substitution<sp/>rules.xml&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Open);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>tableSubstitutionRule-&gt;Load(fileStream);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Directly<sp/>from<sp/>a<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;Load(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font<sp/>substitution<sp/>rules.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Since<sp/>we<sp/>no<sp/>longer<sp/>have<sp/>access<sp/>to<sp/>&quot;Arial&quot;,<sp/>our<sp/>font<sp/>table<sp/>will<sp/>first<sp/>try<sp/>substitute<sp/>it<sp/>with<sp/>&quot;Nonexistent<sp/>Font&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>do<sp/>not<sp/>have<sp/>this<sp/>font<sp/>so<sp/>that<sp/>it<sp/>will<sp/>move<sp/>onto<sp/>the<sp/>next<sp/>substitute,<sp/>&quot;Kreon&quot;,<sp/>found<sp/>in<sp/>the<sp/>&quot;MyFonts&quot;<sp/>folder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Missing<sp/>Font&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Kreon&quot;</highlight><highlight class="normal">}),<sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>expand<sp/>this<sp/>table<sp/>programmatically.<sp/>We<sp/>will<sp/>add<sp/>an<sp/>entry<sp/>that<sp/>substitutes<sp/>&quot;Times<sp/>New<sp/>Roman&quot;<sp/>with<sp/>&quot;Arvo&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">)<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;AddSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">,<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Arvo&quot;</highlight><highlight class="normal">}));</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Arvo&quot;</highlight><highlight class="normal">}),<sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>add<sp/>a<sp/>secondary<sp/>fallback<sp/>substitute<sp/>for<sp/>an<sp/>existing<sp/>font<sp/>entry<sp/>with<sp/>AddSubstitutes().</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>case<sp/>&quot;Arvo&quot;<sp/>is<sp/>unavailable,<sp/>our<sp/>table<sp/>will<sp/>look<sp/>for<sp/>&quot;M+<sp/>2m&quot;<sp/>as<sp/>a<sp/>second<sp/>substitute<sp/>option.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;AddSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">,<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;M+<sp/>2m&quot;</highlight><highlight class="normal">}));</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Arvo&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;M+<sp/>2m&quot;</highlight><highlight class="normal">}),<sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>SetSubstitutes()<sp/>can<sp/>set<sp/>a<sp/>new<sp/>list<sp/>of<sp/>substitute<sp/>fonts<sp/>for<sp/>a<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;SetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">,<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Squarish<sp/>Sans<sp/>CT&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;M+<sp/>2m&quot;</highlight><highlight class="normal">}));</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Squarish<sp/>Sans<sp/>CT&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;M+<sp/>2m&quot;</highlight><highlight class="normal">}),<sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Writing<sp/>text<sp/>in<sp/>fonts<sp/>that<sp/>we<sp/>do<sp/>not<sp/>have<sp/>access<sp/>to<sp/>will<sp/>invoke<sp/>our<sp/>substitution<sp/>rules.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>written<sp/>in<sp/>Arial,<sp/>to<sp/>be<sp/>substituted<sp/>by<sp/>Kreon.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>written<sp/>in<sp/>Times<sp/>New<sp/>Roman,<sp/>to<sp/>be<sp/>substituted<sp/>by<sp/>Squarish<sp/>Sans<sp/>CT.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.TableSubstitutionRule.Custom.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/TableSubstitutionRule.h" line="490" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1a2920963df999fb04beb4e57e4c4cdcd6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::TableSubstitutionRule::Load</definition>
+        <argsstring>(const System::SharedPtr&lt; System::IO::Stream &gt; &amp;stream)</argsstring>
+        <name>Load</name>
+        <qualifiedname>Aspose::Words::Fonts::TableSubstitutionRule::Load</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <declname>stream</declname>
+        </param>
+        <briefdescription>
+<para>Loads table substitution settings from XML stream. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>stream</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Input stream.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with custom font substitution tables. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>new<sp/>table<sp/>substitution<sp/>rule<sp/>and<sp/>load<sp/>the<sp/>default<sp/>Windows<sp/>font<sp/>substitution<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TableSubstitutionRule&gt;<sp/>tableSubstitutionRule<sp/>=<sp/>fontSettings-&gt;get_SubstitutionSettings()-&gt;get_TableSubstitution();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>select<sp/>fonts<sp/>exclusively<sp/>from<sp/>our<sp/>folder,<sp/>we<sp/>will<sp/>need<sp/>a<sp/>custom<sp/>substitution<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>no<sp/>longer<sp/>have<sp/>access<sp/>to<sp/>the<sp/>Microsoft<sp/>Windows<sp/>fonts,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>such<sp/>as<sp/>&quot;Arial&quot;<sp/>or<sp/>&quot;Times<sp/>New<sp/>Roman&quot;<sp/>since<sp/>they<sp/>do<sp/>not<sp/>exist<sp/>in<sp/>our<sp/>new<sp/>font<sp/>folder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>folderFontSource<sp/>=<sp/>MakeObject&lt;FolderFontSource&gt;(FontsDir,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fontSettings-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({folderFontSource}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>loading<sp/>a<sp/>substitution<sp/>table<sp/>from<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>From<sp/>a<sp/>stream:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fileStream<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font<sp/>substitution<sp/>rules.xml&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Open);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>tableSubstitutionRule-&gt;Load(fileStream);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Directly<sp/>from<sp/>a<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;Load(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font<sp/>substitution<sp/>rules.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Since<sp/>we<sp/>no<sp/>longer<sp/>have<sp/>access<sp/>to<sp/>&quot;Arial&quot;,<sp/>our<sp/>font<sp/>table<sp/>will<sp/>first<sp/>try<sp/>substitute<sp/>it<sp/>with<sp/>&quot;Nonexistent<sp/>Font&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>do<sp/>not<sp/>have<sp/>this<sp/>font<sp/>so<sp/>that<sp/>it<sp/>will<sp/>move<sp/>onto<sp/>the<sp/>next<sp/>substitute,<sp/>&quot;Kreon&quot;,<sp/>found<sp/>in<sp/>the<sp/>&quot;MyFonts&quot;<sp/>folder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Missing<sp/>Font&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Kreon&quot;</highlight><highlight class="normal">}),<sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>expand<sp/>this<sp/>table<sp/>programmatically.<sp/>We<sp/>will<sp/>add<sp/>an<sp/>entry<sp/>that<sp/>substitutes<sp/>&quot;Times<sp/>New<sp/>Roman&quot;<sp/>with<sp/>&quot;Arvo&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">)<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;AddSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">,<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Arvo&quot;</highlight><highlight class="normal">}));</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Arvo&quot;</highlight><highlight class="normal">}),<sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>add<sp/>a<sp/>secondary<sp/>fallback<sp/>substitute<sp/>for<sp/>an<sp/>existing<sp/>font<sp/>entry<sp/>with<sp/>AddSubstitutes().</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>case<sp/>&quot;Arvo&quot;<sp/>is<sp/>unavailable,<sp/>our<sp/>table<sp/>will<sp/>look<sp/>for<sp/>&quot;M+<sp/>2m&quot;<sp/>as<sp/>a<sp/>second<sp/>substitute<sp/>option.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;AddSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">,<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;M+<sp/>2m&quot;</highlight><highlight class="normal">}));</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Arvo&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;M+<sp/>2m&quot;</highlight><highlight class="normal">}),<sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>SetSubstitutes()<sp/>can<sp/>set<sp/>a<sp/>new<sp/>list<sp/>of<sp/>substitute<sp/>fonts<sp/>for<sp/>a<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;SetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">,<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Squarish<sp/>Sans<sp/>CT&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;M+<sp/>2m&quot;</highlight><highlight class="normal">}));</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Squarish<sp/>Sans<sp/>CT&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;M+<sp/>2m&quot;</highlight><highlight class="normal">}),<sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Writing<sp/>text<sp/>in<sp/>fonts<sp/>that<sp/>we<sp/>do<sp/>not<sp/>have<sp/>access<sp/>to<sp/>will<sp/>invoke<sp/>our<sp/>substitution<sp/>rules.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>written<sp/>in<sp/>Arial,<sp/>to<sp/>be<sp/>substituted<sp/>by<sp/>Kreon.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>written<sp/>in<sp/>Times<sp/>New<sp/>Roman,<sp/>to<sp/>be<sp/>substituted<sp/>by<sp/>Squarish<sp/>Sans<sp/>CT.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.TableSubstitutionRule.Custom.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/TableSubstitutionRule.h" line="225" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1a6a66624211580885d37dc3f7f5c7e862" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::TableSubstitutionRule::Load</definition>
+        <argsstring>(const System::String &amp;fileName)</argsstring>
+        <name>Load</name>
+        <qualifiedname>Aspose::Words::Fonts::TableSubstitutionRule::Load</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>fileName</declname>
+        </param>
+        <briefdescription>
+<para>Loads table substitution settings from XML file. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>fileName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Input file name.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with custom font substitution tables. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>new<sp/>table<sp/>substitution<sp/>rule<sp/>and<sp/>load<sp/>the<sp/>default<sp/>Windows<sp/>font<sp/>substitution<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TableSubstitutionRule&gt;<sp/>tableSubstitutionRule<sp/>=<sp/>fontSettings-&gt;get_SubstitutionSettings()-&gt;get_TableSubstitution();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>select<sp/>fonts<sp/>exclusively<sp/>from<sp/>our<sp/>folder,<sp/>we<sp/>will<sp/>need<sp/>a<sp/>custom<sp/>substitution<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>no<sp/>longer<sp/>have<sp/>access<sp/>to<sp/>the<sp/>Microsoft<sp/>Windows<sp/>fonts,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>such<sp/>as<sp/>&quot;Arial&quot;<sp/>or<sp/>&quot;Times<sp/>New<sp/>Roman&quot;<sp/>since<sp/>they<sp/>do<sp/>not<sp/>exist<sp/>in<sp/>our<sp/>new<sp/>font<sp/>folder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>folderFontSource<sp/>=<sp/>MakeObject&lt;FolderFontSource&gt;(FontsDir,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fontSettings-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({folderFontSource}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>loading<sp/>a<sp/>substitution<sp/>table<sp/>from<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>From<sp/>a<sp/>stream:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fileStream<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font<sp/>substitution<sp/>rules.xml&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Open);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>tableSubstitutionRule-&gt;Load(fileStream);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Directly<sp/>from<sp/>a<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;Load(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font<sp/>substitution<sp/>rules.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Since<sp/>we<sp/>no<sp/>longer<sp/>have<sp/>access<sp/>to<sp/>&quot;Arial&quot;,<sp/>our<sp/>font<sp/>table<sp/>will<sp/>first<sp/>try<sp/>substitute<sp/>it<sp/>with<sp/>&quot;Nonexistent<sp/>Font&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>do<sp/>not<sp/>have<sp/>this<sp/>font<sp/>so<sp/>that<sp/>it<sp/>will<sp/>move<sp/>onto<sp/>the<sp/>next<sp/>substitute,<sp/>&quot;Kreon&quot;,<sp/>found<sp/>in<sp/>the<sp/>&quot;MyFonts&quot;<sp/>folder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Missing<sp/>Font&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Kreon&quot;</highlight><highlight class="normal">}),<sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>expand<sp/>this<sp/>table<sp/>programmatically.<sp/>We<sp/>will<sp/>add<sp/>an<sp/>entry<sp/>that<sp/>substitutes<sp/>&quot;Times<sp/>New<sp/>Roman&quot;<sp/>with<sp/>&quot;Arvo&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">)<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;AddSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">,<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Arvo&quot;</highlight><highlight class="normal">}));</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Arvo&quot;</highlight><highlight class="normal">}),<sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>add<sp/>a<sp/>secondary<sp/>fallback<sp/>substitute<sp/>for<sp/>an<sp/>existing<sp/>font<sp/>entry<sp/>with<sp/>AddSubstitutes().</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>case<sp/>&quot;Arvo&quot;<sp/>is<sp/>unavailable,<sp/>our<sp/>table<sp/>will<sp/>look<sp/>for<sp/>&quot;M+<sp/>2m&quot;<sp/>as<sp/>a<sp/>second<sp/>substitute<sp/>option.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;AddSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">,<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;M+<sp/>2m&quot;</highlight><highlight class="normal">}));</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Arvo&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;M+<sp/>2m&quot;</highlight><highlight class="normal">}),<sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>SetSubstitutes()<sp/>can<sp/>set<sp/>a<sp/>new<sp/>list<sp/>of<sp/>substitute<sp/>fonts<sp/>for<sp/>a<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;SetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">,<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Squarish<sp/>Sans<sp/>CT&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;M+<sp/>2m&quot;</highlight><highlight class="normal">}));</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Squarish<sp/>Sans<sp/>CT&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;M+<sp/>2m&quot;</highlight><highlight class="normal">}),<sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Writing<sp/>text<sp/>in<sp/>fonts<sp/>that<sp/>we<sp/>do<sp/>not<sp/>have<sp/>access<sp/>to<sp/>will<sp/>invoke<sp/>our<sp/>substitution<sp/>rules.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>written<sp/>in<sp/>Arial,<sp/>to<sp/>be<sp/>substituted<sp/>by<sp/>Kreon.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>written<sp/>in<sp/>Times<sp/>New<sp/>Roman,<sp/>to<sp/>be<sp/>substituted<sp/>by<sp/>Squarish<sp/>Sans<sp/>CT.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.TableSubstitutionRule.Custom.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/TableSubstitutionRule.h" line="164" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1a18b38e66202667570aa82e1df6ecec7f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::TableSubstitutionRule::LoadAndroidSettings</definition>
+        <argsstring>()</argsstring>
+        <name>LoadAndroidSettings</name>
+        <qualifiedname>Aspose::Words::Fonts::TableSubstitutionRule::LoadAndroidSettings</qualifiedname>
+        <briefdescription>
+<para>Loads predefined table substitution settings for Linux platform. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/TableSubstitutionRule.h" line="300" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1ab258fa4f9c671fb134be0d6013822504" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::TableSubstitutionRule::LoadLinuxSettings</definition>
+        <argsstring>()</argsstring>
+        <name>LoadLinuxSettings</name>
+        <qualifiedname>Aspose::Words::Fonts::TableSubstitutionRule::LoadLinuxSettings</qualifiedname>
+        <briefdescription>
+<para>Loads predefined table substitution settings for Linux platform. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access font substitution tables for Windows and Linux. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>new<sp/>table<sp/>substitution<sp/>rule<sp/>and<sp/>load<sp/>the<sp/>default<sp/>Microsoft<sp/>Windows<sp/>font<sp/>substitution<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TableSubstitutionRule&gt;<sp/>tableSubstitutionRule<sp/>=<sp/>fontSettings-&gt;get_SubstitutionSettings()-&gt;get_TableSubstitution();</highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;LoadWindowsSettings();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>Windows,<sp/>the<sp/>default<sp/>substitute<sp/>for<sp/>the<sp/>&quot;Times<sp/>New<sp/>Roman<sp/>CE&quot;<sp/>font<sp/>is<sp/>&quot;Times<sp/>New<sp/>Roman&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">}),<sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman<sp/>CE&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>save<sp/>the<sp/>table<sp/>in<sp/>the<sp/>form<sp/>of<sp/>an<sp/>XML<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.TableSubstitutionRule.Windows.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Linux<sp/>has<sp/>its<sp/>own<sp/>substitution<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>multiple<sp/>substitute<sp/>fonts<sp/>for<sp/>&quot;Times<sp/>New<sp/>Roman<sp/>CE&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>first<sp/>substitute,<sp/>&quot;FreeSerif&quot;<sp/>is<sp/>also<sp/>unavailable,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>this<sp/>rule<sp/>will<sp/>cycle<sp/>through<sp/>the<sp/>others<sp/>in<sp/>the<sp/>array<sp/>until<sp/>it<sp/>finds<sp/>an<sp/>available<sp/>one.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;LoadLinuxSettings();</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;FreeSerif&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Liberation<sp/>Serif&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;DejaVu<sp/>Serif&quot;</highlight><highlight class="normal">}),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman<sp/>CE&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Save<sp/>the<sp/>Linux<sp/>substitution<sp/>table<sp/>in<sp/>the<sp/>form<sp/>of<sp/>an<sp/>XML<sp/>document<sp/>using<sp/>a<sp/>stream.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fileStream<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.TableSubstitutionRule.Linux.xml&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Create);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>tableSubstitutionRule-&gt;Save(fileStream);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/TableSubstitutionRule.h" line="297" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1a0bfff0a1c019a75288ad5d6a2bcec0e1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::TableSubstitutionRule::LoadWindowsSettings</definition>
+        <argsstring>()</argsstring>
+        <name>LoadWindowsSettings</name>
+        <qualifiedname>Aspose::Words::Fonts::TableSubstitutionRule::LoadWindowsSettings</qualifiedname>
+        <briefdescription>
+<para>Loads predefined table substitution settings for Windows platform. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access font substitution tables for Windows and Linux. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>new<sp/>table<sp/>substitution<sp/>rule<sp/>and<sp/>load<sp/>the<sp/>default<sp/>Microsoft<sp/>Windows<sp/>font<sp/>substitution<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TableSubstitutionRule&gt;<sp/>tableSubstitutionRule<sp/>=<sp/>fontSettings-&gt;get_SubstitutionSettings()-&gt;get_TableSubstitution();</highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;LoadWindowsSettings();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>Windows,<sp/>the<sp/>default<sp/>substitute<sp/>for<sp/>the<sp/>&quot;Times<sp/>New<sp/>Roman<sp/>CE&quot;<sp/>font<sp/>is<sp/>&quot;Times<sp/>New<sp/>Roman&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">}),<sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman<sp/>CE&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>save<sp/>the<sp/>table<sp/>in<sp/>the<sp/>form<sp/>of<sp/>an<sp/>XML<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.TableSubstitutionRule.Windows.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Linux<sp/>has<sp/>its<sp/>own<sp/>substitution<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>multiple<sp/>substitute<sp/>fonts<sp/>for<sp/>&quot;Times<sp/>New<sp/>Roman<sp/>CE&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>first<sp/>substitute,<sp/>&quot;FreeSerif&quot;<sp/>is<sp/>also<sp/>unavailable,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>this<sp/>rule<sp/>will<sp/>cycle<sp/>through<sp/>the<sp/>others<sp/>in<sp/>the<sp/>array<sp/>until<sp/>it<sp/>finds<sp/>an<sp/>available<sp/>one.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;LoadLinuxSettings();</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;FreeSerif&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Liberation<sp/>Serif&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;DejaVu<sp/>Serif&quot;</highlight><highlight class="normal">}),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman<sp/>CE&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Save<sp/>the<sp/>Linux<sp/>substitution<sp/>table<sp/>in<sp/>the<sp/>form<sp/>of<sp/>an<sp/>XML<sp/>document<sp/>using<sp/>a<sp/>stream.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fileStream<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.TableSubstitutionRule.Linux.xml&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Create);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>tableSubstitutionRule-&gt;Save(fileStream);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/TableSubstitutionRule.h" line="261" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1ad85bd21c947856acc347d5fe524f354e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::TableSubstitutionRule::Save</definition>
+        <argsstring>(const System::SharedPtr&lt; System::IO::Stream &gt; &amp;outputStream)</argsstring>
+        <name>Save</name>
+        <qualifiedname>Aspose::Words::Fonts::TableSubstitutionRule::Save</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <declname>outputStream</declname>
+        </param>
+        <briefdescription>
+<para>Saves the current table substitution settings to stream. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>outputStream</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Output stream.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access font substitution tables for Windows and Linux. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>new<sp/>table<sp/>substitution<sp/>rule<sp/>and<sp/>load<sp/>the<sp/>default<sp/>Microsoft<sp/>Windows<sp/>font<sp/>substitution<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TableSubstitutionRule&gt;<sp/>tableSubstitutionRule<sp/>=<sp/>fontSettings-&gt;get_SubstitutionSettings()-&gt;get_TableSubstitution();</highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;LoadWindowsSettings();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>Windows,<sp/>the<sp/>default<sp/>substitute<sp/>for<sp/>the<sp/>&quot;Times<sp/>New<sp/>Roman<sp/>CE&quot;<sp/>font<sp/>is<sp/>&quot;Times<sp/>New<sp/>Roman&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">}),<sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman<sp/>CE&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>save<sp/>the<sp/>table<sp/>in<sp/>the<sp/>form<sp/>of<sp/>an<sp/>XML<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.TableSubstitutionRule.Windows.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Linux<sp/>has<sp/>its<sp/>own<sp/>substitution<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>multiple<sp/>substitute<sp/>fonts<sp/>for<sp/>&quot;Times<sp/>New<sp/>Roman<sp/>CE&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>first<sp/>substitute,<sp/>&quot;FreeSerif&quot;<sp/>is<sp/>also<sp/>unavailable,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>this<sp/>rule<sp/>will<sp/>cycle<sp/>through<sp/>the<sp/>others<sp/>in<sp/>the<sp/>array<sp/>until<sp/>it<sp/>finds<sp/>an<sp/>available<sp/>one.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;LoadLinuxSettings();</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;FreeSerif&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Liberation<sp/>Serif&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;DejaVu<sp/>Serif&quot;</highlight><highlight class="normal">}),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman<sp/>CE&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Save<sp/>the<sp/>Linux<sp/>substitution<sp/>table<sp/>in<sp/>the<sp/>form<sp/>of<sp/>an<sp/>XML<sp/>document<sp/>using<sp/>a<sp/>stream.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fileStream<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.TableSubstitutionRule.Linux.xml&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Create);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>tableSubstitutionRule-&gt;Save(fileStream);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/TableSubstitutionRule.h" line="376" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1aea9cf71442aed29f240a0bac361bef8c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::TableSubstitutionRule::Save</definition>
+        <argsstring>(const System::String &amp;fileName)</argsstring>
+        <name>Save</name>
+        <qualifiedname>Aspose::Words::Fonts::TableSubstitutionRule::Save</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>fileName</declname>
+        </param>
+        <briefdescription>
+<para>Saves the current table substitution settings to file. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>fileName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Output file name.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access font substitution tables for Windows and Linux. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>new<sp/>table<sp/>substitution<sp/>rule<sp/>and<sp/>load<sp/>the<sp/>default<sp/>Microsoft<sp/>Windows<sp/>font<sp/>substitution<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TableSubstitutionRule&gt;<sp/>tableSubstitutionRule<sp/>=<sp/>fontSettings-&gt;get_SubstitutionSettings()-&gt;get_TableSubstitution();</highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;LoadWindowsSettings();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>Windows,<sp/>the<sp/>default<sp/>substitute<sp/>for<sp/>the<sp/>&quot;Times<sp/>New<sp/>Roman<sp/>CE&quot;<sp/>font<sp/>is<sp/>&quot;Times<sp/>New<sp/>Roman&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">}),<sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman<sp/>CE&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>save<sp/>the<sp/>table<sp/>in<sp/>the<sp/>form<sp/>of<sp/>an<sp/>XML<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.TableSubstitutionRule.Windows.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Linux<sp/>has<sp/>its<sp/>own<sp/>substitution<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>multiple<sp/>substitute<sp/>fonts<sp/>for<sp/>&quot;Times<sp/>New<sp/>Roman<sp/>CE&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>first<sp/>substitute,<sp/>&quot;FreeSerif&quot;<sp/>is<sp/>also<sp/>unavailable,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>this<sp/>rule<sp/>will<sp/>cycle<sp/>through<sp/>the<sp/>others<sp/>in<sp/>the<sp/>array<sp/>until<sp/>it<sp/>finds<sp/>an<sp/>available<sp/>one.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;LoadLinuxSettings();</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;FreeSerif&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Liberation<sp/>Serif&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;DejaVu<sp/>Serif&quot;</highlight><highlight class="normal">}),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman<sp/>CE&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Save<sp/>the<sp/>Linux<sp/>substitution<sp/>table<sp/>in<sp/>the<sp/>form<sp/>of<sp/>an<sp/>XML<sp/>document<sp/>using<sp/>a<sp/>stream.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fileStream<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.TableSubstitutionRule.Linux.xml&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Create);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>tableSubstitutionRule-&gt;Save(fileStream);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/TableSubstitutionRule.h" line="338" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1a645f5a0984f2c277167d1148854375ff" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::TableSubstitutionRule::SetSubstitutes</definition>
+        <argsstring>(const System::String &amp;originalFontName, const System::ArrayPtr&lt; System::String &gt; &amp;substituteFontNames)</argsstring>
+        <name>SetSubstitutes</name>
+        <qualifiedname>Aspose::Words::Fonts::TableSubstitutionRule::SetSubstitutes</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>originalFontName</declname>
+        </param>
+        <param>
+          <type>const <ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt; &amp;</type>
+          <declname>substituteFontNames</declname>
+        </param>
+        <briefdescription>
+<para>Override substitute font names for given original font name. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>originalFontName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Original font name. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>substituteFontNames</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>List of alternative font names.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how set font substitution rules. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Amethysta&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;The<sp/>quick<sp/>brown<sp/>fox<sp/>jumps<sp/>over<sp/>the<sp/>lazy<sp/>dog.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;FontSourceBase&gt;&gt;<sp/>fontSources<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;GetFontsSources();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>default<sp/>font<sp/>sources<sp/>contain<sp/>the<sp/>first<sp/>font<sp/>that<sp/>the<sp/>document<sp/>uses.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>fontSources-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(fontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>second<sp/>font,<sp/>&quot;Amethysta&quot;,<sp/>is<sp/>unavailable.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(fontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Amethysta&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>configure<sp/>a<sp/>font<sp/>substitution<sp/>table<sp/>which<sp/>determines</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>fonts<sp/>Aspose.Words<sp/>will<sp/>use<sp/>as<sp/>substitutes<sp/>for<sp/>unavailable<sp/>fonts.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>two<sp/>substitution<sp/>fonts<sp/>for<sp/>&quot;Amethysta&quot;:<sp/>&quot;Arvo&quot;,<sp/>and<sp/>&quot;Courier<sp/>New&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>first<sp/>substitute<sp/>is<sp/>unavailable,<sp/>Aspose.Words<sp/>attempts<sp/>to<sp/>use<sp/>the<sp/>second<sp/>substitute,<sp/>and<sp/>so<sp/>on.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(MakeObject&lt;FontSettings&gt;());</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;get_SubstitutionSettings()-&gt;get_TableSubstitution()-&gt;SetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Amethysta&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Arvo&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Courier<sp/>New&quot;</highlight><highlight class="normal">}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;Amethysta&quot;<sp/>is<sp/>unavailable,<sp/>and<sp/>the<sp/>substitution<sp/>rule<sp/>states<sp/>that<sp/>the<sp/>first<sp/>font<sp/>to<sp/>use<sp/>as<sp/>a<sp/>substitute<sp/>is<sp/>&quot;Arvo&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(fontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Arvo&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;Arvo&quot;<sp/>is<sp/>also<sp/>unavailable,<sp/>but<sp/>&quot;Courier<sp/>New&quot;<sp/>is.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(fontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Courier<sp/>New&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>output<sp/>document<sp/>will<sp/>display<sp/>the<sp/>text<sp/>that<sp/>uses<sp/>the<sp/>&quot;Amethysta&quot;<sp/>font<sp/>formatted<sp/>with<sp/>&quot;Courier<sp/>New&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.TableSubstitution.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to work with custom font substitution tables. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>new<sp/>table<sp/>substitution<sp/>rule<sp/>and<sp/>load<sp/>the<sp/>default<sp/>Windows<sp/>font<sp/>substitution<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TableSubstitutionRule&gt;<sp/>tableSubstitutionRule<sp/>=<sp/>fontSettings-&gt;get_SubstitutionSettings()-&gt;get_TableSubstitution();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>select<sp/>fonts<sp/>exclusively<sp/>from<sp/>our<sp/>folder,<sp/>we<sp/>will<sp/>need<sp/>a<sp/>custom<sp/>substitution<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>no<sp/>longer<sp/>have<sp/>access<sp/>to<sp/>the<sp/>Microsoft<sp/>Windows<sp/>fonts,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>such<sp/>as<sp/>&quot;Arial&quot;<sp/>or<sp/>&quot;Times<sp/>New<sp/>Roman&quot;<sp/>since<sp/>they<sp/>do<sp/>not<sp/>exist<sp/>in<sp/>our<sp/>new<sp/>font<sp/>folder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>folderFontSource<sp/>=<sp/>MakeObject&lt;FolderFontSource&gt;(FontsDir,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fontSettings-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({folderFontSource}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>loading<sp/>a<sp/>substitution<sp/>table<sp/>from<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>From<sp/>a<sp/>stream:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fileStream<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font<sp/>substitution<sp/>rules.xml&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Open);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>tableSubstitutionRule-&gt;Load(fileStream);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Directly<sp/>from<sp/>a<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;Load(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font<sp/>substitution<sp/>rules.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Since<sp/>we<sp/>no<sp/>longer<sp/>have<sp/>access<sp/>to<sp/>&quot;Arial&quot;,<sp/>our<sp/>font<sp/>table<sp/>will<sp/>first<sp/>try<sp/>substitute<sp/>it<sp/>with<sp/>&quot;Nonexistent<sp/>Font&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>do<sp/>not<sp/>have<sp/>this<sp/>font<sp/>so<sp/>that<sp/>it<sp/>will<sp/>move<sp/>onto<sp/>the<sp/>next<sp/>substitute,<sp/>&quot;Kreon&quot;,<sp/>found<sp/>in<sp/>the<sp/>&quot;MyFonts&quot;<sp/>folder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Missing<sp/>Font&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Kreon&quot;</highlight><highlight class="normal">}),<sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>expand<sp/>this<sp/>table<sp/>programmatically.<sp/>We<sp/>will<sp/>add<sp/>an<sp/>entry<sp/>that<sp/>substitutes<sp/>&quot;Times<sp/>New<sp/>Roman&quot;<sp/>with<sp/>&quot;Arvo&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">)<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;AddSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">,<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Arvo&quot;</highlight><highlight class="normal">}));</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Arvo&quot;</highlight><highlight class="normal">}),<sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>add<sp/>a<sp/>secondary<sp/>fallback<sp/>substitute<sp/>for<sp/>an<sp/>existing<sp/>font<sp/>entry<sp/>with<sp/>AddSubstitutes().</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>case<sp/>&quot;Arvo&quot;<sp/>is<sp/>unavailable,<sp/>our<sp/>table<sp/>will<sp/>look<sp/>for<sp/>&quot;M+<sp/>2m&quot;<sp/>as<sp/>a<sp/>second<sp/>substitute<sp/>option.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;AddSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">,<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;M+<sp/>2m&quot;</highlight><highlight class="normal">}));</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Arvo&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;M+<sp/>2m&quot;</highlight><highlight class="normal">}),<sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>SetSubstitutes()<sp/>can<sp/>set<sp/>a<sp/>new<sp/>list<sp/>of<sp/>substitute<sp/>fonts<sp/>for<sp/>a<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;SetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">,<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Squarish<sp/>Sans<sp/>CT&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;M+<sp/>2m&quot;</highlight><highlight class="normal">}));</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Squarish<sp/>Sans<sp/>CT&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;M+<sp/>2m&quot;</highlight><highlight class="normal">}),<sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Writing<sp/>text<sp/>in<sp/>fonts<sp/>that<sp/>we<sp/>do<sp/>not<sp/>have<sp/>access<sp/>to<sp/>will<sp/>invoke<sp/>our<sp/>substitution<sp/>rules.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>written<sp/>in<sp/>Arial,<sp/>to<sp/>be<sp/>substituted<sp/>by<sp/>Kreon.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>written<sp/>in<sp/>Times<sp/>New<sp/>Roman,<sp/>to<sp/>be<sp/>substituted<sp/>by<sp/>Squarish<sp/>Sans<sp/>CT.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.TableSubstitutionRule.Custom.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/TableSubstitutionRule.h" line="589" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Table font substitution rule. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access font substitution tables for Windows and Linux. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>new<sp/>table<sp/>substitution<sp/>rule<sp/>and<sp/>load<sp/>the<sp/>default<sp/>Microsoft<sp/>Windows<sp/>font<sp/>substitution<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TableSubstitutionRule&gt;<sp/>tableSubstitutionRule<sp/>=<sp/>fontSettings-&gt;get_SubstitutionSettings()-&gt;get_TableSubstitution();</highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;LoadWindowsSettings();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>Windows,<sp/>the<sp/>default<sp/>substitute<sp/>for<sp/>the<sp/>&quot;Times<sp/>New<sp/>Roman<sp/>CE&quot;<sp/>font<sp/>is<sp/>&quot;Times<sp/>New<sp/>Roman&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">}),<sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman<sp/>CE&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>save<sp/>the<sp/>table<sp/>in<sp/>the<sp/>form<sp/>of<sp/>an<sp/>XML<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.TableSubstitutionRule.Windows.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Linux<sp/>has<sp/>its<sp/>own<sp/>substitution<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>multiple<sp/>substitute<sp/>fonts<sp/>for<sp/>&quot;Times<sp/>New<sp/>Roman<sp/>CE&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>first<sp/>substitute,<sp/>&quot;FreeSerif&quot;<sp/>is<sp/>also<sp/>unavailable,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>this<sp/>rule<sp/>will<sp/>cycle<sp/>through<sp/>the<sp/>others<sp/>in<sp/>the<sp/>array<sp/>until<sp/>it<sp/>finds<sp/>an<sp/>available<sp/>one.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableSubstitutionRule-&gt;LoadLinuxSettings();</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;FreeSerif&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Liberation<sp/>Serif&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;DejaVu<sp/>Serif&quot;</highlight><highlight class="normal">}),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>tableSubstitutionRule-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman<sp/>CE&quot;</highlight><highlight class="normal">)-&gt;LINQ_ToArray());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Save<sp/>the<sp/>Linux<sp/>substitution<sp/>table<sp/>in<sp/>the<sp/>form<sp/>of<sp/>an<sp/>XML<sp/>document<sp/>using<sp/>a<sp/>stream.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fileStream<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.TableSubstitutionRule.Linux.xml&quot;</highlight><highlight class="normal">,<sp/>System::IO::FileMode::Create);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>tableSubstitutionRule-&gt;Save(fileStream);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Fonts::FontSubstitutionRule</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_font_substitution_rule"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fonts::TableSubstitutionRule</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Fonts::FontSubstitutionRule</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_font_substitution_rule"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fonts::TableSubstitutionRule</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fonts/TableSubstitutionRule.h" line="95" column="1" bodyfile="Aspose.Words.Cpp/Fonts/TableSubstitutionRule.h" bodystart="96" bodyend="712"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1a10682ac7418abe0b51c5cc3465cfd788" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::TableSubstitutionRule</scope><name>AddSubstitutes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1a79713ce8f3a084c2e775fbe526b58925" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::TableSubstitutionRule</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_substitution_rule_1ac19c2d1d1cde9e95cb6ed666bbf5366c" prot="public" virt="virtual"><scope>Aspose::Words::Fonts::TableSubstitutionRule</scope><name>get_Enabled</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1a7f09cb03b5561a6d1714a19d5a98d04e" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::TableSubstitutionRule</scope><name>GetSubstitutes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1a6a66624211580885d37dc3f7f5c7e862" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::TableSubstitutionRule</scope><name>Load</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1a2920963df999fb04beb4e57e4c4cdcd6" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::TableSubstitutionRule</scope><name>Load</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1a18b38e66202667570aa82e1df6ecec7f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::TableSubstitutionRule</scope><name>LoadAndroidSettings</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1ab258fa4f9c671fb134be0d6013822504" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::TableSubstitutionRule</scope><name>LoadLinuxSettings</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1a0bfff0a1c019a75288ad5d6a2bcec0e1" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::TableSubstitutionRule</scope><name>LoadWindowsSettings</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1a75bce774b18d7b77b2eba30e69788e1d" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::TableSubstitutionRule</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1aa90a9f3de8d3737580557da81654702e" prot="private" virt="virtual"><scope>Aspose::Words::Fonts::TableSubstitutionRule</scope><name>PerformSubstitutionCore</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1a5bba3d81d54ddc30b49fe8e9594573ff" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::TableSubstitutionRule</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1aea9cf71442aed29f240a0bac361bef8c" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::TableSubstitutionRule</scope><name>Save</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1ad85bd21c947856acc347d5fe524f354e" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::TableSubstitutionRule</scope><name>Save</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_substitution_rule_1a6122d5e51e1de88d2430c9db1262105f" prot="public" virt="virtual"><scope>Aspose::Words::Fonts::TableSubstitutionRule</scope><name>set_Enabled</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1a645f5a0984f2c277167d1148854375ff" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::TableSubstitutionRule</scope><name>SetSubstitutes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1aee28b45996ed3075e3d6258477479718" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::TableSubstitutionRule</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_table_substitution_rule_1a2294face23f6a4ec575f6a6aa2259923" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::TableSubstitutionRule</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

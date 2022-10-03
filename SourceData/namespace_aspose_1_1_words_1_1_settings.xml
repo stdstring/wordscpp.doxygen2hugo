@@ -1,0 +1,1266 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="namespace_aspose_1_1_words_1_1_settings" kind="namespace" language="C++">
+    <compoundname>Aspose::Words::Settings</compoundname>
+    <innerclass refid="class_aspose_1_1_words_1_1_settings_1_1_compatibility_options" prot="public">Aspose::Words::Settings::CompatibilityOptions</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_settings_1_1_hyphenation_options" prot="public">Aspose::Words::Settings::HyphenationOptions</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings" prot="public">Aspose::Words::Settings::MailMergeSettings</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_settings_1_1_odso" prot="public">Aspose::Words::Settings::Odso</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_settings_1_1_odso_field_map_data" prot="public">Aspose::Words::Settings::OdsoFieldMapData</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_settings_1_1_odso_field_map_data_collection" prot="public">Aspose::Words::Settings::OdsoFieldMapDataCollection</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data" prot="public">Aspose::Words::Settings::OdsoRecipientData</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection" prot="public">Aspose::Words::Settings::OdsoRecipientDataCollection</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_settings_1_1_view_options" prot="public">Aspose::Words::Settings::ViewOptions</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_settings_1_1_write_protection" prot="public">Aspose::Words::Settings::WriteProtection</innerclass>
+      <sectiondef kind="enum">
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235f" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>Compatibility</name>
+        <qualifiedname>Aspose::Words::Settings::Compatibility</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa361f12475575ed70a707b852be85a793" prot="public">
+          <name>NoTabHangInd</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa9082440e4a7fc056d2e9254c88a356e1" prot="public">
+          <name>NoSpaceRaiseLower</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa29b3026a7d4edb0155ce387ed0bfc661" prot="public">
+          <name>SuppressSpBfAfterPgBrk</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa43356363cd730f15776da8b64e662ea2" prot="public">
+          <name>WrapTrailSpaces</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa962dcf31b7b4dcbfcdfbae4ad09d6e92" prot="public">
+          <name>PrintColBlack</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fab7b2fb2a70df164e1e5645f180afef9d" prot="public">
+          <name>NoColumnBalance</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa31e7c9c9c82b054a71dcd002eb4324db" prot="public">
+          <name>ConvMailMergeEsc</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fab309e854822f6c5adc67891f4f059207" prot="public">
+          <name>SuppressTopSpacing</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa36149ead1a8dfd800d3c220b0e643501" prot="public">
+          <name>UseSingleBorderforContiguousCells</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa8730fb7e891392b67c750ceeb59e6baf" prot="public">
+          <name>TransparentMetafiles</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa3a8e646b28dd496bffe167346cd64d34" prot="public">
+          <name>ShowBreaksInFrames</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235faab474bdcea0c1840c67ab8dc92da159b" prot="public">
+          <name>SwapBordersOddFacingPgs</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa1b511923ad90ef56b99fbd1baaeba49a" prot="public">
+          <name>DoNotLeaveBackslashAlone</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fad89750ca50d8a158544398f9d95bdc28" prot="public">
+          <name>DoNotExpandOnShiftReturn</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235faec0af0f50e73f7288082c63701d27145" prot="public">
+          <name>UlTrailSpace</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa129eabcc29b661767d8a4143bbde0806" prot="public">
+          <name>BalanceSingleByteDoubleByteWidth</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa0f743a0cc74c66f20c35dd983cadae5a" prot="public">
+          <name>SuppressTopSpacingAtTopOfPage</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa0d42fb1e5e11e5530e3a820c786b9da6" prot="public">
+          <name>SpacingInWholePoints</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa3eebe4a2c87202631f82bcb21d10d8ee" prot="public">
+          <name>PrintBodyTextBeforeHeader</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fae1cb12612815e74f630ce7891c59203b" prot="public">
+          <name>NoLeading</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa04ab0153b5f36b6b2390de6255e0525a" prot="public">
+          <name>SpaceForUL</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa225a4bfe420c33e8c8e01ef3d8a128d1" prot="public">
+          <name>MWSmallCaps</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa94657bc8ff8c85e7852bfc913403cea3" prot="public">
+          <name>SuppressTopLineSpacingWP</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa387ec782040c0c7df9793f84159bdc5f" prot="public">
+          <name>TruncateFontHeightLikeWP6</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235facafec6bc275e3e898b912a30c10a9682" prot="public">
+          <name>SubFontBySize</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa73e51529a84b0d2237a68e76c68d6ae5" prot="public">
+          <name>LineWrapLikeWord6</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fab0a5542b12b25673ceac4f4b99354770" prot="public">
+          <name>DoNotSuppressParagraphBorder</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa91eeb3ecdec2305e5ea7eeeb1da28fb5" prot="public">
+          <name>NoExtraLineSpacing</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa8ec487ff209f787dbc12e90407fbca11" prot="public">
+          <name>SuppressBottomSpacing</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa21ec0549c3b36c1a9c44d5cea7f479cf" prot="public">
+          <name>WPSpaceWidth</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa98d8194f0be6493906e6a641042bf78c" prot="public">
+          <name>WPJustification</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa9eb2a4886bfd5367e828649b7bcc589a" prot="public">
+          <name>UsePrinterMetrics</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa34c874489460001edd126cb74be7f762" prot="public">
+          <name>ShapeLayoutLikeWW8</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa4cb91e37fda65f2fda69295774a4c0ef" prot="public">
+          <name>FootnoteLayoutLikeWW8</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa4b0501624a71ed2b63488b8cf0271fd8" prot="public">
+          <name>DoNotUseHtmlParagraphAutoSpacing</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fad66c56e8b6ffa019d429c7dd07dfe111" prot="public">
+          <name>AdjustLineHeightInTable</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235faf5ff56dd4705921bd0781f5e7c45233b" prot="public">
+          <name>ForgetLastTabAlignment</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235faccdd4bc20b0fefe1a9b8bb7530ee4ee9" prot="public">
+          <name>AutoSpaceLikeWord95</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fae7c5f4040f8dbae356c943559ef7dcbf" prot="public">
+          <name>AlignTableRowByRow</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fafc084c4fc5a205b2839097726a0b0476" prot="public">
+          <name>LayoutRawTableWidth</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa40314ee5cd674ebee5e3309eb02c78fa" prot="public">
+          <name>LayoutTableRowsApart</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fad96ab3e1aa7b8462add82031689b03a1" prot="public">
+          <name>UseWord97LineBreakRules</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa46448fab3aaafbab874e44d5474120d0" prot="public">
+          <name>DoNotBreakWrappedTables</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235facfa07bfbda5e7382564e1298a8386f21" prot="public">
+          <name>doNotSnapToGridInCell</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fafcb6f5149a6fcf4c233d580cac877fd5" prot="public">
+          <name>SelectFldWithFirstOrLastChar</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa88327af64dc01c993ebac0b2553bf2f5" prot="public">
+          <name>ApplyBreakingRules</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa01279949acd16a7f0da07b91c0a27010" prot="public">
+          <name>DoNotWrapTextWithPunct</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fafb6d6f07c898fcac80ab16e9a9c49dd7" prot="public">
+          <name>DoNotUseEastAsianBreakRules</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fab51e94601ff77674b0d0163708d94f01" prot="public">
+          <name>UseWord2002TableStyleRules</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa812d396a800f35753c4afa5aff9a879a" prot="public">
+          <name>GrowAutofit</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa0d31c9934d15b04b49aafeeb413e08f2" prot="public">
+          <name>UseNormalStyleForList</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fac24636895ce8a4779b80ac72df690142" prot="public">
+          <name>DoNotUseIndentAsNumberingTabStop</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa9f6d0fe7b9aa45bb3e2d3f4a78e9b171" prot="public">
+          <name>UseAltKinsokuLineBreakRules</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa1f5df6abf84537a11649c6024893a62b" prot="public">
+          <name>AllowSpaceOfSameStyleInTable</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa00912960261a5ad727a9de7d572958e9" prot="public">
+          <name>DoNotSuppressIndentation</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235faa6916a77d2cbc6a0e0ac2191ccd056c6" prot="public">
+          <name>DoNotAutofitConstrainedTables</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa90816f128c3354dbfe861da8aa1d07ac" prot="public">
+          <name>AutofitToFirstFixedWidthCell</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa721df87e3734529df855a8fd9cb485e6" prot="public">
+          <name>UnderlineTabInNumList</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fabc679764541eb9f6a5596207ab9aada2" prot="public">
+          <name>DisplayHangulFixedWidth</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235faf3dcc1ff51156b21fcb386782e9d1c7d" prot="public">
+          <name>SplitPgBreakAndParaMark</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa6ce0f3d6f666605d3dbb116e943621f8" prot="public">
+          <name>DoNotVertAlignCellWithSp</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa06d8efe1c2f6b060f9afbfe50be70efd" prot="public">
+          <name>DoNotBreakConstrainedForcedTable</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa7d573d935f82d5591e58f149e9d137ee" prot="public">
+          <name>DoNotVertAlignInTxbx</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa02ae23ed55335eac270b81f36eb12c15" prot="public">
+          <name>UseAnsiKerningPairs</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fac4ceaddddca26e11d47212ba7761fd96" prot="public">
+          <name>CachedColBalance</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa21a23f3f35244f76605c98af96b7a684" prot="public">
+          <name>UseFELayout</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235faf96a357a902c5ed339f9166a24568974" prot="public">
+          <name>UICompat97To2003</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa0c8aa0dd11b0cd4c307f83628a216baa" prot="public">
+          <name>OverrideTableStyleFontSizeAndJustification</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fa6393a9c3e9fd8b5664a921b775e0eed3" prot="public">
+          <name>DisableOpenTypeFontFormattingFeatures</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235faba99bb0b041501ca09b92d4ee440833e" prot="public">
+          <name>SwapInsideAndOutsideForMirrorIndentsAndRelativePositioning</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a835521992632af7495d3ad4fdc3b235fad0d7854c43d8ca99f3312d9f2065857d" prot="public">
+          <name>UseWord2010TableStyleRules</name>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies names of compatibility options. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Compatibility.h" line="23" column="1" bodyfile="Aspose.Words.Cpp/Settings/Compatibility.h" bodystart="24" bodyend="96"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_settings_1a9683264d38522f8888c6629620ac73c4" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>MailMergeCheckErrors</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeCheckErrors</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a9683264d38522f8888c6629620ac73c4a61eb21e9980dcc0537fc220659ea1ebe" prot="public">
+          <name>Simulate</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+<para>Simulate the merge and report errors in a new document. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a9683264d38522f8888c6629620ac73c4a197c1fb8e998abde7ce4957a5ed2c1b2" prot="public">
+          <name>PauseOnError</name>
+          <initializer>= 2</initializer>
+          <briefdescription>
+<para>Complete the merge and pause to report errors. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a9683264d38522f8888c6629620ac73c4a614e67e07c9545100167a2de4bba816c" prot="public">
+          <name>CollectErrors</name>
+          <initializer>= 3</initializer>
+          <briefdescription>
+<para>Complete the merge and report errors in a new document. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a9683264d38522f8888c6629620ac73c4a7a1920d61156abc05a60135aefe8bc67" prot="public">
+          <name>Default</name>
+          <initializer>= static_cast&lt;int32_t&gt;(PauseOnError)</initializer>
+          <briefdescription>
+<para>Equals to the <ref refid="namespace_aspose_1_1_words_1_1_settings_1a9683264d38522f8888c6629620ac73c4a197c1fb8e998abde7ce4957a5ed2c1b2" kindref="member">PauseOnError</ref> value. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies how Microsoft Word will report errors detected during mail merge. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1ad75f9071e112448acd9a54a037c99f1c" kindref="member">Aspose::Words::Settings::MailMergeSettings::get_CheckErrors</ref> </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeCheckErrors.h" line="26" column="1" bodyfile="Aspose.Words.Cpp/Settings/MailMergeCheckErrors.h" bodystart="27" bodyend="40"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_settings_1ab2d960ca749155861be043561973d5d4" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>MailMergeDataType</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeDataType</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1ab2d960ca749155861be043561973d5d4a6adf97f83acf6453d4a6a4b1070f3754" prot="public">
+          <name>None</name>
+          <initializer>= -1</initializer>
+          <briefdescription>
+<para>No mail merge data source is specified. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1ab2d960ca749155861be043561973d5d4a3c25b77edaae6249b05dd60fdaa77ffb" prot="public">
+          <name>TextFile</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+<para>Specifies that a given document has been connected to a text file via the Dynamic Data Exchange (DDE) system. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1ab2d960ca749155861be043561973d5d4ae307db07b3975fef922a80d07455ee5e" prot="public">
+          <name>Database</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+<para>Specifies that a given document has been connected to an Access database via the Dynamic Data Exchange (DDE) system. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1ab2d960ca749155861be043561973d5d4a818bd8945049392989925b2223e6440d" prot="public">
+          <name>Spreadsheet</name>
+          <initializer>= 2</initializer>
+          <briefdescription>
+<para>Specifies that a given document has been connected to an Excel spreadsheet via the Dynamic Data Exchange (DDE) system. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1ab2d960ca749155861be043561973d5d4a66c1b4c7f3dc385b68a9fa903ccd016d" prot="public">
+          <name>Query</name>
+          <initializer>= 3</initializer>
+          <briefdescription>
+<para>Specifies that a given document has been connected to an external data source using an external query tool. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1ab2d960ca749155861be043561973d5d4a8f99e16c66f30a03d37830db924d76fa" prot="public">
+          <name>Odbc</name>
+          <initializer>= 4</initializer>
+          <briefdescription>
+<para>Specifies that a given document has been connected to an external data source via the Open Database Connectivity interface. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1ab2d960ca749155861be043561973d5d4a925641e0b76c28cc940e8f3ca178d826" prot="public">
+          <name>Native</name>
+          <initializer>= 5</initializer>
+          <briefdescription>
+<para>Specifies that a given document has been connected to an external data source via the Office Data Source Object (ODSO) interface. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1ab2d960ca749155861be043561973d5d4a7a1920d61156abc05a60135aefe8bc67" prot="public">
+          <name>Default</name>
+          <initializer>= static_cast&lt;int32_t&gt;(None)</initializer>
+          <briefdescription>
+<para>Equals to <ref refid="namespace_aspose_1_1_words_1_1_settings_1ab2d960ca749155861be043561973d5d4a6adf97f83acf6453d4a6a4b1070f3754" kindref="member">None</ref>. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies the type of an external mail merge data source. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a8b4e9a671da0b629293c33eccc629520" kindref="member">Aspose::Words::Settings::MailMergeSettings::get_DataType</ref> </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeDataType.h" line="26" column="1" bodyfile="Aspose.Words.Cpp/Settings/MailMergeDataType.h" bodystart="27" bodyend="52"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_settings_1a80336d38ac109df8287c229cbc2f8de1" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>MailMergeDestination</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeDestination</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a80336d38ac109df8287c229cbc2f8de1a809e6c28dbce7880776468f49dd8cc41" prot="public">
+          <name>NewDocument</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+<para>Specifies that conforming hosting applications shall generate new documents by populating the fields within a given document with data from the specified external data source. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a80336d38ac109df8287c229cbc2f8de1a37fe93164a9c7b7622bab12c349b98c8" prot="public">
+          <name>Printer</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+<para>Specifies that conforming hosting applications shall print the documents that result from populating the fields within a given document with external data from the specified external data source. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a80336d38ac109df8287c229cbc2f8de1ace8ae9da5b7cd6c3df2929543a9af92d" prot="public">
+          <name>Email</name>
+          <initializer>= 2</initializer>
+          <briefdescription>
+<para>Specifies that conforming hosting applications shall generate emails using the documents that result from populating the fields within a given document with data from the specified external data source. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a80336d38ac109df8287c229cbc2f8de1a9810aa2b9f44401be4bf73188ef2b67d" prot="public">
+          <name>Fax</name>
+          <initializer>= 4</initializer>
+          <briefdescription>
+<para>Specifies that conforming hosting applications shall generate faxes using the documents that result from populating the fields within a given document with data from the specified external data source. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a80336d38ac109df8287c229cbc2f8de1a7a1920d61156abc05a60135aefe8bc67" prot="public">
+          <name>Default</name>
+          <initializer>= static_cast&lt;int32_t&gt;(NewDocument)</initializer>
+          <briefdescription>
+<para>Equals to the <ref refid="namespace_aspose_1_1_words_1_1_settings_1a80336d38ac109df8287c229cbc2f8de1a809e6c28dbce7880776468f49dd8cc41" kindref="member">NewDocument</ref> value. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies the possible results which may be generated when a mail merge is carried out on a document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a7b788bef4b61e4762047a7962913616b" kindref="member">Aspose::Words::Settings::MailMergeSettings::get_Destination</ref> </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeDestination.h" line="26" column="1" bodyfile="Aspose.Words.Cpp/Settings/MailMergeDestination.h" bodystart="27" bodyend="47"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_settings_1af721eccf1a8c80cb13aa986fbc523f68" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>MailMergeMainDocumentType</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeMainDocumentType</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1af721eccf1a8c80cb13aa986fbc523f68a387f23231c3080097a3b99343a7dd77c" prot="public">
+          <name>NotAMergeDocument</name>
+          <initializer>= 0x00</initializer>
+          <briefdescription>
+<para>This document is not a mail merge document. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1af721eccf1a8c80cb13aa986fbc523f68a0611b505ac42b567f1bfa2920d87bb5c" prot="public">
+          <name>FormLetters</name>
+          <initializer>= 0x01</initializer>
+          <briefdescription>
+<para>Specifies that the mail merge source document is of the form letter type. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1af721eccf1a8c80cb13aa986fbc523f68a020a41c9672b03d26b8a95f61383a783" prot="public">
+          <name>MailingLabels</name>
+          <initializer>= 0x02</initializer>
+          <briefdescription>
+<para>Specifies that the mail merge source document is of the mailing label type. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1af721eccf1a8c80cb13aa986fbc523f68afa9218f2927bf28f67029569c2c86b58" prot="public">
+          <name>Envelopes</name>
+          <initializer>= 0x04</initializer>
+          <briefdescription>
+<para>Specifies that the mail merge source document is of the envelope type. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1af721eccf1a8c80cb13aa986fbc523f68ac32516babc5b6c47eb8ce1bfc223253c" prot="public">
+          <name>Catalog</name>
+          <initializer>= 0x08</initializer>
+          <briefdescription>
+<para>Specifies that the mail merge source document is of the catalog type. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1af721eccf1a8c80cb13aa986fbc523f68ace8ae9da5b7cd6c3df2929543a9af92d" prot="public">
+          <name>Email</name>
+          <initializer>= 0x10</initializer>
+          <briefdescription>
+<para>Specifies that the mail merge source document is of the e-mail message type. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1af721eccf1a8c80cb13aa986fbc523f68a9810aa2b9f44401be4bf73188ef2b67d" prot="public">
+          <name>Fax</name>
+          <initializer>= 0x20</initializer>
+          <briefdescription>
+<para>Specifies that the mail merge source document is of the fax type. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1af721eccf1a8c80cb13aa986fbc523f68a7a1920d61156abc05a60135aefe8bc67" prot="public">
+          <name>Default</name>
+          <initializer>= static_cast&lt;int32_t&gt;(NotAMergeDocument)</initializer>
+          <briefdescription>
+<para>Equals to <ref refid="namespace_aspose_1_1_words_1_1_settings_1af721eccf1a8c80cb13aa986fbc523f68a387f23231c3080097a3b99343a7dd77c" kindref="member">NotAMergeDocument</ref> </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies the possible types for a mail merge source document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a709783322370425ced3d85576cecb7f6" kindref="member">Aspose::Words::Settings::MailMergeSettings::get_MainDocumentType</ref> </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeMainDocumentType.h" line="26" column="1" bodyfile="Aspose.Words.Cpp/Settings/MailMergeMainDocumentType.h" bodystart="27" bodyend="52"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_settings_1a1408d4dfce0c45481036f9c1f8842d00" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>MsWordVersion</name>
+        <qualifiedname>Aspose::Words::Settings::MsWordVersion</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a1408d4dfce0c45481036f9c1f8842d00a82fe04ad1a877901d861980604c46df5" prot="public">
+          <name>Word2000</name>
+          <briefdescription>
+<para>Optimize Aspose.Words behavior to match MS Word 2000 version. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a1408d4dfce0c45481036f9c1f8842d00aed2259c2017108ffa76163e495f3b80a" prot="public">
+          <name>Word2002</name>
+          <briefdescription>
+<para>Optimize Aspose.Words behavior to match MS Word 2002 version. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a1408d4dfce0c45481036f9c1f8842d00a9617087536c891bdf9a66bf25819c22b" prot="public">
+          <name>Word2003</name>
+          <briefdescription>
+<para>Optimize Aspose.Words behavior to match MS Word 2003 version. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a1408d4dfce0c45481036f9c1f8842d00a28a66102c90869e088eec5e0cf618d15" prot="public">
+          <name>Word2007</name>
+          <briefdescription>
+<para>Optimize Aspose.Words behavior to match MS Word 2007 version. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a1408d4dfce0c45481036f9c1f8842d00a6bb26f64c88953dee845a40d15eafa93" prot="public">
+          <name>Word2010</name>
+          <briefdescription>
+<para>Optimize Aspose.Words behavior to match MS Word 2010 version. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a1408d4dfce0c45481036f9c1f8842d00aecc2c86e99f838f74f3cf922df99af55" prot="public">
+          <name>Word2013</name>
+          <briefdescription>
+<para>Optimize Aspose.Words behavior to match MS Word 2013 version. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a1408d4dfce0c45481036f9c1f8842d00ac7eed676d989c0876eb0cee3fdafc638" prot="public">
+          <name>Word2016</name>
+          <briefdescription>
+<para>Optimize Aspose.Words behavior to match MS Word 2016 version. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a1408d4dfce0c45481036f9c1f8842d00a2c447d438f24cbb73099baf86c3d2996" prot="public">
+          <name>Word2019</name>
+          <briefdescription>
+<para>Optimize Aspose.Words behavior to match MS Word 2019 version. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Allows Aspose.Wods to mimic MS Word version-specific application behavior. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MsWordVersion.h" line="23" column="1" bodyfile="Aspose.Words.Cpp/Settings/MsWordVersion.h" bodystart="24" bodyend="49"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_settings_1a725f93c29c78291c371792f163912bb5" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>MultiplePagesType</name>
+        <qualifiedname>Aspose::Words::Settings::MultiplePagesType</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a725f93c29c78291c371792f163912bb5a960b44c579bc2f6818d2daaf9e4c16f0" prot="public">
+          <name>Normal</name>
+          <briefdescription>
+<para>Normal printing, no multiple pages specified. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a725f93c29c78291c371792f163912bb5a01785c7430bd760c9dfcfa4843249aac" prot="public">
+          <name>MirrorMargins</name>
+          <briefdescription>
+<para>Swaps left and right margins on facing pages. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a725f93c29c78291c371792f163912bb5af8f1cbd0ffb1243c898ec6d21f3f28d7" prot="public">
+          <name>TwoPagesPerSheet</name>
+          <briefdescription>
+<para>Prints two pages per sheet. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a725f93c29c78291c371792f163912bb5a0435eb63352346bc31fbd48317a53eb8" prot="public">
+          <name>BookFoldPrinting</name>
+          <briefdescription>
+<para>Specifies whether to print the document as a book fold. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a725f93c29c78291c371792f163912bb5a522b6286dd40578b8b56fab7ad20439c" prot="public">
+          <name>BookFoldPrintingReverse</name>
+          <briefdescription>
+<para>Specifies whether to print the document as a reverse book fold. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a725f93c29c78291c371792f163912bb5a7a1920d61156abc05a60135aefe8bc67" prot="public">
+          <name>Default</name>
+          <initializer>= static_cast&lt;int32_t&gt;(Normal)</initializer>
+          <briefdescription>
+<para>Default value is <ref refid="namespace_aspose_1_1_words_1_1_settings_1a725f93c29c78291c371792f163912bb5a960b44c579bc2f6818d2daaf9e4c16f0" kindref="member">Normal</ref> </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies how document is printed out. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MultiplePagesType.h" line="24" column="1" bodyfile="Aspose.Words.Cpp/Settings/MultiplePagesType.h" bodystart="25" bodyend="44"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_settings_1a09782d2b5b27cbf50e1299086db5096d" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>OdsoDataSourceType</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoDataSourceType</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a09782d2b5b27cbf50e1299086db5096da9dffbf69ffba8bc38bc4e01abf4b1675" prot="public">
+          <name>Text</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+<para>Specifies that a given document has been connected to a text file. Possibly wdMergeSubTypeOther. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a09782d2b5b27cbf50e1299086db5096dae307db07b3975fef922a80d07455ee5e" prot="public">
+          <name>Database</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+<para>Specifies that a given document has been connected to a database. Possibly wdMergeSubTypeAccess. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a09782d2b5b27cbf50e1299086db5096da489aeaea230834cde7a76cbfd33edce7" prot="public">
+          <name>AddressBook</name>
+          <initializer>= 2</initializer>
+          <briefdescription>
+<para>Specifies that a given document has been connected to an address book of contacts. Possibly wdMergeSubTypeOAL. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a09782d2b5b27cbf50e1299086db5096da77bd71446b9be17cc5ae230376ade860" prot="public">
+          <name>Document1</name>
+          <initializer>= 3</initializer>
+          <briefdescription>
+<para>Specifies that a given document has been connected to another document format supported by the producing application. Possibly wdMergeSubTypeOLEDBWord. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a09782d2b5b27cbf50e1299086db5096dadb419c552a0904be310f92bbbaacf98a" prot="public">
+          <name>Document2</name>
+          <initializer>= 4</initializer>
+          <briefdescription>
+<para>Specifies that a given document has been connected to another document format supported by the producing application. Possibly wdMergeSubTypeWorks. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a09782d2b5b27cbf50e1299086db5096da925641e0b76c28cc940e8f3ca178d826" prot="public">
+          <name>Native</name>
+          <initializer>= 5</initializer>
+          <briefdescription>
+<para>Specifies that a given document has been connected to another document format native to the producing application. Possibly wdMergeSubTypeOLEDBText. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a09782d2b5b27cbf50e1299086db5096dace8ae9da5b7cd6c3df2929543a9af92d" prot="public">
+          <name>Email</name>
+          <initializer>= 6</initializer>
+          <briefdescription>
+<para>Specifies that a given document has been connected to an e-mail application. Possibly wdMergeSubTypeOutlook. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a09782d2b5b27cbf50e1299086db5096da6adf97f83acf6453d4a6a4b1070f3754" prot="public">
+          <name>None</name>
+          <initializer>= 7</initializer>
+          <briefdescription>
+<para>The type of the external data source is not specified. Possibly wdMergeSubTypeWord. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a09782d2b5b27cbf50e1299086db5096da0cc0a0507cf3d31e5089f420a4cf8b4b" prot="public">
+          <name>Legacy</name>
+          <initializer>= 8</initializer>
+          <briefdescription>
+<para>Specifies that a given document has been connected to a legacy document format supported by the producing application Possibly wdMergeSubTypeWord2000. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a09782d2b5b27cbf50e1299086db5096daf03bde11d261f185cbacfa32c1c6538c" prot="public">
+          <name>Master</name>
+          <briefdescription>
+<para>Specifies that a given document has been connected to a data source which aggregates other data sources. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a09782d2b5b27cbf50e1299086db5096da7a1920d61156abc05a60135aefe8bc67" prot="public">
+          <name>Default</name>
+          <initializer>= static_cast&lt;int32_t&gt;(None)</initializer>
+          <briefdescription>
+<para>Equals to <ref refid="namespace_aspose_1_1_words_1_1_settings_1a09782d2b5b27cbf50e1299086db5096da6adf97f83acf6453d4a6a4b1070f3754" kindref="member">None</ref>. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies the type of the external data source to be connected to as part of the ODSO connection information. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The OOXML specification is very vague for this enum. I guess it might correspond to the WdMergeSubType enumeration <ulink url="http://msdn.microsoft.com/en-us/library/bb237801.aspx">http://msdn.microsoft.com/en-us/library/bb237801.aspx</ulink>.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1a11bce341daf617941afba735f33458cd" kindref="member">Aspose::Words::Settings::Odso::get_DataSourceType</ref> </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoDataSourceType.h" line="29" column="1" bodyfile="Aspose.Words.Cpp/Settings/OdsoDataSourceType.h" bodystart="30" bodyend="73"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_settings_1a22323000ada6a05fa8baf8624dcce4c8" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>OdsoFieldMappingType</name>
+        <qualifiedname>Aspose::Words::Settings::OdsoFieldMappingType</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a22323000ada6a05fa8baf8624dcce4c8a1976d7f704de389d9fe064e08ea35b2d" prot="public">
+          <name>Column</name>
+          <briefdescription>
+<para>Specifies that the mail merge field has been mapped to a column in the given external data source. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a22323000ada6a05fa8baf8624dcce4c8abbb93ef26e3c101ff11cdd21cab08a94" prot="public">
+          <name>Null</name>
+          <briefdescription>
+<para>Specifies that the mail merge field has not been mapped to a column in the given external data source. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a22323000ada6a05fa8baf8624dcce4c8a7a1920d61156abc05a60135aefe8bc67" prot="public">
+          <name>Default</name>
+          <initializer>= static_cast&lt;int32_t&gt;(Null)</initializer>
+          <briefdescription>
+<para>Equals to <ref refid="namespace_aspose_1_1_words_1_1_settings_1a22323000ada6a05fa8baf8624dcce4c8abbb93ef26e3c101ff11cdd21cab08a94" kindref="member">Null</ref>. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies the possible types used to indicate if a given mail merge field has been mapped to a column in the given external data source. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_field_map_data_1ab9a523276577a7be7a173691af65b5b5" kindref="member">Aspose::Words::Settings::OdsoFieldMapData::get_Type</ref> </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/OdsoFieldMappingType.h" line="26" column="1" bodyfile="Aspose.Words.Cpp/Settings/OdsoFieldMappingType.h" bodystart="27" bodyend="37"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_settings_1a6ad6250edf69b8021951e03898231935" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>ViewType</name>
+        <qualifiedname>Aspose::Words::Settings::ViewType</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a6ad6250edf69b8021951e03898231935a6adf97f83acf6453d4a6a4b1070f3754" prot="public">
+          <name>None</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+<para>The document shall be rendered in the default view of the application. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a6ad6250edf69b8021951e03898231935a26fccddf2f94b1685b184267996e10f8" prot="public">
+          <name>Reading</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+<para>The document shall be rendered in the default view of the application. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a6ad6250edf69b8021951e03898231935a932e0cd60f6e3347fb5be24041681e02" prot="public">
+          <name>PageLayout</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+<para>The document shall be opened in a view that displays the document as it will print. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a6ad6250edf69b8021951e03898231935a606b51cc1c9d0b4af394419a22f2ff1f" prot="public">
+          <name>Outline</name>
+          <initializer>= 3</initializer>
+          <briefdescription>
+<para>The document shall be rendered in a view optimized for outlining or creating long documents. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a6ad6250edf69b8021951e03898231935a960b44c579bc2f6818d2daaf9e4c16f0" prot="public">
+          <name>Normal</name>
+          <initializer>= 4</initializer>
+          <briefdescription>
+<para>The document shall be rendered in a view optimized for outlining or creating long documents. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a6ad6250edf69b8021951e03898231935ac6e190b284633c48e39e55049da3cce8" prot="public">
+          <name>Web</name>
+          <initializer>= 5</initializer>
+          <briefdescription>
+<para>The document shall be rendered in a view mimicking the way this document would be displayed in a web page. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Possible values for the view mode in Microsoft Word. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_settings_1_1_view_options" kindref="compound">Aspose::Words::Settings::ViewOptions</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1a40515d73a14fe07aa0c0d0509f5ccc5b" kindref="member">Aspose::Words::Settings::ViewOptions::get_ViewType</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set a custom zoom factor, which older versions of Microsoft Word will apply to a document upon loading. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_ViewOptions()-&gt;set_ViewType(<ref refid="namespace_aspose_1_1_words_1_1_settings_1a6ad6250edf69b8021951e03898231935a932e0cd60f6e3347fb5be24041681e02" kindref="member" tooltip="The document shall be opened in a view that displays the document as it will print.">ViewType::PageLayout</ref>);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_ViewOptions()-&gt;set_ZoomPercent(50);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_settings_1a669832789ed0bb30af35ae34c414fa56a90589c47f06eb971d548591f23c285af" kindref="member" tooltip="Zoom percentage is set explicitly. It is not recalculated automatically when control size changes.">ZoomType::Custom</ref>,<sp/>doc-&gt;get_ViewOptions()-&gt;get_ZoomType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_settings_1a669832789ed0bb30af35ae34c414fa56a6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="Indicates to use the explicit zoom percentage. Same as Custom.">ZoomType::None</ref>,<sp/>doc-&gt;get_ViewOptions()-&gt;get_ZoomType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;ViewOptions.SetZoomPercentage.doc&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/ViewType.h" line="43" column="1" bodyfile="Aspose.Words.Cpp/Settings/ViewType.h" bodystart="44" bodyend="64"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_settings_1a669832789ed0bb30af35ae34c414fa56" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>ZoomType</name>
+        <qualifiedname>Aspose::Words::Settings::ZoomType</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a669832789ed0bb30af35ae34c414fa56a90589c47f06eb971d548591f23c285af" prot="public">
+          <name>Custom</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+<para>Zoom percentage is set explicitly. It is not recalculated automatically when control size changes. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a669832789ed0bb30af35ae34c414fa56a6adf97f83acf6453d4a6a4b1070f3754" prot="public">
+          <name>None</name>
+          <initializer>= static_cast&lt;int32_t&gt;(Custom)</initializer>
+          <briefdescription>
+<para>Indicates to use the explicit zoom percentage. Same as <ref refid="namespace_aspose_1_1_words_1_1_settings_1a669832789ed0bb30af35ae34c414fa56a90589c47f06eb971d548591f23c285af" kindref="member">Custom</ref>. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a669832789ed0bb30af35ae34c414fa56abacbf86c988edba468f8275fd812c825" prot="public">
+          <name>FullPage</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+<para>Zoom percentage is automatically recalculated to fit one full page. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a669832789ed0bb30af35ae34c414fa56a41fc2296aec51923ad4769e89e20468e" prot="public">
+          <name>PageWidth</name>
+          <initializer>= 2</initializer>
+          <briefdescription>
+<para>Zoom percentage is automatically recalculated to fit page width. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_settings_1a669832789ed0bb30af35ae34c414fa56a3de2a6052ccc351fa3921559af9668e8" prot="public">
+          <name>TextFit</name>
+          <initializer>= 3</initializer>
+          <briefdescription>
+<para>Zoom percentage is automatically recalculated to fit text. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Possible values for how large or small the document appears on the screen in Microsoft Word. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_settings_1_1_view_options" kindref="compound">Aspose::Words::Settings::ViewOptions</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_settings_1_1_view_options_1aeeb9803a9adbd282a160a6d8b67835cf" kindref="member">Aspose::Words::Settings::ViewOptions::get_ZoomType</ref> </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/ZoomType.h" line="27" column="1" bodyfile="Aspose.Words.Cpp/Settings/ZoomType.h" bodystart="28" bodyend="44"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>The <bold>Aspose.Words.Settings</bold> namespace contains classes and enums that are used when specifying various settings and options stored in a document. These are mail merge, write protection, compatibility and other settings. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/Document.h" line="138" column="1"/>
+  </compounddef>
+</doxygen>

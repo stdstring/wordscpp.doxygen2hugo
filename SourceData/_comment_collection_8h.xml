@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="_comment_collection_8h" kind="file" language="C++">
+    <compoundname>CommentCollection.h</compoundname>
+    <includes local="no">cstdint</includes>
+    <includes refid="_node_matcher_8h" local="no">Aspose.Words.Cpp/NodeMatcher.h</includes>
+    <includes refid="_node_collection_8h" local="no">Aspose.Words.Cpp/NodeCollection.h</includes>
+    <includes refid="aspose__words__api__defs_8h" local="no">Aspose.Words.Cpp/aspose_words_api_defs.h</includes>
+    <incdepgraph>
+      <node id="1">
+        <label>Aspose.Words.Cpp/CommentCollection.h</label>
+        <link refid="_comment_collection_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="23" relation="include">
+        </childnode>
+      </node>
+      <node id="28">
+        <label>Aspose.Words.Cpp/CompositeNode.h</label>
+        <link refid="_composite_node_8h_source"/>
+        <childnode refid="14" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+        <childnode refid="19" relation="include">
+        </childnode>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="20" relation="include">
+        </childnode>
+        <childnode refid="17" relation="include">
+        </childnode>
+        <childnode refid="27" relation="include">
+        </childnode>
+        <childnode refid="23" relation="include">
+        </childnode>
+      </node>
+      <node id="24">
+        <label>Aspose.Words.Cpp/INodeCloningListener.h</label>
+        <link refid="_i_node_cloning_listener_8h_source"/>
+        <childnode refid="4" relation="include">
+        </childnode>
+      </node>
+      <node id="27">
+        <label>Aspose.Words.Cpp/INodeCollection.h</label>
+        <link refid="_i_node_collection_8h_source"/>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="23" relation="include">
+        </childnode>
+      </node>
+      <node id="17">
+        <label>Aspose.Words.Cpp/Node.h</label>
+        <link refid="_node_8h_source"/>
+        <childnode refid="18" relation="include">
+        </childnode>
+        <childnode refid="19" relation="include">
+        </childnode>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="20" relation="include">
+        </childnode>
+        <childnode refid="24" relation="include">
+        </childnode>
+        <childnode refid="25" relation="include">
+        </childnode>
+        <childnode refid="23" relation="include">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>Aspose.Words.Cpp/NodeCollection.h</label>
+        <link refid="_node_collection_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+        <childnode refid="9" relation="include">
+        </childnode>
+        <childnode refid="17" relation="include">
+        </childnode>
+        <childnode refid="27" relation="include">
+        </childnode>
+        <childnode refid="23" relation="include">
+        </childnode>
+      </node>
+      <node id="9">
+        <label>Aspose.Words.Cpp/NodeCollectionEnumerator.h</label>
+        <link refid="_node_collection_enumerator_8h_source"/>
+        <childnode refid="10" relation="include">
+        </childnode>
+        <childnode refid="11" relation="include">
+        </childnode>
+        <childnode refid="12" relation="include">
+        </childnode>
+        <childnode refid="13" relation="include">
+        </childnode>
+        <childnode refid="14" relation="include">
+        </childnode>
+        <childnode refid="15" relation="include">
+        </childnode>
+        <childnode refid="16" relation="include">
+        </childnode>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="17" relation="include">
+        </childnode>
+        <childnode refid="27" relation="include">
+        </childnode>
+        <childnode refid="28" relation="include">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>Aspose.Words.Cpp/NodeMatcher.h</label>
+        <link refid="_node_matcher_8h_source"/>
+        <childnode refid="4" relation="include">
+        </childnode>
+      </node>
+      <node id="20">
+        <label>Aspose.Words.Cpp/NodeType.h</label>
+        <link refid="_node_type_8h_source"/>
+        <childnode refid="21" relation="include">
+        </childnode>
+        <childnode refid="22" relation="include">
+        </childnode>
+        <childnode refid="23" relation="include">
+        </childnode>
+      </node>
+      <node id="25">
+        <label>Aspose.Words.Cpp/SaveFormat.h</label>
+        <link refid="_save_format_8h_source"/>
+        <childnode refid="21" relation="include">
+        </childnode>
+        <childnode refid="26" relation="include">
+        </childnode>
+        <childnode refid="22" relation="include">
+        </childnode>
+        <childnode refid="23" relation="include">
+        </childnode>
+      </node>
+      <node id="23">
+        <label>Aspose.Words.Cpp/aspose_words_api_defs.h</label>
+        <link refid="aspose__words__api__defs_8h_source"/>
+      </node>
+      <node id="2">
+        <label>cstdint</label>
+      </node>
+      <node id="19">
+        <label>system/array.h</label>
+      </node>
+      <node id="8">
+        <label>system/collections/ienumerable.h</label>
+      </node>
+      <node id="16">
+        <label>system/collections/ienumerator.h</label>
+      </node>
+      <node id="7">
+        <label>system/collections/list.h</label>
+      </node>
+      <node id="18">
+        <label>system/constraints.h</label>
+      </node>
+      <node id="15">
+        <label>system/details/dispose_guard.h</label>
+      </node>
+      <node id="14">
+        <label>system/details/pointer_collection_helpers.h</label>
+      </node>
+      <node id="22">
+        <label>system/enum.h</label>
+      </node>
+      <node id="26">
+        <label>system/enum_helpers.h</label>
+      </node>
+      <node id="6">
+        <label>system/enumerator_adapter.h</label>
+      </node>
+      <node id="13">
+        <label>system/exceptions.h</label>
+      </node>
+      <node id="12">
+        <label>system/make_const_ref.h</label>
+      </node>
+      <node id="4">
+        <label>system/object.h</label>
+      </node>
+      <node id="21">
+        <label>system/object_ext.h</label>
+      </node>
+      <node id="11">
+        <label>system/scope_guard.h</label>
+      </node>
+      <node id="10">
+        <label>system/string.h</label>
+      </node>
+    </incdepgraph>
+    <innerclass refid="class_aspose_1_1_words_1_1_comment_collection" prot="public">Aspose::Words::CommentCollection</innerclass>
+    <innernamespace refid="namespace_aspose">Aspose</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words">Aspose::Words</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/CommentCollection.h"/>
+  </compounddef>
+</doxygen>

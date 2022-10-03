@@ -1,0 +1,948 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_field_seq" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::FieldSeq</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field" prot="public" virt="non-virtual">Aspose::Words::Fields::Field</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IFieldCodeTokenInfoProvider</basecompoundref>
+    <includes refid="_field_seq_8h" local="no">Aspose.Words.Cpp/Fields/FieldSeq.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a1475bd4410a559032ef51d3a1b02453d" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref></type>
+        <definition>typedef Aspose::Words::Fields::Field Aspose::Words::Fields::FieldSeq::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldSeq::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldSeq.h" line="247" column="42" bodyfile="Aspose.Words.Cpp/Fields/FieldSeq.h" bodystart="247" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1afd823065b56d6f03535788b1f0a47042" prot="private" static="no">
+        <type>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</type>
+        <definition>typedef Aspose::Words::Fields::IFieldCodeTokenInfoProvider Aspose::Words::Fields::FieldSeq::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Fields::FieldSeq::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldSeq.h" line="248" column="64" bodyfile="Aspose.Words.Cpp/Fields/FieldSeq.h" bodystart="248" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a4a1b2355c0c70f2aaa39d94526d83ce4" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq" kindref="compound">FieldSeq</ref></type>
+        <definition>typedef FieldSeq Aspose::Words::Fields::FieldSeq::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldSeq::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldSeq.h" line="246" column="22" bodyfile="Aspose.Words.Cpp/Fields/FieldSeq.h" bodystart="246" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a23e06877e92b9a823358046d9f1336d1" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Fields::FieldSeq::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::FieldSeq::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldSeq.h" line="250" column="37" bodyfile="Aspose.Words.Cpp/Fields/FieldSeq.h" bodystart="250" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a60d674e9a6936d0760564f771b704c57" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Fields::FieldSeq::~FieldSeq</definition>
+        <argsstring>()</argsstring>
+        <name>~FieldSeq</name>
+        <qualifiedname>Aspose::Words::Fields::FieldSeq::~FieldSeq</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldSeq.h" line="672" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a06309b750337fa34de8509f67d6b1431" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>Aspose::Words::Fields::FieldSwitchType</type>
+        <definition>Aspose::Words::Fields::FieldSwitchType Aspose::Words::Fields::FieldSeq::GetSwitchType</definition>
+        <argsstring>(System::String) override</argsstring>
+        <name>GetSwitchType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldSeq::GetSwitchType</qualifiedname>
+        <param>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldSeq.h" line="676" column="44"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a93e411fd8cbea9742ac177d77612ead4" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldSeq::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::FieldSeq::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldSeq.h" line="251" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a46197852475380a19fcd3de917e87af9" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldUpdateAction &gt; Aspose::Words::Fields::FieldSeq::UpdateCore</definition>
+        <argsstring>() override</argsstring>
+        <name>UpdateCore</name>
+        <qualifiedname>Aspose::Words::Fields::FieldSeq::UpdateCore</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afd2f4d29a84550a38375396538654ab8">UpdateCore</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldSeq.h" line="670" column="26"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a22b8e7e097b05a037ec7d0ad2ef517c3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldSeq::get_BookmarkName</definition>
+        <argsstring>()</argsstring>
+        <name>get_BookmarkName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldSeq::get_BookmarkName</qualifiedname>
+        <briefdescription>
+<para>Gets or sets a bookmark name that refers to an item elsewhere in the document rather than in the current location. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to combine table of contents and sequence fields. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>TOC<sp/>field<sp/>can<sp/>create<sp/>an<sp/>entry<sp/>in<sp/>its<sp/>table<sp/>of<sp/>contents<sp/>for<sp/>each<sp/>SEQ<sp/>field<sp/>found<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>entry<sp/>contains<sp/>the<sp/>paragraph<sp/>that<sp/>contains<sp/>the<sp/>SEQ<sp/>field,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>number<sp/>of<sp/>the<sp/>page<sp/>that<sp/>the<sp/>field<sp/>appears<sp/>on.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldToc<sp/>=<sp/>System::DynamicCast&lt;FieldToc&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca951e4a34dbade8f358c5f9881337a0a1" kindref="member" tooltip="Specifies the TOC field.">FieldType::FieldTOC</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Configure<sp/>this<sp/>TOC<sp/>field<sp/>to<sp/>have<sp/>a<sp/>SequenceIdentifier<sp/>property<sp/>with<sp/>a<sp/>value<sp/>of<sp/>&quot;MySequence&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldToc-&gt;set_TableOfFiguresLabel(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Configure<sp/>this<sp/>TOC<sp/>field<sp/>to<sp/>only<sp/>pick<sp/>up<sp/>SEQ<sp/>fields<sp/>that<sp/>are<sp/>within<sp/>the<sp/>bounds<sp/>of<sp/>a<sp/>bookmark</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>named<sp/>&quot;TOCBookmark&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldToc-&gt;set_BookmarkName(u</highlight><highlight class="stringliteral">&quot;TOCBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOC<sp/><sp/>\\c<sp/>MySequence<sp/>\\b<sp/>TOCBookmark&quot;</highlight><highlight class="normal">,<sp/>fieldToc-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>SEQ<sp/>fields<sp/>display<sp/>a<sp/>count<sp/>that<sp/>increments<sp/>at<sp/>each<sp/>SEQ<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>fields<sp/>also<sp/>maintain<sp/>separate<sp/>counts<sp/>for<sp/>each<sp/>unique<sp/>named<sp/>sequence</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>identified<sp/>by<sp/>the<sp/>SEQ<sp/>field&apos;s<sp/>&quot;SequenceIdentifier&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>SEQ<sp/>field<sp/>that<sp/>has<sp/>a<sp/>sequence<sp/>identifier<sp/>that<sp/>matches<sp/>the<sp/>TOC&apos;s</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>TableOfFiguresLabel<sp/>property.<sp/>This<sp/>field<sp/>will<sp/>not<sp/>create<sp/>an<sp/>entry<sp/>in<sp/>the<sp/>TOC<sp/>since<sp/>it<sp/>is<sp/>outside</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>bookmark&apos;s<sp/>bounds<sp/>designated<sp/>by<sp/>&quot;BookmarkName&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;MySequence<sp/>#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;,<sp/>will<sp/>not<sp/>show<sp/>up<sp/>in<sp/>the<sp/>TOC<sp/>because<sp/>it<sp/>is<sp/>outside<sp/>of<sp/>the<sp/>bookmark.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;TOCBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>SEQ<sp/>field&apos;s<sp/>sequence<sp/>matches<sp/>the<sp/>TOC&apos;s<sp/>&quot;TableOfFiguresLabel&quot;<sp/>property<sp/>and<sp/>is<sp/>within<sp/>the<sp/>bookmark&apos;s<sp/>bounds.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>paragraph<sp/>that<sp/>contains<sp/>this<sp/>field<sp/>will<sp/>show<sp/>up<sp/>in<sp/>the<sp/>TOC<sp/>as<sp/>an<sp/>entry.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;MySequence<sp/>#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;,<sp/>will<sp/>show<sp/>up<sp/>in<sp/>the<sp/>TOC<sp/>next<sp/>to<sp/>the<sp/>entry<sp/>for<sp/>the<sp/>above<sp/>caption.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>SEQ<sp/>field&apos;s<sp/>sequence<sp/>does<sp/>not<sp/>match<sp/>the<sp/>TOC&apos;s<sp/>&quot;TableOfFiguresLabel&quot;<sp/>property,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>is<sp/>within<sp/>the<sp/>bounds<sp/>of<sp/>the<sp/>bookmark.<sp/>Its<sp/>paragraph<sp/>will<sp/>not<sp/>show<sp/>up<sp/>in<sp/>the<sp/>TOC<sp/>as<sp/>an<sp/>entry.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;MySequence<sp/>#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;OtherSequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;,<sp/>will<sp/>not<sp/>show<sp/>up<sp/>in<sp/>the<sp/>TOC<sp/>because<sp/>it&apos;s<sp/>from<sp/>a<sp/>different<sp/>sequence<sp/>identifier.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>SEQ<sp/>field&apos;s<sp/>sequence<sp/>matches<sp/>the<sp/>TOC&apos;s<sp/>&quot;TableOfFiguresLabel&quot;<sp/>property<sp/>and<sp/>is<sp/>within<sp/>the<sp/>bounds<sp/>of<sp/>the<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>field<sp/>also<sp/>references<sp/>another<sp/>bookmark.<sp/>The<sp/>contents<sp/>of<sp/>that<sp/>bookmark<sp/>will<sp/>appear<sp/>in<sp/>the<sp/>TOC<sp/>entry<sp/>for<sp/>this<sp/>SEQ<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>SEQ<sp/>field<sp/>itself<sp/>will<sp/>not<sp/>display<sp/>the<sp/>contents<sp/>of<sp/>that<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_BookmarkName(u</highlight><highlight class="stringliteral">&quot;SEQBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SEQ<sp/><sp/>MySequence<sp/>SEQBookmark&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>bookmark<sp/>with<sp/>contents<sp/>that<sp/>will<sp/>show<sp/>up<sp/>in<sp/>the<sp/>TOC<sp/>entry<sp/>due<sp/>to<sp/>the<sp/>above<sp/>SEQ<sp/>field<sp/>referencing<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;SEQBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;MySequence<sp/>#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;,<sp/>text<sp/>from<sp/>inside<sp/>SEQBookmark.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;SEQBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;TOCBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.SEQ.Bookmark.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldSeq.h" line="464" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1ad9b3f7bf4c8eb039f2a859f7003a3075" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldSeq::get_InsertNextNumber</definition>
+        <argsstring>()</argsstring>
+        <name>get_InsertNextNumber</name>
+        <qualifiedname>Aspose::Words::Fields::FieldSeq::get_InsertNextNumber</qualifiedname>
+        <briefdescription>
+<para>Gets or sets whether to insert the next sequence number for the specified item. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows create numbering using SEQ fields. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>SEQ<sp/>fields<sp/>display<sp/>a<sp/>count<sp/>that<sp/>increments<sp/>at<sp/>each<sp/>SEQ<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>fields<sp/>also<sp/>maintain<sp/>separate<sp/>counts<sp/>for<sp/>each<sp/>unique<sp/>named<sp/>sequence</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>identified<sp/>by<sp/>the<sp/>SEQ<sp/>field&apos;s<sp/>&quot;SequenceIdentifier&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>SEQ<sp/>field<sp/>that<sp/>will<sp/>display<sp/>the<sp/>current<sp/>count<sp/>value<sp/>of<sp/>&quot;MySequence&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>after<sp/>using<sp/>the<sp/>&quot;ResetNumber&quot;<sp/>property<sp/>to<sp/>set<sp/>it<sp/>to<sp/>100.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_ResetNumber(u</highlight><highlight class="stringliteral">&quot;100&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SEQ<sp/><sp/>MySequence<sp/>\\r<sp/>100&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;100&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Display<sp/>the<sp/>next<sp/>number<sp/>in<sp/>this<sp/>sequence<sp/>with<sp/>another<sp/>SEQ<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;,<sp/>#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;101&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>level<sp/>1<sp/>heading.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eac3316c9c335ce5fa8638df2fc5d518d4" kindref="member" tooltip="Break between paragraphs.">BreakType::ParagraphBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>level<sp/>1<sp/>heading<sp/>will<sp/>reset<sp/>MySequence<sp/>to<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Normal&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>another<sp/>SEQ<sp/>field<sp/>from<sp/>the<sp/>same<sp/>sequence<sp/>and<sp/>configure<sp/>it<sp/>to<sp/>reset<sp/>the<sp/>count<sp/>at<sp/>every<sp/>heading<sp/>with<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;\n#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_ResetHeadingLevel(u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>above<sp/>heading<sp/>is<sp/>a<sp/>level<sp/>1<sp/>heading,<sp/>so<sp/>the<sp/>count<sp/>for<sp/>this<sp/>sequence<sp/>is<sp/>reset<sp/>to<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SEQ<sp/><sp/>MySequence<sp/>\\s<sp/>1&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Move<sp/>to<sp/>the<sp/>next<sp/>number<sp/>of<sp/>this<sp/>sequence.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;,<sp/>#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_InsertNextNumber(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SEQ<sp/><sp/>MySequence<sp/>\\n&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;2&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.SEQ.ResetNumbering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldSeq.h" line="530" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a4a1d67b0385a9b2c4d54ebcdab358e3a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldSeq::get_ResetHeadingLevel</definition>
+        <argsstring>()</argsstring>
+        <name>get_ResetHeadingLevel</name>
+        <qualifiedname>Aspose::Words::Fields::FieldSeq::get_ResetHeadingLevel</qualifiedname>
+        <briefdescription>
+<para>Gets or sets an integer number representing a heading level to reset the sequence number to. Returns -1 if the number is absent. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows create numbering using SEQ fields. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>SEQ<sp/>fields<sp/>display<sp/>a<sp/>count<sp/>that<sp/>increments<sp/>at<sp/>each<sp/>SEQ<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>fields<sp/>also<sp/>maintain<sp/>separate<sp/>counts<sp/>for<sp/>each<sp/>unique<sp/>named<sp/>sequence</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>identified<sp/>by<sp/>the<sp/>SEQ<sp/>field&apos;s<sp/>&quot;SequenceIdentifier&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>SEQ<sp/>field<sp/>that<sp/>will<sp/>display<sp/>the<sp/>current<sp/>count<sp/>value<sp/>of<sp/>&quot;MySequence&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>after<sp/>using<sp/>the<sp/>&quot;ResetNumber&quot;<sp/>property<sp/>to<sp/>set<sp/>it<sp/>to<sp/>100.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_ResetNumber(u</highlight><highlight class="stringliteral">&quot;100&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SEQ<sp/><sp/>MySequence<sp/>\\r<sp/>100&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;100&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Display<sp/>the<sp/>next<sp/>number<sp/>in<sp/>this<sp/>sequence<sp/>with<sp/>another<sp/>SEQ<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;,<sp/>#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;101&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>level<sp/>1<sp/>heading.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eac3316c9c335ce5fa8638df2fc5d518d4" kindref="member" tooltip="Break between paragraphs.">BreakType::ParagraphBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>level<sp/>1<sp/>heading<sp/>will<sp/>reset<sp/>MySequence<sp/>to<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Normal&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>another<sp/>SEQ<sp/>field<sp/>from<sp/>the<sp/>same<sp/>sequence<sp/>and<sp/>configure<sp/>it<sp/>to<sp/>reset<sp/>the<sp/>count<sp/>at<sp/>every<sp/>heading<sp/>with<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;\n#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_ResetHeadingLevel(u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>above<sp/>heading<sp/>is<sp/>a<sp/>level<sp/>1<sp/>heading,<sp/>so<sp/>the<sp/>count<sp/>for<sp/>this<sp/>sequence<sp/>is<sp/>reset<sp/>to<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SEQ<sp/><sp/>MySequence<sp/>\\s<sp/>1&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Move<sp/>to<sp/>the<sp/>next<sp/>number<sp/>of<sp/>this<sp/>sequence.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;,<sp/>#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_InsertNextNumber(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SEQ<sp/><sp/>MySequence<sp/>\\n&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;2&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.SEQ.ResetNumbering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldSeq.h" line="663" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1ab5c90f4016e54beb1afbb6d69d4c0e32" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldSeq::get_ResetNumber</definition>
+        <argsstring>()</argsstring>
+        <name>get_ResetNumber</name>
+        <qualifiedname>Aspose::Words::Fields::FieldSeq::get_ResetNumber</qualifiedname>
+        <briefdescription>
+<para>Gets or sets an integer number to reset the sequence number to. Returns -1 if the number is absent. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows create numbering using SEQ fields. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>SEQ<sp/>fields<sp/>display<sp/>a<sp/>count<sp/>that<sp/>increments<sp/>at<sp/>each<sp/>SEQ<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>fields<sp/>also<sp/>maintain<sp/>separate<sp/>counts<sp/>for<sp/>each<sp/>unique<sp/>named<sp/>sequence</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>identified<sp/>by<sp/>the<sp/>SEQ<sp/>field&apos;s<sp/>&quot;SequenceIdentifier&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>SEQ<sp/>field<sp/>that<sp/>will<sp/>display<sp/>the<sp/>current<sp/>count<sp/>value<sp/>of<sp/>&quot;MySequence&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>after<sp/>using<sp/>the<sp/>&quot;ResetNumber&quot;<sp/>property<sp/>to<sp/>set<sp/>it<sp/>to<sp/>100.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_ResetNumber(u</highlight><highlight class="stringliteral">&quot;100&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SEQ<sp/><sp/>MySequence<sp/>\\r<sp/>100&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;100&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Display<sp/>the<sp/>next<sp/>number<sp/>in<sp/>this<sp/>sequence<sp/>with<sp/>another<sp/>SEQ<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;,<sp/>#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;101&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>level<sp/>1<sp/>heading.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eac3316c9c335ce5fa8638df2fc5d518d4" kindref="member" tooltip="Break between paragraphs.">BreakType::ParagraphBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>level<sp/>1<sp/>heading<sp/>will<sp/>reset<sp/>MySequence<sp/>to<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Normal&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>another<sp/>SEQ<sp/>field<sp/>from<sp/>the<sp/>same<sp/>sequence<sp/>and<sp/>configure<sp/>it<sp/>to<sp/>reset<sp/>the<sp/>count<sp/>at<sp/>every<sp/>heading<sp/>with<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;\n#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_ResetHeadingLevel(u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>above<sp/>heading<sp/>is<sp/>a<sp/>level<sp/>1<sp/>heading,<sp/>so<sp/>the<sp/>count<sp/>for<sp/>this<sp/>sequence<sp/>is<sp/>reset<sp/>to<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SEQ<sp/><sp/>MySequence<sp/>\\s<sp/>1&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Move<sp/>to<sp/>the<sp/>next<sp/>number<sp/>of<sp/>this<sp/>sequence.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;,<sp/>#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_InsertNextNumber(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SEQ<sp/><sp/>MySequence<sp/>\\n&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;2&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.SEQ.ResetNumbering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldSeq.h" line="596" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a31dbf3831146c20013b129a49393bd6d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldSeq::get_SequenceIdentifier</definition>
+        <argsstring>()</argsstring>
+        <name>get_SequenceIdentifier</name>
+        <qualifiedname>Aspose::Words::Fields::FieldSeq::get_SequenceIdentifier</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the name assigned to the series of items that are to be numbered. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to populate a TOC field with entries using SEQ fields. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>TOC<sp/>field<sp/>can<sp/>create<sp/>an<sp/>entry<sp/>in<sp/>its<sp/>table<sp/>of<sp/>contents<sp/>for<sp/>each<sp/>SEQ<sp/>field<sp/>found<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>entry<sp/>contains<sp/>the<sp/>paragraph<sp/>that<sp/>includes<sp/>the<sp/>SEQ<sp/>field<sp/>and<sp/>the<sp/>page&apos;s<sp/>number<sp/>that<sp/>the<sp/>field<sp/>appears<sp/>on.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldToc<sp/>=<sp/>System::DynamicCast&lt;FieldToc&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca951e4a34dbade8f358c5f9881337a0a1" kindref="member" tooltip="Specifies the TOC field.">FieldType::FieldTOC</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>SEQ<sp/>fields<sp/>display<sp/>a<sp/>count<sp/>that<sp/>increments<sp/>at<sp/>each<sp/>SEQ<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>fields<sp/>also<sp/>maintain<sp/>separate<sp/>counts<sp/>for<sp/>each<sp/>unique<sp/>named<sp/>sequence</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>identified<sp/>by<sp/>the<sp/>SEQ<sp/>field&apos;s<sp/>&quot;SequenceIdentifier&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;TableOfFiguresLabel&quot;<sp/>property<sp/>to<sp/>name<sp/>a<sp/>main<sp/>sequence<sp/>for<sp/>the<sp/>TOC.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Now,<sp/>this<sp/>TOC<sp/>will<sp/>only<sp/>create<sp/>entries<sp/>out<sp/>of<sp/>SEQ<sp/>fields<sp/>with<sp/>their<sp/>&quot;SequenceIdentifier&quot;<sp/>set<sp/>to<sp/>&quot;MySequence&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldToc-&gt;set_TableOfFiguresLabel(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>name<sp/>another<sp/>SEQ<sp/>field<sp/>sequence<sp/>in<sp/>the<sp/>&quot;PrefixedSequenceIdentifier&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>SEQ<sp/>fields<sp/>from<sp/>this<sp/>prefix<sp/>sequence<sp/>will<sp/>not<sp/>create<sp/>TOC<sp/>entries.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Every<sp/>TOC<sp/>entry<sp/>created<sp/>from<sp/>a<sp/>main<sp/>sequence<sp/>SEQ<sp/>field<sp/>will<sp/>now<sp/>also<sp/>display<sp/>the<sp/>count<sp/>that</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>prefix<sp/>sequence<sp/>is<sp/>currently<sp/>on<sp/>at<sp/>the<sp/>primary<sp/>sequence<sp/>SEQ<sp/>field<sp/>that<sp/>made<sp/>the<sp/>entry.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldToc-&gt;set_PrefixedSequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;PrefixSequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>TOC<sp/>entry<sp/>will<sp/>display<sp/>the<sp/>prefix<sp/>sequence<sp/>count<sp/>immediately<sp/>to<sp/>the<sp/>left</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>of<sp/>the<sp/>page<sp/>number<sp/>that<sp/>the<sp/>main<sp/>sequence<sp/>SEQ<sp/>field<sp/>appears<sp/>on.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>specify<sp/>a<sp/>custom<sp/>separator<sp/>that<sp/>will<sp/>appear<sp/>between<sp/>these<sp/>two<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldToc-&gt;set_SequenceSeparator(u</highlight><highlight class="stringliteral">&quot;&gt;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOC<sp/><sp/>\\c<sp/>MySequence<sp/>\\s<sp/>PrefixSequence<sp/>\\d<sp/>&gt;&quot;</highlight><highlight class="normal">,<sp/>fieldToc-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>using<sp/>SEQ<sp/>fields<sp/>to<sp/>populate<sp/>this<sp/>TOC.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Inserting<sp/>a<sp/>SEQ<sp/>field<sp/>that<sp/>belongs<sp/>to<sp/>the<sp/>TOC&apos;s<sp/>prefix<sp/>sequence:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>field<sp/>will<sp/>increment<sp/>the<sp/>SEQ<sp/>sequence<sp/>count<sp/>for<sp/>the<sp/>&quot;PrefixSequence&quot;<sp/>by<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Since<sp/>this<sp/>field<sp/>does<sp/>not<sp/>belong<sp/>to<sp/>the<sp/>main<sp/>sequence<sp/>identified</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>by<sp/>the<sp/>&quot;TableOfFiguresLabel&quot;<sp/>property<sp/>of<sp/>the<sp/>TOC,<sp/>it<sp/>will<sp/>not<sp/>appear<sp/>as<sp/>an<sp/>entry.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;PrefixSequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertParagraph();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SEQ<sp/><sp/>PrefixSequence&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Inserting<sp/>a<sp/>SEQ<sp/>field<sp/>that<sp/>belongs<sp/>to<sp/>the<sp/>TOC&apos;s<sp/>main<sp/>sequence:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>SEQ<sp/>field<sp/>will<sp/>create<sp/>an<sp/>entry<sp/>in<sp/>the<sp/>TOC.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>TOC<sp/>entry<sp/>will<sp/>contain<sp/>the<sp/>paragraph<sp/>that<sp/>the<sp/>SEQ<sp/>field<sp/>is<sp/>in<sp/>and<sp/>the<sp/>number<sp/>of<sp/>the<sp/>page<sp/>that<sp/>it<sp/>appears<sp/>on.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>also<sp/>display<sp/>the<sp/>count<sp/>that<sp/>the<sp/>prefix<sp/>sequence<sp/>is<sp/>currently<sp/>at,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>separated<sp/>from<sp/>the<sp/>page<sp/>number<sp/>by<sp/>the<sp/>value<sp/>in<sp/>the<sp/>TOC&apos;s<sp/>SeqenceSeparator<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;PrefixSequence&quot;<sp/>count<sp/>is<sp/>at<sp/>1,<sp/>this<sp/>main<sp/>sequence<sp/>SEQ<sp/>field<sp/>is<sp/>on<sp/>page<sp/>2,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>separator<sp/>is<sp/>&quot;&gt;&quot;,<sp/>so<sp/>entry<sp/>will<sp/>display<sp/>&quot;1&gt;2&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;First<sp/>TOC<sp/>entry,<sp/>MySequence<sp/>#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SEQ<sp/><sp/>MySequence&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>page,<sp/>advance<sp/>the<sp/>prefix<sp/>sequence<sp/>by<sp/>2,<sp/>and<sp/>insert<sp/>a<sp/>SEQ<sp/>field<sp/>to<sp/>create<sp/>a<sp/>TOC<sp/>entry<sp/>afterwards.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>prefix<sp/>sequence<sp/>is<sp/>now<sp/>at<sp/>2,<sp/>and<sp/>the<sp/>main<sp/>sequence<sp/>SEQ<sp/>field<sp/>is<sp/>on<sp/>page<sp/>3,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>so<sp/>the<sp/>TOC<sp/>entry<sp/>will<sp/>display<sp/>&quot;2&gt;3&quot;<sp/>at<sp/>its<sp/>page<sp/>count.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;PrefixSequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertParagraph();</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Second<sp/>TOC<sp/>entry,<sp/>MySequence<sp/>#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.TOC.SEQ.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows create numbering using SEQ fields. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>SEQ<sp/>fields<sp/>display<sp/>a<sp/>count<sp/>that<sp/>increments<sp/>at<sp/>each<sp/>SEQ<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>fields<sp/>also<sp/>maintain<sp/>separate<sp/>counts<sp/>for<sp/>each<sp/>unique<sp/>named<sp/>sequence</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>identified<sp/>by<sp/>the<sp/>SEQ<sp/>field&apos;s<sp/>&quot;SequenceIdentifier&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>SEQ<sp/>field<sp/>that<sp/>will<sp/>display<sp/>the<sp/>current<sp/>count<sp/>value<sp/>of<sp/>&quot;MySequence&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>after<sp/>using<sp/>the<sp/>&quot;ResetNumber&quot;<sp/>property<sp/>to<sp/>set<sp/>it<sp/>to<sp/>100.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_ResetNumber(u</highlight><highlight class="stringliteral">&quot;100&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SEQ<sp/><sp/>MySequence<sp/>\\r<sp/>100&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;100&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Display<sp/>the<sp/>next<sp/>number<sp/>in<sp/>this<sp/>sequence<sp/>with<sp/>another<sp/>SEQ<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;,<sp/>#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;101&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>level<sp/>1<sp/>heading.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eac3316c9c335ce5fa8638df2fc5d518d4" kindref="member" tooltip="Break between paragraphs.">BreakType::ParagraphBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>level<sp/>1<sp/>heading<sp/>will<sp/>reset<sp/>MySequence<sp/>to<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Normal&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>another<sp/>SEQ<sp/>field<sp/>from<sp/>the<sp/>same<sp/>sequence<sp/>and<sp/>configure<sp/>it<sp/>to<sp/>reset<sp/>the<sp/>count<sp/>at<sp/>every<sp/>heading<sp/>with<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;\n#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_ResetHeadingLevel(u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>above<sp/>heading<sp/>is<sp/>a<sp/>level<sp/>1<sp/>heading,<sp/>so<sp/>the<sp/>count<sp/>for<sp/>this<sp/>sequence<sp/>is<sp/>reset<sp/>to<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SEQ<sp/><sp/>MySequence<sp/>\\s<sp/>1&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Move<sp/>to<sp/>the<sp/>next<sp/>number<sp/>of<sp/>this<sp/>sequence.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;,<sp/>#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_InsertNextNumber(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SEQ<sp/><sp/>MySequence<sp/>\\n&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;2&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.SEQ.ResetNumbering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldSeq.h" line="386" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a1a67faaf52292db5ff70a8855a097db7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldSeq::set_BookmarkName</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_BookmarkName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldSeq::set_BookmarkName</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a22b8e7e097b05a037ec7d0ad2ef517c3" kindref="member">Aspose::Words::Fields::FieldSeq::get_BookmarkName</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldSeq.h" line="467" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1adff72732cb2d5ad822e22e126ae02e8a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldSeq::set_InsertNextNumber</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_InsertNextNumber</name>
+        <qualifiedname>Aspose::Words::Fields::FieldSeq::set_InsertNextNumber</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1ad9b3f7bf4c8eb039f2a859f7003a3075" kindref="member">Aspose::Words::Fields::FieldSeq::get_InsertNextNumber</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldSeq.h" line="533" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a3026d84749a2feba923c4128309496aa" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldSeq::set_ResetHeadingLevel</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ResetHeadingLevel</name>
+        <qualifiedname>Aspose::Words::Fields::FieldSeq::set_ResetHeadingLevel</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a4a1d67b0385a9b2c4d54ebcdab358e3a" kindref="member">Aspose::Words::Fields::FieldSeq::get_ResetHeadingLevel</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldSeq.h" line="666" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1aadc40128e2ff28c89bdd7072c0fcd9fb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldSeq::set_ResetNumber</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ResetNumber</name>
+        <qualifiedname>Aspose::Words::Fields::FieldSeq::set_ResetNumber</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1ab5c90f4016e54beb1afbb6d69d4c0e32" kindref="member">Aspose::Words::Fields::FieldSeq::get_ResetNumber</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldSeq.h" line="599" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a2d79c7cb4675e289ffa54c2d97c5bf86" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldSeq::set_SequenceIdentifier</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_SequenceIdentifier</name>
+        <qualifiedname>Aspose::Words::Fields::FieldSeq::set_SequenceIdentifier</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a31dbf3831146c20013b129a49393bd6d" kindref="member">Aspose::Words::Fields::FieldSeq::get_SequenceIdentifier</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldSeq.h" line="389" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implements the SEQ field. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to populate a TOC field with entries using SEQ fields. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>TOC<sp/>field<sp/>can<sp/>create<sp/>an<sp/>entry<sp/>in<sp/>its<sp/>table<sp/>of<sp/>contents<sp/>for<sp/>each<sp/>SEQ<sp/>field<sp/>found<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>entry<sp/>contains<sp/>the<sp/>paragraph<sp/>that<sp/>includes<sp/>the<sp/>SEQ<sp/>field<sp/>and<sp/>the<sp/>page&apos;s<sp/>number<sp/>that<sp/>the<sp/>field<sp/>appears<sp/>on.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldToc<sp/>=<sp/>System::DynamicCast&lt;FieldToc&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca951e4a34dbade8f358c5f9881337a0a1" kindref="member" tooltip="Specifies the TOC field.">FieldType::FieldTOC</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>SEQ<sp/>fields<sp/>display<sp/>a<sp/>count<sp/>that<sp/>increments<sp/>at<sp/>each<sp/>SEQ<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>fields<sp/>also<sp/>maintain<sp/>separate<sp/>counts<sp/>for<sp/>each<sp/>unique<sp/>named<sp/>sequence</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>identified<sp/>by<sp/>the<sp/>SEQ<sp/>field&apos;s<sp/>&quot;SequenceIdentifier&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;TableOfFiguresLabel&quot;<sp/>property<sp/>to<sp/>name<sp/>a<sp/>main<sp/>sequence<sp/>for<sp/>the<sp/>TOC.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Now,<sp/>this<sp/>TOC<sp/>will<sp/>only<sp/>create<sp/>entries<sp/>out<sp/>of<sp/>SEQ<sp/>fields<sp/>with<sp/>their<sp/>&quot;SequenceIdentifier&quot;<sp/>set<sp/>to<sp/>&quot;MySequence&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldToc-&gt;set_TableOfFiguresLabel(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>name<sp/>another<sp/>SEQ<sp/>field<sp/>sequence<sp/>in<sp/>the<sp/>&quot;PrefixedSequenceIdentifier&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>SEQ<sp/>fields<sp/>from<sp/>this<sp/>prefix<sp/>sequence<sp/>will<sp/>not<sp/>create<sp/>TOC<sp/>entries.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Every<sp/>TOC<sp/>entry<sp/>created<sp/>from<sp/>a<sp/>main<sp/>sequence<sp/>SEQ<sp/>field<sp/>will<sp/>now<sp/>also<sp/>display<sp/>the<sp/>count<sp/>that</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>prefix<sp/>sequence<sp/>is<sp/>currently<sp/>on<sp/>at<sp/>the<sp/>primary<sp/>sequence<sp/>SEQ<sp/>field<sp/>that<sp/>made<sp/>the<sp/>entry.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldToc-&gt;set_PrefixedSequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;PrefixSequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>TOC<sp/>entry<sp/>will<sp/>display<sp/>the<sp/>prefix<sp/>sequence<sp/>count<sp/>immediately<sp/>to<sp/>the<sp/>left</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>of<sp/>the<sp/>page<sp/>number<sp/>that<sp/>the<sp/>main<sp/>sequence<sp/>SEQ<sp/>field<sp/>appears<sp/>on.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>specify<sp/>a<sp/>custom<sp/>separator<sp/>that<sp/>will<sp/>appear<sp/>between<sp/>these<sp/>two<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldToc-&gt;set_SequenceSeparator(u</highlight><highlight class="stringliteral">&quot;&gt;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOC<sp/><sp/>\\c<sp/>MySequence<sp/>\\s<sp/>PrefixSequence<sp/>\\d<sp/>&gt;&quot;</highlight><highlight class="normal">,<sp/>fieldToc-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>using<sp/>SEQ<sp/>fields<sp/>to<sp/>populate<sp/>this<sp/>TOC.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Inserting<sp/>a<sp/>SEQ<sp/>field<sp/>that<sp/>belongs<sp/>to<sp/>the<sp/>TOC&apos;s<sp/>prefix<sp/>sequence:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>field<sp/>will<sp/>increment<sp/>the<sp/>SEQ<sp/>sequence<sp/>count<sp/>for<sp/>the<sp/>&quot;PrefixSequence&quot;<sp/>by<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Since<sp/>this<sp/>field<sp/>does<sp/>not<sp/>belong<sp/>to<sp/>the<sp/>main<sp/>sequence<sp/>identified</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>by<sp/>the<sp/>&quot;TableOfFiguresLabel&quot;<sp/>property<sp/>of<sp/>the<sp/>TOC,<sp/>it<sp/>will<sp/>not<sp/>appear<sp/>as<sp/>an<sp/>entry.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;PrefixSequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertParagraph();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SEQ<sp/><sp/>PrefixSequence&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Inserting<sp/>a<sp/>SEQ<sp/>field<sp/>that<sp/>belongs<sp/>to<sp/>the<sp/>TOC&apos;s<sp/>main<sp/>sequence:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>SEQ<sp/>field<sp/>will<sp/>create<sp/>an<sp/>entry<sp/>in<sp/>the<sp/>TOC.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>TOC<sp/>entry<sp/>will<sp/>contain<sp/>the<sp/>paragraph<sp/>that<sp/>the<sp/>SEQ<sp/>field<sp/>is<sp/>in<sp/>and<sp/>the<sp/>number<sp/>of<sp/>the<sp/>page<sp/>that<sp/>it<sp/>appears<sp/>on.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>also<sp/>display<sp/>the<sp/>count<sp/>that<sp/>the<sp/>prefix<sp/>sequence<sp/>is<sp/>currently<sp/>at,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>separated<sp/>from<sp/>the<sp/>page<sp/>number<sp/>by<sp/>the<sp/>value<sp/>in<sp/>the<sp/>TOC&apos;s<sp/>SeqenceSeparator<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;PrefixSequence&quot;<sp/>count<sp/>is<sp/>at<sp/>1,<sp/>this<sp/>main<sp/>sequence<sp/>SEQ<sp/>field<sp/>is<sp/>on<sp/>page<sp/>2,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>separator<sp/>is<sp/>&quot;&gt;&quot;,<sp/>so<sp/>entry<sp/>will<sp/>display<sp/>&quot;1&gt;2&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;First<sp/>TOC<sp/>entry,<sp/>MySequence<sp/>#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SEQ<sp/><sp/>MySequence&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>page,<sp/>advance<sp/>the<sp/>prefix<sp/>sequence<sp/>by<sp/>2,<sp/>and<sp/>insert<sp/>a<sp/>SEQ<sp/>field<sp/>to<sp/>create<sp/>a<sp/>TOC<sp/>entry<sp/>afterwards.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>prefix<sp/>sequence<sp/>is<sp/>now<sp/>at<sp/>2,<sp/>and<sp/>the<sp/>main<sp/>sequence<sp/>SEQ<sp/>field<sp/>is<sp/>on<sp/>page<sp/>3,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>so<sp/>the<sp/>TOC<sp/>entry<sp/>will<sp/>display<sp/>&quot;2&gt;3&quot;<sp/>at<sp/>its<sp/>page<sp/>count.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;PrefixSequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertParagraph();</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Second<sp/>TOC<sp/>entry,<sp/>MySequence<sp/>#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.TOC.SEQ.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows create numbering using SEQ fields. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>SEQ<sp/>fields<sp/>display<sp/>a<sp/>count<sp/>that<sp/>increments<sp/>at<sp/>each<sp/>SEQ<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>fields<sp/>also<sp/>maintain<sp/>separate<sp/>counts<sp/>for<sp/>each<sp/>unique<sp/>named<sp/>sequence</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>identified<sp/>by<sp/>the<sp/>SEQ<sp/>field&apos;s<sp/>&quot;SequenceIdentifier&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>SEQ<sp/>field<sp/>that<sp/>will<sp/>display<sp/>the<sp/>current<sp/>count<sp/>value<sp/>of<sp/>&quot;MySequence&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>after<sp/>using<sp/>the<sp/>&quot;ResetNumber&quot;<sp/>property<sp/>to<sp/>set<sp/>it<sp/>to<sp/>100.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_ResetNumber(u</highlight><highlight class="stringliteral">&quot;100&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SEQ<sp/><sp/>MySequence<sp/>\\r<sp/>100&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;100&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Display<sp/>the<sp/>next<sp/>number<sp/>in<sp/>this<sp/>sequence<sp/>with<sp/>another<sp/>SEQ<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;,<sp/>#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;101&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>level<sp/>1<sp/>heading.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eac3316c9c335ce5fa8638df2fc5d518d4" kindref="member" tooltip="Break between paragraphs.">BreakType::ParagraphBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Heading<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>level<sp/>1<sp/>heading<sp/>will<sp/>reset<sp/>MySequence<sp/>to<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_Style(doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Normal&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>another<sp/>SEQ<sp/>field<sp/>from<sp/>the<sp/>same<sp/>sequence<sp/>and<sp/>configure<sp/>it<sp/>to<sp/>reset<sp/>the<sp/>count<sp/>at<sp/>every<sp/>heading<sp/>with<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;\n#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_ResetHeadingLevel(u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>above<sp/>heading<sp/>is<sp/>a<sp/>level<sp/>1<sp/>heading,<sp/>so<sp/>the<sp/>count<sp/>for<sp/>this<sp/>sequence<sp/>is<sp/>reset<sp/>to<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SEQ<sp/><sp/>MySequence<sp/>\\s<sp/>1&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Move<sp/>to<sp/>the<sp/>next<sp/>number<sp/>of<sp/>this<sp/>sequence.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;,<sp/>#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_InsertNextNumber(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SEQ<sp/><sp/>MySequence<sp/>\\n&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;2&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.SEQ.ResetNumbering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to combine table of contents and sequence fields. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>TOC<sp/>field<sp/>can<sp/>create<sp/>an<sp/>entry<sp/>in<sp/>its<sp/>table<sp/>of<sp/>contents<sp/>for<sp/>each<sp/>SEQ<sp/>field<sp/>found<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>entry<sp/>contains<sp/>the<sp/>paragraph<sp/>that<sp/>contains<sp/>the<sp/>SEQ<sp/>field,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>number<sp/>of<sp/>the<sp/>page<sp/>that<sp/>the<sp/>field<sp/>appears<sp/>on.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldToc<sp/>=<sp/>System::DynamicCast&lt;FieldToc&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca951e4a34dbade8f358c5f9881337a0a1" kindref="member" tooltip="Specifies the TOC field.">FieldType::FieldTOC</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Configure<sp/>this<sp/>TOC<sp/>field<sp/>to<sp/>have<sp/>a<sp/>SequenceIdentifier<sp/>property<sp/>with<sp/>a<sp/>value<sp/>of<sp/>&quot;MySequence&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldToc-&gt;set_TableOfFiguresLabel(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Configure<sp/>this<sp/>TOC<sp/>field<sp/>to<sp/>only<sp/>pick<sp/>up<sp/>SEQ<sp/>fields<sp/>that<sp/>are<sp/>within<sp/>the<sp/>bounds<sp/>of<sp/>a<sp/>bookmark</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>named<sp/>&quot;TOCBookmark&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldToc-&gt;set_BookmarkName(u</highlight><highlight class="stringliteral">&quot;TOCBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>TOC<sp/><sp/>\\c<sp/>MySequence<sp/>\\b<sp/>TOCBookmark&quot;</highlight><highlight class="normal">,<sp/>fieldToc-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>SEQ<sp/>fields<sp/>display<sp/>a<sp/>count<sp/>that<sp/>increments<sp/>at<sp/>each<sp/>SEQ<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>fields<sp/>also<sp/>maintain<sp/>separate<sp/>counts<sp/>for<sp/>each<sp/>unique<sp/>named<sp/>sequence</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>identified<sp/>by<sp/>the<sp/>SEQ<sp/>field&apos;s<sp/>&quot;SequenceIdentifier&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>SEQ<sp/>field<sp/>that<sp/>has<sp/>a<sp/>sequence<sp/>identifier<sp/>that<sp/>matches<sp/>the<sp/>TOC&apos;s</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>TableOfFiguresLabel<sp/>property.<sp/>This<sp/>field<sp/>will<sp/>not<sp/>create<sp/>an<sp/>entry<sp/>in<sp/>the<sp/>TOC<sp/>since<sp/>it<sp/>is<sp/>outside</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>bookmark&apos;s<sp/>bounds<sp/>designated<sp/>by<sp/>&quot;BookmarkName&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;MySequence<sp/>#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;,<sp/>will<sp/>not<sp/>show<sp/>up<sp/>in<sp/>the<sp/>TOC<sp/>because<sp/>it<sp/>is<sp/>outside<sp/>of<sp/>the<sp/>bookmark.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;TOCBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>SEQ<sp/>field&apos;s<sp/>sequence<sp/>matches<sp/>the<sp/>TOC&apos;s<sp/>&quot;TableOfFiguresLabel&quot;<sp/>property<sp/>and<sp/>is<sp/>within<sp/>the<sp/>bookmark&apos;s<sp/>bounds.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>paragraph<sp/>that<sp/>contains<sp/>this<sp/>field<sp/>will<sp/>show<sp/>up<sp/>in<sp/>the<sp/>TOC<sp/>as<sp/>an<sp/>entry.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;MySequence<sp/>#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;,<sp/>will<sp/>show<sp/>up<sp/>in<sp/>the<sp/>TOC<sp/>next<sp/>to<sp/>the<sp/>entry<sp/>for<sp/>the<sp/>above<sp/>caption.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>SEQ<sp/>field&apos;s<sp/>sequence<sp/>does<sp/>not<sp/>match<sp/>the<sp/>TOC&apos;s<sp/>&quot;TableOfFiguresLabel&quot;<sp/>property,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>is<sp/>within<sp/>the<sp/>bounds<sp/>of<sp/>the<sp/>bookmark.<sp/>Its<sp/>paragraph<sp/>will<sp/>not<sp/>show<sp/>up<sp/>in<sp/>the<sp/>TOC<sp/>as<sp/>an<sp/>entry.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;MySequence<sp/>#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;OtherSequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;,<sp/>will<sp/>not<sp/>show<sp/>up<sp/>in<sp/>the<sp/>TOC<sp/>because<sp/>it&apos;s<sp/>from<sp/>a<sp/>different<sp/>sequence<sp/>identifier.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>SEQ<sp/>field&apos;s<sp/>sequence<sp/>matches<sp/>the<sp/>TOC&apos;s<sp/>&quot;TableOfFiguresLabel&quot;<sp/>property<sp/>and<sp/>is<sp/>within<sp/>the<sp/>bounds<sp/>of<sp/>the<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>field<sp/>also<sp/>references<sp/>another<sp/>bookmark.<sp/>The<sp/>contents<sp/>of<sp/>that<sp/>bookmark<sp/>will<sp/>appear<sp/>in<sp/>the<sp/>TOC<sp/>entry<sp/>for<sp/>this<sp/>SEQ<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>SEQ<sp/>field<sp/>itself<sp/>will<sp/>not<sp/>display<sp/>the<sp/>contents<sp/>of<sp/>that<sp/>bookmark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_BookmarkName(u</highlight><highlight class="stringliteral">&quot;SEQBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>SEQ<sp/><sp/>MySequence<sp/>SEQBookmark&quot;</highlight><highlight class="normal">,<sp/>fieldSeq-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>bookmark<sp/>with<sp/>contents<sp/>that<sp/>will<sp/>show<sp/>up<sp/>in<sp/>the<sp/>TOC<sp/>entry<sp/>due<sp/>to<sp/>the<sp/>above<sp/>SEQ<sp/>field<sp/>referencing<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;SEQBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;MySequence<sp/>#&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq<sp/>=<sp/>System::DynamicCast&lt;FieldSeq&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" kindref="member" tooltip="Specifies the SEQ field.">FieldType::FieldSequence</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldSeq-&gt;set_SequenceIdentifier(u</highlight><highlight class="stringliteral">&quot;MySequence&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;,<sp/>text<sp/>from<sp/>inside<sp/>SEQBookmark.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;SEQBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;TOCBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.SEQ.Bookmark.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldSeq</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldSeq</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/FieldSeq.h" line="244" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldSeq.h" bodystart="245" bodyend="678"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a1475bd4410a559032ef51d3a1b02453d" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1afd823065b56d6f03535788b1f0a47042" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a22b8e7e097b05a037ec7d0ad2ef517c3" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>get_BookmarkName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a5c2d01019c517ea8098f296903e37a34" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>get_DisplayResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad5f0995c85cce833806e847cf25809b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a399c14463916724cac0015b430175589" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>get_FieldEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abc40cddc1325f7fec80d8530e5287448" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>get_FieldStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a090c5d09915e2ead6cc54fda736dd7c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>get_Format</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1ad9b3f7bf4c8eb039f2a859f7003a3075" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>get_InsertNextNumber</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ae68851d4a88a1fc867d3ddee2e4e88c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>get_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afda4c46db80761545c89e21aae5b717d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>get_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a93719d071099487b6aea1eaa241dd6e8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>get_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a4a1d67b0385a9b2c4d54ebcdab358e3a" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>get_ResetHeadingLevel</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1ab5c90f4016e54beb1afbb6d69d4c0e32" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>get_ResetNumber</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a012c93472901dc077815970a9b2ab650" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>get_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abbc83ad66d5fb391a21980126ea96847" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>get_Separator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a31dbf3831146c20013b129a49393bd6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>get_SequenceIdentifier</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afa7cd5d4cf1a87b05058982f26786456" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad68196653db5cfca30c1ba18ed44c76e" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa40bc0e4a5be11f0df785cc8bb2ff042" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a06309b750337fa34de8509f67d6b1431" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>GetSwitchType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad26a8021af3dbdc5bf0a1360a201222f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a93e411fd8cbea9742ac177d77612ead4" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a1a67faaf52292db5ff70a8855a097db7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>set_BookmarkName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1adff72732cb2d5ad822e22e126ae02e8a" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>set_InsertNextNumber</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa637d825865724665fb8ed856e664d95" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>set_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ac70b125adbe7f0ba5b889280cd282c47" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>set_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a165f748dd5ba33844f1d765f6c710f88" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>set_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a3026d84749a2feba923c4128309496aa" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>set_ResetHeadingLevel</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1aadc40128e2ff28c89bdd7072c0fcd9fb" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>set_ResetNumber</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa6af1e900c84ae806f071098dfe8f087" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>set_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a2d79c7cb4675e289ffa54c2d97c5bf86" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>set_SequenceIdentifier</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a4a1b2355c0c70f2aaa39d94526d83ce4" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a23e06877e92b9a823358046d9f1336d1" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab9f908becb16b26bed76d58dbcee9929" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>Unlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aaec82418b2b6493aa2827b8e282b2e82" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a1298d7daa07c863bf97cb3f37a4d7a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a46197852475380a19fcd3de917e87af9" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>UpdateCore</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq_1a60d674e9a6936d0760564f771b704c57" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldSeq</scope><name>~FieldSeq</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

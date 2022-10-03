@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_saving_1_1_save_output_parameters" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Saving::SaveOutputParameters</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_save_output_parameters_8h" local="no">Aspose.Words.Cpp/Saving/SaveOutputParameters.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_save_output_parameters_1ad33d9621538dc09efa6ff1384e51449c" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Saving::SaveOutputParameters::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Saving::SaveOutputParameters::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SaveOutputParameters.h" line="45" column="28" bodyfile="Aspose.Words.Cpp/Saving/SaveOutputParameters.h" bodystart="45" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_save_output_parameters_1a00fa02089ec1f82ebb47cf6b5162eb40" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_save_output_parameters" kindref="compound">SaveOutputParameters</ref></type>
+        <definition>typedef SaveOutputParameters Aspose::Words::Saving::SaveOutputParameters::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Saving::SaveOutputParameters::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SaveOutputParameters.h" line="44" column="34" bodyfile="Aspose.Words.Cpp/Saving/SaveOutputParameters.h" bodystart="44" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_save_output_parameters_1a7673fc84ff2f69d0e1ece513e9edfd31" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::SaveOutputParameters::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Saving::SaveOutputParameters::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SaveOutputParameters.h" line="47" column="37" bodyfile="Aspose.Words.Cpp/Saving/SaveOutputParameters.h" bodystart="47" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_save_output_parameters_1a3207a68a62bec9bb8b3f7f775a01ad63" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::SaveOutputParameters::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Saving::SaveOutputParameters::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SaveOutputParameters.h" line="78" column="20" bodyfile="Aspose.Words.Cpp/Saving/SaveOutputParameters.h" bodystart="78" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_save_output_parameters_1a8e8d946e18b57036b6f2937033e17303" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::SaveOutputParameters::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Saving::SaveOutputParameters::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SaveOutputParameters.h" line="48" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_save_output_parameters_1a2ae3e00b4a361b13c6b7986e4c81b56a" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::SaveOutputParameters::get_ContentType</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ContentType</name>
+        <qualifiedname>Aspose::Words::Saving::SaveOutputParameters::get_ContentType</qualifiedname>
+        <briefdescription>
+<para>Returns the Content-Type string (Internet Media Type) that identifies the type of the saved document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access output parameters of a document&apos;s save operation. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>After<sp/>we<sp/>save<sp/>a<sp/>document,<sp/>we<sp/>can<sp/>access<sp/>the<sp/>Internet<sp/>Media<sp/>Type<sp/>(MIME<sp/>type)<sp/>of<sp/>the<sp/>newly<sp/>created<sp/>output<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;SaveOutputParameters&gt;<sp/>parameters<sp/>=<sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.SaveOutputParameters.doc&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;application/msword&quot;</highlight><highlight class="normal">,<sp/>parameters-&gt;get_ContentType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>property<sp/>changes<sp/>depending<sp/>on<sp/>the<sp/>save<sp/>format.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">parameters<sp/>=<sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.SaveOutputParameters.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;application/pdf&quot;</highlight><highlight class="normal">,<sp/>parameters-&gt;get_ContentType());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/SaveOutputParameters.h" line="72" column="23"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>This object is returned to the caller after a document is saved and contains additional information that has been generated or calculated during the save operation. The caller can use or ignore this object. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access output parameters of a document&apos;s save operation. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>After<sp/>we<sp/>save<sp/>a<sp/>document,<sp/>we<sp/>can<sp/>access<sp/>the<sp/>Internet<sp/>Media<sp/>Type<sp/>(MIME<sp/>type)<sp/>of<sp/>the<sp/>newly<sp/>created<sp/>output<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;SaveOutputParameters&gt;<sp/>parameters<sp/>=<sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.SaveOutputParameters.doc&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;application/msword&quot;</highlight><highlight class="normal">,<sp/>parameters-&gt;get_ContentType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>property<sp/>changes<sp/>depending<sp/>on<sp/>the<sp/>save<sp/>format.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">parameters<sp/>=<sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.SaveOutputParameters.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;application/pdf&quot;</highlight><highlight class="normal">,<sp/>parameters-&gt;get_ContentType());</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::SaveOutputParameters</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_save_output_parameters"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::SaveOutputParameters</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_save_output_parameters"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Saving/SaveOutputParameters.h" line="42" column="1" bodyfile="Aspose.Words.Cpp/Saving/SaveOutputParameters.h" bodystart="43" bodyend="80"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_output_parameters_1ad33d9621538dc09efa6ff1384e51449c" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::SaveOutputParameters</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_output_parameters_1a2ae3e00b4a361b13c6b7986e4c81b56a" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::SaveOutputParameters</scope><name>get_ContentType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_output_parameters_1a3207a68a62bec9bb8b3f7f775a01ad63" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::SaveOutputParameters</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_output_parameters_1a8e8d946e18b57036b6f2937033e17303" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::SaveOutputParameters</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_output_parameters_1a00fa02089ec1f82ebb47cf6b5162eb40" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::SaveOutputParameters</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_output_parameters_1a7673fc84ff2f69d0e1ece513e9edfd31" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::SaveOutputParameters</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

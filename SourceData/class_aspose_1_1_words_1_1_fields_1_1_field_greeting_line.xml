@@ -1,0 +1,491 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::FieldGreetingLine</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field" prot="public" virt="non-virtual">Aspose::Words::Fields::Field</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IFieldCodeTokenInfoProvider</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IFormattableMergeField</basecompoundref>
+    <includes refid="_field_greeting_line_8h" local="no">Aspose.Words.Cpp/Fields/FieldGreetingLine.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a42c076beb462a5467ca385c681ae6adc" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref></type>
+        <definition>typedef Aspose::Words::Fields::Field Aspose::Words::Fields::FieldGreetingLine::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldGreetingLine::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" line="56" column="42" bodyfile="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" bodystart="56" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1adbfbd1a531dd0b9ed254873256ec75a5" prot="private" static="no">
+        <type>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</type>
+        <definition>typedef Aspose::Words::Fields::IFieldCodeTokenInfoProvider Aspose::Words::Fields::FieldGreetingLine::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Fields::FieldGreetingLine::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" line="57" column="64" bodyfile="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" bodystart="57" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1aa9071fbcfbf31059fb50287d7bd793d6" prot="private" static="no">
+        <type>Aspose::Words::Fields::IFormattableMergeField</type>
+        <definition>typedef Aspose::Words::Fields::IFormattableMergeField Aspose::Words::Fields::FieldGreetingLine::BaseType2</definition>
+        <argsstring></argsstring>
+        <name>BaseType2</name>
+        <qualifiedname>Aspose::Words::Fields::FieldGreetingLine::BaseType2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" line="58" column="59" bodyfile="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" bodystart="58" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a3ea965bb5f7658767efb058117f2a1d6" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line" kindref="compound">FieldGreetingLine</ref></type>
+        <definition>typedef FieldGreetingLine Aspose::Words::Fields::FieldGreetingLine::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldGreetingLine::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" line="55" column="31" bodyfile="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" bodystart="55" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a16f6fab52fb362d3a05d38c74373a3aa" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1, BaseType2 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1, BaseType2&gt; Aspose::Words::Fields::FieldGreetingLine::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::FieldGreetingLine::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" line="60" column="37" bodyfile="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" bodystart="60" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1ae49f2d3733bfe0e294c2a89c4527fb8c" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldGreetingLine::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Fields::FieldGreetingLine::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" line="99" column="20" bodyfile="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" bodystart="99" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a20a5cd51b83d44ea5cee27092fd0ad6b" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldGreetingLine::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Fields::FieldGreetingLine::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" line="100" column="20" bodyfile="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" bodystart="100" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a6909a821efc0b17e56297f3f5d792a58" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fields::FieldGreetingLine::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Fields::FieldGreetingLine::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" line="101" column="23" bodyfile="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" bodystart="101" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a0e4bdb656b8bc36769c9aed8b0989fe3" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Fields::FieldGreetingLine::~FieldGreetingLine</definition>
+        <argsstring>()</argsstring>
+        <name>~FieldGreetingLine</name>
+        <qualifiedname>Aspose::Words::Fields::FieldGreetingLine::~FieldGreetingLine</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" line="92" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1ab5b46b72a5084f53100b6008cf6a1a96" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldGreetingLine::get_MergeFormat</definition>
+        <argsstring>() override</argsstring>
+        <name>get_MergeFormat</name>
+        <qualifiedname>Aspose::Words::Fields::FieldGreetingLine::get_MergeFormat</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" line="96" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a2743f7c42586b504e0e85d5ae5c18d24" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Collections::StringToObjDictionary&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt; &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Collections::StringToObjDictionary&lt; System::String &gt; &gt; Aspose::Words::Fields::FieldGreetingLine::get_PlaceholdersToFieldsMap</definition>
+        <argsstring>() override</argsstring>
+        <name>get_PlaceholdersToFieldsMap</name>
+        <qualifiedname>Aspose::Words::Fields::FieldGreetingLine::get_PlaceholdersToFieldsMap</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" line="97" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a6972ed3c9ce3d4bb9f2d9881e295109f" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldGreetingLine::GetPlaceholderValue</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::Fields::IMergeFormatContext &gt;, System::SharedPtr&lt; Aspose::Words::Fields::MergeFormatPlaceholder &gt;) override</argsstring>
+        <name>GetPlaceholderValue</name>
+        <qualifiedname>Aspose::Words::Fields::FieldGreetingLine::GetPlaceholderValue</qualifiedname>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::IMergeFormatContext &gt;</type>
+        </param>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::MergeFormatPlaceholder &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" line="105" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1afb55dad6ee4e08d59eac0d8b5d3d8068" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>Aspose::Words::Fields::FieldSwitchType</type>
+        <definition>Aspose::Words::Fields::FieldSwitchType Aspose::Words::Fields::FieldGreetingLine::GetSwitchType</definition>
+        <argsstring>(System::String) override</argsstring>
+        <name>GetSwitchType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldGreetingLine::GetSwitchType</qualifiedname>
+        <param>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" line="103" column="44"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a76ee942f90517b0d5a7ded9df9f3e459" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Aspose::Words::Document</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Document &gt; Aspose::Words::Fields::FieldGreetingLine::IFormattableMergeField_FetchDocument</definition>
+        <argsstring>() override</argsstring>
+        <name>IFormattableMergeField_FetchDocument</name>
+        <qualifiedname>Aspose::Words::Fields::FieldGreetingLine::IFormattableMergeField_FetchDocument</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" line="104" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1ab6780bd2c3e2dc7287b11d31c13d8583" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldGreetingLine::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::FieldGreetingLine::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" line="61" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1ae671cca2719980c8c8592a736cbc4d9b" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldUpdateAction &gt; Aspose::Words::Fields::FieldGreetingLine::UpdateCore</definition>
+        <argsstring>() override</argsstring>
+        <name>UpdateCore</name>
+        <qualifiedname>Aspose::Words::Fields::FieldGreetingLine::UpdateCore</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afd2f4d29a84550a38375396538654ab8">UpdateCore</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" line="90" column="26"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1ad90eeeda7693337ebded25107f0284d7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldGreetingLine::FieldGreetingLine</definition>
+        <argsstring>()</argsstring>
+        <name>FieldGreetingLine</name>
+        <qualifiedname>Aspose::Words::Fields::FieldGreetingLine::FieldGreetingLine</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" line="86" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a12353bff9847ce16dc752dd64a62000d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldGreetingLine::get_AlternateText</definition>
+        <argsstring>()</argsstring>
+        <name>get_AlternateText</name>
+        <qualifiedname>Aspose::Words::Fields::FieldGreetingLine::get_AlternateText</qualifiedname>
+        <briefdescription>
+<para>Gets the text to include in the field if the name is blank. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" line="66" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a27defc97fd8a890450864132f8d17d5d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldGreetingLine::get_LanguageId</definition>
+        <argsstring>()</argsstring>
+        <name>get_LanguageId</name>
+        <qualifiedname>Aspose::Words::Fields::FieldGreetingLine::get_LanguageId</qualifiedname>
+        <briefdescription>
+<para>Gets the language id used to format the name. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" line="78" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1afdeaead431aba3c03b11cfa0c0cfe957" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldGreetingLine::get_NameFormat</definition>
+        <argsstring>()</argsstring>
+        <name>get_NameFormat</name>
+        <qualifiedname>Aspose::Words::Fields::FieldGreetingLine::get_NameFormat</qualifiedname>
+        <briefdescription>
+<para>Gets the format of the name included in the field. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" line="72" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a508eac96ab6df233751bc42bd9b2313f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt;</type>
+        <definition>System::ArrayPtr&lt; System::String &gt; Aspose::Words::Fields::FieldGreetingLine::GetFieldNames</definition>
+        <argsstring>() override</argsstring>
+        <name>GetFieldNames</name>
+        <qualifiedname>Aspose::Words::Fields::FieldGreetingLine::GetFieldNames</qualifiedname>
+        <briefdescription>
+<para>Returns a collection of mail merge field names used by the field. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" line="84" column="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1ab1666ba8f4381df8f4a8be77c1738997" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldGreetingLine::set_AlternateText</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_AlternateText</name>
+        <qualifiedname>Aspose::Words::Fields::FieldGreetingLine::set_AlternateText</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets the text to include in the field if the name is blank. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" line="69" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a09f64f7a42c68bccba2619746f688bb7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldGreetingLine::set_LanguageId</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_LanguageId</name>
+        <qualifiedname>Aspose::Words::Fields::FieldGreetingLine::set_LanguageId</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets the language id used to format the name. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" line="81" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a53f74518da626df2ddc8e98b1de31bfe" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldGreetingLine::set_NameFormat</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_NameFormat</name>
+        <qualifiedname>Aspose::Words::Fields::FieldGreetingLine::set_NameFormat</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets the format of the name included in the field. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" line="75" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implements the GREETINGLINE field. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldGreetingLine</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="5">
+        <label>Aspose::Words::Fields::IFormattableMergeField</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldGreetingLine</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="5">
+        <label>Aspose::Words::Fields::IFormattableMergeField</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" line="53" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldGreetingLine.h" bodystart="54" bodyend="107"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a42c076beb462a5467ca385c681ae6adc" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1adbfbd1a531dd0b9ed254873256ec75a5" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1aa9071fbcfbf31059fb50287d7bd793d6" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>BaseType2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1ad90eeeda7693337ebded25107f0284d7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>FieldGreetingLine</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a12353bff9847ce16dc752dd64a62000d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>get_AlternateText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a5c2d01019c517ea8098f296903e37a34" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>get_DisplayResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad5f0995c85cce833806e847cf25809b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a399c14463916724cac0015b430175589" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>get_FieldEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abc40cddc1325f7fec80d8530e5287448" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>get_FieldStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a090c5d09915e2ead6cc54fda736dd7c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>get_Format</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ae68851d4a88a1fc867d3ddee2e4e88c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>get_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afda4c46db80761545c89e21aae5b717d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>get_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a27defc97fd8a890450864132f8d17d5d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>get_LanguageId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a93719d071099487b6aea1eaa241dd6e8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>get_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1ab5b46b72a5084f53100b6008cf6a1a96" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>get_MergeFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1afdeaead431aba3c03b11cfa0c0cfe957" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>get_NameFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a2743f7c42586b504e0e85d5ae5c18d24" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>get_PlaceholdersToFieldsMap</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a012c93472901dc077815970a9b2ab650" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>get_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abbc83ad66d5fb391a21980126ea96847" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>get_Separator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afa7cd5d4cf1a87b05058982f26786456" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad68196653db5cfca30c1ba18ed44c76e" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa40bc0e4a5be11f0df785cc8bb2ff042" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a508eac96ab6df233751bc42bd9b2313f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>GetFieldNames</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a6972ed3c9ce3d4bb9f2d9881e295109f" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>GetPlaceholderValue</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1afb55dad6ee4e08d59eac0d8b5d3d8068" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>GetSwitchType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a76ee942f90517b0d5a7ded9df9f3e459" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>IFormattableMergeField_FetchDocument</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1ae49f2d3733bfe0e294c2a89c4527fb8c" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a20a5cd51b83d44ea5cee27092fd0ad6b" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a6909a821efc0b17e56297f3f5d792a58" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad26a8021af3dbdc5bf0a1360a201222f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1ab6780bd2c3e2dc7287b11d31c13d8583" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1ab1666ba8f4381df8f4a8be77c1738997" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>set_AlternateText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa637d825865724665fb8ed856e664d95" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>set_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ac70b125adbe7f0ba5b889280cd282c47" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>set_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a09f64f7a42c68bccba2619746f688bb7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>set_LanguageId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a165f748dd5ba33844f1d765f6c710f88" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>set_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a53f74518da626df2ddc8e98b1de31bfe" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>set_NameFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa6af1e900c84ae806f071098dfe8f087" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>set_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a3ea965bb5f7658767efb058117f2a1d6" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a16f6fab52fb362d3a05d38c74373a3aa" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab9f908becb16b26bed76d58dbcee9929" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>Unlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aaec82418b2b6493aa2827b8e282b2e82" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a1298d7daa07c863bf97cb3f37a4d7a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1ae671cca2719980c8c8592a736cbc4d9b" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>UpdateCore</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line_1a0e4bdb656b8bc36769c9aed8b0989fe3" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldGreetingLine</scope><name>~FieldGreetingLine</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

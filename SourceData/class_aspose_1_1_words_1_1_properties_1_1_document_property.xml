@@ -1,0 +1,718 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_properties_1_1_document_property" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Properties::DocumentProperty</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_document_property_8h" local="no">Aspose.Words.Cpp/Properties/DocumentProperty.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_properties_1_1_document_property_1a46d112a67fd489d9b5adbbfd53475d68" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Properties::DocumentProperty::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Properties::DocumentProperty::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Properties/DocumentProperty.h" line="67" column="28" bodyfile="Aspose.Words.Cpp/Properties/DocumentProperty.h" bodystart="67" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_properties_1_1_document_property_1a6416eb69cb9fa809f9c5d63a28d6e438" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property" kindref="compound">DocumentProperty</ref></type>
+        <definition>typedef DocumentProperty Aspose::Words::Properties::DocumentProperty::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Properties::DocumentProperty::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Properties/DocumentProperty.h" line="66" column="30" bodyfile="Aspose.Words.Cpp/Properties/DocumentProperty.h" bodystart="66" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_properties_1_1_document_property_1a0af458d0b66255d764b7c87052eacec0" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Properties::DocumentProperty::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Properties::DocumentProperty::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Properties/DocumentProperty.h" line="69" column="37" bodyfile="Aspose.Words.Cpp/Properties/DocumentProperty.h" bodystart="69" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_properties_1_1_document_property_1af623fbd00975e7eeeb9028521ae7e79c" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Properties::DocumentProperty::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Properties::DocumentProperty::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Properties/DocumentProperty.h" line="488" column="20" bodyfile="Aspose.Words.Cpp/Properties/DocumentProperty.h" bodystart="488" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_properties_1_1_document_property_1a77950f3b9a6e81280441ef739e4aaaf1" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Properties::DocumentProperty::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Properties::DocumentProperty::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Properties/DocumentProperty.h" line="489" column="23" bodyfile="Aspose.Words.Cpp/Properties/DocumentProperty.h" bodystart="489" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_properties_1_1_document_property_1afd27711036594cd8c428a8666c83eb94" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Properties::DocumentProperty::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Properties::DocumentProperty::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Properties/DocumentProperty.h" line="490" column="20" bodyfile="Aspose.Words.Cpp/Properties/DocumentProperty.h" bodystart="490" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_properties_1_1_document_property_1a1c91126b8849bcfc7667f4af4d4ae1c5" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Properties::DocumentProperty::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Properties::DocumentProperty::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Properties/DocumentProperty.h" line="491" column="23" bodyfile="Aspose.Words.Cpp/Properties/DocumentProperty.h" bodystart="491" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_document_property_1a288ca7c9666985bc81efc4bc5abc0a54" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Properties::DocumentProperty::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Properties::DocumentProperty::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Properties/DocumentProperty.h" line="70" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_document_property_1a76b814b7b2410e0dd14760954b96c4a2" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Properties::DocumentProperty::get_IsLinkToContent</definition>
+        <argsstring>()</argsstring>
+        <name>get_IsLinkToContent</name>
+        <qualifiedname>Aspose::Words::Properties::DocumentProperty::get_IsLinkToContent</qualifiedname>
+        <briefdescription>
+<para>Shows whether this property is linked to content or not. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to link a custom document property to a bookmark. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Link<sp/>a<sp/>new<sp/>custom<sp/>property<sp/>to<sp/>a<sp/>bookmark.<sp/>The<sp/>value<sp/>of<sp/>this<sp/>property</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>will<sp/>be<sp/>the<sp/>contents<sp/>of<sp/>the<sp/>bookmark<sp/>that<sp/>it<sp/>references<sp/>in<sp/>the<sp/>&quot;LinkSource&quot;<sp/>member.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomDocumentProperties&gt;<sp/>customProperties<sp/>=<sp/>doc-&gt;get_CustomDocumentProperties();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;DocumentProperty&gt;<sp/>customProperty<sp/>=<sp/>customProperties-&gt;AddLinkToContent(u</highlight><highlight class="stringliteral">&quot;Bookmark&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/>customProperty-&gt;get_IsLinkToContent());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">,<sp/>customProperty-&gt;get_LinkSource());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>customProperty-&gt;get_Value());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.LinkCustomDocumentPropertiesToBookmark.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Properties/DocumentProperty.h" line="297" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_document_property_1a35260f5a310ddffa12404091688e4242" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Properties::DocumentProperty::get_LinkSource</definition>
+        <argsstring>() const</argsstring>
+        <name>get_LinkSource</name>
+        <qualifiedname>Aspose::Words::Properties::DocumentProperty::get_LinkSource</qualifiedname>
+        <briefdescription>
+<para>Gets the source of a linked custom document property. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to link a custom document property to a bookmark. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;StartBookmark(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndBookmark(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Link<sp/>a<sp/>new<sp/>custom<sp/>property<sp/>to<sp/>a<sp/>bookmark.<sp/>The<sp/>value<sp/>of<sp/>this<sp/>property</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>will<sp/>be<sp/>the<sp/>contents<sp/>of<sp/>the<sp/>bookmark<sp/>that<sp/>it<sp/>references<sp/>in<sp/>the<sp/>&quot;LinkSource&quot;<sp/>member.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomDocumentProperties&gt;<sp/>customProperties<sp/>=<sp/>doc-&gt;get_CustomDocumentProperties();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;DocumentProperty&gt;<sp/>customProperty<sp/>=<sp/>customProperties-&gt;AddLinkToContent(u</highlight><highlight class="stringliteral">&quot;Bookmark&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/>customProperty-&gt;get_IsLinkToContent());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;MyBookmark&quot;</highlight><highlight class="normal">,<sp/>customProperty-&gt;get_LinkSource());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>customProperty-&gt;get_Value());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.LinkCustomDocumentPropertiesToBookmark.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Properties/DocumentProperty.h" line="271" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_document_property_1ac3d0fab901e0df734b00aba64efacc43" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Properties::DocumentProperty::get_Name</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Name</name>
+        <qualifiedname>Aspose::Words::Properties::DocumentProperty::get_Name</qualifiedname>
+        <briefdescription>
+<para>Returns the name of the property. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Cannot be null and cannot be an empty string.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with built-in document properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Properties.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;Document&quot;<sp/>object<sp/>contains<sp/>some<sp/>of<sp/>its<sp/>metadata<sp/>in<sp/>its<sp/>members.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Document<sp/>filename:\n\t<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>doc-&gt;get_OriginalFileName()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>document<sp/>also<sp/>stores<sp/>metadata<sp/>in<sp/>its<sp/>built-in<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>built-in<sp/>property<sp/>is<sp/>a<sp/>member<sp/>of<sp/>the<sp/>document&apos;s<sp/>&quot;BuiltInDocumentProperties&quot;<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Built-in<sp/>Properties:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>docProperty<sp/>:<sp/>System::IterateOver(doc-&gt;get_BuiltInDocumentProperties()))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>docProperty-&gt;get_Name()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tType:\t{0}&quot;</highlight><highlight class="normal">,<sp/>docProperty-&gt;get_Type())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Some<sp/>properties<sp/>may<sp/>store<sp/>multiple<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(<ref refid="class/system.object_ext/_1a49cadf4152a1be9ca40712f579e660a6" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Is</ref>&lt;<ref refid="class/system.collections.generic.i_collection/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::ICollection</ref>&lt;SharedPtr&lt;System::Object&gt;&gt;&gt;(docProperty-&gt;get_Value()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>value<sp/>:<sp/>System::IterateOver(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>System::DynamicCast_noexcept&lt;<ref refid="class/system.collections.generic.i_collection/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::ICollection</ref>&lt;SharedPtr&lt;System::Object&gt;&gt;&gt;(docProperty-&gt;get_Value())))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tValue:\t\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>value<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tValue:\t\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>docProperty-&gt;get_Value()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Properties/DocumentProperty.h" line="110" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_document_property_1ab947996e0d79548e6afe4f0e8a9f5b49" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108" kindref="member">Aspose::Words::Properties::PropertyType</ref></type>
+        <definition>Aspose::Words::Properties::PropertyType Aspose::Words::Properties::DocumentProperty::get_Type</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Type</name>
+        <qualifiedname>Aspose::Words::Properties::DocumentProperty::get_Type</qualifiedname>
+        <briefdescription>
+<para>Gets the data type of the property. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with built-in document properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Properties.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;Document&quot;<sp/>object<sp/>contains<sp/>some<sp/>of<sp/>its<sp/>metadata<sp/>in<sp/>its<sp/>members.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Document<sp/>filename:\n\t<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>doc-&gt;get_OriginalFileName()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>document<sp/>also<sp/>stores<sp/>metadata<sp/>in<sp/>its<sp/>built-in<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>built-in<sp/>property<sp/>is<sp/>a<sp/>member<sp/>of<sp/>the<sp/>document&apos;s<sp/>&quot;BuiltInDocumentProperties&quot;<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Built-in<sp/>Properties:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>docProperty<sp/>:<sp/>System::IterateOver(doc-&gt;get_BuiltInDocumentProperties()))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>docProperty-&gt;get_Name()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tType:\t{0}&quot;</highlight><highlight class="normal">,<sp/>docProperty-&gt;get_Type())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Some<sp/>properties<sp/>may<sp/>store<sp/>multiple<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(<ref refid="class/system.object_ext/_1a49cadf4152a1be9ca40712f579e660a6" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Is</ref>&lt;<ref refid="class/system.collections.generic.i_collection/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::ICollection</ref>&lt;SharedPtr&lt;System::Object&gt;&gt;&gt;(docProperty-&gt;get_Value()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>value<sp/>:<sp/>System::IterateOver(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>System::DynamicCast_noexcept&lt;<ref refid="class/system.collections.generic.i_collection/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::ICollection</ref>&lt;SharedPtr&lt;System::Object&gt;&gt;&gt;(docProperty-&gt;get_Value())))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tValue:\t\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>value<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tValue:\t\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>docProperty-&gt;get_Value()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting></para>
+<para>Shows how to work with a document&apos;s custom properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomDocumentProperties&gt;<sp/>properties<sp/>=<sp/>doc-&gt;get_CustomDocumentProperties();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>properties-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Custom<sp/>document<sp/>properties<sp/>are<sp/>key-value<sp/>pairs<sp/>that<sp/>we<sp/>can<sp/>add<sp/>to<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>By&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Date&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1a8b4667cfa17e4aff117188fee6dbd7ed" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Today</ref>());</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Revision&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_BuiltInDocumentProperties()-&gt;get_RevisionNumber());</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Amount&quot;</highlight><highlight class="normal">,<sp/>123.45);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>collection<sp/>sorts<sp/>the<sp/>custom<sp/>properties<sp/>in<sp/>alphabetic<sp/>order.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>properties-&gt;IndexOf(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Amount&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>properties-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Print<sp/>every<sp/>custom<sp/>property<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;DocumentProperty&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>properties-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;Name:<sp/>\&quot;{0}\&quot;\n\tType:<sp/>\&quot;{1}\&quot;\n\tValue:<sp/>\&quot;{2}\&quot;&quot;</highlight><highlight class="normal">,<sp/>enumerator-&gt;get_Current()-&gt;get_Name(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>enumerator-&gt;get_Current()-&gt;get_Type(),<sp/>enumerator-&gt;get_Current()-&gt;get_Value())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Display<sp/>the<sp/>value<sp/>of<sp/>a<sp/>custom<sp/>property<sp/>using<sp/>a<sp/>DOCPROPERTY<sp/>field.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldDocProperty&gt;(builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>DOCPROPERTY<sp/>\&quot;Authorized<sp/>By\&quot;&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>find<sp/>these<sp/>custom<sp/>properties<sp/>in<sp/>Microsoft<sp/>Word<sp/>via<sp/>&quot;File&quot;<sp/>-&gt;<sp/>&quot;Properties&quot;<sp/>&gt;<sp/>&quot;Advanced<sp/>Properties&quot;<sp/>&gt;<sp/>&quot;Custom&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.DocumentPropertyCollection.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>ways<sp/>or<sp/>removing<sp/>custom<sp/>properties<sp/>from<sp/>a<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Remove<sp/>by<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;RemoveAt(1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(properties-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Amount&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>properties-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Remove<sp/>by<sp/>name:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Revision&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(properties-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Revision&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>properties-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Empty<sp/>the<sp/>entire<sp/>collection<sp/>at<sp/>once:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>properties-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Properties/DocumentProperty.h" line="245" column="48"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_document_property_1ae671809dda768f5b1ba9d30437942cc3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; System::Object &gt; Aspose::Words::Properties::DocumentProperty::get_Value</definition>
+        <argsstring>()</argsstring>
+        <name>get_Value</name>
+        <qualifiedname>Aspose::Words::Properties::DocumentProperty::get_Value</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the value of the property. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Cannot be null.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with built-in document properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Properties.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;Document&quot;<sp/>object<sp/>contains<sp/>some<sp/>of<sp/>its<sp/>metadata<sp/>in<sp/>its<sp/>members.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Document<sp/>filename:\n\t<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>doc-&gt;get_OriginalFileName()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>document<sp/>also<sp/>stores<sp/>metadata<sp/>in<sp/>its<sp/>built-in<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>built-in<sp/>property<sp/>is<sp/>a<sp/>member<sp/>of<sp/>the<sp/>document&apos;s<sp/>&quot;BuiltInDocumentProperties&quot;<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Built-in<sp/>Properties:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>docProperty<sp/>:<sp/>System::IterateOver(doc-&gt;get_BuiltInDocumentProperties()))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>docProperty-&gt;get_Name()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tType:\t{0}&quot;</highlight><highlight class="normal">,<sp/>docProperty-&gt;get_Type())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Some<sp/>properties<sp/>may<sp/>store<sp/>multiple<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(<ref refid="class/system.object_ext/_1a49cadf4152a1be9ca40712f579e660a6" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Is</ref>&lt;<ref refid="class/system.collections.generic.i_collection/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::ICollection</ref>&lt;SharedPtr&lt;System::Object&gt;&gt;&gt;(docProperty-&gt;get_Value()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>value<sp/>:<sp/>System::IterateOver(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>System::DynamicCast_noexcept&lt;<ref refid="class/system.collections.generic.i_collection/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::ICollection</ref>&lt;SharedPtr&lt;System::Object&gt;&gt;&gt;(docProperty-&gt;get_Value())))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tValue:\t\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>value<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tValue:\t\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>docProperty-&gt;get_Value()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Properties/DocumentProperty.h" line="148" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_document_property_1a75469c8567b76d81b1447bb66471cb39" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Properties::DocumentProperty::set_Value</definition>
+        <argsstring>(const System::SharedPtr&lt; System::Object &gt; &amp;value)</argsstring>
+        <name>set_Value</name>
+        <qualifiedname>Aspose::Words::Properties::DocumentProperty::set_Value</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_1ae671809dda768f5b1ba9d30437942cc3" kindref="member">Aspose::Words::Properties::DocumentProperty::get_Value</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Properties/DocumentProperty.h" line="151" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_document_property_1a03e663fe728d974c70caa66b2c925cbf" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Properties::DocumentProperty::ToBool</definition>
+        <argsstring>()</argsstring>
+        <name>ToBool</name>
+        <qualifiedname>Aspose::Words::Properties::DocumentProperty::ToBool</qualifiedname>
+        <briefdescription>
+<para>Returns the property value as bool. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Throws an exception if the property type is not <ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27226c864bac7454a8504f8edb15d95b" kindref="member">Boolean</ref>.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows various type conversion methods of custom document properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomDocumentProperties&gt;<sp/>properties<sp/>=<sp/>doc-&gt;get_CustomDocumentProperties();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.date_time/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref><sp/>authDate<sp/>=<sp/><ref refid="class/system.date_time/_1a8b4667cfa17e4aff117188fee6dbd7ed" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Today</ref>();</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>By&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Date&quot;</highlight><highlight class="normal">,<sp/>authDate);</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Revision&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_BuiltInDocumentProperties()-&gt;get_RevisionNumber());</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Amount&quot;</highlight><highlight class="normal">,<sp/>123.45);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/>properties-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Authorized&quot;</highlight><highlight class="normal">)-&gt;ToBool());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(properties-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>By&quot;</highlight><highlight class="normal">)));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(authDate,<sp/>properties-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Date&quot;</highlight><highlight class="normal">)-&gt;ToDateTime());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>properties-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Revision&quot;</highlight><highlight class="normal">)-&gt;ToInt());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(123.45,<sp/>properties-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Amount&quot;</highlight><highlight class="normal">)-&gt;ToDouble());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Properties/DocumentProperty.h" line="455" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_document_property_1aa151bdbb6fa2491f69e01462b6738949" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt;</type>
+        <definition>System::ArrayPtr&lt; uint8_t &gt; Aspose::Words::Properties::DocumentProperty::ToByteArray</definition>
+        <argsstring>()</argsstring>
+        <name>ToByteArray</name>
+        <qualifiedname>Aspose::Words::Properties::DocumentProperty::ToByteArray</qualifiedname>
+        <briefdescription>
+<para>Returns the property value as byte array. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Throws an exception if the property type is not <ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a29d83f0080e24c1f4b3975dc9ff9e868" kindref="member">ByteArray</ref>.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to add a thumbnail to a document that we save as an Epub. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>save<sp/>a<sp/>document,<sp/>whose<sp/>&quot;Thumbnail&quot;<sp/>property<sp/>contains<sp/>image<sp/>data<sp/>that<sp/>we<sp/>added,<sp/>as<sp/>an<sp/>Epub,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>a<sp/>reader<sp/>that<sp/>opens<sp/>that<sp/>document<sp/>may<sp/>display<sp/>the<sp/>image<sp/>before<sp/>the<sp/>first<sp/>page.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;BuiltInDocumentProperties&gt;<sp/>properties<sp/>=<sp/>doc-&gt;get_BuiltInDocumentProperties();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;uint8_t&gt;<sp/>thumbnailBytes<sp/>=<sp/><ref refid="class/system.i_o.file/_1abdf236ad2f3924d0fc9259f8f715a5c4" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::ReadAllBytes</ref>(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;set_Thumbnail(thumbnailBytes);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Thumbnail.epub&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>extract<sp/>a<sp/>document&apos;s<sp/>thumbnail<sp/>image<sp/>and<sp/>save<sp/>it<sp/>to<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;DocumentProperty&gt;<sp/>thumbnail<sp/>=<sp/>doc-&gt;get_BuiltInDocumentProperties()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Thumbnail&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.i_o.file/_1a2bff5b0fbdb0ef68ad612a665efeac56" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::WriteAllBytes</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentProperties.Thumbnail.gif&quot;</highlight><highlight class="normal">,<sp/>thumbnail-&gt;ToByteArray());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Properties/DocumentProperty.h" line="482" column="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_document_property_1a1f2139bc52b1da3d3d29dff88ea10158" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.date_time/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref></type>
+        <definition>System::DateTime Aspose::Words::Properties::DocumentProperty::ToDateTime</definition>
+        <argsstring>()</argsstring>
+        <name>ToDateTime</name>
+        <qualifiedname>Aspose::Words::Properties::DocumentProperty::ToDateTime</qualifiedname>
+        <briefdescription>
+<para>Returns the property value as DateTime in UTC. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Throws an exception if the property type is not <ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a8cf10d2341ed01492506085688270c1e" kindref="member">DateTime</ref>.</para>
+<para>Microsoft Word stores only the date part (no time) for custom date properties.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create a custom document property which contains a date and time. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_CustomDocumentProperties()-&gt;Add(u</highlight><highlight class="stringliteral">&quot;AuthorizationDate&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Document<sp/>authorized<sp/>on<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>doc-&gt;get_CustomDocumentProperties()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;AuthorizationDate&quot;</highlight><highlight class="normal">)-&gt;ToDateTime()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+</programlisting></para>
+<para>Shows various type conversion methods of custom document properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomDocumentProperties&gt;<sp/>properties<sp/>=<sp/>doc-&gt;get_CustomDocumentProperties();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.date_time/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref><sp/>authDate<sp/>=<sp/><ref refid="class/system.date_time/_1a8b4667cfa17e4aff117188fee6dbd7ed" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Today</ref>();</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>By&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Date&quot;</highlight><highlight class="normal">,<sp/>authDate);</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Revision&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_BuiltInDocumentProperties()-&gt;get_RevisionNumber());</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Amount&quot;</highlight><highlight class="normal">,<sp/>123.45);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/>properties-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Authorized&quot;</highlight><highlight class="normal">)-&gt;ToBool());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(properties-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>By&quot;</highlight><highlight class="normal">)));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(authDate,<sp/>properties-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Date&quot;</highlight><highlight class="normal">)-&gt;ToDateTime());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>properties-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Revision&quot;</highlight><highlight class="normal">)-&gt;ToInt());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(123.45,<sp/>properties-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Amount&quot;</highlight><highlight class="normal">)-&gt;ToDouble());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Properties/DocumentProperty.h" line="429" column="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_document_property_1a643eb67e83544f7992ad5695b174e2e3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::Properties::DocumentProperty::ToDouble</definition>
+        <argsstring>()</argsstring>
+        <name>ToDouble</name>
+        <qualifiedname>Aspose::Words::Properties::DocumentProperty::ToDouble</qualifiedname>
+        <briefdescription>
+<para>Returns the property value as double. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows various type conversion methods of custom document properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomDocumentProperties&gt;<sp/>properties<sp/>=<sp/>doc-&gt;get_CustomDocumentProperties();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.date_time/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref><sp/>authDate<sp/>=<sp/><ref refid="class/system.date_time/_1a8b4667cfa17e4aff117188fee6dbd7ed" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Today</ref>();</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>By&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Date&quot;</highlight><highlight class="normal">,<sp/>authDate);</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Revision&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_BuiltInDocumentProperties()-&gt;get_RevisionNumber());</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Amount&quot;</highlight><highlight class="normal">,<sp/>123.45);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/>properties-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Authorized&quot;</highlight><highlight class="normal">)-&gt;ToBool());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(properties-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>By&quot;</highlight><highlight class="normal">)));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(authDate,<sp/>properties-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Date&quot;</highlight><highlight class="normal">)-&gt;ToDateTime());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>properties-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Revision&quot;</highlight><highlight class="normal">)-&gt;ToInt());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(123.45,<sp/>properties-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Amount&quot;</highlight><highlight class="normal">)-&gt;ToDouble());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Properties/DocumentProperty.h" line="392" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_document_property_1a9c7b459dff09a22f2dddcd687e9fe8fb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Properties::DocumentProperty::ToInt</definition>
+        <argsstring>()</argsstring>
+        <name>ToInt</name>
+        <qualifiedname>Aspose::Words::Properties::DocumentProperty::ToInt</qualifiedname>
+        <briefdescription>
+<para>Returns the property value as integer. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows various type conversion methods of custom document properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomDocumentProperties&gt;<sp/>properties<sp/>=<sp/>doc-&gt;get_CustomDocumentProperties();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.date_time/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref><sp/>authDate<sp/>=<sp/><ref refid="class/system.date_time/_1a8b4667cfa17e4aff117188fee6dbd7ed" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Today</ref>();</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>By&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Date&quot;</highlight><highlight class="normal">,<sp/>authDate);</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Revision&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_BuiltInDocumentProperties()-&gt;get_RevisionNumber());</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Amount&quot;</highlight><highlight class="normal">,<sp/>123.45);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/>properties-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Authorized&quot;</highlight><highlight class="normal">)-&gt;ToBool());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(properties-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>By&quot;</highlight><highlight class="normal">)));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(authDate,<sp/>properties-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Date&quot;</highlight><highlight class="normal">)-&gt;ToDateTime());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>properties-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Revision&quot;</highlight><highlight class="normal">)-&gt;ToInt());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(123.45,<sp/>properties-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Amount&quot;</highlight><highlight class="normal">)-&gt;ToDouble());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Properties/DocumentProperty.h" line="368" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_properties_1_1_document_property_1aa72dd172db59c902679905c0b83f9e3e" prot="public" static="no" const="yes" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Properties::DocumentProperty::ToString</definition>
+        <argsstring>() const override</argsstring>
+        <name>ToString</name>
+        <qualifiedname>Aspose::Words::Properties::DocumentProperty::ToString</qualifiedname>
+        <reimplements refid="class/system.object/_1a5f519d7ae99b64426cc20862bd6211fa">ToString</reimplements>
+        <briefdescription>
+<para>Returns the property value as a string formatted according to the current locale. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Converts a boolean property into &quot;Y&quot; or &quot;N&quot;. Converts a date property into a short date string. For all other types converts a property using Object.ToString().</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with custom document properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Properties.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Every<sp/>document<sp/>contains<sp/>a<sp/>collection<sp/>of<sp/>custom<sp/>properties,<sp/>which,<sp/>like<sp/>the<sp/>built-in<sp/>properties,<sp/>are<sp/>key-value<sp/>pairs.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>document<sp/>has<sp/>a<sp/>fixed<sp/>list<sp/>of<sp/>built-in<sp/>properties.<sp/>The<sp/>user<sp/>creates<sp/>all<sp/>of<sp/>the<sp/>custom<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Value<sp/>of<sp/>custom<sp/>document<sp/>property&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(doc-&gt;get_CustomDocumentProperties()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;CustomProperty&quot;</highlight><highlight class="normal">)));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_CustomDocumentProperties()-&gt;Add(u</highlight><highlight class="stringliteral">&quot;CustomProperty2&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Value<sp/>of<sp/>custom<sp/>document<sp/>property<sp/>#2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Custom<sp/>Properties:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>customDocumentProperty<sp/>:<sp/>System::IterateOver(doc-&gt;get_CustomDocumentProperties()))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>customDocumentProperty-&gt;get_Name()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tType:\t{0}&quot;</highlight><highlight class="normal">,<sp/>customDocumentProperty-&gt;get_Type())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tValue:\t\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>customDocumentProperty-&gt;get_Value()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting></para>
+<para>Shows various type conversion methods of custom document properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomDocumentProperties&gt;<sp/>properties<sp/>=<sp/>doc-&gt;get_CustomDocumentProperties();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.date_time/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime</ref><sp/>authDate<sp/>=<sp/><ref refid="class/system.date_time/_1a8b4667cfa17e4aff117188fee6dbd7ed" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Today</ref>();</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>By&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Date&quot;</highlight><highlight class="normal">,<sp/>authDate);</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Revision&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_BuiltInDocumentProperties()-&gt;get_RevisionNumber());</highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Amount&quot;</highlight><highlight class="normal">,<sp/>123.45);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/>properties-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Authorized&quot;</highlight><highlight class="normal">)-&gt;ToBool());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(properties-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>By&quot;</highlight><highlight class="normal">)));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(authDate,<sp/>properties-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Date&quot;</highlight><highlight class="normal">)-&gt;ToDateTime());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>properties-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Revision&quot;</highlight><highlight class="normal">)-&gt;ToInt());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(123.45,<sp/>properties-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Authorized<sp/>Amount&quot;</highlight><highlight class="normal">)-&gt;ToDouble());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Properties/DocumentProperty.h" line="344" column="23"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents a custom or built-in document property. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_collection" kindref="compound">Aspose::Words::Properties::DocumentPropertyCollection</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with built-in document properties. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Properties.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;Document&quot;<sp/>object<sp/>contains<sp/>some<sp/>of<sp/>its<sp/>metadata<sp/>in<sp/>its<sp/>members.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Document<sp/>filename:\n\t<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>doc-&gt;get_OriginalFileName()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>document<sp/>also<sp/>stores<sp/>metadata<sp/>in<sp/>its<sp/>built-in<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>built-in<sp/>property<sp/>is<sp/>a<sp/>member<sp/>of<sp/>the<sp/>document&apos;s<sp/>&quot;BuiltInDocumentProperties&quot;<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Built-in<sp/>Properties:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>docProperty<sp/>:<sp/>System::IterateOver(doc-&gt;get_BuiltInDocumentProperties()))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>docProperty-&gt;get_Name()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tType:\t{0}&quot;</highlight><highlight class="normal">,<sp/>docProperty-&gt;get_Type())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Some<sp/>properties<sp/>may<sp/>store<sp/>multiple<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(<ref refid="class/system.object_ext/_1a49cadf4152a1be9ca40712f579e660a6" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Is</ref>&lt;<ref refid="class/system.collections.generic.i_collection/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::ICollection</ref>&lt;SharedPtr&lt;System::Object&gt;&gt;&gt;(docProperty-&gt;get_Value()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>value<sp/>:<sp/>System::IterateOver(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>System::DynamicCast_noexcept&lt;<ref refid="class/system.collections.generic.i_collection/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::ICollection</ref>&lt;SharedPtr&lt;System::Object&gt;&gt;&gt;(docProperty-&gt;get_Value())))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tValue:\t\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>value<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tValue:\t\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>docProperty-&gt;get_Value()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Properties::DocumentProperty</label>
+        <link refid="class_aspose_1_1_words_1_1_properties_1_1_document_property"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Properties::DocumentProperty</label>
+        <link refid="class_aspose_1_1_words_1_1_properties_1_1_document_property"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Properties/DocumentProperty.h" line="64" column="1" bodyfile="Aspose.Words.Cpp/Properties/DocumentProperty.h" bodystart="65" bodyend="495"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_1a46d112a67fd489d9b5adbbfd53475d68" prot="private" virt="non-virtual"><scope>Aspose::Words::Properties::DocumentProperty</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_1a76b814b7b2410e0dd14760954b96c4a2" prot="public" virt="non-virtual"><scope>Aspose::Words::Properties::DocumentProperty</scope><name>get_IsLinkToContent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_1a35260f5a310ddffa12404091688e4242" prot="public" virt="non-virtual"><scope>Aspose::Words::Properties::DocumentProperty</scope><name>get_LinkSource</name></member>
+      <member refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_1ac3d0fab901e0df734b00aba64efacc43" prot="public" virt="non-virtual"><scope>Aspose::Words::Properties::DocumentProperty</scope><name>get_Name</name></member>
+      <member refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_1ab947996e0d79548e6afe4f0e8a9f5b49" prot="public" virt="non-virtual"><scope>Aspose::Words::Properties::DocumentProperty</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_1ae671809dda768f5b1ba9d30437942cc3" prot="public" virt="non-virtual"><scope>Aspose::Words::Properties::DocumentProperty</scope><name>get_Value</name></member>
+      <member refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_1af623fbd00975e7eeeb9028521ae7e79c" prot="private" virt="non-virtual"><scope>Aspose::Words::Properties::DocumentProperty</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_1a77950f3b9a6e81280441ef739e4aaaf1" prot="private" virt="non-virtual"><scope>Aspose::Words::Properties::DocumentProperty</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_1afd27711036594cd8c428a8666c83eb94" prot="private" virt="non-virtual"><scope>Aspose::Words::Properties::DocumentProperty</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_1a1c91126b8849bcfc7667f4af4d4ae1c5" prot="private" virt="non-virtual"><scope>Aspose::Words::Properties::DocumentProperty</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_1a288ca7c9666985bc81efc4bc5abc0a54" prot="private" virt="non-virtual"><scope>Aspose::Words::Properties::DocumentProperty</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_1a75469c8567b76d81b1447bb66471cb39" prot="public" virt="non-virtual"><scope>Aspose::Words::Properties::DocumentProperty</scope><name>set_Value</name></member>
+      <member refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_1a6416eb69cb9fa809f9c5d63a28d6e438" prot="private" virt="non-virtual"><scope>Aspose::Words::Properties::DocumentProperty</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_1a0af458d0b66255d764b7c87052eacec0" prot="private" virt="non-virtual"><scope>Aspose::Words::Properties::DocumentProperty</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_1a03e663fe728d974c70caa66b2c925cbf" prot="public" virt="non-virtual"><scope>Aspose::Words::Properties::DocumentProperty</scope><name>ToBool</name></member>
+      <member refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_1aa151bdbb6fa2491f69e01462b6738949" prot="public" virt="non-virtual"><scope>Aspose::Words::Properties::DocumentProperty</scope><name>ToByteArray</name></member>
+      <member refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_1a1f2139bc52b1da3d3d29dff88ea10158" prot="public" virt="non-virtual"><scope>Aspose::Words::Properties::DocumentProperty</scope><name>ToDateTime</name></member>
+      <member refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_1a643eb67e83544f7992ad5695b174e2e3" prot="public" virt="non-virtual"><scope>Aspose::Words::Properties::DocumentProperty</scope><name>ToDouble</name></member>
+      <member refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_1a9c7b459dff09a22f2dddcd687e9fe8fb" prot="public" virt="non-virtual"><scope>Aspose::Words::Properties::DocumentProperty</scope><name>ToInt</name></member>
+      <member refid="class_aspose_1_1_words_1_1_properties_1_1_document_property_1aa72dd172db59c902679905c0b83f9e3e" prot="public" virt="virtual"><scope>Aspose::Words::Properties::DocumentProperty</scope><name>ToString</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

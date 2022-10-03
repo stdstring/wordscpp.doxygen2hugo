@@ -1,0 +1,701 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Markup::CustomXmlProperty</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_custom_xml_property_8h" local="no">Aspose.Words.Cpp/Markup/CustomXmlProperty.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1a3018dc2b018e86e09b9842074911e15d" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Markup::CustomXmlProperty::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlProperty::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlProperty.h" line="127" column="28" bodyfile="Aspose.Words.Cpp/Markup/CustomXmlProperty.h" bodystart="127" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1a3ade4dd2ed6c71daed6ea772bb6da48b" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property" kindref="compound">CustomXmlProperty</ref></type>
+        <definition>typedef CustomXmlProperty Aspose::Words::Markup::CustomXmlProperty::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlProperty::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlProperty.h" line="126" column="31" bodyfile="Aspose.Words.Cpp/Markup/CustomXmlProperty.h" bodystart="126" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1a2b7307147a6f08ec1f50a0e7eff21f3d" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Markup::CustomXmlProperty::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlProperty::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlProperty.h" line="129" column="37" bodyfile="Aspose.Words.Cpp/Markup/CustomXmlProperty.h" bodystart="129" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1ab7765cbc2901a53540c83b162bc75561" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Markup::CustomXmlProperty::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlProperty::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlProperty.h" line="525" column="20" bodyfile="Aspose.Words.Cpp/Markup/CustomXmlProperty.h" bodystart="525" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1a5debce0d292d11b3b3776e08470bc818" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Markup::CustomXmlProperty::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlProperty::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlProperty.h" line="526" column="20" bodyfile="Aspose.Words.Cpp/Markup/CustomXmlProperty.h" bodystart="526" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1a941f2b66305f7383b6e220c7cda3d2a7" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Markup::CustomXmlProperty::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlProperty::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlProperty.h" line="527" column="20" bodyfile="Aspose.Words.Cpp/Markup/CustomXmlProperty.h" bodystart="527" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1ac0bda48fe924115f29718adcb66d7914" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Markup::CustomXmlProperty::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlProperty::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlProperty.h" line="130" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1a11577d799aad59aa484631892f721941" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Markup::CustomXmlProperty::CustomXmlProperty</definition>
+        <argsstring>(const System::String &amp;name, const System::String &amp;uri, const System::String &amp;value)</argsstring>
+        <name>CustomXmlProperty</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlProperty::CustomXmlProperty</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>name</declname>
+        </param>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>uri</declname>
+        </param>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Initializes a new instance of this class. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>name</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The name of the property. Cannot be null. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>uri</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The namespace URI of the property. Cannot be null. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>value</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The value of the property. Cannot be null.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create smart tags. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>Create()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>smart<sp/>tag<sp/>appears<sp/>in<sp/>a<sp/>document<sp/>with<sp/>Microsoft<sp/>Word<sp/>recognizes<sp/>a<sp/>part<sp/>of<sp/>its<sp/>text<sp/>as<sp/>some<sp/>form<sp/>of<sp/>data,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>such<sp/>as<sp/>a<sp/>name,<sp/>date,<sp/>or<sp/>address,<sp/>and<sp/>converts<sp/>it<sp/>to<sp/>a<sp/>hyperlink<sp/>that<sp/>displays<sp/>a<sp/>purple<sp/>dotted<sp/>underline.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>smartTag<sp/>=<sp/>MakeObject&lt;SmartTag&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Smart<sp/>tags<sp/>are<sp/>composite<sp/>nodes<sp/>that<sp/>contain<sp/>their<sp/>recognized<sp/>text<sp/>in<sp/>its<sp/>entirety.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Add<sp/>contents<sp/>to<sp/>this<sp/>smart<sp/>tag<sp/>manually.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;May<sp/>29,<sp/>2019&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>may<sp/>recognize<sp/>the<sp/>above<sp/>contents<sp/>as<sp/>being<sp/>a<sp/>date.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Smart<sp/>tags<sp/>use<sp/>the<sp/>&quot;Element&quot;<sp/>property<sp/>to<sp/>reflect<sp/>the<sp/>type<sp/>of<sp/>data<sp/>they<sp/>contain.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;set_Element(u</highlight><highlight class="stringliteral">&quot;date&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Some<sp/>smart<sp/>tag<sp/>types<sp/>process<sp/>their<sp/>contents<sp/>further<sp/>into<sp/>custom<sp/>XML<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;get_Properties()-&gt;Add(MakeObject&lt;CustomXmlProperty&gt;(u</highlight><highlight class="stringliteral">&quot;Day&quot;</highlight><highlight class="normal">,<sp/>String::Empty,<sp/>u</highlight><highlight class="stringliteral">&quot;29&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;get_Properties()-&gt;Add(MakeObject&lt;CustomXmlProperty&gt;(u</highlight><highlight class="stringliteral">&quot;Month&quot;</highlight><highlight class="normal">,<sp/>String::Empty,<sp/>u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;get_Properties()-&gt;Add(MakeObject&lt;CustomXmlProperty&gt;(u</highlight><highlight class="stringliteral">&quot;Year&quot;</highlight><highlight class="normal">,<sp/>String::Empty,<sp/>u</highlight><highlight class="stringliteral">&quot;2019&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>smart<sp/>tag&apos;s<sp/>URI<sp/>to<sp/>the<sp/>default<sp/>value.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;set_Uri(u</highlight><highlight class="stringliteral">&quot;urn:schemas-microsoft-com:office:smarttags&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;AppendChild(smartTag);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>is<sp/>a<sp/>date.<sp/>&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>another<sp/>smart<sp/>tag<sp/>for<sp/>a<sp/>stock<sp/>ticker.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag<sp/>=<sp/>MakeObject&lt;SmartTag&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;set_Element(u</highlight><highlight class="stringliteral">&quot;stockticker&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;set_Uri(u</highlight><highlight class="stringliteral">&quot;urn:schemas-microsoft-com:office:smarttags&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;MSFT&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;AppendChild(smartTag);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>is<sp/>a<sp/>stock<sp/>ticker.&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Print<sp/>all<sp/>the<sp/>smart<sp/>tags<sp/>in<sp/>our<sp/>document<sp/>using<sp/>a<sp/>document<sp/>visitor.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Accept(MakeObject&lt;ExSmartTag::SmartTagPrinter&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Older<sp/>versions<sp/>of<sp/>Microsoft<sp/>Word<sp/>support<sp/>smart<sp/>tags.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SmartTag.Create.doc&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;RemoveSmartTags&quot;<sp/>method<sp/>to<sp/>remove<sp/>all<sp/>smart<sp/>tags<sp/>from<sp/>a<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(2,<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a3445a82c788691505cbd9d0807f5e2c9" kindref="member" tooltip="A smart tag around one or more inline structures (runs, images, fields,etc.) within a paragraph.">NodeType::SmartTag</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;RemoveSmartTags();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(0,<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a3445a82c788691505cbd9d0807f5e2c9" kindref="member" tooltip="A smart tag around one or more inline structures (runs, images, fields,etc.) within a paragraph.">NodeType::SmartTag</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">SmartTagPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitSmartTagStart(SharedPtr&lt;SmartTag&gt;<sp/>smartTag)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Smart<sp/>tag<sp/>type:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>smartTag-&gt;get_Element()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitSmartTagEnd(SharedPtr&lt;SmartTag&gt;<sp/>smartTag)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tContents:<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>smartTag-&gt;ToString(SaveFormat::Text)<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(smartTag-&gt;get_Properties()-&gt;get_Count()<sp/>==<sp/>0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tContains<sp/>no<sp/>properties&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tProperties:<sp/>&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>properties<sp/>=<sp/>MakeArray&lt;String&gt;(smartTag-&gt;get_Properties()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>0;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>cxp<sp/>:<sp/>System::IterateOver(smartTag-&gt;get_Properties()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>properties[index++]<sp/>=<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\&quot;{0}\&quot;<sp/>=<sp/>\&quot;{1}\&quot;&quot;</highlight><highlight class="normal">,<sp/>cxp-&gt;get_Name(),<sp/>cxp-&gt;get_Value());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Join(u</highlight><highlight class="stringliteral">&quot;,<sp/>&quot;</highlight><highlight class="normal">,<sp/>properties)<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlProperty.h" line="519" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1aa94b0015da5ef4c46fdfbdb85ee782ae" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Markup::CustomXmlProperty::get_Name</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Name</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlProperty::get_Name</qualifiedname>
+        <briefdescription>
+<para>Specifies the name of the custom XML attribute or smart tag property. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Cannot be null.</para>
+<para>Default is empty string.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create smart tags. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>Create()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>smart<sp/>tag<sp/>appears<sp/>in<sp/>a<sp/>document<sp/>with<sp/>Microsoft<sp/>Word<sp/>recognizes<sp/>a<sp/>part<sp/>of<sp/>its<sp/>text<sp/>as<sp/>some<sp/>form<sp/>of<sp/>data,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>such<sp/>as<sp/>a<sp/>name,<sp/>date,<sp/>or<sp/>address,<sp/>and<sp/>converts<sp/>it<sp/>to<sp/>a<sp/>hyperlink<sp/>that<sp/>displays<sp/>a<sp/>purple<sp/>dotted<sp/>underline.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>smartTag<sp/>=<sp/>MakeObject&lt;SmartTag&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Smart<sp/>tags<sp/>are<sp/>composite<sp/>nodes<sp/>that<sp/>contain<sp/>their<sp/>recognized<sp/>text<sp/>in<sp/>its<sp/>entirety.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Add<sp/>contents<sp/>to<sp/>this<sp/>smart<sp/>tag<sp/>manually.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;May<sp/>29,<sp/>2019&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>may<sp/>recognize<sp/>the<sp/>above<sp/>contents<sp/>as<sp/>being<sp/>a<sp/>date.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Smart<sp/>tags<sp/>use<sp/>the<sp/>&quot;Element&quot;<sp/>property<sp/>to<sp/>reflect<sp/>the<sp/>type<sp/>of<sp/>data<sp/>they<sp/>contain.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;set_Element(u</highlight><highlight class="stringliteral">&quot;date&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Some<sp/>smart<sp/>tag<sp/>types<sp/>process<sp/>their<sp/>contents<sp/>further<sp/>into<sp/>custom<sp/>XML<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;get_Properties()-&gt;Add(MakeObject&lt;CustomXmlProperty&gt;(u</highlight><highlight class="stringliteral">&quot;Day&quot;</highlight><highlight class="normal">,<sp/>String::Empty,<sp/>u</highlight><highlight class="stringliteral">&quot;29&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;get_Properties()-&gt;Add(MakeObject&lt;CustomXmlProperty&gt;(u</highlight><highlight class="stringliteral">&quot;Month&quot;</highlight><highlight class="normal">,<sp/>String::Empty,<sp/>u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;get_Properties()-&gt;Add(MakeObject&lt;CustomXmlProperty&gt;(u</highlight><highlight class="stringliteral">&quot;Year&quot;</highlight><highlight class="normal">,<sp/>String::Empty,<sp/>u</highlight><highlight class="stringliteral">&quot;2019&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>smart<sp/>tag&apos;s<sp/>URI<sp/>to<sp/>the<sp/>default<sp/>value.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;set_Uri(u</highlight><highlight class="stringliteral">&quot;urn:schemas-microsoft-com:office:smarttags&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;AppendChild(smartTag);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>is<sp/>a<sp/>date.<sp/>&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>another<sp/>smart<sp/>tag<sp/>for<sp/>a<sp/>stock<sp/>ticker.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag<sp/>=<sp/>MakeObject&lt;SmartTag&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;set_Element(u</highlight><highlight class="stringliteral">&quot;stockticker&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;set_Uri(u</highlight><highlight class="stringliteral">&quot;urn:schemas-microsoft-com:office:smarttags&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;MSFT&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;AppendChild(smartTag);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>is<sp/>a<sp/>stock<sp/>ticker.&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Print<sp/>all<sp/>the<sp/>smart<sp/>tags<sp/>in<sp/>our<sp/>document<sp/>using<sp/>a<sp/>document<sp/>visitor.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Accept(MakeObject&lt;ExSmartTag::SmartTagPrinter&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Older<sp/>versions<sp/>of<sp/>Microsoft<sp/>Word<sp/>support<sp/>smart<sp/>tags.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SmartTag.Create.doc&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;RemoveSmartTags&quot;<sp/>method<sp/>to<sp/>remove<sp/>all<sp/>smart<sp/>tags<sp/>from<sp/>a<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(2,<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a3445a82c788691505cbd9d0807f5e2c9" kindref="member" tooltip="A smart tag around one or more inline structures (runs, images, fields,etc.) within a paragraph.">NodeType::SmartTag</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;RemoveSmartTags();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(0,<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a3445a82c788691505cbd9d0807f5e2c9" kindref="member" tooltip="A smart tag around one or more inline structures (runs, images, fields,etc.) within a paragraph.">NodeType::SmartTag</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">SmartTagPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitSmartTagStart(SharedPtr&lt;SmartTag&gt;<sp/>smartTag)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Smart<sp/>tag<sp/>type:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>smartTag-&gt;get_Element()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitSmartTagEnd(SharedPtr&lt;SmartTag&gt;<sp/>smartTag)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tContents:<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>smartTag-&gt;ToString(SaveFormat::Text)<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(smartTag-&gt;get_Properties()-&gt;get_Count()<sp/>==<sp/>0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tContains<sp/>no<sp/>properties&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tProperties:<sp/>&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>properties<sp/>=<sp/>MakeArray&lt;String&gt;(smartTag-&gt;get_Properties()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>0;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>cxp<sp/>:<sp/>System::IterateOver(smartTag-&gt;get_Properties()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>properties[index++]<sp/>=<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\&quot;{0}\&quot;<sp/>=<sp/>\&quot;{1}\&quot;&quot;</highlight><highlight class="normal">,<sp/>cxp-&gt;get_Name(),<sp/>cxp-&gt;get_Value());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Join(u</highlight><highlight class="stringliteral">&quot;,<sp/>&quot;</highlight><highlight class="normal">,<sp/>properties)<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlProperty.h" line="239" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1a34992921db4a38d21c71352066e3e0ae" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Markup::CustomXmlProperty::get_Uri</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Uri</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlProperty::get_Uri</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the namespace URI of the custom XML attribute or smart tag property. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Cannot be null.</para>
+<para>Default is empty string.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with smart tag properties to get in depth information about smart tags. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Smart<sp/>tags.doc&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>smart<sp/>tag<sp/>appears<sp/>in<sp/>a<sp/>document<sp/>with<sp/>Microsoft<sp/>Word<sp/>recognizes<sp/>a<sp/>part<sp/>of<sp/>its<sp/>text<sp/>as<sp/>some<sp/>form<sp/>of<sp/>data,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>such<sp/>as<sp/>a<sp/>name,<sp/>date,<sp/>or<sp/>address,<sp/>and<sp/>converts<sp/>it<sp/>to<sp/>a<sp/>hyperlink<sp/>that<sp/>displays<sp/>a<sp/>purple<sp/>dotted<sp/>underline.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>Word<sp/>2003,<sp/>we<sp/>can<sp/>enable<sp/>smart<sp/>tags<sp/>via<sp/>&quot;Tools&quot;<sp/>-&gt;<sp/>&quot;AutoCorrect<sp/>options...&quot;<sp/>-&gt;<sp/>&quot;SmartTags&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>our<sp/>input<sp/>document,<sp/>there<sp/>are<sp/>three<sp/>objects<sp/>that<sp/>Microsoft<sp/>Word<sp/>registered<sp/>as<sp/>smart<sp/>tags.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Smart<sp/>tags<sp/>may<sp/>be<sp/>nested,<sp/>so<sp/>this<sp/>collection<sp/>contains<sp/>more.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;SmartTag&gt;&gt;<sp/>smartTags<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a3445a82c788691505cbd9d0807f5e2c9" kindref="member" tooltip="A smart tag around one or more inline structures (runs, images, fields,etc.) within a paragraph.">NodeType::SmartTag</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;LINQ_OfType&lt;SharedPtr&lt;SmartTag&gt;&gt;()-&gt;LINQ_ToArray();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(8,<sp/>smartTags-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;Properties&quot;<sp/>member<sp/>of<sp/>a<sp/>smart<sp/>tag<sp/>contains<sp/>its<sp/>metadata,<sp/>which<sp/>will<sp/>be<sp/>different<sp/>for<sp/>each<sp/>type<sp/>of<sp/>smart<sp/>tag.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>properties<sp/>of<sp/>a<sp/>&quot;date&quot;-type<sp/>smart<sp/>tag<sp/>contain<sp/>its<sp/>year,<sp/>month,<sp/>and<sp/>day.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomXmlPropertyCollection&gt;<sp/>properties<sp/>=<sp/>smartTags[7]-&gt;get_Properties();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>properties-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;CustomXmlProperty&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>properties-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Property<sp/>name:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_Name()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>value:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_Value()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">,<sp/>enumerator-&gt;get_Current()-&gt;get_Uri());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>access<sp/>the<sp/>properties<sp/>in<sp/>various<sp/>ways,<sp/>such<sp/>as<sp/>a<sp/>key-value<sp/>pair.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(properties-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Day&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;22&quot;</highlight><highlight class="normal">,<sp/>properties-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Day&quot;</highlight><highlight class="normal">)-&gt;get_Value());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;2003&quot;</highlight><highlight class="normal">,<sp/>properties-&gt;idx_get(2)-&gt;get_Value());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>properties-&gt;IndexOfKey(u</highlight><highlight class="stringliteral">&quot;Month&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>ways<sp/>of<sp/>removing<sp/>elements<sp/>from<sp/>the<sp/>properties<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Remove<sp/>by<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;RemoveAt(3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>properties-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Remove<sp/>by<sp/>name:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Year&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>properties-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Clear<sp/>the<sp/>entire<sp/>collection<sp/>at<sp/>once:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">properties-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>properties-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlProperty.h" line="299" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1ab58eb766b24ef32d561df6c58546ed73" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Markup::CustomXmlProperty::get_Value</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Value</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlProperty::get_Value</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the value of the custom XML attribute or smart tag property. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Cannot be null.</para>
+<para>Default is empty string.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create smart tags. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>Create()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>smart<sp/>tag<sp/>appears<sp/>in<sp/>a<sp/>document<sp/>with<sp/>Microsoft<sp/>Word<sp/>recognizes<sp/>a<sp/>part<sp/>of<sp/>its<sp/>text<sp/>as<sp/>some<sp/>form<sp/>of<sp/>data,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>such<sp/>as<sp/>a<sp/>name,<sp/>date,<sp/>or<sp/>address,<sp/>and<sp/>converts<sp/>it<sp/>to<sp/>a<sp/>hyperlink<sp/>that<sp/>displays<sp/>a<sp/>purple<sp/>dotted<sp/>underline.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>smartTag<sp/>=<sp/>MakeObject&lt;SmartTag&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Smart<sp/>tags<sp/>are<sp/>composite<sp/>nodes<sp/>that<sp/>contain<sp/>their<sp/>recognized<sp/>text<sp/>in<sp/>its<sp/>entirety.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Add<sp/>contents<sp/>to<sp/>this<sp/>smart<sp/>tag<sp/>manually.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;May<sp/>29,<sp/>2019&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>may<sp/>recognize<sp/>the<sp/>above<sp/>contents<sp/>as<sp/>being<sp/>a<sp/>date.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Smart<sp/>tags<sp/>use<sp/>the<sp/>&quot;Element&quot;<sp/>property<sp/>to<sp/>reflect<sp/>the<sp/>type<sp/>of<sp/>data<sp/>they<sp/>contain.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;set_Element(u</highlight><highlight class="stringliteral">&quot;date&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Some<sp/>smart<sp/>tag<sp/>types<sp/>process<sp/>their<sp/>contents<sp/>further<sp/>into<sp/>custom<sp/>XML<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;get_Properties()-&gt;Add(MakeObject&lt;CustomXmlProperty&gt;(u</highlight><highlight class="stringliteral">&quot;Day&quot;</highlight><highlight class="normal">,<sp/>String::Empty,<sp/>u</highlight><highlight class="stringliteral">&quot;29&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;get_Properties()-&gt;Add(MakeObject&lt;CustomXmlProperty&gt;(u</highlight><highlight class="stringliteral">&quot;Month&quot;</highlight><highlight class="normal">,<sp/>String::Empty,<sp/>u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;get_Properties()-&gt;Add(MakeObject&lt;CustomXmlProperty&gt;(u</highlight><highlight class="stringliteral">&quot;Year&quot;</highlight><highlight class="normal">,<sp/>String::Empty,<sp/>u</highlight><highlight class="stringliteral">&quot;2019&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>smart<sp/>tag&apos;s<sp/>URI<sp/>to<sp/>the<sp/>default<sp/>value.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;set_Uri(u</highlight><highlight class="stringliteral">&quot;urn:schemas-microsoft-com:office:smarttags&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;AppendChild(smartTag);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>is<sp/>a<sp/>date.<sp/>&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>another<sp/>smart<sp/>tag<sp/>for<sp/>a<sp/>stock<sp/>ticker.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag<sp/>=<sp/>MakeObject&lt;SmartTag&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;set_Element(u</highlight><highlight class="stringliteral">&quot;stockticker&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;set_Uri(u</highlight><highlight class="stringliteral">&quot;urn:schemas-microsoft-com:office:smarttags&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;MSFT&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;AppendChild(smartTag);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>is<sp/>a<sp/>stock<sp/>ticker.&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Print<sp/>all<sp/>the<sp/>smart<sp/>tags<sp/>in<sp/>our<sp/>document<sp/>using<sp/>a<sp/>document<sp/>visitor.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Accept(MakeObject&lt;ExSmartTag::SmartTagPrinter&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Older<sp/>versions<sp/>of<sp/>Microsoft<sp/>Word<sp/>support<sp/>smart<sp/>tags.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SmartTag.Create.doc&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;RemoveSmartTags&quot;<sp/>method<sp/>to<sp/>remove<sp/>all<sp/>smart<sp/>tags<sp/>from<sp/>a<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(2,<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a3445a82c788691505cbd9d0807f5e2c9" kindref="member" tooltip="A smart tag around one or more inline structures (runs, images, fields,etc.) within a paragraph.">NodeType::SmartTag</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;RemoveSmartTags();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(0,<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a3445a82c788691505cbd9d0807f5e2c9" kindref="member" tooltip="A smart tag around one or more inline structures (runs, images, fields,etc.) within a paragraph.">NodeType::SmartTag</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">SmartTagPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitSmartTagStart(SharedPtr&lt;SmartTag&gt;<sp/>smartTag)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Smart<sp/>tag<sp/>type:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>smartTag-&gt;get_Element()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitSmartTagEnd(SharedPtr&lt;SmartTag&gt;<sp/>smartTag)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tContents:<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>smartTag-&gt;ToString(SaveFormat::Text)<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(smartTag-&gt;get_Properties()-&gt;get_Count()<sp/>==<sp/>0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tContains<sp/>no<sp/>properties&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tProperties:<sp/>&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>properties<sp/>=<sp/>MakeArray&lt;String&gt;(smartTag-&gt;get_Properties()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>0;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>cxp<sp/>:<sp/>System::IterateOver(smartTag-&gt;get_Properties()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>properties[index++]<sp/>=<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\&quot;{0}\&quot;<sp/>=<sp/>\&quot;{1}\&quot;&quot;</highlight><highlight class="normal">,<sp/>cxp-&gt;get_Name(),<sp/>cxp-&gt;get_Value());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Join(u</highlight><highlight class="stringliteral">&quot;,<sp/>&quot;</highlight><highlight class="normal">,<sp/>properties)<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlProperty.h" line="409" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1ac3858cf3c1bcc3d94f3af7b47b98162a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Markup::CustomXmlProperty::set_Uri</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Uri</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlProperty::set_Uri</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1a34992921db4a38d21c71352066e3e0ae" kindref="member">Aspose::Words::Markup::CustomXmlProperty::get_Uri</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlProperty.h" line="302" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1a75c37b4e8245fba94d3a21302f96b10c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Markup::CustomXmlProperty::set_Value</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Value</name>
+        <qualifiedname>Aspose::Words::Markup::CustomXmlProperty::set_Value</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1ab58eb766b24ef32d561df6c58546ed73" kindref="member">Aspose::Words::Markup::CustomXmlProperty::get_Value</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomXmlProperty.h" line="412" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents a single custom XML attribute or a smart tag property. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>Used as an item of a <ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_collection" kindref="compound">CustomXmlPropertyCollection</ref> collection.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create smart tags. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>Create()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>smart<sp/>tag<sp/>appears<sp/>in<sp/>a<sp/>document<sp/>with<sp/>Microsoft<sp/>Word<sp/>recognizes<sp/>a<sp/>part<sp/>of<sp/>its<sp/>text<sp/>as<sp/>some<sp/>form<sp/>of<sp/>data,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>such<sp/>as<sp/>a<sp/>name,<sp/>date,<sp/>or<sp/>address,<sp/>and<sp/>converts<sp/>it<sp/>to<sp/>a<sp/>hyperlink<sp/>that<sp/>displays<sp/>a<sp/>purple<sp/>dotted<sp/>underline.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>smartTag<sp/>=<sp/>MakeObject&lt;SmartTag&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Smart<sp/>tags<sp/>are<sp/>composite<sp/>nodes<sp/>that<sp/>contain<sp/>their<sp/>recognized<sp/>text<sp/>in<sp/>its<sp/>entirety.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Add<sp/>contents<sp/>to<sp/>this<sp/>smart<sp/>tag<sp/>manually.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;May<sp/>29,<sp/>2019&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>may<sp/>recognize<sp/>the<sp/>above<sp/>contents<sp/>as<sp/>being<sp/>a<sp/>date.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Smart<sp/>tags<sp/>use<sp/>the<sp/>&quot;Element&quot;<sp/>property<sp/>to<sp/>reflect<sp/>the<sp/>type<sp/>of<sp/>data<sp/>they<sp/>contain.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;set_Element(u</highlight><highlight class="stringliteral">&quot;date&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Some<sp/>smart<sp/>tag<sp/>types<sp/>process<sp/>their<sp/>contents<sp/>further<sp/>into<sp/>custom<sp/>XML<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;get_Properties()-&gt;Add(MakeObject&lt;CustomXmlProperty&gt;(u</highlight><highlight class="stringliteral">&quot;Day&quot;</highlight><highlight class="normal">,<sp/>String::Empty,<sp/>u</highlight><highlight class="stringliteral">&quot;29&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;get_Properties()-&gt;Add(MakeObject&lt;CustomXmlProperty&gt;(u</highlight><highlight class="stringliteral">&quot;Month&quot;</highlight><highlight class="normal">,<sp/>String::Empty,<sp/>u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;get_Properties()-&gt;Add(MakeObject&lt;CustomXmlProperty&gt;(u</highlight><highlight class="stringliteral">&quot;Year&quot;</highlight><highlight class="normal">,<sp/>String::Empty,<sp/>u</highlight><highlight class="stringliteral">&quot;2019&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>smart<sp/>tag&apos;s<sp/>URI<sp/>to<sp/>the<sp/>default<sp/>value.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;set_Uri(u</highlight><highlight class="stringliteral">&quot;urn:schemas-microsoft-com:office:smarttags&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;AppendChild(smartTag);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>is<sp/>a<sp/>date.<sp/>&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>another<sp/>smart<sp/>tag<sp/>for<sp/>a<sp/>stock<sp/>ticker.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag<sp/>=<sp/>MakeObject&lt;SmartTag&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;set_Element(u</highlight><highlight class="stringliteral">&quot;stockticker&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;set_Uri(u</highlight><highlight class="stringliteral">&quot;urn:schemas-microsoft-com:office:smarttags&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>smartTag-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;MSFT&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;AppendChild(smartTag);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>is<sp/>a<sp/>stock<sp/>ticker.&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Print<sp/>all<sp/>the<sp/>smart<sp/>tags<sp/>in<sp/>our<sp/>document<sp/>using<sp/>a<sp/>document<sp/>visitor.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Accept(MakeObject&lt;ExSmartTag::SmartTagPrinter&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Older<sp/>versions<sp/>of<sp/>Microsoft<sp/>Word<sp/>support<sp/>smart<sp/>tags.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SmartTag.Create.doc&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;RemoveSmartTags&quot;<sp/>method<sp/>to<sp/>remove<sp/>all<sp/>smart<sp/>tags<sp/>from<sp/>a<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(2,<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a3445a82c788691505cbd9d0807f5e2c9" kindref="member" tooltip="A smart tag around one or more inline structures (runs, images, fields,etc.) within a paragraph.">NodeType::SmartTag</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;RemoveSmartTags();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(0,<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a3445a82c788691505cbd9d0807f5e2c9" kindref="member" tooltip="A smart tag around one or more inline structures (runs, images, fields,etc.) within a paragraph.">NodeType::SmartTag</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">SmartTagPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitSmartTagStart(SharedPtr&lt;SmartTag&gt;<sp/>smartTag)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Smart<sp/>tag<sp/>type:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>smartTag-&gt;get_Element()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitSmartTagEnd(SharedPtr&lt;SmartTag&gt;<sp/>smartTag)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tContents:<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>smartTag-&gt;ToString(SaveFormat::Text)<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(smartTag-&gt;get_Properties()-&gt;get_Count()<sp/>==<sp/>0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tContains<sp/>no<sp/>properties&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tProperties:<sp/>&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>properties<sp/>=<sp/>MakeArray&lt;String&gt;(smartTag-&gt;get_Properties()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>0;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>cxp<sp/>:<sp/>System::IterateOver(smartTag-&gt;get_Properties()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>properties[index++]<sp/>=<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\&quot;{0}\&quot;<sp/>=<sp/>\&quot;{1}\&quot;&quot;</highlight><highlight class="normal">,<sp/>cxp-&gt;get_Name(),<sp/>cxp-&gt;get_Value());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Join(u</highlight><highlight class="stringliteral">&quot;,<sp/>&quot;</highlight><highlight class="normal">,<sp/>properties)<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Markup::CustomXmlProperty</label>
+        <link refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Markup::CustomXmlProperty</label>
+        <link refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Markup/CustomXmlProperty.h" line="124" column="1" bodyfile="Aspose.Words.Cpp/Markup/CustomXmlProperty.h" bodystart="125" bodyend="529"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1a3018dc2b018e86e09b9842074911e15d" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlProperty</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1a11577d799aad59aa484631892f721941" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlProperty</scope><name>CustomXmlProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1aa94b0015da5ef4c46fdfbdb85ee782ae" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlProperty</scope><name>get_Name</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1a34992921db4a38d21c71352066e3e0ae" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlProperty</scope><name>get_Uri</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1ab58eb766b24ef32d561df6c58546ed73" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlProperty</scope><name>get_Value</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1ab7765cbc2901a53540c83b162bc75561" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlProperty</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1a5debce0d292d11b3b3776e08470bc818" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlProperty</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1a941f2b66305f7383b6e220c7cda3d2a7" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlProperty</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1ac0bda48fe924115f29718adcb66d7914" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlProperty</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1ac3858cf3c1bcc3d94f3af7b47b98162a" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlProperty</scope><name>set_Uri</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1a75c37b4e8245fba94d3a21302f96b10c" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlProperty</scope><name>set_Value</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1a3ade4dd2ed6c71daed6ea772bb6da48b" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlProperty</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_property_1a2b7307147a6f08ec1f50a0e7eff21f3d" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::CustomXmlProperty</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

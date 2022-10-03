@@ -1,0 +1,944 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_notes_1_1_footnote" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Notes::Footnote</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_inline_story" prot="public" virt="non-virtual">Aspose::Words::InlineStory</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Revisions::ITrackableNode</basecompoundref>
+    <includes refid="_footnote_8h" local="no">Aspose.Words.Cpp/Notes/Footnote.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a9305b27b1c0c390189af3b0a5a943cbe" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_inline_story" kindref="compound">Aspose::Words::InlineStory</ref></type>
+        <definition>typedef Aspose::Words::InlineStory Aspose::Words::Notes::Footnote::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Notes::Footnote::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Notes/Footnote.h" line="103" column="40" bodyfile="Aspose.Words.Cpp/Notes/Footnote.h" bodystart="103" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a1e91f69c71829cc994de939600d97425" prot="private" static="no">
+        <type>Aspose::Words::Revisions::ITrackableNode</type>
+        <definition>typedef Aspose::Words::Revisions::ITrackableNode Aspose::Words::Notes::Footnote::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Notes::Footnote::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Notes/Footnote.h" line="104" column="54" bodyfile="Aspose.Words.Cpp/Notes/Footnote.h" bodystart="104" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a80638aea3047ece71aefa0fdd5a6bb63" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_notes_1_1_footnote" kindref="compound">Footnote</ref></type>
+        <definition>typedef Footnote Aspose::Words::Notes::Footnote::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Notes::Footnote::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Notes/Footnote.h" line="102" column="22" bodyfile="Aspose.Words.Cpp/Notes/Footnote.h" bodystart="102" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_notes_1_1_footnote_1aa84c03bac9510d03a77c79d2273cb16d" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_inline_story" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Notes::Footnote::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Notes::Footnote::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Notes/Footnote.h" line="106" column="37" bodyfile="Aspose.Words.Cpp/Notes/Footnote.h" bodystart="106" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_notes_1_1_footnote_1abddd8c3d569803075fb57c9d3a8a978a" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Notes::Footnote::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Notes::Footnote::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Notes/Footnote.h" line="538" column="23" bodyfile="Aspose.Words.Cpp/Notes/Footnote.h" bodystart="538" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a561b63452e97aa0ec0861ac55ce1d5c8" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Notes::Footnote::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Notes::Footnote::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Notes/Footnote.h" line="539" column="23" bodyfile="Aspose.Words.Cpp/Notes/Footnote.h" bodystart="539" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_notes_1_1_footnote_1aee3a7819b8e40d4cb3162f5e90fd9c14" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Notes::Footnote::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Notes::Footnote::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Notes/Footnote.h" line="540" column="20" bodyfile="Aspose.Words.Cpp/Notes/Footnote.h" bodystart="540" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a7a109741751b66da1258e84f87db4bf9" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Notes::Footnote::~Footnote</definition>
+        <argsstring>()</argsstring>
+        <name>~Footnote</name>
+        <qualifiedname>Aspose::Words::Notes::Footnote::~Footnote</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Notes/Footnote.h" line="525" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a385946acaeda08aa24a3533c6c804e65" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member">Aspose::Words::VisitorAction</ref></type>
+        <definition>Aspose::Words::VisitorAction Aspose::Words::Notes::Footnote::AcceptEnd</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::DocumentVisitor &gt;) override</argsstring>
+        <name>AcceptEnd</name>
+        <qualifiedname>Aspose::Words::Notes::Footnote::AcceptEnd</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_composite_node_1acfce958aecccd97d02b9ce640c71adb0">AcceptEnd</reimplements>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Notes/Footnote.h" line="523" column="37"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a602c29cde1133c233b1477724452b006" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member">Aspose::Words::VisitorAction</ref></type>
+        <definition>Aspose::Words::VisitorAction Aspose::Words::Notes::Footnote::AcceptStart</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::DocumentVisitor &gt;) override</argsstring>
+        <name>AcceptStart</name>
+        <qualifiedname>Aspose::Words::Notes::Footnote::AcceptStart</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_composite_node_1a4161179423c4ab1bd74fe8825dc06e2f">AcceptStart</reimplements>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Notes/Footnote.h" line="522" column="37"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a2e847d140ec1de3eb1104e74ec3a263d" prot="private" static="no" const="yes" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_notes_1_1_footnote" kindref="compound">ThisType</ref> *</type>
+        <definition>ThisType * Aspose::Words::Notes::Footnote::CppMemberwiseClone</definition>
+        <argsstring>() const override</argsstring>
+        <name>CppMemberwiseClone</name>
+        <qualifiedname>Aspose::Words::Notes::Footnote::CppMemberwiseClone</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_node_1a9358fb4208d077e8411fdf0d4e8553e5">CppMemberwiseClone</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Notes/Footnote.h" line="543" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_notes_1_1_footnote_1ad9a728e3bb649dfb7d7376d37b4b3660" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Notes::Footnote::RemoveMoveRevisions</definition>
+        <argsstring>() override</argsstring>
+        <name>RemoveMoveRevisions</name>
+        <qualifiedname>Aspose::Words::Notes::Footnote::RemoveMoveRevisions</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Notes/Footnote.h" line="542" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a29eccdaf0463115eaf1dea9c266b5b89" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Notes::Footnote::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Notes::Footnote::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Notes/Footnote.h" line="107" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_notes_1_1_footnote_1aaf23116e2c6332488db0b96c0af41d37" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Notes::Footnote::Footnote</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::DocumentBase &gt; &amp;doc, Aspose::Words::Notes::FootnoteType footnoteType)</argsstring>
+        <name>Footnote</name>
+        <qualifiedname>Aspose::Words::Notes::Footnote::Footnote</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_base" kindref="compound">Aspose::Words::DocumentBase</ref> &gt; &amp;</type>
+          <declname>doc</declname>
+        </param>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8" kindref="member">Aspose::Words::Notes::FootnoteType</ref></type>
+          <declname>footnoteType</declname>
+        </param>
+        <briefdescription>
+<para>Initializes an instance of the <bold>Footnote</bold> class. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>When <bold>Footnote</bold> is created, it belongs to the specified document, but is not yet part of the document and <bold>ParentNode</bold> is null.</para>
+<para>To append <bold>Footnote</bold> to the document use InsertAfter or InsertBefore on the paragraph where you want the footnote inserted.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>doc</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The owner document. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>footnoteType</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>A <ref refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a1f0e650618ca1322c9816ff8e1b78a6e" kindref="member">FootnoteType</ref> value that specifies whether this is a footnote or endnote.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert and customize footnotes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>text,<sp/>and<sp/>reference<sp/>it<sp/>with<sp/>a<sp/>footnote.<sp/>This<sp/>footnote<sp/>will<sp/>place<sp/>a<sp/>small<sp/>superscript<sp/>reference</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>mark<sp/>after<sp/>the<sp/>text<sp/>that<sp/>it<sp/>references<sp/>and<sp/>create<sp/>an<sp/>entry<sp/>below<sp/>the<sp/>main<sp/>body<sp/>text<sp/>at<sp/>the<sp/>bottom<sp/>of<sp/>the<sp/>page.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>contain<sp/>the<sp/>footnote&apos;s<sp/>reference<sp/>mark<sp/>and<sp/>the<sp/>reference<sp/>text,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>we<sp/>will<sp/>pass<sp/>to<sp/>the<sp/>document<sp/>builder&apos;s<sp/>&quot;InsertFootnote&quot;<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Main<sp/>body<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Footnote&gt;<sp/>footnote<sp/>=<sp/>builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" kindref="member" tooltip="The object is a footnote.">FootnoteType::Footnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>this<sp/>property<sp/>is<sp/>set<sp/>to<sp/>&quot;true&quot;,<sp/>then<sp/>our<sp/>footnote&apos;s<sp/>reference<sp/>mark</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>will<sp/>be<sp/>its<sp/>index<sp/>among<sp/>all<sp/>the<sp/>section&apos;s<sp/>footnotes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>is<sp/>the<sp/>first<sp/>footnote,<sp/>so<sp/>the<sp/>reference<sp/>mark<sp/>will<sp/>be<sp/>&quot;1&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(footnote-&gt;get_IsAuto());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>move<sp/>the<sp/>document<sp/>builder<sp/>inside<sp/>the<sp/>footnote<sp/>to<sp/>edit<sp/>its<sp/>reference<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveTo(footnote-&gt;get_FirstParagraph());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;<sp/>More<sp/>text<sp/>added<sp/>by<sp/>a<sp/>DocumentBuilder.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveToDocumentEnd();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;\u0002<sp/>Footnote<sp/>text.<sp/>More<sp/>text<sp/>added<sp/>by<sp/>a<sp/>DocumentBuilder.&quot;</highlight><highlight class="normal">,<sp/>footnote-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;<sp/>More<sp/>main<sp/>body<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">footnote<sp/>=<sp/>builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" kindref="member" tooltip="The object is a footnote.">FootnoteType::Footnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>a<sp/>custom<sp/>reference<sp/>mark<sp/>which<sp/>the<sp/>footnote<sp/>will<sp/>use<sp/>instead<sp/>of<sp/>its<sp/>index<sp/>number.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">footnote-&gt;set_ReferenceMark(u</highlight><highlight class="stringliteral">&quot;RefMark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(footnote-&gt;get_IsAuto());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>bookmark<sp/>with<sp/>the<sp/>&quot;IsAuto&quot;<sp/>flag<sp/>set<sp/>to<sp/>true<sp/>will<sp/>still<sp/>show<sp/>its<sp/>real<sp/>index</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>even<sp/>if<sp/>previous<sp/>bookmarks<sp/>display<sp/>custom<sp/>reference<sp/>marks,<sp/>so<sp/>this<sp/>bookmark&apos;s<sp/>reference<sp/>mark<sp/>will<sp/>be<sp/>a<sp/>&quot;3&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;<sp/>More<sp/>main<sp/>body<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">footnote<sp/>=<sp/>builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" kindref="member" tooltip="The object is a footnote.">FootnoteType::Footnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(footnote-&gt;get_IsAuto());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;InlineStory.AddFootnote.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Notes/Footnote.h" line="411" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a73754d6fec636b7f8e35eee1bf8bee21" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Notes::Footnote::Accept</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::DocumentVisitor &gt; visitor) override</argsstring>
+        <name>Accept</name>
+        <qualifiedname>Aspose::Words::Notes::Footnote::Accept</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_node_1a556472e35a86820cf189f10594933f3e">Accept</reimplements>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">Aspose::Words::DocumentVisitor</ref> &gt;</type>
+          <declname>visitor</declname>
+        </param>
+        <briefdescription>
+<para>Accepts a visitor. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Enumerates over this node and all of its children. Each node calls a corresponding method on <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">DocumentVisitor</ref>.</para>
+<para>For more info see the Visitor design pattern.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>visitor</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The visitor that will visit the nodes.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>True if all nodes were visited; false if <ref refid="class_aspose_1_1_words_1_1_document_visitor" kindref="compound">DocumentVisitor</ref> stopped the operation before visiting all nodes.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to print the node structure of every footnote in a document. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FootnoteToText()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentVisitor-compatible<sp/>features.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>visitor<sp/>=<sp/>MakeObject&lt;ExDocumentVisitor::FootnoteStructurePrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>get<sp/>a<sp/>composite<sp/>node<sp/>to<sp/>accept<sp/>a<sp/>document<sp/>visitor,<sp/>the<sp/>visitor<sp/>visits<sp/>the<sp/>accepting<sp/>node,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>traverses<sp/>all<sp/>the<sp/>node&apos;s<sp/>children<sp/>in<sp/>a<sp/>depth-first<sp/>manner.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>visitor<sp/>can<sp/>read<sp/>and<sp/>modify<sp/>each<sp/>visited<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Accept(visitor);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>visitor-&gt;GetText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">FootnoteStructurePrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>FootnoteStructurePrinter()<sp/>:<sp/>mVisitorIsInsideFootnote(false),<sp/>mDocTraversalDepth(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder<sp/>=<sp/>MakeObject&lt;System::Text::StringBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideFootnote<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>GetText()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mBuilder-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitFootnoteStart(SharedPtr&lt;Footnote&gt;<sp/>footnote)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Footnote<sp/>start]<sp/>Type:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(footnote-&gt;get_FootnoteType()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideFootnote<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitFootnoteEnd(SharedPtr&lt;Footnote&gt;<sp/>footnote)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth--;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(u</highlight><highlight class="stringliteral">&quot;[Footnote<sp/>end]&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideFootnote<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitRun(SharedPtr&lt;Run&gt;<sp/>run)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(mVisitorIsInsideFootnote)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Run]<sp/>\&quot;&quot;</highlight><highlight class="normal">)<sp/>+<sp/>run-&gt;GetText()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>mVisitorIsInsideFootnote;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mDocTraversalDepth;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mBuilder;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>IndentAndAppendLine(String<sp/>text)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>mDocTraversalDepth;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;Append(u</highlight><highlight class="stringliteral">&quot;|<sp/><sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(text);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Notes/Footnote.h" line="518" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a1f0e650618ca1322c9816ff8e1b78a6e" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8" kindref="member">Aspose::Words::Notes::FootnoteType</ref></type>
+        <definition>Aspose::Words::Notes::FootnoteType Aspose::Words::Notes::Footnote::get_FootnoteType</definition>
+        <argsstring>() const</argsstring>
+        <name>get_FootnoteType</name>
+        <qualifiedname>Aspose::Words::Notes::Footnote::get_FootnoteType</qualifiedname>
+        <briefdescription>
+<para>Returns a value that specifies whether this is a footnote or endnote. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows the difference between footnotes and endnotes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>attaching<sp/>numbered<sp/>references<sp/>to<sp/>the<sp/>text.<sp/>Both<sp/>these<sp/>references<sp/>will<sp/>add<sp/>a</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>small<sp/>superscript<sp/>reference<sp/>mark<sp/>at<sp/>the<sp/>location<sp/>that<sp/>we<sp/>insert<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>reference<sp/>mark,<sp/>by<sp/>default,<sp/>is<sp/>the<sp/>index<sp/>number<sp/>of<sp/>the<sp/>reference<sp/>among<sp/>all<sp/>the<sp/>references<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>reference<sp/>will<sp/>also<sp/>create<sp/>an<sp/>entry,<sp/>which<sp/>will<sp/>have<sp/>the<sp/>same<sp/>reference<sp/>mark<sp/>as<sp/>in<sp/>the<sp/>body<sp/>text</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>reference<sp/>text,<sp/>which<sp/>we<sp/>will<sp/>pass<sp/>to<sp/>the<sp/>document<sp/>builder&apos;s<sp/>&quot;InsertFootnote&quot;<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>A<sp/>footnote,<sp/>whose<sp/>entry<sp/>will<sp/>appear<sp/>on<sp/>the<sp/>same<sp/>page<sp/>as<sp/>the<sp/>text<sp/>that<sp/>it<sp/>references:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>referenced<sp/>main<sp/>body<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Footnote&gt;<sp/>footnote<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" kindref="member" tooltip="The object is a footnote.">FootnoteType::Footnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>text,<sp/>will<sp/>appear<sp/>at<sp/>the<sp/>bottom<sp/>of<sp/>the<sp/>page<sp/>that<sp/>contains<sp/>the<sp/>referenced<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>An<sp/>endnote,<sp/>whose<sp/>entry<sp/>will<sp/>appear<sp/>at<sp/>the<sp/>end<sp/>of<sp/>the<sp/>document:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Endnote<sp/>referenced<sp/>main<sp/>body<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Footnote&gt;<sp/>endnote<sp/>=<sp/>builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a9129fa7956bf827701cebbe3bd0d6e75" kindref="member" tooltip="The object is an endnote.">FootnoteType::Endnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Endnote<sp/>text,<sp/>will<sp/>appear<sp/>at<sp/>the<sp/>very<sp/>end<sp/>of<sp/>the<sp/>document.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea8e798e1e673d70f3c9d8b7be6234320b" kindref="member" tooltip="Specifies start of new section on a new page.">BreakType::SectionBreakNewPage</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea8e798e1e673d70f3c9d8b7be6234320b" kindref="member" tooltip="Specifies start of new section on a new page.">BreakType::SectionBreakNewPage</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" kindref="member" tooltip="The object is a footnote.">FootnoteType::Footnote</ref>,<sp/>footnote-&gt;get_FootnoteType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a9129fa7956bf827701cebbe3bd0d6e75" kindref="member" tooltip="The object is an endnote.">FootnoteType::Endnote</ref>,<sp/>endnote-&gt;get_FootnoteType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;InlineStory.FootnoteEndnote.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Notes/Footnote.h" line="247" column="43"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a43f25c64ae94f15d2a4f16fa434b4e4a" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Notes::Footnote::get_IsAuto</definition>
+        <argsstring>() const</argsstring>
+        <name>get_IsAuto</name>
+        <qualifiedname>Aspose::Words::Notes::Footnote::get_IsAuto</qualifiedname>
+        <briefdescription>
+<para>Holds a value that specifies whether this is a auto-numbered footnote or footnote with user defined custom reference mark. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert and customize footnotes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>text,<sp/>and<sp/>reference<sp/>it<sp/>with<sp/>a<sp/>footnote.<sp/>This<sp/>footnote<sp/>will<sp/>place<sp/>a<sp/>small<sp/>superscript<sp/>reference</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>mark<sp/>after<sp/>the<sp/>text<sp/>that<sp/>it<sp/>references<sp/>and<sp/>create<sp/>an<sp/>entry<sp/>below<sp/>the<sp/>main<sp/>body<sp/>text<sp/>at<sp/>the<sp/>bottom<sp/>of<sp/>the<sp/>page.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>contain<sp/>the<sp/>footnote&apos;s<sp/>reference<sp/>mark<sp/>and<sp/>the<sp/>reference<sp/>text,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>we<sp/>will<sp/>pass<sp/>to<sp/>the<sp/>document<sp/>builder&apos;s<sp/>&quot;InsertFootnote&quot;<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Main<sp/>body<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Footnote&gt;<sp/>footnote<sp/>=<sp/>builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" kindref="member" tooltip="The object is a footnote.">FootnoteType::Footnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>this<sp/>property<sp/>is<sp/>set<sp/>to<sp/>&quot;true&quot;,<sp/>then<sp/>our<sp/>footnote&apos;s<sp/>reference<sp/>mark</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>will<sp/>be<sp/>its<sp/>index<sp/>among<sp/>all<sp/>the<sp/>section&apos;s<sp/>footnotes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>is<sp/>the<sp/>first<sp/>footnote,<sp/>so<sp/>the<sp/>reference<sp/>mark<sp/>will<sp/>be<sp/>&quot;1&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(footnote-&gt;get_IsAuto());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>move<sp/>the<sp/>document<sp/>builder<sp/>inside<sp/>the<sp/>footnote<sp/>to<sp/>edit<sp/>its<sp/>reference<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveTo(footnote-&gt;get_FirstParagraph());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;<sp/>More<sp/>text<sp/>added<sp/>by<sp/>a<sp/>DocumentBuilder.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveToDocumentEnd();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;\u0002<sp/>Footnote<sp/>text.<sp/>More<sp/>text<sp/>added<sp/>by<sp/>a<sp/>DocumentBuilder.&quot;</highlight><highlight class="normal">,<sp/>footnote-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;<sp/>More<sp/>main<sp/>body<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">footnote<sp/>=<sp/>builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" kindref="member" tooltip="The object is a footnote.">FootnoteType::Footnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>a<sp/>custom<sp/>reference<sp/>mark<sp/>which<sp/>the<sp/>footnote<sp/>will<sp/>use<sp/>instead<sp/>of<sp/>its<sp/>index<sp/>number.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">footnote-&gt;set_ReferenceMark(u</highlight><highlight class="stringliteral">&quot;RefMark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(footnote-&gt;get_IsAuto());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>bookmark<sp/>with<sp/>the<sp/>&quot;IsAuto&quot;<sp/>flag<sp/>set<sp/>to<sp/>true<sp/>will<sp/>still<sp/>show<sp/>its<sp/>real<sp/>index</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>even<sp/>if<sp/>previous<sp/>bookmarks<sp/>display<sp/>custom<sp/>reference<sp/>marks,<sp/>so<sp/>this<sp/>bookmark&apos;s<sp/>reference<sp/>mark<sp/>will<sp/>be<sp/>a<sp/>&quot;3&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;<sp/>More<sp/>main<sp/>body<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">footnote<sp/>=<sp/>builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" kindref="member" tooltip="The object is a footnote.">FootnoteType::Footnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(footnote-&gt;get_IsAuto());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;InlineStory.AddFootnote.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Notes/Footnote.h" line="295" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a2d0d0cf8a6a0ebdd32dd42e8022b7893" prot="public" static="no" const="yes" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379" kindref="member">Aspose::Words::NodeType</ref></type>
+        <definition>Aspose::Words::NodeType Aspose::Words::Notes::Footnote::get_NodeType</definition>
+        <argsstring>() const override</argsstring>
+        <name>get_NodeType</name>
+        <qualifiedname>Aspose::Words::Notes::Footnote::get_NodeType</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_node_1a7f80e8d96b7a072fca14157b25ae025e">get_NodeType</reimplements>
+        <briefdescription>
+<para>Returns <bold>NodeType.Footnote</bold>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to traverse a composite node&apos;s tree of child nodes. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>RecurseChildren()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraphs.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Any<sp/>node<sp/>that<sp/>can<sp/>contain<sp/>child<sp/>nodes,<sp/>such<sp/>as<sp/>the<sp/>document<sp/>itself,<sp/>is<sp/>composite.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(doc-&gt;get_IsComposite());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Invoke<sp/>the<sp/>recursive<sp/>function<sp/>that<sp/>will<sp/>go<sp/>through<sp/>and<sp/>print<sp/>all<sp/>the<sp/>child<sp/>nodes<sp/>of<sp/>a<sp/>composite<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>TraverseAllNodes(doc,<sp/>0);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>TraverseAllNodes(SharedPtr&lt;CompositeNode&gt;<sp/>parentNode,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>depth)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(SharedPtr&lt;Node&gt;<sp/>childNode<sp/>=<sp/>parentNode-&gt;get_FirstChild();<sp/>childNode<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">;<sp/>childNode<sp/>=<sp/>childNode-&gt;get_NextSibling())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="charliteral">&apos;\t&apos;</highlight><highlight class="normal">,<sp/>depth))<sp/>&lt;&lt;<sp/><ref refid="class_aspose_1_1_words_1_1_node_1a0e46189d6dfa7a81c8fa2e2bd2354d61" kindref="member" tooltip="A utility method that converts a node type enum value into a user friendly string.">Node::NodeTypeToString</ref>(childNode-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Recurse<sp/>into<sp/>the<sp/>node<sp/>if<sp/>it<sp/>is<sp/>a<sp/>composite<sp/>node.<sp/>Otherwise,<sp/>print<sp/>its<sp/>contents<sp/>if<sp/>it<sp/>is<sp/>an<sp/>inline<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(childNode-&gt;get_IsComposite())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>TraverseAllNodes(System::DynamicCast&lt;CompositeNode&gt;(childNode),<sp/>depth<sp/>+<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(System::ObjectExt::Is&lt;Inline&gt;(childNode))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>-<sp/>\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>childNode-&gt;GetText().Trim()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Notes/Footnote.h" line="155" column="32"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a96f8542f9bf0d69b0f072501a657fed2" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Notes::Footnote::get_ReferenceMark</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ReferenceMark</name>
+        <qualifiedname>Aspose::Words::Notes::Footnote::get_ReferenceMark</qualifiedname>
+        <briefdescription>
+<para>Gets/sets custom reference mark to be used for this footnote. Default value is <bold>empty string</bold>, meaning auto-numbered footnotes are used. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>If this property is set to <bold>empty string</bold> or null, then <ref refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a43f25c64ae94f15d2a4f16fa434b4e4a" kindref="member">IsAuto</ref> property will automatically be set to true, if set to anything else then <ref refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a43f25c64ae94f15d2a4f16fa434b4e4a" kindref="member">IsAuto</ref> will be set to false.</para>
+<para>RTF-format can only store 1 symbol as custom reference mark, so upon export only the first symbol will be written others will be discard.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert and customize footnotes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>text,<sp/>and<sp/>reference<sp/>it<sp/>with<sp/>a<sp/>footnote.<sp/>This<sp/>footnote<sp/>will<sp/>place<sp/>a<sp/>small<sp/>superscript<sp/>reference</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>mark<sp/>after<sp/>the<sp/>text<sp/>that<sp/>it<sp/>references<sp/>and<sp/>create<sp/>an<sp/>entry<sp/>below<sp/>the<sp/>main<sp/>body<sp/>text<sp/>at<sp/>the<sp/>bottom<sp/>of<sp/>the<sp/>page.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>contain<sp/>the<sp/>footnote&apos;s<sp/>reference<sp/>mark<sp/>and<sp/>the<sp/>reference<sp/>text,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>we<sp/>will<sp/>pass<sp/>to<sp/>the<sp/>document<sp/>builder&apos;s<sp/>&quot;InsertFootnote&quot;<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Main<sp/>body<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Footnote&gt;<sp/>footnote<sp/>=<sp/>builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" kindref="member" tooltip="The object is a footnote.">FootnoteType::Footnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>this<sp/>property<sp/>is<sp/>set<sp/>to<sp/>&quot;true&quot;,<sp/>then<sp/>our<sp/>footnote&apos;s<sp/>reference<sp/>mark</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>will<sp/>be<sp/>its<sp/>index<sp/>among<sp/>all<sp/>the<sp/>section&apos;s<sp/>footnotes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>is<sp/>the<sp/>first<sp/>footnote,<sp/>so<sp/>the<sp/>reference<sp/>mark<sp/>will<sp/>be<sp/>&quot;1&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(footnote-&gt;get_IsAuto());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>move<sp/>the<sp/>document<sp/>builder<sp/>inside<sp/>the<sp/>footnote<sp/>to<sp/>edit<sp/>its<sp/>reference<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveTo(footnote-&gt;get_FirstParagraph());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;<sp/>More<sp/>text<sp/>added<sp/>by<sp/>a<sp/>DocumentBuilder.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveToDocumentEnd();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;\u0002<sp/>Footnote<sp/>text.<sp/>More<sp/>text<sp/>added<sp/>by<sp/>a<sp/>DocumentBuilder.&quot;</highlight><highlight class="normal">,<sp/>footnote-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;<sp/>More<sp/>main<sp/>body<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">footnote<sp/>=<sp/>builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" kindref="member" tooltip="The object is a footnote.">FootnoteType::Footnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>a<sp/>custom<sp/>reference<sp/>mark<sp/>which<sp/>the<sp/>footnote<sp/>will<sp/>use<sp/>instead<sp/>of<sp/>its<sp/>index<sp/>number.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">footnote-&gt;set_ReferenceMark(u</highlight><highlight class="stringliteral">&quot;RefMark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(footnote-&gt;get_IsAuto());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>bookmark<sp/>with<sp/>the<sp/>&quot;IsAuto&quot;<sp/>flag<sp/>set<sp/>to<sp/>true<sp/>will<sp/>still<sp/>show<sp/>its<sp/>real<sp/>index</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>even<sp/>if<sp/>previous<sp/>bookmarks<sp/>display<sp/>custom<sp/>reference<sp/>marks,<sp/>so<sp/>this<sp/>bookmark&apos;s<sp/>reference<sp/>mark<sp/>will<sp/>be<sp/>a<sp/>&quot;3&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;<sp/>More<sp/>main<sp/>body<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">footnote<sp/>=<sp/>builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" kindref="member" tooltip="The object is a footnote.">FootnoteType::Footnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(footnote-&gt;get_IsAuto());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;InlineStory.AddFootnote.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Notes/Footnote.h" line="351" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_notes_1_1_footnote_1aeca093808471504db8e92e995a472ccb" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a94116f2446f9aa6f89d2b97593ffa119" kindref="member">Aspose::Words::StoryType</ref></type>
+        <definition>Aspose::Words::StoryType Aspose::Words::Notes::Footnote::get_StoryType</definition>
+        <argsstring>() override</argsstring>
+        <name>get_StoryType</name>
+        <qualifiedname>Aspose::Words::Notes::Footnote::get_StoryType</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_inline_story_1a8458ba774700d3d6a19ef41afde6b19f">get_StoryType</reimplements>
+        <briefdescription>
+<para>Returns <bold>StoryType.Footnotes</bold> or <bold>StoryType.Endnotes</bold>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert <ref refid="class_aspose_1_1_words_1_1_inline_story" kindref="compound">InlineStory</ref> nodes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Footnote&gt;<sp/>footnote<sp/>=<sp/>builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" kindref="member" tooltip="The object is a footnote.">FootnoteType::Footnote</ref>,<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Table<sp/>nodes<sp/>have<sp/>an<sp/>&quot;EnsureMinimum()&quot;<sp/>method<sp/>that<sp/>makes<sp/>sure<sp/>the<sp/>table<sp/>has<sp/>at<sp/>least<sp/>one<sp/>cell.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>table<sp/>=<sp/>MakeObject&lt;Table&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">table-&gt;EnsureMinimum();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>place<sp/>a<sp/>table<sp/>inside<sp/>a<sp/>footnote,<sp/>which<sp/>will<sp/>make<sp/>it<sp/>appear<sp/>at<sp/>the<sp/>referencing<sp/>page&apos;s<sp/>footer.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>footnote-&gt;get_Tables()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">footnote-&gt;AppendChild(table);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>footnote-&gt;get_Tables()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="A Table object that represents a table in a Word document. A Table node can have Row nodes.">NodeType::Table</ref>,<sp/>footnote-&gt;get_LastChild()-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>An<sp/>InlineStory<sp/>has<sp/>an<sp/>&quot;EnsureMinimum()&quot;<sp/>method<sp/>as<sp/>well,<sp/>but<sp/>in<sp/>this<sp/>case,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>it<sp/>makes<sp/>sure<sp/>the<sp/>last<sp/>child<sp/>of<sp/>the<sp/>node<sp/>is<sp/>a<sp/>paragraph,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>for<sp/>us<sp/>to<sp/>be<sp/>able<sp/>to<sp/>click<sp/>and<sp/>write<sp/>text<sp/>easily<sp/>in<sp/>Microsoft<sp/>Word.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">footnote-&gt;EnsureMinimum();</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>,<sp/>footnote-&gt;get_LastChild()-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Edit<sp/>the<sp/>appearance<sp/>of<sp/>the<sp/>anchor,<sp/>which<sp/>is<sp/>the<sp/>small<sp/>superscript<sp/>number</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>in<sp/>the<sp/>main<sp/>text<sp/>that<sp/>points<sp/>to<sp/>the<sp/>footnote.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">footnote-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">footnote-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>All<sp/>inline<sp/>story<sp/>nodes<sp/>have<sp/>their<sp/>respective<sp/>story<sp/>types.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a94116f2446f9aa6f89d2b97593ffa119a668f1dcdb78a4d16c7e4a2f20dcac198" kindref="member" tooltip="Contains footnote text, represented by Footnote.">StoryType::Footnotes</ref>,<sp/>footnote-&gt;get_StoryType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>comment<sp/>is<sp/>another<sp/>type<sp/>of<sp/>inline<sp/>story.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>comment<sp/>=<sp/>System::DynamicCast&lt;Comment&gt;(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_CurrentParagraph()-&gt;AppendChild(MakeObject&lt;Comment&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;J.<sp/>D.&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>())));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>parent<sp/>paragraph<sp/>of<sp/>an<sp/>inline<sp/>story<sp/>node<sp/>will<sp/>be<sp/>the<sp/>one<sp/>from<sp/>the<sp/>main<sp/>document<sp/>body.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_FirstParagraph(),<sp/>comment-&gt;get_ParentParagraph());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>However,<sp/>the<sp/>last<sp/>paragraph<sp/>is<sp/>the<sp/>one<sp/>from<sp/>the<sp/>comment<sp/>text<sp/>contents,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>be<sp/>outside<sp/>the<sp/>main<sp/>document<sp/>body<sp/>in<sp/>a<sp/>speech<sp/>bubble.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>comment<sp/>will<sp/>not<sp/>have<sp/>any<sp/>child<sp/>nodes<sp/>by<sp/>default,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>so<sp/>we<sp/>can<sp/>apply<sp/>the<sp/>EnsureMinimum()<sp/>method<sp/>to<sp/>place<sp/>a<sp/>paragraph<sp/>here<sp/>as<sp/>well.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(comment-&gt;get_LastParagraph()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">comment-&gt;EnsureMinimum();</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>,<sp/>comment-&gt;get_LastChild()-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Once<sp/>we<sp/>have<sp/>a<sp/>paragraph,<sp/>we<sp/>can<sp/>move<sp/>the<sp/>builder<sp/>to<sp/>do<sp/>it<sp/>and<sp/>write<sp/>our<sp/>comment.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveTo(comment-&gt;get_LastParagraph());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;My<sp/>comment.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a94116f2446f9aa6f89d2b97593ffa119a8413c683b4b27cc3f4dbd4c90329d8ba" kindref="member" tooltip="Contains document comments (annotations), represented by Comment.">StoryType::Comments</ref>,<sp/>comment-&gt;get_StoryType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;InlineStory.InsertInlineStoryNodes.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Notes/Footnote.h" line="214" column="33"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_notes_1_1_footnote_1aabcab454e6a8cdbddb0d1aaabf3b21b6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Notes::Footnote::set_IsAuto</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_IsAuto</name>
+        <qualifiedname>Aspose::Words::Notes::Footnote::set_IsAuto</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a43f25c64ae94f15d2a4f16fa434b4e4a" kindref="member">Aspose::Words::Notes::Footnote::get_IsAuto</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Notes/Footnote.h" line="298" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a9e5f476cba22bc4b89f065b7cf8862d7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Notes::Footnote::set_ReferenceMark</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ReferenceMark</name>
+        <qualifiedname>Aspose::Words::Notes::Footnote::set_ReferenceMark</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a96f8542f9bf0d69b0f072501a657fed2" kindref="member">Aspose::Words::Notes::Footnote::get_ReferenceMark</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Notes/Footnote.h" line="354" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents a container for text of a footnote or endnote. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>The <bold>Footnote</bold> class is used to represent both footnotes and endnotes in a Word document.</para>
+<para><bold>Footnote</bold> is an inline-level node and can only be a child of <bold>Paragraph</bold>.</para>
+<para><bold>Footnote</bold> can contain <bold>Paragraph</bold> and <bold>Table</bold> child nodes.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a1f0e650618ca1322c9816ff8e1b78a6e" kindref="member">Aspose::Words::Notes::Footnote::get_FootnoteType</ref> </para>
+</simplesect>
+<simplesect kind="see"><para>Aspose::Words::DocumentBuilder::InsertFootnote(Aspose::Words::Notes::FootnoteType, System::String) </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_options" kindref="compound">Aspose::Words::Notes::FootnoteOptions</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_notes_1_1_endnote_options" kindref="compound">Aspose::Words::Notes::EndnoteOptions</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert and customize footnotes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>text,<sp/>and<sp/>reference<sp/>it<sp/>with<sp/>a<sp/>footnote.<sp/>This<sp/>footnote<sp/>will<sp/>place<sp/>a<sp/>small<sp/>superscript<sp/>reference</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>mark<sp/>after<sp/>the<sp/>text<sp/>that<sp/>it<sp/>references<sp/>and<sp/>create<sp/>an<sp/>entry<sp/>below<sp/>the<sp/>main<sp/>body<sp/>text<sp/>at<sp/>the<sp/>bottom<sp/>of<sp/>the<sp/>page.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>contain<sp/>the<sp/>footnote&apos;s<sp/>reference<sp/>mark<sp/>and<sp/>the<sp/>reference<sp/>text,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>we<sp/>will<sp/>pass<sp/>to<sp/>the<sp/>document<sp/>builder&apos;s<sp/>&quot;InsertFootnote&quot;<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Main<sp/>body<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Footnote&gt;<sp/>footnote<sp/>=<sp/>builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" kindref="member" tooltip="The object is a footnote.">FootnoteType::Footnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>this<sp/>property<sp/>is<sp/>set<sp/>to<sp/>&quot;true&quot;,<sp/>then<sp/>our<sp/>footnote&apos;s<sp/>reference<sp/>mark</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>will<sp/>be<sp/>its<sp/>index<sp/>among<sp/>all<sp/>the<sp/>section&apos;s<sp/>footnotes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>is<sp/>the<sp/>first<sp/>footnote,<sp/>so<sp/>the<sp/>reference<sp/>mark<sp/>will<sp/>be<sp/>&quot;1&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(footnote-&gt;get_IsAuto());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>move<sp/>the<sp/>document<sp/>builder<sp/>inside<sp/>the<sp/>footnote<sp/>to<sp/>edit<sp/>its<sp/>reference<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveTo(footnote-&gt;get_FirstParagraph());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;<sp/>More<sp/>text<sp/>added<sp/>by<sp/>a<sp/>DocumentBuilder.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveToDocumentEnd();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;\u0002<sp/>Footnote<sp/>text.<sp/>More<sp/>text<sp/>added<sp/>by<sp/>a<sp/>DocumentBuilder.&quot;</highlight><highlight class="normal">,<sp/>footnote-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;<sp/>More<sp/>main<sp/>body<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">footnote<sp/>=<sp/>builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" kindref="member" tooltip="The object is a footnote.">FootnoteType::Footnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>a<sp/>custom<sp/>reference<sp/>mark<sp/>which<sp/>the<sp/>footnote<sp/>will<sp/>use<sp/>instead<sp/>of<sp/>its<sp/>index<sp/>number.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">footnote-&gt;set_ReferenceMark(u</highlight><highlight class="stringliteral">&quot;RefMark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(footnote-&gt;get_IsAuto());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>bookmark<sp/>with<sp/>the<sp/>&quot;IsAuto&quot;<sp/>flag<sp/>set<sp/>to<sp/>true<sp/>will<sp/>still<sp/>show<sp/>its<sp/>real<sp/>index</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>even<sp/>if<sp/>previous<sp/>bookmarks<sp/>display<sp/>custom<sp/>reference<sp/>marks,<sp/>so<sp/>this<sp/>bookmark&apos;s<sp/>reference<sp/>mark<sp/>will<sp/>be<sp/>a<sp/>&quot;3&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;<sp/>More<sp/>main<sp/>body<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">footnote<sp/>=<sp/>builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" kindref="member" tooltip="The object is a footnote.">FootnoteType::Footnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(footnote-&gt;get_IsAuto());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;InlineStory.AddFootnote.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="3">
+        <label>Aspose::Words::CompositeNode</label>
+        <link refid="class_aspose_1_1_words_1_1_composite_node"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>Aspose::Words::IInline</label>
+      </node>
+      <node id="7">
+        <label>Aspose::Words::INodeCollection</label>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::InlineStory</label>
+        <link refid="class_aspose_1_1_words_1_1_inline_story"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Node</label>
+        <link refid="class_aspose_1_1_words_1_1_node"/>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Notes::Footnote</label>
+        <link refid="class_aspose_1_1_words_1_1_notes_1_1_footnote"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="9">
+        <label>Aspose::Words::Revisions::ITrackableNode</label>
+      </node>
+      <node id="6">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Node &gt; &gt;</label>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>Aspose::Words::CompositeNode</label>
+        <link refid="class_aspose_1_1_words_1_1_composite_node"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="6" relation="public-inheritance">
+        </childnode>
+        <childnode refid="7" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>Aspose::Words::IInline</label>
+      </node>
+      <node id="7">
+        <label>Aspose::Words::INodeCollection</label>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::InlineStory</label>
+        <link refid="class_aspose_1_1_words_1_1_inline_story"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="8" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Node</label>
+        <link refid="class_aspose_1_1_words_1_1_node"/>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Notes::Footnote</label>
+        <link refid="class_aspose_1_1_words_1_1_notes_1_1_footnote"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="9" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="9">
+        <label>Aspose::Words::Revisions::ITrackableNode</label>
+      </node>
+      <node id="6">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Node &gt; &gt;</label>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Notes/Footnote.h" line="100" column="1" bodyfile="Aspose.Words.Cpp/Notes/Footnote.h" bodystart="101" bodyend="545"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a73754d6fec636b7f8e35eee1bf8bee21" prot="public" virt="virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>Accept</name></member>
+      <member refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a385946acaeda08aa24a3533c6c804e65" prot="private" virt="virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>AcceptEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a602c29cde1133c233b1477724452b006" prot="private" virt="virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>AcceptStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1af74bc4213aebbe5fd01d2fc0f08b2bec" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>AppendChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a9305b27b1c0c390189af3b0a5a943cbe" prot="private" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a1e91f69c71829cc994de939600d97425" prot="private" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a81dedd9b241b09760112b5e5068f1daa" prot="public" virt="non-virtual" ambiguityscope="Aspose::Words::Node::"><scope>Aspose::Words::Notes::Footnote</scope><name>Clone</name></member>
+      <member refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a2e847d140ec1de3eb1104e74ec3a263d" prot="private" virt="virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>CppMemberwiseClone</name></member>
+      <member refid="class_aspose_1_1_words_1_1_inline_story_1add39c7dee4940caecfc1c5d0ec8dc181" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>EnsureMinimum</name></member>
+      <member refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1aaf23116e2c6332488db0b96c0af41d37" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>Footnote</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a98d9935dcf818989566431ab3b75bbed" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_ChildNodes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a801d3d549eb73e216df5b7a64d9e1c68" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a941120df17372b25f9a7127a9d9b3816" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_CustomNodeId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a2a69f84e3ccd323199299c999ab32d46" prot="public" virt="virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_Document</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a052d0e4560975f6c19c77bf19d82eedf" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_FirstChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_inline_story_1afdc3007f753643ee3d837d5059b2aed7" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_FirstParagraph</name></member>
+      <member refid="class_aspose_1_1_words_1_1_inline_story_1adeeae00f619ce915bc99c52f16c9d491" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_Font</name></member>
+      <member refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a1f0e650618ca1322c9816ff8e1b78a6e" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_FootnoteType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a4b939686e9a6a245a31cf392d202316d" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_HasChildNodes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a43f25c64ae94f15d2a4f16fa434b4e4a" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_IsAuto</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a96cf2dd90a284fe9939d1d90780d2d4b" prot="public" virt="virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_IsComposite</name></member>
+      <member refid="class_aspose_1_1_words_1_1_inline_story_1aa5df2b5daee50645bf6906f7275885ce" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_IsDeleteRevision</name></member>
+      <member refid="class_aspose_1_1_words_1_1_inline_story_1a2bc95ecea1c6ef3fffbfa757427364a7" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_IsInsertRevision</name></member>
+      <member refid="class_aspose_1_1_words_1_1_inline_story_1a9dcbaac8693e544ff5a7f73f449cb280" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_IsMoveFromRevision</name></member>
+      <member refid="class_aspose_1_1_words_1_1_inline_story_1a941a29c595f5abd8d415948daa542d76" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_IsMoveToRevision</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a58fae512d8549219b7c3a17ef2d46439" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_LastChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_inline_story_1ac562899f1e65a03e4d02b4bc7430cb7e" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_LastParagraph</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a938ff32d060619d89ecefdf57984abf8" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_NextSibling</name></member>
+      <member refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a2d0d0cf8a6a0ebdd32dd42e8022b7893" prot="public" virt="virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_NodeType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_inline_story_1a75d66b36017fa596add159f9762832dc" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_Paragraphs</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1ab9e608488885c65a2a165dea6645d15e" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_ParentNode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_inline_story_1aa441ec921695b865099fb4d64e441378" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_ParentParagraph</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a6013fe75e5859c54d12a87f9b97fa7f3" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_PreviousSibling</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a0f8077bf80409ba331148095b95bc3e5" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_Range</name></member>
+      <member refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a96f8542f9bf0d69b0f072501a657fed2" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_ReferenceMark</name></member>
+      <member refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1aeca093808471504db8e92e995a472ccb" prot="public" virt="virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_StoryType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_inline_story_1ad4723a892718a02095d5c55d87ec4211" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>get_Tables</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a951706cfa681573e79a56204a2029e9e" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>GetAncestor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1ae19991f4d5aa7ccb60ce6d7207495f1c" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>GetAncestorOf</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a6d961b080681f8dc6ee551c6c0ce44da" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>GetChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1ae1fc746cc70cea4c9ab30caf39aec146" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>GetChildNodes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a6d3cc4280067e07fd504c11e6c968419" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>GetEnumerator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a08b4d2cc617495b60d85a550422e2d8f" prot="public" virt="virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>GetText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1ac0cfce6ca5295fe714f5da1e8e244d9e" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>IndexOf</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a2b6e91eabfc75b02062ae6714cd95ec2" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>InsertAfter</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a247cedb3f1fe5474c87f5b5fa0dcd995" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>InsertBefore</name></member>
+      <member refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1abddd8c3d569803075fb57c9d3a8a978a" prot="private" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a561b63452e97aa0ec0861ac55ce1d5c8" prot="private" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1aee3a7819b8e40d4cb3162f5e90fd9c14" prot="private" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a4f6979e06a5914aeb37a9cb8448658a6" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>NextPreOrder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a0e46189d6dfa7a81c8fa2e2bd2354d61" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>NodeTypeToString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1abae3ff6d970ba209cf4eb1c539b205ee" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>PrependChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1af40f9573daf950d978d211d3e75c6a95" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>PreviousPreOrder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a75a9cc0fda5ec9c8aaa1c4910af8f28c" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a4afce861f4df13714988e44419374f21" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>RemoveAllChildren</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a28888dd687866f66b3bb221e63b5063c" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>RemoveChild</name></member>
+      <member refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1ad9a728e3bb649dfb7d7376d37b4b3660" prot="private" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>RemoveMoveRevisions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a5a00bfd5d2e04d5752d96e226a3f5849" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>RemoveSmartTags</name></member>
+      <member refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a29eccdaf0463115eaf1dea9c266b5b89" prot="private" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a553923ba5225bd3d28f1960b72b45f4f" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>SelectNodes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1aa2eb340deba06c3dcb7cc29dfeca5a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>SelectSingleNode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1a0d412cc05de7836acb92332e55eea267" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>set_CustomNodeId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1aabcab454e6a8cdbddb0d1aaabf3b21b6" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>set_IsAuto</name></member>
+      <member refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a9e5f476cba22bc4b89f065b7cf8862d7" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>set_ReferenceMark</name></member>
+      <member refid="class_aspose_1_1_words_1_1_composite_node_1a29e186f28a68773c7c7679079c77d827" prot="public" virt="virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>SetTemplateWeakPtr</name></member>
+      <member refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a80638aea3047ece71aefa0fdd5a6bb63" prot="private" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1aa84c03bac9510d03a77c79d2273cb16d" prot="private" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1af7aa71ab5f185ee2463406dab7727595" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>ToString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_1ad18f64c5586b84a071957824b24426a2" prot="public" virt="non-virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>ToString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a7a109741751b66da1258e84f87db4bf9" prot="private" virt="virtual"><scope>Aspose::Words::Notes::Footnote</scope><name>~Footnote</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

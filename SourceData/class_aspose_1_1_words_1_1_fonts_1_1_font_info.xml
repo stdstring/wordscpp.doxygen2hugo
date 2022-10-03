@@ -1,0 +1,851 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fonts_1_1_font_info" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fonts::FontInfo</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_font_info_8h" local="no">Aspose.Words.Cpp/Fonts/FontInfo.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1ac441c9c25a60ae6655091e1692b91ded" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Fonts::FontInfo::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="67" column="28" bodyfile="Aspose.Words.Cpp/Fonts/FontInfo.h" bodystart="67" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a5c301856513bc6a1e6eddaad0d59360b" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info" kindref="compound">FontInfo</ref></type>
+        <definition>typedef FontInfo Aspose::Words::Fonts::FontInfo::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="66" column="22" bodyfile="Aspose.Words.Cpp/Fonts/FontInfo.h" bodystart="66" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a9da0ecf470b89534ad823f4e76a6dfc1" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Fonts::FontInfo::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="69" column="37" bodyfile="Aspose.Words.Cpp/Fonts/FontInfo.h" bodystart="69" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a0b579befa76cee60fbf4872aa7d8498f" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Fonts::FontInfo::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="408" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontInfo.h" bodystart="408" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a7691c647226d03200197edbbfdea8ef5" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Fonts::FontInfo::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="409" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontInfo.h" bodystart="409" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a3c6685cd290dea54637a17bfd27559e2" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fonts::FontInfo::mField10</definition>
+        <argsstring></argsstring>
+        <name>mField10</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::mField10</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="418" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontInfo.h" bodystart="418" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a6971acdabd2d306d837a91c7de6c44ab" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Fonts::FontInfo::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="410" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontInfo.h" bodystart="410" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a7c36107288888929a8396d3f00b15fa1" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Fonts::FontInfo::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="411" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontInfo.h" bodystart="411" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a5e3a384131103d040342e3de1fbf2113" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Fonts::FontInfo::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="412" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontInfo.h" bodystart="412" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1ad7ddddf14ee43dd042980e58cfce3e88" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fonts::FontInfo::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="413" column="20" bodyfile="Aspose.Words.Cpp/Fonts/FontInfo.h" bodystart="413" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a9f42d0382a78457b8ce9490a4dba4a95" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fonts::FontInfo::mField6</definition>
+        <argsstring></argsstring>
+        <name>mField6</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::mField6</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="414" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontInfo.h" bodystart="414" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a60ee9b1d3aae05400d01544459613bbc" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fonts::FontInfo::mField7</definition>
+        <argsstring></argsstring>
+        <name>mField7</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::mField7</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="415" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontInfo.h" bodystart="415" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1aacd1aac1791198d447c93575b5abe023" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fonts::FontInfo::mField8</definition>
+        <argsstring></argsstring>
+        <name>mField8</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::mField8</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="416" column="20" bodyfile="Aspose.Words.Cpp/Fonts/FontInfo.h" bodystart="416" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a1f42e2e1d03cd5dfe41e697f3b5290c2" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fonts::FontInfo::mField9</definition>
+        <argsstring></argsstring>
+        <name>mField9</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::mField9</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="417" column="20" bodyfile="Aspose.Words.Cpp/Fonts/FontInfo.h" bodystart="417" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a12221e40739f323a1dbc82bde28d9180" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fonts::FontInfo::FontInfo</definition>
+        <argsstring>()</argsstring>
+        <name>FontInfo</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::FontInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="404" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1ac87c286f906a056dd2b674a089034827" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fonts::FontInfo::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="70" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a48ee3b8efec37eced5842ac14b5ddb6b" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fonts::FontInfo::get_AltName</definition>
+        <argsstring>() const</argsstring>
+        <name>get_AltName</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::get_AltName</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the alternate name for the font. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Cannot be <computeroutput>null</computeroutput>. Can be an empty string.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access and print details of each font in a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;FontInfo&gt;&gt;&gt;<sp/>fontCollectionEnumerator<sp/>=<sp/>doc-&gt;get_FontInfos()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(fontCollectionEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FontInfo&gt;<sp/>fontInfo<sp/>=<sp/>fontCollectionEnumerator-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(fontInfo<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Font<sp/>name:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Name())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Alt<sp/>names<sp/>are<sp/>usually<sp/>blank.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Alt<sp/>name:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_AltName())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Family:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(fontInfo-&gt;get_Family()))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>(fontInfo-&gt;get_IsTrueType()<sp/>?<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Is<sp/>TrueType&quot;</highlight><highlight class="normal">)<sp/>:<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Is<sp/>not<sp/>TrueType&quot;</highlight><highlight class="normal">)))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Pitch:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(fontInfo-&gt;get_Pitch()))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Charset:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Charset())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t-<sp/>Panose:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tFamily<sp/>Kind:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[0])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tSerif<sp/>Style:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[1])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tWeight:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[2])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tProportion:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[3])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tContrast:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[4])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tStroke<sp/>Variation:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[5])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tArm<sp/>Style:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[6])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tLetterform:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[7])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tMidline:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[8])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tX-Height:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[9])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="328" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a6f629137d3b1475c837e9db6d5550e5d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Fonts::FontInfo::get_Charset</definition>
+        <argsstring>()</argsstring>
+        <name>get_Charset</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::get_Charset</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the character set for the font. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access and print details of each font in a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;FontInfo&gt;&gt;&gt;<sp/>fontCollectionEnumerator<sp/>=<sp/>doc-&gt;get_FontInfos()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(fontCollectionEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FontInfo&gt;<sp/>fontInfo<sp/>=<sp/>fontCollectionEnumerator-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(fontInfo<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Font<sp/>name:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Name())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Alt<sp/>names<sp/>are<sp/>usually<sp/>blank.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Alt<sp/>name:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_AltName())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Family:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(fontInfo-&gt;get_Family()))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>(fontInfo-&gt;get_IsTrueType()<sp/>?<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Is<sp/>TrueType&quot;</highlight><highlight class="normal">)<sp/>:<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Is<sp/>not<sp/>TrueType&quot;</highlight><highlight class="normal">)))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Pitch:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(fontInfo-&gt;get_Pitch()))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Charset:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Charset())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t-<sp/>Panose:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tFamily<sp/>Kind:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[0])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tSerif<sp/>Style:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[1])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tWeight:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[2])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tProportion:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[3])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tContrast:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[4])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tStroke<sp/>Variation:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[5])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tArm<sp/>Style:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[6])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tLetterform:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[7])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tMidline:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[8])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tX-Height:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[9])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="216" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a00edba65006479603129eabfed238122" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a064128cb16d49c80521c43bd2ddea22b" kindref="member">Aspose::Words::Fonts::FontFamily</ref></type>
+        <definition>Aspose::Words::Fonts::FontFamily Aspose::Words::Fonts::FontInfo::get_Family</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Family</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::get_Family</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the font family this font belongs to. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access and print details of each font in a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;FontInfo&gt;&gt;&gt;<sp/>fontCollectionEnumerator<sp/>=<sp/>doc-&gt;get_FontInfos()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(fontCollectionEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FontInfo&gt;<sp/>fontInfo<sp/>=<sp/>fontCollectionEnumerator-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(fontInfo<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Font<sp/>name:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Name())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Alt<sp/>names<sp/>are<sp/>usually<sp/>blank.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Alt<sp/>name:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_AltName())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Family:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(fontInfo-&gt;get_Family()))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>(fontInfo-&gt;get_IsTrueType()<sp/>?<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Is<sp/>TrueType&quot;</highlight><highlight class="normal">)<sp/>:<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Is<sp/>not<sp/>TrueType&quot;</highlight><highlight class="normal">)))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Pitch:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(fontInfo-&gt;get_Pitch()))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Charset:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Charset())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t-<sp/>Panose:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tFamily<sp/>Kind:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[0])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tSerif<sp/>Style:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[1])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tWeight:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[2])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tProportion:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[3])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tContrast:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[4])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tStroke<sp/>Variation:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[5])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tArm<sp/>Style:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[6])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tLetterform:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[7])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tMidline:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[8])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tX-Height:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[9])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="175" column="41"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1ae55887c36e67a6cd132dd8b13b28674a" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fonts::FontInfo::get_IsTrueType</definition>
+        <argsstring>() const</argsstring>
+        <name>get_IsTrueType</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::get_IsTrueType</qualifiedname>
+        <briefdescription>
+<para>Indicates that this font is a TrueType or OpenType font as opposed to a raster or vector font. Default is true. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to print the details of what fonts are present in a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Embedded<sp/>font.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Aspose::Words::Fonts::FontInfoCollection&gt;<sp/>allFonts<sp/>=<sp/>doc-&gt;get_FontInfos();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Print<sp/>all<sp/>the<sp/>used<sp/>and<sp/>unused<sp/>fonts<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>allFonts-&gt;get_Count();<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Font<sp/>index<sp/>#&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>i<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tName:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>allFonts-&gt;idx_get(i)-&gt;get_Name()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tIs<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>(allFonts-&gt;idx_get(i)-&gt;get_IsTrueType()<sp/>?<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">)<sp/>:<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;not<sp/>&quot;</highlight><highlight class="normal">))<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;a<sp/>trueType<sp/>font&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="134" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1abf69cfad5729d7c31c30207158b9d69f" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fonts::FontInfo::get_Name</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Name</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::get_Name</qualifiedname>
+        <briefdescription>
+<para>Gets the name of the font. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Cannot be <computeroutput>null</computeroutput>. Can be an empty string.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to print the details of what fonts are present in a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Embedded<sp/>font.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Aspose::Words::Fonts::FontInfoCollection&gt;<sp/>allFonts<sp/>=<sp/>doc-&gt;get_FontInfos();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Print<sp/>all<sp/>the<sp/>used<sp/>and<sp/>unused<sp/>fonts<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>allFonts-&gt;get_Count();<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Font<sp/>index<sp/>#&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>i<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tName:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>allFonts-&gt;idx_get(i)-&gt;get_Name()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tIs<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>(allFonts-&gt;idx_get(i)-&gt;get_IsTrueType()<sp/>?<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">)<sp/>:<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;not<sp/>&quot;</highlight><highlight class="normal">))<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;a<sp/>trueType<sp/>font&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="288" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a36652ccca03a2b0b1b3f71a4b38645a4" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt;</type>
+        <definition>System::ArrayPtr&lt; uint8_t &gt; Aspose::Words::Fonts::FontInfo::get_Panose</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Panose</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::get_Panose</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the PANOSE typeface classification number. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>PANOSE is a compact 10-byte description of a fonts critical visual characteristics, such as contrast, weight, and serif style. The digits represent Family Kind, Serif <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Style</ref>, Weight, Proportion, Contrast, Stroke Variation, Arm <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Style</ref>, Letterform, Midline, and X-Height.</para>
+<para>Can be <computeroutput>null</computeroutput>.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access and print details of each font in a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;FontInfo&gt;&gt;&gt;<sp/>fontCollectionEnumerator<sp/>=<sp/>doc-&gt;get_FontInfos()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(fontCollectionEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FontInfo&gt;<sp/>fontInfo<sp/>=<sp/>fontCollectionEnumerator-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(fontInfo<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Font<sp/>name:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Name())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Alt<sp/>names<sp/>are<sp/>usually<sp/>blank.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Alt<sp/>name:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_AltName())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Family:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(fontInfo-&gt;get_Family()))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>(fontInfo-&gt;get_IsTrueType()<sp/>?<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Is<sp/>TrueType&quot;</highlight><highlight class="normal">)<sp/>:<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Is<sp/>not<sp/>TrueType&quot;</highlight><highlight class="normal">)))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Pitch:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(fontInfo-&gt;get_Pitch()))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Charset:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Charset())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t-<sp/>Panose:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tFamily<sp/>Kind:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[0])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tSerif<sp/>Style:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[1])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tWeight:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[2])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tProportion:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[3])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tContrast:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[4])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tStroke<sp/>Variation:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[5])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tArm<sp/>Style:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[6])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tLetterform:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[7])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tMidline:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[8])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tX-Height:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[9])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="263" column="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a9805f1418f0e753696311cc039509b47" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_fonts_1ae8efc61e3f935f55d860aed0546a2ec1" kindref="member">Aspose::Words::Fonts::FontPitch</ref></type>
+        <definition>Aspose::Words::Fonts::FontPitch Aspose::Words::Fonts::FontInfo::get_Pitch</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Pitch</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::get_Pitch</qualifiedname>
+        <briefdescription>
+<para>The pitch indicates if the font is fixed pitch, proportionally spaced, or relies on a default setting. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access and print details of each font in a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;FontInfo&gt;&gt;&gt;<sp/>fontCollectionEnumerator<sp/>=<sp/>doc-&gt;get_FontInfos()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(fontCollectionEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FontInfo&gt;<sp/>fontInfo<sp/>=<sp/>fontCollectionEnumerator-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(fontInfo<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Font<sp/>name:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Name())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Alt<sp/>names<sp/>are<sp/>usually<sp/>blank.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Alt<sp/>name:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_AltName())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Family:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(fontInfo-&gt;get_Family()))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>(fontInfo-&gt;get_IsTrueType()<sp/>?<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Is<sp/>TrueType&quot;</highlight><highlight class="normal">)<sp/>:<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Is<sp/>not<sp/>TrueType&quot;</highlight><highlight class="normal">)))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Pitch:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(fontInfo-&gt;get_Pitch()))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Charset:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Charset())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t-<sp/>Panose:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tFamily<sp/>Kind:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[0])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tSerif<sp/>Style:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[1])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tWeight:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[2])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tProportion:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[3])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tContrast:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[4])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tStroke<sp/>Variation:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[5])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tArm<sp/>Style:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[6])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tLetterform:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[7])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tMidline:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[8])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tX-Height:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[9])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="110" column="40"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a73edfd01d6541df7df73300e8272a66c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt;</type>
+        <definition>System::ArrayPtr&lt; uint8_t &gt; Aspose::Words::Fonts::FontInfo::GetEmbeddedFont</definition>
+        <argsstring>(Aspose::Words::Fonts::EmbeddedFontFormat format, Aspose::Words::Fonts::EmbeddedFontStyle style)</argsstring>
+        <name>GetEmbeddedFont</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::GetEmbeddedFont</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_fonts_1aa8323c947fe5f32c318d27d39ab91f51" kindref="member">Aspose::Words::Fonts::EmbeddedFontFormat</ref></type>
+          <declname>format</declname>
+        </param>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56" kindref="member">Aspose::Words::Fonts::EmbeddedFontStyle</ref></type>
+          <declname>style</declname>
+        </param>
+        <briefdescription>
+<para>Gets a specific embedded font file. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>format</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Specifies the font format to retrieve. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>style</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Specifies the font style to retrieve.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Returns <computeroutput>null</computeroutput> if the specified font is not embedded.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to extract an embedded font from a document, and save it to the local file system. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Embedded<sp/>font.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FontInfo&gt;<sp/>embeddedFont<sp/>=<sp/>doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;uint8_t&gt;<sp/>embeddedFontBytes<sp/>=<sp/>embeddedFont-&gt;GetEmbeddedFont(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1aa8323c947fe5f32c318d27d39ab91f51a91cdc78c52608d9ae56e8ed641636b99" kindref="member" tooltip="Specifies font, embedded as plain copy of OpenType (TrueType) font file. This format of embedded font...">EmbeddedFontFormat::OpenType</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.i_o.file/_1a2bff5b0fbdb0ef68ad612a665efeac56" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::WriteAllBytes</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.ttf&quot;</highlight><highlight class="normal">,<sp/>embeddedFontBytes);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Embedded<sp/>font<sp/>formats<sp/>may<sp/>be<sp/>different<sp/>in<sp/>other<sp/>formats<sp/>such<sp/>as<sp/>.doc.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>need<sp/>to<sp/>know<sp/>the<sp/>correct<sp/>format<sp/>before<sp/>we<sp/>can<sp/>extract<sp/>the<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Embedded<sp/>font.doc&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">)-&gt;GetEmbeddedFont(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1aa8323c947fe5f32c318d27d39ab91f51a91cdc78c52608d9ae56e8ed641636b99" kindref="member" tooltip="Specifies font, embedded as plain copy of OpenType (TrueType) font file. This format of embedded font...">EmbeddedFontFormat::OpenType</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>)<sp/>==</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">)-&gt;GetEmbeddedFont(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1aa8323c947fe5f32c318d27d39ab91f51a6f172d13875bbc14d80601bb10c35427" kindref="member" tooltip="Specifies Embedded OpenType (EOT) File Format. This format of embedded fonts used in DOC files.">EmbeddedFontFormat::EmbeddedOpenType</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>)<sp/>==</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Also,<sp/>we<sp/>can<sp/>convert<sp/>embedded<sp/>OpenType<sp/>format,<sp/>which<sp/>comes<sp/>from<sp/>.doc<sp/>documents,<sp/>to<sp/>OpenType.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">embeddedFontBytes<sp/>=<sp/>doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">)-&gt;GetEmbeddedFontAsOpenType(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.i_o.file/_1a2bff5b0fbdb0ef68ad612a665efeac56" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::WriteAllBytes</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.otf&quot;</highlight><highlight class="normal">,<sp/>embeddedFontBytes);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="366" column="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a9daac63dbe36db3e172e8cae97f44f7f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt;</type>
+        <definition>System::ArrayPtr&lt; uint8_t &gt; Aspose::Words::Fonts::FontInfo::GetEmbeddedFontAsOpenType</definition>
+        <argsstring>(Aspose::Words::Fonts::EmbeddedFontStyle style)</argsstring>
+        <name>GetEmbeddedFontAsOpenType</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::GetEmbeddedFontAsOpenType</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56" kindref="member">Aspose::Words::Fonts::EmbeddedFontStyle</ref></type>
+          <declname>style</declname>
+        </param>
+        <briefdescription>
+<para>Gets an embedded font file in OpenType format. <ref refid="namespace_aspose_1_1_words_1_1_fonts" kindref="compound">Fonts</ref> in Embedded OpenType format are converted to OpenType. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>style</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Specifies the font style to retrieve.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>Returns <computeroutput>null</computeroutput> if the specified font is not embedded.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to extract an embedded font from a document, and save it to the local file system. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Embedded<sp/>font.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FontInfo&gt;<sp/>embeddedFont<sp/>=<sp/>doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;uint8_t&gt;<sp/>embeddedFontBytes<sp/>=<sp/>embeddedFont-&gt;GetEmbeddedFont(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1aa8323c947fe5f32c318d27d39ab91f51a91cdc78c52608d9ae56e8ed641636b99" kindref="member" tooltip="Specifies font, embedded as plain copy of OpenType (TrueType) font file. This format of embedded font...">EmbeddedFontFormat::OpenType</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.i_o.file/_1a2bff5b0fbdb0ef68ad612a665efeac56" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::WriteAllBytes</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.ttf&quot;</highlight><highlight class="normal">,<sp/>embeddedFontBytes);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Embedded<sp/>font<sp/>formats<sp/>may<sp/>be<sp/>different<sp/>in<sp/>other<sp/>formats<sp/>such<sp/>as<sp/>.doc.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>need<sp/>to<sp/>know<sp/>the<sp/>correct<sp/>format<sp/>before<sp/>we<sp/>can<sp/>extract<sp/>the<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Embedded<sp/>font.doc&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">)-&gt;GetEmbeddedFont(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1aa8323c947fe5f32c318d27d39ab91f51a91cdc78c52608d9ae56e8ed641636b99" kindref="member" tooltip="Specifies font, embedded as plain copy of OpenType (TrueType) font file. This format of embedded font...">EmbeddedFontFormat::OpenType</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>)<sp/>==</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">)-&gt;GetEmbeddedFont(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1aa8323c947fe5f32c318d27d39ab91f51a6f172d13875bbc14d80601bb10c35427" kindref="member" tooltip="Specifies Embedded OpenType (EOT) File Format. This format of embedded fonts used in DOC files.">EmbeddedFontFormat::EmbeddedOpenType</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>)<sp/>==</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Also,<sp/>we<sp/>can<sp/>convert<sp/>embedded<sp/>OpenType<sp/>format,<sp/>which<sp/>comes<sp/>from<sp/>.doc<sp/>documents,<sp/>to<sp/>OpenType.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">embeddedFontBytes<sp/>=<sp/>doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">)-&gt;GetEmbeddedFontAsOpenType(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.i_o.file/_1a2bff5b0fbdb0ef68ad612a665efeac56" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::WriteAllBytes</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.otf&quot;</highlight><highlight class="normal">,<sp/>embeddedFontBytes);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="400" column="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1aa1845b95566e934cf1e600b7aae9b455" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::FontInfo::set_AltName</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_AltName</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::set_AltName</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a48ee3b8efec37eced5842ac14b5ddb6b" kindref="member">Aspose::Words::Fonts::FontInfo::get_AltName</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="331" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1afda9a8791a7de6460cdfb06a07ab8ece" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::FontInfo::set_Charset</definition>
+        <argsstring>(int32_t value)</argsstring>
+        <name>set_Charset</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::set_Charset</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a6f629137d3b1475c837e9db6d5550e5d" kindref="member">Aspose::Words::Fonts::FontInfo::get_Charset</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="219" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1aeedb796768751746757bd7ca645fc611" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::FontInfo::set_Family</definition>
+        <argsstring>(Aspose::Words::Fonts::FontFamily value)</argsstring>
+        <name>set_Family</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::set_Family</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a064128cb16d49c80521c43bd2ddea22b" kindref="member">Aspose::Words::Fonts::FontFamily</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a00edba65006479603129eabfed238122" kindref="member">Aspose::Words::Fonts::FontInfo::get_Family</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="178" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a1d3af9e84caf370180b0b32f30c78791" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::FontInfo::set_IsTrueType</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_IsTrueType</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::set_IsTrueType</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1ae55887c36e67a6cd132dd8b13b28674a" kindref="member">Aspose::Words::Fonts::FontInfo::get_IsTrueType</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="137" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a2c6eaab68e7158592da8eccb9cbf4014" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::FontInfo::set_Panose</definition>
+        <argsstring>(const System::ArrayPtr&lt; uint8_t &gt; &amp;value)</argsstring>
+        <name>set_Panose</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::set_Panose</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a36652ccca03a2b0b1b3f71a4b38645a4" kindref="member">Aspose::Words::Fonts::FontInfo::get_Panose</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="266" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1ac46b6f1310540e836f2dca87c20513be" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::FontInfo::set_Pitch</definition>
+        <argsstring>(Aspose::Words::Fonts::FontPitch value)</argsstring>
+        <name>set_Pitch</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfo::set_Pitch</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_fonts_1ae8efc61e3f935f55d860aed0546a2ec1" kindref="member">Aspose::Words::Fonts::FontPitch</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a9805f1418f0e753696311cc039509b47" kindref="member">Aspose::Words::Fonts::FontInfo::get_Pitch</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="113" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Specifies information about a font used in the document. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>You do not create instances of this class directly. Use the <ref refid="class_aspose_1_1_words_1_1_document_base_1a68377fd35d6e3d7463bb9fc79423e382" kindref="member">FontInfos</ref> property to access the collection of fonts defined in a document.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection" kindref="compound">Aspose::Words::Fonts::FontInfoCollection</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_document_base_1a68377fd35d6e3d7463bb9fc79423e382" kindref="member">Aspose::Words::DocumentBase::get_FontInfos</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to print the details of what fonts are present in a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Embedded<sp/>font.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Aspose::Words::Fonts::FontInfoCollection&gt;<sp/>allFonts<sp/>=<sp/>doc-&gt;get_FontInfos();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Print<sp/>all<sp/>the<sp/>used<sp/>and<sp/>unused<sp/>fonts<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>allFonts-&gt;get_Count();<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Font<sp/>index<sp/>#&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>i<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tName:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>allFonts-&gt;idx_get(i)-&gt;get_Name()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tIs<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>(allFonts-&gt;idx_get(i)-&gt;get_IsTrueType()<sp/>?<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">)<sp/>:<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;not<sp/>&quot;</highlight><highlight class="normal">))<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;a<sp/>trueType<sp/>font&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Fonts::FontInfo</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Fonts::FontInfo</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fonts/FontInfo.h" line="64" column="1" bodyfile="Aspose.Words.Cpp/Fonts/FontInfo.h" bodystart="65" bodyend="422"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1ac441c9c25a60ae6655091e1692b91ded" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a12221e40739f323a1dbc82bde28d9180" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>FontInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a48ee3b8efec37eced5842ac14b5ddb6b" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>get_AltName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a6f629137d3b1475c837e9db6d5550e5d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>get_Charset</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a00edba65006479603129eabfed238122" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>get_Family</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1ae55887c36e67a6cd132dd8b13b28674a" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>get_IsTrueType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1abf69cfad5729d7c31c30207158b9d69f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>get_Name</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a36652ccca03a2b0b1b3f71a4b38645a4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>get_Panose</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a9805f1418f0e753696311cc039509b47" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>get_Pitch</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a73edfd01d6541df7df73300e8272a66c" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>GetEmbeddedFont</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a9daac63dbe36db3e172e8cae97f44f7f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>GetEmbeddedFontAsOpenType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a0b579befa76cee60fbf4872aa7d8498f" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a7691c647226d03200197edbbfdea8ef5" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a3c6685cd290dea54637a17bfd27559e2" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>mField10</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a6971acdabd2d306d837a91c7de6c44ab" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a7c36107288888929a8396d3f00b15fa1" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a5e3a384131103d040342e3de1fbf2113" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1ad7ddddf14ee43dd042980e58cfce3e88" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a9f42d0382a78457b8ce9490a4dba4a95" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>mField6</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a60ee9b1d3aae05400d01544459613bbc" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>mField7</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1aacd1aac1791198d447c93575b5abe023" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>mField8</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a1f42e2e1d03cd5dfe41e697f3b5290c2" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>mField9</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1ac87c286f906a056dd2b674a089034827" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1aa1845b95566e934cf1e600b7aae9b455" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>set_AltName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1afda9a8791a7de6460cdfb06a07ab8ece" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>set_Charset</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1aeedb796768751746757bd7ca645fc611" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>set_Family</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a1d3af9e84caf370180b0b32f30c78791" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>set_IsTrueType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a2c6eaab68e7158592da8eccb9cbf4014" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>set_Panose</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1ac46b6f1310540e836f2dca87c20513be" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>set_Pitch</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a5c301856513bc6a1e6eddaad0d59360b" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_1a9da0ecf470b89534ad823f4e76a6dfc1" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfo</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

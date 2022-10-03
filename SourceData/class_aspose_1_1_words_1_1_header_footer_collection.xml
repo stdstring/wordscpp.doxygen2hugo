@@ -1,0 +1,690 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_header_footer_collection" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::HeaderFooterCollection</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_node_collection" prot="public" virt="non-virtual">Aspose::Words::NodeCollection</basecompoundref>
+    <includes refid="_header_footer_collection_8h" local="no">Aspose.Words.Cpp/HeaderFooterCollection.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_header_footer_collection_1af01e2fe4b87a32b77d1512c0d2befdb8" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_node_collection" kindref="compound">Aspose::Words::NodeCollection</ref></type>
+        <definition>typedef Aspose::Words::NodeCollection Aspose::Words::HeaderFooterCollection::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::HeaderFooterCollection::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/HeaderFooterCollection.h" line="109" column="43" bodyfile="Aspose.Words.Cpp/HeaderFooterCollection.h" bodystart="109" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_header_footer_collection_1a627a4ab052da525f574361242b5364dc" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_header_footer_collection" kindref="compound">HeaderFooterCollection</ref></type>
+        <definition>typedef HeaderFooterCollection Aspose::Words::HeaderFooterCollection::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::HeaderFooterCollection::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/HeaderFooterCollection.h" line="108" column="36" bodyfile="Aspose.Words.Cpp/HeaderFooterCollection.h" bodystart="108" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_header_footer_collection_1a1f4262785ef8797520c49c4ab1d03608" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node_collection" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::HeaderFooterCollection::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::HeaderFooterCollection::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/HeaderFooterCollection.h" line="111" column="37" bodyfile="Aspose.Words.Cpp/HeaderFooterCollection.h" bodystart="111" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_header_footer_collection_1a82ea74f1294cc6f649d882802c0e3de3" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::HeaderFooterCollection::~HeaderFooterCollection</definition>
+        <argsstring>()</argsstring>
+        <name>~HeaderFooterCollection</name>
+        <qualifiedname>Aspose::Words::HeaderFooterCollection::~HeaderFooterCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/HeaderFooterCollection.h" line="510" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_header_footer_collection_1a8320df2113cac8914dbb67123573b91b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::HeaderFooterCollection::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::HeaderFooterCollection::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/HeaderFooterCollection.h" line="112" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_header_footer_collection_1ac1aae97e650cebfd4582e2e7be2f857b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_header_footer" kindref="compound">Aspose::Words::HeaderFooter</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::HeaderFooter &gt; Aspose::Words::HeaderFooterCollection::idx_get</definition>
+        <argsstring>(Aspose::Words::HeaderFooterType headerFooterType)</argsstring>
+        <name>idx_get</name>
+        <qualifiedname>Aspose::Words::HeaderFooterCollection::idx_get</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69" kindref="member">Aspose::Words::HeaderFooterType</ref></type>
+          <declname>headerFooterType</declname>
+        </param>
+        <briefdescription>
+<para>Retrieves a <bold>HeaderFooter</bold> of the specified type. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>headerFooterType</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>A <ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69" kindref="member">HeaderFooterType</ref> value that specifies the type of the header/footer to retrieve.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to delete all footers from a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Header<sp/>and<sp/>footer<sp/>types.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Iterate<sp/>through<sp/>each<sp/>section<sp/>and<sp/>remove<sp/>footers<sp/>of<sp/>every<sp/>kind.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>section<sp/>:<sp/>System::IterateOver(doc-&gt;LINQ_OfType&lt;SharedPtr&lt;Section&gt;&gt;()))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>three<sp/>kinds<sp/>of<sp/>footer<sp/>and<sp/>header<sp/>types.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>The<sp/>&quot;First&quot;<sp/>header/footer,<sp/>which<sp/>only<sp/>appears<sp/>on<sp/>the<sp/>first<sp/>page<sp/>of<sp/>a<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;HeaderFooter&gt;<sp/>footer<sp/>=<sp/>section-&gt;get_HeadersFooters()-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69a332f720f86119879a9bfb3547f796963" kindref="member" tooltip="Footer for the first page of the section.">HeaderFooterType::FooterFirst</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(footer<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>footer-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>The<sp/>&quot;Primary&quot;<sp/>header/footer,<sp/>which<sp/>appears<sp/>on<sp/>odd<sp/>pages.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>footer<sp/>=<sp/>section-&gt;get_HeadersFooters()-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69af8e178a8382a14e6a14bb9f08e7d6a86" kindref="member" tooltip="Primary footer, also used for odd numbered pages.">HeaderFooterType::FooterPrimary</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(footer<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>footer-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>The<sp/>&quot;Even&quot;<sp/>header/footer,<sp/>which<sp/>appears<sp/>on<sp/>even<sp/>pages.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>footer<sp/>=<sp/>section-&gt;get_HeadersFooters()-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69a080b23f68539379bbc520044d9e77b49" kindref="member" tooltip="Footer for even numbered pages.">HeaderFooterType::FooterEven</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(footer<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>footer-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(0,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>section-&gt;get_HeadersFooters()-&gt;LINQ_Count([](SharedPtr&lt;Node&gt;<sp/>hf)<sp/>{<sp/>return<sp/>!(System::DynamicCast&lt;HeaderFooter&gt;(hf))-&gt;get_IsHeader();<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HeaderFooter.RemoveFooters.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to replace text in a document&apos;s footer. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Footer.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;HeaderFooterCollection&gt;<sp/>headersFooters<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_HeadersFooters();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;HeaderFooter&gt;<sp/>footer<sp/>=<sp/>headersFooters-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69af8e178a8382a14e6a14bb9f08e7d6a86" kindref="member" tooltip="Primary footer, also used for odd numbered pages.">HeaderFooterType::FooterPrimary</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;FindReplaceOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_MatchCase(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_FindWholeWordsOnly(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>currentYear<sp/>=<sp/><ref refid="class/system.date_time/_1aa3b77946fdc1a915b5108d572eb6866d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Now</ref>().get_Year();</highlight></codeline>
+<codeline><highlight class="normal">footer-&gt;get_Range()-&gt;Replace(u</highlight><highlight class="stringliteral">&quot;(C)<sp/>2006<sp/>Aspose<sp/>Pty<sp/>Ltd.&quot;</highlight><highlight class="normal">,<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;Copyright<sp/>(C)<sp/>{0}<sp/>by<sp/>Aspose<sp/>Pty<sp/>Ltd.&quot;</highlight><highlight class="normal">,<sp/>currentYear),<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HeaderFooter.ReplaceText.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/HeaderFooterCollection.h" line="254" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_header_footer_collection_1a6df9933d7cd3297d702e966c977dd32b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_header_footer" kindref="compound">Aspose::Words::HeaderFooter</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::HeaderFooter &gt; Aspose::Words::HeaderFooterCollection::idx_get</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>idx_get</name>
+        <qualifiedname>Aspose::Words::HeaderFooterCollection::idx_get</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Retrieves a <bold>HeaderFooter</bold> at the given index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The index is zero-based.</para>
+<para>Negative indexes are allowed and indicate access from the back of the collection. For example -1 means the last item, -2 means the second before last and so on.</para>
+<para>If index is greater than or equal to the number of items in the list, this returns a null reference.</para>
+<para>If index is negative and its absolute value is greater than the number of items in the list, this returns a null reference.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>index</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>An index into the collection.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to link headers and footers between sections. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea8e798e1e673d70f3c9d8b7be6234320b" kindref="member" tooltip="Specifies start of new section on a new page.">BreakType::SectionBreakNewPage</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea8e798e1e673d70f3c9d8b7be6234320b" kindref="member" tooltip="Specifies start of new section on a new page.">BreakType::SectionBreakNewPage</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Move<sp/>to<sp/>the<sp/>first<sp/>section<sp/>and<sp/>create<sp/>a<sp/>header<sp/>and<sp/>a<sp/>footer.<sp/>By<sp/>default,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>header<sp/>and<sp/>the<sp/>footer<sp/>will<sp/>only<sp/>appear<sp/>on<sp/>pages<sp/>in<sp/>the<sp/>section<sp/>that<sp/>contains<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveToSection(0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveToHeaderFooter(<ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69a12c5d70f31f632e51d3a7273fc3c23f2" kindref="member" tooltip="Primary header, also used for odd numbered pages.">HeaderFooterType::HeaderPrimary</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>the<sp/>header,<sp/>which<sp/>will<sp/>be<sp/>displayed<sp/>in<sp/>sections<sp/>1<sp/>and<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveToHeaderFooter(<ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69af8e178a8382a14e6a14bb9f08e7d6a86" kindref="member" tooltip="Primary footer, also used for odd numbered pages.">HeaderFooterType::FooterPrimary</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>the<sp/>footer,<sp/>which<sp/>will<sp/>be<sp/>displayed<sp/>in<sp/>sections<sp/>1,<sp/>2<sp/>and<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>link<sp/>a<sp/>section&apos;s<sp/>headers/footers<sp/>to<sp/>the<sp/>previous<sp/>section&apos;s<sp/>headers/footers</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>allow<sp/>the<sp/>linking<sp/>section<sp/>to<sp/>display<sp/>the<sp/>linked<sp/>section&apos;s<sp/>headers/footers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Sections()-&gt;idx_get(1)-&gt;get_HeadersFooters()-&gt;LinkToPrevious(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>section<sp/>will<sp/>still<sp/>have<sp/>its<sp/>own<sp/>header/footer<sp/>objects.<sp/>When<sp/>we<sp/>link<sp/>sections,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>linking<sp/>section<sp/>will<sp/>display<sp/>the<sp/>linked<sp/>section&apos;s<sp/>header/footers<sp/>while<sp/>keeping<sp/>its<sp/>own.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_NE(doc-&gt;get_Sections()-&gt;idx_get(0)-&gt;get_HeadersFooters()-&gt;idx_get(0),<sp/>doc-&gt;get_Sections()-&gt;idx_get(1)-&gt;get_HeadersFooters()-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_NE(doc-&gt;get_Sections()-&gt;idx_get(0)-&gt;get_HeadersFooters()-&gt;idx_get(0)-&gt;get_ParentSection(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;get_Sections()-&gt;idx_get(1)-&gt;get_HeadersFooters()-&gt;idx_get(0)-&gt;get_ParentSection());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Link<sp/>the<sp/>headers/footers<sp/>of<sp/>the<sp/>third<sp/>section<sp/>to<sp/>the<sp/>headers/footers<sp/>of<sp/>the<sp/>second<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>second<sp/>section<sp/>already<sp/>links<sp/>to<sp/>the<sp/>first<sp/>section&apos;s<sp/>header/footers,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>so<sp/>linking<sp/>to<sp/>the<sp/>second<sp/>section<sp/>will<sp/>create<sp/>a<sp/>link<sp/>chain.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>first,<sp/>second,<sp/>and<sp/>now<sp/>the<sp/>third<sp/>sections<sp/>will<sp/>all<sp/>display<sp/>the<sp/>first<sp/>section&apos;s<sp/>headers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Sections()-&gt;idx_get(2)-&gt;get_HeadersFooters()-&gt;LinkToPrevious(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>un-link<sp/>a<sp/>previous<sp/>section&apos;s<sp/>header/footers<sp/>by<sp/>passing<sp/>&quot;false&quot;<sp/>when<sp/>calling<sp/>the<sp/>LinkToPrevious<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Sections()-&gt;idx_get(2)-&gt;get_HeadersFooters()-&gt;LinkToPrevious(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>select<sp/>only<sp/>a<sp/>specific<sp/>type<sp/>of<sp/>header/footer<sp/>to<sp/>link<sp/>using<sp/>this<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>third<sp/>section<sp/>now<sp/>will<sp/>have<sp/>the<sp/>same<sp/>footer<sp/>as<sp/>the<sp/>second<sp/>and<sp/>first<sp/>sections,<sp/>but<sp/>not<sp/>the<sp/>header.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Sections()-&gt;idx_get(2)-&gt;get_HeadersFooters()-&gt;LinkToPrevious(<ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69af8e178a8382a14e6a14bb9f08e7d6a86" kindref="member" tooltip="Primary footer, also used for odd numbered pages.">HeaderFooterType::FooterPrimary</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>first<sp/>section&apos;s<sp/>header/footers<sp/>cannot<sp/>link<sp/>themselves<sp/>to<sp/>anything<sp/>because<sp/>there<sp/>is<sp/>no<sp/>previous<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_Sections()-&gt;idx_get(0)-&gt;get_HeadersFooters()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_Sections()-&gt;idx_get(0)-&gt;get_HeadersFooters()-&gt;LINQ_Count(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Node&gt;<sp/>hf)<sp/>{<sp/>return<sp/>!(System::DynamicCast&lt;HeaderFooter&gt;(hf))-&gt;get_IsLinkedToPrevious();<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>All<sp/>the<sp/>second<sp/>section&apos;s<sp/>header/footers<sp/>are<sp/>linked<sp/>to<sp/>the<sp/>first<sp/>section&apos;s<sp/>headers/footers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(6,<sp/>doc-&gt;get_Sections()-&gt;idx_get(1)-&gt;get_HeadersFooters()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(6,<sp/>doc-&gt;get_Sections()-&gt;idx_get(1)-&gt;get_HeadersFooters()-&gt;LINQ_Count(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Node&gt;<sp/>hf)<sp/>{<sp/>return<sp/>(System::DynamicCast&lt;HeaderFooter&gt;(hf))-&gt;get_IsLinkedToPrevious();<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>the<sp/>third<sp/>section,<sp/>only<sp/>the<sp/>footer<sp/>is<sp/>linked<sp/>to<sp/>the<sp/>first<sp/>section&apos;s<sp/>footer<sp/>via<sp/>the<sp/>second<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(6,<sp/>doc-&gt;get_Sections()-&gt;idx_get(2)-&gt;get_HeadersFooters()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>doc-&gt;get_Sections()-&gt;idx_get(2)-&gt;get_HeadersFooters()-&gt;LINQ_Count(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Node&gt;<sp/>hf)<sp/>{<sp/>return<sp/>!(System::DynamicCast&lt;HeaderFooter&gt;(hf))-&gt;get_IsLinkedToPrevious();<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_Sections()-&gt;idx_get(2)-&gt;get_HeadersFooters()-&gt;idx_get(3)-&gt;get_IsLinkedToPrevious());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HeaderFooter.Link.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/HeaderFooterCollection.h" line="193" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_header_footer_collection_1a2c018d5844f3c8c432e432efd6a458cd" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::HeaderFooterCollection::LinkToPrevious</definition>
+        <argsstring>(Aspose::Words::HeaderFooterType headerFooterType, bool isLinkToPrevious)</argsstring>
+        <name>LinkToPrevious</name>
+        <qualifiedname>Aspose::Words::HeaderFooterCollection::LinkToPrevious</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69" kindref="member">Aspose::Words::HeaderFooterType</ref></type>
+          <declname>headerFooterType</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>isLinkToPrevious</declname>
+        </param>
+        <briefdescription>
+<para>Links or unlinks the specified header or footer to the corresponding header or footer in the previous section. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>If the header or footer of the specified type does not exist, creates it automatically.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>headerFooterType</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>A <ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69" kindref="member">HeaderFooterType</ref> value that specifies the header or footer to link/unlink. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>isLinkToPrevious</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>True to link the header or footer to the previous section; false to unlink.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to link headers and footers between sections. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea8e798e1e673d70f3c9d8b7be6234320b" kindref="member" tooltip="Specifies start of new section on a new page.">BreakType::SectionBreakNewPage</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea8e798e1e673d70f3c9d8b7be6234320b" kindref="member" tooltip="Specifies start of new section on a new page.">BreakType::SectionBreakNewPage</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Move<sp/>to<sp/>the<sp/>first<sp/>section<sp/>and<sp/>create<sp/>a<sp/>header<sp/>and<sp/>a<sp/>footer.<sp/>By<sp/>default,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>header<sp/>and<sp/>the<sp/>footer<sp/>will<sp/>only<sp/>appear<sp/>on<sp/>pages<sp/>in<sp/>the<sp/>section<sp/>that<sp/>contains<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveToSection(0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveToHeaderFooter(<ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69a12c5d70f31f632e51d3a7273fc3c23f2" kindref="member" tooltip="Primary header, also used for odd numbered pages.">HeaderFooterType::HeaderPrimary</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>the<sp/>header,<sp/>which<sp/>will<sp/>be<sp/>displayed<sp/>in<sp/>sections<sp/>1<sp/>and<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveToHeaderFooter(<ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69af8e178a8382a14e6a14bb9f08e7d6a86" kindref="member" tooltip="Primary footer, also used for odd numbered pages.">HeaderFooterType::FooterPrimary</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>the<sp/>footer,<sp/>which<sp/>will<sp/>be<sp/>displayed<sp/>in<sp/>sections<sp/>1,<sp/>2<sp/>and<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>link<sp/>a<sp/>section&apos;s<sp/>headers/footers<sp/>to<sp/>the<sp/>previous<sp/>section&apos;s<sp/>headers/footers</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>allow<sp/>the<sp/>linking<sp/>section<sp/>to<sp/>display<sp/>the<sp/>linked<sp/>section&apos;s<sp/>headers/footers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Sections()-&gt;idx_get(1)-&gt;get_HeadersFooters()-&gt;LinkToPrevious(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>section<sp/>will<sp/>still<sp/>have<sp/>its<sp/>own<sp/>header/footer<sp/>objects.<sp/>When<sp/>we<sp/>link<sp/>sections,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>linking<sp/>section<sp/>will<sp/>display<sp/>the<sp/>linked<sp/>section&apos;s<sp/>header/footers<sp/>while<sp/>keeping<sp/>its<sp/>own.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_NE(doc-&gt;get_Sections()-&gt;idx_get(0)-&gt;get_HeadersFooters()-&gt;idx_get(0),<sp/>doc-&gt;get_Sections()-&gt;idx_get(1)-&gt;get_HeadersFooters()-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_NE(doc-&gt;get_Sections()-&gt;idx_get(0)-&gt;get_HeadersFooters()-&gt;idx_get(0)-&gt;get_ParentSection(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;get_Sections()-&gt;idx_get(1)-&gt;get_HeadersFooters()-&gt;idx_get(0)-&gt;get_ParentSection());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Link<sp/>the<sp/>headers/footers<sp/>of<sp/>the<sp/>third<sp/>section<sp/>to<sp/>the<sp/>headers/footers<sp/>of<sp/>the<sp/>second<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>second<sp/>section<sp/>already<sp/>links<sp/>to<sp/>the<sp/>first<sp/>section&apos;s<sp/>header/footers,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>so<sp/>linking<sp/>to<sp/>the<sp/>second<sp/>section<sp/>will<sp/>create<sp/>a<sp/>link<sp/>chain.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>first,<sp/>second,<sp/>and<sp/>now<sp/>the<sp/>third<sp/>sections<sp/>will<sp/>all<sp/>display<sp/>the<sp/>first<sp/>section&apos;s<sp/>headers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Sections()-&gt;idx_get(2)-&gt;get_HeadersFooters()-&gt;LinkToPrevious(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>un-link<sp/>a<sp/>previous<sp/>section&apos;s<sp/>header/footers<sp/>by<sp/>passing<sp/>&quot;false&quot;<sp/>when<sp/>calling<sp/>the<sp/>LinkToPrevious<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Sections()-&gt;idx_get(2)-&gt;get_HeadersFooters()-&gt;LinkToPrevious(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>select<sp/>only<sp/>a<sp/>specific<sp/>type<sp/>of<sp/>header/footer<sp/>to<sp/>link<sp/>using<sp/>this<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>third<sp/>section<sp/>now<sp/>will<sp/>have<sp/>the<sp/>same<sp/>footer<sp/>as<sp/>the<sp/>second<sp/>and<sp/>first<sp/>sections,<sp/>but<sp/>not<sp/>the<sp/>header.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Sections()-&gt;idx_get(2)-&gt;get_HeadersFooters()-&gt;LinkToPrevious(<ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69af8e178a8382a14e6a14bb9f08e7d6a86" kindref="member" tooltip="Primary footer, also used for odd numbered pages.">HeaderFooterType::FooterPrimary</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>first<sp/>section&apos;s<sp/>header/footers<sp/>cannot<sp/>link<sp/>themselves<sp/>to<sp/>anything<sp/>because<sp/>there<sp/>is<sp/>no<sp/>previous<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_Sections()-&gt;idx_get(0)-&gt;get_HeadersFooters()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_Sections()-&gt;idx_get(0)-&gt;get_HeadersFooters()-&gt;LINQ_Count(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Node&gt;<sp/>hf)<sp/>{<sp/>return<sp/>!(System::DynamicCast&lt;HeaderFooter&gt;(hf))-&gt;get_IsLinkedToPrevious();<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>All<sp/>the<sp/>second<sp/>section&apos;s<sp/>header/footers<sp/>are<sp/>linked<sp/>to<sp/>the<sp/>first<sp/>section&apos;s<sp/>headers/footers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(6,<sp/>doc-&gt;get_Sections()-&gt;idx_get(1)-&gt;get_HeadersFooters()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(6,<sp/>doc-&gt;get_Sections()-&gt;idx_get(1)-&gt;get_HeadersFooters()-&gt;LINQ_Count(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Node&gt;<sp/>hf)<sp/>{<sp/>return<sp/>(System::DynamicCast&lt;HeaderFooter&gt;(hf))-&gt;get_IsLinkedToPrevious();<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>the<sp/>third<sp/>section,<sp/>only<sp/>the<sp/>footer<sp/>is<sp/>linked<sp/>to<sp/>the<sp/>first<sp/>section&apos;s<sp/>footer<sp/>via<sp/>the<sp/>second<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(6,<sp/>doc-&gt;get_Sections()-&gt;idx_get(2)-&gt;get_HeadersFooters()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>doc-&gt;get_Sections()-&gt;idx_get(2)-&gt;get_HeadersFooters()-&gt;LINQ_Count(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Node&gt;<sp/>hf)<sp/>{<sp/>return<sp/>!(System::DynamicCast&lt;HeaderFooter&gt;(hf))-&gt;get_IsLinkedToPrevious();<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_Sections()-&gt;idx_get(2)-&gt;get_HeadersFooters()-&gt;idx_get(3)-&gt;get_IsLinkedToPrevious());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HeaderFooter.Link.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/HeaderFooterCollection.h" line="404" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_header_footer_collection_1a1774cb646ccadc0f6efc6eebcaaf64cc" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::HeaderFooterCollection::LinkToPrevious</definition>
+        <argsstring>(bool isLinkToPrevious)</argsstring>
+        <name>LinkToPrevious</name>
+        <qualifiedname>Aspose::Words::HeaderFooterCollection::LinkToPrevious</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>isLinkToPrevious</declname>
+        </param>
+        <briefdescription>
+<para>Links or unlinks all headers and footers to the corresponding headers and footers in the previous section. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>If any of the headers or footers do not exist, creates them automatically.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>isLinkToPrevious</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>True to link the headers and footers to the previous section; false to unlink them.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to link headers and footers between sections. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea8e798e1e673d70f3c9d8b7be6234320b" kindref="member" tooltip="Specifies start of new section on a new page.">BreakType::SectionBreakNewPage</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea8e798e1e673d70f3c9d8b7be6234320b" kindref="member" tooltip="Specifies start of new section on a new page.">BreakType::SectionBreakNewPage</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Move<sp/>to<sp/>the<sp/>first<sp/>section<sp/>and<sp/>create<sp/>a<sp/>header<sp/>and<sp/>a<sp/>footer.<sp/>By<sp/>default,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>header<sp/>and<sp/>the<sp/>footer<sp/>will<sp/>only<sp/>appear<sp/>on<sp/>pages<sp/>in<sp/>the<sp/>section<sp/>that<sp/>contains<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveToSection(0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveToHeaderFooter(<ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69a12c5d70f31f632e51d3a7273fc3c23f2" kindref="member" tooltip="Primary header, also used for odd numbered pages.">HeaderFooterType::HeaderPrimary</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>the<sp/>header,<sp/>which<sp/>will<sp/>be<sp/>displayed<sp/>in<sp/>sections<sp/>1<sp/>and<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveToHeaderFooter(<ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69af8e178a8382a14e6a14bb9f08e7d6a86" kindref="member" tooltip="Primary footer, also used for odd numbered pages.">HeaderFooterType::FooterPrimary</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>the<sp/>footer,<sp/>which<sp/>will<sp/>be<sp/>displayed<sp/>in<sp/>sections<sp/>1,<sp/>2<sp/>and<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>link<sp/>a<sp/>section&apos;s<sp/>headers/footers<sp/>to<sp/>the<sp/>previous<sp/>section&apos;s<sp/>headers/footers</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>allow<sp/>the<sp/>linking<sp/>section<sp/>to<sp/>display<sp/>the<sp/>linked<sp/>section&apos;s<sp/>headers/footers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Sections()-&gt;idx_get(1)-&gt;get_HeadersFooters()-&gt;LinkToPrevious(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>section<sp/>will<sp/>still<sp/>have<sp/>its<sp/>own<sp/>header/footer<sp/>objects.<sp/>When<sp/>we<sp/>link<sp/>sections,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>linking<sp/>section<sp/>will<sp/>display<sp/>the<sp/>linked<sp/>section&apos;s<sp/>header/footers<sp/>while<sp/>keeping<sp/>its<sp/>own.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_NE(doc-&gt;get_Sections()-&gt;idx_get(0)-&gt;get_HeadersFooters()-&gt;idx_get(0),<sp/>doc-&gt;get_Sections()-&gt;idx_get(1)-&gt;get_HeadersFooters()-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_NE(doc-&gt;get_Sections()-&gt;idx_get(0)-&gt;get_HeadersFooters()-&gt;idx_get(0)-&gt;get_ParentSection(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;get_Sections()-&gt;idx_get(1)-&gt;get_HeadersFooters()-&gt;idx_get(0)-&gt;get_ParentSection());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Link<sp/>the<sp/>headers/footers<sp/>of<sp/>the<sp/>third<sp/>section<sp/>to<sp/>the<sp/>headers/footers<sp/>of<sp/>the<sp/>second<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>second<sp/>section<sp/>already<sp/>links<sp/>to<sp/>the<sp/>first<sp/>section&apos;s<sp/>header/footers,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>so<sp/>linking<sp/>to<sp/>the<sp/>second<sp/>section<sp/>will<sp/>create<sp/>a<sp/>link<sp/>chain.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>first,<sp/>second,<sp/>and<sp/>now<sp/>the<sp/>third<sp/>sections<sp/>will<sp/>all<sp/>display<sp/>the<sp/>first<sp/>section&apos;s<sp/>headers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Sections()-&gt;idx_get(2)-&gt;get_HeadersFooters()-&gt;LinkToPrevious(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>un-link<sp/>a<sp/>previous<sp/>section&apos;s<sp/>header/footers<sp/>by<sp/>passing<sp/>&quot;false&quot;<sp/>when<sp/>calling<sp/>the<sp/>LinkToPrevious<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Sections()-&gt;idx_get(2)-&gt;get_HeadersFooters()-&gt;LinkToPrevious(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>select<sp/>only<sp/>a<sp/>specific<sp/>type<sp/>of<sp/>header/footer<sp/>to<sp/>link<sp/>using<sp/>this<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>third<sp/>section<sp/>now<sp/>will<sp/>have<sp/>the<sp/>same<sp/>footer<sp/>as<sp/>the<sp/>second<sp/>and<sp/>first<sp/>sections,<sp/>but<sp/>not<sp/>the<sp/>header.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Sections()-&gt;idx_get(2)-&gt;get_HeadersFooters()-&gt;LinkToPrevious(<ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69af8e178a8382a14e6a14bb9f08e7d6a86" kindref="member" tooltip="Primary footer, also used for odd numbered pages.">HeaderFooterType::FooterPrimary</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>first<sp/>section&apos;s<sp/>header/footers<sp/>cannot<sp/>link<sp/>themselves<sp/>to<sp/>anything<sp/>because<sp/>there<sp/>is<sp/>no<sp/>previous<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_Sections()-&gt;idx_get(0)-&gt;get_HeadersFooters()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_Sections()-&gt;idx_get(0)-&gt;get_HeadersFooters()-&gt;LINQ_Count(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Node&gt;<sp/>hf)<sp/>{<sp/>return<sp/>!(System::DynamicCast&lt;HeaderFooter&gt;(hf))-&gt;get_IsLinkedToPrevious();<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>All<sp/>the<sp/>second<sp/>section&apos;s<sp/>header/footers<sp/>are<sp/>linked<sp/>to<sp/>the<sp/>first<sp/>section&apos;s<sp/>headers/footers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(6,<sp/>doc-&gt;get_Sections()-&gt;idx_get(1)-&gt;get_HeadersFooters()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(6,<sp/>doc-&gt;get_Sections()-&gt;idx_get(1)-&gt;get_HeadersFooters()-&gt;LINQ_Count(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Node&gt;<sp/>hf)<sp/>{<sp/>return<sp/>(System::DynamicCast&lt;HeaderFooter&gt;(hf))-&gt;get_IsLinkedToPrevious();<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>the<sp/>third<sp/>section,<sp/>only<sp/>the<sp/>footer<sp/>is<sp/>linked<sp/>to<sp/>the<sp/>first<sp/>section&apos;s<sp/>footer<sp/>via<sp/>the<sp/>second<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(6,<sp/>doc-&gt;get_Sections()-&gt;idx_get(2)-&gt;get_HeadersFooters()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>doc-&gt;get_Sections()-&gt;idx_get(2)-&gt;get_HeadersFooters()-&gt;LINQ_Count(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Node&gt;<sp/>hf)<sp/>{<sp/>return<sp/>!(System::DynamicCast&lt;HeaderFooter&gt;(hf))-&gt;get_IsLinkedToPrevious();<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_Sections()-&gt;idx_get(2)-&gt;get_HeadersFooters()-&gt;idx_get(3)-&gt;get_IsLinkedToPrevious());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HeaderFooter.Link.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/HeaderFooterCollection.h" line="328" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_header_footer_collection_1aa907568d6e0bc725f60743a8fb9176d7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_header_footer" kindref="compound">Aspose::Words::HeaderFooter</ref> &gt; &gt;</type>
+        <definition>System::ArrayPtr&lt; System::SharedPtr&lt; Aspose::Words::HeaderFooter &gt; &gt; Aspose::Words::HeaderFooterCollection::ToArray</definition>
+        <argsstring>()</argsstring>
+        <name>ToArray</name>
+        <qualifiedname>Aspose::Words::HeaderFooterCollection::ToArray</qualifiedname>
+        <briefdescription>
+<para>Copies all <computeroutput>HeaderFoorter</computeroutput>s from the collection to a new array of <computeroutput>HeaderFoorter</computeroutput>s. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>An array of <computeroutput>HeaderFoorter</computeroutput>s.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to print the node structure of every header and footer in a document. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>HeaderFooterToText()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentVisitor-compatible<sp/>features.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>visitor<sp/>=<sp/>MakeObject&lt;ExDocumentVisitor::HeaderFooterStructurePrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>get<sp/>a<sp/>composite<sp/>node<sp/>to<sp/>accept<sp/>a<sp/>document<sp/>visitor,<sp/>the<sp/>visitor<sp/>visits<sp/>the<sp/>accepting<sp/>node,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>traverses<sp/>all<sp/>the<sp/>node&apos;s<sp/>children<sp/>in<sp/>a<sp/>depth-first<sp/>manner.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>visitor<sp/>can<sp/>read<sp/>and<sp/>modify<sp/>each<sp/>visited<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Accept(visitor);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>visitor-&gt;GetText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>An<sp/>alternative<sp/>way<sp/>of<sp/>accessing<sp/>a<sp/>document&apos;s<sp/>header/footers<sp/>section-by-section<sp/>is<sp/>by<sp/>accessing<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ArrayPtr&lt;SharedPtr&lt;HeaderFooter&gt;&gt;<sp/>headerFooters<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_HeadersFooters()-&gt;ToArray();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(3,<sp/>headerFooters-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">HeaderFooterStructurePrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>HeaderFooterStructurePrinter()<sp/>:<sp/>mVisitorIsInsideHeaderFooter(false),<sp/>mDocTraversalDepth(0)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder<sp/>=<sp/>MakeObject&lt;System::Text::StringBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideHeaderFooter<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>GetText()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mBuilder-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitRun(SharedPtr&lt;Run&gt;<sp/>run)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(mVisitorIsInsideHeaderFooter)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[Run]<sp/>\&quot;&quot;</highlight><highlight class="normal">)<sp/>+<sp/>run-&gt;GetText()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitHeaderFooterStart(SharedPtr&lt;HeaderFooter&gt;<sp/>headerFooter)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;[HeaderFooter<sp/>start]<sp/>HeaderFooterType:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(headerFooter-&gt;get_HeaderFooterType()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth++;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideHeaderFooter<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitHeaderFooterEnd(SharedPtr&lt;HeaderFooter&gt;<sp/>headerFooter)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mDocTraversalDepth--;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>IndentAndAppendLine(u</highlight><highlight class="stringliteral">&quot;[HeaderFooter<sp/>end]&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mVisitorIsInsideHeaderFooter<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>mVisitorIsInsideHeaderFooter;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mDocTraversalDepth;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mBuilder;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>IndentAndAppendLine(String<sp/>text)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>mDocTraversalDepth;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;Append(u</highlight><highlight class="stringliteral">&quot;|<sp/><sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(text);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/HeaderFooterCollection.h" line="506" column="25"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Provides typed access to <ref refid="class_aspose_1_1_words_1_1_header_footer" kindref="compound">HeaderFooter</ref> nodes of a <bold>Section</bold>. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>There can be maximum of one <bold>HeaderFooter</bold></para>
+<para>of each <ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69" kindref="member">HeaderFooterType</ref> per <bold>Section</bold>.</para>
+<para><bold>HeaderFooter</bold> objects can occur in any order in the collection.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create a header and a footer. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>header<sp/>and<sp/>append<sp/>a<sp/>paragraph<sp/>to<sp/>it.<sp/>The<sp/>text<sp/>in<sp/>that<sp/>paragraph</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>will<sp/>appear<sp/>at<sp/>the<sp/>top<sp/>of<sp/>every<sp/>page<sp/>of<sp/>this<sp/>section,<sp/>above<sp/>the<sp/>main<sp/>body<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>header<sp/>=<sp/>MakeObject&lt;HeaderFooter&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69a12c5d70f31f632e51d3a7273fc3c23f2" kindref="member" tooltip="Primary header, also used for odd numbered pages.">HeaderFooterType::HeaderPrimary</ref>);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_HeadersFooters()-&gt;Add(header);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Paragraph&gt;<sp/>para<sp/>=<sp/>header-&gt;AppendParagraph(u</highlight><highlight class="stringliteral">&quot;My<sp/>header.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(header-&gt;get_IsHeader());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(para-&gt;get_IsEndOfHeaderFooter());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>footer<sp/>and<sp/>append<sp/>a<sp/>paragraph<sp/>to<sp/>it.<sp/>The<sp/>text<sp/>in<sp/>that<sp/>paragraph</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>will<sp/>appear<sp/>at<sp/>the<sp/>bottom<sp/>of<sp/>every<sp/>page<sp/>of<sp/>this<sp/>section,<sp/>below<sp/>the<sp/>main<sp/>body<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>footer<sp/>=<sp/>MakeObject&lt;HeaderFooter&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69af8e178a8382a14e6a14bb9f08e7d6a86" kindref="member" tooltip="Primary footer, also used for odd numbered pages.">HeaderFooterType::FooterPrimary</ref>);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_HeadersFooters()-&gt;Add(footer);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">para<sp/>=<sp/>footer-&gt;AppendParagraph(u</highlight><highlight class="stringliteral">&quot;My<sp/>footer.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(footer-&gt;get_IsHeader());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(para-&gt;get_IsEndOfHeaderFooter());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(footer,<sp/>para-&gt;get_ParentStory());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(footer-&gt;get_ParentSection(),<sp/>para-&gt;get_ParentSection());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(footer-&gt;get_ParentSection(),<sp/>header-&gt;get_ParentSection());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HeaderFooter.Create.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to delete all footers from a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Header<sp/>and<sp/>footer<sp/>types.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Iterate<sp/>through<sp/>each<sp/>section<sp/>and<sp/>remove<sp/>footers<sp/>of<sp/>every<sp/>kind.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>section<sp/>:<sp/>System::IterateOver(doc-&gt;LINQ_OfType&lt;SharedPtr&lt;Section&gt;&gt;()))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>three<sp/>kinds<sp/>of<sp/>footer<sp/>and<sp/>header<sp/>types.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>The<sp/>&quot;First&quot;<sp/>header/footer,<sp/>which<sp/>only<sp/>appears<sp/>on<sp/>the<sp/>first<sp/>page<sp/>of<sp/>a<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;HeaderFooter&gt;<sp/>footer<sp/>=<sp/>section-&gt;get_HeadersFooters()-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69a332f720f86119879a9bfb3547f796963" kindref="member" tooltip="Footer for the first page of the section.">HeaderFooterType::FooterFirst</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(footer<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>footer-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>The<sp/>&quot;Primary&quot;<sp/>header/footer,<sp/>which<sp/>appears<sp/>on<sp/>odd<sp/>pages.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>footer<sp/>=<sp/>section-&gt;get_HeadersFooters()-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69af8e178a8382a14e6a14bb9f08e7d6a86" kindref="member" tooltip="Primary footer, also used for odd numbered pages.">HeaderFooterType::FooterPrimary</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(footer<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>footer-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>The<sp/>&quot;Even&quot;<sp/>header/footer,<sp/>which<sp/>appears<sp/>on<sp/>even<sp/>pages.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>footer<sp/>=<sp/>section-&gt;get_HeadersFooters()-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1a10e750a2a2dc23104fb5cb70787e3a69a080b23f68539379bbc520044d9e77b49" kindref="member" tooltip="Footer for even numbered pages.">HeaderFooterType::FooterEven</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(footer<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>footer-&gt;Remove();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(0,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>section-&gt;get_HeadersFooters()-&gt;LINQ_Count([](SharedPtr&lt;Node&gt;<sp/>hf)<sp/>{<sp/>return<sp/>!(System::DynamicCast&lt;HeaderFooter&gt;(hf))-&gt;get_IsHeader();<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HeaderFooter.RemoveFooters.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::HeaderFooterCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_header_footer_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::INodeCollection</label>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::NodeCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_node_collection"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Node &gt; &gt;</label>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::HeaderFooterCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_header_footer_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::INodeCollection</label>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::NodeCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_node_collection"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Node &gt; &gt;</label>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/HeaderFooterCollection.h" line="106" column="1" bodyfile="Aspose.Words.Cpp/HeaderFooterCollection.h" bodystart="107" bodyend="512"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a068f070b5bbd81992e895bd3a9b7a909" prot="public" virt="non-virtual"><scope>Aspose::Words::HeaderFooterCollection</scope><name>Add</name></member>
+      <member refid="class_aspose_1_1_words_1_1_header_footer_collection_1af01e2fe4b87a32b77d1512c0d2befdb8" prot="private" virt="non-virtual"><scope>Aspose::Words::HeaderFooterCollection</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a5c84bf176a96e3f048ff328ef0ef67aa" prot="public" virt="non-virtual"><scope>Aspose::Words::HeaderFooterCollection</scope><name>Clear</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1afb103bc9c0ef36a0593141c957dec4ad" prot="public" virt="non-virtual"><scope>Aspose::Words::HeaderFooterCollection</scope><name>Contains</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a08e6dd6c87c6f40972781651e176742a" prot="public" virt="non-virtual"><scope>Aspose::Words::HeaderFooterCollection</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a8d9e67dd4a36be575fdce2a6802cb917" prot="public" virt="non-virtual"><scope>Aspose::Words::HeaderFooterCollection</scope><name>GetEnumerator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_header_footer_collection_1a6df9933d7cd3297d702e966c977dd32b" prot="public" virt="non-virtual"><scope>Aspose::Words::HeaderFooterCollection</scope><name>idx_get</name></member>
+      <member refid="class_aspose_1_1_words_1_1_header_footer_collection_1ac1aae97e650cebfd4582e2e7be2f857b" prot="public" virt="non-virtual"><scope>Aspose::Words::HeaderFooterCollection</scope><name>idx_get</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a99ff7fa6245f5be6b1830877cc6e641c" prot="public" virt="non-virtual"><scope>Aspose::Words::HeaderFooterCollection</scope><name>IndexOf</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1ae0e08870652837402e08e2e56647795c" prot="public" virt="non-virtual"><scope>Aspose::Words::HeaderFooterCollection</scope><name>Insert</name></member>
+      <member refid="class_aspose_1_1_words_1_1_header_footer_collection_1a1774cb646ccadc0f6efc6eebcaaf64cc" prot="public" virt="non-virtual"><scope>Aspose::Words::HeaderFooterCollection</scope><name>LinkToPrevious</name></member>
+      <member refid="class_aspose_1_1_words_1_1_header_footer_collection_1a2c018d5844f3c8c432e432efd6a458cd" prot="public" virt="non-virtual"><scope>Aspose::Words::HeaderFooterCollection</scope><name>LinkToPrevious</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a86977ff4ddee5f0781a774868b8ad5a8" prot="public" virt="non-virtual"><scope>Aspose::Words::HeaderFooterCollection</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a9c1ce160d192c038c1e740c3ddc309eb" prot="public" virt="non-virtual"><scope>Aspose::Words::HeaderFooterCollection</scope><name>RemoveAt</name></member>
+      <member refid="class_aspose_1_1_words_1_1_header_footer_collection_1a8320df2113cac8914dbb67123573b91b" prot="private" virt="non-virtual"><scope>Aspose::Words::HeaderFooterCollection</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_header_footer_collection_1a627a4ab052da525f574361242b5364dc" prot="private" virt="non-virtual"><scope>Aspose::Words::HeaderFooterCollection</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_header_footer_collection_1a1f4262785ef8797520c49c4ab1d03608" prot="private" virt="non-virtual"><scope>Aspose::Words::HeaderFooterCollection</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_header_footer_collection_1aa907568d6e0bc725f60743a8fb9176d7" prot="public" virt="non-virtual"><scope>Aspose::Words::HeaderFooterCollection</scope><name>ToArray</name></member>
+      <member refid="class_aspose_1_1_words_1_1_header_footer_collection_1a82ea74f1294cc6f649d882802c0e3de3" prot="private" virt="virtual"><scope>Aspose::Words::HeaderFooterCollection</scope><name>~HeaderFooterCollection</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

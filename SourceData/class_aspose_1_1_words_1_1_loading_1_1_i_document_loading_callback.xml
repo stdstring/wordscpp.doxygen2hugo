@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_loading_1_1_i_document_loading_callback" kind="interface" language="C++" prot="public" abstract="yes">
+    <compoundname>Aspose::Words::Loading::IDocumentLoadingCallback</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_i_document_loading_callback_8h" local="no">Aspose.Words.Cpp/Loading/IDocumentLoadingCallback.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_loading_1_1_i_document_loading_callback_1a4fec10bd5f4fd87351c997e05f7859b1" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Loading::IDocumentLoadingCallback::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Loading::IDocumentLoadingCallback::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/IDocumentLoadingCallback.h" line="37" column="28" bodyfile="Aspose.Words.Cpp/Loading/IDocumentLoadingCallback.h" bodystart="37" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_loading_1_1_i_document_loading_callback_1a5eaea41928adb278f39b7731e5136d10" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_loading_1_1_i_document_loading_callback" kindref="compound">IDocumentLoadingCallback</ref></type>
+        <definition>typedef IDocumentLoadingCallback Aspose::Words::Loading::IDocumentLoadingCallback::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Loading::IDocumentLoadingCallback::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/IDocumentLoadingCallback.h" line="36" column="38" bodyfile="Aspose.Words.Cpp/Loading/IDocumentLoadingCallback.h" bodystart="36" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_loading_1_1_i_document_loading_callback_1ad57e1d607505e68eb44ec0ab19da94af" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Loading::IDocumentLoadingCallback::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Loading::IDocumentLoadingCallback::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/IDocumentLoadingCallback.h" line="39" column="37" bodyfile="Aspose.Words.Cpp/Loading/IDocumentLoadingCallback.h" bodystart="39" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_i_document_loading_callback_1a42c3484b257d81c2d542f15f3d05b0b6" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Loading::IDocumentLoadingCallback::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Loading::IDocumentLoadingCallback::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/IDocumentLoadingCallback.h" line="40" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_loading_1_1_i_document_loading_callback_1ad6bb28b294a8f9b6433662b23dd2dbdf" prot="public" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
+        <type>void</type>
+        <definition>virtual void Aspose::Words::Loading::IDocumentLoadingCallback::Notify</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::Loading::DocumentLoadingArgs &gt; args)=0</argsstring>
+        <name>Notify</name>
+        <qualifiedname>Aspose::Words::Loading::IDocumentLoadingCallback::Notify</qualifiedname>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_loading_1_1_document_loading_args" kindref="compound">Aspose::Words::Loading::DocumentLoadingArgs</ref> &gt;</type>
+          <declname>args</declname>
+        </param>
+        <briefdescription>
+<para>This is called to notify of document loading progress. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The primary uses for this interface is to allow application code to obtain progress status and abort loading process.</para>
+<para>An exception should be threw from the progress callback for abortion and it should be caught in the consumer code.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>args</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>An argument of the event.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options_1acf271e71b7f8b3bf99c6b954a2930d4d" kindref="member">Aspose::Words::Loading::LoadOptions::get_ProgressCallback</ref> </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Loading/IDocumentLoadingCallback.h" line="53" column="18"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implement this interface if you want to have your own custom method called during loading a document. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Loading::IDocumentLoadingCallback</label>
+        <link refid="class_aspose_1_1_words_1_1_loading_1_1_i_document_loading_callback"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Loading::IDocumentLoadingCallback</label>
+        <link refid="class_aspose_1_1_words_1_1_loading_1_1_i_document_loading_callback"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Loading/IDocumentLoadingCallback.h" line="34" column="1" bodyfile="Aspose.Words.Cpp/Loading/IDocumentLoadingCallback.h" bodystart="35" bodyend="55"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_i_document_loading_callback_1a4fec10bd5f4fd87351c997e05f7859b1" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::IDocumentLoadingCallback</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_i_document_loading_callback_1ad6bb28b294a8f9b6433662b23dd2dbdf" prot="public" virt="pure-virtual"><scope>Aspose::Words::Loading::IDocumentLoadingCallback</scope><name>Notify</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_i_document_loading_callback_1a42c3484b257d81c2d542f15f3d05b0b6" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::IDocumentLoadingCallback</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_i_document_loading_callback_1a5eaea41928adb278f39b7731e5136d10" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::IDocumentLoadingCallback</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_loading_1_1_i_document_loading_callback_1ad57e1d607505e68eb44ec0ab19da94af" prot="private" virt="non-virtual"><scope>Aspose::Words::Loading::IDocumentLoadingCallback</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

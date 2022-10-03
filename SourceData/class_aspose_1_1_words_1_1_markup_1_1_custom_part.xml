@@ -1,0 +1,716 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_markup_1_1_custom_part" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Markup::CustomPart</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_custom_part_8h" local="no">Aspose.Words.Cpp/Markup/CustomPart.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a71ce2b41beadfbcf26c0f2cd18bb6925" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Markup::CustomPart::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Markup::CustomPart::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomPart.h" line="85" column="28" bodyfile="Aspose.Words.Cpp/Markup/CustomPart.h" bodystart="85" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1aa3678f8fe17582944ca28d72da74d105" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part" kindref="compound">CustomPart</ref></type>
+        <definition>typedef CustomPart Aspose::Words::Markup::CustomPart::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Markup::CustomPart::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomPart.h" line="84" column="24" bodyfile="Aspose.Words.Cpp/Markup/CustomPart.h" bodystart="84" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1add3cb0e0a5d9394e04f2fe318fbe345a" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Markup::CustomPart::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Markup::CustomPart::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomPart.h" line="87" column="37" bodyfile="Aspose.Words.Cpp/Markup/CustomPart.h" bodystart="87" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1aedec2772d7490af016f7869d77c23b58" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Markup::CustomPart::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Markup::CustomPart::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomPart.h" line="408" column="20" bodyfile="Aspose.Words.Cpp/Markup/CustomPart.h" bodystart="408" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1ac1faf409542c534a4cb16fa2bb95dc17" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Markup::CustomPart::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Markup::CustomPart::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomPart.h" line="409" column="20" bodyfile="Aspose.Words.Cpp/Markup/CustomPart.h" bodystart="409" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a815792f37eadc55e00fea6727cae9cca" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Markup::CustomPart::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Markup::CustomPart::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomPart.h" line="410" column="20" bodyfile="Aspose.Words.Cpp/Markup/CustomPart.h" bodystart="410" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a4066cdaf26609bee83747d641cd9fe7c" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Markup::CustomPart::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Markup::CustomPart::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomPart.h" line="411" column="23" bodyfile="Aspose.Words.Cpp/Markup/CustomPart.h" bodystart="411" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a09fafdbe1cbdb7621a727f1eceb59196" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Markup::CustomPart::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Markup::CustomPart::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomPart.h" line="412" column="20" bodyfile="Aspose.Words.Cpp/Markup/CustomPart.h" bodystart="412" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1ac4f34facc79a281bc38ea613028db4d0" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Markup::CustomPart::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::Markup::CustomPart::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomPart.h" line="413" column="23" bodyfile="Aspose.Words.Cpp/Markup/CustomPart.h" bodystart="413" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a6397d9fe6cafdc94fa4ed5b0aa02bef5" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Markup::CustomPart::mField6</definition>
+        <argsstring></argsstring>
+        <name>mField6</name>
+        <qualifiedname>Aspose::Words::Markup::CustomPart::mField6</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomPart.h" line="414" column="20" bodyfile="Aspose.Words.Cpp/Markup/CustomPart.h" bodystart="414" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1ac17e133ef6f040cf2af68e342cc2cb05" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Markup::CustomPart::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Markup::CustomPart::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomPart.h" line="88" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a53be53f722b871e342966339c00cdd61" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Markup::CustomPart::CustomPart</definition>
+        <argsstring>()</argsstring>
+        <name>CustomPart</name>
+        <qualifiedname>Aspose::Words::Markup::CustomPart::CustomPart</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomPart.h" line="402" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a2ba1b7a6f83bb571bf3a1384e45730e2" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part" kindref="compound">Aspose::Words::Markup::CustomPart</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Markup::CustomPart &gt; Aspose::Words::Markup::CustomPart::Clone</definition>
+        <argsstring>()</argsstring>
+        <name>Clone</name>
+        <qualifiedname>Aspose::Words::Markup::CustomPart::Clone</qualifiedname>
+        <briefdescription>
+<para>Makes a &quot;deep enough&quot; copy of the object. Does not duplicate the bytes of the <ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a0324e3d84a18526116479f192df181d8" kindref="member">Data</ref> value. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access a document&apos;s arbitrary custom parts collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Custom<sp/>parts<sp/>OOXML<sp/>package.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clone<sp/>the<sp/>second<sp/>part,<sp/>then<sp/>add<sp/>the<sp/>clone<sp/>to<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomPart&gt;<sp/>clonedPart<sp/>=<sp/>doc-&gt;get_PackageCustomParts()-&gt;idx_get(1)-&gt;Clone();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_PackageCustomParts()-&gt;Add(clonedPart);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>over<sp/>the<sp/>collection<sp/>and<sp/>print<sp/>every<sp/>part.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;CustomPart&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>doc-&gt;get_PackageCustomParts()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>0;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Part<sp/>index<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>index<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tName:\t\t\t\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_Name()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tContent<sp/>type:\t\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_ContentType()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tRelationship<sp/>type:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_RelationshipType()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(enumerator-&gt;get_Current()-&gt;get_IsExternal()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>?<sp/>u</highlight><highlight class="stringliteral">&quot;\tSourced<sp/>from<sp/>outside<sp/>the<sp/>document&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>:<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tStored<sp/>within<sp/>the<sp/>document,<sp/>length:<sp/>{0}<sp/>bytes&quot;</highlight><highlight class="normal">,<sp/>enumerator-&gt;get_Current()-&gt;get_Data()-&gt;get_Length()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>index++;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>elements<sp/>from<sp/>this<sp/>collection<sp/>individually,<sp/>or<sp/>all<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_PackageCustomParts()-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_PackageCustomParts()-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomPart.h" line="400" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a157825525de3b78351b47584fa0c91d7" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Markup::CustomPart::get_ContentType</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ContentType</name>
+        <qualifiedname>Aspose::Words::Markup::CustomPart::get_ContentType</qualifiedname>
+        <briefdescription>
+<para>Specifies the content type of this custom part. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This property is applicable only when <ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a2005786934e2bec7ce957ece4a69afd0" kindref="member">IsExternal</ref> is <computeroutput>false</computeroutput>.</para>
+<para>The default value is an empty string. A valid value must be a non-empty string.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access a document&apos;s arbitrary custom parts collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Custom<sp/>parts<sp/>OOXML<sp/>package.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clone<sp/>the<sp/>second<sp/>part,<sp/>then<sp/>add<sp/>the<sp/>clone<sp/>to<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomPart&gt;<sp/>clonedPart<sp/>=<sp/>doc-&gt;get_PackageCustomParts()-&gt;idx_get(1)-&gt;Clone();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_PackageCustomParts()-&gt;Add(clonedPart);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>over<sp/>the<sp/>collection<sp/>and<sp/>print<sp/>every<sp/>part.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;CustomPart&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>doc-&gt;get_PackageCustomParts()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>0;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Part<sp/>index<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>index<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tName:\t\t\t\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_Name()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tContent<sp/>type:\t\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_ContentType()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tRelationship<sp/>type:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_RelationshipType()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(enumerator-&gt;get_Current()-&gt;get_IsExternal()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>?<sp/>u</highlight><highlight class="stringliteral">&quot;\tSourced<sp/>from<sp/>outside<sp/>the<sp/>document&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>:<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tStored<sp/>within<sp/>the<sp/>document,<sp/>length:<sp/>{0}<sp/>bytes&quot;</highlight><highlight class="normal">,<sp/>enumerator-&gt;get_Current()-&gt;get_Data()-&gt;get_Length()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>index++;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>elements<sp/>from<sp/>this<sp/>collection<sp/>individually,<sp/>or<sp/>all<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_PackageCustomParts()-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_PackageCustomParts()-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomPart.h" line="299" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a0324e3d84a18526116479f192df181d8" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt;</type>
+        <definition>System::ArrayPtr&lt; uint8_t &gt; Aspose::Words::Markup::CustomPart::get_Data</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Data</name>
+        <qualifiedname>Aspose::Words::Markup::CustomPart::get_Data</qualifiedname>
+        <briefdescription>
+<para>Contains the data of this custom part. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This property is applicable only when <ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a2005786934e2bec7ce957ece4a69afd0" kindref="member">IsExternal</ref> is <computeroutput>false</computeroutput>.</para>
+<para>The default value is an empty byte array. The value cannot be <computeroutput>null</computeroutput>.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access a document&apos;s arbitrary custom parts collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Custom<sp/>parts<sp/>OOXML<sp/>package.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clone<sp/>the<sp/>second<sp/>part,<sp/>then<sp/>add<sp/>the<sp/>clone<sp/>to<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomPart&gt;<sp/>clonedPart<sp/>=<sp/>doc-&gt;get_PackageCustomParts()-&gt;idx_get(1)-&gt;Clone();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_PackageCustomParts()-&gt;Add(clonedPart);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>over<sp/>the<sp/>collection<sp/>and<sp/>print<sp/>every<sp/>part.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;CustomPart&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>doc-&gt;get_PackageCustomParts()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>0;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Part<sp/>index<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>index<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tName:\t\t\t\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_Name()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tContent<sp/>type:\t\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_ContentType()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tRelationship<sp/>type:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_RelationshipType()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(enumerator-&gt;get_Current()-&gt;get_IsExternal()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>?<sp/>u</highlight><highlight class="stringliteral">&quot;\tSourced<sp/>from<sp/>outside<sp/>the<sp/>document&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>:<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tStored<sp/>within<sp/>the<sp/>document,<sp/>length:<sp/>{0}<sp/>bytes&quot;</highlight><highlight class="normal">,<sp/>enumerator-&gt;get_Current()-&gt;get_Data()-&gt;get_Length()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>index++;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>elements<sp/>from<sp/>this<sp/>collection<sp/>individually,<sp/>or<sp/>all<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_PackageCustomParts()-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_PackageCustomParts()-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomPart.h" line="351" column="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a2005786934e2bec7ce957ece4a69afd0" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Markup::CustomPart::get_IsExternal</definition>
+        <argsstring>() const</argsstring>
+        <name>get_IsExternal</name>
+        <qualifiedname>Aspose::Words::Markup::CustomPart::get_IsExternal</qualifiedname>
+        <briefdescription>
+<para><computeroutput>False</computeroutput> if this custom part is stored inside the OOXML package. <computeroutput>True</computeroutput> if this custom part is an external target. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The default value is <computeroutput>false</computeroutput>.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a6d7afe2645d6f1e6297b8a3ca8205d43" kindref="member">Aspose::Words::Markup::CustomPart::get_Name</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access a document&apos;s arbitrary custom parts collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Custom<sp/>parts<sp/>OOXML<sp/>package.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clone<sp/>the<sp/>second<sp/>part,<sp/>then<sp/>add<sp/>the<sp/>clone<sp/>to<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomPart&gt;<sp/>clonedPart<sp/>=<sp/>doc-&gt;get_PackageCustomParts()-&gt;idx_get(1)-&gt;Clone();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_PackageCustomParts()-&gt;Add(clonedPart);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>over<sp/>the<sp/>collection<sp/>and<sp/>print<sp/>every<sp/>part.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;CustomPart&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>doc-&gt;get_PackageCustomParts()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>0;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Part<sp/>index<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>index<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tName:\t\t\t\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_Name()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tContent<sp/>type:\t\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_ContentType()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tRelationship<sp/>type:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_RelationshipType()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(enumerator-&gt;get_Current()-&gt;get_IsExternal()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>?<sp/>u</highlight><highlight class="stringliteral">&quot;\tSourced<sp/>from<sp/>outside<sp/>the<sp/>document&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>:<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tStored<sp/>within<sp/>the<sp/>document,<sp/>length:<sp/>{0}<sp/>bytes&quot;</highlight><highlight class="normal">,<sp/>enumerator-&gt;get_Current()-&gt;get_Data()-&gt;get_Length()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>index++;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>elements<sp/>from<sp/>this<sp/>collection<sp/>individually,<sp/>or<sp/>all<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_PackageCustomParts()-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_PackageCustomParts()-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomPart.h" line="247" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a6d7afe2645d6f1e6297b8a3ca8205d43" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Markup::CustomPart::get_Name</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Name</name>
+        <qualifiedname>Aspose::Words::Markup::CustomPart::get_Name</qualifiedname>
+        <briefdescription>
+<para>Gets or sets this part&apos;s absolute name within the OOXML package or the target URL. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>If the relationship target is internal, then this property is the absolute part name within the package. If the relationship target is external, then this property is the target URL.</para>
+<para>The default value is an empty string. A valid value must be a non-empty string.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a2005786934e2bec7ce957ece4a69afd0" kindref="member">Aspose::Words::Markup::CustomPart::get_IsExternal</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access a document&apos;s arbitrary custom parts collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Custom<sp/>parts<sp/>OOXML<sp/>package.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clone<sp/>the<sp/>second<sp/>part,<sp/>then<sp/>add<sp/>the<sp/>clone<sp/>to<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomPart&gt;<sp/>clonedPart<sp/>=<sp/>doc-&gt;get_PackageCustomParts()-&gt;idx_get(1)-&gt;Clone();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_PackageCustomParts()-&gt;Add(clonedPart);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>over<sp/>the<sp/>collection<sp/>and<sp/>print<sp/>every<sp/>part.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;CustomPart&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>doc-&gt;get_PackageCustomParts()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>0;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Part<sp/>index<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>index<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tName:\t\t\t\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_Name()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tContent<sp/>type:\t\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_ContentType()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tRelationship<sp/>type:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_RelationshipType()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(enumerator-&gt;get_Current()-&gt;get_IsExternal()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>?<sp/>u</highlight><highlight class="stringliteral">&quot;\tSourced<sp/>from<sp/>outside<sp/>the<sp/>document&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>:<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tStored<sp/>within<sp/>the<sp/>document,<sp/>length:<sp/>{0}<sp/>bytes&quot;</highlight><highlight class="normal">,<sp/>enumerator-&gt;get_Current()-&gt;get_Data()-&gt;get_Length()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>index++;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>elements<sp/>from<sp/>this<sp/>collection<sp/>individually,<sp/>or<sp/>all<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_PackageCustomParts()-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_PackageCustomParts()-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomPart.h" line="142" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1ac8479561b87d058a2ea055f13bfd9b17" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Markup::CustomPart::get_RelationshipType</definition>
+        <argsstring>() const</argsstring>
+        <name>get_RelationshipType</name>
+        <qualifiedname>Aspose::Words::Markup::CustomPart::get_RelationshipType</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the relationship type from the parent part to this custom part. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The relationship type for a custom part must be &quot;unknown&quot; e.g. a custom relationship type, not one of the relationship types defined within ISO/IEC 29500.</para>
+<para>The default value is an empty string. A valid value must be a non-empty string.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access a document&apos;s arbitrary custom parts collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Custom<sp/>parts<sp/>OOXML<sp/>package.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clone<sp/>the<sp/>second<sp/>part,<sp/>then<sp/>add<sp/>the<sp/>clone<sp/>to<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomPart&gt;<sp/>clonedPart<sp/>=<sp/>doc-&gt;get_PackageCustomParts()-&gt;idx_get(1)-&gt;Clone();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_PackageCustomParts()-&gt;Add(clonedPart);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>over<sp/>the<sp/>collection<sp/>and<sp/>print<sp/>every<sp/>part.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;CustomPart&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>doc-&gt;get_PackageCustomParts()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>0;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Part<sp/>index<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>index<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tName:\t\t\t\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_Name()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tContent<sp/>type:\t\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_ContentType()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tRelationship<sp/>type:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_RelationshipType()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(enumerator-&gt;get_Current()-&gt;get_IsExternal()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>?<sp/>u</highlight><highlight class="stringliteral">&quot;\tSourced<sp/>from<sp/>outside<sp/>the<sp/>document&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>:<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tStored<sp/>within<sp/>the<sp/>document,<sp/>length:<sp/>{0}<sp/>bytes&quot;</highlight><highlight class="normal">,<sp/>enumerator-&gt;get_Current()-&gt;get_Data()-&gt;get_Length()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>index++;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>elements<sp/>from<sp/>this<sp/>collection<sp/>individually,<sp/>or<sp/>all<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_PackageCustomParts()-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_PackageCustomParts()-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomPart.h" line="195" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a11fd6626775fc20b04dc5971c40ec2b4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Markup::CustomPart::set_ContentType</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ContentType</name>
+        <qualifiedname>Aspose::Words::Markup::CustomPart::set_ContentType</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a157825525de3b78351b47584fa0c91d7" kindref="member">Aspose::Words::Markup::CustomPart::get_ContentType</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomPart.h" line="302" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1ab313c9959bb31c20df64e678de842acf" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Markup::CustomPart::set_Data</definition>
+        <argsstring>(const System::ArrayPtr&lt; uint8_t &gt; &amp;value)</argsstring>
+        <name>set_Data</name>
+        <qualifiedname>Aspose::Words::Markup::CustomPart::set_Data</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a0324e3d84a18526116479f192df181d8" kindref="member">Aspose::Words::Markup::CustomPart::get_Data</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomPart.h" line="354" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1ae1a9fc206007b0ef202b1ddf89018caf" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Markup::CustomPart::set_IsExternal</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_IsExternal</name>
+        <qualifiedname>Aspose::Words::Markup::CustomPart::set_IsExternal</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a2005786934e2bec7ce957ece4a69afd0" kindref="member">Aspose::Words::Markup::CustomPart::get_IsExternal</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomPart.h" line="250" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1ad1655121485cf1fd2a3dd6967de99868" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Markup::CustomPart::set_Name</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Name</name>
+        <qualifiedname>Aspose::Words::Markup::CustomPart::set_Name</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a6d7afe2645d6f1e6297b8a3ca8205d43" kindref="member">Aspose::Words::Markup::CustomPart::get_Name</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomPart.h" line="145" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a334769e836463275f893c59e65eb4d42" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Markup::CustomPart::set_RelationshipType</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_RelationshipType</name>
+        <qualifiedname>Aspose::Words::Markup::CustomPart::set_RelationshipType</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1ac8479561b87d058a2ea055f13bfd9b17" kindref="member">Aspose::Words::Markup::CustomPart::get_RelationshipType</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/CustomPart.h" line="198" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents a custom (arbitrary content) part, that is not defined by the ISO/IEC 29500 standard. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>This class represents an OOXML part that is a target of an &quot;unknown relationship&quot;. All relationships not defined within ISO/IEC 29500 are considered &quot;unknown relationships&quot;. Unknown relationships are permitted within an Office Open XML document provided that they conform to relationship markup guidelines.</para>
+<para>Microsoft Word preserves custom parts during open/save cycles. Some additional info can be found here <ulink url="http://blogs.msdn.com/dmahugh/archive/2006/11/25/arbitrary-content-in-an-opc-package.aspx">http://blogs.msdn.com/dmahugh/archive/2006/11/25/arbitrary-content-in-an-opc-package.aspx</ulink></para>
+<para>Aspose.Words also roundtrips custom parts and in addition, allows to programmatically access such parts via the <ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part" kindref="compound">CustomPart</ref> and <ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_collection" kindref="compound">CustomPartCollection</ref> objects.</para>
+<para>Do not confuse custom parts with Custom XML Data. Use <ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_xml_part" kindref="compound">CustomXmlPart</ref> if you need to access Custom XML Data.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_collection" kindref="compound">Aspose::Words::Markup::CustomPartCollection</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_document_1aa4bd258086953e8086307ad9b2422589" kindref="member">Aspose::Words::Document::get_PackageCustomParts</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access a document&apos;s arbitrary custom parts collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Custom<sp/>parts<sp/>OOXML<sp/>package.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Clone<sp/>the<sp/>second<sp/>part,<sp/>then<sp/>add<sp/>the<sp/>clone<sp/>to<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;CustomPart&gt;<sp/>clonedPart<sp/>=<sp/>doc-&gt;get_PackageCustomParts()-&gt;idx_get(1)-&gt;Clone();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_PackageCustomParts()-&gt;Add(clonedPart);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>over<sp/>the<sp/>collection<sp/>and<sp/>print<sp/>every<sp/>part.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;CustomPart&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>doc-&gt;get_PackageCustomParts()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>0;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Part<sp/>index<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>index<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tName:\t\t\t\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_Name()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tContent<sp/>type:\t\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_ContentType()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tRelationship<sp/>type:\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_RelationshipType()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(enumerator-&gt;get_Current()-&gt;get_IsExternal()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>?<sp/>u</highlight><highlight class="stringliteral">&quot;\tSourced<sp/>from<sp/>outside<sp/>the<sp/>document&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>:<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;\tStored<sp/>within<sp/>the<sp/>document,<sp/>length:<sp/>{0}<sp/>bytes&quot;</highlight><highlight class="normal">,<sp/>enumerator-&gt;get_Current()-&gt;get_Data()-&gt;get_Length()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>index++;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>elements<sp/>from<sp/>this<sp/>collection<sp/>individually,<sp/>or<sp/>all<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_PackageCustomParts()-&gt;RemoveAt(2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_PackageCustomParts()-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>doc-&gt;get_PackageCustomParts()-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Markup::CustomPart</label>
+        <link refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Markup::CustomPart</label>
+        <link refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Markup/CustomPart.h" line="82" column="1" bodyfile="Aspose.Words.Cpp/Markup/CustomPart.h" bodystart="83" bodyend="416"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a71ce2b41beadfbcf26c0f2cd18bb6925" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::CustomPart</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a2ba1b7a6f83bb571bf3a1384e45730e2" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomPart</scope><name>Clone</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a53be53f722b871e342966339c00cdd61" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomPart</scope><name>CustomPart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a157825525de3b78351b47584fa0c91d7" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomPart</scope><name>get_ContentType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a0324e3d84a18526116479f192df181d8" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomPart</scope><name>get_Data</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a2005786934e2bec7ce957ece4a69afd0" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomPart</scope><name>get_IsExternal</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a6d7afe2645d6f1e6297b8a3ca8205d43" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomPart</scope><name>get_Name</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1ac8479561b87d058a2ea055f13bfd9b17" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomPart</scope><name>get_RelationshipType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1aedec2772d7490af016f7869d77c23b58" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::CustomPart</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1ac1faf409542c534a4cb16fa2bb95dc17" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::CustomPart</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a815792f37eadc55e00fea6727cae9cca" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::CustomPart</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a4066cdaf26609bee83747d641cd9fe7c" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::CustomPart</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a09fafdbe1cbdb7621a727f1eceb59196" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::CustomPart</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1ac4f34facc79a281bc38ea613028db4d0" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::CustomPart</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a6397d9fe6cafdc94fa4ed5b0aa02bef5" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::CustomPart</scope><name>mField6</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1ac17e133ef6f040cf2af68e342cc2cb05" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::CustomPart</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a11fd6626775fc20b04dc5971c40ec2b4" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomPart</scope><name>set_ContentType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1ab313c9959bb31c20df64e678de842acf" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomPart</scope><name>set_Data</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1ae1a9fc206007b0ef202b1ddf89018caf" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomPart</scope><name>set_IsExternal</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1ad1655121485cf1fd2a3dd6967de99868" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomPart</scope><name>set_Name</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1a334769e836463275f893c59e65eb4d42" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::CustomPart</scope><name>set_RelationshipType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1aa3678f8fe17582944ca28d72da74d105" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::CustomPart</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_custom_part_1add3cb0e0a5d9394e04f2fe318fbe345a" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::CustomPart</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

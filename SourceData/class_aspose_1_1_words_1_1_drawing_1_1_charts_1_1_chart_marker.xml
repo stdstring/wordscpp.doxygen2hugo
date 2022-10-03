@@ -1,0 +1,546 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Drawing::Charts::ChartMarker</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Drawing::Charts::Core::IChartFormatSource</basecompoundref>
+    <includes refid="_chart_marker_8h" local="no">Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1a6a2d345f6a018b7d33cc83b777c8581c" prot="private" static="no">
+        <type>Aspose::Words::Drawing::Charts::Core::IChartFormatSource</type>
+        <definition>typedef Aspose::Words::Drawing::Charts::Core::IChartFormatSource Aspose::Words::Drawing::Charts::ChartMarker::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartMarker::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" line="127" column="70" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" bodystart="127" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1a7e04f2c9df44678d2450c9882448bed4" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker" kindref="compound">ChartMarker</ref></type>
+        <definition>typedef ChartMarker Aspose::Words::Drawing::Charts::ChartMarker::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartMarker::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" line="126" column="25" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" bodystart="126" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1a922dbd406f0b468f8db6db5949096c5f" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; BaseType &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Drawing::Charts::ChartMarker::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartMarker::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" line="129" column="37" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" bodystart="129" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1a1f2f694eb04ed2430b33df97759a0e60" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartMarker::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartMarker::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" line="318" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" bodystart="318" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1a83a6f3e8792bf86fba4a46a8b529dc53" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartMarker::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartMarker::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" line="319" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" bodystart="319" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1a1e0702bfdd6deef34f8cf5c127e8243a" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartMarker::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartMarker::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" line="320" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" bodystart="320" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1ae78eb1ecbd5024c4aedcb6f15538824b" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Drawing::Charts::ChartMarker::~ChartMarker</definition>
+        <argsstring>()</argsstring>
+        <name>~ChartMarker</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartMarker::~ChartMarker</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" line="308" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1abc1bef1e50739f62e4fc82f1a7d7e6b0" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Drawing::Core::Dml::Fills::DmlFill &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::Core::Dml::Fills::DmlFill &gt; Aspose::Words::Drawing::Charts::ChartMarker::get_Fill</definition>
+        <argsstring>() override</argsstring>
+        <name>get_Fill</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartMarker::get_Fill</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" line="312" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1a1a17ef6f42a2b40f9c5d747a45227c4a" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Drawing::Core::Dml::Outlines::DmlOutline &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::Core::Dml::Outlines::DmlOutline &gt; Aspose::Words::Drawing::Charts::ChartMarker::get_Outline</definition>
+        <argsstring>() override</argsstring>
+        <name>get_Outline</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartMarker::get_Outline</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" line="314" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1a5f254cd50239a58f82cf94921c7ccac2" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Drawing::Core::Dml::Themes::IThemeProvider &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::Core::Dml::Themes::IThemeProvider &gt; Aspose::Words::Drawing::Charts::ChartMarker::get_ThemeProvider</definition>
+        <argsstring>() override</argsstring>
+        <name>get_ThemeProvider</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartMarker::get_ThemeProvider</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" line="316" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1a2206028a5cf64924e74b10bc32666116" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartMarker::MaterializeSpPr</definition>
+        <argsstring>() override</argsstring>
+        <name>MaterializeSpPr</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartMarker::MaterializeSpPr</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" line="322" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1ae870a656bcc04ecab842712fd29817d2" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Drawing::Charts::ChartMarker::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartMarker::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" line="130" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1aebb445779731453ccc989d92113d1a72" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartMarker::set_Fill</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::Drawing::Core::Dml::Fills::DmlFill &gt;) override</argsstring>
+        <name>set_Fill</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartMarker::set_Fill</qualifiedname>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Drawing::Core::Dml::Fills::DmlFill &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" line="313" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1aa702c27365fec8ff2aec037c1f14b8f1" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartMarker::set_Outline</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::Drawing::Core::Dml::Outlines::DmlOutline &gt;) override</argsstring>
+        <name>set_Outline</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartMarker::set_Outline</qualifiedname>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Drawing::Core::Dml::Outlines::DmlOutline &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" line="315" column="10"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1a9aa04f4d300eb7848bdc17935c680e42" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format" kindref="compound">Aspose::Words::Drawing::Charts::ChartFormat</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::Charts::ChartFormat &gt; Aspose::Words::Drawing::Charts::ChartMarker::get_Format</definition>
+        <argsstring>()</argsstring>
+        <name>get_Format</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartMarker::get_Format</qualifiedname>
+        <briefdescription>
+<para>Provides access to fill and line formatting of this marker. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Show how to set marker formatting. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertChart(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a09870720ca8134284e4e305ac6ce5f19" kindref="member" tooltip="Scatter chart.">ChartType::Scatter</ref>,<sp/>432,<sp/>252);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Chart&gt;<sp/>chart<sp/>=<sp/>shape-&gt;get_Chart();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Delete<sp/>default<sp/>generated<sp/>series.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">chart-&gt;get_Series()-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ChartSeries&gt;<sp/>series<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;Add(u</highlight><highlight class="stringliteral">&quot;AW<sp/>Series<sp/>1&quot;</highlight><highlight class="normal">,<sp/>MakeArray&lt;double&gt;({0.7,<sp/>1.8,<sp/>2.6,<sp/>3.9}),<sp/>MakeArray&lt;double&gt;({2.7,<sp/>3.2,<sp/>0.8,<sp/>1.7}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>marker<sp/>formatting.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">series-&gt;get_Marker()-&gt;set_Size(40);</highlight></codeline>
+<codeline><highlight class="normal">series-&gt;get_Marker()-&gt;set_Symbol(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a00dc99c10541d924bd92abb1fa4027a1aceb46ca115d05c51aa5a16a8867c3304" kindref="member" tooltip="Specifies a square shall be drawn at each data point.">MarkerSymbol::Square</ref>);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ChartDataPointCollection&gt;<sp/>dataPoints<sp/>=<sp/>series-&gt;get_DataPoints();</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(0)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Fill()-&gt;PresetTextured(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca26d2add8253cba145696aedb988451f5" kindref="member" tooltip="Denim texture.">PresetTexture::Denim</ref>);</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(0)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(0)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_BackColor(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(1)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Fill()-&gt;PresetTextured(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca19e498f00e7f35f51d8e9b6144788b1f" kindref="member" tooltip="Water droplets texture.">PresetTexture::WaterDroplets</ref>);</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(1)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(1)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_Visible(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(2)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Fill()-&gt;PresetTextured(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca3dba67e90d8fa1db33b9de781ff30286" kindref="member" tooltip="Green marble texture.">PresetTexture::GreenMarble</ref>);</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(2)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(3)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Fill()-&gt;PresetTextured(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fcaf2b6dcdc344bf345a187b3c6c19af47e" kindref="member" tooltip="Oak texture.">PresetTexture::Oak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(3)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(3)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_Transparency(0.5);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Charts.MarkerFormatting.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" line="304" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1a1685b137ffae6d61519e6b0a2ebe6d21" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Drawing::Charts::ChartMarker::get_Size</definition>
+        <argsstring>()</argsstring>
+        <name>get_Size</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartMarker::get_Size</qualifiedname>
+        <briefdescription>
+<para>Gets or sets chart marker size. Default value is 7. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with data points on a line chart. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ChartDataPoint_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertChart(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a4803e6b9e63dabf04de980788d6a13c4" kindref="member" tooltip="Line chart.">ChartType::Line</ref>,<sp/>500,<sp/>350);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Chart&gt;<sp/>chart<sp/>=<sp/>shape-&gt;get_Chart();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(3,<sp/>chart-&gt;get_Series()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>1&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>2&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>3&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(2)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Emphasize<sp/>the<sp/>chart&apos;s<sp/>data<sp/>points<sp/>by<sp/>making<sp/>them<sp/>appear<sp/>as<sp/>diamond<sp/>shapes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>series<sp/>:<sp/>System::IterateOver(chart-&gt;get_Series()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ApplyDataPoints(series,<sp/>4,<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a00dc99c10541d924bd92abb1fa4027a1a8f7671185d590914ac21c7511767b699" kindref="member" tooltip="Specifies a diamond shall be drawn at each data point.">MarkerSymbol::Diamond</ref>,<sp/>15);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Smooth<sp/>out<sp/>the<sp/>line<sp/>that<sp/>represents<sp/>the<sp/>first<sp/>data<sp/>series.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;set_Smooth(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Verify<sp/>that<sp/>data<sp/>points<sp/>for<sp/>the<sp/>first<sp/>series<sp/>will<sp/>not<sp/>invert<sp/>their<sp/>colors<sp/>if<sp/>the<sp/>value<sp/>is<sp/>negative.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;ChartDataPoint&gt;&gt;&gt;<sp/>enumerator<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_DataPoints()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(enumerator-&gt;get_Current()-&gt;get_InvertIfNegative());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>For<sp/>a<sp/>cleaner<sp/>looking<sp/>graph,<sp/>we<sp/>can<sp/>clear<sp/>format<sp/>individually.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(1)-&gt;get_DataPoints()-&gt;idx_get(2)-&gt;ClearFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>strip<sp/>an<sp/>entire<sp/>series<sp/>of<sp/>data<sp/>points<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(2)-&gt;get_DataPoints()-&gt;ClearFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Charts.ChartDataPoint.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ApplyDataPoints(SharedPtr&lt;ChartSeries&gt;<sp/>series,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>dataPointsCount,<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a00dc99c10541d924bd92abb1fa4027a1" kindref="member" tooltip="Specifies marker symbol style.">MarkerSymbol</ref><sp/>markerSymbol,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>dataPointSize)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>dataPointsCount;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;ChartDataPoint&gt;<sp/>point<sp/>=<sp/>series-&gt;get_DataPoints()-&gt;idx_get(i);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>point-&gt;get_Marker()-&gt;set_Symbol(markerSymbol);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>point-&gt;get_Marker()-&gt;set_Size(dataPointSize);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_EQ(i,<sp/>point-&gt;get_Index());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" line="264" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1af3cff1b608aa121f074f150f8ab0ac2c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a00dc99c10541d924bd92abb1fa4027a1" kindref="member">Aspose::Words::Drawing::Charts::MarkerSymbol</ref></type>
+        <definition>Aspose::Words::Drawing::Charts::MarkerSymbol Aspose::Words::Drawing::Charts::ChartMarker::get_Symbol</definition>
+        <argsstring>()</argsstring>
+        <name>get_Symbol</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartMarker::get_Symbol</qualifiedname>
+        <briefdescription>
+<para>Gets or sets chart marker symbol. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with data points on a line chart. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ChartDataPoint_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertChart(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a4803e6b9e63dabf04de980788d6a13c4" kindref="member" tooltip="Line chart.">ChartType::Line</ref>,<sp/>500,<sp/>350);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Chart&gt;<sp/>chart<sp/>=<sp/>shape-&gt;get_Chart();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(3,<sp/>chart-&gt;get_Series()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>1&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>2&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>3&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(2)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Emphasize<sp/>the<sp/>chart&apos;s<sp/>data<sp/>points<sp/>by<sp/>making<sp/>them<sp/>appear<sp/>as<sp/>diamond<sp/>shapes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>series<sp/>:<sp/>System::IterateOver(chart-&gt;get_Series()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ApplyDataPoints(series,<sp/>4,<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a00dc99c10541d924bd92abb1fa4027a1a8f7671185d590914ac21c7511767b699" kindref="member" tooltip="Specifies a diamond shall be drawn at each data point.">MarkerSymbol::Diamond</ref>,<sp/>15);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Smooth<sp/>out<sp/>the<sp/>line<sp/>that<sp/>represents<sp/>the<sp/>first<sp/>data<sp/>series.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;set_Smooth(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Verify<sp/>that<sp/>data<sp/>points<sp/>for<sp/>the<sp/>first<sp/>series<sp/>will<sp/>not<sp/>invert<sp/>their<sp/>colors<sp/>if<sp/>the<sp/>value<sp/>is<sp/>negative.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;ChartDataPoint&gt;&gt;&gt;<sp/>enumerator<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_DataPoints()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(enumerator-&gt;get_Current()-&gt;get_InvertIfNegative());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>For<sp/>a<sp/>cleaner<sp/>looking<sp/>graph,<sp/>we<sp/>can<sp/>clear<sp/>format<sp/>individually.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(1)-&gt;get_DataPoints()-&gt;idx_get(2)-&gt;ClearFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>strip<sp/>an<sp/>entire<sp/>series<sp/>of<sp/>data<sp/>points<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(2)-&gt;get_DataPoints()-&gt;ClearFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Charts.ChartDataPoint.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ApplyDataPoints(SharedPtr&lt;ChartSeries&gt;<sp/>series,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>dataPointsCount,<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a00dc99c10541d924bd92abb1fa4027a1" kindref="member" tooltip="Specifies marker symbol style.">MarkerSymbol</ref><sp/>markerSymbol,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>dataPointSize)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>dataPointsCount;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;ChartDataPoint&gt;<sp/>point<sp/>=<sp/>series-&gt;get_DataPoints()-&gt;idx_get(i);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>point-&gt;get_Marker()-&gt;set_Symbol(markerSymbol);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>point-&gt;get_Marker()-&gt;set_Size(dataPointSize);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_EQ(i,<sp/>point-&gt;get_Index());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" line="196" column="53"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1aeb039890401745467a9a76ca5d2e57fc" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartMarker::set_Size</definition>
+        <argsstring>(int32_t value)</argsstring>
+        <name>set_Size</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartMarker::set_Size</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1a1685b137ffae6d61519e6b0a2ebe6d21" kindref="member">Aspose::Words::Drawing::Charts::ChartMarker::get_Size</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" line="267" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1a60227b09306bda322af3823c2e4e7dba" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartMarker::set_Symbol</definition>
+        <argsstring>(Aspose::Words::Drawing::Charts::MarkerSymbol value)</argsstring>
+        <name>set_Symbol</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartMarker::set_Symbol</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a00dc99c10541d924bd92abb1fa4027a1" kindref="member">Aspose::Words::Drawing::Charts::MarkerSymbol</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1af3cff1b608aa121f074f150f8ab0ac2c" kindref="member">Aspose::Words::Drawing::Charts::ChartMarker::get_Symbol</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" line="199" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents a chart data marker. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with data points on a line chart. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ChartDataPoint_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertChart(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a4803e6b9e63dabf04de980788d6a13c4" kindref="member" tooltip="Line chart.">ChartType::Line</ref>,<sp/>500,<sp/>350);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Chart&gt;<sp/>chart<sp/>=<sp/>shape-&gt;get_Chart();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(3,<sp/>chart-&gt;get_Series()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>1&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>2&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(1)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Series<sp/>3&quot;</highlight><highlight class="normal">,<sp/>chart-&gt;get_Series()-&gt;idx_get(2)-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Emphasize<sp/>the<sp/>chart&apos;s<sp/>data<sp/>points<sp/>by<sp/>making<sp/>them<sp/>appear<sp/>as<sp/>diamond<sp/>shapes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>series<sp/>:<sp/>System::IterateOver(chart-&gt;get_Series()))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ApplyDataPoints(series,<sp/>4,<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a00dc99c10541d924bd92abb1fa4027a1a8f7671185d590914ac21c7511767b699" kindref="member" tooltip="Specifies a diamond shall be drawn at each data point.">MarkerSymbol::Diamond</ref>,<sp/>15);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Smooth<sp/>out<sp/>the<sp/>line<sp/>that<sp/>represents<sp/>the<sp/>first<sp/>data<sp/>series.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;set_Smooth(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Verify<sp/>that<sp/>data<sp/>points<sp/>for<sp/>the<sp/>first<sp/>series<sp/>will<sp/>not<sp/>invert<sp/>their<sp/>colors<sp/>if<sp/>the<sp/>value<sp/>is<sp/>negative.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;ChartDataPoint&gt;&gt;&gt;<sp/>enumerator<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(0)-&gt;get_DataPoints()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(enumerator-&gt;get_Current()-&gt;get_InvertIfNegative());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>For<sp/>a<sp/>cleaner<sp/>looking<sp/>graph,<sp/>we<sp/>can<sp/>clear<sp/>format<sp/>individually.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(1)-&gt;get_DataPoints()-&gt;idx_get(2)-&gt;ClearFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>strip<sp/>an<sp/>entire<sp/>series<sp/>of<sp/>data<sp/>points<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;idx_get(2)-&gt;get_DataPoints()-&gt;ClearFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Charts.ChartDataPoint.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ApplyDataPoints(SharedPtr&lt;ChartSeries&gt;<sp/>series,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>dataPointsCount,<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a00dc99c10541d924bd92abb1fa4027a1" kindref="member" tooltip="Specifies marker symbol style.">MarkerSymbol</ref><sp/>markerSymbol,<sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>dataPointSize)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>dataPointsCount;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;ChartDataPoint&gt;<sp/>point<sp/>=<sp/>series-&gt;get_DataPoints()-&gt;idx_get(i);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>point-&gt;get_Marker()-&gt;set_Symbol(markerSymbol);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>point-&gt;get_Marker()-&gt;set_Size(dataPointSize);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_EQ(i,<sp/>point-&gt;get_Index());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Drawing::Charts::ChartMarker</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Drawing::Charts::Core::IChartFormatSource</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Drawing::Charts::ChartMarker</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Drawing::Charts::Core::IChartFormatSource</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" line="124" column="1" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartMarker.h" bodystart="125" bodyend="326"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1a6a2d345f6a018b7d33cc83b777c8581c" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartMarker</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1abc1bef1e50739f62e4fc82f1a7d7e6b0" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartMarker</scope><name>get_Fill</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1a9aa04f4d300eb7848bdc17935c680e42" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartMarker</scope><name>get_Format</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1a1a17ef6f42a2b40f9c5d747a45227c4a" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartMarker</scope><name>get_Outline</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1a1685b137ffae6d61519e6b0a2ebe6d21" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartMarker</scope><name>get_Size</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1af3cff1b608aa121f074f150f8ab0ac2c" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartMarker</scope><name>get_Symbol</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1a5f254cd50239a58f82cf94921c7ccac2" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartMarker</scope><name>get_ThemeProvider</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1a2206028a5cf64924e74b10bc32666116" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartMarker</scope><name>MaterializeSpPr</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1a1f2f694eb04ed2430b33df97759a0e60" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartMarker</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1a83a6f3e8792bf86fba4a46a8b529dc53" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartMarker</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1a1e0702bfdd6deef34f8cf5c127e8243a" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartMarker</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1ae870a656bcc04ecab842712fd29817d2" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartMarker</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1aebb445779731453ccc989d92113d1a72" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartMarker</scope><name>set_Fill</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1aa702c27365fec8ff2aec037c1f14b8f1" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartMarker</scope><name>set_Outline</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1aeb039890401745467a9a76ca5d2e57fc" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartMarker</scope><name>set_Size</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1a60227b09306bda322af3823c2e4e7dba" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartMarker</scope><name>set_Symbol</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1a7e04f2c9df44678d2450c9882448bed4" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartMarker</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1a922dbd406f0b468f8db6db5949096c5f" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartMarker</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_marker_1ae78eb1ecbd5024c4aedcb6f15538824b" prot="private" virt="virtual"><scope>Aspose::Words::Drawing::Charts::ChartMarker</scope><name>~ChartMarker</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

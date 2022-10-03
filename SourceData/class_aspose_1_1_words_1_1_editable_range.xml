@@ -1,0 +1,809 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_editable_range" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::EditableRange</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_editable_range_8h" local="no">Aspose.Words.Cpp/EditableRange.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_editable_range_1a27034af1c18af29a03ba2f64c6aa5621" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::EditableRange::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::EditableRange::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/EditableRange.h" line="197" column="28" bodyfile="Aspose.Words.Cpp/EditableRange.h" bodystart="197" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_editable_range_1a6253a63b2f76e4fdae293eb9105a94cc" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_editable_range" kindref="compound">EditableRange</ref></type>
+        <definition>typedef EditableRange Aspose::Words::EditableRange::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::EditableRange::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/EditableRange.h" line="196" column="27" bodyfile="Aspose.Words.Cpp/EditableRange.h" bodystart="196" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_editable_range_1ad45c9ff72b63caa3f3a91fd6e3ed3bfe" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::EditableRange::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::EditableRange::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/EditableRange.h" line="199" column="37" bodyfile="Aspose.Words.Cpp/EditableRange.h" bodystart="199" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_editable_range_1a16dafcb955bc13d04bfd42944fcee9cf" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::EditableRange::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::EditableRange::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/EditableRange.h" line="687" column="23" bodyfile="Aspose.Words.Cpp/EditableRange.h" bodystart="687" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_editable_range_1ab3d50c9e1a172f4792c6bfff9b8a7bbb" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::EditableRange::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::EditableRange::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/EditableRange.h" line="688" column="23" bodyfile="Aspose.Words.Cpp/EditableRange.h" bodystart="688" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_editable_range_1a8931c7f66055794772ae09b2d71ec8db" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::EditableRange::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::EditableRange::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/EditableRange.h" line="200" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_editable_range_1a3a7004b57dd58df32ae8de1fabed0e70" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_editable_range_end" kindref="compound">Aspose::Words::EditableRangeEnd</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::EditableRangeEnd &gt; Aspose::Words::EditableRange::get_EditableRangeEnd</definition>
+        <argsstring>()</argsstring>
+        <name>get_EditableRangeEnd</name>
+        <qualifiedname>Aspose::Words::EditableRange::get_EditableRangeEnd</qualifiedname>
+        <briefdescription>
+<para>Gets the node that represents the end of the editable range. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with an editable range. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Protect(<ref refid="namespace_aspose_1_1_words_1a4b3be683cf728f992b0c78c0ce8acd60a131fb182a881796e7606ed6da27f1197" kindref="member" tooltip="No changes are allowed to the document. Available since Microsoft Word 2003.">ProtectionType::ReadOnly</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!<sp/>Since<sp/>we<sp/>have<sp/>set<sp/>the<sp/>document&apos;s<sp/>protection<sp/>level<sp/>to<sp/>read-only,&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>we<sp/>cannot<sp/>edit<sp/>this<sp/>paragraph<sp/>without<sp/>the<sp/>password.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Editable<sp/>ranges<sp/>allow<sp/>us<sp/>to<sp/>leave<sp/>parts<sp/>of<sp/>protected<sp/>documents<sp/>open<sp/>for<sp/>editing.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;EditableRangeStart&gt;<sp/>editableRangeStart<sp/>=<sp/>builder-&gt;StartEditableRange();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>is<sp/>inside<sp/>an<sp/>editable<sp/>range,<sp/>and<sp/>can<sp/>be<sp/>edited.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;EditableRangeEnd&gt;<sp/>editableRangeEnd<sp/>=<sp/>builder-&gt;EndEditableRange();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>well-formed<sp/>editable<sp/>range<sp/>has<sp/>a<sp/>start<sp/>node,<sp/>and<sp/>end<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>nodes<sp/>have<sp/>matching<sp/>IDs<sp/>and<sp/>encompass<sp/>editable<sp/>nodes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;EditableRange&gt;<sp/>editableRange<sp/>=<sp/>editableRangeStart-&gt;get_EditableRange();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRangeStart-&gt;get_Id(),<sp/>editableRange-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRangeEnd-&gt;get_Id(),<sp/>editableRange-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Different<sp/>parts<sp/>of<sp/>the<sp/>editable<sp/>range<sp/>link<sp/>to<sp/>each<sp/>other.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRangeStart-&gt;get_Id(),<sp/>editableRange-&gt;get_EditableRangeStart()-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRangeStart-&gt;get_Id(),<sp/>editableRangeEnd-&gt;get_EditableRangeStart()-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRange-&gt;get_Id(),<sp/>editableRangeStart-&gt;get_EditableRange()-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRangeEnd-&gt;get_Id(),<sp/>editableRange-&gt;get_EditableRangeEnd()-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>access<sp/>the<sp/>node<sp/>types<sp/>of<sp/>each<sp/>part<sp/>like<sp/>this.<sp/>The<sp/>editable<sp/>range<sp/>itself<sp/>is<sp/>not<sp/>a<sp/>node,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>but<sp/>an<sp/>entity<sp/>which<sp/>consists<sp/>of<sp/>a<sp/>start,<sp/>an<sp/>end,<sp/>and<sp/>their<sp/>enclosed<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379ab88eb18c19662bf66714b9ac6f20b1fc" kindref="member" tooltip="A beginning of an editable range.">NodeType::EditableRangeStart</ref>,<sp/>editableRangeStart-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a65e9b68ed547a62d4d9eb928da137251" kindref="member" tooltip="An end of an editable range.">NodeType::EditableRangeEnd</ref>,<sp/>editableRangeEnd-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>is<sp/>outside<sp/>the<sp/>editable<sp/>range,<sp/>and<sp/>cannot<sp/>be<sp/>edited.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;EditableRange.CreateAndRemove.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>an<sp/>editable<sp/>range.<sp/>All<sp/>the<sp/>nodes<sp/>that<sp/>were<sp/>inside<sp/>the<sp/>range<sp/>will<sp/>remain<sp/>intact.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">editableRange-&gt;Remove();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/EditableRange.h" line="636" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_editable_range_1a7a7909410d362ae2a0537fba45c506c2" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_editable_range_start" kindref="compound">Aspose::Words::EditableRangeStart</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::EditableRangeStart &gt; Aspose::Words::EditableRange::get_EditableRangeStart</definition>
+        <argsstring>() const</argsstring>
+        <name>get_EditableRangeStart</name>
+        <qualifiedname>Aspose::Words::EditableRange::get_EditableRangeStart</qualifiedname>
+        <briefdescription>
+<para>Gets the node that represents the start of the editable range. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with an editable range. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Protect(<ref refid="namespace_aspose_1_1_words_1a4b3be683cf728f992b0c78c0ce8acd60a131fb182a881796e7606ed6da27f1197" kindref="member" tooltip="No changes are allowed to the document. Available since Microsoft Word 2003.">ProtectionType::ReadOnly</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!<sp/>Since<sp/>we<sp/>have<sp/>set<sp/>the<sp/>document&apos;s<sp/>protection<sp/>level<sp/>to<sp/>read-only,&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>we<sp/>cannot<sp/>edit<sp/>this<sp/>paragraph<sp/>without<sp/>the<sp/>password.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Editable<sp/>ranges<sp/>allow<sp/>us<sp/>to<sp/>leave<sp/>parts<sp/>of<sp/>protected<sp/>documents<sp/>open<sp/>for<sp/>editing.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;EditableRangeStart&gt;<sp/>editableRangeStart<sp/>=<sp/>builder-&gt;StartEditableRange();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>is<sp/>inside<sp/>an<sp/>editable<sp/>range,<sp/>and<sp/>can<sp/>be<sp/>edited.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;EditableRangeEnd&gt;<sp/>editableRangeEnd<sp/>=<sp/>builder-&gt;EndEditableRange();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>well-formed<sp/>editable<sp/>range<sp/>has<sp/>a<sp/>start<sp/>node,<sp/>and<sp/>end<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>nodes<sp/>have<sp/>matching<sp/>IDs<sp/>and<sp/>encompass<sp/>editable<sp/>nodes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;EditableRange&gt;<sp/>editableRange<sp/>=<sp/>editableRangeStart-&gt;get_EditableRange();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRangeStart-&gt;get_Id(),<sp/>editableRange-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRangeEnd-&gt;get_Id(),<sp/>editableRange-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Different<sp/>parts<sp/>of<sp/>the<sp/>editable<sp/>range<sp/>link<sp/>to<sp/>each<sp/>other.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRangeStart-&gt;get_Id(),<sp/>editableRange-&gt;get_EditableRangeStart()-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRangeStart-&gt;get_Id(),<sp/>editableRangeEnd-&gt;get_EditableRangeStart()-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRange-&gt;get_Id(),<sp/>editableRangeStart-&gt;get_EditableRange()-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRangeEnd-&gt;get_Id(),<sp/>editableRange-&gt;get_EditableRangeEnd()-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>access<sp/>the<sp/>node<sp/>types<sp/>of<sp/>each<sp/>part<sp/>like<sp/>this.<sp/>The<sp/>editable<sp/>range<sp/>itself<sp/>is<sp/>not<sp/>a<sp/>node,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>but<sp/>an<sp/>entity<sp/>which<sp/>consists<sp/>of<sp/>a<sp/>start,<sp/>an<sp/>end,<sp/>and<sp/>their<sp/>enclosed<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379ab88eb18c19662bf66714b9ac6f20b1fc" kindref="member" tooltip="A beginning of an editable range.">NodeType::EditableRangeStart</ref>,<sp/>editableRangeStart-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a65e9b68ed547a62d4d9eb928da137251" kindref="member" tooltip="An end of an editable range.">NodeType::EditableRangeEnd</ref>,<sp/>editableRangeEnd-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>is<sp/>outside<sp/>the<sp/>editable<sp/>range,<sp/>and<sp/>cannot<sp/>be<sp/>edited.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;EditableRange.CreateAndRemove.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>an<sp/>editable<sp/>range.<sp/>All<sp/>the<sp/>nodes<sp/>that<sp/>were<sp/>inside<sp/>the<sp/>range<sp/>will<sp/>remain<sp/>intact.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">editableRange-&gt;Remove();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/EditableRange.h" line="591" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_editable_range_1aea61e572c6f48e637ee8b5f219932c44" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a91d5f723074b64ad6e414ec9a2e7f773" kindref="member">Aspose::Words::EditorType</ref></type>
+        <definition>Aspose::Words::EditorType Aspose::Words::EditableRange::get_EditorGroup</definition>
+        <argsstring>()</argsstring>
+        <name>get_EditorGroup</name>
+        <qualifiedname>Aspose::Words::EditableRange::get_EditorGroup</qualifiedname>
+        <briefdescription>
+<para>Returns or sets an alias (or editing group) which shall be used to determine if the current user shall be allowed to edit this editable range. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Single user and editor group cannot be set simultaneously for the specific editable range, if the one is set, the other will be clear.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create nested editable ranges. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Protect(<ref refid="namespace_aspose_1_1_words_1a4b3be683cf728f992b0c78c0ce8acd60a131fb182a881796e7606ed6da27f1197" kindref="member" tooltip="No changes are allowed to the document. Available since Microsoft Word 2003.">ProtectionType::ReadOnly</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!<sp/>Since<sp/>we<sp/>have<sp/>set<sp/>the<sp/>document&apos;s<sp/>protection<sp/>level<sp/>to<sp/>read-only,<sp/>&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;we<sp/>cannot<sp/>edit<sp/>this<sp/>paragraph<sp/>without<sp/>the<sp/>password.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>two<sp/>nested<sp/>editable<sp/>ranges.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;EditableRangeStart&gt;<sp/>outerEditableRangeStart<sp/>=<sp/>builder-&gt;StartEditableRange();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>inside<sp/>the<sp/>outer<sp/>editable<sp/>range<sp/>and<sp/>can<sp/>be<sp/>edited.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;EditableRangeStart&gt;<sp/>innerEditableRangeStart<sp/>=<sp/>builder-&gt;StartEditableRange();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>inside<sp/>both<sp/>the<sp/>outer<sp/>and<sp/>inner<sp/>editable<sp/>ranges<sp/>and<sp/>can<sp/>be<sp/>edited.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Currently,<sp/>the<sp/>document<sp/>builder&apos;s<sp/>node<sp/>insertion<sp/>cursor<sp/>is<sp/>in<sp/>more<sp/>than<sp/>one<sp/>ongoing<sp/>editable<sp/>range.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>want<sp/>to<sp/>end<sp/>an<sp/>editable<sp/>range<sp/>in<sp/>this<sp/>situation,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>we<sp/>need<sp/>to<sp/>specify<sp/>which<sp/>of<sp/>the<sp/>ranges<sp/>we<sp/>wish<sp/>to<sp/>end<sp/>by<sp/>passing<sp/>its<sp/>EditableRangeStart<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndEditableRange(innerEditableRangeStart);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>inside<sp/>the<sp/>outer<sp/>editable<sp/>range<sp/>and<sp/>can<sp/>be<sp/>edited.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndEditableRange(outerEditableRangeStart);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>is<sp/>outside<sp/>any<sp/>editable<sp/>ranges,<sp/>and<sp/>cannot<sp/>be<sp/>edited.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>a<sp/>region<sp/>of<sp/>text<sp/>has<sp/>two<sp/>overlapping<sp/>editable<sp/>ranges<sp/>with<sp/>specified<sp/>groups,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>combined<sp/>group<sp/>of<sp/>users<sp/>excluded<sp/>by<sp/>both<sp/>groups<sp/>are<sp/>prevented<sp/>from<sp/>editing<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">outerEditableRangeStart-&gt;get_EditableRange()-&gt;set_EditorGroup(<ref refid="namespace_aspose_1_1_words_1a91d5f723074b64ad6e414ec9a2e7f773af9ae5e5c44e59f94680af569879f704a" kindref="member" tooltip="Specifies that all users that open the document shall be allowed to edit editable ranges using this e...">EditorType::Everyone</ref>);</highlight></codeline>
+<codeline><highlight class="normal">innerEditableRangeStart-&gt;get_EditableRange()-&gt;set_EditorGroup(<ref refid="namespace_aspose_1_1_words_1a91d5f723074b64ad6e414ec9a2e7f773a96858cb143562346b7f065e32c403f30" kindref="member" tooltip="Specifies that users associated with the Contributors group shall be allowed to edit editable ranges ...">EditorType::Contributors</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;EditableRange.Nested.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to limit the editing rights of editable ranges to a specific group/user. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>Visitor()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Protect(<ref refid="namespace_aspose_1_1_words_1a4b3be683cf728f992b0c78c0ce8acd60a131fb182a881796e7606ed6da27f1197" kindref="member" tooltip="No changes are allowed to the document. Available since Microsoft Word 2003.">ProtectionType::ReadOnly</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!<sp/>Since<sp/>we<sp/>have<sp/>set<sp/>the<sp/>document&apos;s<sp/>protection<sp/>level<sp/>to<sp/>read-only,&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>we<sp/>cannot<sp/>edit<sp/>this<sp/>paragraph<sp/>without<sp/>the<sp/>password.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>write-protect<sp/>documents,<sp/>editable<sp/>ranges<sp/>allow<sp/>us<sp/>to<sp/>pick<sp/>specific<sp/>areas<sp/>that<sp/>users<sp/>may<sp/>edit.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>mutually<sp/>exclusive<sp/>ways<sp/>to<sp/>narrow<sp/>down<sp/>the<sp/>list<sp/>of<sp/>allowed<sp/>editors.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Specify<sp/>a<sp/>user:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;EditableRange&gt;<sp/>editableRange<sp/>=<sp/>builder-&gt;StartEditableRange()-&gt;get_EditableRange();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>editableRange-&gt;set_SingleUser(u</highlight><highlight class="stringliteral">&quot;john.doe@myoffice.com&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(String::Format(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>is<sp/>inside<sp/>the<sp/>first<sp/>editable<sp/>range,<sp/>can<sp/>only<sp/>be<sp/>edited<sp/>by<sp/>{0}.&quot;</highlight><highlight class="normal">,<sp/>editableRange-&gt;get_SingleUser()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndEditableRange();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a91d5f723074b64ad6e414ec9a2e7f773a6fcdc090caeade09d0efd6253932b6f5" kindref="member" tooltip="Means that editor type is not specified.">EditorType::Unspecified</ref>,<sp/>editableRange-&gt;get_EditorGroup());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Specify<sp/>a<sp/>group<sp/>that<sp/>allowed<sp/>users<sp/>are<sp/>associated<sp/>with:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>editableRange<sp/>=<sp/>builder-&gt;StartEditableRange()-&gt;get_EditableRange();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>editableRange-&gt;set_EditorGroup(<ref refid="namespace_aspose_1_1_words_1a91d5f723074b64ad6e414ec9a2e7f773ac1ec1d62eafad32ca16fe4df49b9ca2f" kindref="member" tooltip="Specifies that users associated with the Administrators group shall be allowed to edit editable range...">EditorType::Administrators</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(String::Format(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>is<sp/>inside<sp/>the<sp/>first<sp/>editable<sp/>range,<sp/>can<sp/>only<sp/>be<sp/>edited<sp/>by<sp/>{0}.&quot;</highlight><highlight class="normal">,<sp/>editableRange-&gt;get_EditorGroup()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndEditableRange();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(String::Empty,<sp/>editableRange-&gt;get_SingleUser());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>is<sp/>outside<sp/>the<sp/>editable<sp/>range,<sp/>and<sp/>cannot<sp/>be<sp/>edited<sp/>by<sp/>anybody.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Print<sp/>details<sp/>and<sp/>contents<sp/>of<sp/>every<sp/>editable<sp/>range<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>editableRangePrinter<sp/>=<sp/>MakeObject&lt;ExEditableRange::EditableRangePrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Accept(editableRangePrinter);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>editableRangePrinter-&gt;ToText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">EditableRangePrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>EditableRangePrinter()<sp/>:<sp/>mInsideEditableRange(false)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder<sp/>=<sp/>MakeObject&lt;System::Text::StringBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>ToText()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mBuilder-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>Reset()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mInsideEditableRange<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitEditableRangeStart(SharedPtr&lt;EditableRangeStart&gt;<sp/>editableRangeStart)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(u</highlight><highlight class="stringliteral">&quot;<sp/>--<sp/>Editable<sp/>range<sp/>found!<sp/>--<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tID:\t\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/>editableRangeStart-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(editableRangeStart-&gt;get_EditableRange()-&gt;get_SingleUser()<sp/>==<sp/>String::Empty)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tGroup:\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(editableRangeStart-&gt;get_EditableRange()-&gt;get_EditorGroup()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tUser:\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/>editableRangeStart-&gt;get_EditableRange()-&gt;get_SingleUser());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(u</highlight><highlight class="stringliteral">&quot;\tContents:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mInsideEditableRange<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitEditableRangeEnd(SharedPtr&lt;EditableRangeEnd&gt;<sp/>editableRangeEnd)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(u</highlight><highlight class="stringliteral">&quot;<sp/>--<sp/>End<sp/>of<sp/>editable<sp/>range<sp/>--\n&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mInsideEditableRange<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitRun(SharedPtr&lt;Run&gt;<sp/>run)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(mInsideEditableRange)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\&quot;&quot;</highlight><highlight class="normal">)<sp/>+<sp/>run-&gt;get_Text()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>mInsideEditableRange;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mBuilder;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/EditableRange.h" line="543" column="34"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_editable_range_1ab698f83ec2c9c69247c04d66d96f8766" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::EditableRange::get_Id</definition>
+        <argsstring>()</argsstring>
+        <name>get_Id</name>
+        <qualifiedname>Aspose::Words::EditableRange::get_Id</qualifiedname>
+        <briefdescription>
+<para>Gets the editable range identifier. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The region must be demarcated using the <ref refid="class_aspose_1_1_words_1_1_editable_range_1a7a7909410d362ae2a0537fba45c506c2" kindref="member">EditableRangeStart</ref> and <ref refid="class_aspose_1_1_words_1_1_editable_range_1a3a7004b57dd58df32ae8de1fabed0e70" kindref="member">EditableRangeEnd</ref></para>
+<para>Editable range identifiers are supposed to be unique across a document and Aspose.Words automatically maintains editable range identifiers when loading, saving and combining documents.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with an editable range. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Protect(<ref refid="namespace_aspose_1_1_words_1a4b3be683cf728f992b0c78c0ce8acd60a131fb182a881796e7606ed6da27f1197" kindref="member" tooltip="No changes are allowed to the document. Available since Microsoft Word 2003.">ProtectionType::ReadOnly</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!<sp/>Since<sp/>we<sp/>have<sp/>set<sp/>the<sp/>document&apos;s<sp/>protection<sp/>level<sp/>to<sp/>read-only,&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>we<sp/>cannot<sp/>edit<sp/>this<sp/>paragraph<sp/>without<sp/>the<sp/>password.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Editable<sp/>ranges<sp/>allow<sp/>us<sp/>to<sp/>leave<sp/>parts<sp/>of<sp/>protected<sp/>documents<sp/>open<sp/>for<sp/>editing.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;EditableRangeStart&gt;<sp/>editableRangeStart<sp/>=<sp/>builder-&gt;StartEditableRange();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>is<sp/>inside<sp/>an<sp/>editable<sp/>range,<sp/>and<sp/>can<sp/>be<sp/>edited.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;EditableRangeEnd&gt;<sp/>editableRangeEnd<sp/>=<sp/>builder-&gt;EndEditableRange();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>well-formed<sp/>editable<sp/>range<sp/>has<sp/>a<sp/>start<sp/>node,<sp/>and<sp/>end<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>nodes<sp/>have<sp/>matching<sp/>IDs<sp/>and<sp/>encompass<sp/>editable<sp/>nodes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;EditableRange&gt;<sp/>editableRange<sp/>=<sp/>editableRangeStart-&gt;get_EditableRange();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRangeStart-&gt;get_Id(),<sp/>editableRange-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRangeEnd-&gt;get_Id(),<sp/>editableRange-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Different<sp/>parts<sp/>of<sp/>the<sp/>editable<sp/>range<sp/>link<sp/>to<sp/>each<sp/>other.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRangeStart-&gt;get_Id(),<sp/>editableRange-&gt;get_EditableRangeStart()-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRangeStart-&gt;get_Id(),<sp/>editableRangeEnd-&gt;get_EditableRangeStart()-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRange-&gt;get_Id(),<sp/>editableRangeStart-&gt;get_EditableRange()-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRangeEnd-&gt;get_Id(),<sp/>editableRange-&gt;get_EditableRangeEnd()-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>access<sp/>the<sp/>node<sp/>types<sp/>of<sp/>each<sp/>part<sp/>like<sp/>this.<sp/>The<sp/>editable<sp/>range<sp/>itself<sp/>is<sp/>not<sp/>a<sp/>node,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>but<sp/>an<sp/>entity<sp/>which<sp/>consists<sp/>of<sp/>a<sp/>start,<sp/>an<sp/>end,<sp/>and<sp/>their<sp/>enclosed<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379ab88eb18c19662bf66714b9ac6f20b1fc" kindref="member" tooltip="A beginning of an editable range.">NodeType::EditableRangeStart</ref>,<sp/>editableRangeStart-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a65e9b68ed547a62d4d9eb928da137251" kindref="member" tooltip="An end of an editable range.">NodeType::EditableRangeEnd</ref>,<sp/>editableRangeEnd-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>is<sp/>outside<sp/>the<sp/>editable<sp/>range,<sp/>and<sp/>cannot<sp/>be<sp/>edited.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;EditableRange.CreateAndRemove.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>an<sp/>editable<sp/>range.<sp/>All<sp/>the<sp/>nodes<sp/>that<sp/>were<sp/>inside<sp/>the<sp/>range<sp/>will<sp/>remain<sp/>intact.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">editableRange-&gt;Remove();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/EditableRange.h" line="252" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_editable_range_1af81bf35cae88652be74aa3eb1cdc4bfc" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::EditableRange::get_SingleUser</definition>
+        <argsstring>()</argsstring>
+        <name>get_SingleUser</name>
+        <qualifiedname>Aspose::Words::EditableRange::get_SingleUser</qualifiedname>
+        <briefdescription>
+<para>Returns or sets the single user for editable range. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This editor can be stored in one of the following forms:</para>
+<para>DOMAIN\Username - for users whose access shall be authenticated using the current user&apos;s domain credentials.</para>
+<para>user@domain.com - for users whose access shall be authenticated using the user&apos;s e-mail address as credentials.</para>
+<para>user - for users whose access shall be authenticated using the current user&apos;s machine credentials.</para>
+<para>Single user and editor group cannot be set simultaneously for the specific editable range, if the one is set, the other will be clear.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to limit the editing rights of editable ranges to a specific group/user. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>Visitor()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Protect(<ref refid="namespace_aspose_1_1_words_1a4b3be683cf728f992b0c78c0ce8acd60a131fb182a881796e7606ed6da27f1197" kindref="member" tooltip="No changes are allowed to the document. Available since Microsoft Word 2003.">ProtectionType::ReadOnly</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!<sp/>Since<sp/>we<sp/>have<sp/>set<sp/>the<sp/>document&apos;s<sp/>protection<sp/>level<sp/>to<sp/>read-only,&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>we<sp/>cannot<sp/>edit<sp/>this<sp/>paragraph<sp/>without<sp/>the<sp/>password.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>write-protect<sp/>documents,<sp/>editable<sp/>ranges<sp/>allow<sp/>us<sp/>to<sp/>pick<sp/>specific<sp/>areas<sp/>that<sp/>users<sp/>may<sp/>edit.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>mutually<sp/>exclusive<sp/>ways<sp/>to<sp/>narrow<sp/>down<sp/>the<sp/>list<sp/>of<sp/>allowed<sp/>editors.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Specify<sp/>a<sp/>user:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;EditableRange&gt;<sp/>editableRange<sp/>=<sp/>builder-&gt;StartEditableRange()-&gt;get_EditableRange();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>editableRange-&gt;set_SingleUser(u</highlight><highlight class="stringliteral">&quot;john.doe@myoffice.com&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(String::Format(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>is<sp/>inside<sp/>the<sp/>first<sp/>editable<sp/>range,<sp/>can<sp/>only<sp/>be<sp/>edited<sp/>by<sp/>{0}.&quot;</highlight><highlight class="normal">,<sp/>editableRange-&gt;get_SingleUser()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndEditableRange();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a91d5f723074b64ad6e414ec9a2e7f773a6fcdc090caeade09d0efd6253932b6f5" kindref="member" tooltip="Means that editor type is not specified.">EditorType::Unspecified</ref>,<sp/>editableRange-&gt;get_EditorGroup());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Specify<sp/>a<sp/>group<sp/>that<sp/>allowed<sp/>users<sp/>are<sp/>associated<sp/>with:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>editableRange<sp/>=<sp/>builder-&gt;StartEditableRange()-&gt;get_EditableRange();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>editableRange-&gt;set_EditorGroup(<ref refid="namespace_aspose_1_1_words_1a91d5f723074b64ad6e414ec9a2e7f773ac1ec1d62eafad32ca16fe4df49b9ca2f" kindref="member" tooltip="Specifies that users associated with the Administrators group shall be allowed to edit editable range...">EditorType::Administrators</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(String::Format(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>is<sp/>inside<sp/>the<sp/>first<sp/>editable<sp/>range,<sp/>can<sp/>only<sp/>be<sp/>edited<sp/>by<sp/>{0}.&quot;</highlight><highlight class="normal">,<sp/>editableRange-&gt;get_EditorGroup()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndEditableRange();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(String::Empty,<sp/>editableRange-&gt;get_SingleUser());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>is<sp/>outside<sp/>the<sp/>editable<sp/>range,<sp/>and<sp/>cannot<sp/>be<sp/>edited<sp/>by<sp/>anybody.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Print<sp/>details<sp/>and<sp/>contents<sp/>of<sp/>every<sp/>editable<sp/>range<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>editableRangePrinter<sp/>=<sp/>MakeObject&lt;ExEditableRange::EditableRangePrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Accept(editableRangePrinter);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>editableRangePrinter-&gt;ToText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">EditableRangePrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>EditableRangePrinter()<sp/>:<sp/>mInsideEditableRange(false)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder<sp/>=<sp/>MakeObject&lt;System::Text::StringBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>ToText()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mBuilder-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>Reset()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mInsideEditableRange<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitEditableRangeStart(SharedPtr&lt;EditableRangeStart&gt;<sp/>editableRangeStart)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(u</highlight><highlight class="stringliteral">&quot;<sp/>--<sp/>Editable<sp/>range<sp/>found!<sp/>--<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tID:\t\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/>editableRangeStart-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(editableRangeStart-&gt;get_EditableRange()-&gt;get_SingleUser()<sp/>==<sp/>String::Empty)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tGroup:\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(editableRangeStart-&gt;get_EditableRange()-&gt;get_EditorGroup()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tUser:\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/>editableRangeStart-&gt;get_EditableRange()-&gt;get_SingleUser());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(u</highlight><highlight class="stringliteral">&quot;\tContents:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mInsideEditableRange<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitEditableRangeEnd(SharedPtr&lt;EditableRangeEnd&gt;<sp/>editableRangeEnd)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(u</highlight><highlight class="stringliteral">&quot;<sp/>--<sp/>End<sp/>of<sp/>editable<sp/>range<sp/>--\n&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mInsideEditableRange<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitRun(SharedPtr&lt;Run&gt;<sp/>run)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(mInsideEditableRange)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\&quot;&quot;</highlight><highlight class="normal">)<sp/>+<sp/>run-&gt;get_Text()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>mInsideEditableRange;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mBuilder;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/EditableRange.h" line="382" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_editable_range_1ad4f4b692f2469f009d0f8631431285b7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::EditableRange::Remove</definition>
+        <argsstring>()</argsstring>
+        <name>Remove</name>
+        <qualifiedname>Aspose::Words::EditableRange::Remove</qualifiedname>
+        <briefdescription>
+<para>Removes the editable range from the document. Does not remove content inside the editable range. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with an editable range. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Protect(<ref refid="namespace_aspose_1_1_words_1a4b3be683cf728f992b0c78c0ce8acd60a131fb182a881796e7606ed6da27f1197" kindref="member" tooltip="No changes are allowed to the document. Available since Microsoft Word 2003.">ProtectionType::ReadOnly</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!<sp/>Since<sp/>we<sp/>have<sp/>set<sp/>the<sp/>document&apos;s<sp/>protection<sp/>level<sp/>to<sp/>read-only,&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>we<sp/>cannot<sp/>edit<sp/>this<sp/>paragraph<sp/>without<sp/>the<sp/>password.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Editable<sp/>ranges<sp/>allow<sp/>us<sp/>to<sp/>leave<sp/>parts<sp/>of<sp/>protected<sp/>documents<sp/>open<sp/>for<sp/>editing.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;EditableRangeStart&gt;<sp/>editableRangeStart<sp/>=<sp/>builder-&gt;StartEditableRange();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>is<sp/>inside<sp/>an<sp/>editable<sp/>range,<sp/>and<sp/>can<sp/>be<sp/>edited.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;EditableRangeEnd&gt;<sp/>editableRangeEnd<sp/>=<sp/>builder-&gt;EndEditableRange();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>well-formed<sp/>editable<sp/>range<sp/>has<sp/>a<sp/>start<sp/>node,<sp/>and<sp/>end<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>nodes<sp/>have<sp/>matching<sp/>IDs<sp/>and<sp/>encompass<sp/>editable<sp/>nodes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;EditableRange&gt;<sp/>editableRange<sp/>=<sp/>editableRangeStart-&gt;get_EditableRange();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRangeStart-&gt;get_Id(),<sp/>editableRange-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRangeEnd-&gt;get_Id(),<sp/>editableRange-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Different<sp/>parts<sp/>of<sp/>the<sp/>editable<sp/>range<sp/>link<sp/>to<sp/>each<sp/>other.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRangeStart-&gt;get_Id(),<sp/>editableRange-&gt;get_EditableRangeStart()-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRangeStart-&gt;get_Id(),<sp/>editableRangeEnd-&gt;get_EditableRangeStart()-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRange-&gt;get_Id(),<sp/>editableRangeStart-&gt;get_EditableRange()-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRangeEnd-&gt;get_Id(),<sp/>editableRange-&gt;get_EditableRangeEnd()-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>access<sp/>the<sp/>node<sp/>types<sp/>of<sp/>each<sp/>part<sp/>like<sp/>this.<sp/>The<sp/>editable<sp/>range<sp/>itself<sp/>is<sp/>not<sp/>a<sp/>node,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>but<sp/>an<sp/>entity<sp/>which<sp/>consists<sp/>of<sp/>a<sp/>start,<sp/>an<sp/>end,<sp/>and<sp/>their<sp/>enclosed<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379ab88eb18c19662bf66714b9ac6f20b1fc" kindref="member" tooltip="A beginning of an editable range.">NodeType::EditableRangeStart</ref>,<sp/>editableRangeStart-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a65e9b68ed547a62d4d9eb928da137251" kindref="member" tooltip="An end of an editable range.">NodeType::EditableRangeEnd</ref>,<sp/>editableRangeEnd-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>is<sp/>outside<sp/>the<sp/>editable<sp/>range,<sp/>and<sp/>cannot<sp/>be<sp/>edited.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;EditableRange.CreateAndRemove.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>an<sp/>editable<sp/>range.<sp/>All<sp/>the<sp/>nodes<sp/>that<sp/>were<sp/>inside<sp/>the<sp/>range<sp/>will<sp/>remain<sp/>intact.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">editableRange-&gt;Remove();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/EditableRange.h" line="681" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_editable_range_1a1d6825fcc05d315e97b36c89c6203ccc" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::EditableRange::set_EditorGroup</definition>
+        <argsstring>(Aspose::Words::EditorType value)</argsstring>
+        <name>set_EditorGroup</name>
+        <qualifiedname>Aspose::Words::EditableRange::set_EditorGroup</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1a91d5f723074b64ad6e414ec9a2e7f773" kindref="member">Aspose::Words::EditorType</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_editable_range_1aea61e572c6f48e637ee8b5f219932c44" kindref="member">Aspose::Words::EditableRange::get_EditorGroup</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/EditableRange.h" line="546" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_editable_range_1a16e0b2bc9727ffe9f54783f50f75176e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::EditableRange::set_SingleUser</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_SingleUser</name>
+        <qualifiedname>Aspose::Words::EditableRange::set_SingleUser</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_editable_range_1af81bf35cae88652be74aa3eb1cdc4bfc" kindref="member">Aspose::Words::EditableRange::get_SingleUser</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/EditableRange.h" line="385" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents a single editable range. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><ref refid="class_aspose_1_1_words_1_1_editable_range" kindref="compound">EditableRange</ref> is a &quot;facade&quot; object that encapsulates two nodes <ref refid="class_aspose_1_1_words_1_1_editable_range_1a7a7909410d362ae2a0537fba45c506c2" kindref="member">EditableRangeStart</ref> and <ref refid="class_aspose_1_1_words_1_1_editable_range_1a3a7004b57dd58df32ae8de1fabed0e70" kindref="member">EditableRangeEnd</ref> in a document tree and allows to work with an editable range as a single object.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with an editable range. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Protect(<ref refid="namespace_aspose_1_1_words_1a4b3be683cf728f992b0c78c0ce8acd60a131fb182a881796e7606ed6da27f1197" kindref="member" tooltip="No changes are allowed to the document. Available since Microsoft Word 2003.">ProtectionType::ReadOnly</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!<sp/>Since<sp/>we<sp/>have<sp/>set<sp/>the<sp/>document&apos;s<sp/>protection<sp/>level<sp/>to<sp/>read-only,&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>we<sp/>cannot<sp/>edit<sp/>this<sp/>paragraph<sp/>without<sp/>the<sp/>password.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Editable<sp/>ranges<sp/>allow<sp/>us<sp/>to<sp/>leave<sp/>parts<sp/>of<sp/>protected<sp/>documents<sp/>open<sp/>for<sp/>editing.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;EditableRangeStart&gt;<sp/>editableRangeStart<sp/>=<sp/>builder-&gt;StartEditableRange();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>is<sp/>inside<sp/>an<sp/>editable<sp/>range,<sp/>and<sp/>can<sp/>be<sp/>edited.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;EditableRangeEnd&gt;<sp/>editableRangeEnd<sp/>=<sp/>builder-&gt;EndEditableRange();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>well-formed<sp/>editable<sp/>range<sp/>has<sp/>a<sp/>start<sp/>node,<sp/>and<sp/>end<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>nodes<sp/>have<sp/>matching<sp/>IDs<sp/>and<sp/>encompass<sp/>editable<sp/>nodes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;EditableRange&gt;<sp/>editableRange<sp/>=<sp/>editableRangeStart-&gt;get_EditableRange();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRangeStart-&gt;get_Id(),<sp/>editableRange-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRangeEnd-&gt;get_Id(),<sp/>editableRange-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Different<sp/>parts<sp/>of<sp/>the<sp/>editable<sp/>range<sp/>link<sp/>to<sp/>each<sp/>other.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRangeStart-&gt;get_Id(),<sp/>editableRange-&gt;get_EditableRangeStart()-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRangeStart-&gt;get_Id(),<sp/>editableRangeEnd-&gt;get_EditableRangeStart()-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRange-&gt;get_Id(),<sp/>editableRangeStart-&gt;get_EditableRange()-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(editableRangeEnd-&gt;get_Id(),<sp/>editableRange-&gt;get_EditableRangeEnd()-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>access<sp/>the<sp/>node<sp/>types<sp/>of<sp/>each<sp/>part<sp/>like<sp/>this.<sp/>The<sp/>editable<sp/>range<sp/>itself<sp/>is<sp/>not<sp/>a<sp/>node,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>but<sp/>an<sp/>entity<sp/>which<sp/>consists<sp/>of<sp/>a<sp/>start,<sp/>an<sp/>end,<sp/>and<sp/>their<sp/>enclosed<sp/>contents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379ab88eb18c19662bf66714b9ac6f20b1fc" kindref="member" tooltip="A beginning of an editable range.">NodeType::EditableRangeStart</ref>,<sp/>editableRangeStart-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a65e9b68ed547a62d4d9eb928da137251" kindref="member" tooltip="An end of an editable range.">NodeType::EditableRangeEnd</ref>,<sp/>editableRangeEnd-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>is<sp/>outside<sp/>the<sp/>editable<sp/>range,<sp/>and<sp/>cannot<sp/>be<sp/>edited.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;EditableRange.CreateAndRemove.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>an<sp/>editable<sp/>range.<sp/>All<sp/>the<sp/>nodes<sp/>that<sp/>were<sp/>inside<sp/>the<sp/>range<sp/>will<sp/>remain<sp/>intact.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">editableRange-&gt;Remove();</highlight></codeline>
+</programlisting></para>
+<para>Shows how to limit the editing rights of editable ranges to a specific group/user. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>Visitor()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Protect(<ref refid="namespace_aspose_1_1_words_1a4b3be683cf728f992b0c78c0ce8acd60a131fb182a881796e7606ed6da27f1197" kindref="member" tooltip="No changes are allowed to the document. Available since Microsoft Word 2003.">ProtectionType::ReadOnly</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!<sp/>Since<sp/>we<sp/>have<sp/>set<sp/>the<sp/>document&apos;s<sp/>protection<sp/>level<sp/>to<sp/>read-only,&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;<sp/>we<sp/>cannot<sp/>edit<sp/>this<sp/>paragraph<sp/>without<sp/>the<sp/>password.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>write-protect<sp/>documents,<sp/>editable<sp/>ranges<sp/>allow<sp/>us<sp/>to<sp/>pick<sp/>specific<sp/>areas<sp/>that<sp/>users<sp/>may<sp/>edit.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>mutually<sp/>exclusive<sp/>ways<sp/>to<sp/>narrow<sp/>down<sp/>the<sp/>list<sp/>of<sp/>allowed<sp/>editors.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Specify<sp/>a<sp/>user:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;EditableRange&gt;<sp/>editableRange<sp/>=<sp/>builder-&gt;StartEditableRange()-&gt;get_EditableRange();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>editableRange-&gt;set_SingleUser(u</highlight><highlight class="stringliteral">&quot;john.doe@myoffice.com&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(String::Format(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>is<sp/>inside<sp/>the<sp/>first<sp/>editable<sp/>range,<sp/>can<sp/>only<sp/>be<sp/>edited<sp/>by<sp/>{0}.&quot;</highlight><highlight class="normal">,<sp/>editableRange-&gt;get_SingleUser()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndEditableRange();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a91d5f723074b64ad6e414ec9a2e7f773a6fcdc090caeade09d0efd6253932b6f5" kindref="member" tooltip="Means that editor type is not specified.">EditorType::Unspecified</ref>,<sp/>editableRange-&gt;get_EditorGroup());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Specify<sp/>a<sp/>group<sp/>that<sp/>allowed<sp/>users<sp/>are<sp/>associated<sp/>with:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>editableRange<sp/>=<sp/>builder-&gt;StartEditableRange()-&gt;get_EditableRange();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>editableRange-&gt;set_EditorGroup(<ref refid="namespace_aspose_1_1_words_1a91d5f723074b64ad6e414ec9a2e7f773ac1ec1d62eafad32ca16fe4df49b9ca2f" kindref="member" tooltip="Specifies that users associated with the Administrators group shall be allowed to edit editable range...">EditorType::Administrators</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(String::Format(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>is<sp/>inside<sp/>the<sp/>first<sp/>editable<sp/>range,<sp/>can<sp/>only<sp/>be<sp/>edited<sp/>by<sp/>{0}.&quot;</highlight><highlight class="normal">,<sp/>editableRange-&gt;get_EditorGroup()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;EndEditableRange();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(String::Empty,<sp/>editableRange-&gt;get_SingleUser());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>is<sp/>outside<sp/>the<sp/>editable<sp/>range,<sp/>and<sp/>cannot<sp/>be<sp/>edited<sp/>by<sp/>anybody.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Print<sp/>details<sp/>and<sp/>contents<sp/>of<sp/>every<sp/>editable<sp/>range<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>editableRangePrinter<sp/>=<sp/>MakeObject&lt;ExEditableRange::EditableRangePrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Accept(editableRangePrinter);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>editableRangePrinter-&gt;ToText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">EditableRangePrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>DocumentVisitor</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>EditableRangePrinter()<sp/>:<sp/>mInsideEditableRange(false)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder<sp/>=<sp/>MakeObject&lt;System::Text::StringBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>ToText()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mBuilder-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>Reset()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mInsideEditableRange<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitEditableRangeStart(SharedPtr&lt;EditableRangeStart&gt;<sp/>editableRangeStart)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(u</highlight><highlight class="stringliteral">&quot;<sp/>--<sp/>Editable<sp/>range<sp/>found!<sp/>--<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tID:\t\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/>editableRangeStart-&gt;get_Id());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(editableRangeStart-&gt;get_EditableRange()-&gt;get_SingleUser()<sp/>==<sp/>String::Empty)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tGroup:\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(editableRangeStart-&gt;get_EditableRange()-&gt;get_EditorGroup()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\tUser:\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/>editableRangeStart-&gt;get_EditableRange()-&gt;get_SingleUser());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(u</highlight><highlight class="stringliteral">&quot;\tContents:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mInsideEditableRange<sp/>=<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitEditableRangeEnd(SharedPtr&lt;EditableRangeEnd&gt;<sp/>editableRangeEnd)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(u</highlight><highlight class="stringliteral">&quot;<sp/>--<sp/>End<sp/>of<sp/>editable<sp/>range<sp/>--\n&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mInsideEditableRange<sp/>=<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1a5f2a3902dc32f04b75f7fd27967aa9b2" kindref="member" tooltip="Allows the visitor to control the enumeration of nodes.">VisitorAction</ref><sp/>VisitRun(SharedPtr&lt;Run&gt;<sp/>run)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(mInsideEditableRange)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mBuilder-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\&quot;&quot;</highlight><highlight class="normal">)<sp/>+<sp/>run-&gt;get_Text()<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>VisitorAction::Continue;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>mInsideEditableRange;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mBuilder;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::EditableRange</label>
+        <link refid="class_aspose_1_1_words_1_1_editable_range"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::EditableRange</label>
+        <link refid="class_aspose_1_1_words_1_1_editable_range"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/EditableRange.h" line="194" column="1" bodyfile="Aspose.Words.Cpp/EditableRange.h" bodystart="195" bodyend="690"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_editable_range_1a27034af1c18af29a03ba2f64c6aa5621" prot="private" virt="non-virtual"><scope>Aspose::Words::EditableRange</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_editable_range_1a3a7004b57dd58df32ae8de1fabed0e70" prot="public" virt="non-virtual"><scope>Aspose::Words::EditableRange</scope><name>get_EditableRangeEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_editable_range_1a7a7909410d362ae2a0537fba45c506c2" prot="public" virt="non-virtual"><scope>Aspose::Words::EditableRange</scope><name>get_EditableRangeStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_editable_range_1aea61e572c6f48e637ee8b5f219932c44" prot="public" virt="non-virtual"><scope>Aspose::Words::EditableRange</scope><name>get_EditorGroup</name></member>
+      <member refid="class_aspose_1_1_words_1_1_editable_range_1ab698f83ec2c9c69247c04d66d96f8766" prot="public" virt="non-virtual"><scope>Aspose::Words::EditableRange</scope><name>get_Id</name></member>
+      <member refid="class_aspose_1_1_words_1_1_editable_range_1af81bf35cae88652be74aa3eb1cdc4bfc" prot="public" virt="non-virtual"><scope>Aspose::Words::EditableRange</scope><name>get_SingleUser</name></member>
+      <member refid="class_aspose_1_1_words_1_1_editable_range_1a16dafcb955bc13d04bfd42944fcee9cf" prot="private" virt="non-virtual"><scope>Aspose::Words::EditableRange</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_editable_range_1ab3d50c9e1a172f4792c6bfff9b8a7bbb" prot="private" virt="non-virtual"><scope>Aspose::Words::EditableRange</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_editable_range_1ad4f4b692f2469f009d0f8631431285b7" prot="public" virt="non-virtual"><scope>Aspose::Words::EditableRange</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_editable_range_1a8931c7f66055794772ae09b2d71ec8db" prot="private" virt="non-virtual"><scope>Aspose::Words::EditableRange</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_editable_range_1a1d6825fcc05d315e97b36c89c6203ccc" prot="public" virt="non-virtual"><scope>Aspose::Words::EditableRange</scope><name>set_EditorGroup</name></member>
+      <member refid="class_aspose_1_1_words_1_1_editable_range_1a16e0b2bc9727ffe9f54783f50f75176e" prot="public" virt="non-virtual"><scope>Aspose::Words::EditableRange</scope><name>set_SingleUser</name></member>
+      <member refid="class_aspose_1_1_words_1_1_editable_range_1a6253a63b2f76e4fdae293eb9105a94cc" prot="private" virt="non-virtual"><scope>Aspose::Words::EditableRange</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_editable_range_1ad45c9ff72b63caa3f3a91fd6e3ed3bfe" prot="private" virt="non-virtual"><scope>Aspose::Words::EditableRange</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

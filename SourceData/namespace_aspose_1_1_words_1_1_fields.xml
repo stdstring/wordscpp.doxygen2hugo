@@ -1,0 +1,2328 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="namespace_aspose_1_1_words_1_1_fields" kind="namespace" language="C++">
+    <compoundname>Aspose::Words::Fields</compoundname>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_barcode_parameters" prot="public">Aspose::Words::Fields::BarcodeParameters</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_comparison_evaluation_result" prot="public">Aspose::Words::Fields::ComparisonEvaluationResult</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_comparison_expression" prot="public">Aspose::Words::Fields::ComparisonExpression</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection" prot="public">Aspose::Words::Fields::DropDownItemCollection</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field" prot="public">Aspose::Words::Fields::Field</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_add_in" prot="public">Aspose::Words::Fields::FieldAddIn</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_address_block" prot="public">Aspose::Words::Fields::FieldAddressBlock</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_advance" prot="public">Aspose::Words::Fields::FieldAdvance</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_argument_builder" prot="public">Aspose::Words::Fields::FieldArgumentBuilder</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_ask" prot="public">Aspose::Words::Fields::FieldAsk</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_author" prot="public">Aspose::Words::Fields::FieldAuthor</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num" prot="public">Aspose::Words::Fields::FieldAutoNum</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl" prot="public">Aspose::Words::Fields::FieldAutoNumLgl</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_out" prot="public">Aspose::Words::Fields::FieldAutoNumOut</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_auto_text" prot="public">Aspose::Words::Fields::FieldAutoText</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_auto_text_list" prot="public">Aspose::Words::Fields::FieldAutoTextList</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_barcode" prot="public">Aspose::Words::Fields::FieldBarcode</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_bibliography" prot="public">Aspose::Words::Fields::FieldBibliography</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_bidi_outline" prot="public">Aspose::Words::Fields::FieldBidiOutline</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_builder" prot="public">Aspose::Words::Fields::FieldBuilder</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_char" prot="public">Aspose::Words::Fields::FieldChar</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation" prot="public">Aspose::Words::Fields::FieldCitation</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_collection" prot="public">Aspose::Words::Fields::FieldCollection</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_comments" prot="public">Aspose::Words::Fields::FieldComments</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_compare" prot="public">Aspose::Words::Fields::FieldCompare</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_create_date" prot="public">Aspose::Words::Fields::FieldCreateDate</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_data" prot="public">Aspose::Words::Fields::FieldData</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_database" prot="public">Aspose::Words::Fields::FieldDatabase</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_database_data_row" prot="public">Aspose::Words::Fields::FieldDatabaseDataRow</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_database_data_table" prot="public">Aspose::Words::Fields::FieldDatabaseDataTable</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_date" prot="public">Aspose::Words::Fields::FieldDate</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_dde" prot="public">Aspose::Words::Fields::FieldDde</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_dde_auto" prot="public">Aspose::Words::Fields::FieldDdeAuto</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_display_barcode" prot="public">Aspose::Words::Fields::FieldDisplayBarcode</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_doc_property" prot="public">Aspose::Words::Fields::FieldDocProperty</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_doc_variable" prot="public">Aspose::Words::Fields::FieldDocVariable</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_edit_time" prot="public">Aspose::Words::Fields::FieldEditTime</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_embed" prot="public">Aspose::Words::Fields::FieldEmbed</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_end" prot="public">Aspose::Words::Fields::FieldEnd</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_e_q" prot="public">Aspose::Words::Fields::FieldEQ</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_file_name" prot="public">Aspose::Words::Fields::FieldFileName</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_file_size" prot="public">Aspose::Words::Fields::FieldFileSize</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_fill_in" prot="public">Aspose::Words::Fields::FieldFillIn</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_footnote_ref" prot="public">Aspose::Words::Fields::FieldFootnoteRef</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_format" prot="public">Aspose::Words::Fields::FieldFormat</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_form_check_box" prot="public">Aspose::Words::Fields::FieldFormCheckBox</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_form_drop_down" prot="public">Aspose::Words::Fields::FieldFormDropDown</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_form_text" prot="public">Aspose::Words::Fields::FieldFormText</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_formula" prot="public">Aspose::Words::Fields::FieldFormula</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_glossary" prot="public">Aspose::Words::Fields::FieldGlossary</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_go_to_button" prot="public">Aspose::Words::Fields::FieldGoToButton</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_greeting_line" prot="public">Aspose::Words::Fields::FieldGreetingLine</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_hyperlink" prot="public">Aspose::Words::Fields::FieldHyperlink</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_if" prot="public">Aspose::Words::Fields::FieldIf</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_import" prot="public">Aspose::Words::Fields::FieldImport</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_include" prot="public">Aspose::Words::Fields::FieldInclude</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_picture" prot="public">Aspose::Words::Fields::FieldIncludePicture</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text" prot="public">Aspose::Words::Fields::FieldIncludeText</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_index" prot="public">Aspose::Words::Fields::FieldIndex</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_info" prot="public">Aspose::Words::Fields::FieldInfo</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_keywords" prot="public">Aspose::Words::Fields::FieldKeywords</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_last_saved_by" prot="public">Aspose::Words::Fields::FieldLastSavedBy</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_link" prot="public">Aspose::Words::Fields::FieldLink</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_list_num" prot="public">Aspose::Words::Fields::FieldListNum</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_macro_button" prot="public">Aspose::Words::Fields::FieldMacroButton</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode" prot="public">Aspose::Words::Fields::FieldMergeBarcode</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_field" prot="public">Aspose::Words::Fields::FieldMergeField</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_rec" prot="public">Aspose::Words::Fields::FieldMergeRec</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_seq" prot="public">Aspose::Words::Fields::FieldMergeSeq</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_next" prot="public">Aspose::Words::Fields::FieldNext</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_next_if" prot="public">Aspose::Words::Fields::FieldNextIf</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_note_ref" prot="public">Aspose::Words::Fields::FieldNoteRef</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_num_chars" prot="public">Aspose::Words::Fields::FieldNumChars</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_num_pages" prot="public">Aspose::Words::Fields::FieldNumPages</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_num_words" prot="public">Aspose::Words::Fields::FieldNumWords</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_ocx" prot="public">Aspose::Words::Fields::FieldOcx</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_options" prot="public">Aspose::Words::Fields::FieldOptions</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_page" prot="public">Aspose::Words::Fields::FieldPage</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_page_ref" prot="public">Aspose::Words::Fields::FieldPageRef</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_print" prot="public">Aspose::Words::Fields::FieldPrint</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_print_date" prot="public">Aspose::Words::Fields::FieldPrintDate</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_private" prot="public">Aspose::Words::Fields::FieldPrivate</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_quote" prot="public">Aspose::Words::Fields::FieldQuote</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_r_d" prot="public">Aspose::Words::Fields::FieldRD</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_ref" prot="public">Aspose::Words::Fields::FieldRef</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_rev_num" prot="public">Aspose::Words::Fields::FieldRevNum</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_save_date" prot="public">Aspose::Words::Fields::FieldSaveDate</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_section" prot="public">Aspose::Words::Fields::FieldSection</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_section_pages" prot="public">Aspose::Words::Fields::FieldSectionPages</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_separator" prot="public">Aspose::Words::Fields::FieldSeparator</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_seq" prot="public">Aspose::Words::Fields::FieldSeq</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_set" prot="public">Aspose::Words::Fields::FieldSet</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_shape" prot="public">Aspose::Words::Fields::FieldShape</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_skip_if" prot="public">Aspose::Words::Fields::FieldSkipIf</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_start" prot="public">Aspose::Words::Fields::FieldStart</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_style_ref" prot="public">Aspose::Words::Fields::FieldStyleRef</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_subject" prot="public">Aspose::Words::Fields::FieldSubject</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_symbol" prot="public">Aspose::Words::Fields::FieldSymbol</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_a" prot="public">Aspose::Words::Fields::FieldTA</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_t_c" prot="public">Aspose::Words::Fields::FieldTC</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_template" prot="public">Aspose::Words::Fields::FieldTemplate</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_time" prot="public">Aspose::Words::Fields::FieldTime</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_title" prot="public">Aspose::Words::Fields::FieldTitle</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_toa" prot="public">Aspose::Words::Fields::FieldToa</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_toc" prot="public">Aspose::Words::Fields::FieldToc</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_unknown" prot="public">Aspose::Words::Fields::FieldUnknown</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_user_address" prot="public">Aspose::Words::Fields::FieldUserAddress</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_user_initials" prot="public">Aspose::Words::Fields::FieldUserInitials</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_user_name" prot="public">Aspose::Words::Fields::FieldUserName</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_field_x_e" prot="public">Aspose::Words::Fields::FieldXE</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_form_field" prot="public">Aspose::Words::Fields::FormField</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_form_field_collection" prot="public">Aspose::Words::Fields::FormFieldCollection</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_general_format_collection" prot="public">Aspose::Words::Fields::GeneralFormatCollection</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_i_barcode_generator" prot="public">Aspose::Words::Fields::IBarcodeGenerator</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_i_comparison_expression_evaluator" prot="public">Aspose::Words::Fields::IComparisonExpressionEvaluator</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_i_field_database_provider" prot="public">Aspose::Words::Fields::IFieldDatabaseProvider</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_i_field_result_formatter" prot="public">Aspose::Words::Fields::IFieldResultFormatter</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_i_field_update_culture_provider" prot="public">Aspose::Words::Fields::IFieldUpdateCultureProvider</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_i_field_updating_callback" prot="public">Aspose::Words::Fields::IFieldUpdatingCallback</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_i_field_user_prompt_respondent" prot="public">Aspose::Words::Fields::IFieldUserPromptRespondent</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_merge_field_image_dimension" prot="public">Aspose::Words::Fields::MergeFieldImageDimension</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_toa_categories" prot="public">Aspose::Words::Fields::ToaCategories</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_fields_1_1_user_information" prot="public">Aspose::Words::Fields::UserInformation</innerclass>
+      <sectiondef kind="enum">
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_fields_1a47b4604012ec1aea07187a7c4a2613af" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>FieldDatabaseFormatAttributes</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDatabaseFormatAttributes</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a47b4604012ec1aea07187a7c4a2613afa6adf97f83acf6453d4a6a4b1070f3754" prot="public">
+          <name>None</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a47b4604012ec1aea07187a7c4a2613afae313502ef38a56454f3e9de57f384476" prot="public">
+          <name>Borders</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a47b4604012ec1aea07187a7c4a2613afa32b5d9a4a9bf319575d229dfacdd1481" prot="public">
+          <name>Shading</name>
+          <initializer>= 2</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a47b4604012ec1aea07187a7c4a2613afa194f5394ae2e9c74dc3c441b92862d1d" prot="public">
+          <name>Font</name>
+          <initializer>= 4</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a47b4604012ec1aea07187a7c4a2613afacb5feb1b7314637725a2e73bdc9f7295" prot="public">
+          <name>Color</name>
+          <initializer>= 8</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a47b4604012ec1aea07187a7c4a2613afaa549f21d82fe2a048a1698037ea30bca" prot="public">
+          <name>AutoFit</name>
+          <initializer>= 16</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a47b4604012ec1aea07187a7c4a2613afa6f90473812d5f788bddfb1470840e651" prot="public">
+          <name>FirstRow</name>
+          <initializer>= 32</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a47b4604012ec1aea07187a7c4a2613afa9f3fb1aadaebfff5b2877d19526fd46f" prot="public">
+          <name>LastRow</name>
+          <initializer>= 64</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a47b4604012ec1aea07187a7c4a2613afac66be781983573173868e4dd82455c15" prot="public">
+          <name>FirstColumn</name>
+          <initializer>= 128</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a47b4604012ec1aea07187a7c4a2613afa0302589a1f7ef4fd6d374f7db9c32572" prot="public">
+          <name>LastColumn</name>
+          <initializer>= 256</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>FieldDatabaseFormatAttributes enumeration. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDatabaseFormatAttributes.h" line="24" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldDatabaseFormatAttributes.h" bodystart="25" bodyend="36"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>FieldDatabaseTableFormat</name>
+        <qualifiedname>Aspose::Words::Fields::FieldDatabaseTableFormat</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a6adf97f83acf6453d4a6a4b1070f3754" prot="public">
+          <name>None</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a2c42bea8368c0f7ccfd09382aee4fd52" prot="public">
+          <name>Simple1</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a0c4dd1ac91ea8a141957ae4f11da284f" prot="public">
+          <name>Simple2</name>
+          <initializer>= 2</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a6e39abd72cf57ee4ae47380fcda06cec" prot="public">
+          <name>Simple3</name>
+          <initializer>= 3</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a82a135c8f53bf20b66fab191b511c0a2" prot="public">
+          <name>Classic1</name>
+          <initializer>= 4</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a732f841e6c1a514cc55b02544acf74f0" prot="public">
+          <name>Classic2</name>
+          <initializer>= 5</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05ad4f75eec7ff8c11288c02f0c974955fa" prot="public">
+          <name>Classic3</name>
+          <initializer>= 6</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05af0bdcaa50cbbfbfc0e8bba035c43d6cb" prot="public">
+          <name>Classic4</name>
+          <initializer>= 7</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a536e93d50de678db167108b5e13aa17c" prot="public">
+          <name>Colorful1</name>
+          <initializer>= 8</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a44633c56c305d5302794a27a21e83f78" prot="public">
+          <name>Colorful2</name>
+          <initializer>= 9</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a2da4995378bef7dcc56edf4b01b2cbe7" prot="public">
+          <name>Colorful3</name>
+          <initializer>= 10</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05ab149f6d3f334888806ba1eca323df340" prot="public">
+          <name>Columns1</name>
+          <initializer>= 11</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a91dfda4a9b88ce061e2fdffd953e7a36" prot="public">
+          <name>Columns2</name>
+          <initializer>= 12</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a9b53bb0a919d80b9166a8bdaabf8485f" prot="public">
+          <name>Columns3</name>
+          <initializer>= 13</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05ac2391076ea4a8e579f42cf085bdff122" prot="public">
+          <name>Columns4</name>
+          <initializer>= 14</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a10dfb443e2d90f218f56ff2dc77d7fe0" prot="public">
+          <name>Columns5</name>
+          <initializer>= 15</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a4fb9ddc1e682a98340c1b39ace107417" prot="public">
+          <name>Grid1</name>
+          <initializer>= 16</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a6516c42909346ca784c30a013cbbfb04" prot="public">
+          <name>Grid2</name>
+          <initializer>= 17</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a3d8bc33875a50f16aa9f74669cf261d7" prot="public">
+          <name>Grid3</name>
+          <initializer>= 18</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a177b7b1f3450b87ff5e71e49bb18f9ad" prot="public">
+          <name>Grid4</name>
+          <initializer>= 19</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a83dc93700b7faf3084684da688a73269" prot="public">
+          <name>Grid5</name>
+          <initializer>= 20</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a2604c493d14139bc0c595ce577d03a7c" prot="public">
+          <name>Grid6</name>
+          <initializer>= 21</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05ac42d3a379df2cd17404a2a83d200b3ff" prot="public">
+          <name>Grid7</name>
+          <initializer>= 22</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05ae1c6794ba10174b1239f07bdeb0ac652" prot="public">
+          <name>Grid8</name>
+          <initializer>= 23</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a8ae6295e9159d39c9f134f4d2cd1f2d2" prot="public">
+          <name>List1</name>
+          <initializer>= 24</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05ae6c532988c0b2bf31c9281fa0d24a1a6" prot="public">
+          <name>List2</name>
+          <initializer>= 25</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a140c3ec3167754e164b67b08198a6cb3" prot="public">
+          <name>List3</name>
+          <initializer>= 26</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a9bc6f165032d6b0a85b126651186b5ba" prot="public">
+          <name>List4</name>
+          <initializer>= 27</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a1562630f6cefcbf78b815a9842eceffb" prot="public">
+          <name>List5</name>
+          <initializer>= 28</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a0979fa16069a95fdafa0df04558d8411" prot="public">
+          <name>List6</name>
+          <initializer>= 29</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a06acc0ba1e38c9df73f7a86eca1183d8" prot="public">
+          <name>List7</name>
+          <initializer>= 30</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a9cafd42a8afb9d7fab54e29315626ed7" prot="public">
+          <name>List8</name>
+          <initializer>= 31</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a4dcf324f44ca7dedc50136055667b2c5" prot="public">
+          <name>ThreeDimensionalFx1</name>
+          <initializer>= 32</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a2390fb4e112e4a39cbe1e05cb20a5ed1" prot="public">
+          <name>ThreeDimensionalFx2</name>
+          <initializer>= 33</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a4b03ea549646cc92b04bc1be68346e6e" prot="public">
+          <name>ThreeDimensionalFx3</name>
+          <initializer>= 34</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05ab337f405fd60cffc1f60e7e5e5146b97" prot="public">
+          <name>Contemporary</name>
+          <initializer>= 35</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a87ce766ce5c0b6317258df8c2eb0908c" prot="public">
+          <name>Elegant</name>
+          <initializer>= 36</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a9e8b160226c9fe22a910c782ce5076e2" prot="public">
+          <name>Professional</name>
+          <initializer>= 37</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a0e89171659f590ceade1531a0ed1d655" prot="public">
+          <name>Subtle1</name>
+          <initializer>= 38</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a11e22673883feed0428c3448774a2353" prot="public">
+          <name>Subtle2</name>
+          <initializer>= 39</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a582a013d1336d7d4958590d36aa4b3e3" prot="public">
+          <name>Web1</name>
+          <initializer>= 40</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a6f9402925c55674b83536ad3d89d8971" prot="public">
+          <name>Web2</name>
+          <initializer>= 41</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a72ab665a66064818a36ff22010e78b05a02aefbb89630e9ba0442fa3a01aaa2ed" prot="public">
+          <name>Web3</name>
+          <initializer>= 42</initializer>
+          <briefdescription>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>FieldDatabaseTableFormat enumeration. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldDatabaseTableFormat.h" line="23" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldDatabaseTableFormat.h" bodystart="24" bodyend="68"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_fields_1af3645ee9775b87db08f406a6d73ffc48" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>FieldIfComparisonResult</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIfComparisonResult</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1af3645ee9775b87db08f406a6d73ffc48a902b0d55fddef6f8d651fe1035b7d4bd" prot="public">
+          <name>Error</name>
+          <briefdescription>
+<para>There is an error in the condition. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1af3645ee9775b87db08f406a6d73ffc48af827cf462f62848df37c5e1e94a4da74" prot="public">
+          <name>True</name>
+          <briefdescription>
+<para>The condition is <computeroutput>true</computeroutput>. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1af3645ee9775b87db08f406a6d73ffc48af8320b26d30ab433c5a54546d21f414c" prot="public">
+          <name>False</name>
+          <briefdescription>
+<para>The condition is <computeroutput>false</computeroutput>. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies the result of the IF field condition evaluation. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert an IF field. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Statement<sp/>1:<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldIf&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca977dda6ca14fcff75096cef279a06ce8" kindref="member" tooltip="Specifies the IF field.">FieldType::FieldIf</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LeftExpression(u</highlight><highlight class="stringliteral">&quot;0&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ComparisonOperator(u</highlight><highlight class="stringliteral">&quot;=&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_RightExpression(u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>IF<sp/>field<sp/>will<sp/>display<sp/>a<sp/>string<sp/>from<sp/>either<sp/>its<sp/>&quot;TrueText&quot;<sp/>property,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>or<sp/>its<sp/>&quot;FalseText&quot;<sp/>property,<sp/>depending<sp/>on<sp/>the<sp/>truth<sp/>of<sp/>the<sp/>statement<sp/>that<sp/>we<sp/>have<sp/>constructed.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_TrueText(u</highlight><highlight class="stringliteral">&quot;True&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FalseText(u</highlight><highlight class="stringliteral">&quot;False&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>&quot;0<sp/>=<sp/>1&quot;<sp/>is<sp/>incorrect,<sp/>so<sp/>the<sp/>displayed<sp/>result<sp/>will<sp/>be<sp/>&quot;False&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>IF<sp/><sp/>0<sp/>=<sp/>1<sp/>True<sp/>False&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1af3645ee9775b87db08f406a6d73ffc48af8320b26d30ab433c5a54546d21f414c" kindref="member" tooltip="The condition is false.">FieldIfComparisonResult::False</ref>,<sp/>field-&gt;EvaluateCondition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;False&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;\nStatement<sp/>2:<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldIf&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca977dda6ca14fcff75096cef279a06ce8" kindref="member" tooltip="Specifies the IF field.">FieldType::FieldIf</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_LeftExpression(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_ComparisonOperator(u</highlight><highlight class="stringliteral">&quot;=&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_RightExpression(u</highlight><highlight class="stringliteral">&quot;2<sp/>+<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_TrueText(u</highlight><highlight class="stringliteral">&quot;True&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;set_FalseText(u</highlight><highlight class="stringliteral">&quot;False&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>time<sp/>the<sp/>statement<sp/>is<sp/>correct,<sp/>so<sp/>the<sp/>displayed<sp/>result<sp/>will<sp/>be<sp/>&quot;True&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>IF<sp/><sp/>5<sp/>=<sp/>\&quot;2<sp/>+<sp/>3\&quot;<sp/>True<sp/>False&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1af3645ee9775b87db08f406a6d73ffc48af827cf462f62848df37c5e1e94a4da74" kindref="member" tooltip="The condition is true.">FieldIfComparisonResult::True</ref>,<sp/>field-&gt;EvaluateCondition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;True&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.IF.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIfComparisonResult.h" line="65" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldIfComparisonResult.h" bodystart="66" bodyend="76"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_fields_1acf25ece24d4c5aa72fcbc0fee82a9555" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>FieldIndexFormat</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIndexFormat</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1acf25ece24d4c5aa72fcbc0fee82a9555a278c491bdd8a53618c149c4ac790da34" prot="public">
+          <name>Template</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+<para>From template. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1acf25ece24d4c5aa72fcbc0fee82a9555ad35b51b639528d580362ca7042de6a0e" prot="public">
+          <name>Classic</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+<para>Classic. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1acf25ece24d4c5aa72fcbc0fee82a9555a7f6ec4d9d12421a15cc0cb2f4003f293" prot="public">
+          <name>Fancy</name>
+          <initializer>= 2</initializer>
+          <briefdescription>
+<para>Fancy. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1acf25ece24d4c5aa72fcbc0fee82a9555aad1c9cd3e7b07e2c364c985f73188054" prot="public">
+          <name>Modern</name>
+          <initializer>= 3</initializer>
+          <briefdescription>
+<para>Modern. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1acf25ece24d4c5aa72fcbc0fee82a9555a9fdf246e9b6c82aacef0eba30701a87d" prot="public">
+          <name>Bulleted</name>
+          <initializer>= 4</initializer>
+          <briefdescription>
+<para>Bulleted. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1acf25ece24d4c5aa72fcbc0fee82a9555a557c6481538b93bfe0a10a1cbc11aa07" prot="public">
+          <name>Formal</name>
+          <initializer>= 5</initializer>
+          <briefdescription>
+<para>Formal. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1acf25ece24d4c5aa72fcbc0fee82a9555a1fbb1e3943c2c6c560247ac8f9289780" prot="public">
+          <name>Simple</name>
+          <initializer>= 6</initializer>
+          <briefdescription>
+<para>Simple. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies the formatting for the <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_index" kindref="compound">FieldIndex</ref> fields in a document. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIndexFormat.h" line="23" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldIndexFormat.h" bodystart="24" bodyend="46"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edec" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>FieldType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldType</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca254b3f5921a732374e9c7739ba5e695b" prot="public">
+          <name>FieldNone</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+<para><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Field</ref> type is not specified or unknown. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca9994a15a095decec546408de12c43bf4" prot="public">
+          <name>FieldCannotParse</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+<para>Specifies that the field was unable to be parsed. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca63ff2f6b87aa0a3abfcc34555478ea11" prot="public">
+          <name>FieldAddin</name>
+          <initializer>= 81</initializer>
+          <briefdescription>
+<para>Specifies the ADDIN field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca59df4f4923c854f50987c7ee11d112b9" prot="public">
+          <name>FieldAddressBlock</name>
+          <initializer>= 93</initializer>
+          <briefdescription>
+<para>Specifies the ADDRESSBLOCK field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca8fbea641151c76ea8cd873a92aed1f65" prot="public">
+          <name>FieldAdvance</name>
+          <initializer>= 84</initializer>
+          <briefdescription>
+<para>Specifies the ADVANCE field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca53faaa5f40dda0cb1765df4b5b299dbf" prot="public">
+          <name>FieldAsk</name>
+          <initializer>= 38</initializer>
+          <briefdescription>
+<para>Specifies the ASK field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca3fb8145fe86828004760321499e8c38b" prot="public">
+          <name>FieldAuthor</name>
+          <initializer>= 17</initializer>
+          <briefdescription>
+<para>Specifies the AUTHOR field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecac9316dac9ac2bdf608852c45f0374228" prot="public">
+          <name>FieldAutoNum</name>
+          <initializer>= 54</initializer>
+          <briefdescription>
+<para>Specifies the AUTONUM field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca057a45a85def5ee89a72e5940cc6fd47" prot="public">
+          <name>FieldAutoNumLegal</name>
+          <initializer>= 53</initializer>
+          <briefdescription>
+<para>Specifies the AUTONUMLGL field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecabac1b10dea333c4672791d5b304f819a" prot="public">
+          <name>FieldAutoNumOutline</name>
+          <initializer>= 52</initializer>
+          <briefdescription>
+<para>Specifies the AUTONUMOUT field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecae60ff82a89ad28bd99a888a576e2ae9a" prot="public">
+          <name>FieldAutoText</name>
+          <initializer>= 79</initializer>
+          <briefdescription>
+<para>Specifies the AUTOTEXT field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca77ff4b15c4c3cba359e51da9431fc25e" prot="public">
+          <name>FieldAutoTextList</name>
+          <initializer>= 89</initializer>
+          <briefdescription>
+<para>Specifies the AUTOTEXTLIST field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca3981a97b7ef433ad3ab7c829c10a9858" prot="public">
+          <name>FieldBarcode</name>
+          <initializer>= 63</initializer>
+          <briefdescription>
+<para>Specifies the BARCODE field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf22dfaac20b21463ec2a14ebf5318220" prot="public">
+          <name>FieldBibliography</name>
+          <initializer>= 100500</initializer>
+          <briefdescription>
+<para>Specifies the BIBLIOGRAPHY field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaa66b53692c30396286dffa38967722a7" prot="public">
+          <name>FieldBidiOutline</name>
+          <initializer>= 92</initializer>
+          <briefdescription>
+<para>Specifies the BIDIOUTLINE field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca6f6106935013ef3862dfb3f49db090d3" prot="public">
+          <name>FieldCitation</name>
+          <initializer>= 1980</initializer>
+          <briefdescription>
+<para>Specifies the CITATION field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca3c6b7cb627810642980dc6e2bd270a72" prot="public">
+          <name>FieldComments</name>
+          <initializer>= 19</initializer>
+          <briefdescription>
+<para>Specifies the COMMENTS field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca6b6ae911a258829ec490b7634005516b" prot="public">
+          <name>FieldCompare</name>
+          <initializer>= 80</initializer>
+          <briefdescription>
+<para>Specifies the COMPARE field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca1590976bf28b753e99a3c99d69d51834" prot="public">
+          <name>FieldCreateDate</name>
+          <initializer>= 21</initializer>
+          <briefdescription>
+<para>Specifies the CREATEDATE field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca1143e3673195b7bef65ee96088aff09f" prot="public">
+          <name>FieldData</name>
+          <initializer>= 40</initializer>
+          <briefdescription>
+<para>Specifies the DATA field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca5e98fc893e17658e087f97606e71710f" prot="public">
+          <name>FieldDatabase</name>
+          <initializer>= 78</initializer>
+          <briefdescription>
+<para>Specifies the DATABASE field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca971f227975af74a7cd530642031cb487" prot="public">
+          <name>FieldDate</name>
+          <initializer>= 31</initializer>
+          <briefdescription>
+<para>Specifies the DATE field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca2b312a91616addc8dd4f1e0d5419ee9d" prot="public">
+          <name>FieldDDE</name>
+          <initializer>= 45</initializer>
+          <briefdescription>
+<para>Specifies the DDE field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca47335226a3a8dafc058599d65baaf8ae" prot="public">
+          <name>FieldDisplayBarcode</name>
+          <initializer>= 6301</initializer>
+          <briefdescription>
+<para>Specifies the DISPLAYBARCODE field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca198a4337ca6d2d763e867fa1a207445b" prot="public">
+          <name>FieldMergeBarcode</name>
+          <initializer>= 6302</initializer>
+          <briefdescription>
+<para>Specifies the MERGEBARCODE field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecadfc51bf2dfa6dde007b31c7fc3373ea7" prot="public">
+          <name>FieldDDEAuto</name>
+          <initializer>= 46</initializer>
+          <briefdescription>
+<para>Specifies the DDEAUTO field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca651cd36dd944c994b67edc44126b3724" prot="public">
+          <name>FieldDocProperty</name>
+          <initializer>= 85</initializer>
+          <briefdescription>
+<para>Specifies the DOCPROPERTY field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf0f57157000356b58806e1cf1472c4d1" prot="public">
+          <name>FieldDocVariable</name>
+          <initializer>= 64</initializer>
+          <briefdescription>
+<para>Specifies the DOCVARIABLE field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca5d859bd861ee8fd788b6352fed544685" prot="public">
+          <name>FieldEditTime</name>
+          <initializer>= 25</initializer>
+          <briefdescription>
+<para>Specifies the EDITTIME field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca68c9e36b27e37c8977e2ecb47394d8fe" prot="public">
+          <name>FieldEmbed</name>
+          <initializer>= 58</initializer>
+          <briefdescription>
+<para>Specifies the EMBED field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecac56d26b7930bd47c7922e6df1a673816" prot="public">
+          <name>FieldEquation</name>
+          <initializer>= 49</initializer>
+          <briefdescription>
+<para>Specifies the EQ field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca156f78ace61465a297709e0af11dcf9b" prot="public">
+          <name>FieldFileName</name>
+          <initializer>= 29</initializer>
+          <briefdescription>
+<para>Specifies the FILENAME field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecabc234e0b88feb32a2f800862e8e96358" prot="public">
+          <name>FieldFileSize</name>
+          <initializer>= 69</initializer>
+          <briefdescription>
+<para>Specifies the FILESIZE field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaec9f006ec489101dfa106ddfe34b4795" prot="public">
+          <name>FieldFillIn</name>
+          <initializer>= 39</initializer>
+          <briefdescription>
+<para>Specifies the FILLIN field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca322a9f933f1b142b156497b0a7977792" prot="public">
+          <name>FieldFootnoteRef</name>
+          <initializer>= 5</initializer>
+          <briefdescription>
+<para>Specifies the FOOTNOTEREF field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf8c8a2fc1e398ea50a4fbc8c3335d7c2" prot="public">
+          <name>FieldFormCheckBox</name>
+          <initializer>= 71</initializer>
+          <briefdescription>
+<para>Specifies the FORMCHECKBOX field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca1068a13a4a20518cd80e61241b2c2eae" prot="public">
+          <name>FieldFormDropDown</name>
+          <initializer>= 83</initializer>
+          <briefdescription>
+<para>Specifies the FORMDROPDOWN field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca63d00fd05e76f5f0ba9c100c1a833061" prot="public">
+          <name>FieldFormTextInput</name>
+          <initializer>= 70</initializer>
+          <briefdescription>
+<para>Specifies the FORMTEXT field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca00ce93942fbfaabddfbbc26e8a8fc1da" prot="public">
+          <name>FieldFormula</name>
+          <initializer>= 34</initializer>
+          <briefdescription>
+<para>Specifies the = (formula) field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaea8f23823546bf7b05bfd223721f6515" prot="public">
+          <name>FieldGreetingLine</name>
+          <initializer>= 94</initializer>
+          <briefdescription>
+<para>Specifies the GREETINGLINE field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca5cf85d906af36bf958a49b15c5dd0ed8" prot="public">
+          <name>FieldGlossary</name>
+          <initializer>= 47</initializer>
+          <briefdescription>
+<para>Specifies the GLOSSARY field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca70b70e57cdfcb6d438459f7295d630dc" prot="public">
+          <name>FieldGoToButton</name>
+          <initializer>= 50</initializer>
+          <briefdescription>
+<para>Specifies the GOTOBUTTON field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca4ef5d09a7135443e6278c3afe90a0c49" prot="public">
+          <name>FieldHtmlActiveX</name>
+          <initializer>= 91</initializer>
+          <briefdescription>
+<para>Specifies the field that represents an HTML control. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca9b82936be64568478515e63821413371" prot="public">
+          <name>FieldHyperlink</name>
+          <initializer>= 88</initializer>
+          <briefdescription>
+<para>Specifies the HYPERLINK field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca977dda6ca14fcff75096cef279a06ce8" prot="public">
+          <name>FieldIf</name>
+          <initializer>= 7</initializer>
+          <briefdescription>
+<para>Specifies the IF field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecac712a172f84bcd38986edfa220cd2456" prot="public">
+          <name>FieldInclude</name>
+          <initializer>= 36</initializer>
+          <briefdescription>
+<para>Specifies the INCLUDE field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca04b6c3fde546a94093163717cbe6cee8" prot="public">
+          <name>FieldIncludePicture</name>
+          <initializer>= 67</initializer>
+          <briefdescription>
+<para>Specifies the INCLUDEPICTURE field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca83d1f8ca80d70a2bc52afd2351a25022" prot="public">
+          <name>FieldIncludeText</name>
+          <initializer>= 68</initializer>
+          <briefdescription>
+<para>Specifies the INCLUDETEXT field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecadf1ee46df3ca9b4fa8191d15183b6b86" prot="public">
+          <name>FieldIndex</name>
+          <initializer>= 8</initializer>
+          <briefdescription>
+<para>Specifies the INDEX field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab6ba221bacb534460d135e18611b465e" prot="public">
+          <name>FieldIndexEntry</name>
+          <initializer>= 4</initializer>
+          <briefdescription>
+<para>Specifies the XE field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca60f205e923143131bb885df921e080d5" prot="public">
+          <name>FieldInfo</name>
+          <initializer>= 14</initializer>
+          <briefdescription>
+<para>Specifies the INFO field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecad457e8c26fcdef14bedb9f81458f6ca5" prot="public">
+          <name>FieldImport</name>
+          <initializer>= 55</initializer>
+          <briefdescription>
+<para>Specifies the IMPORT field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca043cb399212ca4d34b15e0420b7c027d" prot="public">
+          <name>FieldKeyword</name>
+          <initializer>= 18</initializer>
+          <briefdescription>
+<para>Specifies the KEYWORDS field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca3dcd7a596f619f4a8c8908935e6776e0" prot="public">
+          <name>FieldLastSavedBy</name>
+          <initializer>= 20</initializer>
+          <briefdescription>
+<para>Specifies the LASTSAVEDBY field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab734809bc6f7ac351910501fca1036e3" prot="public">
+          <name>FieldLink</name>
+          <initializer>= 56</initializer>
+          <briefdescription>
+<para>Specifies the LINK field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca376d045f2a0ed91c76dd0ed6ea065139" prot="public">
+          <name>FieldListNum</name>
+          <initializer>= 90</initializer>
+          <briefdescription>
+<para>Specifies the LISTNUM field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca03028b077ef377441516ab1fd5a6d9e7" prot="public">
+          <name>FieldMacroButton</name>
+          <initializer>= 51</initializer>
+          <briefdescription>
+<para>Specifies the MACROBUTTON field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca77da9ff1657113800bd1a877ee7261a1" prot="public">
+          <name>FieldMergeField</name>
+          <initializer>= 59</initializer>
+          <briefdescription>
+<para>Specifies the MERGEFIELD field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca4b35c2d5a341e619948005c56f7c13f4" prot="public">
+          <name>FieldMergeRec</name>
+          <initializer>= 44</initializer>
+          <briefdescription>
+<para>Specifies the MERGEREC field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca748f45471889e0fd71fa0ab89b5fe422" prot="public">
+          <name>FieldMergeSeq</name>
+          <initializer>= 75</initializer>
+          <briefdescription>
+<para>Specifies the MERGESEQ field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf41be131af1e3ea44a3607cee03e1f9e" prot="public">
+          <name>FieldNext</name>
+          <initializer>= 41</initializer>
+          <briefdescription>
+<para>Specifies the NEXT field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca7fc782d116f4ac3361005bc14e77d72d" prot="public">
+          <name>FieldNextIf</name>
+          <initializer>= 42</initializer>
+          <briefdescription>
+<para>Specifies the NEXTIF field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca793d14811921efc1981ce3360d42374c" prot="public">
+          <name>FieldNoteRef</name>
+          <initializer>= 72</initializer>
+          <briefdescription>
+<para>Specifies the NOTEREF field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca5ea080388ccead28f8c85ac81329f3a2" prot="public">
+          <name>FieldNumChars</name>
+          <initializer>= 28</initializer>
+          <briefdescription>
+<para>Specifies the NUMCHARS field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecabc1c89e758984a2af45e6bc13f27f550" prot="public">
+          <name>FieldNumPages</name>
+          <initializer>= 26</initializer>
+          <briefdescription>
+<para>Specifies the NUMPAGES field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaecf2f298328bde915345efd8b00b16f3" prot="public">
+          <name>FieldNumWords</name>
+          <initializer>= 27</initializer>
+          <briefdescription>
+<para>Specifies the NUMWORDS field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca16ba51ad8b9118bb65e2e835656a4c3d" prot="public">
+          <name>FieldOcx</name>
+          <initializer>= 87</initializer>
+          <briefdescription>
+<para>Specifies the OCX field. Normally, Aspose.Words will represent an ActiveX control as a <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape" kindref="compound">Shape</ref> object, but for some documents, where a control does not have data and/or seems to be invalid, it will be represented as a field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca4bd5b1f60d1aecd481edfd68a8f486ef" prot="public">
+          <name>FieldPage</name>
+          <initializer>= 33</initializer>
+          <briefdescription>
+<para>Specifies the PAGE field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecadd65f88c82050e060ee24964b9d8921a" prot="public">
+          <name>FieldPageRef</name>
+          <initializer>= 37</initializer>
+          <briefdescription>
+<para>Specifies the PAGEREF field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca97389e5605c05319855b95ffd915aae9" prot="public">
+          <name>FieldPrint</name>
+          <initializer>= 48</initializer>
+          <briefdescription>
+<para>Specifies the PRINT field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaae906380485f2f471565b9474fee22ae" prot="public">
+          <name>FieldPrintDate</name>
+          <initializer>= 23</initializer>
+          <briefdescription>
+<para>Specifies the PRINTDATE field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca25193fb58a0e5b7f45e2e50e75882a07" prot="public">
+          <name>FieldPrivate</name>
+          <initializer>= 77</initializer>
+          <briefdescription>
+<para>Specifies the PRIVATE field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecafa01859cc7daabd005747bf00a35f6b4" prot="public">
+          <name>FieldQuote</name>
+          <initializer>= 35</initializer>
+          <briefdescription>
+<para>Specifies the QUOTE field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca2c68e55ad923084faa6ed0787f57a3d1" prot="public">
+          <name>FieldRef</name>
+          <initializer>= 3</initializer>
+          <briefdescription>
+<para>Specifies the REF field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecae885c38495ef1473c9adaa1c507169fb" prot="public">
+          <name>FieldRefNoKeyword</name>
+          <initializer>= 2</initializer>
+          <briefdescription>
+<para>Specifies that the field represents a REF field where the keyword has been omitted. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca387bbf9195bccabcdca03321473b8dd8" prot="public">
+          <name>FieldRefDoc</name>
+          <initializer>= 11</initializer>
+          <briefdescription>
+<para>Specifies the RD field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca83be3a6be198dd903a9e14320424f491" prot="public">
+          <name>FieldRevisionNum</name>
+          <initializer>= 24</initializer>
+          <briefdescription>
+<para>Specifies the REVNUM field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca794dac252fc88f2ddd47f45c76a507d2" prot="public">
+          <name>FieldSaveDate</name>
+          <initializer>= 22</initializer>
+          <briefdescription>
+<para>Specifies the SAVEDATE field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf8c49e94c0b7ae56779103613e030740" prot="public">
+          <name>FieldSection</name>
+          <initializer>= 65</initializer>
+          <briefdescription>
+<para>Specifies the SECTION field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaebdc2245c67db54df15bd82ccfaac61f" prot="public">
+          <name>FieldSectionPages</name>
+          <initializer>= 66</initializer>
+          <briefdescription>
+<para>Specifies the SECTIONPAGES field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf6d4d71e57b0ad1249a8662bce8b0e99" prot="public">
+          <name>FieldSequence</name>
+          <initializer>= 12</initializer>
+          <briefdescription>
+<para>Specifies the SEQ field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca84f81345d8ccbed50c64ce2910de2c1b" prot="public">
+          <name>FieldSet</name>
+          <initializer>= 6</initializer>
+          <briefdescription>
+<para>Specifies the SET field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecada1250e824b5d4f72284590c8f52758b" prot="public">
+          <name>FieldShape</name>
+          <initializer>= 95</initializer>
+          <briefdescription>
+<para>Specifies the SHAPE field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca43242b5d931b95607bda1c17803097aa" prot="public">
+          <name>FieldSkipIf</name>
+          <initializer>= 43</initializer>
+          <briefdescription>
+<para>Specifies the SKIPIF field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca7525a310715181706eab7ab0694bc558" prot="public">
+          <name>FieldStyleRef</name>
+          <initializer>= 10</initializer>
+          <briefdescription>
+<para>Specifies the STYLEREF field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca570ea659933a9cbc5b1e8354a969bb14" prot="public">
+          <name>FieldSubject</name>
+          <initializer>= 16</initializer>
+          <briefdescription>
+<para>Specifies the SUBJECT field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca35b6c0b5b0fdd0da6a7f0eec57d9b439" prot="public">
+          <name>FieldSymbol</name>
+          <initializer>= 57</initializer>
+          <briefdescription>
+<para>Specifies the SYMBOL field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecab59c0e11dca68c999d3579f9c9585ee6" prot="public">
+          <name>FieldTemplate</name>
+          <initializer>= 30</initializer>
+          <briefdescription>
+<para>Specifies the TEMPLATE field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca3af4f57120f24bb14c60b8d0e5ec91c4" prot="public">
+          <name>FieldTime</name>
+          <initializer>= 32</initializer>
+          <briefdescription>
+<para>Specifies the TIME field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca59fe4a3bd2cddeba24eab3f86692a07b" prot="public">
+          <name>FieldTitle</name>
+          <initializer>= 15</initializer>
+          <briefdescription>
+<para>Specifies the TITLE field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca75fd51212b93d4b42d519fdb6e3fe2cd" prot="public">
+          <name>FieldTOA</name>
+          <initializer>= 73</initializer>
+          <briefdescription>
+<para>Specifies the TOA field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaa24c781f69f2b4e4a0021d907f9d4674" prot="public">
+          <name>FieldTOAEntry</name>
+          <initializer>= 74</initializer>
+          <briefdescription>
+<para>Specifies the TA field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca951e4a34dbade8f358c5f9881337a0a1" prot="public">
+          <name>FieldTOC</name>
+          <initializer>= 13</initializer>
+          <briefdescription>
+<para>Specifies the TOC field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca7446f162f3ce52e7c8816ed9d0039052" prot="public">
+          <name>FieldTOCEntry</name>
+          <initializer>= 9</initializer>
+          <briefdescription>
+<para>Specifies the TC field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca8700364dcbe53ab80d7a2274babde945" prot="public">
+          <name>FieldUserAddress</name>
+          <initializer>= 62</initializer>
+          <briefdescription>
+<para>Specifies the USERADDRESS field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca1d39cae86e975244a9fb7f85085f876c" prot="public">
+          <name>FieldUserInitials</name>
+          <initializer>= 61</initializer>
+          <briefdescription>
+<para>Specifies the USERINITIALS field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca807506b40ef828f446af5f2c4dac0c3e" prot="public">
+          <name>FieldUserName</name>
+          <initializer>= 60</initializer>
+          <briefdescription>
+<para>Specifies the USERNAME field. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies Microsoft Word field types. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a field into a document using a field code. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Field&gt;<sp/>field<sp/>=<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;DATE<sp/>\\@<sp/>\&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy\&quot;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca971f227975af74a7cd530642031cb487" kindref="member" tooltip="Specifies the DATE field.">FieldType::FieldDate</ref>,<sp/>field-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;DATE<sp/>\\@<sp/>\&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy\&quot;&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>overload<sp/>of<sp/>the<sp/>InsertField<sp/>method<sp/>automatically<sp/>updates<sp/>inserted<sp/>fields.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_LE(<ref refid="struct/system.math/_1a562e313d90d467f581dfb28b85e6e7fe" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Math::Abs</ref>((<ref refid="class/system.date_time/_1a54eeee79d8f9d970d218cf28702d94de" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::Parse</ref>(field-&gt;get_Result())<sp/>-<sp/><ref refid="class/system.date_time/_1a8b4667cfa17e4aff117188fee6dbd7ed" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::DateTime::get_Today</ref>()).get_Hours()),<sp/>24);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to work with a <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_start" kindref="compound">FieldStart</ref> node. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>=<sp/>System::DynamicCast&lt;FieldDate&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca971f227975af74a7cd530642031cb487" kindref="member" tooltip="Specifies the DATE field.">FieldType::FieldDate</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;get_Format()-&gt;set_DateTimeFormat(u</highlight><highlight class="stringliteral">&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldChar&gt;<sp/>fieldStart<sp/>=<sp/>field-&gt;get_Start();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca971f227975af74a7cd530642031cb487" kindref="member" tooltip="Specifies the DATE field.">FieldType::FieldDate</ref>,<sp/>fieldStart-&gt;get_FieldType());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>fieldStart-&gt;get_IsDirty());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>fieldStart-&gt;get_IsLocked());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Retrieve<sp/>the<sp/>facade<sp/>object<sp/>which<sp/>represents<sp/>the<sp/>field<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>System::DynamicCast&lt;FieldDate&gt;(fieldStart-&gt;GetField());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>field-&gt;get_IsLocked());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>DATE<sp/><sp/>\\@<sp/>\&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy\&quot;&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Update<sp/>the<sp/>field<sp/>to<sp/>show<sp/>the<sp/>current<sp/>date.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldType.h" line="64" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldType.h" bodystart="65" bodyend="360"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_fields_1ada00fa769416b360482566a3b6aefc8d" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>FieldUpdateCultureSource</name>
+        <qualifiedname>Aspose::Words::Fields::FieldUpdateCultureSource</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1ada00fa769416b360482566a3b6aefc8da47541f6d62a8c44c94ebc3522d022418" prot="public">
+          <name>CurrentThread</name>
+          <briefdescription>
+<para>The culture of the current execution thread is used to update fields. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1ada00fa769416b360482566a3b6aefc8daddf7a4a5576ce625fee6ceb1e3ba650e" prot="public">
+          <name>FieldCode</name>
+          <briefdescription>
+<para>The culture specified in the field formatting properties via language setting is used. </para>
+          </briefdescription>
+          <detaileddescription>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a93719d071099487b6aea1eaa241dd6e8" kindref="member">Aspose::Words::Fields::Field::get_LocaleId</ref> </para>
+</simplesect>
+</para>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Indicates what culture to use during field update. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldUpdateCultureSource.h" line="23" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldUpdateCultureSource.h" bodystart="24" bodyend="33"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>GeneralFormat</name>
+        <qualifiedname>Aspose::Words::Fields::GeneralFormat</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a6adf97f83acf6453d4a6a4b1070f3754" prot="public">
+          <name>None</name>
+          <briefdescription>
+<para>Used to specify a missing general format. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a936d6ada6b59d0136a3096987b4a3580" prot="public">
+          <name>Aiueo</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using hiragana characters in the traditional a-i-u-e-o order. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a5ee80e3fed2caf31e7c9a20491816888" prot="public">
+          <name>UppercaseAlphabetic</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result as one or more occurrences of an uppercase alphabetic Latin character. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a5f3bffa012c7259d0c9421f2fc46955c" prot="public">
+          <name>LowercaseAlphabetic</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result as one or more occurrences of an lowercase alphabetic Latin character. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a272ccb8592bafde0baf1dedce0fd3ac2" prot="public">
+          <name>Arabic</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using Arabic cardinal numerals. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a255598c22a5ac51ce428d5ad249d99fd" prot="public">
+          <name>ArabicAbjad</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using ascending Abjad numerals. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a79bf0b7569071598bf95d7cc2ff34a78" prot="public">
+          <name>ArabicAlpha</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using characters in the Arabic alphabet. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a81695f18d46ae4e6910f81208544db5e" prot="public">
+          <name>ArabicDash</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using Arabic cardinal numerals, with a prefix of &quot;- &quot; and a suffix of &quot; -&quot;. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a40c2eeb87b2326d85775e7501dbcd718" prot="public">
+          <name>BahtText</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result in the Thai counting system. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a6cb6b44fe5f804d36e15e15b64099283" prot="public">
+          <name>CardText</name>
+          <briefdescription>
+<para>Numeric formatting. Cardinal text (One, Two, Three, ...). </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a840be6a157e6cbec78dd3412c7512435" prot="public">
+          <name>ChineseNum1</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using ascending numbers from the appropriate counting system. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a04d15bbf47a2321affe6b4f8d8f62501" prot="public">
+          <name>ChineseNum2</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using sequential numbers from the appropriate legal format. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a0cdbdfc3ead07385dd85125d7f14f96b" prot="public">
+          <name>ChineseNum3</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using sequential numbers from the appropriate counting thousand system. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a3fddc4245117d908355af6722e5f2e19" prot="public">
+          <name>Chosung</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using sequential numbers from the Korean Chosung format. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960ac27367f467286ed8e65e4fa09bba3597" prot="public">
+          <name>CircleNum</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using decimal numbering enclosed in a circle, using the enclosed alphanumeric glyph character for numbers in the range 1–20. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a46d11fc93a0b4b8b113b8b0a4cfef818" prot="public">
+          <name>DBChar</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using double-byte Arabic numbering. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960ad13e512c847d13ba269bf95f65e0516f" prot="public">
+          <name>DBNum1</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using sequential digital ideographs, using the appropriate character. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a8a3dc6b6a8dc6ebc0eaaf929757a14ca" prot="public">
+          <name>DBNum2</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using sequential numbers from the appropriate counting system. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960ac5d550e7767502e21feeede6cb3cadd0" prot="public">
+          <name>DBNum3</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using sequential numbers from the appropriate legal counting system. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a7e190f4e3c1b596d72f023743688c4b7" prot="public">
+          <name>DBNum4</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using sequential numbers from the appropriate digital counting system. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a69f8027c90c23787e02ec76196926698" prot="public">
+          <name>DollarText</name>
+          <briefdescription>
+<para>Numeric formatting. Dollar text (One, Two, Three, ... + AND 55/100). </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960aa7018992bc3ae482cf42606fd05dc848" prot="public">
+          <name>Ganada</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using sequential numbers from the Korean Ganada format. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960abcdabc292fa8d5b60aafec61c5481396" prot="public">
+          <name>GB1</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using decimal numbering followed by a period, using the enclosed alphanumeric glyph character. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a101607d6b850f4144ca64f503f3e3531" prot="public">
+          <name>GB2</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using decimal numbering enclosed in parenthesis, using the enclosed alphanumeric glyph character. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a64040a493b3dac8b340ccb8a29f7ae98" prot="public">
+          <name>GB3</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using decimal numbering enclosed in a circle, using the enclosed alphanumeric glyph character. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a9ac7b637523af9eefe3ee224fc23acd0" prot="public">
+          <name>GB4</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using decimal numbering enclosed in a circle, using the enclosed alphanumeric glyph character. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a423af1e578f6cd91aa58ae8c62e7f22b" prot="public">
+          <name>Hebrew1</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using Hebrew numerals. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a30602e39c72449517546871e5e51d76b" prot="public">
+          <name>Hebrew2</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using the Hebrew alphabet. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a92640bd72988395b326c888614f8937a" prot="public">
+          <name>Hex</name>
+          <briefdescription>
+<para>Numeric formatting. Formats the numeric result using uppercase hexadecimal digits. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a7c9a0ebf6f42214e796764cd9b4edf91" prot="public">
+          <name>HindiArabic</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using Hindi numbers. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a07b5937e947d2019806c1085b67200d5" prot="public">
+          <name>HindiCardText</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using sequential numbers from the Hindi counting system. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960ad1f8323432be166a44853d513bd09e4f" prot="public">
+          <name>HindiLetter1</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using Hindi vowels. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a60002a74c3eeca153060663cc5a901e6" prot="public">
+          <name>HindiLetter2</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using Hindi consonants. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a2dee0514b3614d97f6eb83ea10c368cd" prot="public">
+          <name>Iroha</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using the Japanese iroha. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960ae293fbb98ffe12313529a7112b6561b4" prot="public">
+          <name>KanjiNum1</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using a Japanese style using the appropriate counting system. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a4c0d7366592b37ad2e0be582f4f5b3c7" prot="public">
+          <name>KanjiNum2</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using the appropriate counting system. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a6547bcc0ae7bccac15236f1b060bef68" prot="public">
+          <name>KanjiNum3</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using the appropriate counting system. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960ac9d539922221d77591558b5841d36fd1" prot="public">
+          <name>Ordinal</name>
+          <briefdescription>
+<para>Numeric formatting. Ordinal (1st, 2nd, 3rd, ...). </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a637d5dcb4a255ed36632ade2e190dc5f" prot="public">
+          <name>OrdText</name>
+          <briefdescription>
+<para>Numeric formatting. Ordinal text (First, Second, Third, ...). </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a3c04ee10e6af5c1dd2255e5bd5c078e9" prot="public">
+          <name>UppercaseRoman</name>
+          <briefdescription>
+<para>Numeric formatting. Uppercase Roman (I, II, III, ...). </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a039ae374b575c2cf4e150c0cc148d9bc" prot="public">
+          <name>LowercaseRoman</name>
+          <briefdescription>
+<para>Numeric formatting. Lowercase Roman (i, ii, iii, ...). </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a49a9be680f9f336647efa1bf44655e48" prot="public">
+          <name>SBChar</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using single-byte Arabic numbering. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a65e3a4208f86f9697a7481149f4a9da3" prot="public">
+          <name>ThaiArabic</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using Thai numbers. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a2dc806b2691e10c4425d9edd0cdec876" prot="public">
+          <name>ThaiCardText</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using sequential numbers from the Thai counting system. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a875a52b1c3f4c506a23e2b6704737c84" prot="public">
+          <name>ThaiLetter</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using Thai letters. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a2a6d3e488b313a06f1678f9c9405007f" prot="public">
+          <name>VietCardText</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using Vietnamese numerals. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a35d7f1168cd8a04a8c5de35baa01d9ad" prot="public">
+          <name>Zodiac1</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using sequential numerical traditional ideographs. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a881e3855951563a12086f6ae12f74537" prot="public">
+          <name>Zodiac2</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using sequential zodiac ideographs. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960af5a4a77ecc8404131d06a900e1b4862f" prot="public">
+          <name>Zodiac3</name>
+          <briefdescription>
+<para>Numeric formatting. Formats a numeric result using sequential traditional zodiac ideographs. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a55dd587cdc4a278be6a5c37f9e539de1" prot="public">
+          <name>Caps</name>
+          <briefdescription>
+<para>Text formatting. Capitalizes the first letter of each word. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a35921f1fc880e9f13b69dc79ea5a9fee" prot="public">
+          <name>FirstCap</name>
+          <briefdescription>
+<para>Text formatting. Capitalizes the first letter of the first word. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960ab75fcdd2d72d9e000beab48622402d93" prot="public">
+          <name>Lower</name>
+          <briefdescription>
+<para>Text formatting. All letters are lowercase. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a19de5b94f7b83900d4b296d9fa491aec" prot="public">
+          <name>Upper</name>
+          <briefdescription>
+<para>Text formatting. All letters are uppercase. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a0a960da19bacc435b5324237774a04c4" prot="public">
+          <name>CharFormat</name>
+          <briefdescription>
+<para><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Field</ref> result formatting. The CHARFORMAT instruction. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960afb0901eea378cd5af651b4b996f48e52" prot="public">
+          <name>MergeFormat</name>
+          <briefdescription>
+<para><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Field</ref> result formatting. The MERGEFORMAT instruction. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a1e17cf276b7a91aff68601c5f8870410" prot="public">
+          <name>MergeFormatInet</name>
+          <briefdescription>
+<para><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Field</ref> result formatting. The MERGEFORMATINET instruction. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies a general format that is applied to a numeric, text, or any field result. A field may have a combination of general formats. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to format field results. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>a<sp/>document<sp/>builder<sp/>to<sp/>insert<sp/>a<sp/>field<sp/>that<sp/>displays<sp/>a<sp/>result<sp/>with<sp/>no<sp/>format<sp/>applied.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Field&gt;<sp/>field<sp/>=<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;=<sp/>2<sp/>+<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>2<sp/>+<sp/>3&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;5&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>apply<sp/>a<sp/>format<sp/>to<sp/>a<sp/>field&apos;s<sp/>result<sp/>using<sp/>the<sp/>field&apos;s<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>types<sp/>of<sp/>formats<sp/>that<sp/>we<sp/>can<sp/>apply<sp/>to<sp/>a<sp/>field&apos;s<sp/>result.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Numeric<sp/>format:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldFormat&gt;<sp/>format<sp/>=<sp/>field-&gt;get_Format();</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;set_NumericFormat(u</highlight><highlight class="stringliteral">&quot;$###.00&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>2<sp/>+<sp/>3<sp/>\\#<sp/>$###.00&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;$<sp/><sp/>5.00&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Date/time<sp/>format:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;DATE&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">format<sp/>=<sp/>field-&gt;get_Format();</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;set_DateTimeFormat(u</highlight><highlight class="stringliteral">&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;DATE<sp/>\\@<sp/>\&quot;dddd,<sp/>MMMM<sp/>dd,<sp/>yyyy\&quot;&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Today&apos;s<sp/>date,<sp/>in<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>format-&gt;get_DateTimeFormat()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>format:\n\t&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>field-&gt;get_Result()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>General<sp/>format:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">field<sp/>=<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;=<sp/>25<sp/>+<sp/>33&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">format<sp/>=<sp/>field-&gt;get_Format();</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a039ae374b575c2cf4e150c0cc148d9bc" kindref="member" tooltip="Numeric formatting. Lowercase Roman (i, ii, iii, ...).">GeneralFormat::LowercaseRoman</ref>);</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a19de5b94f7b83900d4b296d9fa491aec" kindref="member" tooltip="Text formatting. All letters are uppercase.">GeneralFormat::Upper</ref>);</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>index<sp/>=<sp/>0;</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;GeneralFormat&gt;&gt;<sp/>generalFormatEnumerator<sp/>=<sp/>format-&gt;get_GeneralFormats()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(generalFormatEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;General<sp/>format<sp/>index<sp/>{0}:<sp/>{1}&quot;</highlight><highlight class="normal">,<sp/>index++,<sp/>generalFormatEnumerator-&gt;get_Current())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>25<sp/>+<sp/>33<sp/>\\*<sp/>roman<sp/>\\*<sp/>Upper&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;LVIII&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>format-&gt;get_GeneralFormats()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a039ae374b575c2cf4e150c0cc148d9bc" kindref="member" tooltip="Numeric formatting. Lowercase Roman (i, ii, iii, ...).">GeneralFormat::LowercaseRoman</ref>,<sp/>format-&gt;get_GeneralFormats()-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>remove<sp/>our<sp/>formats<sp/>to<sp/>revert<sp/>the<sp/>field&apos;s<sp/>result<sp/>to<sp/>its<sp/>original<sp/>form.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;Remove(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a0d0235ded9818cb6a812f3a506d6f960a039ae374b575c2cf4e150c0cc148d9bc" kindref="member" tooltip="Numeric formatting. Lowercase Roman (i, ii, iii, ...).">GeneralFormat::LowercaseRoman</ref>);</highlight></codeline>
+<codeline><highlight class="normal">format-&gt;get_GeneralFormats()-&gt;RemoveAt(0);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>format-&gt;get_GeneralFormats()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">field-&gt;Update();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;=<sp/>25<sp/>+<sp/>33<sp/><sp/>&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;58&quot;</highlight><highlight class="normal">,<sp/>field-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>format-&gt;get_GeneralFormats()-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/GeneralFormat.h" line="88" column="1" bodyfile="Aspose.Words.Cpp/Fields/GeneralFormat.h" bodystart="89" bodyend="263"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_fields_1a42a63a6b0a7b556ffd6f69de5d538c2b" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>MergeFieldImageDimensionUnit</name>
+        <qualifiedname>Aspose::Words::Fields::MergeFieldImageDimensionUnit</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a42a63a6b0a7b556ffd6f69de5d538c2ba2a3cd5946cfd317eb99c3d32e35e2d4c" prot="public">
+          <name>Point</name>
+          <briefdescription>
+<para>The point (i.e. 1/72 inch). </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a42a63a6b0a7b556ffd6f69de5d538c2baadaaee4b22041c27198d410c68d952c9" prot="public">
+          <name>Percent</name>
+          <briefdescription>
+<para>The percent of the original image dimension value. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies an unit of an image dimension (i.e. the width or the height) used across a mail merge process. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/MergeFieldImageDimensionUnit.h" line="23" column="1" bodyfile="Aspose.Words.Cpp/Fields/MergeFieldImageDimensionUnit.h" bodystart="24" bodyend="31"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_fields_1a36f189bc569a0916113383750bcd817f" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>TextFormFieldType</name>
+        <qualifiedname>Aspose::Words::Fields::TextFormFieldType</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a36f189bc569a0916113383750bcd817fad2203cb1237cb6460cbad94564e39345" prot="public">
+          <name>Regular</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+<para>The text form field can contain any text. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a36f189bc569a0916113383750bcd817fab2ee912b91d69b435159c7c3f6df7f5f" prot="public">
+          <name>Number</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+<para>The text form field can contain only numbers. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a36f189bc569a0916113383750bcd817fa44749712dbec183e983dcd78a7736c41" prot="public">
+          <name>Date</name>
+          <initializer>= 2</initializer>
+          <briefdescription>
+<para>The text form field can contain only a valid date value. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a36f189bc569a0916113383750bcd817fa5bf4286d7aec626249e5f7893a76b00f" prot="public">
+          <name>CurrentDate</name>
+          <initializer>= 3</initializer>
+          <briefdescription>
+<para>The text form field value is the current date when the field is updated. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a36f189bc569a0916113383750bcd817fa28d966bf69234556641d197315891ba0" prot="public">
+          <name>CurrentTime</name>
+          <initializer>= 4</initializer>
+          <briefdescription>
+<para>The text form field value is the current time when the field is updated. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_fields_1a36f189bc569a0916113383750bcd817fa46057d774fc3b6bbcd90dcd1406bf889" prot="public">
+          <name>Calculated</name>
+          <initializer>= 5</initializer>
+          <briefdescription>
+<para>The text form field value is calculated from the expression specified in the <ref refid="class_aspose_1_1_words_1_1_fields_1_1_form_field_1a60f63fad694bd26add78979dc3a068fd" kindref="member">TextInputDefault</ref> property. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies the type of a text form field. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create form fields. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Form<sp/>fields<sp/>are<sp/>objects<sp/>in<sp/>the<sp/>document<sp/>that<sp/>the<sp/>user<sp/>can<sp/>interact<sp/>with<sp/>by<sp/>being<sp/>prompted<sp/>to<sp/>enter<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>create<sp/>them<sp/>using<sp/>a<sp/>document<sp/>builder,<sp/>and<sp/>below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>doing<sp/>so.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Basic<sp/>text<sp/>input:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertTextInput(u</highlight><highlight class="stringliteral">&quot;My<sp/>text<sp/>input&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a36f189bc569a0916113383750bcd817fad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="The text form field can contain any text.">TextFormFieldType::Regular</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Enter<sp/>your<sp/>name<sp/>here&quot;</highlight><highlight class="normal">,<sp/>30);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Combo<sp/>box<sp/>with<sp/>prompt<sp/>text,<sp/>and<sp/>a<sp/>range<sp/>of<sp/>possible<sp/>values:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;String&gt;<sp/>items<sp/>=<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;--<sp/>Select<sp/>your<sp/>favorite<sp/>footwear<sp/>--&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Sneakers&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Oxfords&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Flip-flops&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Other&quot;</highlight><highlight class="normal">});</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertParagraph();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertComboBox(u</highlight><highlight class="stringliteral">&quot;My<sp/>combo<sp/>box&quot;</highlight><highlight class="normal">,<sp/>items,<sp/>0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Document()-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBuilder.CreateForm.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/TextFormFieldType.h" line="43" column="1" bodyfile="Aspose.Words.Cpp/Fields/TextFormFieldType.h" bodystart="44" bodyend="64"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>The <bold>Aspose.Words.Fields</bold> namespace contains classes that represent Microsoft Word fields in a document. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/Document.h" line="58" column="1"/>
+  </compounddef>
+</doxygen>

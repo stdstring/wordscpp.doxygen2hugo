@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="_i_border_attr_source_8h" kind="file" language="C++">
+    <compoundname>IBorderAttrSource.h</compoundname>
+    <includes local="no">system/object.h</includes>
+    <includes local="no">cstdint</includes>
+    <includedby refid="_conditional_style_8h" local="no">Aspose.Words.Cpp/ConditionalStyle.h</includedby>
+    <includedby refid="_image_data_8h" local="no">Aspose.Words.Cpp/Drawing/ImageData.h</includedby>
+    <includedby refid="_font_8h" local="no">Aspose.Words.Cpp/Font.h</includedby>
+    <includedby refid="_page_setup_8h" local="no">Aspose.Words.Cpp/PageSetup.h</includedby>
+    <includedby refid="_paragraph_format_8h" local="no">Aspose.Words.Cpp/ParagraphFormat.h</includedby>
+    <includedby refid="_table_style_8h" local="no">Aspose.Words.Cpp/TableStyle.h</includedby>
+    <includedby refid="_cell_format_8h" local="no">Aspose.Words.Cpp/Tables/CellFormat.h</includedby>
+    <includedby refid="_row_format_8h" local="no">Aspose.Words.Cpp/Tables/RowFormat.h</includedby>
+    <incdepgraph>
+      <node id="1">
+        <label>Aspose.Words.Cpp/IBorderAttrSource.h</label>
+        <link refid="_i_border_attr_source_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>cstdint</label>
+      </node>
+      <node id="2">
+        <label>system/object.h</label>
+      </node>
+    </incdepgraph>
+    <invincdepgraph>
+      <node id="2">
+        <label>Aspose.Words.Cpp/ConditionalStyle.h</label>
+        <link refid="_conditional_style_8h_source"/>
+      </node>
+      <node id="3">
+        <label>Aspose.Words.Cpp/Drawing/ImageData.h</label>
+        <link refid="_image_data_8h_source"/>
+      </node>
+      <node id="4">
+        <label>Aspose.Words.Cpp/Font.h</label>
+        <link refid="_font_8h_source"/>
+      </node>
+      <node id="1">
+        <label>Aspose.Words.Cpp/IBorderAttrSource.h</label>
+        <link refid="_i_border_attr_source_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+        <childnode refid="9" relation="include">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>Aspose.Words.Cpp/PageSetup.h</label>
+        <link refid="_page_setup_8h_source"/>
+      </node>
+      <node id="6">
+        <label>Aspose.Words.Cpp/ParagraphFormat.h</label>
+        <link refid="_paragraph_format_8h_source"/>
+      </node>
+      <node id="7">
+        <label>Aspose.Words.Cpp/TableStyle.h</label>
+        <link refid="_table_style_8h_source"/>
+      </node>
+      <node id="8">
+        <label>Aspose.Words.Cpp/Tables/CellFormat.h</label>
+        <link refid="_cell_format_8h_source"/>
+      </node>
+      <node id="9">
+        <label>Aspose.Words.Cpp/Tables/RowFormat.h</label>
+        <link refid="_row_format_8h_source"/>
+      </node>
+    </invincdepgraph>
+    <innernamespace refid="namespace_aspose">Aspose</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words">Aspose::Words</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/IBorderAttrSource.h"/>
+  </compounddef>
+</doxygen>

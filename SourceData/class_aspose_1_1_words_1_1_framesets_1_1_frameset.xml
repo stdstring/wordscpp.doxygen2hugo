@@ -1,0 +1,521 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_framesets_1_1_frameset" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Framesets::Frameset</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_frameset_8h" local="no">Aspose.Words.Cpp/Framesets/Frameset.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a489fbfa282e2d28a23426ce2cb705868" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Framesets::Frameset::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Framesets::Frameset::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="61" column="28" bodyfile="Aspose.Words.Cpp/Framesets/Frameset.h" bodystart="61" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a6ef0dae88c472a43fb4541a6ff8f6a02" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset" kindref="compound">Frameset</ref></type>
+        <definition>typedef Frameset Aspose::Words::Framesets::Frameset::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Framesets::Frameset::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="60" column="22" bodyfile="Aspose.Words.Cpp/Framesets/Frameset.h" bodystart="60" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a0ca81012a7c3b83fda1a23417d8de8d0" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Framesets::Frameset::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Framesets::Frameset::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="63" column="37" bodyfile="Aspose.Words.Cpp/Framesets/Frameset.h" bodystart="63" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a4bea7e28c18cdc9ad02599107c7f481f" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Framesets::Frameset::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Framesets::Frameset::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="153" column="20" bodyfile="Aspose.Words.Cpp/Framesets/Frameset.h" bodystart="153" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a436d1f66d9b8c8bc78a4e0a523cb04a0" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Framesets::Frameset::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Framesets::Frameset::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="154" column="20" bodyfile="Aspose.Words.Cpp/Framesets/Frameset.h" bodystart="154" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1ae694fc0e9153848f4ec00ad471016694" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Framesets::Frameset::mField10</definition>
+        <argsstring></argsstring>
+        <name>mField10</name>
+        <qualifiedname>Aspose::Words::Framesets::Frameset::mField10</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="163" column="23" bodyfile="Aspose.Words.Cpp/Framesets/Frameset.h" bodystart="163" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1ac2e4f0277e5e3823ccedac896c0de76a" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Framesets::Frameset::mField11</definition>
+        <argsstring></argsstring>
+        <name>mField11</name>
+        <qualifiedname>Aspose::Words::Framesets::Frameset::mField11</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="164" column="23" bodyfile="Aspose.Words.Cpp/Framesets/Frameset.h" bodystart="164" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a0ab98397d93dc7b7a15663e1bbc18ccc" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Framesets::Frameset::mField12</definition>
+        <argsstring></argsstring>
+        <name>mField12</name>
+        <qualifiedname>Aspose::Words::Framesets::Frameset::mField12</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="165" column="23" bodyfile="Aspose.Words.Cpp/Framesets/Frameset.h" bodystart="165" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1acbcc7d54497ffcc1da1c2bfb7d07855d" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Framesets::Frameset::mField13</definition>
+        <argsstring></argsstring>
+        <name>mField13</name>
+        <qualifiedname>Aspose::Words::Framesets::Frameset::mField13</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="166" column="23" bodyfile="Aspose.Words.Cpp/Framesets/Frameset.h" bodystart="166" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a60a06bddff5805cfb0f63bb19c2ff8d6" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Framesets::Frameset::mField14</definition>
+        <argsstring></argsstring>
+        <name>mField14</name>
+        <qualifiedname>Aspose::Words::Framesets::Frameset::mField14</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="167" column="23" bodyfile="Aspose.Words.Cpp/Framesets/Frameset.h" bodystart="167" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a5f6e5eb22197c4847677f2be6f498f55" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Framesets::Frameset::mField15</definition>
+        <argsstring></argsstring>
+        <name>mField15</name>
+        <qualifiedname>Aspose::Words::Framesets::Frameset::mField15</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="168" column="23" bodyfile="Aspose.Words.Cpp/Framesets/Frameset.h" bodystart="168" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1ace818f1a94a91ede34969d99be6b7610" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Framesets::Frameset::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Framesets::Frameset::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="155" column="20" bodyfile="Aspose.Words.Cpp/Framesets/Frameset.h" bodystart="155" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a4f29de804bc98602028e8c60337c4eda" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Framesets::Frameset::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Framesets::Frameset::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="156" column="23" bodyfile="Aspose.Words.Cpp/Framesets/Frameset.h" bodystart="156" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a4698e5358b741b15bb6934e3848aabbb" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Framesets::Frameset::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Framesets::Frameset::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="157" column="23" bodyfile="Aspose.Words.Cpp/Framesets/Frameset.h" bodystart="157" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a7769c3d4b84a9e0647f39e49057b431e" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Framesets::Frameset::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::Framesets::Frameset::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="158" column="23" bodyfile="Aspose.Words.Cpp/Framesets/Frameset.h" bodystart="158" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a08a9be4e44cbcf2de09c53c0fca8dbf4" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Framesets::Frameset::mField6</definition>
+        <argsstring></argsstring>
+        <name>mField6</name>
+        <qualifiedname>Aspose::Words::Framesets::Frameset::mField6</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="159" column="23" bodyfile="Aspose.Words.Cpp/Framesets/Frameset.h" bodystart="159" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1ac26d40d11844158cd105bcf1d82e60ac" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Framesets::Frameset::mField7</definition>
+        <argsstring></argsstring>
+        <name>mField7</name>
+        <qualifiedname>Aspose::Words::Framesets::Frameset::mField7</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="160" column="23" bodyfile="Aspose.Words.Cpp/Framesets/Frameset.h" bodystart="160" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1aaf27b0bda095d1bf3da4e251aebe2f30" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Framesets::Frameset::mField8</definition>
+        <argsstring></argsstring>
+        <name>mField8</name>
+        <qualifiedname>Aspose::Words::Framesets::Frameset::mField8</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="161" column="23" bodyfile="Aspose.Words.Cpp/Framesets/Frameset.h" bodystart="161" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a892c61c3b4740382205e46ca35026272" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Framesets::Frameset::mField9</definition>
+        <argsstring></argsstring>
+        <name>mField9</name>
+        <qualifiedname>Aspose::Words::Framesets::Frameset::mField9</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="162" column="23" bodyfile="Aspose.Words.Cpp/Framesets/Frameset.h" bodystart="162" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1aaccb22e0b4e55ac39d8aae0fc884c25d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Framesets::Frameset::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Framesets::Frameset::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="64" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1aadb32b68fe495eb2afe667608ce21130" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Framesets::Frameset::Frameset</definition>
+        <argsstring>()</argsstring>
+        <name>Frameset</name>
+        <qualifiedname>Aspose::Words::Framesets::Frameset::Frameset</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="147" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1aa840ba2aa2051b3c78d79db0c66fd4db" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection" kindref="compound">Aspose::Words::Framesets::FramesetCollection</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Framesets::FramesetCollection &gt; Aspose::Words::Framesets::Frameset::get_ChildFramesets</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ChildFramesets</name>
+        <qualifiedname>Aspose::Words::Framesets::Frameset::get_ChildFramesets</qualifiedname>
+        <briefdescription>
+<para>Gets the collection of child frames and frames pages. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access frames on-page. <programlisting><codeline><highlight class="comment">//<sp/>Document<sp/>contains<sp/>several<sp/>frames<sp/>with<sp/>links<sp/>to<sp/>other<sp/>documents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Frameset.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>check<sp/>the<sp/>default<sp/>URL<sp/>(a<sp/>web<sp/>page<sp/>URL<sp/>or<sp/>local<sp/>document)<sp/>or<sp/>if<sp/>the<sp/>frame<sp/>is<sp/>an<sp/>external<sp/>resource.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;https://file-examples-com.github.io/uploads/2017/02/file-sample_100kB.docx&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;get_Frameset()-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;get_FrameDefaultUrl());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_Frameset()-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;get_IsFrameLinkToFile());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_Frameset()-&gt;get_ChildFramesets()-&gt;idx_get(1)-&gt;get_FrameDefaultUrl());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(doc-&gt;get_Frameset()-&gt;get_ChildFramesets()-&gt;idx_get(1)-&gt;get_IsFrameLinkToFile());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Change<sp/>properties<sp/>for<sp/>one<sp/>of<sp/>our<sp/>frames.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Frameset()-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;set_FrameDefaultUrl(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;https://github.com/aspose-words/Aspose.Words-for-.NET/blob/master/Examples/Data/Absolute%20position%20tab.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Frameset()-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;set_IsFrameLinkToFile(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="145" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1aead65b214a8431e02b5a94a4254836a5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Framesets::Frameset::get_FrameDefaultUrl</definition>
+        <argsstring>()</argsstring>
+        <name>get_FrameDefaultUrl</name>
+        <qualifiedname>Aspose::Words::Framesets::Frameset::get_FrameDefaultUrl</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the web page URL or document file name to display in this frame. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access frames on-page. <programlisting><codeline><highlight class="comment">//<sp/>Document<sp/>contains<sp/>several<sp/>frames<sp/>with<sp/>links<sp/>to<sp/>other<sp/>documents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Frameset.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>check<sp/>the<sp/>default<sp/>URL<sp/>(a<sp/>web<sp/>page<sp/>URL<sp/>or<sp/>local<sp/>document)<sp/>or<sp/>if<sp/>the<sp/>frame<sp/>is<sp/>an<sp/>external<sp/>resource.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;https://file-examples-com.github.io/uploads/2017/02/file-sample_100kB.docx&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;get_Frameset()-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;get_FrameDefaultUrl());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_Frameset()-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;get_IsFrameLinkToFile());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_Frameset()-&gt;get_ChildFramesets()-&gt;idx_get(1)-&gt;get_FrameDefaultUrl());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(doc-&gt;get_Frameset()-&gt;get_ChildFramesets()-&gt;idx_get(1)-&gt;get_IsFrameLinkToFile());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Change<sp/>properties<sp/>for<sp/>one<sp/>of<sp/>our<sp/>frames.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Frameset()-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;set_FrameDefaultUrl(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;https://github.com/aspose-words/Aspose.Words-for-.NET/blob/master/Examples/Data/Absolute%20position%20tab.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Frameset()-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;set_IsFrameLinkToFile(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="90" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a19c637db63374f7b49317eb17eb9118a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Framesets::Frameset::get_IsFrameLinkToFile</definition>
+        <argsstring>()</argsstring>
+        <name>get_IsFrameLinkToFile</name>
+        <qualifiedname>Aspose::Words::Framesets::Frameset::get_IsFrameLinkToFile</qualifiedname>
+        <briefdescription>
+<para>Gets or sets a value indicating whether the web page or document file name specified in the <ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1aead65b214a8431e02b5a94a4254836a5" kindref="member">FrameDefaultUrl</ref> property is an external resource the frame is linked with. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access frames on-page. <programlisting><codeline><highlight class="comment">//<sp/>Document<sp/>contains<sp/>several<sp/>frames<sp/>with<sp/>links<sp/>to<sp/>other<sp/>documents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Frameset.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>check<sp/>the<sp/>default<sp/>URL<sp/>(a<sp/>web<sp/>page<sp/>URL<sp/>or<sp/>local<sp/>document)<sp/>or<sp/>if<sp/>the<sp/>frame<sp/>is<sp/>an<sp/>external<sp/>resource.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;https://file-examples-com.github.io/uploads/2017/02/file-sample_100kB.docx&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;get_Frameset()-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;get_FrameDefaultUrl());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_Frameset()-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;get_IsFrameLinkToFile());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_Frameset()-&gt;get_ChildFramesets()-&gt;idx_get(1)-&gt;get_FrameDefaultUrl());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(doc-&gt;get_Frameset()-&gt;get_ChildFramesets()-&gt;idx_get(1)-&gt;get_IsFrameLinkToFile());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Change<sp/>properties<sp/>for<sp/>one<sp/>of<sp/>our<sp/>frames.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Frameset()-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;set_FrameDefaultUrl(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;https://github.com/aspose-words/Aspose.Words-for-.NET/blob/master/Examples/Data/Absolute%20position%20tab.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Frameset()-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;set_IsFrameLinkToFile(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="118" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1ac7e5900dd190cfe047a8b339f150a80f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Framesets::Frameset::set_FrameDefaultUrl</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_FrameDefaultUrl</name>
+        <qualifiedname>Aspose::Words::Framesets::Frameset::set_FrameDefaultUrl</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1aead65b214a8431e02b5a94a4254836a5" kindref="member">Aspose::Words::Framesets::Frameset::get_FrameDefaultUrl</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="93" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a0ece73f00265afa052d25ac6cf1f7ea2" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Framesets::Frameset::set_IsFrameLinkToFile</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_IsFrameLinkToFile</name>
+        <qualifiedname>Aspose::Words::Framesets::Frameset::set_IsFrameLinkToFile</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a19c637db63374f7b49317eb17eb9118a" kindref="member">Aspose::Words::Framesets::Frameset::get_IsFrameLinkToFile</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="121" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents a frames page or a single frame on a frames page. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access frames on-page. <programlisting><codeline><highlight class="comment">//<sp/>Document<sp/>contains<sp/>several<sp/>frames<sp/>with<sp/>links<sp/>to<sp/>other<sp/>documents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Frameset.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>check<sp/>the<sp/>default<sp/>URL<sp/>(a<sp/>web<sp/>page<sp/>URL<sp/>or<sp/>local<sp/>document)<sp/>or<sp/>if<sp/>the<sp/>frame<sp/>is<sp/>an<sp/>external<sp/>resource.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;https://file-examples-com.github.io/uploads/2017/02/file-sample_100kB.docx&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;get_Frameset()-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;get_FrameDefaultUrl());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_Frameset()-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;get_IsFrameLinkToFile());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;get_Frameset()-&gt;get_ChildFramesets()-&gt;idx_get(1)-&gt;get_FrameDefaultUrl());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(doc-&gt;get_Frameset()-&gt;get_ChildFramesets()-&gt;idx_get(1)-&gt;get_IsFrameLinkToFile());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Change<sp/>properties<sp/>for<sp/>one<sp/>of<sp/>our<sp/>frames.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Frameset()-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;set_FrameDefaultUrl(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;https://github.com/aspose-words/Aspose.Words-for-.NET/blob/master/Examples/Data/Absolute%20position%20tab.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Frameset()-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;get_ChildFramesets()-&gt;idx_get(0)-&gt;set_IsFrameLinkToFile(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Framesets::Frameset</label>
+        <link refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Framesets::Frameset</label>
+        <link refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Framesets/Frameset.h" line="58" column="1" bodyfile="Aspose.Words.Cpp/Framesets/Frameset.h" bodystart="59" bodyend="170"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a489fbfa282e2d28a23426ce2cb705868" prot="private" virt="non-virtual"><scope>Aspose::Words::Framesets::Frameset</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1aadb32b68fe495eb2afe667608ce21130" prot="public" virt="non-virtual"><scope>Aspose::Words::Framesets::Frameset</scope><name>Frameset</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1aa840ba2aa2051b3c78d79db0c66fd4db" prot="public" virt="non-virtual"><scope>Aspose::Words::Framesets::Frameset</scope><name>get_ChildFramesets</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1aead65b214a8431e02b5a94a4254836a5" prot="public" virt="non-virtual"><scope>Aspose::Words::Framesets::Frameset</scope><name>get_FrameDefaultUrl</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a19c637db63374f7b49317eb17eb9118a" prot="public" virt="non-virtual"><scope>Aspose::Words::Framesets::Frameset</scope><name>get_IsFrameLinkToFile</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a4bea7e28c18cdc9ad02599107c7f481f" prot="private" virt="non-virtual"><scope>Aspose::Words::Framesets::Frameset</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a436d1f66d9b8c8bc78a4e0a523cb04a0" prot="private" virt="non-virtual"><scope>Aspose::Words::Framesets::Frameset</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1ae694fc0e9153848f4ec00ad471016694" prot="private" virt="non-virtual"><scope>Aspose::Words::Framesets::Frameset</scope><name>mField10</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1ac2e4f0277e5e3823ccedac896c0de76a" prot="private" virt="non-virtual"><scope>Aspose::Words::Framesets::Frameset</scope><name>mField11</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a0ab98397d93dc7b7a15663e1bbc18ccc" prot="private" virt="non-virtual"><scope>Aspose::Words::Framesets::Frameset</scope><name>mField12</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1acbcc7d54497ffcc1da1c2bfb7d07855d" prot="private" virt="non-virtual"><scope>Aspose::Words::Framesets::Frameset</scope><name>mField13</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a60a06bddff5805cfb0f63bb19c2ff8d6" prot="private" virt="non-virtual"><scope>Aspose::Words::Framesets::Frameset</scope><name>mField14</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a5f6e5eb22197c4847677f2be6f498f55" prot="private" virt="non-virtual"><scope>Aspose::Words::Framesets::Frameset</scope><name>mField15</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1ace818f1a94a91ede34969d99be6b7610" prot="private" virt="non-virtual"><scope>Aspose::Words::Framesets::Frameset</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a4f29de804bc98602028e8c60337c4eda" prot="private" virt="non-virtual"><scope>Aspose::Words::Framesets::Frameset</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a4698e5358b741b15bb6934e3848aabbb" prot="private" virt="non-virtual"><scope>Aspose::Words::Framesets::Frameset</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a7769c3d4b84a9e0647f39e49057b431e" prot="private" virt="non-virtual"><scope>Aspose::Words::Framesets::Frameset</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a08a9be4e44cbcf2de09c53c0fca8dbf4" prot="private" virt="non-virtual"><scope>Aspose::Words::Framesets::Frameset</scope><name>mField6</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1ac26d40d11844158cd105bcf1d82e60ac" prot="private" virt="non-virtual"><scope>Aspose::Words::Framesets::Frameset</scope><name>mField7</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1aaf27b0bda095d1bf3da4e251aebe2f30" prot="private" virt="non-virtual"><scope>Aspose::Words::Framesets::Frameset</scope><name>mField8</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a892c61c3b4740382205e46ca35026272" prot="private" virt="non-virtual"><scope>Aspose::Words::Framesets::Frameset</scope><name>mField9</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1aaccb22e0b4e55ac39d8aae0fc884c25d" prot="private" virt="non-virtual"><scope>Aspose::Words::Framesets::Frameset</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1ac7e5900dd190cfe047a8b339f150a80f" prot="public" virt="non-virtual"><scope>Aspose::Words::Framesets::Frameset</scope><name>set_FrameDefaultUrl</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a0ece73f00265afa052d25ac6cf1f7ea2" prot="public" virt="non-virtual"><scope>Aspose::Words::Framesets::Frameset</scope><name>set_IsFrameLinkToFile</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a6ef0dae88c472a43fb4541a6ff8f6a02" prot="private" virt="non-virtual"><scope>Aspose::Words::Framesets::Frameset</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_1a0ca81012a7c3b83fda1a23417d8de8d0" prot="private" virt="non-virtual"><scope>Aspose::Words::Framesets::Frameset</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

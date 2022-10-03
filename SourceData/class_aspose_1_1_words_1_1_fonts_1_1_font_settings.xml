@@ -1,0 +1,1056 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fonts_1_1_font_settings" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fonts::FontSettings</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_font_settings_8h" local="no">Aspose.Words.Cpp/Fonts/FontSettings.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a4a2fb7ac36d04bd2077c1fb272af0557" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Fonts::FontSettings::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSettings::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSettings.h" line="229" column="28" bodyfile="Aspose.Words.Cpp/Fonts/FontSettings.h" bodystart="229" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a32b13bece9c4ddcbd4f9fc7f3af7e04b" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings" kindref="compound">FontSettings</ref></type>
+        <definition>typedef FontSettings Aspose::Words::Fonts::FontSettings::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSettings::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSettings.h" line="228" column="26" bodyfile="Aspose.Words.Cpp/Fonts/FontSettings.h" bodystart="228" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a67ced5cce764e7cd9fc83e1a7433324e" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Fonts::FontSettings::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSettings::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSettings.h" line="231" column="37" bodyfile="Aspose.Words.Cpp/Fonts/FontSettings.h" bodystart="231" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1ac899d44afde371f5d18f9d2f59aa3c11" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fonts::FontSettings::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSettings::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSettings.h" line="765" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontSettings.h" bodystart="765" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a7ffbb4dc487cfc9c7020646cb09589c9" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fonts::FontSettings::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSettings::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSettings.h" line="766" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontSettings.h" bodystart="766" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1ae7c1ad4e2d638a2829c3b2848169b8cf" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fonts::FontSettings::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSettings::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSettings.h" line="767" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontSettings.h" bodystart="767" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1aa64600fa82b108f726610f9f053e6492" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fonts::FontSettings::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSettings::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSettings.h" line="768" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontSettings.h" bodystart="768" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a16d655ceeec421b1656bee1a6c0c290c" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fonts::FontSettings::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSettings::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSettings.h" line="769" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontSettings.h" bodystart="769" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1ae691d8cfc9980b8819b2bf3cd632d6a7" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Fonts::FontSettings::~FontSettings</definition>
+        <argsstring>()</argsstring>
+        <name>~FontSettings</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSettings::~FontSettings</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSettings.h" line="761" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a2238b3063739b0e39b2120cc2819029f" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fonts::FontSettings::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSettings::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSettings.h" line="232" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings" kindref="compound">Aspose::Words::Fonts::FontSettings</ref> &gt;</type>
+        <definition>static System::SharedPtr&lt; Aspose::Words::Fonts::FontSettings &gt; Aspose::Words::Fonts::FontSettings::get_DefaultInstance</definition>
+        <argsstring>()</argsstring>
+        <name>get_DefaultInstance</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSettings::get_DefaultInstance</qualifiedname>
+        <briefdescription>
+<para>Static default font settings. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to configure the default font settings instance. <programlisting><codeline><highlight class="comment">//<sp/>Configure<sp/>the<sp/>default<sp/>font<sp/>settings<sp/>instance<sp/>to<sp/>use<sp/>the<sp/>&quot;Courier<sp/>New&quot;<sp/>font</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>as<sp/>a<sp/>backup<sp/>substitute<sp/>when<sp/>we<sp/>attempt<sp/>to<sp/>use<sp/>an<sp/>unknown<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;get_SubstitutionSettings()-&gt;get_DefaultFontSubstitution()-&gt;set_DefaultFontName(u</highlight><highlight class="stringliteral">&quot;Courier<sp/>New&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(<ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;<ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a380a6a2d7d9748fbdad6ec077e51537f" kindref="member" tooltip="Settings related to font substitution mechanism.">get_SubstitutionSettings</ref>()-&gt;get_DefaultFontSubstitution()-&gt;get_Enabled());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Non-existent<sp/>font&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>document<sp/>does<sp/>not<sp/>have<sp/>a<sp/>FontSettings<sp/>configuration.<sp/>When<sp/>we<sp/>render<sp/>the<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>default<sp/>FontSettings<sp/>instance<sp/>will<sp/>resolve<sp/>the<sp/>missing<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Aspose.Words<sp/>will<sp/>use<sp/>&quot;Courier<sp/>New&quot;<sp/>to<sp/>render<sp/>text<sp/>that<sp/>uses<sp/>the<sp/>unknown<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_FontSettings()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.DefaultFontInstance.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to use the <ref refid="class_aspose_1_1_words_1_1_i_warning_callback" kindref="compound">IWarningCallback</ref> interface to monitor font substitution warnings. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>SubstitutionWarning()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>callback<sp/>=<sp/>MakeObject&lt;ExFontSettings::FontSubstitutionWarningCollector&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;set_WarningCallback(callback);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Store<sp/>the<sp/>current<sp/>collection<sp/>of<sp/>font<sp/>sources,<sp/>which<sp/>will<sp/>be<sp/>the<sp/>default<sp/>font<sp/>source<sp/>for<sp/>every<sp/>document</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>for<sp/>which<sp/>we<sp/>do<sp/>not<sp/>specify<sp/>a<sp/>different<sp/>font<sp/>source.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ArrayPtr&lt;SharedPtr&lt;FontSourceBase&gt;&gt;<sp/>originalFontSources<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;GetFontsSources();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>For<sp/>testing<sp/>purposes,<sp/>we<sp/>will<sp/>set<sp/>Aspose.Words<sp/>to<sp/>look<sp/>for<sp/>fonts<sp/>only<sp/>in<sp/>a<sp/>folder<sp/>that<sp/>does<sp/>not<sp/>exist.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;SetFontsFolder(String::Empty,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>When<sp/>rendering<sp/>the<sp/>document,<sp/>there<sp/>will<sp/>be<sp/>no<sp/>place<sp/>to<sp/>find<sp/>the<sp/>&quot;Times<sp/>New<sp/>Roman&quot;<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>will<sp/>cause<sp/>a<sp/>font<sp/>substitution<sp/>warning,<sp/>which<sp/>our<sp/>callback<sp/>will<sp/>detect.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.SubstitutionWarning.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;SetFontsSources(originalFontSources);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(callback-&gt;FontSubstitutionWarnings-&gt;idx_get(0)-&gt;get_WarningType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1a1c629c0b794b98e0d49bcaf2746f58d9ad7b637d53eb5dc1b3eaaf1fcb964a0cf" kindref="member" tooltip="Font has been substituted.">WarningType::FontSubstitution</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(callback-&gt;FontSubstitutionWarnings-&gt;idx_get(0)-&gt;get_Description(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;Font<sp/>&apos;Times<sp/>New<sp/>Roman&apos;<sp/>has<sp/>not<sp/>been<sp/>found.<sp/>Using<sp/>&apos;Fanwood&apos;<sp/>font<sp/>instead.<sp/>Reason:<sp/>first<sp/>available<sp/>font.&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">FontSubstitutionWarningCollector<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IWarningCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;WarningInfoCollection&gt;<sp/>FontSubstitutionWarnings;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>Warning(SharedPtr&lt;WarningInfo&gt;<sp/>info)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(info-&gt;get_WarningType()<sp/>==<sp/>WarningType::FontSubstitution)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>FontSubstitutionWarnings-&gt;Warning(info);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>FontSubstitutionWarningCollector()<sp/>:<sp/>FontSubstitutionWarnings(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;WarningInfoCollection&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSettings.h" line="314" column="33"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a6a22a4952f66ec433d165ed7baba3b61" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fonts::FontSettings::FontSettings</definition>
+        <argsstring>()</argsstring>
+        <name>FontSettings</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSettings::FontSettings</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSettings.h" line="430" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a8c7b3e2bff7c067da8457ca8ebaf7390" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_fallback_settings" kindref="compound">Aspose::Words::Fonts::FontFallbackSettings</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fonts::FontFallbackSettings &gt; Aspose::Words::Fonts::FontSettings::get_FallbackSettings</definition>
+        <argsstring>() const</argsstring>
+        <name>get_FallbackSettings</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSettings::get_FallbackSettings</qualifiedname>
+        <briefdescription>
+<para><ref refid="namespace_aspose_1_1_words_1_1_settings" kindref="compound">Settings</ref> related to font fallback mechanism. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to distribute fallback fonts across Unicode character code ranges. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fontSettings<sp/>=<sp/>MakeObject&lt;FontSettings&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(fontSettings);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FontFallbackSettings&gt;<sp/>fontFallbackSettings<sp/>=<sp/>fontSettings-&gt;get_FallbackSettings();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Configure<sp/>our<sp/>font<sp/>settings<sp/>to<sp/>source<sp/>fonts<sp/>only<sp/>from<sp/>the<sp/>&quot;MyFonts&quot;<sp/>folder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>folderFontSource<sp/>=<sp/>MakeObject&lt;FolderFontSource&gt;(FontsDir,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fontSettings-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({folderFontSource}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Calling<sp/>the<sp/>&quot;BuildAutomatic&quot;<sp/>method<sp/>will<sp/>generate<sp/>a<sp/>fallback<sp/>scheme<sp/>that</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>distributes<sp/>accessible<sp/>fonts<sp/>across<sp/>as<sp/>many<sp/>Unicode<sp/>character<sp/>codes<sp/>as<sp/>possible.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>our<sp/>case,<sp/>it<sp/>only<sp/>has<sp/>access<sp/>to<sp/>the<sp/>handful<sp/>of<sp/>fonts<sp/>inside<sp/>the<sp/>&quot;MyFonts&quot;<sp/>folder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fontFallbackSettings-&gt;BuildAutomatic();</highlight></codeline>
+<codeline><highlight class="normal">fontFallbackSettings-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.FallbackSettingsCustom.BuildAutomatic.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>load<sp/>a<sp/>custom<sp/>substitution<sp/>scheme<sp/>from<sp/>a<sp/>file<sp/>like<sp/>this.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>scheme<sp/>applies<sp/>the<sp/>&quot;AllegroOpen&quot;<sp/>font<sp/>across<sp/>the<sp/>&quot;0000-00ff&quot;<sp/>Unicode<sp/>blocks,<sp/>the<sp/>&quot;AllegroOpen&quot;<sp/>font<sp/>across<sp/>&quot;0100-024f&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>&quot;M+<sp/>2m&quot;<sp/>font<sp/>in<sp/>all<sp/>other<sp/>ranges<sp/>that<sp/>other<sp/>fonts<sp/>in<sp/>the<sp/>scheme<sp/>do<sp/>not<sp/>cover.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fontFallbackSettings-&gt;Load(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Custom<sp/>font<sp/>fallback<sp/>settings.xml&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>document<sp/>builder<sp/>and<sp/>set<sp/>its<sp/>font<sp/>to<sp/>one<sp/>that<sp/>does<sp/>not<sp/>exist<sp/>in<sp/>any<sp/>of<sp/>our<sp/>sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>font<sp/>settings<sp/>will<sp/>invoke<sp/>the<sp/>fallback<sp/>scheme<sp/>for<sp/>characters<sp/>that<sp/>we<sp/>type<sp/>using<sp/>the<sp/>unavailable<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Missing<sp/>Font&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>builder<sp/>to<sp/>print<sp/>every<sp/>Unicode<sp/>character<sp/>from<sp/>0x0021<sp/>to<sp/>0x052F,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>with<sp/>descriptive<sp/>lines<sp/>dividing<sp/>Unicode<sp/>blocks<sp/>we<sp/>defined<sp/>in<sp/>our<sp/>custom<sp/>font<sp/>fallback<sp/>scheme.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0x0021;<sp/>i<sp/>&lt;<sp/>0x0530;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">switch</highlight><highlight class="normal"><sp/>(i)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>0x0021:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;\n\n0x0021<sp/>-<sp/>0x00FF:<sp/>\nBasic<sp/>Latin/Latin-1<sp/>Supplement<sp/>Unicode<sp/>blocks<sp/>in<sp/>\&quot;AllegroOpen\&quot;<sp/>font:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>0x0100:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;\n\n0x0100<sp/>-<sp/>0x024F:<sp/>\nLatin<sp/>Extended<sp/>A/B<sp/>blocks,<sp/>mostly<sp/>in<sp/>\&quot;AllegroOpen\&quot;<sp/>font:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">case</highlight><highlight class="normal"><sp/>0x0250:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;\n\n0x0250<sp/>-<sp/>0x052F:<sp/>\nIPA/Greek/Cyrillic<sp/>blocks<sp/>in<sp/>\&quot;M+<sp/>2m\&quot;<sp/>font:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">break</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(String::Format(u</highlight><highlight class="stringliteral">&quot;{0}&quot;</highlight><highlight class="normal">,<sp/><ref refid="struct/system.convert/_1ab7679cfe7a96466fa1493293b673cf98" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Convert::ToChar</ref>(i)));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.FallbackSettingsCustom.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSettings.h" line="372" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a380a6a2d7d9748fbdad6ec077e51537f" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_substitution_settings" kindref="compound">Aspose::Words::Fonts::FontSubstitutionSettings</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fonts::FontSubstitutionSettings &gt; Aspose::Words::Fonts::FontSettings::get_SubstitutionSettings</definition>
+        <argsstring>() const</argsstring>
+        <name>get_SubstitutionSettings</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSettings::get_SubstitutionSettings</qualifiedname>
+        <briefdescription>
+<para><ref refid="namespace_aspose_1_1_words_1_1_settings" kindref="compound">Settings</ref> related to font substitution mechanism. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access a document&apos;s system font source and set font substitutes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(MakeObject&lt;FontSettings&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>a<sp/>blank<sp/>document<sp/>always<sp/>contains<sp/>a<sp/>system<sp/>font<sp/>source.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>doc-&gt;get_FontSettings()-&gt;GetFontsSources()-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>systemFontSource<sp/>=<sp/>System::DynamicCast&lt;SystemFontSource&gt;(doc-&gt;get_FontSettings()-&gt;GetFontsSources()-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1a7e137df3895b9c46e2757cf73237c983" kindref="member" tooltip="A SystemFontSource object that represents all fonts installed to the system.">FontSourceType::SystemFonts</ref>,<sp/>systemFontSource-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>systemFontSource-&gt;get_Priority());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace/system/_1a9326d04561ea76c1b9ed2866512bce58" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::PlatformID</ref><sp/>pid<sp/>=<sp/><ref refid="struct/system.environment/_1a8e941e4180a8e017dc874d8bddd7f66a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Environment::get_OSVersion</ref>().get_Platform();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>isWindows<sp/>=<sp/>(pid<sp/>==<sp/>System::PlatformID::Win32NT)<sp/>||<sp/>(pid<sp/>==<sp/>System::PlatformID::Win32S)<sp/>||<sp/>(pid<sp/>==<sp/>System::PlatformID::Win32Windows)<sp/>||</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>(pid<sp/>==<sp/>System::PlatformID::WinCE);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(isWindows)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>fontsPath<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;C:\\WINDOWS\\Fonts&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(fontsPath.ToLower(),<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_system_font_source_1a96cc1c29e270b1131f266822be4b7742" kindref="member" tooltip="Returns system font folders or empty array if folders are not accessible.">SystemFontSource::GetSystemFontFolders</ref>()-&gt;LINQ_First().ToLower());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(String<sp/>systemFontFolder<sp/>:<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_system_font_source_1a96cc1c29e270b1131f266822be4b7742" kindref="member" tooltip="Returns system font folders or empty array if folders are not accessible.">SystemFontSource::GetSystemFontFolders</ref>())</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>systemFontFolder<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>font<sp/>that<sp/>exists<sp/>in<sp/>the<sp/>Windows<sp/>Fonts<sp/>directory<sp/>as<sp/>a<sp/>substitute<sp/>for<sp/>one<sp/>that<sp/>does<sp/>not.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;get_SubstitutionSettings()-&gt;get_FontInfoSubstitution()-&gt;set_Enabled(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;get_SubstitutionSettings()-&gt;get_TableSubstitution()-&gt;AddSubstitutes(u</highlight><highlight class="stringliteral">&quot;Kreon-Regular&quot;</highlight><highlight class="normal">,<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Calibri&quot;</highlight><highlight class="normal">}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>doc-&gt;get_FontSettings()-&gt;get_SubstitutionSettings()-&gt;get_TableSubstitution()-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Kreon-Regular&quot;</highlight><highlight class="normal">)-&gt;LINQ_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_FontSettings()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;get_SubstitutionSettings()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;get_TableSubstitution()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Kreon-Regular&quot;</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;LINQ_ToArray()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Calibri&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Alternatively,<sp/>we<sp/>could<sp/>add<sp/>a<sp/>folder<sp/>font<sp/>source<sp/>in<sp/>which<sp/>the<sp/>corresponding<sp/>folder<sp/>contains<sp/>the<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>folderFontSource<sp/>=<sp/>MakeObject&lt;FolderFontSource&gt;(FontsDir,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({systemFontSource,<sp/>folderFontSource}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_FontSettings()-&gt;GetFontsSources()-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Resetting<sp/>the<sp/>font<sp/>sources<sp/>still<sp/>leaves<sp/>us<sp/>with<sp/>the<sp/>system<sp/>font<sp/>source<sp/>as<sp/>well<sp/>as<sp/>our<sp/>substitutes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;ResetFontSources();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>doc-&gt;get_FontSettings()-&gt;GetFontsSources()-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1a7e137df3895b9c46e2757cf73237c983" kindref="member" tooltip="A SystemFontSource object that represents all fonts installed to the system.">FontSourceType::SystemFonts</ref>,<sp/>doc-&gt;get_FontSettings()-&gt;GetFontsSources()-&gt;idx_get(0)-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>doc-&gt;get_FontSettings()-&gt;get_SubstitutionSettings()-&gt;get_TableSubstitution()-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Kreon-Regular&quot;</highlight><highlight class="normal">)-&gt;LINQ_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSettings.h" line="428" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a8412f4b66aaecde2913b8a847987375c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base" kindref="compound">Aspose::Words::Fonts::FontSourceBase</ref> &gt; &gt;</type>
+        <definition>System::ArrayPtr&lt; System::SharedPtr&lt; Aspose::Words::Fonts::FontSourceBase &gt; &gt; Aspose::Words::Fonts::FontSettings::GetFontsSources</definition>
+        <argsstring>()</argsstring>
+        <name>GetFontsSources</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSettings::GetFontsSources</qualifiedname>
+        <briefdescription>
+<para>Gets a copy of the array that contains the list of sources where Aspose.Words looks for TrueType fonts. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The returned value is a copy of the data that Aspose.Words uses. If you change the entries in the returned array, it will have no effect on document rendering. To specify new font sources use the <ref refid="" kindref="compound">SetFontsSources()</ref> method.</para>
+<para><simplesect kind="return"><para>A copy of the current font sources.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to add a font source to our existing font sources. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Amethysta&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;The<sp/>quick<sp/>brown<sp/>fox<sp/>jumps<sp/>over<sp/>the<sp/>lazy<sp/>dog.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Junction<sp/>Light&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;The<sp/>quick<sp/>brown<sp/>fox<sp/>jumps<sp/>over<sp/>the<sp/>lazy<sp/>dog.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;FontSourceBase&gt;&gt;<sp/>originalFontSources<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;GetFontsSources();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>originalFontSources-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(originalFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>default<sp/>font<sp/>source<sp/>is<sp/>missing<sp/>two<sp/>of<sp/>the<sp/>fonts<sp/>that<sp/>we<sp/>are<sp/>using<sp/>in<sp/>our<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>save<sp/>this<sp/>document,<sp/>Aspose.Words<sp/>will<sp/>apply<sp/>fallback<sp/>fonts<sp/>to<sp/>all<sp/>text<sp/>formatted<sp/>with<sp/>inaccessible<sp/>fonts.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>originalFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Amethysta&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>originalFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Junction<sp/>Light&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>font<sp/>source<sp/>from<sp/>a<sp/>folder<sp/>that<sp/>contains<sp/>fonts.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>folderFontSource<sp/>=<sp/>MakeObject&lt;FolderFontSource&gt;(FontsDir,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>a<sp/>new<sp/>array<sp/>of<sp/>font<sp/>sources<sp/>that<sp/>contains<sp/>the<sp/>original<sp/>font<sp/>sources,<sp/>as<sp/>well<sp/>as<sp/>our<sp/>custom<sp/>fonts.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;FontSourceBase&gt;&gt;<sp/>updatedFontSources<sp/>=<sp/>MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({originalFontSources[0],<sp/>folderFontSource});</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;SetFontsSources(updatedFontSources);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Verify<sp/>that<sp/>Aspose.Words<sp/>has<sp/>access<sp/>to<sp/>all<sp/>required<sp/>fonts<sp/>before<sp/>we<sp/>render<sp/>the<sp/>document<sp/>to<sp/>PDF.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">updatedFontSources<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;GetFontsSources();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(updatedFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(updatedFontSources[1]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Amethysta&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>updatedFontSources[1]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Junction<sp/>Light&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.AddFontSource.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Restore<sp/>the<sp/>original<sp/>font<sp/>sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;SetFontsSources(originalFontSources);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSettings.h" line="675" column="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a726402b8146835ef3efcc208d91232c2" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::FontSettings::ResetFontSources</definition>
+        <argsstring>()</argsstring>
+        <name>ResetFontSources</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSettings::ResetFontSources</qualifiedname>
+        <briefdescription>
+<para>Resets the fonts sources to the system default. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access a document&apos;s system font source and set font substitutes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(MakeObject&lt;FontSettings&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>a<sp/>blank<sp/>document<sp/>always<sp/>contains<sp/>a<sp/>system<sp/>font<sp/>source.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>doc-&gt;get_FontSettings()-&gt;GetFontsSources()-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>systemFontSource<sp/>=<sp/>System::DynamicCast&lt;SystemFontSource&gt;(doc-&gt;get_FontSettings()-&gt;GetFontsSources()-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1a7e137df3895b9c46e2757cf73237c983" kindref="member" tooltip="A SystemFontSource object that represents all fonts installed to the system.">FontSourceType::SystemFonts</ref>,<sp/>systemFontSource-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>systemFontSource-&gt;get_Priority());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace/system/_1a9326d04561ea76c1b9ed2866512bce58" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::PlatformID</ref><sp/>pid<sp/>=<sp/><ref refid="struct/system.environment/_1a8e941e4180a8e017dc874d8bddd7f66a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Environment::get_OSVersion</ref>().get_Platform();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>isWindows<sp/>=<sp/>(pid<sp/>==<sp/>System::PlatformID::Win32NT)<sp/>||<sp/>(pid<sp/>==<sp/>System::PlatformID::Win32S)<sp/>||<sp/>(pid<sp/>==<sp/>System::PlatformID::Win32Windows)<sp/>||</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>(pid<sp/>==<sp/>System::PlatformID::WinCE);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(isWindows)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>fontsPath<sp/>=<sp/>u</highlight><highlight class="stringliteral">&quot;C:\\WINDOWS\\Fonts&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(fontsPath.ToLower(),<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_system_font_source_1a96cc1c29e270b1131f266822be4b7742" kindref="member" tooltip="Returns system font folders or empty array if folders are not accessible.">SystemFontSource::GetSystemFontFolders</ref>()-&gt;LINQ_First().ToLower());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(String<sp/>systemFontFolder<sp/>:<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_system_font_source_1a96cc1c29e270b1131f266822be4b7742" kindref="member" tooltip="Returns system font folders or empty array if folders are not accessible.">SystemFontSource::GetSystemFontFolders</ref>())</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>systemFontFolder<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>font<sp/>that<sp/>exists<sp/>in<sp/>the<sp/>Windows<sp/>Fonts<sp/>directory<sp/>as<sp/>a<sp/>substitute<sp/>for<sp/>one<sp/>that<sp/>does<sp/>not.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;get_SubstitutionSettings()-&gt;get_FontInfoSubstitution()-&gt;set_Enabled(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;get_SubstitutionSettings()-&gt;get_TableSubstitution()-&gt;AddSubstitutes(u</highlight><highlight class="stringliteral">&quot;Kreon-Regular&quot;</highlight><highlight class="normal">,<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;Calibri&quot;</highlight><highlight class="normal">}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>doc-&gt;get_FontSettings()-&gt;get_SubstitutionSettings()-&gt;get_TableSubstitution()-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Kreon-Regular&quot;</highlight><highlight class="normal">)-&gt;LINQ_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_FontSettings()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;get_SubstitutionSettings()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;get_TableSubstitution()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Kreon-Regular&quot;</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;LINQ_ToArray()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Calibri&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Alternatively,<sp/>we<sp/>could<sp/>add<sp/>a<sp/>folder<sp/>font<sp/>source<sp/>in<sp/>which<sp/>the<sp/>corresponding<sp/>folder<sp/>contains<sp/>the<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>folderFontSource<sp/>=<sp/>MakeObject&lt;FolderFontSource&gt;(FontsDir,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({systemFontSource,<sp/>folderFontSource}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>doc-&gt;get_FontSettings()-&gt;GetFontsSources()-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Resetting<sp/>the<sp/>font<sp/>sources<sp/>still<sp/>leaves<sp/>us<sp/>with<sp/>the<sp/>system<sp/>font<sp/>source<sp/>as<sp/>well<sp/>as<sp/>our<sp/>substitutes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;ResetFontSources();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>doc-&gt;get_FontSettings()-&gt;GetFontsSources()-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1a7e137df3895b9c46e2757cf73237c983" kindref="member" tooltip="A SystemFontSource object that represents all fonts installed to the system.">FontSourceType::SystemFonts</ref>,<sp/>doc-&gt;get_FontSettings()-&gt;GetFontsSources()-&gt;idx_get(0)-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>doc-&gt;get_FontSettings()-&gt;get_SubstitutionSettings()-&gt;get_TableSubstitution()-&gt;GetSubstitutes(u</highlight><highlight class="stringliteral">&quot;Kreon-Regular&quot;</highlight><highlight class="normal">)-&gt;LINQ_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSettings.h" line="731" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a3c87a1c696d6d550ba1bfce704ec6f98" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::FontSettings::SaveSearchCache</definition>
+        <argsstring>(const System::SharedPtr&lt; System::IO::Stream &gt; &amp;outputStream)</argsstring>
+        <name>SaveSearchCache</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSettings::SaveSearchCache</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <declname>outputStream</declname>
+        </param>
+        <briefdescription>
+<para>Saves the font search cache to the stream. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>outputStream</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Output stream. </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSettings.h" line="736" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1af5626722af4e65aa30c5587ee6fe6940" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::FontSettings::SetFontsFolder</definition>
+        <argsstring>(const System::String &amp;fontFolder, bool recursive)</argsstring>
+        <name>SetFontsFolder</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSettings::SetFontsFolder</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>fontFolder</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>recursive</declname>
+        </param>
+        <briefdescription>
+<para>Sets the folder where Aspose.Words looks for TrueType fonts when rendering documents or embedding fonts. This is a shortcut to <ref refid="" kindref="compound">SetFontsFolders()</ref> for setting only one font directory. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>fontFolder</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The folder that contains TrueType fonts. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>recursive</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>True to scan the specified folders for fonts recursively.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set a font source directory. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arvo&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Amethysta&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;The<sp/>quick<sp/>brown<sp/>fox<sp/>jumps<sp/>over<sp/>the<sp/>lazy<sp/>dog.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>font<sp/>sources<sp/>do<sp/>not<sp/>contain<sp/>the<sp/>font<sp/>that<sp/>we<sp/>have<sp/>used<sp/>for<sp/>text<sp/>in<sp/>this<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>use<sp/>these<sp/>font<sp/>settings<sp/>while<sp/>rendering<sp/>this<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Aspose.Words<sp/>will<sp/>apply<sp/>a<sp/>fallback<sp/>font<sp/>to<sp/>text<sp/>which<sp/>has<sp/>a<sp/>font<sp/>that<sp/>Aspose.Words<sp/>cannot<sp/>locate.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;FontSourceBase&gt;&gt;<sp/>originalFontSources<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;GetFontsSources();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>originalFontSources-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(originalFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>default<sp/>font<sp/>sources<sp/>are<sp/>missing<sp/>the<sp/>two<sp/>fonts<sp/>that<sp/>we<sp/>are<sp/>using<sp/>in<sp/>this<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(originalFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Arvo&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>originalFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Amethysta&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;SetFontsFolder&quot;<sp/>method<sp/>to<sp/>set<sp/>a<sp/>directory<sp/>which<sp/>will<sp/>act<sp/>as<sp/>a<sp/>new<sp/>font<sp/>source.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Pass<sp/>&quot;false&quot;<sp/>as<sp/>the<sp/>&quot;recursive&quot;<sp/>argument<sp/>to<sp/>include<sp/>fonts<sp/>from<sp/>all<sp/>the<sp/>font<sp/>files<sp/>that<sp/>are<sp/>in<sp/>the<sp/>directory</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>that<sp/>we<sp/>are<sp/>passing<sp/>in<sp/>the<sp/>first<sp/>argument,<sp/>but<sp/>not<sp/>include<sp/>any<sp/>fonts<sp/>in<sp/>any<sp/>of<sp/>that<sp/>directory&apos;s<sp/>subfolders.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Pass<sp/>&quot;true&quot;<sp/>as<sp/>the<sp/>&quot;recursive&quot;<sp/>argument<sp/>to<sp/>include<sp/>all<sp/>font<sp/>files<sp/>in<sp/>the<sp/>directory<sp/>that<sp/>we<sp/>are<sp/>passing</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>in<sp/>the<sp/>first<sp/>argument,<sp/>as<sp/>well<sp/>as<sp/>all<sp/>the<sp/>fonts<sp/>in<sp/>its<sp/>subdirectories.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;SetFontsFolder(FontsDir,<sp/>recursive);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;FontSourceBase&gt;&gt;<sp/>newFontSources<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;GetFontsSources();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>newFontSources-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(newFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(newFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Arvo&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;Amethysta&quot;<sp/>font<sp/>is<sp/>in<sp/>a<sp/>subfolder<sp/>of<sp/>the<sp/>font<sp/>directory.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(recursive)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(25,<sp/>newFontSources[0]-&gt;GetAvailableFonts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(newFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Amethysta&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(18,<sp/>newFontSources[0]-&gt;GetAvailableFonts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_FALSE(newFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Amethysta&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.SetFontsFolder.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Restore<sp/>the<sp/>original<sp/>font<sp/>sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;SetFontsSources(originalFontSources);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSettings.h" line="493" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a18b6e8d128da312a9b5f9d193ed25a86" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::FontSettings::SetFontsFolders</definition>
+        <argsstring>(const System::ArrayPtr&lt; System::String &gt; &amp;fontsFolders, bool recursive)</argsstring>
+        <name>SetFontsFolders</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSettings::SetFontsFolders</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt; &amp;</type>
+          <declname>fontsFolders</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>recursive</declname>
+        </param>
+        <briefdescription>
+<para>Sets the folders where Aspose.Words looks for TrueType fonts when rendering documents or embedding fonts. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>By default, Aspose.Words looks for fonts installed to the system.</para>
+<para>Setting this property resets the cache of all previously loaded fonts.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>fontsFolders</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>An array of folders that contain TrueType fonts. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>recursive</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>True to scan the specified folders for fonts recursively.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set multiple font source directories. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Amethysta&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;The<sp/>quick<sp/>brown<sp/>fox<sp/>jumps<sp/>over<sp/>the<sp/>lazy<sp/>dog.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Junction<sp/>Light&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;The<sp/>quick<sp/>brown<sp/>fox<sp/>jumps<sp/>over<sp/>the<sp/>lazy<sp/>dog.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>font<sp/>sources<sp/>do<sp/>not<sp/>contain<sp/>the<sp/>font<sp/>that<sp/>we<sp/>have<sp/>used<sp/>for<sp/>text<sp/>in<sp/>this<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>use<sp/>these<sp/>font<sp/>settings<sp/>while<sp/>rendering<sp/>this<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Aspose.Words<sp/>will<sp/>apply<sp/>a<sp/>fallback<sp/>font<sp/>to<sp/>text<sp/>which<sp/>has<sp/>a<sp/>font<sp/>that<sp/>Aspose.Words<sp/>cannot<sp/>locate.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;FontSourceBase&gt;&gt;<sp/>originalFontSources<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;GetFontsSources();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>originalFontSources-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(originalFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>default<sp/>font<sp/>sources<sp/>are<sp/>missing<sp/>the<sp/>two<sp/>fonts<sp/>that<sp/>we<sp/>are<sp/>using<sp/>in<sp/>this<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>originalFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Amethysta&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>originalFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Junction<sp/>Light&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;SetFontsFolders&quot;<sp/>method<sp/>to<sp/>create<sp/>a<sp/>font<sp/>source<sp/>from<sp/>each<sp/>font<sp/>directory<sp/>that<sp/>we<sp/>pass<sp/>as<sp/>the<sp/>first<sp/>argument.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Pass<sp/>&quot;false&quot;<sp/>as<sp/>the<sp/>&quot;recursive&quot;<sp/>argument<sp/>to<sp/>include<sp/>fonts<sp/>from<sp/>all<sp/>the<sp/>font<sp/>files<sp/>that<sp/>are<sp/>in<sp/>the<sp/>directories</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>that<sp/>we<sp/>are<sp/>passing<sp/>in<sp/>the<sp/>first<sp/>argument,<sp/>but<sp/>not<sp/>include<sp/>any<sp/>fonts<sp/>from<sp/>any<sp/>of<sp/>the<sp/>directories&apos;<sp/>subfolders.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Pass<sp/>&quot;true&quot;<sp/>as<sp/>the<sp/>&quot;recursive&quot;<sp/>argument<sp/>to<sp/>include<sp/>all<sp/>font<sp/>files<sp/>in<sp/>the<sp/>directories<sp/>that<sp/>we<sp/>are<sp/>passing</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>in<sp/>the<sp/>first<sp/>argument,<sp/>as<sp/>well<sp/>as<sp/>all<sp/>the<sp/>fonts<sp/>in<sp/>their<sp/>subdirectories.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;SetFontsFolders(MakeArray&lt;String&gt;({FontsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;/Amethysta&quot;</highlight><highlight class="normal">,<sp/>FontsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;/Junction&quot;</highlight><highlight class="normal">}),<sp/>recursive);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;FontSourceBase&gt;&gt;<sp/>newFontSources<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;GetFontsSources();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>newFontSources-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(newFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>newFontSources[0]-&gt;GetAvailableFonts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(newFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Amethysta&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;Junction&quot;<sp/>folder<sp/>itself<sp/>contains<sp/>no<sp/>font<sp/>files,<sp/>but<sp/>has<sp/>subfolders<sp/>that<sp/>do.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(recursive)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(6,<sp/>newFontSources[1]-&gt;GetAvailableFonts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>newFontSources[1]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Junction<sp/>Light&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(0,<sp/>newFontSources[1]-&gt;GetAvailableFonts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.SetFontsFolders.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Restore<sp/>the<sp/>original<sp/>font<sp/>sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;SetFontsSources(originalFontSources);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSettings.h" line="561" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a84c70a576dd85a0a1a08d504dadec46c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::FontSettings::SetFontsSources</definition>
+        <argsstring>(const System::ArrayPtr&lt; System::SharedPtr&lt; Aspose::Words::Fonts::FontSourceBase &gt; &gt; &amp;sources)</argsstring>
+        <name>SetFontsSources</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSettings::SetFontsSources</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base" kindref="compound">Aspose::Words::Fonts::FontSourceBase</ref> &gt; &gt; &amp;</type>
+          <declname>sources</declname>
+        </param>
+        <briefdescription>
+<para>Sets the sources where Aspose.Words looks for TrueType fonts when rendering documents or embedding fonts. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>By default, Aspose.Words looks for fonts installed to the system.</para>
+<para>Setting this property resets the cache of all previously loaded fonts.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sources</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>An array of sources that contain TrueType fonts.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to add a font source to our existing font sources. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Amethysta&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;The<sp/>quick<sp/>brown<sp/>fox<sp/>jumps<sp/>over<sp/>the<sp/>lazy<sp/>dog.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Junction<sp/>Light&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;The<sp/>quick<sp/>brown<sp/>fox<sp/>jumps<sp/>over<sp/>the<sp/>lazy<sp/>dog.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;FontSourceBase&gt;&gt;<sp/>originalFontSources<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;GetFontsSources();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>originalFontSources-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(originalFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>default<sp/>font<sp/>source<sp/>is<sp/>missing<sp/>two<sp/>of<sp/>the<sp/>fonts<sp/>that<sp/>we<sp/>are<sp/>using<sp/>in<sp/>our<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>save<sp/>this<sp/>document,<sp/>Aspose.Words<sp/>will<sp/>apply<sp/>fallback<sp/>fonts<sp/>to<sp/>all<sp/>text<sp/>formatted<sp/>with<sp/>inaccessible<sp/>fonts.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>originalFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Amethysta&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>originalFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Junction<sp/>Light&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>font<sp/>source<sp/>from<sp/>a<sp/>folder<sp/>that<sp/>contains<sp/>fonts.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>folderFontSource<sp/>=<sp/>MakeObject&lt;FolderFontSource&gt;(FontsDir,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>a<sp/>new<sp/>array<sp/>of<sp/>font<sp/>sources<sp/>that<sp/>contains<sp/>the<sp/>original<sp/>font<sp/>sources,<sp/>as<sp/>well<sp/>as<sp/>our<sp/>custom<sp/>fonts.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;FontSourceBase&gt;&gt;<sp/>updatedFontSources<sp/>=<sp/>MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({originalFontSources[0],<sp/>folderFontSource});</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;SetFontsSources(updatedFontSources);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Verify<sp/>that<sp/>Aspose.Words<sp/>has<sp/>access<sp/>to<sp/>all<sp/>required<sp/>fonts<sp/>before<sp/>we<sp/>render<sp/>the<sp/>document<sp/>to<sp/>PDF.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">updatedFontSources<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;GetFontsSources();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(updatedFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(updatedFontSources[1]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Amethysta&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>updatedFontSources[1]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Junction<sp/>Light&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.AddFontSource.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Restore<sp/>the<sp/>original<sp/>font<sp/>sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;SetFontsSources(originalFontSources);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSettings.h" line="618" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a64302dd9af105e1a862963579b732741" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::FontSettings::SetFontsSources</definition>
+        <argsstring>(const System::ArrayPtr&lt; System::SharedPtr&lt; Aspose::Words::Fonts::FontSourceBase &gt; &gt; &amp;sources, const System::SharedPtr&lt; System::IO::Stream &gt; &amp;cacheInputStream)</argsstring>
+        <name>SetFontsSources</name>
+        <qualifiedname>Aspose::Words::Fonts::FontSettings::SetFontsSources</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base" kindref="compound">Aspose::Words::Fonts::FontSourceBase</ref> &gt; &gt; &amp;</type>
+          <declname>sources</declname>
+        </param>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <declname>cacheInputStream</declname>
+        </param>
+        <briefdescription>
+<para>Sets the sources where Aspose.Words looks for TrueType fonts and additionally loads previously saved font search cache. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><ref refid="namespace_aspose_1_1_words_1_1_loading" kindref="compound">Loading</ref> previously saved font search cache will speed up the font cache initialization process. It is especially useful when access to font sources is complicated (e.g. when fonts are loaded via network).</para>
+<para>When saving and loading font search cache, fonts in the provided sources are identified via cache key. For the fonts in the <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_system_font_source" kindref="compound">SystemFontSource</ref> and <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source" kindref="compound">FolderFontSource</ref> cache key is the path to the font file. For <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source" kindref="compound">MemoryFontSource</ref> and <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source" kindref="compound">StreamFontSource</ref> cache key is defined in the <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1a5b961a1ae3f081002a126504e1dbbb76" kindref="member">CacheKey</ref> and <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_stream_font_source_1aa451846a74e808dc58890ef5ed6571b0" kindref="member">CacheKey</ref> properties respectively. For the <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_file_font_source" kindref="compound">FileFontSource</ref> cache key is either <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_file_font_source_1aa0e832c91bbfb913019dd714037a46ec" kindref="member">CacheKey</ref> property or a file path if the <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_file_font_source_1aa0e832c91bbfb913019dd714037a46ec" kindref="member">CacheKey</ref> is <bold>null</bold>.</para>
+<para>It is highly recommended to provide the same font sources when loading cache as at the time the cache was saved. Any changes in the font sources (e.g. adding new fonts, moving font files or changing the cache key) may lead to the inaccurate font resolving by Aspose.Words.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>sources</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>An array of sources that contain TrueType fonts. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>cacheInputStream</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Input stream with saved font search cache. </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontSettings.h" line="757" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Specifies font settings for a document. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>Aspose.Words uses font settings to resolve the fonts in the document. <ref refid="namespace_aspose_1_1_words_1_1_fonts" kindref="compound">Fonts</ref> are resolved mostly when building document layout or rendering to fixed page formats. But when loading some formats, Aspose.Words also may require to resolve the fonts. For example, when loading HTML documents Aspose.Words may resolve the fonts to perform font fallback. So it is recommended that you set the font settings in <ref refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" kindref="compound">LoadOptions</ref> when loading the document. Or at least before building the layout or rendering the document to the fixed-page format.</para>
+<para>By default all documents uses single static font settings instance. It could be accessed by <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member">DefaultInstance</ref> property.</para>
+<para>Changing font settings is safe at any time from any thread. But it is recommended that you do not change the font settings while processing some documents which uses this settings. This can lead to the fact that the same font will be resolved differently in different parts of the document.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set a font source directory. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arvo&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Amethysta&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;The<sp/>quick<sp/>brown<sp/>fox<sp/>jumps<sp/>over<sp/>the<sp/>lazy<sp/>dog.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>font<sp/>sources<sp/>do<sp/>not<sp/>contain<sp/>the<sp/>font<sp/>that<sp/>we<sp/>have<sp/>used<sp/>for<sp/>text<sp/>in<sp/>this<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>use<sp/>these<sp/>font<sp/>settings<sp/>while<sp/>rendering<sp/>this<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Aspose.Words<sp/>will<sp/>apply<sp/>a<sp/>fallback<sp/>font<sp/>to<sp/>text<sp/>which<sp/>has<sp/>a<sp/>font<sp/>that<sp/>Aspose.Words<sp/>cannot<sp/>locate.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;FontSourceBase&gt;&gt;<sp/>originalFontSources<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;GetFontsSources();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>originalFontSources-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(originalFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>default<sp/>font<sp/>sources<sp/>are<sp/>missing<sp/>the<sp/>two<sp/>fonts<sp/>that<sp/>we<sp/>are<sp/>using<sp/>in<sp/>this<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(originalFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Arvo&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>originalFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Amethysta&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;SetFontsFolder&quot;<sp/>method<sp/>to<sp/>set<sp/>a<sp/>directory<sp/>which<sp/>will<sp/>act<sp/>as<sp/>a<sp/>new<sp/>font<sp/>source.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Pass<sp/>&quot;false&quot;<sp/>as<sp/>the<sp/>&quot;recursive&quot;<sp/>argument<sp/>to<sp/>include<sp/>fonts<sp/>from<sp/>all<sp/>the<sp/>font<sp/>files<sp/>that<sp/>are<sp/>in<sp/>the<sp/>directory</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>that<sp/>we<sp/>are<sp/>passing<sp/>in<sp/>the<sp/>first<sp/>argument,<sp/>but<sp/>not<sp/>include<sp/>any<sp/>fonts<sp/>in<sp/>any<sp/>of<sp/>that<sp/>directory&apos;s<sp/>subfolders.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Pass<sp/>&quot;true&quot;<sp/>as<sp/>the<sp/>&quot;recursive&quot;<sp/>argument<sp/>to<sp/>include<sp/>all<sp/>font<sp/>files<sp/>in<sp/>the<sp/>directory<sp/>that<sp/>we<sp/>are<sp/>passing</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>in<sp/>the<sp/>first<sp/>argument,<sp/>as<sp/>well<sp/>as<sp/>all<sp/>the<sp/>fonts<sp/>in<sp/>its<sp/>subdirectories.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;SetFontsFolder(FontsDir,<sp/>recursive);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;FontSourceBase&gt;&gt;<sp/>newFontSources<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;GetFontsSources();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>newFontSources-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(newFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(newFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Arvo&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;Amethysta&quot;<sp/>font<sp/>is<sp/>in<sp/>a<sp/>subfolder<sp/>of<sp/>the<sp/>font<sp/>directory.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(recursive)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(25,<sp/>newFontSources[0]-&gt;GetAvailableFonts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(newFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Amethysta&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(18,<sp/>newFontSources[0]-&gt;GetAvailableFonts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_FALSE(newFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Amethysta&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.SetFontsFolder.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Restore<sp/>the<sp/>original<sp/>font<sp/>sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;SetFontsSources(originalFontSources);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to set multiple font source directories. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Amethysta&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;The<sp/>quick<sp/>brown<sp/>fox<sp/>jumps<sp/>over<sp/>the<sp/>lazy<sp/>dog.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Junction<sp/>Light&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;The<sp/>quick<sp/>brown<sp/>fox<sp/>jumps<sp/>over<sp/>the<sp/>lazy<sp/>dog.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>font<sp/>sources<sp/>do<sp/>not<sp/>contain<sp/>the<sp/>font<sp/>that<sp/>we<sp/>have<sp/>used<sp/>for<sp/>text<sp/>in<sp/>this<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>use<sp/>these<sp/>font<sp/>settings<sp/>while<sp/>rendering<sp/>this<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Aspose.Words<sp/>will<sp/>apply<sp/>a<sp/>fallback<sp/>font<sp/>to<sp/>text<sp/>which<sp/>has<sp/>a<sp/>font<sp/>that<sp/>Aspose.Words<sp/>cannot<sp/>locate.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;FontSourceBase&gt;&gt;<sp/>originalFontSources<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;GetFontsSources();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>originalFontSources-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(originalFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>default<sp/>font<sp/>sources<sp/>are<sp/>missing<sp/>the<sp/>two<sp/>fonts<sp/>that<sp/>we<sp/>are<sp/>using<sp/>in<sp/>this<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>originalFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Amethysta&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>originalFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Junction<sp/>Light&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;SetFontsFolders&quot;<sp/>method<sp/>to<sp/>create<sp/>a<sp/>font<sp/>source<sp/>from<sp/>each<sp/>font<sp/>directory<sp/>that<sp/>we<sp/>pass<sp/>as<sp/>the<sp/>first<sp/>argument.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Pass<sp/>&quot;false&quot;<sp/>as<sp/>the<sp/>&quot;recursive&quot;<sp/>argument<sp/>to<sp/>include<sp/>fonts<sp/>from<sp/>all<sp/>the<sp/>font<sp/>files<sp/>that<sp/>are<sp/>in<sp/>the<sp/>directories</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>that<sp/>we<sp/>are<sp/>passing<sp/>in<sp/>the<sp/>first<sp/>argument,<sp/>but<sp/>not<sp/>include<sp/>any<sp/>fonts<sp/>from<sp/>any<sp/>of<sp/>the<sp/>directories&apos;<sp/>subfolders.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Pass<sp/>&quot;true&quot;<sp/>as<sp/>the<sp/>&quot;recursive&quot;<sp/>argument<sp/>to<sp/>include<sp/>all<sp/>font<sp/>files<sp/>in<sp/>the<sp/>directories<sp/>that<sp/>we<sp/>are<sp/>passing</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>in<sp/>the<sp/>first<sp/>argument,<sp/>as<sp/>well<sp/>as<sp/>all<sp/>the<sp/>fonts<sp/>in<sp/>their<sp/>subdirectories.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;SetFontsFolders(MakeArray&lt;String&gt;({FontsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;/Amethysta&quot;</highlight><highlight class="normal">,<sp/>FontsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;/Junction&quot;</highlight><highlight class="normal">}),<sp/>recursive);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;FontSourceBase&gt;&gt;<sp/>newFontSources<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;GetFontsSources();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>newFontSources-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(newFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>newFontSources[0]-&gt;GetAvailableFonts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(newFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Amethysta&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;Junction&quot;<sp/>folder<sp/>itself<sp/>contains<sp/>no<sp/>font<sp/>files,<sp/>but<sp/>has<sp/>subfolders<sp/>that<sp/>do.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(recursive)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(6,<sp/>newFontSources[1]-&gt;GetAvailableFonts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_TRUE(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>newFontSources[1]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Junction<sp/>Light&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(0,<sp/>newFontSources[1]-&gt;GetAvailableFonts()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.SetFontsFolders.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Restore<sp/>the<sp/>original<sp/>font<sp/>sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;SetFontsSources(originalFontSources);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to add a font source to our existing font sources. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Amethysta&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;The<sp/>quick<sp/>brown<sp/>fox<sp/>jumps<sp/>over<sp/>the<sp/>lazy<sp/>dog.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Junction<sp/>Light&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;The<sp/>quick<sp/>brown<sp/>fox<sp/>jumps<sp/>over<sp/>the<sp/>lazy<sp/>dog.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;FontSourceBase&gt;&gt;<sp/>originalFontSources<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;GetFontsSources();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>originalFontSources-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(originalFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>default<sp/>font<sp/>source<sp/>is<sp/>missing<sp/>two<sp/>of<sp/>the<sp/>fonts<sp/>that<sp/>we<sp/>are<sp/>using<sp/>in<sp/>our<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>save<sp/>this<sp/>document,<sp/>Aspose.Words<sp/>will<sp/>apply<sp/>fallback<sp/>fonts<sp/>to<sp/>all<sp/>text<sp/>formatted<sp/>with<sp/>inaccessible<sp/>fonts.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>originalFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Amethysta&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>originalFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Junction<sp/>Light&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>font<sp/>source<sp/>from<sp/>a<sp/>folder<sp/>that<sp/>contains<sp/>fonts.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>folderFontSource<sp/>=<sp/>MakeObject&lt;FolderFontSource&gt;(FontsDir,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>a<sp/>new<sp/>array<sp/>of<sp/>font<sp/>sources<sp/>that<sp/>contains<sp/>the<sp/>original<sp/>font<sp/>sources,<sp/>as<sp/>well<sp/>as<sp/>our<sp/>custom<sp/>fonts.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;FontSourceBase&gt;&gt;<sp/>updatedFontSources<sp/>=<sp/>MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({originalFontSources[0],<sp/>folderFontSource});</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;SetFontsSources(updatedFontSources);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Verify<sp/>that<sp/>Aspose.Words<sp/>has<sp/>access<sp/>to<sp/>all<sp/>required<sp/>fonts<sp/>before<sp/>we<sp/>render<sp/>the<sp/>document<sp/>to<sp/>PDF.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">updatedFontSources<sp/>=<sp/><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;GetFontsSources();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(updatedFontSources[0]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(updatedFontSources[1]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Amethysta&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>updatedFontSources[1]-&gt;GetAvailableFonts()-&gt;LINQ_Any([](SharedPtr&lt;PhysicalFontInfo&gt;<sp/>f)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_FullFontName()<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;Junction<sp/>Light&quot;</highlight><highlight class="normal">;<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FontSettings.AddFontSource.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Restore<sp/>the<sp/>original<sp/>font<sp/>sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" kindref="member" tooltip="Static default font settings.">FontSettings::get_DefaultInstance</ref>()-&gt;SetFontsSources(originalFontSources);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Fonts::FontSettings</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Fonts::FontSettings</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fonts/FontSettings.h" line="226" column="1" bodyfile="Aspose.Words.Cpp/Fonts/FontSettings.h" bodystart="227" bodyend="771"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a4a2fb7ac36d04bd2077c1fb272af0557" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSettings</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a6a22a4952f66ec433d165ed7baba3b61" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSettings</scope><name>FontSettings</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a90e0da0bb7e1ce1654777aaf3cc5f757" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSettings</scope><name>get_DefaultInstance</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a8c7b3e2bff7c067da8457ca8ebaf7390" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSettings</scope><name>get_FallbackSettings</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a380a6a2d7d9748fbdad6ec077e51537f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSettings</scope><name>get_SubstitutionSettings</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a8412f4b66aaecde2913b8a847987375c" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSettings</scope><name>GetFontsSources</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1ac899d44afde371f5d18f9d2f59aa3c11" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSettings</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a7ffbb4dc487cfc9c7020646cb09589c9" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSettings</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1ae7c1ad4e2d638a2829c3b2848169b8cf" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSettings</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1aa64600fa82b108f726610f9f053e6492" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSettings</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a16d655ceeec421b1656bee1a6c0c290c" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSettings</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a726402b8146835ef3efcc208d91232c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSettings</scope><name>ResetFontSources</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a2238b3063739b0e39b2120cc2819029f" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSettings</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a3c87a1c696d6d550ba1bfce704ec6f98" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSettings</scope><name>SaveSearchCache</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1af5626722af4e65aa30c5587ee6fe6940" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSettings</scope><name>SetFontsFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a18b6e8d128da312a9b5f9d193ed25a86" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSettings</scope><name>SetFontsFolders</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a84c70a576dd85a0a1a08d504dadec46c" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSettings</scope><name>SetFontsSources</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a64302dd9af105e1a862963579b732741" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSettings</scope><name>SetFontsSources</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a32b13bece9c4ddcbd4f9fc7f3af7e04b" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSettings</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1a67ced5cce764e7cd9fc83e1a7433324e" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontSettings</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_settings_1ae691d8cfc9980b8819b2bf3cd632d6a7" prot="private" virt="virtual"><scope>Aspose::Words::Fonts::FontSettings</scope><name>~FontSettings</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

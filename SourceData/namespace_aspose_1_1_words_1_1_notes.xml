@@ -1,0 +1,331 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="namespace_aspose_1_1_words_1_1_notes" kind="namespace" language="C++">
+    <compoundname>Aspose::Words::Notes</compoundname>
+    <innerclass refid="class_aspose_1_1_words_1_1_notes_1_1_endnote_options" prot="public">Aspose::Words::Notes::EndnoteOptions</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_notes_1_1_footnote" prot="public">Aspose::Words::Notes::Footnote</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_options" prot="public">Aspose::Words::Notes::FootnoteOptions</innerclass>
+      <sectiondef kind="enum">
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_notes_1ac691e354bd24b468f126259f736eaba1" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>EndnotePosition</name>
+        <qualifiedname>Aspose::Words::Notes::EndnotePosition</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_notes_1ac691e354bd24b468f126259f736eaba1abecc1fdb7e3bfa0cfba01978b8b1af22" prot="public">
+          <name>EndOfSection</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+<para>Endnotes are output at the end of the section. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_notes_1ac691e354bd24b468f126259f736eaba1ae4f1f1e83b99fb3b7604b339d0929400" prot="public">
+          <name>EndOfDocument</name>
+          <initializer>= 3</initializer>
+          <briefdescription>
+<para>Endnotes are output at the end of the document. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Defines the endnote position. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_notes_1_1_endnote_options" kindref="compound">Aspose::Words::Notes::EndnoteOptions</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to select a different place where the document collects and displays its endnotes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>An<sp/>endnote<sp/>is<sp/>a<sp/>way<sp/>to<sp/>attach<sp/>a<sp/>reference<sp/>or<sp/>a<sp/>side<sp/>comment<sp/>to<sp/>text</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>that<sp/>does<sp/>not<sp/>interfere<sp/>with<sp/>the<sp/>main<sp/>body<sp/>text&apos;s<sp/>flow.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Inserting<sp/>an<sp/>endnote<sp/>adds<sp/>a<sp/>small<sp/>superscript<sp/>reference<sp/>symbol</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>at<sp/>the<sp/>main<sp/>body<sp/>text<sp/>where<sp/>we<sp/>insert<sp/>the<sp/>endnote.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>endnote<sp/>also<sp/>creates<sp/>an<sp/>entry<sp/>at<sp/>the<sp/>end<sp/>of<sp/>the<sp/>document,<sp/>consisting<sp/>of<sp/>a<sp/>symbol</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>that<sp/>matches<sp/>the<sp/>reference<sp/>symbol<sp/>in<sp/>the<sp/>main<sp/>body<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>reference<sp/>text<sp/>that<sp/>we<sp/>pass<sp/>to<sp/>the<sp/>document<sp/>builder&apos;s<sp/>&quot;InsertEndnote&quot;<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a9129fa7956bf827701cebbe3bd0d6e75" kindref="member" tooltip="The object is an endnote.">FootnoteType::Endnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Endnote<sp/>contents.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea8e798e1e673d70f3c9d8b7be6234320b" kindref="member" tooltip="Specifies start of new section on a new page.">BreakType::SectionBreakNewPage</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>the<sp/>second<sp/>section.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>the<sp/>&quot;Position&quot;<sp/>property<sp/>to<sp/>determine<sp/>where<sp/>the<sp/>document<sp/>will<sp/>place<sp/>all<sp/>its<sp/>endnotes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>set<sp/>the<sp/>value<sp/>of<sp/>the<sp/>&quot;Position&quot;<sp/>property<sp/>to<sp/>&quot;EndnotePosition.EndOfDocument&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>every<sp/>footnote<sp/>will<sp/>show<sp/>up<sp/>in<sp/>a<sp/>collection<sp/>at<sp/>the<sp/>end<sp/>of<sp/>the<sp/>document.<sp/>This<sp/>is<sp/>the<sp/>default<sp/>value.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>set<sp/>the<sp/>value<sp/>of<sp/>the<sp/>&quot;Position&quot;<sp/>property<sp/>to<sp/>&quot;EndnotePosition.EndOfSection&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>every<sp/>footnote<sp/>will<sp/>show<sp/>up<sp/>in<sp/>a<sp/>collection<sp/>at<sp/>the<sp/>end<sp/>of<sp/>the<sp/>section<sp/>whose<sp/>text<sp/>contains<sp/>the<sp/>endnote&apos;s<sp/>reference<sp/>mark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_EndnoteOptions()-&gt;set_Position(endnotePosition);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;InlineStory.PositionEndnote.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Notes/EndnotePosition.h" line="54" column="1" bodyfile="Aspose.Words.Cpp/Notes/EndnotePosition.h" bodystart="55" bodyend="62"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_notes_1aab244a43e7e8af987b79336498c11fdb" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>FootnoteNumberingRule</name>
+        <qualifiedname>Aspose::Words::Notes::FootnoteNumberingRule</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_notes_1aab244a43e7e8af987b79336498c11fdba535863a82f163709557e59e2eb8139a7" prot="public">
+          <name>Continuous</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+<para>Numbering continuous throughout the document. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_notes_1aab244a43e7e8af987b79336498c11fdba3309c169d1c5fd954d7bf60164652483" prot="public">
+          <name>RestartSection</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+<para>Numbering restarts at each section. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_notes_1aab244a43e7e8af987b79336498c11fdba1b7e1e0aee1194295ba21c1f88e06c58" prot="public">
+          <name>RestartPage</name>
+          <initializer>= 2</initializer>
+          <briefdescription>
+<para>Numbering restarts at each page. Valid for footnotes only. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_notes_1aab244a43e7e8af987b79336498c11fdba7a1920d61156abc05a60135aefe8bc67" prot="public">
+          <name>Default</name>
+          <initializer>= static_cast&lt;int32_t&gt;(Continuous)</initializer>
+          <briefdescription>
+<para>Equals <ref refid="namespace_aspose_1_1_words_1_1_notes_1aab244a43e7e8af987b79336498c11fdba535863a82f163709557e59e2eb8139a7" kindref="member">Continuous</ref>. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Determines when automatic footnote or endnote numbering restarts. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_options" kindref="compound">Aspose::Words::Notes::FootnoteOptions</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_notes_1_1_endnote_options" kindref="compound">Aspose::Words::Notes::EndnoteOptions</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to restart footnote/endnote numbering at certain places in the document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Footnotes<sp/>and<sp/>endnotes<sp/>are<sp/>a<sp/>way<sp/>to<sp/>attach<sp/>a<sp/>reference<sp/>or<sp/>a<sp/>side<sp/>comment<sp/>to<sp/>text</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>that<sp/>does<sp/>not<sp/>interfere<sp/>with<sp/>the<sp/>main<sp/>body<sp/>text&apos;s<sp/>flow.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Inserting<sp/>a<sp/>footnote/endnote<sp/>adds<sp/>a<sp/>small<sp/>superscript<sp/>reference<sp/>symbol</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>at<sp/>the<sp/>main<sp/>body<sp/>text<sp/>where<sp/>we<sp/>insert<sp/>the<sp/>footnote/endnote.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>footnote/endnote<sp/>also<sp/>creates<sp/>an<sp/>entry,<sp/>which<sp/>consists<sp/>of<sp/>a<sp/>symbol<sp/>that<sp/>matches<sp/>the<sp/>reference</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>symbol<sp/>in<sp/>the<sp/>main<sp/>body<sp/>text.<sp/>The<sp/>reference<sp/>text<sp/>that<sp/>we<sp/>pass<sp/>to<sp/>the<sp/>document<sp/>builder&apos;s<sp/>&quot;InsertEndnote&quot;<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Footnote<sp/>entries,<sp/>by<sp/>default,<sp/>show<sp/>up<sp/>at<sp/>the<sp/>bottom<sp/>of<sp/>each<sp/>page<sp/>that<sp/>contains</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>their<sp/>reference<sp/>symbols,<sp/>and<sp/>endnotes<sp/>show<sp/>up<sp/>at<sp/>the<sp/>end<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>1.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" kindref="member" tooltip="The object is a footnote.">FootnoteType::Footnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>2.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" kindref="member" tooltip="The object is a footnote.">FootnoteType::Footnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>3.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" kindref="member" tooltip="The object is a footnote.">FootnoteType::Footnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>4.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" kindref="member" tooltip="The object is a footnote.">FootnoteType::Footnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>4.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>1.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a9129fa7956bf827701cebbe3bd0d6e75" kindref="member" tooltip="The object is an endnote.">FootnoteType::Endnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Endnote<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>2.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a9129fa7956bf827701cebbe3bd0d6e75" kindref="member" tooltip="The object is an endnote.">FootnoteType::Endnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Endnote<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea8e798e1e673d70f3c9d8b7be6234320b" kindref="member" tooltip="Specifies start of new section on a new page.">BreakType::SectionBreakNewPage</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>3.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a9129fa7956bf827701cebbe3bd0d6e75" kindref="member" tooltip="The object is an endnote.">FootnoteType::Endnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Endnote<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>4.<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a9129fa7956bf827701cebbe3bd0d6e75" kindref="member" tooltip="The object is an endnote.">FootnoteType::Endnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Endnote<sp/>4.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>the<sp/>reference<sp/>symbol<sp/>for<sp/>each<sp/>footnote<sp/>and<sp/>endnote<sp/>is<sp/>its<sp/>index</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>among<sp/>all<sp/>the<sp/>document&apos;s<sp/>footnotes/endnotes.<sp/>Each<sp/>document<sp/>maintains<sp/>separate<sp/>counts</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>for<sp/>footnotes<sp/>and<sp/>endnotes<sp/>and<sp/>does<sp/>not<sp/>restart<sp/>these<sp/>counts<sp/>at<sp/>any<sp/>point.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(doc-&gt;get_FootnoteOptions()-&gt;get_RestartRule(),<sp/><ref refid="namespace_aspose_1_1_words_1_1_notes_1aab244a43e7e8af987b79336498c11fdba7a1920d61156abc05a60135aefe8bc67" kindref="member" tooltip="Equals Continuous.">FootnoteNumberingRule::Default</ref>);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_notes_1aab244a43e7e8af987b79336498c11fdba7a1920d61156abc05a60135aefe8bc67" kindref="member" tooltip="Equals Continuous.">FootnoteNumberingRule::Default</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_notes_1aab244a43e7e8af987b79336498c11fdba535863a82f163709557e59e2eb8139a7" kindref="member" tooltip="Numbering continuous throughout the document.">FootnoteNumberingRule::Continuous</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>the<sp/>&quot;RestartRule&quot;<sp/>property<sp/>to<sp/>get<sp/>the<sp/>document<sp/>to<sp/>restart</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>footnote/endnote<sp/>counts<sp/>at<sp/>a<sp/>new<sp/>page<sp/>or<sp/>section.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FootnoteOptions()-&gt;set_RestartRule(<ref refid="namespace_aspose_1_1_words_1_1_notes_1aab244a43e7e8af987b79336498c11fdba1b7e1e0aee1194295ba21c1f88e06c58" kindref="member" tooltip="Numbering restarts at each page. Valid for footnotes only.">FootnoteNumberingRule::RestartPage</ref>);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_EndnoteOptions()-&gt;set_RestartRule(<ref refid="namespace_aspose_1_1_words_1_1_notes_1aab244a43e7e8af987b79336498c11fdba3309c169d1c5fd954d7bf60164652483" kindref="member" tooltip="Numbering restarts at each section.">FootnoteNumberingRule::RestartSection</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;InlineStory.NumberingRule.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Notes/FootnoteNumberingRule.h" line="78" column="1" bodyfile="Aspose.Words.Cpp/Notes/FootnoteNumberingRule.h" bodystart="79" bodyend="92"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_notes_1a9ab86e5d9913b4a741126b4b48cf81da" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>FootnotePosition</name>
+        <qualifiedname>Aspose::Words::Notes::FootnotePosition</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_notes_1a9ab86e5d9913b4a741126b4b48cf81daae91fb0888d4791ca30a50ebb85381a63" prot="public">
+          <name>BottomOfPage</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+<para>Footnotes are output at the bottom of each page. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_notes_1a9ab86e5d9913b4a741126b4b48cf81daa3ae580597ce62cc05e29173599722a01" prot="public">
+          <name>BeneathText</name>
+          <initializer>= 2</initializer>
+          <briefdescription>
+<para>Footnotes are output beneath text on each page. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Defines the footnote position. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_options" kindref="compound">Aspose::Words::Notes::FootnoteOptions</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to select a different place where the document collects and displays its footnotes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>footnote<sp/>is<sp/>a<sp/>way<sp/>to<sp/>attach<sp/>a<sp/>reference<sp/>or<sp/>a<sp/>side<sp/>comment<sp/>to<sp/>text</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>that<sp/>does<sp/>not<sp/>interfere<sp/>with<sp/>the<sp/>main<sp/>body<sp/>text&apos;s<sp/>flow.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Inserting<sp/>a<sp/>footnote<sp/>adds<sp/>a<sp/>small<sp/>superscript<sp/>reference<sp/>symbol</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>at<sp/>the<sp/>main<sp/>body<sp/>text<sp/>where<sp/>we<sp/>insert<sp/>the<sp/>footnote.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>footnote<sp/>also<sp/>creates<sp/>an<sp/>entry<sp/>at<sp/>the<sp/>bottom<sp/>of<sp/>the<sp/>page,<sp/>consisting<sp/>of<sp/>a<sp/>symbol</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>that<sp/>matches<sp/>the<sp/>reference<sp/>symbol<sp/>in<sp/>the<sp/>main<sp/>body<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>reference<sp/>text<sp/>that<sp/>we<sp/>pass<sp/>to<sp/>the<sp/>document<sp/>builder&apos;s<sp/>&quot;InsertFootnote&quot;<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" kindref="member" tooltip="The object is a footnote.">FootnoteType::Footnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>contents.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>the<sp/>&quot;Position&quot;<sp/>property<sp/>to<sp/>determine<sp/>where<sp/>the<sp/>document<sp/>will<sp/>place<sp/>all<sp/>its<sp/>footnotes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>set<sp/>the<sp/>value<sp/>of<sp/>the<sp/>&quot;Position&quot;<sp/>property<sp/>to<sp/>&quot;FootnotePosition.BottomOfPage&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>every<sp/>footnote<sp/>will<sp/>show<sp/>up<sp/>at<sp/>the<sp/>bottom<sp/>of<sp/>the<sp/>page<sp/>that<sp/>contains<sp/>its<sp/>reference<sp/>mark.<sp/>This<sp/>is<sp/>the<sp/>default<sp/>value.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>set<sp/>the<sp/>value<sp/>of<sp/>the<sp/>&quot;Position&quot;<sp/>property<sp/>to<sp/>&quot;FootnotePosition.BeneathText&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>every<sp/>footnote<sp/>will<sp/>show<sp/>up<sp/>at<sp/>the<sp/>end<sp/>of<sp/>the<sp/>page&apos;s<sp/>text<sp/>that<sp/>contains<sp/>its<sp/>reference<sp/>mark.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FootnoteOptions()-&gt;set_Position(footnotePosition);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;InlineStory.PositionFootnote.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Notes/FootnotePosition.h" line="52" column="1" bodyfile="Aspose.Words.Cpp/Notes/FootnotePosition.h" bodystart="53" bodyend="60"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>FootnoteType</name>
+        <qualifiedname>Aspose::Words::Notes::FootnoteType</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" prot="public">
+          <name>Footnote</name>
+          <initializer>= 0</initializer>
+          <briefdescription>
+<para>The object is a footnote. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a9129fa7956bf827701cebbe3bd0d6e75" prot="public">
+          <name>Endnote</name>
+          <initializer>= 1</initializer>
+          <briefdescription>
+<para>The object is an endnote. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies whether this is a footnote or an endnote. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Both footnotes and endnotes are represented by objects by the <ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" kindref="member">Footnote</ref> class. Use <ref refid="class_aspose_1_1_words_1_1_notes_1_1_footnote_1a1f0e650618ca1322c9816ff8e1b78a6e" kindref="member">FootnoteType</ref> to distinguish between footnotes and endnotes.</para>
+<para><simplesect kind="see"><para><ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" kindref="member">Aspose::Words::Notes::FootnoteType::Footnote</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to reference text with a footnote and an endnote. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>some<sp/>text<sp/>and<sp/>mark<sp/>it<sp/>with<sp/>a<sp/>footnote<sp/>with<sp/>the<sp/>IsAuto<sp/>property<sp/>set<sp/>to<sp/>&quot;true&quot;<sp/>by<sp/>default,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>so<sp/>the<sp/>marker<sp/>seen<sp/>in<sp/>the<sp/>body<sp/>text<sp/>will<sp/>be<sp/>auto-numbered<sp/>at<sp/>&quot;1&quot;,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>footnote<sp/>will<sp/>appear<sp/>at<sp/>the<sp/>bottom<sp/>of<sp/>the<sp/>page.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>will<sp/>be<sp/>referenced<sp/>by<sp/>a<sp/>footnote.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" kindref="member" tooltip="The object is a footnote.">FootnoteType::Footnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>comment<sp/>regarding<sp/>referenced<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>more<sp/>text<sp/>and<sp/>mark<sp/>it<sp/>with<sp/>an<sp/>endnote<sp/>with<sp/>a<sp/>custom<sp/>reference<sp/>mark,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>be<sp/>used<sp/>in<sp/>place<sp/>of<sp/>the<sp/>number<sp/>&quot;2&quot;<sp/>and<sp/>set<sp/>&quot;IsAuto&quot;<sp/>to<sp/>false.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;This<sp/>text<sp/>will<sp/>be<sp/>referenced<sp/>by<sp/>an<sp/>endnote.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a9129fa7956bf827701cebbe3bd0d6e75" kindref="member" tooltip="The object is an endnote.">FootnoteType::Endnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Endnote<sp/>comment<sp/>regarding<sp/>referenced<sp/>text.&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;CustomMark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Footnotes<sp/>always<sp/>appear<sp/>at<sp/>the<sp/>bottom<sp/>of<sp/>their<sp/>referenced<sp/>text,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>so<sp/>this<sp/>page<sp/>break<sp/>will<sp/>not<sp/>affect<sp/>the<sp/>footnote.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>On<sp/>the<sp/>other<sp/>hand,<sp/>endnotes<sp/>are<sp/>always<sp/>at<sp/>the<sp/>end<sp/>of<sp/>the<sp/>document</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>so<sp/>that<sp/>this<sp/>page<sp/>break<sp/>will<sp/>push<sp/>the<sp/>endnote<sp/>down<sp/>to<sp/>the<sp/>next<sp/>page.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocumentBuilder.InsertFootnote.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to insert and customize footnotes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>text,<sp/>and<sp/>reference<sp/>it<sp/>with<sp/>a<sp/>footnote.<sp/>This<sp/>footnote<sp/>will<sp/>place<sp/>a<sp/>small<sp/>superscript<sp/>reference</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>mark<sp/>after<sp/>the<sp/>text<sp/>that<sp/>it<sp/>references<sp/>and<sp/>create<sp/>an<sp/>entry<sp/>below<sp/>the<sp/>main<sp/>body<sp/>text<sp/>at<sp/>the<sp/>bottom<sp/>of<sp/>the<sp/>page.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>entry<sp/>will<sp/>contain<sp/>the<sp/>footnote&apos;s<sp/>reference<sp/>mark<sp/>and<sp/>the<sp/>reference<sp/>text,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>we<sp/>will<sp/>pass<sp/>to<sp/>the<sp/>document<sp/>builder&apos;s<sp/>&quot;InsertFootnote&quot;<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Main<sp/>body<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Footnote&gt;<sp/>footnote<sp/>=<sp/>builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" kindref="member" tooltip="The object is a footnote.">FootnoteType::Footnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>this<sp/>property<sp/>is<sp/>set<sp/>to<sp/>&quot;true&quot;,<sp/>then<sp/>our<sp/>footnote&apos;s<sp/>reference<sp/>mark</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>will<sp/>be<sp/>its<sp/>index<sp/>among<sp/>all<sp/>the<sp/>section&apos;s<sp/>footnotes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>is<sp/>the<sp/>first<sp/>footnote,<sp/>so<sp/>the<sp/>reference<sp/>mark<sp/>will<sp/>be<sp/>&quot;1&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(footnote-&gt;get_IsAuto());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>move<sp/>the<sp/>document<sp/>builder<sp/>inside<sp/>the<sp/>footnote<sp/>to<sp/>edit<sp/>its<sp/>reference<sp/>text.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveTo(footnote-&gt;get_FirstParagraph());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;<sp/>More<sp/>text<sp/>added<sp/>by<sp/>a<sp/>DocumentBuilder.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;MoveToDocumentEnd();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;\u0002<sp/>Footnote<sp/>text.<sp/>More<sp/>text<sp/>added<sp/>by<sp/>a<sp/>DocumentBuilder.&quot;</highlight><highlight class="normal">,<sp/>footnote-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;<sp/>More<sp/>main<sp/>body<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">footnote<sp/>=<sp/>builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" kindref="member" tooltip="The object is a footnote.">FootnoteType::Footnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>a<sp/>custom<sp/>reference<sp/>mark<sp/>which<sp/>the<sp/>footnote<sp/>will<sp/>use<sp/>instead<sp/>of<sp/>its<sp/>index<sp/>number.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">footnote-&gt;set_ReferenceMark(u</highlight><highlight class="stringliteral">&quot;RefMark&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(footnote-&gt;get_IsAuto());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>bookmark<sp/>with<sp/>the<sp/>&quot;IsAuto&quot;<sp/>flag<sp/>set<sp/>to<sp/>true<sp/>will<sp/>still<sp/>show<sp/>its<sp/>real<sp/>index</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>even<sp/>if<sp/>previous<sp/>bookmarks<sp/>display<sp/>custom<sp/>reference<sp/>marks,<sp/>so<sp/>this<sp/>bookmark&apos;s<sp/>reference<sp/>mark<sp/>will<sp/>be<sp/>a<sp/>&quot;3&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;<sp/>More<sp/>main<sp/>body<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">footnote<sp/>=<sp/>builder-&gt;InsertFootnote(<ref refid="namespace_aspose_1_1_words_1_1_notes_1a2680135dcc9094dfd377cd5acf9bf4a8a8b213ded385c637758f8c3705eb6386a" kindref="member" tooltip="The object is a footnote.">FootnoteType::Footnote</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;Footnote<sp/>text.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(footnote-&gt;get_IsAuto());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;InlineStory.AddFootnote.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Notes/FootnoteType.h" line="98" column="1" bodyfile="Aspose.Words.Cpp/Notes/FootnoteType.h" bodystart="99" bodyend="106"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>The <bold>Aspose.Words.Notes</bold> namespace provides classes to work with Microsoft Word endnotes and footnotes. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/Document.h" line="108" column="1"/>
+  </compounddef>
+</doxygen>

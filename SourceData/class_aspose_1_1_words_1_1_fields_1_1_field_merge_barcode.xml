@@ -1,0 +1,768 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::FieldMergeBarcode</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field" prot="public" virt="non-virtual">Aspose::Words::Fields::Field</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IFieldCodeTokenInfoProvider</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IMergeFieldSurrogate</basecompoundref>
+    <includes refid="_field_merge_barcode_8h" local="no">Aspose.Words.Cpp/Fields/FieldMergeBarcode.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a02add4eeda029f020ca21475e967b32c" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref></type>
+        <definition>typedef Aspose::Words::Fields::Field Aspose::Words::Fields::FieldMergeBarcode::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="44" column="42" bodyfile="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" bodystart="44" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1ab9748b3f4894d1dc84fd64f1be50d9ae" prot="private" static="no">
+        <type>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</type>
+        <definition>typedef Aspose::Words::Fields::IFieldCodeTokenInfoProvider Aspose::Words::Fields::FieldMergeBarcode::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="45" column="64" bodyfile="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" bodystart="45" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1ae76e0afcf694fd93f7bcce901076b8bd" prot="private" static="no">
+        <type>Aspose::Words::Fields::IMergeFieldSurrogate</type>
+        <definition>typedef Aspose::Words::Fields::IMergeFieldSurrogate Aspose::Words::Fields::FieldMergeBarcode::BaseType2</definition>
+        <argsstring></argsstring>
+        <name>BaseType2</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::BaseType2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="46" column="57" bodyfile="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" bodystart="46" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1aae6411424449640f7264bc57e34cc13c" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode" kindref="compound">FieldMergeBarcode</ref></type>
+        <definition>typedef FieldMergeBarcode Aspose::Words::Fields::FieldMergeBarcode::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="43" column="31" bodyfile="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" bodystart="43" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a45b5b879852927f46894663f687e9276" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1, BaseType2 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1, BaseType2&gt; Aspose::Words::Fields::FieldMergeBarcode::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="48" column="37" bodyfile="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" bodystart="48" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a1f20a46ff1dd43d73885d6e66ebd2095" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldMergeBarcode::CanWorkAsMergeField</definition>
+        <argsstring>() override</argsstring>
+        <name>CanWorkAsMergeField</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::CanWorkAsMergeField</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="144" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a2f4772279a50a3d3354463b3d63846fb" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldMergeBarcode::GetMergeFieldName</definition>
+        <argsstring>() override</argsstring>
+        <name>GetMergeFieldName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::GetMergeFieldName</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="143" column="20"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a837c7600c9e2ea76383eb2468baa2535" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>Aspose::Words::Fields::FieldSwitchType</type>
+        <definition>Aspose::Words::Fields::FieldSwitchType Aspose::Words::Fields::FieldMergeBarcode::GetSwitchType</definition>
+        <argsstring>(System::String) override</argsstring>
+        <name>GetSwitchType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::GetSwitchType</qualifiedname>
+        <param>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="142" column="44"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1aa1d11b2e8dee8ff7c33d6603a2b9c05f" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldMergeBarcode::IsMergeValueRequired</definition>
+        <argsstring>() override</argsstring>
+        <name>IsMergeValueRequired</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::IsMergeValueRequired</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="145" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a168933bf32c963b9bd34e0ce54367668" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldMergeBarcode::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="49" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a460cd2b4412aa04eb2615f8fc41dcb9b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldMergeBarcode::get_AddStartStopChar</definition>
+        <argsstring>()</argsstring>
+        <name>get_AddStartStopChar</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::get_AddStartStopChar</qualifiedname>
+        <briefdescription>
+<para>Gets whether to add Start/Stop characters for barcode types NW7 and CODE39. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="129" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a20ce2497b7c9c7cdf43532a7100cbaab" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldMergeBarcode::get_BackgroundColor</definition>
+        <argsstring>()</argsstring>
+        <name>get_BackgroundColor</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::get_BackgroundColor</qualifiedname>
+        <briefdescription>
+<para>Gets the background color of the barcode symbol. Valid values are in the range [0, 0xFFFFFF]. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="99" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1ad1b099eb42c3d40d37f05a5bc74a399f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldMergeBarcode::get_BarcodeType</definition>
+        <argsstring>()</argsstring>
+        <name>get_BarcodeType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::get_BarcodeType</qualifiedname>
+        <briefdescription>
+<para>Gets the barcode type (QR, etc.) </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="69" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a47fa51d038d32fe75308ead4550a52a9" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldMergeBarcode::get_BarcodeValue</definition>
+        <argsstring>()</argsstring>
+        <name>get_BarcodeValue</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::get_BarcodeValue</qualifiedname>
+        <briefdescription>
+<para>Gets the barcode value. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="63" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a133783659050c103e562b324e9589cf9" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldMergeBarcode::get_CaseCodeStyle</definition>
+        <argsstring>()</argsstring>
+        <name>get_CaseCodeStyle</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::get_CaseCodeStyle</qualifiedname>
+        <briefdescription>
+<para>Gets the style of a Case Code for barcode type ITF14. The valid values are [STD|EXT|ADD]. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="111" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1afb853b69a30bb47e916825a74f05144c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldMergeBarcode::get_DisplayText</definition>
+        <argsstring>()</argsstring>
+        <name>get_DisplayText</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::get_DisplayText</qualifiedname>
+        <briefdescription>
+<para>Gets whether to display barcode data (text) along with image. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="123" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1af11ec01e930900214f06a6f5474ccaee" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_end" kindref="compound">Aspose::Words::Fields::FieldEnd</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldEnd &gt; Aspose::Words::Fields::FieldMergeBarcode::get_End</definition>
+        <argsstring>() override</argsstring>
+        <name>get_End</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::get_End</qualifiedname>
+        <briefdescription>
+<para>Gets the node that represents the field end. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="60" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1ad8bcb9feae428ad8e6e0666087f0e265" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldMergeBarcode::get_ErrorCorrectionLevel</definition>
+        <argsstring>()</argsstring>
+        <name>get_ErrorCorrectionLevel</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::get_ErrorCorrectionLevel</qualifiedname>
+        <briefdescription>
+<para>Gets an error correction level of QR Code. Valid values are [0, 3]. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="117" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1ad5d7597aa512f3c47e1c830af7ce6f66" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldMergeBarcode::get_FixCheckDigit</definition>
+        <argsstring>()</argsstring>
+        <name>get_FixCheckDigit</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::get_FixCheckDigit</qualifiedname>
+        <briefdescription>
+<para>Gets whether to fix the check digit if it’s invalid. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="135" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1aad68161ac419361cbe33a7f00b7827c3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldMergeBarcode::get_ForegroundColor</definition>
+        <argsstring>()</argsstring>
+        <name>get_ForegroundColor</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::get_ForegroundColor</qualifiedname>
+        <briefdescription>
+<para>Gets the foreground color of the barcode symbol. Valid values are in the range [0, 0xFFFFFF]. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="93" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1ad9cac7f9937636b3a95165aa657b1fc7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldMergeBarcode::get_PosCodeStyle</definition>
+        <argsstring>()</argsstring>
+        <name>get_PosCodeStyle</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::get_PosCodeStyle</qualifiedname>
+        <briefdescription>
+<para>Gets the style of a Point of Sale barcode (barcode types UPCA|UPCE|EAN13|EAN8). The valid values (case insensitive) are [STD|SUP2|SUP5|CASE]. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="105" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a19ad6b0a90bad922ff2dcf6fb0442b9f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldMergeBarcode::get_ScalingFactor</definition>
+        <argsstring>()</argsstring>
+        <name>get_ScalingFactor</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::get_ScalingFactor</qualifiedname>
+        <briefdescription>
+<para>Gets a scaling factor for the symbol. The value is in whole percentage points and the valid values are [10, 1000]. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="87" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a25627ab626f4bb608a7b9e0296cae090" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_separator" kindref="compound">Aspose::Words::Fields::FieldSeparator</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldSeparator &gt; Aspose::Words::Fields::FieldMergeBarcode::get_Separator</definition>
+        <argsstring>() override</argsstring>
+        <name>get_Separator</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::get_Separator</qualifiedname>
+        <briefdescription>
+<para>Gets the node that represents the field separator. Can be null. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="57" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1ac33d5f1b7e2a11c1ad090890456ce0c9" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_start" kindref="compound">Aspose::Words::Fields::FieldStart</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldStart &gt; Aspose::Words::Fields::FieldMergeBarcode::get_Start</definition>
+        <argsstring>() override</argsstring>
+        <name>get_Start</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::get_Start</qualifiedname>
+        <briefdescription>
+<para>Gets the node that represents the start of the field. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="54" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a2c223516211c7bd0cfb366256beeeb07" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldMergeBarcode::get_SymbolHeight</definition>
+        <argsstring>()</argsstring>
+        <name>get_SymbolHeight</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::get_SymbolHeight</qualifiedname>
+        <briefdescription>
+<para>Gets the height of the symbol. The units are in TWIPS (1/1440 inch). </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="75" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a30b1ca4cd6a0ad40a54af5c8f2fbdc0e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldMergeBarcode::get_SymbolRotation</definition>
+        <argsstring>()</argsstring>
+        <name>get_SymbolRotation</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::get_SymbolRotation</qualifiedname>
+        <briefdescription>
+<para>Gets the rotation of the barcode symbol. Valid values are [0, 3]. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="81" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a763f273e662605143ad79d8017682c33" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldMergeBarcode::set_AddStartStopChar</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_AddStartStopChar</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::set_AddStartStopChar</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets whether to add Start/Stop characters for barcode types NW7 and CODE39. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="132" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a791faca273bdc9609ed330421feaaf93" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldMergeBarcode::set_BackgroundColor</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_BackgroundColor</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::set_BackgroundColor</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets the background color of the barcode symbol. Valid values are in the range [0, 0xFFFFFF]. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="102" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1ae74dd2de7a067fbd03c6ab3b2b930efb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldMergeBarcode::set_BarcodeType</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_BarcodeType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::set_BarcodeType</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets the barcode type (QR, etc.) </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="72" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1aa4e45aa5201b777a8196018ef8cae1ed" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldMergeBarcode::set_BarcodeValue</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_BarcodeValue</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::set_BarcodeValue</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets the barcode value. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="66" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1abe4e6e7291449c6f3ccc2b9cc7c900e7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldMergeBarcode::set_CaseCodeStyle</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_CaseCodeStyle</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::set_CaseCodeStyle</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets the style of a Case Code for barcode type ITF14. The valid values are [STD|EXT|ADD]. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="114" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a1dc3587c9aec88ba0f4a7f89bb4be6c2" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldMergeBarcode::set_DisplayText</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_DisplayText</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::set_DisplayText</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets whether to display barcode data (text) along with image. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="126" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a15cc6c86be4aa885d94687d2d823a1ad" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldMergeBarcode::set_ErrorCorrectionLevel</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ErrorCorrectionLevel</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::set_ErrorCorrectionLevel</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets an error correction level of QR Code. Valid values are [0, 3]. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="120" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1ad9eba80797c845dba4373bcc58e68e67" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldMergeBarcode::set_FixCheckDigit</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_FixCheckDigit</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::set_FixCheckDigit</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets whether to fix the check digit if it’s invalid. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="138" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a77f69c9f05bcd0f1e3678725e65eccc4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldMergeBarcode::set_ForegroundColor</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ForegroundColor</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::set_ForegroundColor</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets the foreground color of the barcode symbol. Valid values are in the range [0, 0xFFFFFF]. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="96" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a33416410b3f46028ba8a026049ca5634" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldMergeBarcode::set_PosCodeStyle</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_PosCodeStyle</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::set_PosCodeStyle</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets the style of a Point of Sale barcode (barcode types UPCA|UPCE|EAN13|EAN8). The valid values (case insensitive) are [STD|SUP2|SUP5|CASE]. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="108" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1afc2a2434fb69af47c72bcc3cfa0e9824" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldMergeBarcode::set_ScalingFactor</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ScalingFactor</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::set_ScalingFactor</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets a scaling factor for the symbol. The value is in whole percentage points and the valid values are [10, 1000]. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="90" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a5be29f885e70838edd40e6e156b3f749" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldMergeBarcode::set_SymbolHeight</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_SymbolHeight</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::set_SymbolHeight</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets the height of the symbol. The units are in TWIPS (1/1440 inch). </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="78" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a37a030df14476b2e8dd9530150a0fcea" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldMergeBarcode::set_SymbolRotation</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_SymbolRotation</name>
+        <qualifiedname>Aspose::Words::Fields::FieldMergeBarcode::set_SymbolRotation</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets the rotation of the barcode symbol. Valid values are [0, 3]. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="84" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implements the MERGEBARCODE field. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldMergeBarcode</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="5">
+        <label>Aspose::Words::Fields::IMergeFieldSurrogate</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldMergeBarcode</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="5">
+        <label>Aspose::Words::Fields::IMergeFieldSurrogate</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" line="41" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldMergeBarcode.h" bodystart="42" bodyend="147"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a02add4eeda029f020ca21475e967b32c" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1ab9748b3f4894d1dc84fd64f1be50d9ae" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1ae76e0afcf694fd93f7bcce901076b8bd" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>BaseType2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a1f20a46ff1dd43d73885d6e66ebd2095" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>CanWorkAsMergeField</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a460cd2b4412aa04eb2615f8fc41dcb9b" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_AddStartStopChar</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a20ce2497b7c9c7cdf43532a7100cbaab" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_BackgroundColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1ad1b099eb42c3d40d37f05a5bc74a399f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_BarcodeType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a47fa51d038d32fe75308ead4550a52a9" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_BarcodeValue</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a133783659050c103e562b324e9589cf9" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_CaseCodeStyle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a5c2d01019c517ea8098f296903e37a34" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_DisplayResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1afb853b69a30bb47e916825a74f05144c" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_DisplayText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1af11ec01e930900214f06a6f5474ccaee" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad5f0995c85cce833806e847cf25809b7" prot="public" virt="non-virtual" ambiguityscope="Aspose::Words::Fields::Field::"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1ad8bcb9feae428ad8e6e0666087f0e265" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_ErrorCorrectionLevel</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a399c14463916724cac0015b430175589" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_FieldEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abc40cddc1325f7fec80d8530e5287448" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_FieldStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1ad5d7597aa512f3c47e1c830af7ce6f66" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_FixCheckDigit</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1aad68161ac419361cbe33a7f00b7827c3" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_ForegroundColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a090c5d09915e2ead6cc54fda736dd7c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_Format</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ae68851d4a88a1fc867d3ddee2e4e88c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afda4c46db80761545c89e21aae5b717d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a93719d071099487b6aea1eaa241dd6e8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1ad9cac7f9937636b3a95165aa657b1fc7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_PosCodeStyle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a012c93472901dc077815970a9b2ab650" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a19ad6b0a90bad922ff2dcf6fb0442b9f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_ScalingFactor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a25627ab626f4bb608a7b9e0296cae090" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_Separator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1ac33d5f1b7e2a11c1ad090890456ce0c9" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afa7cd5d4cf1a87b05058982f26786456" prot="public" virt="non-virtual" ambiguityscope="Aspose::Words::Fields::Field::"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a2c223516211c7bd0cfb366256beeeb07" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_SymbolHeight</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a30b1ca4cd6a0ad40a54af5c8f2fbdc0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_SymbolRotation</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad68196653db5cfca30c1ba18ed44c76e" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa40bc0e4a5be11f0df785cc8bb2ff042" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a2f4772279a50a3d3354463b3d63846fb" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>GetMergeFieldName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a837c7600c9e2ea76383eb2468baa2535" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>GetSwitchType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1aa1d11b2e8dee8ff7c33d6603a2b9c05f" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>IsMergeValueRequired</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad26a8021af3dbdc5bf0a1360a201222f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a168933bf32c963b9bd34e0ce54367668" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a763f273e662605143ad79d8017682c33" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>set_AddStartStopChar</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a791faca273bdc9609ed330421feaaf93" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>set_BackgroundColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1ae74dd2de7a067fbd03c6ab3b2b930efb" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>set_BarcodeType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1aa4e45aa5201b777a8196018ef8cae1ed" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>set_BarcodeValue</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1abe4e6e7291449c6f3ccc2b9cc7c900e7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>set_CaseCodeStyle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a1dc3587c9aec88ba0f4a7f89bb4be6c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>set_DisplayText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a15cc6c86be4aa885d94687d2d823a1ad" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>set_ErrorCorrectionLevel</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1ad9eba80797c845dba4373bcc58e68e67" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>set_FixCheckDigit</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a77f69c9f05bcd0f1e3678725e65eccc4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>set_ForegroundColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa637d825865724665fb8ed856e664d95" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>set_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ac70b125adbe7f0ba5b889280cd282c47" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>set_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a165f748dd5ba33844f1d765f6c710f88" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>set_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a33416410b3f46028ba8a026049ca5634" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>set_PosCodeStyle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa6af1e900c84ae806f071098dfe8f087" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>set_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1afc2a2434fb69af47c72bcc3cfa0e9824" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>set_ScalingFactor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a5be29f885e70838edd40e6e156b3f749" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>set_SymbolHeight</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a37a030df14476b2e8dd9530150a0fcea" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>set_SymbolRotation</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1aae6411424449640f7264bc57e34cc13c" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_merge_barcode_1a45b5b879852927f46894663f687e9276" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab9f908becb16b26bed76d58dbcee9929" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>Unlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aaec82418b2b6493aa2827b8e282b2e82" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a1298d7daa07c863bf97cb3f37a4d7a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldMergeBarcode</scope><name>Update</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

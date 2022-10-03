@@ -1,0 +1,1314 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::DropDownItemCollection</compoundname>
+    <basecompoundref refid="class/system.collections.generic.i_enumerable/" prot="public" virt="non-virtual">System::Collections::Generic::IEnumerable&lt; System::String &gt;</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::IComplexAttr</basecompoundref>
+    <includes refid="_drop_down_item_collection_8h" local="no">Aspose.Words.Cpp/Fields/DropDownItemCollection.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1ae10d971a4367479257b6e542c9ee25d3" prot="private" static="no">
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt;</type>
+        <definition>typedef System::Collections::Generic::IEnumerable&lt;System::String&gt; Aspose::Words::Fields::DropDownItemCollection::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="97" column="55" bodyfile="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" bodystart="97" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a375a65434a55237bb8d42a359307c88a" prot="private" static="no">
+        <type>Aspose::Words::IComplexAttr</type>
+        <definition>typedef Aspose::Words::IComplexAttr Aspose::Words::Fields::DropDownItemCollection::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="98" column="41" bodyfile="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" bodystart="98" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1ad1a1de0abf7820032c8e0fa1c3925e4a" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection" kindref="compound">DropDownItemCollection</ref></type>
+        <definition>typedef DropDownItemCollection Aspose::Words::Fields::DropDownItemCollection::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="96" column="36" bodyfile="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" bodystart="96" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1af272dbea5b02995746a4113ce85b8afd" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref>, BaseType1 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Fields::DropDownItemCollection::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="100" column="37" bodyfile="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" bodystart="100" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a8cc9626139243e004fdfdef3d37829d8" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.list/_1a0f284b9cbb583432336a9ce4f0b9c84a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
+        <definition>using Aspose::Words::Fields::DropDownItemCollection::const_iterator =  typename iterator_holder_type::const_iterator</definition>
+        <argsstring></argsstring>
+        <name>const_iterator</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::const_iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="109" column="5" bodyfile="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" bodystart="109" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1aec8ebb48ec92d0dcd95f05ad15dad074" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.list/_1ab0ac6ed1e49acd56e069fe8614c87f3d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
+        <definition>using Aspose::Words::Fields::DropDownItemCollection::iterator =  typename iterator_holder_type::iterator</definition>
+        <argsstring></argsstring>
+        <name>iterator</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="107" column="5" bodyfile="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" bodystart="107" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a4aabc9128bc9966288b6e5d5767c3d05" prot="public" static="no">
+        <type><ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt;</type>
+        <definition>using Aspose::Words::Fields::DropDownItemCollection::iterator_holder_type =  System::Collections::Generic::List&lt;System::String&gt;</definition>
+        <argsstring></argsstring>
+        <name>iterator_holder_type</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::iterator_holder_type</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="105" column="5" bodyfile="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" bodystart="105" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1adbc3cd3c2b6e382089afec4105d7c501" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
+        <definition>using Aspose::Words::Fields::DropDownItemCollection::virtualized_iterator =  typename iterator_holder_type::virtualized_iterator</definition>
+        <argsstring></argsstring>
+        <name>virtualized_iterator</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::virtualized_iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="113" column="5" bodyfile="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" bodystart="113" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a92eb7ec0eefe1911dd3ff1314371be7c" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
+        <definition>using Aspose::Words::Fields::DropDownItemCollection::virtualized_iterator_element =  typename iterator_holder_type::virtualized_iterator_element</definition>
+        <argsstring></argsstring>
+        <name>virtualized_iterator_element</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::virtualized_iterator_element</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="111" column="5" bodyfile="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" bodystart="111" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1abb098b7ddfe251a9bfd7ed40138e9211" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fields::DropDownItemCollection::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="793" column="23" bodyfile="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" bodystart="793" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1acc50dadd9c870737e375bf09bb8de245" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::DropDownItemCollection::DropDownItemCollection</definition>
+        <argsstring>()</argsstring>
+        <name>DropDownItemCollection</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::DropDownItemCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="785" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a4d28dcdebcf4cf67ca456d493cc22662" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Fields::DropDownItemCollection::~DropDownItemCollection</definition>
+        <argsstring>()</argsstring>
+        <name>~DropDownItemCollection</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::~DropDownItemCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="787" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a82ad22c0492ba93c02a222699faaa345" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::DropDownItemCollection::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="101" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a00843ad27af291cb85265370864840dc" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Fields::DropDownItemCollection::Add</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>Add</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::Add</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Adds a string to the end of the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>value</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The string to add to the end of the collection.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The zero-based index at which the new element is inserted.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a combo box field, and edit the elements in its item collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>combo<sp/>box,<sp/>and<sp/>then<sp/>verify<sp/>its<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>Microsoft<sp/>Word,<sp/>the<sp/>user<sp/>will<sp/>click<sp/>the<sp/>combo<sp/>box,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>choose<sp/>one<sp/>of<sp/>the<sp/>items<sp/>of<sp/>text<sp/>in<sp/>the<sp/>collection<sp/>to<sp/>display.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;String&gt;<sp/>items<sp/>=<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;One&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Two&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Three&quot;</highlight><highlight class="normal">});</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FormField&gt;<sp/>comboBoxField<sp/>=<sp/>builder-&gt;InsertComboBox(u</highlight><highlight class="stringliteral">&quot;DropDown&quot;</highlight><highlight class="normal">,<sp/>items,<sp/>0);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;DropDownItemCollection&gt;<sp/>dropDownItems<sp/>=<sp/>comboBoxField-&gt;get_DropDownItems();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;One&quot;</highlight><highlight class="normal">,<sp/>dropDownItems-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>dropDownItems-&gt;IndexOf(u</highlight><highlight class="stringliteral">&quot;Two&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Three&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>adding<sp/>a<sp/>new<sp/>item<sp/>to<sp/>an<sp/>existing<sp/>collection<sp/>of<sp/>drop-down<sp/>box<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Append<sp/>an<sp/>item<sp/>to<sp/>the<sp/>end<sp/>of<sp/>the<sp/>collection:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Insert<sp/>an<sp/>item<sp/>before<sp/>another<sp/>item<sp/>at<sp/>a<sp/>specified<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Insert(3,<sp/>u</highlight><highlight class="stringliteral">&quot;Three<sp/>and<sp/>a<sp/>half&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Iterate<sp/>over<sp/>the<sp/>collection<sp/>and<sp/>print<sp/>every<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;String&gt;&gt;<sp/>dropDownCollectionEnumerator<sp/>=<sp/>dropDownItems-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(dropDownCollectionEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>dropDownCollectionEnumerator-&gt;get_Current()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>removing<sp/>elements<sp/>from<sp/>a<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Remove<sp/>an<sp/>item<sp/>with<sp/>contents<sp/>equal<sp/>to<sp/>the<sp/>passed<sp/>string:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Remove<sp/>an<sp/>item<sp/>at<sp/>an<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;RemoveAt(3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Three<sp/>and<sp/>a<sp/>half&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FormFields.DropDownItemCollection.html&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Empty<sp/>the<sp/>whole<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Clear();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="404" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a9bf1c968018db9134f69e0ddc058c447" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a8cc9626139243e004fdfdef3d37829d8" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::Fields::DropDownItemCollection::begin</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>begin</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::begin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="767" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1ae86cdb0ee60760f2a7351f646707729a" prot="public" static="no" const="no" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1aec8ebb48ec92d0dcd95f05ad15dad074" kindref="member">iterator</ref></type>
+        <definition>iterator Aspose::Words::Fields::DropDownItemCollection::begin</definition>
+        <argsstring>() noexcept</argsstring>
+        <name>begin</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::begin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="763" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a06487d80c7c38c59133830e0a2825dac" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a8cc9626139243e004fdfdef3d37829d8" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::Fields::DropDownItemCollection::cbegin</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>cbegin</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::cbegin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="771" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1abc5a7b21bed90849c2256414704ac32d" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a8cc9626139243e004fdfdef3d37829d8" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::Fields::DropDownItemCollection::cend</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>cend</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::cend</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="773" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a21acf11289df6c1a769fbc40acb33f74" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::DropDownItemCollection::Clear</definition>
+        <argsstring>()</argsstring>
+        <name>Clear</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::Clear</qualifiedname>
+        <briefdescription>
+<para>Removes all elements from the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a combo box field, and edit the elements in its item collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>combo<sp/>box,<sp/>and<sp/>then<sp/>verify<sp/>its<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>Microsoft<sp/>Word,<sp/>the<sp/>user<sp/>will<sp/>click<sp/>the<sp/>combo<sp/>box,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>choose<sp/>one<sp/>of<sp/>the<sp/>items<sp/>of<sp/>text<sp/>in<sp/>the<sp/>collection<sp/>to<sp/>display.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;String&gt;<sp/>items<sp/>=<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;One&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Two&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Three&quot;</highlight><highlight class="normal">});</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FormField&gt;<sp/>comboBoxField<sp/>=<sp/>builder-&gt;InsertComboBox(u</highlight><highlight class="stringliteral">&quot;DropDown&quot;</highlight><highlight class="normal">,<sp/>items,<sp/>0);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;DropDownItemCollection&gt;<sp/>dropDownItems<sp/>=<sp/>comboBoxField-&gt;get_DropDownItems();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;One&quot;</highlight><highlight class="normal">,<sp/>dropDownItems-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>dropDownItems-&gt;IndexOf(u</highlight><highlight class="stringliteral">&quot;Two&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Three&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>adding<sp/>a<sp/>new<sp/>item<sp/>to<sp/>an<sp/>existing<sp/>collection<sp/>of<sp/>drop-down<sp/>box<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Append<sp/>an<sp/>item<sp/>to<sp/>the<sp/>end<sp/>of<sp/>the<sp/>collection:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Insert<sp/>an<sp/>item<sp/>before<sp/>another<sp/>item<sp/>at<sp/>a<sp/>specified<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Insert(3,<sp/>u</highlight><highlight class="stringliteral">&quot;Three<sp/>and<sp/>a<sp/>half&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Iterate<sp/>over<sp/>the<sp/>collection<sp/>and<sp/>print<sp/>every<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;String&gt;&gt;<sp/>dropDownCollectionEnumerator<sp/>=<sp/>dropDownItems-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(dropDownCollectionEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>dropDownCollectionEnumerator-&gt;get_Current()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>removing<sp/>elements<sp/>from<sp/>a<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Remove<sp/>an<sp/>item<sp/>with<sp/>contents<sp/>equal<sp/>to<sp/>the<sp/>passed<sp/>string:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Remove<sp/>an<sp/>item<sp/>at<sp/>an<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;RemoveAt(3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Three<sp/>and<sp/>a<sp/>half&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FormFields.DropDownItemCollection.html&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Empty<sp/>the<sp/>whole<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Clear();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="761" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1ad2e11eb42585acfd9cd7d0f3e53c1364" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::DropDownItemCollection::Contains</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>Contains</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::Contains</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Determines whether the collection contains the specified value. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>value</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Case-sensitive value to locate.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>True if the item is found in the collection; otherwise, false.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a combo box field, and edit the elements in its item collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>combo<sp/>box,<sp/>and<sp/>then<sp/>verify<sp/>its<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>Microsoft<sp/>Word,<sp/>the<sp/>user<sp/>will<sp/>click<sp/>the<sp/>combo<sp/>box,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>choose<sp/>one<sp/>of<sp/>the<sp/>items<sp/>of<sp/>text<sp/>in<sp/>the<sp/>collection<sp/>to<sp/>display.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;String&gt;<sp/>items<sp/>=<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;One&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Two&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Three&quot;</highlight><highlight class="normal">});</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FormField&gt;<sp/>comboBoxField<sp/>=<sp/>builder-&gt;InsertComboBox(u</highlight><highlight class="stringliteral">&quot;DropDown&quot;</highlight><highlight class="normal">,<sp/>items,<sp/>0);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;DropDownItemCollection&gt;<sp/>dropDownItems<sp/>=<sp/>comboBoxField-&gt;get_DropDownItems();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;One&quot;</highlight><highlight class="normal">,<sp/>dropDownItems-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>dropDownItems-&gt;IndexOf(u</highlight><highlight class="stringliteral">&quot;Two&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Three&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>adding<sp/>a<sp/>new<sp/>item<sp/>to<sp/>an<sp/>existing<sp/>collection<sp/>of<sp/>drop-down<sp/>box<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Append<sp/>an<sp/>item<sp/>to<sp/>the<sp/>end<sp/>of<sp/>the<sp/>collection:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Insert<sp/>an<sp/>item<sp/>before<sp/>another<sp/>item<sp/>at<sp/>a<sp/>specified<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Insert(3,<sp/>u</highlight><highlight class="stringliteral">&quot;Three<sp/>and<sp/>a<sp/>half&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Iterate<sp/>over<sp/>the<sp/>collection<sp/>and<sp/>print<sp/>every<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;String&gt;&gt;<sp/>dropDownCollectionEnumerator<sp/>=<sp/>dropDownItems-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(dropDownCollectionEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>dropDownCollectionEnumerator-&gt;get_Current()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>removing<sp/>elements<sp/>from<sp/>a<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Remove<sp/>an<sp/>item<sp/>with<sp/>contents<sp/>equal<sp/>to<sp/>the<sp/>passed<sp/>string:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Remove<sp/>an<sp/>item<sp/>at<sp/>an<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;RemoveAt(3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Three<sp/>and<sp/>a<sp/>half&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FormFields.DropDownItemCollection.html&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Empty<sp/>the<sp/>whole<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Clear();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="465" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a9ae761ba4933be6a36cd5fd6d56c86a8" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a8cc9626139243e004fdfdef3d37829d8" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::Fields::DropDownItemCollection::end</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>end</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::end</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="769" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a2cd99314ceaf96fd199e9b346f758928" prot="public" static="no" const="no" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1aec8ebb48ec92d0dcd95f05ad15dad074" kindref="member">iterator</ref></type>
+        <definition>iterator Aspose::Words::Fields::DropDownItemCollection::end</definition>
+        <argsstring>() noexcept</argsstring>
+        <name>end</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::end</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="765" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a67c65e4290e72838382d8545a209ac1b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Fields::DropDownItemCollection::get_Count</definition>
+        <argsstring>()</argsstring>
+        <name>get_Count</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::get_Count</qualifiedname>
+        <briefdescription>
+<para>Gets the number of elements contained in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a combo box field, and edit the elements in its item collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>combo<sp/>box,<sp/>and<sp/>then<sp/>verify<sp/>its<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>Microsoft<sp/>Word,<sp/>the<sp/>user<sp/>will<sp/>click<sp/>the<sp/>combo<sp/>box,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>choose<sp/>one<sp/>of<sp/>the<sp/>items<sp/>of<sp/>text<sp/>in<sp/>the<sp/>collection<sp/>to<sp/>display.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;String&gt;<sp/>items<sp/>=<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;One&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Two&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Three&quot;</highlight><highlight class="normal">});</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FormField&gt;<sp/>comboBoxField<sp/>=<sp/>builder-&gt;InsertComboBox(u</highlight><highlight class="stringliteral">&quot;DropDown&quot;</highlight><highlight class="normal">,<sp/>items,<sp/>0);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;DropDownItemCollection&gt;<sp/>dropDownItems<sp/>=<sp/>comboBoxField-&gt;get_DropDownItems();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;One&quot;</highlight><highlight class="normal">,<sp/>dropDownItems-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>dropDownItems-&gt;IndexOf(u</highlight><highlight class="stringliteral">&quot;Two&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Three&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>adding<sp/>a<sp/>new<sp/>item<sp/>to<sp/>an<sp/>existing<sp/>collection<sp/>of<sp/>drop-down<sp/>box<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Append<sp/>an<sp/>item<sp/>to<sp/>the<sp/>end<sp/>of<sp/>the<sp/>collection:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Insert<sp/>an<sp/>item<sp/>before<sp/>another<sp/>item<sp/>at<sp/>a<sp/>specified<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Insert(3,<sp/>u</highlight><highlight class="stringliteral">&quot;Three<sp/>and<sp/>a<sp/>half&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Iterate<sp/>over<sp/>the<sp/>collection<sp/>and<sp/>print<sp/>every<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;String&gt;&gt;<sp/>dropDownCollectionEnumerator<sp/>=<sp/>dropDownItems-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(dropDownCollectionEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>dropDownCollectionEnumerator-&gt;get_Current()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>removing<sp/>elements<sp/>from<sp/>a<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Remove<sp/>an<sp/>item<sp/>with<sp/>contents<sp/>equal<sp/>to<sp/>the<sp/>passed<sp/>string:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Remove<sp/>an<sp/>item<sp/>at<sp/>an<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;RemoveAt(3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Three<sp/>and<sp/>a<sp/>half&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FormFields.DropDownItemCollection.html&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Empty<sp/>the<sp/>whole<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Clear();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="172" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1ad87c74f7d6e6a166ca018f9f60363417" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &gt; &gt;</type>
+        <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::String &gt; &gt; Aspose::Words::Fields::DropDownItemCollection::GetEnumerator</definition>
+        <argsstring>() override</argsstring>
+        <name>GetEnumerator</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::GetEnumerator</qualifiedname>
+        <briefdescription>
+<para>Returns an enumerator object that can be used to iterate over all items in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a combo box field, and edit the elements in its item collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>combo<sp/>box,<sp/>and<sp/>then<sp/>verify<sp/>its<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>Microsoft<sp/>Word,<sp/>the<sp/>user<sp/>will<sp/>click<sp/>the<sp/>combo<sp/>box,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>choose<sp/>one<sp/>of<sp/>the<sp/>items<sp/>of<sp/>text<sp/>in<sp/>the<sp/>collection<sp/>to<sp/>display.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;String&gt;<sp/>items<sp/>=<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;One&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Two&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Three&quot;</highlight><highlight class="normal">});</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FormField&gt;<sp/>comboBoxField<sp/>=<sp/>builder-&gt;InsertComboBox(u</highlight><highlight class="stringliteral">&quot;DropDown&quot;</highlight><highlight class="normal">,<sp/>items,<sp/>0);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;DropDownItemCollection&gt;<sp/>dropDownItems<sp/>=<sp/>comboBoxField-&gt;get_DropDownItems();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;One&quot;</highlight><highlight class="normal">,<sp/>dropDownItems-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>dropDownItems-&gt;IndexOf(u</highlight><highlight class="stringliteral">&quot;Two&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Three&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>adding<sp/>a<sp/>new<sp/>item<sp/>to<sp/>an<sp/>existing<sp/>collection<sp/>of<sp/>drop-down<sp/>box<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Append<sp/>an<sp/>item<sp/>to<sp/>the<sp/>end<sp/>of<sp/>the<sp/>collection:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Insert<sp/>an<sp/>item<sp/>before<sp/>another<sp/>item<sp/>at<sp/>a<sp/>specified<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Insert(3,<sp/>u</highlight><highlight class="stringliteral">&quot;Three<sp/>and<sp/>a<sp/>half&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Iterate<sp/>over<sp/>the<sp/>collection<sp/>and<sp/>print<sp/>every<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;String&gt;&gt;<sp/>dropDownCollectionEnumerator<sp/>=<sp/>dropDownItems-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(dropDownCollectionEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>dropDownCollectionEnumerator-&gt;get_Current()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>removing<sp/>elements<sp/>from<sp/>a<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Remove<sp/>an<sp/>item<sp/>with<sp/>contents<sp/>equal<sp/>to<sp/>the<sp/>passed<sp/>string:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Remove<sp/>an<sp/>item<sp/>at<sp/>an<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;RemoveAt(3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Three<sp/>and<sp/>a<sp/>half&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FormFields.DropDownItemCollection.html&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Empty<sp/>the<sp/>whole<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Clear();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="343" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a67651f70b27f42ad735cbed1292426bb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::DropDownItemCollection::idx_get</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>idx_get</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::idx_get</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Gets or sets the element at the specified index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a combo box field, and edit the elements in its item collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>combo<sp/>box,<sp/>and<sp/>then<sp/>verify<sp/>its<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>Microsoft<sp/>Word,<sp/>the<sp/>user<sp/>will<sp/>click<sp/>the<sp/>combo<sp/>box,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>choose<sp/>one<sp/>of<sp/>the<sp/>items<sp/>of<sp/>text<sp/>in<sp/>the<sp/>collection<sp/>to<sp/>display.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;String&gt;<sp/>items<sp/>=<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;One&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Two&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Three&quot;</highlight><highlight class="normal">});</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FormField&gt;<sp/>comboBoxField<sp/>=<sp/>builder-&gt;InsertComboBox(u</highlight><highlight class="stringliteral">&quot;DropDown&quot;</highlight><highlight class="normal">,<sp/>items,<sp/>0);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;DropDownItemCollection&gt;<sp/>dropDownItems<sp/>=<sp/>comboBoxField-&gt;get_DropDownItems();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;One&quot;</highlight><highlight class="normal">,<sp/>dropDownItems-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>dropDownItems-&gt;IndexOf(u</highlight><highlight class="stringliteral">&quot;Two&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Three&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>adding<sp/>a<sp/>new<sp/>item<sp/>to<sp/>an<sp/>existing<sp/>collection<sp/>of<sp/>drop-down<sp/>box<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Append<sp/>an<sp/>item<sp/>to<sp/>the<sp/>end<sp/>of<sp/>the<sp/>collection:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Insert<sp/>an<sp/>item<sp/>before<sp/>another<sp/>item<sp/>at<sp/>a<sp/>specified<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Insert(3,<sp/>u</highlight><highlight class="stringliteral">&quot;Three<sp/>and<sp/>a<sp/>half&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Iterate<sp/>over<sp/>the<sp/>collection<sp/>and<sp/>print<sp/>every<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;String&gt;&gt;<sp/>dropDownCollectionEnumerator<sp/>=<sp/>dropDownItems-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(dropDownCollectionEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>dropDownCollectionEnumerator-&gt;get_Current()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>removing<sp/>elements<sp/>from<sp/>a<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Remove<sp/>an<sp/>item<sp/>with<sp/>contents<sp/>equal<sp/>to<sp/>the<sp/>passed<sp/>string:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Remove<sp/>an<sp/>item<sp/>at<sp/>an<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;RemoveAt(3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Three<sp/>and<sp/>a<sp/>half&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FormFields.DropDownItemCollection.html&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Empty<sp/>the<sp/>whole<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Clear();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="229" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a9932c6af1d4b5ab49c2ef4daec3b904f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::DropDownItemCollection::idx_set</definition>
+        <argsstring>(int32_t index, const System::String &amp;value)</argsstring>
+        <name>idx_set</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::idx_set</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Gets or sets the element at the specified index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a combo box field, and edit the elements in its item collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>combo<sp/>box,<sp/>and<sp/>then<sp/>verify<sp/>its<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>Microsoft<sp/>Word,<sp/>the<sp/>user<sp/>will<sp/>click<sp/>the<sp/>combo<sp/>box,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>choose<sp/>one<sp/>of<sp/>the<sp/>items<sp/>of<sp/>text<sp/>in<sp/>the<sp/>collection<sp/>to<sp/>display.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;String&gt;<sp/>items<sp/>=<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;One&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Two&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Three&quot;</highlight><highlight class="normal">});</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FormField&gt;<sp/>comboBoxField<sp/>=<sp/>builder-&gt;InsertComboBox(u</highlight><highlight class="stringliteral">&quot;DropDown&quot;</highlight><highlight class="normal">,<sp/>items,<sp/>0);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;DropDownItemCollection&gt;<sp/>dropDownItems<sp/>=<sp/>comboBoxField-&gt;get_DropDownItems();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;One&quot;</highlight><highlight class="normal">,<sp/>dropDownItems-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>dropDownItems-&gt;IndexOf(u</highlight><highlight class="stringliteral">&quot;Two&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Three&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>adding<sp/>a<sp/>new<sp/>item<sp/>to<sp/>an<sp/>existing<sp/>collection<sp/>of<sp/>drop-down<sp/>box<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Append<sp/>an<sp/>item<sp/>to<sp/>the<sp/>end<sp/>of<sp/>the<sp/>collection:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Insert<sp/>an<sp/>item<sp/>before<sp/>another<sp/>item<sp/>at<sp/>a<sp/>specified<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Insert(3,<sp/>u</highlight><highlight class="stringliteral">&quot;Three<sp/>and<sp/>a<sp/>half&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Iterate<sp/>over<sp/>the<sp/>collection<sp/>and<sp/>print<sp/>every<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;String&gt;&gt;<sp/>dropDownCollectionEnumerator<sp/>=<sp/>dropDownItems-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(dropDownCollectionEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>dropDownCollectionEnumerator-&gt;get_Current()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>removing<sp/>elements<sp/>from<sp/>a<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Remove<sp/>an<sp/>item<sp/>with<sp/>contents<sp/>equal<sp/>to<sp/>the<sp/>passed<sp/>string:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Remove<sp/>an<sp/>item<sp/>at<sp/>an<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;RemoveAt(3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Three<sp/>and<sp/>a<sp/>half&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FormFields.DropDownItemCollection.html&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Empty<sp/>the<sp/>whole<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Clear();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="286" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1af01d93aed1a81f3a4d8331cdf2b61cdd" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Fields::DropDownItemCollection::IndexOf</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>IndexOf</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::IndexOf</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Returns the zero-based index of the specified value in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>value</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The case-sensitive value to locate.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The zero based index. Negative value if not found.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a combo box field, and edit the elements in its item collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>combo<sp/>box,<sp/>and<sp/>then<sp/>verify<sp/>its<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>Microsoft<sp/>Word,<sp/>the<sp/>user<sp/>will<sp/>click<sp/>the<sp/>combo<sp/>box,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>choose<sp/>one<sp/>of<sp/>the<sp/>items<sp/>of<sp/>text<sp/>in<sp/>the<sp/>collection<sp/>to<sp/>display.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;String&gt;<sp/>items<sp/>=<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;One&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Two&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Three&quot;</highlight><highlight class="normal">});</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FormField&gt;<sp/>comboBoxField<sp/>=<sp/>builder-&gt;InsertComboBox(u</highlight><highlight class="stringliteral">&quot;DropDown&quot;</highlight><highlight class="normal">,<sp/>items,<sp/>0);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;DropDownItemCollection&gt;<sp/>dropDownItems<sp/>=<sp/>comboBoxField-&gt;get_DropDownItems();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;One&quot;</highlight><highlight class="normal">,<sp/>dropDownItems-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>dropDownItems-&gt;IndexOf(u</highlight><highlight class="stringliteral">&quot;Two&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Three&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>adding<sp/>a<sp/>new<sp/>item<sp/>to<sp/>an<sp/>existing<sp/>collection<sp/>of<sp/>drop-down<sp/>box<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Append<sp/>an<sp/>item<sp/>to<sp/>the<sp/>end<sp/>of<sp/>the<sp/>collection:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Insert<sp/>an<sp/>item<sp/>before<sp/>another<sp/>item<sp/>at<sp/>a<sp/>specified<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Insert(3,<sp/>u</highlight><highlight class="stringliteral">&quot;Three<sp/>and<sp/>a<sp/>half&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Iterate<sp/>over<sp/>the<sp/>collection<sp/>and<sp/>print<sp/>every<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;String&gt;&gt;<sp/>dropDownCollectionEnumerator<sp/>=<sp/>dropDownItems-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(dropDownCollectionEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>dropDownCollectionEnumerator-&gt;get_Current()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>removing<sp/>elements<sp/>from<sp/>a<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Remove<sp/>an<sp/>item<sp/>with<sp/>contents<sp/>equal<sp/>to<sp/>the<sp/>passed<sp/>string:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Remove<sp/>an<sp/>item<sp/>at<sp/>an<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;RemoveAt(3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Three<sp/>and<sp/>a<sp/>half&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FormFields.DropDownItemCollection.html&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Empty<sp/>the<sp/>whole<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Clear();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="526" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a1a7260656ff36d3985870d501af8b50f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::DropDownItemCollection::Insert</definition>
+        <argsstring>(int32_t index, const System::String &amp;value)</argsstring>
+        <name>Insert</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::Insert</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Inserts a string into the collection at the specified index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>index</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The zero-based index at which value is inserted. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>value</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The string to insert.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a combo box field, and edit the elements in its item collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>combo<sp/>box,<sp/>and<sp/>then<sp/>verify<sp/>its<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>Microsoft<sp/>Word,<sp/>the<sp/>user<sp/>will<sp/>click<sp/>the<sp/>combo<sp/>box,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>choose<sp/>one<sp/>of<sp/>the<sp/>items<sp/>of<sp/>text<sp/>in<sp/>the<sp/>collection<sp/>to<sp/>display.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;String&gt;<sp/>items<sp/>=<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;One&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Two&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Three&quot;</highlight><highlight class="normal">});</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FormField&gt;<sp/>comboBoxField<sp/>=<sp/>builder-&gt;InsertComboBox(u</highlight><highlight class="stringliteral">&quot;DropDown&quot;</highlight><highlight class="normal">,<sp/>items,<sp/>0);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;DropDownItemCollection&gt;<sp/>dropDownItems<sp/>=<sp/>comboBoxField-&gt;get_DropDownItems();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;One&quot;</highlight><highlight class="normal">,<sp/>dropDownItems-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>dropDownItems-&gt;IndexOf(u</highlight><highlight class="stringliteral">&quot;Two&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Three&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>adding<sp/>a<sp/>new<sp/>item<sp/>to<sp/>an<sp/>existing<sp/>collection<sp/>of<sp/>drop-down<sp/>box<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Append<sp/>an<sp/>item<sp/>to<sp/>the<sp/>end<sp/>of<sp/>the<sp/>collection:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Insert<sp/>an<sp/>item<sp/>before<sp/>another<sp/>item<sp/>at<sp/>a<sp/>specified<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Insert(3,<sp/>u</highlight><highlight class="stringliteral">&quot;Three<sp/>and<sp/>a<sp/>half&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Iterate<sp/>over<sp/>the<sp/>collection<sp/>and<sp/>print<sp/>every<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;String&gt;&gt;<sp/>dropDownCollectionEnumerator<sp/>=<sp/>dropDownItems-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(dropDownCollectionEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>dropDownCollectionEnumerator-&gt;get_Current()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>removing<sp/>elements<sp/>from<sp/>a<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Remove<sp/>an<sp/>item<sp/>with<sp/>contents<sp/>equal<sp/>to<sp/>the<sp/>passed<sp/>string:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Remove<sp/>an<sp/>item<sp/>at<sp/>an<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;RemoveAt(3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Three<sp/>and<sp/>a<sp/>half&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FormFields.DropDownItemCollection.html&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Empty<sp/>the<sp/>whole<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Clear();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="586" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a55ffbcbf81dde07b8f44796a95506ce0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::DropDownItemCollection::Remove</definition>
+        <argsstring>(const System::String &amp;name)</argsstring>
+        <name>Remove</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::Remove</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>name</declname>
+        </param>
+        <briefdescription>
+<para>Removes the specified value from the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>name</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The case-sensitive value to remove.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a combo box field, and edit the elements in its item collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>combo<sp/>box,<sp/>and<sp/>then<sp/>verify<sp/>its<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>Microsoft<sp/>Word,<sp/>the<sp/>user<sp/>will<sp/>click<sp/>the<sp/>combo<sp/>box,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>choose<sp/>one<sp/>of<sp/>the<sp/>items<sp/>of<sp/>text<sp/>in<sp/>the<sp/>collection<sp/>to<sp/>display.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;String&gt;<sp/>items<sp/>=<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;One&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Two&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Three&quot;</highlight><highlight class="normal">});</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FormField&gt;<sp/>comboBoxField<sp/>=<sp/>builder-&gt;InsertComboBox(u</highlight><highlight class="stringliteral">&quot;DropDown&quot;</highlight><highlight class="normal">,<sp/>items,<sp/>0);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;DropDownItemCollection&gt;<sp/>dropDownItems<sp/>=<sp/>comboBoxField-&gt;get_DropDownItems();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;One&quot;</highlight><highlight class="normal">,<sp/>dropDownItems-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>dropDownItems-&gt;IndexOf(u</highlight><highlight class="stringliteral">&quot;Two&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Three&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>adding<sp/>a<sp/>new<sp/>item<sp/>to<sp/>an<sp/>existing<sp/>collection<sp/>of<sp/>drop-down<sp/>box<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Append<sp/>an<sp/>item<sp/>to<sp/>the<sp/>end<sp/>of<sp/>the<sp/>collection:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Insert<sp/>an<sp/>item<sp/>before<sp/>another<sp/>item<sp/>at<sp/>a<sp/>specified<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Insert(3,<sp/>u</highlight><highlight class="stringliteral">&quot;Three<sp/>and<sp/>a<sp/>half&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Iterate<sp/>over<sp/>the<sp/>collection<sp/>and<sp/>print<sp/>every<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;String&gt;&gt;<sp/>dropDownCollectionEnumerator<sp/>=<sp/>dropDownItems-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(dropDownCollectionEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>dropDownCollectionEnumerator-&gt;get_Current()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>removing<sp/>elements<sp/>from<sp/>a<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Remove<sp/>an<sp/>item<sp/>with<sp/>contents<sp/>equal<sp/>to<sp/>the<sp/>passed<sp/>string:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Remove<sp/>an<sp/>item<sp/>at<sp/>an<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;RemoveAt(3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Three<sp/>and<sp/>a<sp/>half&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FormFields.DropDownItemCollection.html&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Empty<sp/>the<sp/>whole<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Clear();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="645" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1abd7a789c8216dd810ffd650731500731" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::DropDownItemCollection::RemoveAt</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>RemoveAt</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::RemoveAt</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Removes a value at the specified index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>index</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The zero based index.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a combo box field, and edit the elements in its item collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>combo<sp/>box,<sp/>and<sp/>then<sp/>verify<sp/>its<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>Microsoft<sp/>Word,<sp/>the<sp/>user<sp/>will<sp/>click<sp/>the<sp/>combo<sp/>box,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>choose<sp/>one<sp/>of<sp/>the<sp/>items<sp/>of<sp/>text<sp/>in<sp/>the<sp/>collection<sp/>to<sp/>display.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;String&gt;<sp/>items<sp/>=<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;One&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Two&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Three&quot;</highlight><highlight class="normal">});</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FormField&gt;<sp/>comboBoxField<sp/>=<sp/>builder-&gt;InsertComboBox(u</highlight><highlight class="stringliteral">&quot;DropDown&quot;</highlight><highlight class="normal">,<sp/>items,<sp/>0);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;DropDownItemCollection&gt;<sp/>dropDownItems<sp/>=<sp/>comboBoxField-&gt;get_DropDownItems();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;One&quot;</highlight><highlight class="normal">,<sp/>dropDownItems-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>dropDownItems-&gt;IndexOf(u</highlight><highlight class="stringliteral">&quot;Two&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Three&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>adding<sp/>a<sp/>new<sp/>item<sp/>to<sp/>an<sp/>existing<sp/>collection<sp/>of<sp/>drop-down<sp/>box<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Append<sp/>an<sp/>item<sp/>to<sp/>the<sp/>end<sp/>of<sp/>the<sp/>collection:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Insert<sp/>an<sp/>item<sp/>before<sp/>another<sp/>item<sp/>at<sp/>a<sp/>specified<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Insert(3,<sp/>u</highlight><highlight class="stringliteral">&quot;Three<sp/>and<sp/>a<sp/>half&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Iterate<sp/>over<sp/>the<sp/>collection<sp/>and<sp/>print<sp/>every<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;String&gt;&gt;<sp/>dropDownCollectionEnumerator<sp/>=<sp/>dropDownItems-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(dropDownCollectionEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>dropDownCollectionEnumerator-&gt;get_Current()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>removing<sp/>elements<sp/>from<sp/>a<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Remove<sp/>an<sp/>item<sp/>with<sp/>contents<sp/>equal<sp/>to<sp/>the<sp/>passed<sp/>string:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Remove<sp/>an<sp/>item<sp/>at<sp/>an<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;RemoveAt(3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Three<sp/>and<sp/>a<sp/>half&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FormFields.DropDownItemCollection.html&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Empty<sp/>the<sp/>whole<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Clear();</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="704" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1af1e2fdc01338a09749ddceb21a6ba19d" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1adbc3cd3c2b6e382089afec4105d7c501" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::Fields::DropDownItemCollection::virtualizeBeginConstIterator</definition>
+        <argsstring>() const override</argsstring>
+        <name>virtualizeBeginConstIterator</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::virtualizeBeginConstIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="779" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1acd0a75ff2c499882a171524d215cf672" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1adbc3cd3c2b6e382089afec4105d7c501" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::Fields::DropDownItemCollection::virtualizeBeginIterator</definition>
+        <argsstring>() override</argsstring>
+        <name>virtualizeBeginIterator</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::virtualizeBeginIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="775" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a1e296e88c1a0259640b51003ce802652" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1adbc3cd3c2b6e382089afec4105d7c501" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::Fields::DropDownItemCollection::virtualizeEndConstIterator</definition>
+        <argsstring>() const override</argsstring>
+        <name>virtualizeEndConstIterator</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::virtualizeEndConstIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="781" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1ac92bc969fbf163e8c5707e96bd0c2e62" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1adbc3cd3c2b6e382089afec4105d7c501" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::Fields::DropDownItemCollection::virtualizeEndIterator</definition>
+        <argsstring>() override</argsstring>
+        <name>virtualizeEndIterator</name>
+        <qualifiedname>Aspose::Words::Fields::DropDownItemCollection::virtualizeEndIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="777" column="29"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>A collection of strings that represent all the items in a drop-down form field. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_fields_1_1_form_field" kindref="compound">Aspose::Words::Fields::FormField</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_fields_1_1_form_field_1a2f0d1cecb5e9340a6054ab353b6d86ce" kindref="member">Aspose::Words::Fields::FormField::get_DropDownItems</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert a combo box field, and edit the elements in its item collection. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>combo<sp/>box,<sp/>and<sp/>then<sp/>verify<sp/>its<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>Microsoft<sp/>Word,<sp/>the<sp/>user<sp/>will<sp/>click<sp/>the<sp/>combo<sp/>box,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>then<sp/>choose<sp/>one<sp/>of<sp/>the<sp/>items<sp/>of<sp/>text<sp/>in<sp/>the<sp/>collection<sp/>to<sp/>display.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;String&gt;<sp/>items<sp/>=<sp/>MakeArray&lt;String&gt;({u</highlight><highlight class="stringliteral">&quot;One&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Two&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Three&quot;</highlight><highlight class="normal">});</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FormField&gt;<sp/>comboBoxField<sp/>=<sp/>builder-&gt;InsertComboBox(u</highlight><highlight class="stringliteral">&quot;DropDown&quot;</highlight><highlight class="normal">,<sp/>items,<sp/>0);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;DropDownItemCollection&gt;<sp/>dropDownItems<sp/>=<sp/>comboBoxField-&gt;get_DropDownItems();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;One&quot;</highlight><highlight class="normal">,<sp/>dropDownItems-&gt;idx_get(0));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>dropDownItems-&gt;IndexOf(u</highlight><highlight class="stringliteral">&quot;Two&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Three&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>adding<sp/>a<sp/>new<sp/>item<sp/>to<sp/>an<sp/>existing<sp/>collection<sp/>of<sp/>drop-down<sp/>box<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Append<sp/>an<sp/>item<sp/>to<sp/>the<sp/>end<sp/>of<sp/>the<sp/>collection:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Add(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Insert<sp/>an<sp/>item<sp/>before<sp/>another<sp/>item<sp/>at<sp/>a<sp/>specified<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Insert(3,<sp/>u</highlight><highlight class="stringliteral">&quot;Three<sp/>and<sp/>a<sp/>half&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Iterate<sp/>over<sp/>the<sp/>collection<sp/>and<sp/>print<sp/>every<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;String&gt;&gt;<sp/>dropDownCollectionEnumerator<sp/>=<sp/>dropDownItems-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(dropDownCollectionEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>dropDownCollectionEnumerator-&gt;get_Current()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>removing<sp/>elements<sp/>from<sp/>a<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Remove<sp/>an<sp/>item<sp/>with<sp/>contents<sp/>equal<sp/>to<sp/>the<sp/>passed<sp/>string:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Remove(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Remove<sp/>an<sp/>item<sp/>at<sp/>an<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;RemoveAt(3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>dropDownItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Three<sp/>and<sp/>a<sp/>half&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(dropDownItems-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Four&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FormFields.DropDownItemCollection.html&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Empty<sp/>the<sp/>whole<sp/>collection<sp/>of<sp/>drop-down<sp/>items.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">dropDownItems-&gt;Clear();</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Fields::DropDownItemCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::IComplexAttr</label>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; System::String &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Fields::DropDownItemCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::IComplexAttr</label>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; System::String &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" line="94" column="1" bodyfile="Aspose.Words.Cpp/Fields/DropDownItemCollection.h" bodystart="95" bodyend="799"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a00843ad27af291cb85265370864840dc" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>Add</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1ae10d971a4367479257b6e542c9ee25d3" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a375a65434a55237bb8d42a359307c88a" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1ae86cdb0ee60760f2a7351f646707729a" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>begin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a9bf1c968018db9134f69e0ddc058c447" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>begin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a06487d80c7c38c59133830e0a2825dac" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>cbegin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1abc5a7b21bed90849c2256414704ac32d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>cend</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a21acf11289df6c1a769fbc40acb33f74" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>Clear</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a8cc9626139243e004fdfdef3d37829d8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>const_iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1ad2e11eb42585acfd9cd7d0f3e53c1364" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>Contains</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1acc50dadd9c870737e375bf09bb8de245" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>DropDownItemCollection</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a2cd99314ceaf96fd199e9b346f758928" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>end</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a9ae761ba4933be6a36cd5fd6d56c86a8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>end</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a67c65e4290e72838382d8545a209ac1b" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1ad87c74f7d6e6a166ca018f9f60363417" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>GetEnumerator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a67651f70b27f42ad735cbed1292426bb" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>idx_get</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a9932c6af1d4b5ab49c2ef4daec3b904f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>idx_set</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1af01d93aed1a81f3a4d8331cdf2b61cdd" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>IndexOf</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a1a7260656ff36d3985870d501af8b50f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>Insert</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1aec8ebb48ec92d0dcd95f05ad15dad074" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a4aabc9128bc9966288b6e5d5767c3d05" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>iterator_holder_type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1abb098b7ddfe251a9bfd7ed40138e9211" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a55ffbcbf81dde07b8f44796a95506ce0" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1abd7a789c8216dd810ffd650731500731" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>RemoveAt</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a82ad22c0492ba93c02a222699faaa345" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1ad1a1de0abf7820032c8e0fa1c3925e4a" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1af272dbea5b02995746a4113ce85b8afd" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1af1e2fdc01338a09749ddceb21a6ba19d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>virtualizeBeginConstIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1acd0a75ff2c499882a171524d215cf672" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>virtualizeBeginIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1adbc3cd3c2b6e382089afec4105d7c501" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>virtualized_iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a92eb7ec0eefe1911dd3ff1314371be7c" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>virtualized_iterator_element</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a1e296e88c1a0259640b51003ce802652" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>virtualizeEndConstIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1ac92bc969fbf163e8c5707e96bd0c2e62" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>virtualizeEndIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_drop_down_item_collection_1a4d28dcdebcf4cf67ca456d493cc22662" prot="private" virt="virtual"><scope>Aspose::Words::Fields::DropDownItemCollection</scope><name>~DropDownItemCollection</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

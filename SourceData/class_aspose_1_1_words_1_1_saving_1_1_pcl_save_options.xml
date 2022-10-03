@@ -1,0 +1,458 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Saving::PclSaveOptions</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options" prot="public" virt="non-virtual">Aspose::Words::Saving::FixedPageSaveOptions</basecompoundref>
+    <includes refid="_pcl_save_options_8h" local="no">Aspose.Words.Cpp/Saving/PclSaveOptions.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1ab100fc938581e2aa0d0e6a11a36dd5fc" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options" kindref="compound">Aspose::Words::Saving::FixedPageSaveOptions</ref></type>
+        <definition>typedef Aspose::Words::Saving::FixedPageSaveOptions Aspose::Words::Saving::PclSaveOptions::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Saving::PclSaveOptions::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PclSaveOptions.h" line="40" column="57" bodyfile="Aspose.Words.Cpp/Saving/PclSaveOptions.h" bodystart="40" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1a855820af749bae21336060ce396c1f5c" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options" kindref="compound">PclSaveOptions</ref></type>
+        <definition>typedef PclSaveOptions Aspose::Words::Saving::PclSaveOptions::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Saving::PclSaveOptions::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PclSaveOptions.h" line="39" column="28" bodyfile="Aspose.Words.Cpp/Saving/PclSaveOptions.h" bodystart="39" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1aae4579358130c231f973e54e7f3a4930" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::PclSaveOptions::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Saving::PclSaveOptions::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PclSaveOptions.h" line="42" column="37" bodyfile="Aspose.Words.Cpp/Saving/PclSaveOptions.h" bodystart="42" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1a979e3f1af2a481c2e2d525541bafc4d3" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::PclSaveOptions::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Saving::PclSaveOptions::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PclSaveOptions.h" line="143" column="23" bodyfile="Aspose.Words.Cpp/Saving/PclSaveOptions.h" bodystart="143" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1ac0ef21cd0bb7336964fac81cc7043558" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::PclSaveOptions::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Saving::PclSaveOptions::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PclSaveOptions.h" line="144" column="23" bodyfile="Aspose.Words.Cpp/Saving/PclSaveOptions.h" bodystart="144" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1a58a28fe5b108d72528e3ca590519545d" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::PclSaveOptions::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Saving::PclSaveOptions::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PclSaveOptions.h" line="145" column="20" bodyfile="Aspose.Words.Cpp/Saving/PclSaveOptions.h" bodystart="145" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1abddc99293b60fe8053e42a579e171892" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::PclSaveOptions::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Saving::PclSaveOptions::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PclSaveOptions.h" line="43" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1a2e3a6c1b053a918b980ae28701093603" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::PclSaveOptions::PclSaveOptions</definition>
+        <argsstring>()</argsstring>
+        <name>PclSaveOptions</name>
+        <qualifiedname>Aspose::Words::Saving::PclSaveOptions::PclSaveOptions</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PclSaveOptions.h" line="137" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1a88b5a3c85141d8700c798440d9a9ad69" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::PclSaveOptions::AddPrinterFont</definition>
+        <argsstring>(const System::String &amp;fontFullName, const System::String &amp;fontPclName)</argsstring>
+        <name>AddPrinterFont</name>
+        <qualifiedname>Aspose::Words::Saving::PclSaveOptions::AddPrinterFont</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>fontFullName</declname>
+        </param>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>fontPclName</declname>
+        </param>
+        <briefdescription>
+<para>Adds information about font that is uploaded to the printer by manufacturer. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>fontFullName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Full name of the font (e.g. &quot;Times New Roman Bold Italic&quot;). </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>fontPclName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Name of the font that is used in Pcl document.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to get a printer to substitute all instances of a specific font with a different font. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Courier&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;PclSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;AddPrinterFont(u</highlight><highlight class="stringliteral">&quot;Courier<sp/>New&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Courier&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>printing<sp/>this<sp/>document,<sp/>the<sp/>printer<sp/>will<sp/>use<sp/>the<sp/>&quot;Courier<sp/>New&quot;<sp/>font</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>access<sp/>places<sp/>where<sp/>our<sp/>document<sp/>used<sp/>the<sp/>&quot;Courier&quot;<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PclSaveOptions.AddPrinterFont.pcl&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PclSaveOptions.h" line="135" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1aa67cb9943c3e806a244a704bf373a8fc" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::PclSaveOptions::get_FallbackFontName</definition>
+        <argsstring>() const</argsstring>
+        <name>get_FallbackFontName</name>
+        <qualifiedname>Aspose::Words::Saving::PclSaveOptions::get_FallbackFontName</qualifiedname>
+        <briefdescription>
+<para>Name of the font that will be used if no expected font is found in printer and built-in fonts collections. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to declare a font that a printer will apply to printed text as a substitute should its original font be unavailable. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Non-existent<sp/>font&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;PclSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_FallbackFontName(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>document<sp/>will<sp/>instruct<sp/>the<sp/>printer<sp/>to<sp/>apply<sp/>&quot;Times<sp/>New<sp/>Roman&quot;<sp/>to<sp/>the<sp/>text<sp/>with<sp/>the<sp/>missing<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Should<sp/>&quot;Times<sp/>New<sp/>Roman&quot;<sp/>also<sp/>be<sp/>unavailable,<sp/>the<sp/>printer<sp/>will<sp/>default<sp/>to<sp/>the<sp/>&quot;Arial&quot;<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PclSaveOptions.SetPrinterFont.pcl&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PclSaveOptions.h" line="108" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1ac9ef16526d178c036e6324b5a0a67a94" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Saving::PclSaveOptions::get_RasterizeTransformedElements</definition>
+        <argsstring>() const</argsstring>
+        <name>get_RasterizeTransformedElements</name>
+        <qualifiedname>Aspose::Words::Saving::PclSaveOptions::get_RasterizeTransformedElements</qualifiedname>
+        <briefdescription>
+<para>Gets or sets a value determining whether or not complex transformed elements should be rasterized before saving to PCL document. Default is <computeroutput>true</computeroutput>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to rasterize complex elements while saving a document to PCL. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;PclSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_SaveFormat(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a139c6a937ba664f770071388bcb1624b" kindref="member" tooltip="Saves the document in the PCL (Printer Control Language) format.">SaveFormat::Pcl</ref>);</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_RasterizeTransformedElements(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PclSaveOptions.RasterizeElements.pcl&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PclSaveOptions.h" line="83" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1ab20f31db4d6b819092971463826ae556" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" kindref="member">Aspose::Words::SaveFormat</ref></type>
+        <definition>Aspose::Words::SaveFormat Aspose::Words::Saving::PclSaveOptions::get_SaveFormat</definition>
+        <argsstring>() override</argsstring>
+        <name>get_SaveFormat</name>
+        <qualifiedname>Aspose::Words::Saving::PclSaveOptions::get_SaveFormat</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6df9e8d37cc7794640ea5c5932134253">get_SaveFormat</reimplements>
+        <briefdescription>
+<para>Specifies the format in which the document will be saved if this save options object is used. Can only be <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a139c6a937ba664f770071388bcb1624b" kindref="member">Pcl</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to rasterize complex elements while saving a document to PCL. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;PclSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_SaveFormat(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a139c6a937ba664f770071388bcb1624b" kindref="member" tooltip="Saves the document in the PCL (Printer Control Language) format.">SaveFormat::Pcl</ref>);</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_RasterizeTransformedElements(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PclSaveOptions.RasterizeElements.pcl&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PclSaveOptions.h" line="62" column="34"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1a720d19aebbf106165b07acfbae20a565" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::PclSaveOptions::set_FallbackFontName</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_FallbackFontName</name>
+        <qualifiedname>Aspose::Words::Saving::PclSaveOptions::set_FallbackFontName</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1aa67cb9943c3e806a244a704bf373a8fc" kindref="member">Aspose::Words::Saving::PclSaveOptions::get_FallbackFontName</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PclSaveOptions.h" line="111" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1abd12596fb433f3dc2f5667ec547a1475" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::PclSaveOptions::set_RasterizeTransformedElements</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_RasterizeTransformedElements</name>
+        <qualifiedname>Aspose::Words::Saving::PclSaveOptions::set_RasterizeTransformedElements</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1ac9ef16526d178c036e6324b5a0a67a94" kindref="member">Aspose::Words::Saving::PclSaveOptions::get_RasterizeTransformedElements</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PclSaveOptions.h" line="86" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1aa3cdb792ef1eaee92d4328fef0e4ef2d" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::PclSaveOptions::set_SaveFormat</definition>
+        <argsstring>(Aspose::Words::SaveFormat value) override</argsstring>
+        <name>set_SaveFormat</name>
+        <qualifiedname>Aspose::Words::Saving::PclSaveOptions::set_SaveFormat</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a75d9ec81ad960179eba172764d2c60b9">set_SaveFormat</reimplements>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" kindref="member">Aspose::Words::SaveFormat</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1ab20f31db4d6b819092971463826ae556" kindref="member">Aspose::Words::Saving::PclSaveOptions::get_SaveFormat</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/PclSaveOptions.h" line="65" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Can be used to specify additional options when saving a document into the <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a139c6a937ba664f770071388bcb1624b" kindref="member">Pcl</ref> format. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to rasterize complex elements while saving a document to PCL. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;PclSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_SaveFormat(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a139c6a937ba664f770071388bcb1624b" kindref="member" tooltip="Saves the document in the PCL (Printer Control Language) format.">SaveFormat::Pcl</ref>);</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_RasterizeTransformedElements(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PclSaveOptions.RasterizeElements.pcl&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Saving::FixedPageSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Saving::PclSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::Saving::SaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_save_options"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Saving::FixedPageSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Saving::PclSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::Saving::SaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_save_options"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Saving/PclSaveOptions.h" line="37" column="1" bodyfile="Aspose.Words.Cpp/Saving/PclSaveOptions.h" bodystart="38" bodyend="147"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1a88b5a3c85141d8700c798440d9a9ad69" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>AddPrinterFont</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1ab100fc938581e2aa0d0e6a11a36dd5fc" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a5f8b7264160980e775d0ebc2bb87ec6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>CreateSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a92aa5f878a1d0f3e06f620fd1376142f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>CreateSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a0957be75c5d5e6c01c685b589b706366" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>Equals</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9fecca2156a70f1834bd1c913a129d47" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_AllowEmbeddingPostScriptFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ac1a855cc8feceb3d1cbe331b282931ef" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_ColorMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab9a4c7be9e7070ecbd5248bf01535ef3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_CustomTimeZoneInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a327b0f9146d84c39d72f09dffb55970d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_DefaultTemplate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ac309d37b349e0fd18de204c4b3493113" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_Dml3DEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0ad6a41669029f8bcb5d56ccd8eb1f25" prot="public" virt="virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_DmlEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a40d3faab0e88622c6fac579bbc050772" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_DmlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1add57516835dfbc84b4ac55117e03a6a5" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_ExportGeneratorName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1aa67cb9943c3e806a244a704bf373a8fc" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_FallbackFontName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab3a4c36623e1cba81e21fb0c18fc27d6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a4032bbd708177dd64e3ba455a509e470" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_ImlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a97d6477b73da72eb08d9d68e61e464c6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_JpegQuality</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a00434e0916cf24f88a1cff9f4952bff3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_MemoryOptimization</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a9aa8454e978e8bc63738b7646e73496c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_MetafileRenderingOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a342c8937835bd912528d137767001e22" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_NumeralFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a5b5ba06ac381a275da60e5f7bfaf0fec" prot="public" virt="virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_OptimizeOutput</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a946c829e55d34cdc9b730134b0569fd5" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_PageSavingCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ae5425719ba374cba63e3262e18f285eb" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_PageSet</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1af3590697cf94e5b1f546536a3bb20089" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_PrettyFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aabbd691992af320129ecf001454428b1" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1ac9ef16526d178c036e6324b5a0a67a94" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_RasterizeTransformedElements</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1ab20f31db4d6b819092971463826ae556" prot="public" virt="virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_SaveFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2eb22d168e7885c69f1a5ee73dfa9a9c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aafd986a59939576b688baf70ae2982b9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_UpdateCreatedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9058403d0bf8ef363c7265927c7d9689" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_UpdateFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ae00124e73b7ed35821a822f59a98456d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_UpdateLastPrintedProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aa37a14113e46f96d6a4100f33dbb41cd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_UpdateLastSavedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6ba4c67d7befc1d3959119554bc6ca0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_UpdateSdtContent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ac07a919eda7dd3104c3539643caab82f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_UseAntiAliasing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a926127b8a13db96c893d2e327d1ac458" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>get_UseHighQualityRendering</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1a979e3f1af2a481c2e2d525541bafc4d3" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1ac0ef21cd0bb7336964fac81cc7043558" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1a58a28fe5b108d72528e3ca590519545d" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1a2e3a6c1b053a918b980ae28701093603" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>PclSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1abddc99293b60fe8053e42a579e171892" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9bf0591a869b2046558fac161fb5c8b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_AllowEmbeddingPostScriptFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a1374624908c0c4ca45b73f9974787de8" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_ColorMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a70292d5b6ed5dd4ed81ab6779ada5037" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_CustomTimeZoneInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6d50c71651e23523dd4edae9c8e03b0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_DefaultTemplate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a52f28c6f920bd4829f304f586dd52a4e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_Dml3DEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0415bb8f17f114f5b8bfbf77822f3e33" prot="public" virt="virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_DmlEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a925282153c1c7004637ce406968cd6bd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_DmlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2b3bada9094a54559b832d5051f5be6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_ExportGeneratorName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1a720d19aebbf106165b07acfbae20a565" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_FallbackFontName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f2f79ea57714961156f913867823fc2" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afe2fd3cb5119a04f528a9da4b6c643b6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_ImlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1af228e06a02d9af4afd279a5cba926e0c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_JpegQuality</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1b432af0d799842b6939005904d924b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_MemoryOptimization</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a1b8abe12e2961656a28d0be53c60feef" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_MetafileRenderingOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1adb586e7d583e068e2823237d0ae2617e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_NumeralFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a11799e324c1e6fe42583f49e697690b9" prot="public" virt="virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_OptimizeOutput</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ac9c030c94c0c536539a1f725fa70be77" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_PageSavingCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a0b9356a6ec3e79daa4a976f9ae1eb7ca" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_PageSet</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0333c9e934c7b7066c108975a65291c9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_PrettyFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3ca5c36f7f1922b1f7b1f6e8528e29c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1abd12596fb433f3dc2f5667ec547a1475" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_RasterizeTransformedElements</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1aa3cdb792ef1eaee92d4328fef0e4ef2d" prot="public" virt="virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_SaveFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a7488c6e1d35b21dda1fb3a6b24eb077c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aa6b3c59d2b5d93ecd4af333e7731a57a" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_UpdateCreatedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1ca0e9e7685d9cfdacad9b0c1c47fede" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_UpdateFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9253b0a7481cec6751f2d6e186d15f89" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_UpdateLastPrintedProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f8626f9e2fdd5ea38f656ecffea4433" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_UpdateLastSavedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afc31fd439351d75447554d3196522687" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_UpdateSdtContent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aee6a47d5aa51895c89fb99333990b15c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_UseAntiAliasing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aadd8de8195c06388cf619673c020dad3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>set_UseHighQualityRendering</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1a855820af749bae21336060ce396c1f5c" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options_1aae4579358130c231f973e54e7f3a4930" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::PclSaveOptions</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

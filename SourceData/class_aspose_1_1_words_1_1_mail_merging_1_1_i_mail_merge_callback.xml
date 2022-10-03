@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_mail_merging_1_1_i_mail_merge_callback" kind="interface" language="C++" prot="public" abstract="yes">
+    <compoundname>Aspose::Words::MailMerging::IMailMergeCallback</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_i_mail_merge_callback_8h" local="no">Aspose.Words.Cpp/MailMerging/IMailMergeCallback.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_i_mail_merge_callback_1a79091228223d2837765e81ab266020a8" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::MailMerging::IMailMergeCallback::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::MailMerging::IMailMergeCallback::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/IMailMergeCallback.h" line="26" column="28" bodyfile="Aspose.Words.Cpp/MailMerging/IMailMergeCallback.h" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_i_mail_merge_callback_1a7fe9f5988e1f66cc05cb9953545ef52a" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_i_mail_merge_callback" kindref="compound">IMailMergeCallback</ref></type>
+        <definition>typedef IMailMergeCallback Aspose::Words::MailMerging::IMailMergeCallback::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::MailMerging::IMailMergeCallback::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/IMailMergeCallback.h" line="25" column="32" bodyfile="Aspose.Words.Cpp/MailMerging/IMailMergeCallback.h" bodystart="25" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_i_mail_merge_callback_1ad3c8518f8127d9f4a606725262fd3bec" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::MailMerging::IMailMergeCallback::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::MailMerging::IMailMergeCallback::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/IMailMergeCallback.h" line="28" column="37" bodyfile="Aspose.Words.Cpp/MailMerging/IMailMergeCallback.h" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_i_mail_merge_callback_1a6bd8c7d4c81fa4c92794f5713e8f245e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::MailMerging::IMailMergeCallback::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::MailMerging::IMailMergeCallback::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/IMailMergeCallback.h" line="29" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_i_mail_merge_callback_1a0da229961fad683dc02c9e4fad99e538" prot="public" static="no" const="no" explicit="no" inline="no" virt="pure-virtual">
+        <type>void</type>
+        <definition>virtual void Aspose::Words::MailMerging::IMailMergeCallback::TagsReplaced</definition>
+        <argsstring>()=0</argsstring>
+        <name>TagsReplaced</name>
+        <qualifiedname>Aspose::Words::MailMerging::IMailMergeCallback::TagsReplaced</qualifiedname>
+        <briefdescription>
+<para>Called when &quot;mustache&quot; text tags are replaced with MERGEFIELD fields. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge_1aea8deedf72521e831ea508ce04c6f0ac" kindref="member">Aspose::Words::MailMerging::MailMerge::get_UseNonMergeFields</ref> </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/IMailMergeCallback.h" line="36" column="18"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implement this interface if you want to receive notifications while mail merge is performed. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::MailMerging::IMailMergeCallback</label>
+        <link refid="class_aspose_1_1_words_1_1_mail_merging_1_1_i_mail_merge_callback"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::MailMerging::IMailMergeCallback</label>
+        <link refid="class_aspose_1_1_words_1_1_mail_merging_1_1_i_mail_merge_callback"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/MailMerging/IMailMergeCallback.h" line="23" column="1" bodyfile="Aspose.Words.Cpp/MailMerging/IMailMergeCallback.h" bodystart="24" bodyend="38"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_i_mail_merge_callback_1a79091228223d2837765e81ab266020a8" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::IMailMergeCallback</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_i_mail_merge_callback_1a6bd8c7d4c81fa4c92794f5713e8f245e" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::IMailMergeCallback</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_i_mail_merge_callback_1a0da229961fad683dc02c9e4fad99e538" prot="public" virt="pure-virtual"><scope>Aspose::Words::MailMerging::IMailMergeCallback</scope><name>TagsReplaced</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_i_mail_merge_callback_1a7fe9f5988e1f66cc05cb9953545ef52a" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::IMailMergeCallback</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_i_mail_merge_callback_1ad3c8518f8127d9f4a606725262fd3bec" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::IMailMergeCallback</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

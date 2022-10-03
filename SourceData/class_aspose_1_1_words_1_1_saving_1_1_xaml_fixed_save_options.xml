@@ -1,0 +1,696 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Saving::XamlFixedSaveOptions</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options" prot="public" virt="non-virtual">Aspose::Words::Saving::FixedPageSaveOptions</basecompoundref>
+    <includes refid="_xaml_fixed_save_options_8h" local="no">Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1aeb0c826b0e33556bd5f98dc18d007799" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options" kindref="compound">Aspose::Words::Saving::FixedPageSaveOptions</ref></type>
+        <definition>typedef Aspose::Words::Saving::FixedPageSaveOptions Aspose::Words::Saving::XamlFixedSaveOptions::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Saving::XamlFixedSaveOptions::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h" line="108" column="57" bodyfile="Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h" bodystart="108" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1af44d95df1cd220bd541adf78bb22d856" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options" kindref="compound">XamlFixedSaveOptions</ref></type>
+        <definition>typedef XamlFixedSaveOptions Aspose::Words::Saving::XamlFixedSaveOptions::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Saving::XamlFixedSaveOptions::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h" line="107" column="34" bodyfile="Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h" bodystart="107" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1adb587c91d971012f3f36aa8c7ef5b4e8" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::XamlFixedSaveOptions::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Saving::XamlFixedSaveOptions::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h" line="110" column="37" bodyfile="Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h" bodystart="110" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a6837afe06739dd51489a06a474da4065" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::XamlFixedSaveOptions::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Saving::XamlFixedSaveOptions::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h" line="440" column="20" bodyfile="Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h" bodystart="440" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a3e0295a0a3135b1ca0b39a16c9ee468d" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::XamlFixedSaveOptions::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Saving::XamlFixedSaveOptions::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h" line="441" column="20" bodyfile="Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h" bodystart="441" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1aa202f8a07537e5aeb72b07759af81752" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::XamlFixedSaveOptions::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Saving::XamlFixedSaveOptions::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h" line="442" column="23" bodyfile="Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h" bodystart="442" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1ad319b3e031f9d1abea07d06621a67c6b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::XamlFixedSaveOptions::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Saving::XamlFixedSaveOptions::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h" line="111" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1ae5f0aa3e1d4c16c1f9e03584fb03e43b" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_i_resource_saving_callback" kindref="compound">Aspose::Words::Saving::IResourceSavingCallback</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Saving::IResourceSavingCallback &gt; Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourceSavingCallback</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ResourceSavingCallback</name>
+        <qualifiedname>Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourceSavingCallback</qualifiedname>
+        <briefdescription>
+<para>Allows to control how resources (images and fonts) are saved when a document is exported to fixed page Xaml format. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to print the URIs of linked resources created while converting a document to fixed-form .xaml. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceFolder()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>callback<sp/>=<sp/>MakeObject&lt;ExXamlFixedSaveOptions::ResourceUriPrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;XamlFixedSaveOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>save<sp/>the<sp/>document<sp/>to<sp/>the<sp/>XAML<sp/>save<sp/>format.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;XamlFixedSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847aa4a3152b2b881ea6e62172dc65b471b7" kindref="member" tooltip="Saves the document in the Extensible Application Markup Language (XAML) format as a fixed document.">SaveFormat::XamlFixed</ref>,<sp/>options-&gt;get_SaveFormat());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;ResourcesFolder&quot;<sp/>property<sp/>to<sp/>assign<sp/>a<sp/>folder<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system<sp/>into<sp/>which</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Aspose.Words<sp/>will<sp/>save<sp/>all<sp/>the<sp/>document&apos;s<sp/>linked<sp/>resources,<sp/>such<sp/>as<sp/>images<sp/>and<sp/>fonts.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourcesFolder(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;XamlFixedResourceFolder&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;ResourcesFolderAlias&quot;<sp/>property<sp/>to<sp/>use<sp/>this<sp/>folder</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>when<sp/>constructing<sp/>image<sp/>URIs<sp/>instead<sp/>of<sp/>the<sp/>resources<sp/>folder&apos;s<sp/>name.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourcesFolderAlias(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;XamlFixedFolderAlias&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourceSavingCallback(callback);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>folder<sp/>specified<sp/>by<sp/>&quot;ResourcesFolderAlias&quot;<sp/>will<sp/>need<sp/>to<sp/>contain<sp/>the<sp/>resources<sp/>instead<sp/>of<sp/>&quot;ResourcesFolder&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>must<sp/>ensure<sp/>the<sp/>folder<sp/>exists<sp/>before<sp/>the<sp/>callback&apos;s<sp/>streams<sp/>can<sp/>put<sp/>their<sp/>resources<sp/>into<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;XamlFixedSaveOptions.ResourceFolder.xaml&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>resource<sp/>:<sp/>callback-&gt;get_Resources())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>resource<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">ResourceUriPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IResourceSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::List&lt;String&gt;&gt;<sp/>get_Resources()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>pr_Resources;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ResourceUriPrinter()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>pr_Resources<sp/>=<sp/>MakeObject&lt;System::Collections::Generic::List&lt;String&gt;&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::List&lt;String&gt;&gt;<sp/>pr_Resources;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceSaving(SharedPtr&lt;ResourceSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>get_Resources()-&gt;Add(String::Format(u</highlight><highlight class="stringliteral">&quot;Resource<sp/>\&quot;{0}\&quot;\n\t{1}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_ResourceFileName(),<sp/>args-&gt;get_ResourceFileUri()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>specified<sp/>a<sp/>resource<sp/>folder<sp/>alias,<sp/>we<sp/>would<sp/>also<sp/>need</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>redirect<sp/>each<sp/>stream<sp/>to<sp/>put<sp/>its<sp/>resource<sp/>in<sp/>the<sp/>alias<sp/>folder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ResourceStream(MakeObject&lt;System::IO::FileStream&gt;(args-&gt;get_ResourceFileUri(),<sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_KeepResourceStreamOpen(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h" line="431" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a3c292b94570d8203c7c181f67f187740" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourcesFolder</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ResourcesFolder</name>
+        <qualifiedname>Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourcesFolder</qualifiedname>
+        <briefdescription>
+<para>Specifies the physical folder where resources (images and fonts) are saved when exporting a document to fixed page Xaml format. Default is <computeroutput>null</computeroutput>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>When you save a <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Document</ref> in fixed page Xaml format, Aspose.Words needs to save all images embedded in the document as standalone files. <ref refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a3c292b94570d8203c7c181f67f187740" kindref="member">ResourcesFolder</ref> allows you to specify where the images will be saved and <ref refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a5e1dec90b617a6be998148c86b4b6143" kindref="member">ResourcesFolderAlias</ref> allows to specify how the image URIs will be constructed.</para>
+<para>If you save a document into a file and provide a file name, Aspose.Words, by default, saves the images in the same folder where the document file is saved. Use <ref refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a3c292b94570d8203c7c181f67f187740" kindref="member">ResourcesFolder</ref> to override this behavior.</para>
+<para>If you save a document into a stream, Aspose.Words does not have a folder where to save the images, but still needs to save the images somewhere. In this case, you need to specify an accessible folder by using the <ref refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a3c292b94570d8203c7c181f67f187740" kindref="member">ResourcesFolder</ref> property</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a5e1dec90b617a6be998148c86b4b6143" kindref="member">Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourcesFolderAlias</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to print the URIs of linked resources created while converting a document to fixed-form .xaml. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceFolder()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>callback<sp/>=<sp/>MakeObject&lt;ExXamlFixedSaveOptions::ResourceUriPrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;XamlFixedSaveOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>save<sp/>the<sp/>document<sp/>to<sp/>the<sp/>XAML<sp/>save<sp/>format.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;XamlFixedSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847aa4a3152b2b881ea6e62172dc65b471b7" kindref="member" tooltip="Saves the document in the Extensible Application Markup Language (XAML) format as a fixed document.">SaveFormat::XamlFixed</ref>,<sp/>options-&gt;get_SaveFormat());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;ResourcesFolder&quot;<sp/>property<sp/>to<sp/>assign<sp/>a<sp/>folder<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system<sp/>into<sp/>which</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Aspose.Words<sp/>will<sp/>save<sp/>all<sp/>the<sp/>document&apos;s<sp/>linked<sp/>resources,<sp/>such<sp/>as<sp/>images<sp/>and<sp/>fonts.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourcesFolder(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;XamlFixedResourceFolder&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;ResourcesFolderAlias&quot;<sp/>property<sp/>to<sp/>use<sp/>this<sp/>folder</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>when<sp/>constructing<sp/>image<sp/>URIs<sp/>instead<sp/>of<sp/>the<sp/>resources<sp/>folder&apos;s<sp/>name.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourcesFolderAlias(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;XamlFixedFolderAlias&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourceSavingCallback(callback);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>folder<sp/>specified<sp/>by<sp/>&quot;ResourcesFolderAlias&quot;<sp/>will<sp/>need<sp/>to<sp/>contain<sp/>the<sp/>resources<sp/>instead<sp/>of<sp/>&quot;ResourcesFolder&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>must<sp/>ensure<sp/>the<sp/>folder<sp/>exists<sp/>before<sp/>the<sp/>callback&apos;s<sp/>streams<sp/>can<sp/>put<sp/>their<sp/>resources<sp/>into<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;XamlFixedSaveOptions.ResourceFolder.xaml&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>resource<sp/>:<sp/>callback-&gt;get_Resources())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>resource<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">ResourceUriPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IResourceSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::List&lt;String&gt;&gt;<sp/>get_Resources()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>pr_Resources;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ResourceUriPrinter()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>pr_Resources<sp/>=<sp/>MakeObject&lt;System::Collections::Generic::List&lt;String&gt;&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::List&lt;String&gt;&gt;<sp/>pr_Resources;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceSaving(SharedPtr&lt;ResourceSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>get_Resources()-&gt;Add(String::Format(u</highlight><highlight class="stringliteral">&quot;Resource<sp/>\&quot;{0}\&quot;\n\t{1}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_ResourceFileName(),<sp/>args-&gt;get_ResourceFileUri()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>specified<sp/>a<sp/>resource<sp/>folder<sp/>alias,<sp/>we<sp/>would<sp/>also<sp/>need</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>redirect<sp/>each<sp/>stream<sp/>to<sp/>put<sp/>its<sp/>resource<sp/>in<sp/>the<sp/>alias<sp/>folder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ResourceStream(MakeObject&lt;System::IO::FileStream&gt;(args-&gt;get_ResourceFileUri(),<sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_KeepResourceStreamOpen(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h" line="275" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a5e1dec90b617a6be998148c86b4b6143" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourcesFolderAlias</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ResourcesFolderAlias</name>
+        <qualifiedname>Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourcesFolderAlias</qualifiedname>
+        <briefdescription>
+<para>Specifies the name of the folder used to construct image URIs written into an fixed page Xaml document. Default is <computeroutput>null</computeroutput>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>When you save a <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Document</ref> in fixed page Xaml format, Aspose.Words needs to save all images embedded in the document as standalone files. <ref refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a3c292b94570d8203c7c181f67f187740" kindref="member">ResourcesFolder</ref> allows you to specify where the images will be saved and <ref refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a5e1dec90b617a6be998148c86b4b6143" kindref="member">ResourcesFolderAlias</ref> allows to specify how the image URIs will be constructed.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a3c292b94570d8203c7c181f67f187740" kindref="member">Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourcesFolder</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to print the URIs of linked resources created while converting a document to fixed-form .xaml. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceFolder()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>callback<sp/>=<sp/>MakeObject&lt;ExXamlFixedSaveOptions::ResourceUriPrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;XamlFixedSaveOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>save<sp/>the<sp/>document<sp/>to<sp/>the<sp/>XAML<sp/>save<sp/>format.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;XamlFixedSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847aa4a3152b2b881ea6e62172dc65b471b7" kindref="member" tooltip="Saves the document in the Extensible Application Markup Language (XAML) format as a fixed document.">SaveFormat::XamlFixed</ref>,<sp/>options-&gt;get_SaveFormat());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;ResourcesFolder&quot;<sp/>property<sp/>to<sp/>assign<sp/>a<sp/>folder<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system<sp/>into<sp/>which</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Aspose.Words<sp/>will<sp/>save<sp/>all<sp/>the<sp/>document&apos;s<sp/>linked<sp/>resources,<sp/>such<sp/>as<sp/>images<sp/>and<sp/>fonts.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourcesFolder(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;XamlFixedResourceFolder&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;ResourcesFolderAlias&quot;<sp/>property<sp/>to<sp/>use<sp/>this<sp/>folder</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>when<sp/>constructing<sp/>image<sp/>URIs<sp/>instead<sp/>of<sp/>the<sp/>resources<sp/>folder&apos;s<sp/>name.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourcesFolderAlias(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;XamlFixedFolderAlias&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourceSavingCallback(callback);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>folder<sp/>specified<sp/>by<sp/>&quot;ResourcesFolderAlias&quot;<sp/>will<sp/>need<sp/>to<sp/>contain<sp/>the<sp/>resources<sp/>instead<sp/>of<sp/>&quot;ResourcesFolder&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>must<sp/>ensure<sp/>the<sp/>folder<sp/>exists<sp/>before<sp/>the<sp/>callback&apos;s<sp/>streams<sp/>can<sp/>put<sp/>their<sp/>resources<sp/>into<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;XamlFixedSaveOptions.ResourceFolder.xaml&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>resource<sp/>:<sp/>callback-&gt;get_Resources())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>resource<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">ResourceUriPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IResourceSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::List&lt;String&gt;&gt;<sp/>get_Resources()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>pr_Resources;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ResourceUriPrinter()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>pr_Resources<sp/>=<sp/>MakeObject&lt;System::Collections::Generic::List&lt;String&gt;&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::List&lt;String&gt;&gt;<sp/>pr_Resources;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceSaving(SharedPtr&lt;ResourceSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>get_Resources()-&gt;Add(String::Format(u</highlight><highlight class="stringliteral">&quot;Resource<sp/>\&quot;{0}\&quot;\n\t{1}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_ResourceFileName(),<sp/>args-&gt;get_ResourceFileUri()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>specified<sp/>a<sp/>resource<sp/>folder<sp/>alias,<sp/>we<sp/>would<sp/>also<sp/>need</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>redirect<sp/>each<sp/>stream<sp/>to<sp/>put<sp/>its<sp/>resource<sp/>in<sp/>the<sp/>alias<sp/>folder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ResourceStream(MakeObject&lt;System::IO::FileStream&gt;(args-&gt;get_ResourceFileUri(),<sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_KeepResourceStreamOpen(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h" line="357" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a06502119288a6cb9b06e6bfba58422e7" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" kindref="member">Aspose::Words::SaveFormat</ref></type>
+        <definition>Aspose::Words::SaveFormat Aspose::Words::Saving::XamlFixedSaveOptions::get_SaveFormat</definition>
+        <argsstring>() override</argsstring>
+        <name>get_SaveFormat</name>
+        <qualifiedname>Aspose::Words::Saving::XamlFixedSaveOptions::get_SaveFormat</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6df9e8d37cc7794640ea5c5932134253">get_SaveFormat</reimplements>
+        <briefdescription>
+<para>Specifies the format in which the document will be saved if this save options object is used. Can only be <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847aa4a3152b2b881ea6e62172dc65b471b7" kindref="member">XamlFixed</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to print the URIs of linked resources created while converting a document to fixed-form .xaml. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceFolder()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>callback<sp/>=<sp/>MakeObject&lt;ExXamlFixedSaveOptions::ResourceUriPrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;XamlFixedSaveOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>save<sp/>the<sp/>document<sp/>to<sp/>the<sp/>XAML<sp/>save<sp/>format.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;XamlFixedSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847aa4a3152b2b881ea6e62172dc65b471b7" kindref="member" tooltip="Saves the document in the Extensible Application Markup Language (XAML) format as a fixed document.">SaveFormat::XamlFixed</ref>,<sp/>options-&gt;get_SaveFormat());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;ResourcesFolder&quot;<sp/>property<sp/>to<sp/>assign<sp/>a<sp/>folder<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system<sp/>into<sp/>which</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Aspose.Words<sp/>will<sp/>save<sp/>all<sp/>the<sp/>document&apos;s<sp/>linked<sp/>resources,<sp/>such<sp/>as<sp/>images<sp/>and<sp/>fonts.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourcesFolder(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;XamlFixedResourceFolder&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;ResourcesFolderAlias&quot;<sp/>property<sp/>to<sp/>use<sp/>this<sp/>folder</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>when<sp/>constructing<sp/>image<sp/>URIs<sp/>instead<sp/>of<sp/>the<sp/>resources<sp/>folder&apos;s<sp/>name.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourcesFolderAlias(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;XamlFixedFolderAlias&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourceSavingCallback(callback);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>folder<sp/>specified<sp/>by<sp/>&quot;ResourcesFolderAlias&quot;<sp/>will<sp/>need<sp/>to<sp/>contain<sp/>the<sp/>resources<sp/>instead<sp/>of<sp/>&quot;ResourcesFolder&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>must<sp/>ensure<sp/>the<sp/>folder<sp/>exists<sp/>before<sp/>the<sp/>callback&apos;s<sp/>streams<sp/>can<sp/>put<sp/>their<sp/>resources<sp/>into<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;XamlFixedSaveOptions.ResourceFolder.xaml&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>resource<sp/>:<sp/>callback-&gt;get_Resources())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>resource<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">ResourceUriPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IResourceSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::List&lt;String&gt;&gt;<sp/>get_Resources()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>pr_Resources;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ResourceUriPrinter()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>pr_Resources<sp/>=<sp/>MakeObject&lt;System::Collections::Generic::List&lt;String&gt;&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::List&lt;String&gt;&gt;<sp/>pr_Resources;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceSaving(SharedPtr&lt;ResourceSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>get_Resources()-&gt;Add(String::Format(u</highlight><highlight class="stringliteral">&quot;Resource<sp/>\&quot;{0}\&quot;\n\t{1}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_ResourceFileName(),<sp/>args-&gt;get_ResourceFileUri()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>specified<sp/>a<sp/>resource<sp/>folder<sp/>alias,<sp/>we<sp/>would<sp/>also<sp/>need</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>redirect<sp/>each<sp/>stream<sp/>to<sp/>put<sp/>its<sp/>resource<sp/>in<sp/>the<sp/>alias<sp/>folder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ResourceStream(MakeObject&lt;System::IO::FileStream&gt;(args-&gt;get_ResourceFileUri(),<sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_KeepResourceStreamOpen(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h" line="185" column="34"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1aec13708405035936904143b84a3e9c5f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::XamlFixedSaveOptions::set_ResourceSavingCallback</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Saving::IResourceSavingCallback &gt; &amp;value)</argsstring>
+        <name>set_ResourceSavingCallback</name>
+        <qualifiedname>Aspose::Words::Saving::XamlFixedSaveOptions::set_ResourceSavingCallback</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_i_resource_saving_callback" kindref="compound">Aspose::Words::Saving::IResourceSavingCallback</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1ae5f0aa3e1d4c16c1f9e03584fb03e43b" kindref="member">Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourceSavingCallback</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h" line="434" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a718ce59ce3d27294fc77b3e66a399324" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::XamlFixedSaveOptions::set_ResourcesFolder</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ResourcesFolder</name>
+        <qualifiedname>Aspose::Words::Saving::XamlFixedSaveOptions::set_ResourcesFolder</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a3c292b94570d8203c7c181f67f187740" kindref="member">Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourcesFolder</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h" line="278" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a04792bcb4a42e9bf37bbb1e3b531d531" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::XamlFixedSaveOptions::set_ResourcesFolderAlias</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ResourcesFolderAlias</name>
+        <qualifiedname>Aspose::Words::Saving::XamlFixedSaveOptions::set_ResourcesFolderAlias</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a5e1dec90b617a6be998148c86b4b6143" kindref="member">Aspose::Words::Saving::XamlFixedSaveOptions::get_ResourcesFolderAlias</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h" line="360" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a939f70c4d7d6fea2307b5efebb031cd9" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::XamlFixedSaveOptions::set_SaveFormat</definition>
+        <argsstring>(Aspose::Words::SaveFormat value) override</argsstring>
+        <name>set_SaveFormat</name>
+        <qualifiedname>Aspose::Words::Saving::XamlFixedSaveOptions::set_SaveFormat</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a75d9ec81ad960179eba172764d2c60b9">set_SaveFormat</reimplements>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" kindref="member">Aspose::Words::SaveFormat</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a06502119288a6cb9b06e6bfba58422e7" kindref="member">Aspose::Words::Saving::XamlFixedSaveOptions::get_SaveFormat</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h" line="188" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Can be used to specify additional options when saving a document into the <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847aa4a3152b2b881ea6e62172dc65b471b7" kindref="member">XamlFixed</ref> format. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to print the URIs of linked resources created while converting a document to fixed-form .xaml. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceFolder()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>callback<sp/>=<sp/>MakeObject&lt;ExXamlFixedSaveOptions::ResourceUriPrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;XamlFixedSaveOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>save<sp/>the<sp/>document<sp/>to<sp/>the<sp/>XAML<sp/>save<sp/>format.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;XamlFixedSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847aa4a3152b2b881ea6e62172dc65b471b7" kindref="member" tooltip="Saves the document in the Extensible Application Markup Language (XAML) format as a fixed document.">SaveFormat::XamlFixed</ref>,<sp/>options-&gt;get_SaveFormat());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;ResourcesFolder&quot;<sp/>property<sp/>to<sp/>assign<sp/>a<sp/>folder<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system<sp/>into<sp/>which</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Aspose.Words<sp/>will<sp/>save<sp/>all<sp/>the<sp/>document&apos;s<sp/>linked<sp/>resources,<sp/>such<sp/>as<sp/>images<sp/>and<sp/>fonts.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourcesFolder(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;XamlFixedResourceFolder&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;ResourcesFolderAlias&quot;<sp/>property<sp/>to<sp/>use<sp/>this<sp/>folder</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>when<sp/>constructing<sp/>image<sp/>URIs<sp/>instead<sp/>of<sp/>the<sp/>resources<sp/>folder&apos;s<sp/>name.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourcesFolderAlias(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;XamlFixedFolderAlias&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourceSavingCallback(callback);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>folder<sp/>specified<sp/>by<sp/>&quot;ResourcesFolderAlias&quot;<sp/>will<sp/>need<sp/>to<sp/>contain<sp/>the<sp/>resources<sp/>instead<sp/>of<sp/>&quot;ResourcesFolder&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>must<sp/>ensure<sp/>the<sp/>folder<sp/>exists<sp/>before<sp/>the<sp/>callback&apos;s<sp/>streams<sp/>can<sp/>put<sp/>their<sp/>resources<sp/>into<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;XamlFixedSaveOptions.ResourceFolder.xaml&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>resource<sp/>:<sp/>callback-&gt;get_Resources())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>resource<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">ResourceUriPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IResourceSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::List&lt;String&gt;&gt;<sp/>get_Resources()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>pr_Resources;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ResourceUriPrinter()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>pr_Resources<sp/>=<sp/>MakeObject&lt;System::Collections::Generic::List&lt;String&gt;&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::List&lt;String&gt;&gt;<sp/>pr_Resources;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceSaving(SharedPtr&lt;ResourceSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>get_Resources()-&gt;Add(String::Format(u</highlight><highlight class="stringliteral">&quot;Resource<sp/>\&quot;{0}\&quot;\n\t{1}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_ResourceFileName(),<sp/>args-&gt;get_ResourceFileUri()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>specified<sp/>a<sp/>resource<sp/>folder<sp/>alias,<sp/>we<sp/>would<sp/>also<sp/>need</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>redirect<sp/>each<sp/>stream<sp/>to<sp/>put<sp/>its<sp/>resource<sp/>in<sp/>the<sp/>alias<sp/>folder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ResourceStream(MakeObject&lt;System::IO::FileStream&gt;(args-&gt;get_ResourceFileUri(),<sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_KeepResourceStreamOpen(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Saving::FixedPageSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::Saving::SaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_save_options"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Saving::XamlFixedSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Saving::FixedPageSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::Saving::SaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_save_options"/>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Saving::XamlFixedSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h" line="105" column="1" bodyfile="Aspose.Words.Cpp/Saving/XamlFixedSaveOptions.h" bodystart="106" bodyend="444"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1aeb0c826b0e33556bd5f98dc18d007799" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a5f8b7264160980e775d0ebc2bb87ec6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>CreateSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a92aa5f878a1d0f3e06f620fd1376142f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>CreateSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a0957be75c5d5e6c01c685b589b706366" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>Equals</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9fecca2156a70f1834bd1c913a129d47" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_AllowEmbeddingPostScriptFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ac1a855cc8feceb3d1cbe331b282931ef" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_ColorMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab9a4c7be9e7070ecbd5248bf01535ef3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_CustomTimeZoneInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a327b0f9146d84c39d72f09dffb55970d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_DefaultTemplate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ac309d37b349e0fd18de204c4b3493113" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_Dml3DEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0ad6a41669029f8bcb5d56ccd8eb1f25" prot="public" virt="virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_DmlEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a40d3faab0e88622c6fac579bbc050772" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_DmlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1add57516835dfbc84b4ac55117e03a6a5" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_ExportGeneratorName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab3a4c36623e1cba81e21fb0c18fc27d6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a4032bbd708177dd64e3ba455a509e470" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_ImlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a97d6477b73da72eb08d9d68e61e464c6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_JpegQuality</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a00434e0916cf24f88a1cff9f4952bff3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_MemoryOptimization</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a9aa8454e978e8bc63738b7646e73496c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_MetafileRenderingOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a342c8937835bd912528d137767001e22" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_NumeralFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a5b5ba06ac381a275da60e5f7bfaf0fec" prot="public" virt="virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_OptimizeOutput</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a946c829e55d34cdc9b730134b0569fd5" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_PageSavingCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ae5425719ba374cba63e3262e18f285eb" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_PageSet</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1af3590697cf94e5b1f546536a3bb20089" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_PrettyFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aabbd691992af320129ecf001454428b1" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1ae5f0aa3e1d4c16c1f9e03584fb03e43b" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_ResourceSavingCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a3c292b94570d8203c7c181f67f187740" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_ResourcesFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a5e1dec90b617a6be998148c86b4b6143" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_ResourcesFolderAlias</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a06502119288a6cb9b06e6bfba58422e7" prot="public" virt="virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_SaveFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2eb22d168e7885c69f1a5ee73dfa9a9c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aafd986a59939576b688baf70ae2982b9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_UpdateCreatedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9058403d0bf8ef363c7265927c7d9689" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_UpdateFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ae00124e73b7ed35821a822f59a98456d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_UpdateLastPrintedProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aa37a14113e46f96d6a4100f33dbb41cd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_UpdateLastSavedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6ba4c67d7befc1d3959119554bc6ca0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_UpdateSdtContent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ac07a919eda7dd3104c3539643caab82f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_UseAntiAliasing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a926127b8a13db96c893d2e327d1ac458" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>get_UseHighQualityRendering</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a6837afe06739dd51489a06a474da4065" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a3e0295a0a3135b1ca0b39a16c9ee468d" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1aa202f8a07537e5aeb72b07759af81752" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1ad319b3e031f9d1abea07d06621a67c6b" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9bf0591a869b2046558fac161fb5c8b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_AllowEmbeddingPostScriptFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a1374624908c0c4ca45b73f9974787de8" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_ColorMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a70292d5b6ed5dd4ed81ab6779ada5037" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_CustomTimeZoneInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6d50c71651e23523dd4edae9c8e03b0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_DefaultTemplate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a52f28c6f920bd4829f304f586dd52a4e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_Dml3DEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0415bb8f17f114f5b8bfbf77822f3e33" prot="public" virt="virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_DmlEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a925282153c1c7004637ce406968cd6bd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_DmlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2b3bada9094a54559b832d5051f5be6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_ExportGeneratorName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f2f79ea57714961156f913867823fc2" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afe2fd3cb5119a04f528a9da4b6c643b6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_ImlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1af228e06a02d9af4afd279a5cba926e0c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_JpegQuality</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1b432af0d799842b6939005904d924b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_MemoryOptimization</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a1b8abe12e2961656a28d0be53c60feef" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_MetafileRenderingOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1adb586e7d583e068e2823237d0ae2617e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_NumeralFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a11799e324c1e6fe42583f49e697690b9" prot="public" virt="virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_OptimizeOutput</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ac9c030c94c0c536539a1f725fa70be77" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_PageSavingCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a0b9356a6ec3e79daa4a976f9ae1eb7ca" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_PageSet</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0333c9e934c7b7066c108975a65291c9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_PrettyFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3ca5c36f7f1922b1f7b1f6e8528e29c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1aec13708405035936904143b84a3e9c5f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_ResourceSavingCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a718ce59ce3d27294fc77b3e66a399324" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_ResourcesFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a04792bcb4a42e9bf37bbb1e3b531d531" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_ResourcesFolderAlias</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1a939f70c4d7d6fea2307b5efebb031cd9" prot="public" virt="virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_SaveFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a7488c6e1d35b21dda1fb3a6b24eb077c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aa6b3c59d2b5d93ecd4af333e7731a57a" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_UpdateCreatedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1ca0e9e7685d9cfdacad9b0c1c47fede" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_UpdateFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9253b0a7481cec6751f2d6e186d15f89" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_UpdateLastPrintedProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f8626f9e2fdd5ea38f656ecffea4433" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_UpdateLastSavedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afc31fd439351d75447554d3196522687" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_UpdateSdtContent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aee6a47d5aa51895c89fb99333990b15c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_UseAntiAliasing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aadd8de8195c06388cf619673c020dad3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>set_UseHighQualityRendering</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1af44d95df1cd220bd541adf78bb22d856" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options_1adb587c91d971012f3f36aa8c7ef5b4e8" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::XamlFixedSaveOptions</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

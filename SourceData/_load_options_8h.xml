@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="_load_options_8h" kind="file" language="C++">
+    <compoundname>LoadOptions.h</compoundname>
+    <includes local="no">system/string.h</includes>
+    <includes refid="_ms_word_version_8h" local="no">Aspose.Words.Cpp/Settings/MsWordVersion.h</includes>
+    <includes refid="_load_format_8h" local="no">Aspose.Words.Cpp/LoadFormat.h</includes>
+    <includes refid="aspose__words__api__defs_8h" local="no">Aspose.Words.Cpp/aspose_words_api_defs.h</includes>
+    <includedby refid="_chm_load_options_8h" local="no">Aspose.Words.Cpp/Loading/ChmLoadOptions.h</includedby>
+    <includedby refid="_html_load_options_8h" local="no">Aspose.Words.Cpp/Loading/HtmlLoadOptions.h</includedby>
+    <includedby refid="_pdf_load_options_8h" local="no">Aspose.Words.Cpp/Loading/PdfLoadOptions.h</includedby>
+    <includedby refid="_rtf_load_options_8h" local="no">Aspose.Words.Cpp/Loading/RtfLoadOptions.h</includedby>
+    <includedby refid="_txt_load_options_8h" local="no">Aspose.Words.Cpp/Loading/TxtLoadOptions.h</includedby>
+    <incdepgraph>
+      <node id="7">
+        <label>Aspose.Words.Cpp/LoadFormat.h</label>
+        <link refid="_load_format_8h_source"/>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose.Words.Cpp/Loading/LoadOptions.h</label>
+        <link refid="_load_options_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>Aspose.Words.Cpp/Settings/MsWordVersion.h</label>
+        <link refid="_ms_word_version_8h_source"/>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>Aspose.Words.Cpp/aspose_words_api_defs.h</label>
+        <link refid="aspose__words__api__defs_8h_source"/>
+      </node>
+      <node id="5">
+        <label>system/enum.h</label>
+      </node>
+      <node id="8">
+        <label>system/enum_helpers.h</label>
+      </node>
+      <node id="4">
+        <label>system/object_ext.h</label>
+      </node>
+      <node id="2">
+        <label>system/string.h</label>
+      </node>
+    </incdepgraph>
+    <invincdepgraph>
+      <node id="2">
+        <label>Aspose.Words.Cpp/Loading/ChmLoadOptions.h</label>
+        <link refid="_chm_load_options_8h_source"/>
+      </node>
+      <node id="3">
+        <label>Aspose.Words.Cpp/Loading/HtmlLoadOptions.h</label>
+        <link refid="_html_load_options_8h_source"/>
+      </node>
+      <node id="1">
+        <label>Aspose.Words.Cpp/Loading/LoadOptions.h</label>
+        <link refid="_load_options_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose.Words.Cpp/Loading/PdfLoadOptions.h</label>
+        <link refid="_pdf_load_options_8h_source"/>
+      </node>
+      <node id="5">
+        <label>Aspose.Words.Cpp/Loading/RtfLoadOptions.h</label>
+        <link refid="_rtf_load_options_8h_source"/>
+      </node>
+      <node id="6">
+        <label>Aspose.Words.Cpp/Loading/TxtLoadOptions.h</label>
+        <link refid="_txt_load_options_8h_source"/>
+      </node>
+    </invincdepgraph>
+    <innerclass refid="class_aspose_1_1_words_1_1_loading_1_1_load_options" prot="public">Aspose::Words::Loading::LoadOptions</innerclass>
+    <innernamespace refid="namespace_aspose">Aspose</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words">Aspose::Words</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words_1_1_fonts">Aspose::Words::Fonts</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words_1_1_loading">Aspose::Words::Loading</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/Loading/LoadOptions.h"/>
+  </compounddef>
+</doxygen>

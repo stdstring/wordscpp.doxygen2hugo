@@ -1,0 +1,554 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_settings_1_1_odso" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Settings::Odso</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_odso_8h" local="no">Aspose.Words.Cpp/Settings/Odso.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1aa831d2ce87d96b9d185ffd747a78a076" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Settings::Odso::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="52" column="28" bodyfile="Aspose.Words.Cpp/Settings/Odso.h" bodystart="52" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1a7d57ca787813818333ae89e0d03d7db4" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso" kindref="compound">Odso</ref></type>
+        <definition>typedef Odso Aspose::Words::Settings::Odso::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="51" column="18" bodyfile="Aspose.Words.Cpp/Settings/Odso.h" bodystart="51" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1ac788dba985e8ca0292c43b3397c9e63e" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Settings::Odso::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="54" column="37" bodyfile="Aspose.Words.Cpp/Settings/Odso.h" bodystart="54" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1acff0bf517c2cdfcbcf87f12656b78aca" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 2, 2, 2, 2 &gt;::type</type>
+        <definition>__TypeStub&lt;2,2,2,2&gt;::type Aspose::Words::Settings::Odso::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="136" column="23" bodyfile="Aspose.Words.Cpp/Settings/Odso.h" bodystart="136" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1a01326d398db9305e447fde218b47bd99" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Settings::Odso::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="137" column="23" bodyfile="Aspose.Words.Cpp/Settings/Odso.h" bodystart="137" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1a7d6288ad77483a89764d6afa82911dca" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Settings::Odso::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="138" column="20" bodyfile="Aspose.Words.Cpp/Settings/Odso.h" bodystart="138" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1a48d673a25e45acd819de3f9369ce530f" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Settings::Odso::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="139" column="20" bodyfile="Aspose.Words.Cpp/Settings/Odso.h" bodystart="139" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1a59881c29dc58c8ea5dbedad16b097872" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Settings::Odso::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="140" column="23" bodyfile="Aspose.Words.Cpp/Settings/Odso.h" bodystart="140" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1a7c0b6207139ba6618ac5aa2a400e36d8" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Settings::Odso::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="141" column="20" bodyfile="Aspose.Words.Cpp/Settings/Odso.h" bodystart="141" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1ae2c55d85acabed7f1ec1dec2fabf7b2d" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Settings::Odso::mField6</definition>
+        <argsstring></argsstring>
+        <name>mField6</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::mField6</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="142" column="23" bodyfile="Aspose.Words.Cpp/Settings/Odso.h" bodystart="142" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1a2bd2969c98c706012ae424cd6494720d" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Settings::Odso::mField7</definition>
+        <argsstring></argsstring>
+        <name>mField7</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::mField7</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="143" column="23" bodyfile="Aspose.Words.Cpp/Settings/Odso.h" bodystart="143" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1ac4055d2bf85cbab6bf61e4e38304fde4" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Settings::Odso::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="55" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1a6a87520e78829e3408ff875d2e1139f6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Settings::Odso::Odso</definition>
+        <argsstring>()</argsstring>
+        <name>Odso</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::Odso</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="132" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1aab281d9c5769fa8ef20898e7c7a6604d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso" kindref="compound">Aspose::Words::Settings::Odso</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Settings::Odso &gt; Aspose::Words::Settings::Odso::Clone</definition>
+        <argsstring>()</argsstring>
+        <name>Clone</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::Clone</qualifiedname>
+        <briefdescription>
+<para>Returns a deep clone of this object. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="130" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1abf0951b9d19f1dc7c9d9fd3aff9d8649" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>char16_t</type>
+        <definition>char16_t Aspose::Words::Settings::Odso::get_ColumnDelimiter</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ColumnDelimiter</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::get_ColumnDelimiter</qualifiedname>
+        <briefdescription>
+<para>Specifies the character which shall be interpreted as the column delimiter used to separate columns within external data sources. The default value is 0 which means there is no column delimiter defined. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>RK I have never seen this in use. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="63" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1ac3da201394a02f4a200a788f138009f9" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Settings::Odso::get_DataSource</definition>
+        <argsstring>() const</argsstring>
+        <name>get_DataSource</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::get_DataSource</qualifiedname>
+        <briefdescription>
+<para>Specifies the location of the external data source to be connected to a document to perform the mail merge. The default value is an empty string. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="80" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1a11bce341daf617941afba735f33458cd" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_settings_1a09782d2b5b27cbf50e1299086db5096d" kindref="member">Aspose::Words::Settings::OdsoDataSourceType</ref></type>
+        <definition>Aspose::Words::Settings::OdsoDataSourceType Aspose::Words::Settings::Odso::get_DataSourceType</definition>
+        <argsstring>() const</argsstring>
+        <name>get_DataSourceType</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::get_DataSourceType</qualifiedname>
+        <briefdescription>
+<para>Specifies the type of the external data source to be connected to as part of the ODSO connection information for this mail merge. The default value is <ref refid="namespace_aspose_1_1_words_1_1_settings_1a09782d2b5b27cbf50e1299086db5096da7a1920d61156abc05a60135aefe8bc67" kindref="member">Default</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This setting is purely a suggestion of the data source type that is being used for this mail merge. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="98" column="52"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1a5b14878e53b6ae324817505e69d3206c" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_field_map_data_collection" kindref="compound">Aspose::Words::Settings::OdsoFieldMapDataCollection</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Settings::OdsoFieldMapDataCollection &gt; Aspose::Words::Settings::Odso::get_FieldMapDatas</definition>
+        <argsstring>() const</argsstring>
+        <name>get_FieldMapDatas</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::get_FieldMapDatas</qualifiedname>
+        <briefdescription>
+<para>Gets a collection of objects that specify how columns from the external data source are mapped to the predefined merge field names in the document. This object is never null. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="114" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1a361113614e9a12710a627a31e65df4a9" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Settings::Odso::get_FirstRowContainsColumnNames</definition>
+        <argsstring>() const</argsstring>
+        <name>get_FirstRowContainsColumnNames</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::get_FirstRowContainsColumnNames</qualifiedname>
+        <briefdescription>
+<para>Specifies that a hosting application shall treat the first row of data in the specified external data source as a header row containing the names of each column in the data source. The default value is <computeroutput>false</computeroutput>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>RK I have never seen this in use. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="73" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1a4fcb02d106cac6d717fcc49abc1fd7fc" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection" kindref="compound">Aspose::Words::Settings::OdsoRecipientDataCollection</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Settings::OdsoRecipientDataCollection &gt; Aspose::Words::Settings::Odso::get_RecipientDatas</definition>
+        <argsstring>() const</argsstring>
+        <name>get_RecipientDatas</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::get_RecipientDatas</qualifiedname>
+        <briefdescription>
+<para>Gets a collection of objects that specify inclusion/exclusion of individual records in the mail merge. This object is never null. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="123" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1a7d6f5f77639c3c132a7e5a2c272230e0" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Settings::Odso::get_TableName</definition>
+        <argsstring>() const</argsstring>
+        <name>get_TableName</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::get_TableName</qualifiedname>
+        <briefdescription>
+<para>Specifies the particular set of data that a source shall be connected to within an external data source. The default value is an empty string. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="88" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1a112b1978abd63c1e6f87b959f3521f40" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Settings::Odso::get_UdlConnectString</definition>
+        <argsstring>() const</argsstring>
+        <name>get_UdlConnectString</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::get_UdlConnectString</qualifiedname>
+        <briefdescription>
+<para>Specifies the Universal Data Link (UDL) connection string used to connect to an external data source. The default value is an empty string. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="105" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1a0ac295ee39daf682ba9330b60583d9ad" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::Odso::set_ColumnDelimiter</definition>
+        <argsstring>(char16_t value)</argsstring>
+        <name>set_ColumnDelimiter</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::set_ColumnDelimiter</qualifiedname>
+        <param>
+          <type>char16_t</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1abf0951b9d19f1dc7c9d9fd3aff9d8649" kindref="member">Aspose::Words::Settings::Odso::get_ColumnDelimiter</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="66" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1a368d2d11b8463e9a2c185fa5a9d0d891" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::Odso::set_DataSource</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_DataSource</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::set_DataSource</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Specifies the location of the external data source to be connected to a document to perform the mail merge. The default value is an empty string. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="84" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1a2982ea1b2d3093379772b0803df4f4e6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::Odso::set_DataSourceType</definition>
+        <argsstring>(Aspose::Words::Settings::OdsoDataSourceType value)</argsstring>
+        <name>set_DataSourceType</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::set_DataSourceType</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_settings_1a09782d2b5b27cbf50e1299086db5096d" kindref="member">Aspose::Words::Settings::OdsoDataSourceType</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1a11bce341daf617941afba735f33458cd" kindref="member">Aspose::Words::Settings::Odso::get_DataSourceType</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="101" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1adfaa3ccb94726ba63d98f066b9986c9c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::Odso::set_FieldMapDatas</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Settings::OdsoFieldMapDataCollection &gt; &amp;value)</argsstring>
+        <name>set_FieldMapDatas</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::set_FieldMapDatas</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_field_map_data_collection" kindref="compound">Aspose::Words::Settings::OdsoFieldMapDataCollection</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets a collection of objects that specify how columns from the external data source are mapped to the predefined merge field names in the document. This object is never null. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="119" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1a734fdc01df7ae4f4c87b2767c2947ff3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::Odso::set_FirstRowContainsColumnNames</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_FirstRowContainsColumnNames</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::set_FirstRowContainsColumnNames</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1a361113614e9a12710a627a31e65df4a9" kindref="member">Aspose::Words::Settings::Odso::get_FirstRowContainsColumnNames</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="76" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1adfd824ab900f61edb7410c24ee7ece7e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::Odso::set_RecipientDatas</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Settings::OdsoRecipientDataCollection &gt; &amp;value)</argsstring>
+        <name>set_RecipientDatas</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::set_RecipientDatas</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso_recipient_data_collection" kindref="compound">Aspose::Words::Settings::OdsoRecipientDataCollection</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets a collection of objects that specify inclusion/exclusion of individual records in the mail merge. This object is never null. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="127" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1ae76f824a6602e925f90c1ebf8610b191" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::Odso::set_TableName</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_TableName</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::set_TableName</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Specifies the particular set of data that a source shall be connected to within an external data source. The default value is an empty string. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="92" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_odso_1ad14aadf16aa745ad45fd471c699f6bf1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::Odso::set_UdlConnectString</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_UdlConnectString</name>
+        <qualifiedname>Aspose::Words::Settings::Odso::set_UdlConnectString</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Specifies the Universal Data Link (UDL) connection string used to connect to an external data source. The default value is an empty string. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/Odso.h" line="109" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Specifies the Office Data Source Object (ODSO) settings for a mail merge data source. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>ODSO seems to be the &quot;new&quot; way the newer Microsoft Word versions prefer to use when specifying certain types of data sources for a mail merge document. ODSO probably first appeared in Microsoft Word 2000.</para>
+<para>The use of ODSO is poorly documented and the best way to learn how to use the properties of this object is to create a document with a desired data source manually in Microsoft Word and then open that document using Aspose.Words and examine the properties of the <ref refid="class_aspose_1_1_words_1_1_document_1a44041c02207cc181209d4138cd288a57" kindref="member">MailMergeSettings</ref> and <ref refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1adcde9b87de5920606653848ff70ab8f4" kindref="member">Odso</ref> objects. This is a good approach to take if you want to learn how to programmatically configure a data source, for example.</para>
+<para>You do not normally need to create objects of this class directly because ODSO settings are always available via the <ref refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1adcde9b87de5920606653848ff70ab8f4" kindref="member">Odso</ref> property.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1adcde9b87de5920606653848ff70ab8f4" kindref="member">Aspose::Words::Settings::MailMergeSettings::get_Odso</ref> </para>
+</simplesect>
+</para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Settings::Odso</label>
+        <link refid="class_aspose_1_1_words_1_1_settings_1_1_odso"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Settings::Odso</label>
+        <link refid="class_aspose_1_1_words_1_1_settings_1_1_odso"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Settings/Odso.h" line="49" column="1" bodyfile="Aspose.Words.Cpp/Settings/Odso.h" bodystart="50" bodyend="145"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1aa831d2ce87d96b9d185ffd747a78a076" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1aab281d9c5769fa8ef20898e7c7a6604d" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>Clone</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1abf0951b9d19f1dc7c9d9fd3aff9d8649" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>get_ColumnDelimiter</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1ac3da201394a02f4a200a788f138009f9" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>get_DataSource</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1a11bce341daf617941afba735f33458cd" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>get_DataSourceType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1a5b14878e53b6ae324817505e69d3206c" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>get_FieldMapDatas</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1a361113614e9a12710a627a31e65df4a9" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>get_FirstRowContainsColumnNames</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1a4fcb02d106cac6d717fcc49abc1fd7fc" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>get_RecipientDatas</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1a7d6f5f77639c3c132a7e5a2c272230e0" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>get_TableName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1a112b1978abd63c1e6f87b959f3521f40" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>get_UdlConnectString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1acff0bf517c2cdfcbcf87f12656b78aca" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1a01326d398db9305e447fde218b47bd99" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1a7d6288ad77483a89764d6afa82911dca" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1a48d673a25e45acd819de3f9369ce530f" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1a59881c29dc58c8ea5dbedad16b097872" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1a7c0b6207139ba6618ac5aa2a400e36d8" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1ae2c55d85acabed7f1ec1dec2fabf7b2d" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>mField6</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1a2bd2969c98c706012ae424cd6494720d" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>mField7</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1a6a87520e78829e3408ff875d2e1139f6" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>Odso</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1ac4055d2bf85cbab6bf61e4e38304fde4" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1a0ac295ee39daf682ba9330b60583d9ad" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>set_ColumnDelimiter</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1a368d2d11b8463e9a2c185fa5a9d0d891" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>set_DataSource</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1a2982ea1b2d3093379772b0803df4f4e6" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>set_DataSourceType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1adfaa3ccb94726ba63d98f066b9986c9c" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>set_FieldMapDatas</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1a734fdc01df7ae4f4c87b2767c2947ff3" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>set_FirstRowContainsColumnNames</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1adfd824ab900f61edb7410c24ee7ece7e" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>set_RecipientDatas</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1ae76f824a6602e925f90c1ebf8610b191" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>set_TableName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1ad14aadf16aa745ad45fd471c699f6bf1" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>set_UdlConnectString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1a7d57ca787813818333ae89e0d03d7db4" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_odso_1ac788dba985e8ca0292c43b3397c9e63e" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::Odso</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

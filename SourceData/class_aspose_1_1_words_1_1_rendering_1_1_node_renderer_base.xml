@@ -1,0 +1,1240 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Rendering::NodeRendererBase</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_rendering_1_1_office_math_renderer" prot="public" virt="non-virtual">Aspose::Words::Rendering::OfficeMathRenderer</derivedcompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_rendering_1_1_shape_renderer" prot="public" virt="non-virtual">Aspose::Words::Rendering::ShapeRenderer</derivedcompoundref>
+    <includes refid="_node_renderer_base_8h" local="no">Aspose.Words.Cpp/Rendering/NodeRendererBase.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1af862cdaecae829fb79319f944754a90a" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Rendering::NodeRendererBase::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Rendering::NodeRendererBase::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" line="99" column="28" bodyfile="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" bodystart="99" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1ad8eb6b9734e0eefb70e0f9b7478ffd45" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base" kindref="compound">NodeRendererBase</ref></type>
+        <definition>typedef NodeRendererBase Aspose::Words::Rendering::NodeRendererBase::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Rendering::NodeRendererBase::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" line="98" column="30" bodyfile="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" bodystart="98" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a836801c30fe50ab3ba805c5ee6dd6fc3" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Rendering::NodeRendererBase::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Rendering::NodeRendererBase::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" line="101" column="37" bodyfile="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" bodystart="101" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1ac9f25efda5c009df52c4eb92f86ab212" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Rendering::NodeRendererBase::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Rendering::NodeRendererBase::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" line="666" column="23" bodyfile="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" bodystart="666" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a9f268ed986352dfa8471ba119b12d076" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Rendering::NodeRendererBase::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Rendering::NodeRendererBase::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" line="667" column="23" bodyfile="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" bodystart="667" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a875808fb56410161fe295de633ec7f56" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.drawing.rectangle_f/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::RectangleF</ref></type>
+        <definition>System::Drawing::RectangleF Aspose::Words::Rendering::NodeRendererBase::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Rendering::NodeRendererBase::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" line="668" column="33" bodyfile="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" bodystart="668" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a607badbbf86f4e3a25a8bb6596dfc3da" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.drawing.rectangle_f/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::RectangleF</ref></type>
+        <definition>System::Drawing::RectangleF Aspose::Words::Rendering::NodeRendererBase::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Rendering::NodeRendererBase::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" line="669" column="33" bodyfile="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" bodystart="669" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1afee3a16b4b825220391fd6e911b122ab" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Rendering::NodeRendererBase::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Rendering::NodeRendererBase::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" line="102" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a54c7dc4e469052972b2244cf52f7b311" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Rendering::NodeRendererBase::NodeRendererBase</definition>
+        <argsstring>()</argsstring>
+        <name>NodeRendererBase</name>
+        <qualifiedname>Aspose::Words::Rendering::NodeRendererBase::NodeRendererBase</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" line="653" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a170426eac804aba5edd310bc106b15ae" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.drawing.rectangle_f/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::RectangleF</ref></type>
+        <definition>System::Drawing::RectangleF Aspose::Words::Rendering::NodeRendererBase::get_BoundsInPoints</definition>
+        <argsstring>() const</argsstring>
+        <name>get_BoundsInPoints</name>
+        <qualifiedname>Aspose::Words::Rendering::NodeRendererBase::get_BoundsInPoints</qualifiedname>
+        <briefdescription>
+<para>Gets the actual bounds of the shape in points. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This property returns the actual (as rendered on the page) bounding box of the shape. The bounds takes into account shape rotation (if any).</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to measure and scale shapes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Office<sp/>math.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>officeMath<sp/>=<sp/>System::DynamicCast&lt;OfficeMath&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>renderer<sp/>=<sp/>MakeObject&lt;OfficeMathRenderer&gt;(officeMath);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Verify<sp/>the<sp/>size<sp/>of<sp/>the<sp/>image<sp/>that<sp/>the<sp/>OfficeMath<sp/>object<sp/>will<sp/>create<sp/>when<sp/>we<sp/>render<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_SizeInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(13.0f,<sp/>renderer-&gt;get_SizeInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_BoundsInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(13.0f,<sp/>renderer-&gt;get_BoundsInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Shapes<sp/>with<sp/>transparent<sp/>parts<sp/>may<sp/>contain<sp/>different<sp/>values<sp/>in<sp/>the<sp/>&quot;OpaqueBoundsInPoints&quot;<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_OpaqueBoundsInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(14.2f,<sp/>renderer-&gt;get_OpaqueBoundsInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>shape<sp/>size<sp/>in<sp/>pixels,<sp/>with<sp/>linear<sp/>scaling<sp/>to<sp/>a<sp/>specific<sp/>DPI.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.drawing.rectangle/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Rectangle</ref><sp/>bounds<sp/>=<sp/>renderer-&gt;GetBoundsInPixels(1.0f,<sp/>96.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(18,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>shape<sp/>size<sp/>in<sp/>pixels,<sp/>but<sp/>with<sp/>a<sp/>different<sp/>DPI<sp/>for<sp/>the<sp/>horizontal<sp/>and<sp/>vertical<sp/>dimensions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetBoundsInPixels(1.0f,<sp/>96.0f,<sp/>150.0f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(28,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>opaque<sp/>bounds<sp/>may<sp/>vary<sp/>here<sp/>also.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetOpaqueBoundsInPixels(1.0f,<sp/>96.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(18,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetOpaqueBoundsInPixels(1.0f,<sp/>96.0f,<sp/>150.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(30,<sp/>bounds.get_Height());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" line="202" column="36"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a085e99b0033d4249cf54a6964122333b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.drawing.rectangle_f/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::RectangleF</ref></type>
+        <definition>System::Drawing::RectangleF Aspose::Words::Rendering::NodeRendererBase::get_OpaqueBoundsInPoints</definition>
+        <argsstring>()</argsstring>
+        <name>get_OpaqueBoundsInPoints</name>
+        <qualifiedname>Aspose::Words::Rendering::NodeRendererBase::get_OpaqueBoundsInPoints</qualifiedname>
+        <briefdescription>
+<para>Gets the opaque bounds of the shape in points. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This property returns the opaque (i.e. transparent parts of the shape are ignored) bounding box of the shape. The bounds takes the shape rotation into account.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to measure and scale shapes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Office<sp/>math.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>officeMath<sp/>=<sp/>System::DynamicCast&lt;OfficeMath&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>renderer<sp/>=<sp/>MakeObject&lt;OfficeMathRenderer&gt;(officeMath);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Verify<sp/>the<sp/>size<sp/>of<sp/>the<sp/>image<sp/>that<sp/>the<sp/>OfficeMath<sp/>object<sp/>will<sp/>create<sp/>when<sp/>we<sp/>render<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_SizeInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(13.0f,<sp/>renderer-&gt;get_SizeInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_BoundsInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(13.0f,<sp/>renderer-&gt;get_BoundsInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Shapes<sp/>with<sp/>transparent<sp/>parts<sp/>may<sp/>contain<sp/>different<sp/>values<sp/>in<sp/>the<sp/>&quot;OpaqueBoundsInPoints&quot;<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_OpaqueBoundsInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(14.2f,<sp/>renderer-&gt;get_OpaqueBoundsInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>shape<sp/>size<sp/>in<sp/>pixels,<sp/>with<sp/>linear<sp/>scaling<sp/>to<sp/>a<sp/>specific<sp/>DPI.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.drawing.rectangle/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Rectangle</ref><sp/>bounds<sp/>=<sp/>renderer-&gt;GetBoundsInPixels(1.0f,<sp/>96.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(18,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>shape<sp/>size<sp/>in<sp/>pixels,<sp/>but<sp/>with<sp/>a<sp/>different<sp/>DPI<sp/>for<sp/>the<sp/>horizontal<sp/>and<sp/>vertical<sp/>dimensions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetBoundsInPixels(1.0f,<sp/>96.0f,<sp/>150.0f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(28,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>opaque<sp/>bounds<sp/>may<sp/>vary<sp/>here<sp/>also.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetOpaqueBoundsInPixels(1.0f,<sp/>96.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(18,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetOpaqueBoundsInPixels(1.0f,<sp/>96.0f,<sp/>150.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(30,<sp/>bounds.get_Height());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" line="251" column="36"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a29741f3e30d534db6e163c206def0372" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.drawing.size_f/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::SizeF</ref></type>
+        <definition>System::Drawing::SizeF Aspose::Words::Rendering::NodeRendererBase::get_SizeInPoints</definition>
+        <argsstring>()</argsstring>
+        <name>get_SizeInPoints</name>
+        <qualifiedname>Aspose::Words::Rendering::NodeRendererBase::get_SizeInPoints</qualifiedname>
+        <briefdescription>
+<para>Gets the actual size of the shape in points. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This property returns the size of the actual (as rendered on the page) bounding box of the shape. The size takes into account shape rotation (if any).</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to measure and scale shapes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Office<sp/>math.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>officeMath<sp/>=<sp/>System::DynamicCast&lt;OfficeMath&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>renderer<sp/>=<sp/>MakeObject&lt;OfficeMathRenderer&gt;(officeMath);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Verify<sp/>the<sp/>size<sp/>of<sp/>the<sp/>image<sp/>that<sp/>the<sp/>OfficeMath<sp/>object<sp/>will<sp/>create<sp/>when<sp/>we<sp/>render<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_SizeInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(13.0f,<sp/>renderer-&gt;get_SizeInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_BoundsInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(13.0f,<sp/>renderer-&gt;get_BoundsInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Shapes<sp/>with<sp/>transparent<sp/>parts<sp/>may<sp/>contain<sp/>different<sp/>values<sp/>in<sp/>the<sp/>&quot;OpaqueBoundsInPoints&quot;<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_OpaqueBoundsInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(14.2f,<sp/>renderer-&gt;get_OpaqueBoundsInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>shape<sp/>size<sp/>in<sp/>pixels,<sp/>with<sp/>linear<sp/>scaling<sp/>to<sp/>a<sp/>specific<sp/>DPI.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.drawing.rectangle/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Rectangle</ref><sp/>bounds<sp/>=<sp/>renderer-&gt;GetBoundsInPixels(1.0f,<sp/>96.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(18,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>shape<sp/>size<sp/>in<sp/>pixels,<sp/>but<sp/>with<sp/>a<sp/>different<sp/>DPI<sp/>for<sp/>the<sp/>horizontal<sp/>and<sp/>vertical<sp/>dimensions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetBoundsInPixels(1.0f,<sp/>96.0f,<sp/>150.0f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(28,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>opaque<sp/>bounds<sp/>may<sp/>vary<sp/>here<sp/>also.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetOpaqueBoundsInPixels(1.0f,<sp/>96.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(18,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetOpaqueBoundsInPixels(1.0f,<sp/>96.0f,<sp/>150.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(30,<sp/>bounds.get_Height());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" line="153" column="31"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1ac744188e67c8572372978c159d8e11ef" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.drawing.rectangle/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Rectangle</ref></type>
+        <definition>System::Drawing::Rectangle Aspose::Words::Rendering::NodeRendererBase::GetBoundsInPixels</definition>
+        <argsstring>(float scale, float dpi)</argsstring>
+        <name>GetBoundsInPixels</name>
+        <qualifiedname>Aspose::Words::Rendering::NodeRendererBase::GetBoundsInPixels</qualifiedname>
+        <param>
+          <type>float</type>
+          <declname>scale</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>dpi</declname>
+        </param>
+        <briefdescription>
+<para>Calculates the bounds of the shape in pixels for a specified zoom factor and resolution. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This method converts <ref refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a170426eac804aba5edd310bc106b15ae" kindref="member">BoundsInPoints</ref> into rectangle in pixels.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>scale</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The zoom factor (1.0 is 100%). </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>dpi</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The resolution (horizontal and vertical) to convert from points to pixels (dots per inch).</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The actual (as rendered on the page) bounding box of the shape in pixels.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to measure and scale shapes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Office<sp/>math.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>officeMath<sp/>=<sp/>System::DynamicCast&lt;OfficeMath&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>renderer<sp/>=<sp/>MakeObject&lt;OfficeMathRenderer&gt;(officeMath);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Verify<sp/>the<sp/>size<sp/>of<sp/>the<sp/>image<sp/>that<sp/>the<sp/>OfficeMath<sp/>object<sp/>will<sp/>create<sp/>when<sp/>we<sp/>render<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_SizeInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(13.0f,<sp/>renderer-&gt;get_SizeInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_BoundsInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(13.0f,<sp/>renderer-&gt;get_BoundsInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Shapes<sp/>with<sp/>transparent<sp/>parts<sp/>may<sp/>contain<sp/>different<sp/>values<sp/>in<sp/>the<sp/>&quot;OpaqueBoundsInPoints&quot;<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_OpaqueBoundsInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(14.2f,<sp/>renderer-&gt;get_OpaqueBoundsInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>shape<sp/>size<sp/>in<sp/>pixels,<sp/>with<sp/>linear<sp/>scaling<sp/>to<sp/>a<sp/>specific<sp/>DPI.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.drawing.rectangle/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Rectangle</ref><sp/>bounds<sp/>=<sp/>renderer-&gt;GetBoundsInPixels(1.0f,<sp/>96.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(18,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>shape<sp/>size<sp/>in<sp/>pixels,<sp/>but<sp/>with<sp/>a<sp/>different<sp/>DPI<sp/>for<sp/>the<sp/>horizontal<sp/>and<sp/>vertical<sp/>dimensions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetBoundsInPixels(1.0f,<sp/>96.0f,<sp/>150.0f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(28,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>opaque<sp/>bounds<sp/>may<sp/>vary<sp/>here<sp/>also.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetOpaqueBoundsInPixels(1.0f,<sp/>96.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(18,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetOpaqueBoundsInPixels(1.0f,<sp/>96.0f,<sp/>150.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(30,<sp/>bounds.get_Height());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" line="413" column="35"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a31998ab716d8cd7ab4fb6ca16c75c063" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.drawing.rectangle/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Rectangle</ref></type>
+        <definition>System::Drawing::Rectangle Aspose::Words::Rendering::NodeRendererBase::GetBoundsInPixels</definition>
+        <argsstring>(float scale, float horizontalDpi, float verticalDpi)</argsstring>
+        <name>GetBoundsInPixels</name>
+        <qualifiedname>Aspose::Words::Rendering::NodeRendererBase::GetBoundsInPixels</qualifiedname>
+        <param>
+          <type>float</type>
+          <declname>scale</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>horizontalDpi</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>verticalDpi</declname>
+        </param>
+        <briefdescription>
+<para>Calculates the bounds of the shape in pixels for a specified zoom factor and resolution. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This method converts <ref refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a170426eac804aba5edd310bc106b15ae" kindref="member">BoundsInPoints</ref> into rectangle in pixels.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>scale</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The zoom factor (1.0 is 100%). </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>horizontalDpi</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The horizontal resolution to convert from points to pixels (dots per inch). </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>verticalDpi</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The vertical resolution to convert from points to pixels (dots per inch).</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The actual (as rendered on the page) bounding box of the shape in pixels.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to measure and scale shapes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Office<sp/>math.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>officeMath<sp/>=<sp/>System::DynamicCast&lt;OfficeMath&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>renderer<sp/>=<sp/>MakeObject&lt;OfficeMathRenderer&gt;(officeMath);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Verify<sp/>the<sp/>size<sp/>of<sp/>the<sp/>image<sp/>that<sp/>the<sp/>OfficeMath<sp/>object<sp/>will<sp/>create<sp/>when<sp/>we<sp/>render<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_SizeInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(13.0f,<sp/>renderer-&gt;get_SizeInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_BoundsInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(13.0f,<sp/>renderer-&gt;get_BoundsInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Shapes<sp/>with<sp/>transparent<sp/>parts<sp/>may<sp/>contain<sp/>different<sp/>values<sp/>in<sp/>the<sp/>&quot;OpaqueBoundsInPoints&quot;<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_OpaqueBoundsInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(14.2f,<sp/>renderer-&gt;get_OpaqueBoundsInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>shape<sp/>size<sp/>in<sp/>pixels,<sp/>with<sp/>linear<sp/>scaling<sp/>to<sp/>a<sp/>specific<sp/>DPI.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.drawing.rectangle/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Rectangle</ref><sp/>bounds<sp/>=<sp/>renderer-&gt;GetBoundsInPixels(1.0f,<sp/>96.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(18,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>shape<sp/>size<sp/>in<sp/>pixels,<sp/>but<sp/>with<sp/>a<sp/>different<sp/>DPI<sp/>for<sp/>the<sp/>horizontal<sp/>and<sp/>vertical<sp/>dimensions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetBoundsInPixels(1.0f,<sp/>96.0f,<sp/>150.0f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(28,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>opaque<sp/>bounds<sp/>may<sp/>vary<sp/>here<sp/>also.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetOpaqueBoundsInPixels(1.0f,<sp/>96.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(18,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetOpaqueBoundsInPixels(1.0f,<sp/>96.0f,<sp/>150.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(30,<sp/>bounds.get_Height());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" line="467" column="35"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a81835566c9fb1f97f9a9c1b99a87a705" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.drawing.rectangle/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Rectangle</ref></type>
+        <definition>System::Drawing::Rectangle Aspose::Words::Rendering::NodeRendererBase::GetOpaqueBoundsInPixels</definition>
+        <argsstring>(float scale, float dpi)</argsstring>
+        <name>GetOpaqueBoundsInPixels</name>
+        <qualifiedname>Aspose::Words::Rendering::NodeRendererBase::GetOpaqueBoundsInPixels</qualifiedname>
+        <param>
+          <type>float</type>
+          <declname>scale</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>dpi</declname>
+        </param>
+        <briefdescription>
+<para>Calculates the opaque bounds of the shape in pixels for a specified zoom factor and resolution. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This method converts <ref refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a085e99b0033d4249cf54a6964122333b" kindref="member">OpaqueBoundsInPoints</ref> into rectangle in pixels and it is useful when you want to create a bitmap for rendering the shape with only opaque part of the shape.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>scale</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The zoom factor (1.0 is 100%). </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>dpi</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The resolution to convert from points to pixels (dots per inch).</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The opaque rectangle of the shape in pixels.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to measure and scale shapes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Office<sp/>math.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>officeMath<sp/>=<sp/>System::DynamicCast&lt;OfficeMath&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>renderer<sp/>=<sp/>MakeObject&lt;OfficeMathRenderer&gt;(officeMath);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Verify<sp/>the<sp/>size<sp/>of<sp/>the<sp/>image<sp/>that<sp/>the<sp/>OfficeMath<sp/>object<sp/>will<sp/>create<sp/>when<sp/>we<sp/>render<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_SizeInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(13.0f,<sp/>renderer-&gt;get_SizeInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_BoundsInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(13.0f,<sp/>renderer-&gt;get_BoundsInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Shapes<sp/>with<sp/>transparent<sp/>parts<sp/>may<sp/>contain<sp/>different<sp/>values<sp/>in<sp/>the<sp/>&quot;OpaqueBoundsInPoints&quot;<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_OpaqueBoundsInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(14.2f,<sp/>renderer-&gt;get_OpaqueBoundsInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>shape<sp/>size<sp/>in<sp/>pixels,<sp/>with<sp/>linear<sp/>scaling<sp/>to<sp/>a<sp/>specific<sp/>DPI.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.drawing.rectangle/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Rectangle</ref><sp/>bounds<sp/>=<sp/>renderer-&gt;GetBoundsInPixels(1.0f,<sp/>96.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(18,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>shape<sp/>size<sp/>in<sp/>pixels,<sp/>but<sp/>with<sp/>a<sp/>different<sp/>DPI<sp/>for<sp/>the<sp/>horizontal<sp/>and<sp/>vertical<sp/>dimensions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetBoundsInPixels(1.0f,<sp/>96.0f,<sp/>150.0f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(28,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>opaque<sp/>bounds<sp/>may<sp/>vary<sp/>here<sp/>also.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetOpaqueBoundsInPixels(1.0f,<sp/>96.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(18,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetOpaqueBoundsInPixels(1.0f,<sp/>96.0f,<sp/>150.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(30,<sp/>bounds.get_Height());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" line="521" column="35"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a41627c04bb81c05be89ee8d279a3c490" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.drawing.rectangle/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Rectangle</ref></type>
+        <definition>System::Drawing::Rectangle Aspose::Words::Rendering::NodeRendererBase::GetOpaqueBoundsInPixels</definition>
+        <argsstring>(float scale, float horizontalDpi, float verticalDpi)</argsstring>
+        <name>GetOpaqueBoundsInPixels</name>
+        <qualifiedname>Aspose::Words::Rendering::NodeRendererBase::GetOpaqueBoundsInPixels</qualifiedname>
+        <param>
+          <type>float</type>
+          <declname>scale</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>horizontalDpi</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>verticalDpi</declname>
+        </param>
+        <briefdescription>
+<para>Calculates the opaque bounds of the shape in pixels for a specified zoom factor and resolution. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This method converts <ref refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a085e99b0033d4249cf54a6964122333b" kindref="member">OpaqueBoundsInPoints</ref> into rectangle in pixels and it is useful when you want to create a bitmap for rendering the shape with only opaque part of the shape.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>scale</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The zoom factor (1.0 is 100%). </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>horizontalDpi</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The horizontal resolution to convert from points to pixels (dots per inch). </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>verticalDpi</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The vertical resolution to convert from points to pixels (dots per inch).</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The opaque rectangle of the shape in pixels.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to measure and scale shapes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Office<sp/>math.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>officeMath<sp/>=<sp/>System::DynamicCast&lt;OfficeMath&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>renderer<sp/>=<sp/>MakeObject&lt;OfficeMathRenderer&gt;(officeMath);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Verify<sp/>the<sp/>size<sp/>of<sp/>the<sp/>image<sp/>that<sp/>the<sp/>OfficeMath<sp/>object<sp/>will<sp/>create<sp/>when<sp/>we<sp/>render<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_SizeInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(13.0f,<sp/>renderer-&gt;get_SizeInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_BoundsInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(13.0f,<sp/>renderer-&gt;get_BoundsInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Shapes<sp/>with<sp/>transparent<sp/>parts<sp/>may<sp/>contain<sp/>different<sp/>values<sp/>in<sp/>the<sp/>&quot;OpaqueBoundsInPoints&quot;<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_OpaqueBoundsInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(14.2f,<sp/>renderer-&gt;get_OpaqueBoundsInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>shape<sp/>size<sp/>in<sp/>pixels,<sp/>with<sp/>linear<sp/>scaling<sp/>to<sp/>a<sp/>specific<sp/>DPI.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.drawing.rectangle/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Rectangle</ref><sp/>bounds<sp/>=<sp/>renderer-&gt;GetBoundsInPixels(1.0f,<sp/>96.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(18,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>shape<sp/>size<sp/>in<sp/>pixels,<sp/>but<sp/>with<sp/>a<sp/>different<sp/>DPI<sp/>for<sp/>the<sp/>horizontal<sp/>and<sp/>vertical<sp/>dimensions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetBoundsInPixels(1.0f,<sp/>96.0f,<sp/>150.0f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(28,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>opaque<sp/>bounds<sp/>may<sp/>vary<sp/>here<sp/>also.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetOpaqueBoundsInPixels(1.0f,<sp/>96.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(18,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetOpaqueBoundsInPixels(1.0f,<sp/>96.0f,<sp/>150.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(30,<sp/>bounds.get_Height());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" line="576" column="35"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a3584bc103bc95061a9202861d128a59e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.drawing.size/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Size</ref></type>
+        <definition>System::Drawing::Size Aspose::Words::Rendering::NodeRendererBase::GetSizeInPixels</definition>
+        <argsstring>(float scale, float dpi)</argsstring>
+        <name>GetSizeInPixels</name>
+        <qualifiedname>Aspose::Words::Rendering::NodeRendererBase::GetSizeInPixels</qualifiedname>
+        <param>
+          <type>float</type>
+          <declname>scale</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>dpi</declname>
+        </param>
+        <briefdescription>
+<para>Calculates the size of the shape in pixels for a specified zoom factor and resolution. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This method converts <ref refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a29741f3e30d534db6e163c206def0372" kindref="member">SizeInPoints</ref> into size in pixels and it is useful when you want to create a bitmap for rendering the shape neatly onto the bitmap.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>scale</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The zoom factor (1.0 is 100%). </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>dpi</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The resolution (horizontal and vertical) to convert from points to pixels (dots per inch).</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The size of the shape in pixels.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to measure and scale shapes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Office<sp/>math.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>officeMath<sp/>=<sp/>System::DynamicCast&lt;OfficeMath&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>renderer<sp/>=<sp/>MakeObject&lt;OfficeMathRenderer&gt;(officeMath);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Verify<sp/>the<sp/>size<sp/>of<sp/>the<sp/>image<sp/>that<sp/>the<sp/>OfficeMath<sp/>object<sp/>will<sp/>create<sp/>when<sp/>we<sp/>render<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_SizeInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(13.0f,<sp/>renderer-&gt;get_SizeInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_BoundsInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(13.0f,<sp/>renderer-&gt;get_BoundsInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Shapes<sp/>with<sp/>transparent<sp/>parts<sp/>may<sp/>contain<sp/>different<sp/>values<sp/>in<sp/>the<sp/>&quot;OpaqueBoundsInPoints&quot;<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_OpaqueBoundsInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(14.2f,<sp/>renderer-&gt;get_OpaqueBoundsInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>shape<sp/>size<sp/>in<sp/>pixels,<sp/>with<sp/>linear<sp/>scaling<sp/>to<sp/>a<sp/>specific<sp/>DPI.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.drawing.rectangle/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Rectangle</ref><sp/>bounds<sp/>=<sp/>renderer-&gt;GetBoundsInPixels(1.0f,<sp/>96.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(18,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>shape<sp/>size<sp/>in<sp/>pixels,<sp/>but<sp/>with<sp/>a<sp/>different<sp/>DPI<sp/>for<sp/>the<sp/>horizontal<sp/>and<sp/>vertical<sp/>dimensions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetBoundsInPixels(1.0f,<sp/>96.0f,<sp/>150.0f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(28,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>opaque<sp/>bounds<sp/>may<sp/>vary<sp/>here<sp/>also.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetOpaqueBoundsInPixels(1.0f,<sp/>96.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(18,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetOpaqueBoundsInPixels(1.0f,<sp/>96.0f,<sp/>150.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(30,<sp/>bounds.get_Height());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" line="305" column="30"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1adb105cb9920c90a2fd5787720bfc371a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.drawing.size/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Size</ref></type>
+        <definition>System::Drawing::Size Aspose::Words::Rendering::NodeRendererBase::GetSizeInPixels</definition>
+        <argsstring>(float scale, float horizontalDpi, float verticalDpi)</argsstring>
+        <name>GetSizeInPixels</name>
+        <qualifiedname>Aspose::Words::Rendering::NodeRendererBase::GetSizeInPixels</qualifiedname>
+        <param>
+          <type>float</type>
+          <declname>scale</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>horizontalDpi</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>verticalDpi</declname>
+        </param>
+        <briefdescription>
+<para>Calculates the size of the shape in pixels for a specified zoom factor and resolution. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This method converts <ref refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a29741f3e30d534db6e163c206def0372" kindref="member">SizeInPoints</ref> into size in pixels and it is useful when you want to create a bitmap for rendering the shape neatly onto the bitmap.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>scale</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The zoom factor (1.0 is 100%). </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>horizontalDpi</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The horizontal resolution to convert from points to pixels (dots per inch). </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>verticalDpi</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The vertical resolution to convert from points to pixels (dots per inch).</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The size of the shape in pixels.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to measure and scale shapes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Office<sp/>math.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>officeMath<sp/>=<sp/>System::DynamicCast&lt;OfficeMath&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>renderer<sp/>=<sp/>MakeObject&lt;OfficeMathRenderer&gt;(officeMath);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Verify<sp/>the<sp/>size<sp/>of<sp/>the<sp/>image<sp/>that<sp/>the<sp/>OfficeMath<sp/>object<sp/>will<sp/>create<sp/>when<sp/>we<sp/>render<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_SizeInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(13.0f,<sp/>renderer-&gt;get_SizeInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_BoundsInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(13.0f,<sp/>renderer-&gt;get_BoundsInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Shapes<sp/>with<sp/>transparent<sp/>parts<sp/>may<sp/>contain<sp/>different<sp/>values<sp/>in<sp/>the<sp/>&quot;OpaqueBoundsInPoints&quot;<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_OpaqueBoundsInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(14.2f,<sp/>renderer-&gt;get_OpaqueBoundsInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>shape<sp/>size<sp/>in<sp/>pixels,<sp/>with<sp/>linear<sp/>scaling<sp/>to<sp/>a<sp/>specific<sp/>DPI.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.drawing.rectangle/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Rectangle</ref><sp/>bounds<sp/>=<sp/>renderer-&gt;GetBoundsInPixels(1.0f,<sp/>96.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(18,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>shape<sp/>size<sp/>in<sp/>pixels,<sp/>but<sp/>with<sp/>a<sp/>different<sp/>DPI<sp/>for<sp/>the<sp/>horizontal<sp/>and<sp/>vertical<sp/>dimensions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetBoundsInPixels(1.0f,<sp/>96.0f,<sp/>150.0f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(28,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>opaque<sp/>bounds<sp/>may<sp/>vary<sp/>here<sp/>also.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetOpaqueBoundsInPixels(1.0f,<sp/>96.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(18,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetOpaqueBoundsInPixels(1.0f,<sp/>96.0f,<sp/>150.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(30,<sp/>bounds.get_Height());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" line="360" column="30"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a49d291af2e22c038f0b0733705f16d45" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.drawing.size_f/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::SizeF</ref></type>
+        <definition>System::Drawing::SizeF Aspose::Words::Rendering::NodeRendererBase::RenderToScale</definition>
+        <argsstring>(const System::SharedPtr&lt; System::Drawing::Graphics &gt; &amp;graphics, float x, float y, float scale)</argsstring>
+        <name>RenderToScale</name>
+        <qualifiedname>Aspose::Words::Rendering::NodeRendererBase::RenderToScale</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.drawing.graphics/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Graphics</ref> &gt; &amp;</type>
+          <declname>graphics</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>x</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>y</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>scale</declname>
+        </param>
+        <briefdescription>
+<para>Renders the shape into a <ref refid="class/system.drawing.graphics/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">Graphics</ref> object to a specified scale. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>graphics</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The object where to render to. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>x</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The X coordinate (in world units) of the top left corner of the rendered shape. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>y</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The Y coordinate (in world units) of the top left corner of the rendered shape. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>scale</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The scale for rendering the shape (1.0 is 100%).</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The width and height (in world units) of the rendered shape. </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" line="587" column="31"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a2e6865d81ce7332a801398c16b9fb7a2" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>float</type>
+        <definition>float Aspose::Words::Rendering::NodeRendererBase::RenderToSize</definition>
+        <argsstring>(const System::SharedPtr&lt; System::Drawing::Graphics &gt; &amp;graphics, float x, float y, float width, float height)</argsstring>
+        <name>RenderToSize</name>
+        <qualifiedname>Aspose::Words::Rendering::NodeRendererBase::RenderToSize</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.drawing.graphics/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Graphics</ref> &gt; &amp;</type>
+          <declname>graphics</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>x</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>y</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>width</declname>
+        </param>
+        <param>
+          <type>float</type>
+          <declname>height</declname>
+        </param>
+        <briefdescription>
+<para>Renders the shape into a <ref refid="class/system.drawing.graphics/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">Graphics</ref> object to a specified size. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>graphics</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The object where to render to. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>x</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The X coordinate (in world units) of the top left corner of the rendered shape. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>y</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The Y coordinate (in world units) of the top left corner of the rendered shape. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>width</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The maximum width (in world units) that can be occupied by the rendered shape. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>height</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The maximum height (in world units) that can be occupied by the rendered shape.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>The scale that was automatically calculated for the rendered shape to fit the specified size. </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" line="599" column="14"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1ac001f2b6db7fa79c65a69d15990d0bfc" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Rendering::NodeRendererBase::Save</definition>
+        <argsstring>(const System::SharedPtr&lt; System::IO::Stream &gt; &amp;stream, System::SharedPtr&lt; Aspose::Words::Saving::ImageSaveOptions &gt; saveOptions)</argsstring>
+        <name>Save</name>
+        <qualifiedname>Aspose::Words::Rendering::NodeRendererBase::Save</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <declname>stream</declname>
+        </param>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_image_save_options" kindref="compound">Aspose::Words::Saving::ImageSaveOptions</ref> &gt;</type>
+          <declname>saveOptions</declname>
+        </param>
+        <briefdescription>
+<para>Renders the shape into an image and saves into a stream. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>stream</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The stream where to save the image of the shape. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>saveOptions</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Specifies the options that control how the shape is rendered and saved. Can be null. If this is null, the image will be saved in the PNG format.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use a shape renderer to export shapes to files in the local file system. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Various<sp/>shapes.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;Shape&gt;&gt;<sp/>shapes<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;LINQ_OfType&lt;SharedPtr&lt;Shape&gt;&gt;()-&gt;LINQ_ToArray();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(7,<sp/>shapes-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>7<sp/>shapes<sp/>in<sp/>the<sp/>document,<sp/>including<sp/>one<sp/>group<sp/>shape<sp/>with<sp/>2<sp/>child<sp/>shapes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>render<sp/>every<sp/>shape<sp/>to<sp/>an<sp/>image<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>while<sp/>ignoring<sp/>the<sp/>group<sp/>shapes<sp/>since<sp/>they<sp/>have<sp/>no<sp/>appearance.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>will<sp/>produce<sp/>6<sp/>image<sp/>files.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>shape<sp/>:<sp/>System::IterateOver(doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;LINQ_OfType&lt;SharedPtr&lt;Shape&gt;&gt;()))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;ShapeRenderer&gt;<sp/>renderer<sp/>=<sp/>shape-&gt;GetShapeRenderer();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;ImageSaveOptions&gt;(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847af8fd4f1b5b05c6b1cc6a661141fd4f54" kindref="member" tooltip="Renders a page of the document and saves it as a PNG file.">SaveFormat::Png</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>renderer-&gt;Save(ArtifactsDir<sp/>+<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;Shape.RenderAllShapes.{0}.png&quot;</highlight><highlight class="normal">,<sp/>shape-&gt;get_Name()),<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" line="651" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a734e17d22caf48cb7627e453c160917b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Rendering::NodeRendererBase::Save</definition>
+        <argsstring>(const System::String &amp;fileName, System::SharedPtr&lt; Aspose::Words::Saving::ImageSaveOptions &gt; saveOptions)</argsstring>
+        <name>Save</name>
+        <qualifiedname>Aspose::Words::Rendering::NodeRendererBase::Save</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>fileName</declname>
+        </param>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_image_save_options" kindref="compound">Aspose::Words::Saving::ImageSaveOptions</ref> &gt;</type>
+          <declname>saveOptions</declname>
+        </param>
+        <briefdescription>
+<para>Renders the shape into an image and saves into a file. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>fileName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The name for the image file. If a file with the specified name already exists, the existing file is overwritten. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>saveOptions</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Specifies the options that control how the shape is rendered and saved. Can be null.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to render an Office <ref refid="namespace_aspose_1_1_words_1_1_math" kindref="compound">Math</ref> object into an image file in the local file system. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Office<sp/>math.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>math<sp/>=<sp/>System::DynamicCast&lt;OfficeMath&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;ImageSaveOptions&quot;<sp/>object<sp/>to<sp/>pass<sp/>to<sp/>the<sp/>node<sp/>renderer&apos;s<sp/>&quot;Save&quot;<sp/>method<sp/>to<sp/>modify</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>how<sp/>it<sp/>renders<sp/>the<sp/>OfficeMath<sp/>node<sp/>into<sp/>an<sp/>image.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;ImageSaveOptions&gt;(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847af8fd4f1b5b05c6b1cc6a661141fd4f54" kindref="member" tooltip="Renders a page of the document and saves it as a PNG file.">SaveFormat::Png</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;Scale&quot;<sp/>property<sp/>to<sp/>5<sp/>to<sp/>render<sp/>the<sp/>object<sp/>to<sp/>five<sp/>times<sp/>its<sp/>original<sp/>size.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_Scale(5.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">math-&gt;GetMathRenderer()-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.RenderOfficeMath.png&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" line="623" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a3cc920392b90fb8da500dc8db12b794e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename CharType</type>
+          </param>
+          <param>
+            <type>typename Traits</type>
+          </param>
+        </templateparamlist>
+        <type>void</type>
+        <definition>void Aspose::Words::Rendering::NodeRendererBase::Save</definition>
+        <argsstring>(std::basic_ostream&lt; CharType, Traits &gt; &amp;stream, System::SharedPtr&lt; Aspose::Words::Saving::ImageSaveOptions &gt; saveOptions)</argsstring>
+        <name>Save</name>
+        <qualifiedname>Aspose::Words::Rendering::NodeRendererBase::Save</qualifiedname>
+        <param>
+          <type>std::basic_ostream&lt; CharType, Traits &gt; &amp;</type>
+          <declname>stream</declname>
+        </param>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_image_save_options" kindref="compound">Aspose::Words::Saving::ImageSaveOptions</ref> &gt;</type>
+          <declname>saveOptions</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" line="656" column="10" bodyfile="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" bodystart="656" bodyend="660"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Base class for <ref refid="class_aspose_1_1_words_1_1_rendering_1_1_shape_renderer" kindref="compound">ShapeRenderer</ref> and <ref refid="class_aspose_1_1_words_1_1_rendering_1_1_office_math_renderer" kindref="compound">OfficeMathRenderer</ref>. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to measure and scale shapes. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Office<sp/>math.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>officeMath<sp/>=<sp/>System::DynamicCast&lt;OfficeMath&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a5312d72b7c20e87eb071997a30588a47" kindref="member" tooltip="An Office Math object. Can be equation, function, matrix or one of other mathematical objects....">NodeType::OfficeMath</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>renderer<sp/>=<sp/>MakeObject&lt;OfficeMathRenderer&gt;(officeMath);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Verify<sp/>the<sp/>size<sp/>of<sp/>the<sp/>image<sp/>that<sp/>the<sp/>OfficeMath<sp/>object<sp/>will<sp/>create<sp/>when<sp/>we<sp/>render<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_SizeInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(13.0f,<sp/>renderer-&gt;get_SizeInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_BoundsInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(13.0f,<sp/>renderer-&gt;get_BoundsInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Shapes<sp/>with<sp/>transparent<sp/>parts<sp/>may<sp/>contain<sp/>different<sp/>values<sp/>in<sp/>the<sp/>&quot;OpaqueBoundsInPoints&quot;<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(119.0f,<sp/>renderer-&gt;get_OpaqueBoundsInPoints().get_Width(),<sp/>0.2f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(14.2f,<sp/>renderer-&gt;get_OpaqueBoundsInPoints().get_Height(),<sp/>0.1f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>shape<sp/>size<sp/>in<sp/>pixels,<sp/>with<sp/>linear<sp/>scaling<sp/>to<sp/>a<sp/>specific<sp/>DPI.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.drawing.rectangle/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Rectangle</ref><sp/>bounds<sp/>=<sp/>renderer-&gt;GetBoundsInPixels(1.0f,<sp/>96.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(18,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>shape<sp/>size<sp/>in<sp/>pixels,<sp/>but<sp/>with<sp/>a<sp/>different<sp/>DPI<sp/>for<sp/>the<sp/>horizontal<sp/>and<sp/>vertical<sp/>dimensions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetBoundsInPixels(1.0f,<sp/>96.0f,<sp/>150.0f);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(28,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>opaque<sp/>bounds<sp/>may<sp/>vary<sp/>here<sp/>also.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetOpaqueBoundsInPixels(1.0f,<sp/>96.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(18,<sp/>bounds.get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">bounds<sp/>=<sp/>renderer-&gt;GetOpaqueBoundsInPixels(1.0f,<sp/>96.0f,<sp/>150.0f);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(159,<sp/>bounds.get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(30,<sp/>bounds.get_Height());</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Rendering::NodeRendererBase</label>
+        <link refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::Rendering::OfficeMathRenderer</label>
+        <link refid="class_aspose_1_1_words_1_1_rendering_1_1_office_math_renderer"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Rendering::ShapeRenderer</label>
+        <link refid="class_aspose_1_1_words_1_1_rendering_1_1_shape_renderer"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Rendering::NodeRendererBase</label>
+        <link refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" line="96" column="1" bodyfile="Aspose.Words.Cpp/Rendering/NodeRendererBase.h" bodystart="97" bodyend="671"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1af862cdaecae829fb79319f944754a90a" prot="private" virt="non-virtual"><scope>Aspose::Words::Rendering::NodeRendererBase</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a170426eac804aba5edd310bc106b15ae" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::NodeRendererBase</scope><name>get_BoundsInPoints</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a085e99b0033d4249cf54a6964122333b" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::NodeRendererBase</scope><name>get_OpaqueBoundsInPoints</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a29741f3e30d534db6e163c206def0372" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::NodeRendererBase</scope><name>get_SizeInPoints</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1ac744188e67c8572372978c159d8e11ef" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::NodeRendererBase</scope><name>GetBoundsInPixels</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a31998ab716d8cd7ab4fb6ca16c75c063" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::NodeRendererBase</scope><name>GetBoundsInPixels</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a81835566c9fb1f97f9a9c1b99a87a705" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::NodeRendererBase</scope><name>GetOpaqueBoundsInPixels</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a41627c04bb81c05be89ee8d279a3c490" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::NodeRendererBase</scope><name>GetOpaqueBoundsInPixels</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a3584bc103bc95061a9202861d128a59e" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::NodeRendererBase</scope><name>GetSizeInPixels</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1adb105cb9920c90a2fd5787720bfc371a" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::NodeRendererBase</scope><name>GetSizeInPixels</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1ac9f25efda5c009df52c4eb92f86ab212" prot="private" virt="non-virtual"><scope>Aspose::Words::Rendering::NodeRendererBase</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a9f268ed986352dfa8471ba119b12d076" prot="private" virt="non-virtual"><scope>Aspose::Words::Rendering::NodeRendererBase</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a875808fb56410161fe295de633ec7f56" prot="private" virt="non-virtual"><scope>Aspose::Words::Rendering::NodeRendererBase</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a607badbbf86f4e3a25a8bb6596dfc3da" prot="private" virt="non-virtual"><scope>Aspose::Words::Rendering::NodeRendererBase</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a54c7dc4e469052972b2244cf52f7b311" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::NodeRendererBase</scope><name>NodeRendererBase</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a49d291af2e22c038f0b0733705f16d45" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::NodeRendererBase</scope><name>RenderToScale</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a2e6865d81ce7332a801398c16b9fb7a2" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::NodeRendererBase</scope><name>RenderToSize</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1afee3a16b4b825220391fd6e911b122ab" prot="private" virt="non-virtual"><scope>Aspose::Words::Rendering::NodeRendererBase</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a734e17d22caf48cb7627e453c160917b" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::NodeRendererBase</scope><name>Save</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1ac001f2b6db7fa79c65a69d15990d0bfc" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::NodeRendererBase</scope><name>Save</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a3cc920392b90fb8da500dc8db12b794e" prot="public" virt="non-virtual"><scope>Aspose::Words::Rendering::NodeRendererBase</scope><name>Save</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1ad8eb6b9734e0eefb70e0f9b7478ffd45" prot="private" virt="non-virtual"><scope>Aspose::Words::Rendering::NodeRendererBase</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_rendering_1_1_node_renderer_base_1a836801c30fe50ab3ba805c5ee6dd6fc3" prot="private" virt="non-virtual"><scope>Aspose::Words::Rendering::NodeRendererBase</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

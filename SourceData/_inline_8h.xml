@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="_inline_8h" kind="file" language="C++">
+    <compoundname>Inline.h</compoundname>
+    <includes local="no">system/shared_ptr.h</includes>
+    <includes refid="_i_inline_8h" local="no">Aspose.Words.Cpp/IInline.h</includes>
+    <includes refid="_i_trackable_node_8h" local="no">Aspose.Words.Cpp/Revisions/ITrackableNode.h</includes>
+    <includes refid="_node_8h" local="no">Aspose.Words.Cpp/Node.h</includes>
+    <includes refid="aspose__words__api__defs_8h" local="no">Aspose.Words.Cpp/aspose_words_api_defs.h</includes>
+    <includedby refid="_run_8h" local="no">Aspose.Words.Cpp/Run.h</includedby>
+    <includedby refid="_special_char_8h" local="no">Aspose.Words.Cpp/SpecialChar.h</includedby>
+    <incdepgraph>
+      <node id="5">
+        <label>Aspose.Words.Cpp/Model/Formatting/RunPrExpandFlags.h</label>
+      </node>
+      <node id="3">
+        <label>Aspose.Words.Cpp/IInline.h</label>
+        <link refid="_i_inline_8h_source"/>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="6" relation="include">
+        </childnode>
+      </node>
+      <node id="18">
+        <label>Aspose.Words.Cpp/INodeCloningListener.h</label>
+        <link refid="_i_node_cloning_listener_8h_source"/>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>Aspose.Words.Cpp/IRunAttrSource.h</label>
+        <link refid="_i_run_attr_source_8h_source"/>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose.Words.Cpp/Inline.h</label>
+        <link refid="_inline_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+        <childnode refid="9" relation="include">
+        </childnode>
+        <childnode refid="11" relation="include">
+        </childnode>
+        <childnode refid="17" relation="include">
+        </childnode>
+      </node>
+      <node id="11">
+        <label>Aspose.Words.Cpp/Node.h</label>
+        <link refid="_node_8h_source"/>
+        <childnode refid="12" relation="include">
+        </childnode>
+        <childnode refid="13" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+        <childnode refid="14" relation="include">
+        </childnode>
+        <childnode refid="18" relation="include">
+        </childnode>
+        <childnode refid="19" relation="include">
+        </childnode>
+        <childnode refid="17" relation="include">
+        </childnode>
+      </node>
+      <node id="14">
+        <label>Aspose.Words.Cpp/NodeType.h</label>
+        <link refid="_node_type_8h_source"/>
+        <childnode refid="15" relation="include">
+        </childnode>
+        <childnode refid="16" relation="include">
+        </childnode>
+        <childnode refid="17" relation="include">
+        </childnode>
+      </node>
+      <node id="10">
+        <label>Aspose.Words.Cpp/Revisions/IMoveTrackableNode.h</label>
+        <link refid="_i_move_trackable_node_8h_source"/>
+        <childnode refid="7" relation="include">
+        </childnode>
+      </node>
+      <node id="9">
+        <label>Aspose.Words.Cpp/Revisions/ITrackableNode.h</label>
+        <link refid="_i_trackable_node_8h_source"/>
+        <childnode refid="10" relation="include">
+        </childnode>
+      </node>
+      <node id="19">
+        <label>Aspose.Words.Cpp/SaveFormat.h</label>
+        <link refid="_save_format_8h_source"/>
+        <childnode refid="15" relation="include">
+        </childnode>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="16" relation="include">
+        </childnode>
+        <childnode refid="17" relation="include">
+        </childnode>
+      </node>
+      <node id="17">
+        <label>Aspose.Words.Cpp/aspose_words_api_defs.h</label>
+        <link refid="aspose__words__api__defs_8h_source"/>
+      </node>
+      <node id="8">
+        <label>cstdint</label>
+      </node>
+      <node id="13">
+        <label>system/array.h</label>
+      </node>
+      <node id="12">
+        <label>system/constraints.h</label>
+      </node>
+      <node id="16">
+        <label>system/enum.h</label>
+      </node>
+      <node id="4">
+        <label>system/enum_helpers.h</label>
+      </node>
+      <node id="7">
+        <label>system/object.h</label>
+      </node>
+      <node id="15">
+        <label>system/object_ext.h</label>
+      </node>
+      <node id="2">
+        <label>system/shared_ptr.h</label>
+      </node>
+    </incdepgraph>
+    <invincdepgraph>
+      <node id="4">
+        <label>Aspose.Words.Cpp/AbsolutePositionTab.h</label>
+        <link refid="_absolute_position_tab_8h_source"/>
+      </node>
+      <node id="5">
+        <label>Aspose.Words.Cpp/Fields/FieldChar.h</label>
+        <link refid="_field_char_8h_source"/>
+        <childnode refid="6" relation="include">
+        </childnode>
+        <childnode refid="7" relation="include">
+        </childnode>
+        <childnode refid="8" relation="include">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>Aspose.Words.Cpp/Fields/FieldEnd.h</label>
+        <link refid="_field_end_8h_source"/>
+      </node>
+      <node id="7">
+        <label>Aspose.Words.Cpp/Fields/FieldSeparator.h</label>
+        <link refid="_field_separator_8h_source"/>
+      </node>
+      <node id="8">
+        <label>Aspose.Words.Cpp/Fields/FieldStart.h</label>
+        <link refid="_field_start_8h_source"/>
+      </node>
+      <node id="9">
+        <label>Aspose.Words.Cpp/Fields/FormField.h</label>
+        <link refid="_form_field_8h_source"/>
+      </node>
+      <node id="1">
+        <label>Aspose.Words.Cpp/Inline.h</label>
+        <link refid="_inline_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose.Words.Cpp/Run.h</label>
+        <link refid="_run_8h_source"/>
+      </node>
+      <node id="3">
+        <label>Aspose.Words.Cpp/SpecialChar.h</label>
+        <link refid="_special_char_8h_source"/>
+        <childnode refid="4" relation="include">
+        </childnode>
+        <childnode refid="5" relation="include">
+        </childnode>
+        <childnode refid="9" relation="include">
+        </childnode>
+      </node>
+    </invincdepgraph>
+    <innerclass refid="class_aspose_1_1_words_1_1_inline" prot="public">Aspose::Words::Inline</innerclass>
+    <innernamespace refid="namespace_aspose">Aspose</innernamespace>
+    <innernamespace refid="namespace_aspose_1_1_words">Aspose::Words</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/Inline.h"/>
+  </compounddef>
+</doxygen>

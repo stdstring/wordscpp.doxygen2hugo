@@ -1,0 +1,358 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_run_collection" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::RunCollection</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_node_collection" prot="public" virt="non-virtual">Aspose::Words::NodeCollection</basecompoundref>
+    <includes refid="_run_collection_8h" local="no">Aspose.Words.Cpp/RunCollection.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_run_collection_1aedf0ed5d8c6c8af98021163b475a5ab2" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_node_collection" kindref="compound">Aspose::Words::NodeCollection</ref></type>
+        <definition>typedef Aspose::Words::NodeCollection Aspose::Words::RunCollection::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::RunCollection::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RunCollection.h" line="84" column="43" bodyfile="Aspose.Words.Cpp/RunCollection.h" bodystart="84" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_run_collection_1a96701b37814450b0394bbda72d44e7e6" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_run_collection" kindref="compound">RunCollection</ref></type>
+        <definition>typedef RunCollection Aspose::Words::RunCollection::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::RunCollection::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RunCollection.h" line="83" column="27" bodyfile="Aspose.Words.Cpp/RunCollection.h" bodystart="83" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_run_collection_1aa5660a837d969419afca3cf06a09ab9a" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node_collection" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::RunCollection::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::RunCollection::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RunCollection.h" line="86" column="37" bodyfile="Aspose.Words.Cpp/RunCollection.h" bodystart="86" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_run_collection_1a5d2e6df06e217a8f66ba237a766ed835" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::RunCollection::~RunCollection</definition>
+        <argsstring>()</argsstring>
+        <name>~RunCollection</name>
+        <qualifiedname>Aspose::Words::RunCollection::~RunCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RunCollection.h" line="216" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_run_collection_1ab05ad4699728d53d362041d53397cfc4" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::RunCollection::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::RunCollection::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RunCollection.h" line="87" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_run_collection_1afe0bf364de5804434196fd760210f45c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_run" kindref="compound">Aspose::Words::Run</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Run &gt; Aspose::Words::RunCollection::idx_get</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>idx_get</name>
+        <qualifiedname>Aspose::Words::RunCollection::idx_get</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Retrieves a <bold>Run</bold> at the given index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The index is zero-based.</para>
+<para>Negative indexes are allowed and indicate access from the back of the collection. For example -1 means the last item, -2 means the second before last and so on.</para>
+<para>If index is greater than or equal to the number of items in the list, this returns a null reference.</para>
+<para>If index is negative and its absolute value is greater than the number of items in the list, this returns a null reference.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>index</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>An index into the collection.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to determine the revision type of an inline node. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Revision<sp/>runs.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>edit<sp/>the<sp/>document<sp/>while<sp/>the<sp/>&quot;Track<sp/>Changes&quot;<sp/>option,<sp/>found<sp/>in<sp/>via<sp/>Review<sp/>-&gt;<sp/>Tracking,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>turned<sp/>on<sp/>in<sp/>Microsoft<sp/>Word,<sp/>the<sp/>changes<sp/>we<sp/>apply<sp/>count<sp/>as<sp/>revisions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>editing<sp/>a<sp/>document<sp/>using<sp/>Aspose.Words,<sp/>we<sp/>can<sp/>begin<sp/>tracking<sp/>revisions<sp/>by</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>invoking<sp/>the<sp/>document&apos;s<sp/>&quot;StartTrackRevisions&quot;<sp/>method<sp/>and<sp/>stop<sp/>tracking<sp/>by<sp/>using<sp/>the<sp/>&quot;StopTrackRevisions&quot;<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>either<sp/>accept<sp/>revisions<sp/>to<sp/>assimilate<sp/>them<sp/>into<sp/>the<sp/>document</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>or<sp/>reject<sp/>them<sp/>to<sp/>change<sp/>the<sp/>proposed<sp/>change<sp/>effectively.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(6,<sp/>doc-&gt;get_Revisions()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>parent<sp/>node<sp/>of<sp/>a<sp/>revision<sp/>is<sp/>the<sp/>run<sp/>that<sp/>the<sp/>revision<sp/>concerns.<sp/>A<sp/>Run<sp/>is<sp/>an<sp/>Inline<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>run<sp/>=<sp/>System::DynamicCast&lt;Run&gt;(doc-&gt;get_Revisions()-&gt;idx_get(0)-&gt;get_ParentNode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Paragraph&gt;<sp/>firstParagraph<sp/>=<sp/>run-&gt;get_ParentParagraph();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;RunCollection&gt;<sp/>runs<sp/>=<sp/>firstParagraph-&gt;get_Runs();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(6,<sp/>runs-&gt;ToArray()-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>five<sp/>types<sp/>of<sp/>revisions<sp/>that<sp/>can<sp/>flag<sp/>an<sp/>Inline<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>An<sp/>&quot;insert&quot;<sp/>revision:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>revision<sp/>occurs<sp/>when<sp/>we<sp/>insert<sp/>text<sp/>while<sp/>tracking<sp/>changes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(runs-&gt;idx_get(2)-&gt;get_IsInsertRevision());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>A<sp/>&quot;format&quot;<sp/>revision:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>revision<sp/>occurs<sp/>when<sp/>we<sp/>change<sp/>the<sp/>formatting<sp/>of<sp/>text<sp/>while<sp/>tracking<sp/>changes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(runs-&gt;idx_get(2)-&gt;get_IsFormatRevision());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>A<sp/>&quot;move<sp/>from&quot;<sp/>revision:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>highlight<sp/>text<sp/>in<sp/>Microsoft<sp/>Word,<sp/>and<sp/>then<sp/>drag<sp/>it<sp/>to<sp/>a<sp/>different<sp/>place<sp/>in<sp/>the<sp/>document</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>while<sp/>tracking<sp/>changes,<sp/>two<sp/>revisions<sp/>appear.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;move<sp/>from&quot;<sp/>revision<sp/>is<sp/>a<sp/>copy<sp/>of<sp/>the<sp/>text<sp/>originally<sp/>before<sp/>we<sp/>moved<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(runs-&gt;idx_get(4)-&gt;get_IsMoveFromRevision());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>4<sp/>-<sp/><sp/>A<sp/>&quot;move<sp/>to&quot;<sp/>revision:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;move<sp/>to&quot;<sp/>revision<sp/>is<sp/>the<sp/>text<sp/>that<sp/>we<sp/>moved<sp/>in<sp/>its<sp/>new<sp/>position<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;Move<sp/>from&quot;<sp/>and<sp/>&quot;move<sp/>to&quot;<sp/>revisions<sp/>appear<sp/>in<sp/>pairs<sp/>for<sp/>every<sp/>move<sp/>revision<sp/>we<sp/>carry<sp/>out.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Accepting<sp/>a<sp/>move<sp/>revision<sp/>deletes<sp/>the<sp/>&quot;move<sp/>from&quot;<sp/>revision<sp/>and<sp/>its<sp/>text,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>keeps<sp/>the<sp/>text<sp/>from<sp/>the<sp/>&quot;move<sp/>to&quot;<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Rejecting<sp/>a<sp/>move<sp/>revision<sp/>conversely<sp/>keeps<sp/>the<sp/>&quot;move<sp/>from&quot;<sp/>revision<sp/>and<sp/>deletes<sp/>the<sp/>&quot;move<sp/>to&quot;<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(runs-&gt;idx_get(1)-&gt;get_IsMoveToRevision());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>5<sp/>-<sp/><sp/>A<sp/>&quot;delete&quot;<sp/>revision:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>revision<sp/>occurs<sp/>when<sp/>we<sp/>delete<sp/>text<sp/>while<sp/>tracking<sp/>changes.<sp/>When<sp/>we<sp/>delete<sp/>text<sp/>like<sp/>this,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>it<sp/>will<sp/>stay<sp/>in<sp/>the<sp/>document<sp/>as<sp/>a<sp/>revision<sp/>until<sp/>we<sp/>either<sp/>accept<sp/>the<sp/>revision,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>delete<sp/>the<sp/>text<sp/>for<sp/>good,<sp/>or<sp/>reject<sp/>the<sp/>revision,<sp/>which<sp/>will<sp/>keep<sp/>the<sp/>text<sp/>we<sp/>deleted<sp/>where<sp/>it<sp/>was.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(runs-&gt;idx_get(5)-&gt;get_IsDeleteRevision());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RunCollection.h" line="155" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_run_collection_1a3602808a832082b8ebc006ccf3c9c218" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_run" kindref="compound">Aspose::Words::Run</ref> &gt; &gt;</type>
+        <definition>System::ArrayPtr&lt; System::SharedPtr&lt; Aspose::Words::Run &gt; &gt; Aspose::Words::RunCollection::ToArray</definition>
+        <argsstring>()</argsstring>
+        <name>ToArray</name>
+        <qualifiedname>Aspose::Words::RunCollection::ToArray</qualifiedname>
+        <briefdescription>
+<para>Copies all runs from the collection to a new array of runs. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>An array of runs.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to determine the revision type of an inline node. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Revision<sp/>runs.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>edit<sp/>the<sp/>document<sp/>while<sp/>the<sp/>&quot;Track<sp/>Changes&quot;<sp/>option,<sp/>found<sp/>in<sp/>via<sp/>Review<sp/>-&gt;<sp/>Tracking,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>turned<sp/>on<sp/>in<sp/>Microsoft<sp/>Word,<sp/>the<sp/>changes<sp/>we<sp/>apply<sp/>count<sp/>as<sp/>revisions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>editing<sp/>a<sp/>document<sp/>using<sp/>Aspose.Words,<sp/>we<sp/>can<sp/>begin<sp/>tracking<sp/>revisions<sp/>by</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>invoking<sp/>the<sp/>document&apos;s<sp/>&quot;StartTrackRevisions&quot;<sp/>method<sp/>and<sp/>stop<sp/>tracking<sp/>by<sp/>using<sp/>the<sp/>&quot;StopTrackRevisions&quot;<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>either<sp/>accept<sp/>revisions<sp/>to<sp/>assimilate<sp/>them<sp/>into<sp/>the<sp/>document</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>or<sp/>reject<sp/>them<sp/>to<sp/>change<sp/>the<sp/>proposed<sp/>change<sp/>effectively.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(6,<sp/>doc-&gt;get_Revisions()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>parent<sp/>node<sp/>of<sp/>a<sp/>revision<sp/>is<sp/>the<sp/>run<sp/>that<sp/>the<sp/>revision<sp/>concerns.<sp/>A<sp/>Run<sp/>is<sp/>an<sp/>Inline<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>run<sp/>=<sp/>System::DynamicCast&lt;Run&gt;(doc-&gt;get_Revisions()-&gt;idx_get(0)-&gt;get_ParentNode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Paragraph&gt;<sp/>firstParagraph<sp/>=<sp/>run-&gt;get_ParentParagraph();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;RunCollection&gt;<sp/>runs<sp/>=<sp/>firstParagraph-&gt;get_Runs();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(6,<sp/>runs-&gt;ToArray()-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>five<sp/>types<sp/>of<sp/>revisions<sp/>that<sp/>can<sp/>flag<sp/>an<sp/>Inline<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>An<sp/>&quot;insert&quot;<sp/>revision:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>revision<sp/>occurs<sp/>when<sp/>we<sp/>insert<sp/>text<sp/>while<sp/>tracking<sp/>changes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(runs-&gt;idx_get(2)-&gt;get_IsInsertRevision());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>A<sp/>&quot;format&quot;<sp/>revision:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>revision<sp/>occurs<sp/>when<sp/>we<sp/>change<sp/>the<sp/>formatting<sp/>of<sp/>text<sp/>while<sp/>tracking<sp/>changes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(runs-&gt;idx_get(2)-&gt;get_IsFormatRevision());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>A<sp/>&quot;move<sp/>from&quot;<sp/>revision:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>highlight<sp/>text<sp/>in<sp/>Microsoft<sp/>Word,<sp/>and<sp/>then<sp/>drag<sp/>it<sp/>to<sp/>a<sp/>different<sp/>place<sp/>in<sp/>the<sp/>document</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>while<sp/>tracking<sp/>changes,<sp/>two<sp/>revisions<sp/>appear.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;move<sp/>from&quot;<sp/>revision<sp/>is<sp/>a<sp/>copy<sp/>of<sp/>the<sp/>text<sp/>originally<sp/>before<sp/>we<sp/>moved<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(runs-&gt;idx_get(4)-&gt;get_IsMoveFromRevision());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>4<sp/>-<sp/><sp/>A<sp/>&quot;move<sp/>to&quot;<sp/>revision:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;move<sp/>to&quot;<sp/>revision<sp/>is<sp/>the<sp/>text<sp/>that<sp/>we<sp/>moved<sp/>in<sp/>its<sp/>new<sp/>position<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;Move<sp/>from&quot;<sp/>and<sp/>&quot;move<sp/>to&quot;<sp/>revisions<sp/>appear<sp/>in<sp/>pairs<sp/>for<sp/>every<sp/>move<sp/>revision<sp/>we<sp/>carry<sp/>out.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Accepting<sp/>a<sp/>move<sp/>revision<sp/>deletes<sp/>the<sp/>&quot;move<sp/>from&quot;<sp/>revision<sp/>and<sp/>its<sp/>text,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>keeps<sp/>the<sp/>text<sp/>from<sp/>the<sp/>&quot;move<sp/>to&quot;<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Rejecting<sp/>a<sp/>move<sp/>revision<sp/>conversely<sp/>keeps<sp/>the<sp/>&quot;move<sp/>from&quot;<sp/>revision<sp/>and<sp/>deletes<sp/>the<sp/>&quot;move<sp/>to&quot;<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(runs-&gt;idx_get(1)-&gt;get_IsMoveToRevision());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>5<sp/>-<sp/><sp/>A<sp/>&quot;delete&quot;<sp/>revision:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>revision<sp/>occurs<sp/>when<sp/>we<sp/>delete<sp/>text<sp/>while<sp/>tracking<sp/>changes.<sp/>When<sp/>we<sp/>delete<sp/>text<sp/>like<sp/>this,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>it<sp/>will<sp/>stay<sp/>in<sp/>the<sp/>document<sp/>as<sp/>a<sp/>revision<sp/>until<sp/>we<sp/>either<sp/>accept<sp/>the<sp/>revision,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>delete<sp/>the<sp/>text<sp/>for<sp/>good,<sp/>or<sp/>reject<sp/>the<sp/>revision,<sp/>which<sp/>will<sp/>keep<sp/>the<sp/>text<sp/>we<sp/>deleted<sp/>where<sp/>it<sp/>was.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(runs-&gt;idx_get(5)-&gt;get_IsDeleteRevision());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/RunCollection.h" line="212" column="25"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Provides typed access to a collection of <ref refid="class_aspose_1_1_words_1_1_run" kindref="compound">Run</ref> nodes. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to determine the revision type of an inline node. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Revision<sp/>runs.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>edit<sp/>the<sp/>document<sp/>while<sp/>the<sp/>&quot;Track<sp/>Changes&quot;<sp/>option,<sp/>found<sp/>in<sp/>via<sp/>Review<sp/>-&gt;<sp/>Tracking,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>is<sp/>turned<sp/>on<sp/>in<sp/>Microsoft<sp/>Word,<sp/>the<sp/>changes<sp/>we<sp/>apply<sp/>count<sp/>as<sp/>revisions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>editing<sp/>a<sp/>document<sp/>using<sp/>Aspose.Words,<sp/>we<sp/>can<sp/>begin<sp/>tracking<sp/>revisions<sp/>by</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>invoking<sp/>the<sp/>document&apos;s<sp/>&quot;StartTrackRevisions&quot;<sp/>method<sp/>and<sp/>stop<sp/>tracking<sp/>by<sp/>using<sp/>the<sp/>&quot;StopTrackRevisions&quot;<sp/>method.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>either<sp/>accept<sp/>revisions<sp/>to<sp/>assimilate<sp/>them<sp/>into<sp/>the<sp/>document</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>or<sp/>reject<sp/>them<sp/>to<sp/>change<sp/>the<sp/>proposed<sp/>change<sp/>effectively.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(6,<sp/>doc-&gt;get_Revisions()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>parent<sp/>node<sp/>of<sp/>a<sp/>revision<sp/>is<sp/>the<sp/>run<sp/>that<sp/>the<sp/>revision<sp/>concerns.<sp/>A<sp/>Run<sp/>is<sp/>an<sp/>Inline<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>run<sp/>=<sp/>System::DynamicCast&lt;Run&gt;(doc-&gt;get_Revisions()-&gt;idx_get(0)-&gt;get_ParentNode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Paragraph&gt;<sp/>firstParagraph<sp/>=<sp/>run-&gt;get_ParentParagraph();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;RunCollection&gt;<sp/>runs<sp/>=<sp/>firstParagraph-&gt;get_Runs();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(6,<sp/>runs-&gt;ToArray()-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>five<sp/>types<sp/>of<sp/>revisions<sp/>that<sp/>can<sp/>flag<sp/>an<sp/>Inline<sp/>node.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>An<sp/>&quot;insert&quot;<sp/>revision:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>revision<sp/>occurs<sp/>when<sp/>we<sp/>insert<sp/>text<sp/>while<sp/>tracking<sp/>changes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(runs-&gt;idx_get(2)-&gt;get_IsInsertRevision());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>A<sp/>&quot;format&quot;<sp/>revision:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>revision<sp/>occurs<sp/>when<sp/>we<sp/>change<sp/>the<sp/>formatting<sp/>of<sp/>text<sp/>while<sp/>tracking<sp/>changes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(runs-&gt;idx_get(2)-&gt;get_IsFormatRevision());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>A<sp/>&quot;move<sp/>from&quot;<sp/>revision:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>highlight<sp/>text<sp/>in<sp/>Microsoft<sp/>Word,<sp/>and<sp/>then<sp/>drag<sp/>it<sp/>to<sp/>a<sp/>different<sp/>place<sp/>in<sp/>the<sp/>document</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>while<sp/>tracking<sp/>changes,<sp/>two<sp/>revisions<sp/>appear.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;move<sp/>from&quot;<sp/>revision<sp/>is<sp/>a<sp/>copy<sp/>of<sp/>the<sp/>text<sp/>originally<sp/>before<sp/>we<sp/>moved<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(runs-&gt;idx_get(4)-&gt;get_IsMoveFromRevision());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>4<sp/>-<sp/><sp/>A<sp/>&quot;move<sp/>to&quot;<sp/>revision:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;move<sp/>to&quot;<sp/>revision<sp/>is<sp/>the<sp/>text<sp/>that<sp/>we<sp/>moved<sp/>in<sp/>its<sp/>new<sp/>position<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>&quot;Move<sp/>from&quot;<sp/>and<sp/>&quot;move<sp/>to&quot;<sp/>revisions<sp/>appear<sp/>in<sp/>pairs<sp/>for<sp/>every<sp/>move<sp/>revision<sp/>we<sp/>carry<sp/>out.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Accepting<sp/>a<sp/>move<sp/>revision<sp/>deletes<sp/>the<sp/>&quot;move<sp/>from&quot;<sp/>revision<sp/>and<sp/>its<sp/>text,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>keeps<sp/>the<sp/>text<sp/>from<sp/>the<sp/>&quot;move<sp/>to&quot;<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Rejecting<sp/>a<sp/>move<sp/>revision<sp/>conversely<sp/>keeps<sp/>the<sp/>&quot;move<sp/>from&quot;<sp/>revision<sp/>and<sp/>deletes<sp/>the<sp/>&quot;move<sp/>to&quot;<sp/>revision.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(runs-&gt;idx_get(1)-&gt;get_IsMoveToRevision());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>5<sp/>-<sp/><sp/>A<sp/>&quot;delete&quot;<sp/>revision:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>revision<sp/>occurs<sp/>when<sp/>we<sp/>delete<sp/>text<sp/>while<sp/>tracking<sp/>changes.<sp/>When<sp/>we<sp/>delete<sp/>text<sp/>like<sp/>this,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>it<sp/>will<sp/>stay<sp/>in<sp/>the<sp/>document<sp/>as<sp/>a<sp/>revision<sp/>until<sp/>we<sp/>either<sp/>accept<sp/>the<sp/>revision,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>delete<sp/>the<sp/>text<sp/>for<sp/>good,<sp/>or<sp/>reject<sp/>the<sp/>revision,<sp/>which<sp/>will<sp/>keep<sp/>the<sp/>text<sp/>we<sp/>deleted<sp/>where<sp/>it<sp/>was.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(runs-&gt;idx_get(5)-&gt;get_IsDeleteRevision());</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="3">
+        <label>Aspose::Words::INodeCollection</label>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::NodeCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_node_collection"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::RunCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_run_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Node &gt; &gt;</label>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>Aspose::Words::INodeCollection</label>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::NodeCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_node_collection"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::RunCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_run_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Node &gt; &gt;</label>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/RunCollection.h" line="81" column="1" bodyfile="Aspose.Words.Cpp/RunCollection.h" bodystart="82" bodyend="218"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a068f070b5bbd81992e895bd3a9b7a909" prot="public" virt="non-virtual"><scope>Aspose::Words::RunCollection</scope><name>Add</name></member>
+      <member refid="class_aspose_1_1_words_1_1_run_collection_1aedf0ed5d8c6c8af98021163b475a5ab2" prot="private" virt="non-virtual"><scope>Aspose::Words::RunCollection</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a5c84bf176a96e3f048ff328ef0ef67aa" prot="public" virt="non-virtual"><scope>Aspose::Words::RunCollection</scope><name>Clear</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1afb103bc9c0ef36a0593141c957dec4ad" prot="public" virt="non-virtual"><scope>Aspose::Words::RunCollection</scope><name>Contains</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a08e6dd6c87c6f40972781651e176742a" prot="public" virt="non-virtual"><scope>Aspose::Words::RunCollection</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a8d9e67dd4a36be575fdce2a6802cb917" prot="public" virt="non-virtual"><scope>Aspose::Words::RunCollection</scope><name>GetEnumerator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_run_collection_1afe0bf364de5804434196fd760210f45c" prot="public" virt="non-virtual"><scope>Aspose::Words::RunCollection</scope><name>idx_get</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a99ff7fa6245f5be6b1830877cc6e641c" prot="public" virt="non-virtual"><scope>Aspose::Words::RunCollection</scope><name>IndexOf</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1ae0e08870652837402e08e2e56647795c" prot="public" virt="non-virtual"><scope>Aspose::Words::RunCollection</scope><name>Insert</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a86977ff4ddee5f0781a774868b8ad5a8" prot="public" virt="non-virtual"><scope>Aspose::Words::RunCollection</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a9c1ce160d192c038c1e740c3ddc309eb" prot="public" virt="non-virtual"><scope>Aspose::Words::RunCollection</scope><name>RemoveAt</name></member>
+      <member refid="class_aspose_1_1_words_1_1_run_collection_1ab05ad4699728d53d362041d53397cfc4" prot="private" virt="non-virtual"><scope>Aspose::Words::RunCollection</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_run_collection_1a96701b37814450b0394bbda72d44e7e6" prot="private" virt="non-virtual"><scope>Aspose::Words::RunCollection</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_run_collection_1aa5660a837d969419afca3cf06a09ab9a" prot="private" virt="non-virtual"><scope>Aspose::Words::RunCollection</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_run_collection_1a3602808a832082b8ebc006ccf3c9c218" prot="public" virt="non-virtual"><scope>Aspose::Words::RunCollection</scope><name>ToArray</name></member>
+      <member refid="class_aspose_1_1_words_1_1_run_collection_1a5d2e6df06e217a8f66ba237a766ed835" prot="private" virt="virtual"><scope>Aspose::Words::RunCollection</scope><name>~RunCollection</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

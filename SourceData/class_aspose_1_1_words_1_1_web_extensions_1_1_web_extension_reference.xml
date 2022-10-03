@@ -1,0 +1,477 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::WebExtensions::WebExtensionReference</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_web_extension_reference_8h" local="no">Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1af8826e8c08dfe8f913bc968ced97d8a7" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::WebExtensions::WebExtensionReference::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::WebExtensions::WebExtensionReference::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h" line="27" column="28" bodyfile="Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h" bodystart="27" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1ab1211041586b02fc273a46733c853aa6" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference" kindref="compound">WebExtensionReference</ref></type>
+        <definition>typedef WebExtensionReference Aspose::Words::WebExtensions::WebExtensionReference::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::WebExtensions::WebExtensionReference::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h" line="26" column="35" bodyfile="Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h" bodystart="26" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1a05fcabd676d1a25b98819255830bd23f" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::WebExtensions::WebExtensionReference::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::WebExtensions::WebExtensionReference::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h" line="29" column="37" bodyfile="Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1ab7775649ee277402c3e2bf95ba43a0eb" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::WebExtensions::WebExtensionReference::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::WebExtensions::WebExtensionReference::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h" line="226" column="20" bodyfile="Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h" bodystart="226" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1aae17b580b6b8b777226d254d6744b0a3" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::WebExtensions::WebExtensionReference::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::WebExtensions::WebExtensionReference::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h" line="227" column="20" bodyfile="Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h" bodystart="227" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1a5d5901f51dddfcaf175b3cefee18a135" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::WebExtensions::WebExtensionReference::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::WebExtensions::WebExtensionReference::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h" line="228" column="20" bodyfile="Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h" bodystart="228" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1aef1f9c993fadc77808cebbf283dbcf51" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::WebExtensions::WebExtensionReference::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::WebExtensions::WebExtensionReference::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h" line="229" column="23" bodyfile="Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h" bodystart="229" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1a0efc62fa458e7901d22348d9a4885464" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::WebExtensions::WebExtensionReference::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::WebExtensions::WebExtensionReference::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h" line="30" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1a3041f90a16d01ef5cff000c664c3323a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::WebExtensions::WebExtensionReference::WebExtensionReference</definition>
+        <argsstring>()</argsstring>
+        <name>WebExtensionReference</name>
+        <qualifiedname>Aspose::Words::WebExtensions::WebExtensionReference::WebExtensionReference</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h" line="222" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1a8b14dfd0d7a1fc70090ab1126567fde4" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::WebExtensions::WebExtensionReference::get_Id</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Id</name>
+        <qualifiedname>Aspose::Words::WebExtensions::WebExtensionReference::get_Id</qualifiedname>
+        <briefdescription>
+<para>Identifier associated with the web extension within a catalog provider. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to add a web extension to a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>task<sp/>pane<sp/>with<sp/>&quot;MyScript&quot;<sp/>add-in,<sp/>which<sp/>will<sp/>be<sp/>used<sp/>by<sp/>the<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>then<sp/>set<sp/>its<sp/>default<sp/>location.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>myScriptTaskPane<sp/>=<sp/>MakeObject&lt;TaskPane&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_WebExtensionTaskPanes()-&gt;Add(myScriptTaskPane);</highlight></codeline>
+<codeline><highlight class="normal">myScriptTaskPane-&gt;set_DockState(<ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1ad413c107a26922f558573abaae4769aea92b09c7c48c520c3c55e497875da437c" kindref="member" tooltip="Dock the task pane on the right side of the document window.">TaskPaneDockState::Right</ref>);</highlight></codeline>
+<codeline><highlight class="normal">myScriptTaskPane-&gt;set_IsVisible(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">myScriptTaskPane-&gt;set_Width(300);</highlight></codeline>
+<codeline><highlight class="normal">myScriptTaskPane-&gt;set_IsLocked(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>there<sp/>are<sp/>multiple<sp/>task<sp/>panes<sp/>in<sp/>the<sp/>same<sp/>docking<sp/>location,<sp/>we<sp/>can<sp/>set<sp/>this<sp/>index<sp/>to<sp/>arrange<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">myScriptTaskPane-&gt;set_Row(1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>add-in<sp/>called<sp/>&quot;MyScript<sp/>Math<sp/>Sample&quot;,<sp/>which<sp/>the<sp/>task<sp/>pane<sp/>will<sp/>display<sp/>within.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;WebExtension&gt;<sp/>webExtension<sp/>=<sp/>myScriptTaskPane-&gt;get_WebExtension();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>application<sp/>store<sp/>reference<sp/>parameters<sp/>for<sp/>our<sp/>add-in,<sp/>such<sp/>as<sp/>the<sp/>ID.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Id(u</highlight><highlight class="stringliteral">&quot;WA104380646&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Version(u</highlight><highlight class="stringliteral">&quot;1.0.0.0&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_StoreType(<ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1a2c1128b3a961ef3fcd21ded855d6b01da43b0bdf5adc2d4c9776dec69d0469b26" kindref="member" tooltip="Specifies that the store type is Office.com.">WebExtensionStoreType::OMEX</ref>);</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Store(<ref refid="class/system.globalization.culture_info/_1a654f9ef41db5eba355867b38b3d4af35" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Globalization::CultureInfo::get_CurrentCulture</ref>()-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Properties()-&gt;Add(MakeObject&lt;WebExtensionProperty&gt;(u</highlight><highlight class="stringliteral">&quot;MyScript&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;MyScript<sp/>Math<sp/>Sample&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Bindings()-&gt;Add(MakeObject&lt;WebExtensionBinding&gt;(u</highlight><highlight class="stringliteral">&quot;MyScript&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1ac5880cbc5c5e13c7591d2823fc32c27ba9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain text.">WebExtensionBindingType::Text</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;104380646&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Allow<sp/>the<sp/>user<sp/>to<sp/>interact<sp/>with<sp/>the<sp/>add-in.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;set_IsFrozen(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>access<sp/>the<sp/>web<sp/>extension<sp/>in<sp/>Microsoft<sp/>Word<sp/>via<sp/>Developer<sp/>-&gt;<sp/>Add-ins.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.WebExtension.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>all<sp/>web<sp/>extension<sp/>task<sp/>panes<sp/>at<sp/>once<sp/>like<sp/>this.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_WebExtensionTaskPanes()-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>doc-&gt;get_WebExtensionTaskPanes()-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h" line="76" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1acc620677f03bc870c89e1d235c2cc368" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::WebExtensions::WebExtensionReference::get_Store</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Store</name>
+        <qualifiedname>Aspose::Words::WebExtensions::WebExtensionReference::get_Store</qualifiedname>
+        <briefdescription>
+<para>Specifies the instance of the marketplace where the web extension is stored. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to add a web extension to a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>task<sp/>pane<sp/>with<sp/>&quot;MyScript&quot;<sp/>add-in,<sp/>which<sp/>will<sp/>be<sp/>used<sp/>by<sp/>the<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>then<sp/>set<sp/>its<sp/>default<sp/>location.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>myScriptTaskPane<sp/>=<sp/>MakeObject&lt;TaskPane&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_WebExtensionTaskPanes()-&gt;Add(myScriptTaskPane);</highlight></codeline>
+<codeline><highlight class="normal">myScriptTaskPane-&gt;set_DockState(<ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1ad413c107a26922f558573abaae4769aea92b09c7c48c520c3c55e497875da437c" kindref="member" tooltip="Dock the task pane on the right side of the document window.">TaskPaneDockState::Right</ref>);</highlight></codeline>
+<codeline><highlight class="normal">myScriptTaskPane-&gt;set_IsVisible(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">myScriptTaskPane-&gt;set_Width(300);</highlight></codeline>
+<codeline><highlight class="normal">myScriptTaskPane-&gt;set_IsLocked(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>there<sp/>are<sp/>multiple<sp/>task<sp/>panes<sp/>in<sp/>the<sp/>same<sp/>docking<sp/>location,<sp/>we<sp/>can<sp/>set<sp/>this<sp/>index<sp/>to<sp/>arrange<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">myScriptTaskPane-&gt;set_Row(1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>add-in<sp/>called<sp/>&quot;MyScript<sp/>Math<sp/>Sample&quot;,<sp/>which<sp/>the<sp/>task<sp/>pane<sp/>will<sp/>display<sp/>within.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;WebExtension&gt;<sp/>webExtension<sp/>=<sp/>myScriptTaskPane-&gt;get_WebExtension();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>application<sp/>store<sp/>reference<sp/>parameters<sp/>for<sp/>our<sp/>add-in,<sp/>such<sp/>as<sp/>the<sp/>ID.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Id(u</highlight><highlight class="stringliteral">&quot;WA104380646&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Version(u</highlight><highlight class="stringliteral">&quot;1.0.0.0&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_StoreType(<ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1a2c1128b3a961ef3fcd21ded855d6b01da43b0bdf5adc2d4c9776dec69d0469b26" kindref="member" tooltip="Specifies that the store type is Office.com.">WebExtensionStoreType::OMEX</ref>);</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Store(<ref refid="class/system.globalization.culture_info/_1a654f9ef41db5eba355867b38b3d4af35" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Globalization::CultureInfo::get_CurrentCulture</ref>()-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Properties()-&gt;Add(MakeObject&lt;WebExtensionProperty&gt;(u</highlight><highlight class="stringliteral">&quot;MyScript&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;MyScript<sp/>Math<sp/>Sample&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Bindings()-&gt;Add(MakeObject&lt;WebExtensionBinding&gt;(u</highlight><highlight class="stringliteral">&quot;MyScript&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1ac5880cbc5c5e13c7591d2823fc32c27ba9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain text.">WebExtensionBindingType::Text</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;104380646&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Allow<sp/>the<sp/>user<sp/>to<sp/>interact<sp/>with<sp/>the<sp/>add-in.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;set_IsFrozen(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>access<sp/>the<sp/>web<sp/>extension<sp/>in<sp/>Microsoft<sp/>Word<sp/>via<sp/>Developer<sp/>-&gt;<sp/>Add-ins.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.WebExtension.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>all<sp/>web<sp/>extension<sp/>task<sp/>panes<sp/>at<sp/>once<sp/>like<sp/>this.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_WebExtensionTaskPanes()-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>doc-&gt;get_WebExtensionTaskPanes()-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h" line="170" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1ac29bb12c7b51e5dc87e7abd6036b2eda" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1a2c1128b3a961ef3fcd21ded855d6b01d" kindref="member">Aspose::Words::WebExtensions::WebExtensionStoreType</ref></type>
+        <definition>Aspose::Words::WebExtensions::WebExtensionStoreType Aspose::Words::WebExtensions::WebExtensionReference::get_StoreType</definition>
+        <argsstring>() const</argsstring>
+        <name>get_StoreType</name>
+        <qualifiedname>Aspose::Words::WebExtensions::WebExtensionReference::get_StoreType</qualifiedname>
+        <briefdescription>
+<para>Specifies the type of marketplace. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to add a web extension to a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>task<sp/>pane<sp/>with<sp/>&quot;MyScript&quot;<sp/>add-in,<sp/>which<sp/>will<sp/>be<sp/>used<sp/>by<sp/>the<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>then<sp/>set<sp/>its<sp/>default<sp/>location.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>myScriptTaskPane<sp/>=<sp/>MakeObject&lt;TaskPane&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_WebExtensionTaskPanes()-&gt;Add(myScriptTaskPane);</highlight></codeline>
+<codeline><highlight class="normal">myScriptTaskPane-&gt;set_DockState(<ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1ad413c107a26922f558573abaae4769aea92b09c7c48c520c3c55e497875da437c" kindref="member" tooltip="Dock the task pane on the right side of the document window.">TaskPaneDockState::Right</ref>);</highlight></codeline>
+<codeline><highlight class="normal">myScriptTaskPane-&gt;set_IsVisible(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">myScriptTaskPane-&gt;set_Width(300);</highlight></codeline>
+<codeline><highlight class="normal">myScriptTaskPane-&gt;set_IsLocked(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>there<sp/>are<sp/>multiple<sp/>task<sp/>panes<sp/>in<sp/>the<sp/>same<sp/>docking<sp/>location,<sp/>we<sp/>can<sp/>set<sp/>this<sp/>index<sp/>to<sp/>arrange<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">myScriptTaskPane-&gt;set_Row(1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>add-in<sp/>called<sp/>&quot;MyScript<sp/>Math<sp/>Sample&quot;,<sp/>which<sp/>the<sp/>task<sp/>pane<sp/>will<sp/>display<sp/>within.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;WebExtension&gt;<sp/>webExtension<sp/>=<sp/>myScriptTaskPane-&gt;get_WebExtension();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>application<sp/>store<sp/>reference<sp/>parameters<sp/>for<sp/>our<sp/>add-in,<sp/>such<sp/>as<sp/>the<sp/>ID.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Id(u</highlight><highlight class="stringliteral">&quot;WA104380646&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Version(u</highlight><highlight class="stringliteral">&quot;1.0.0.0&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_StoreType(<ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1a2c1128b3a961ef3fcd21ded855d6b01da43b0bdf5adc2d4c9776dec69d0469b26" kindref="member" tooltip="Specifies that the store type is Office.com.">WebExtensionStoreType::OMEX</ref>);</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Store(<ref refid="class/system.globalization.culture_info/_1a654f9ef41db5eba355867b38b3d4af35" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Globalization::CultureInfo::get_CurrentCulture</ref>()-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Properties()-&gt;Add(MakeObject&lt;WebExtensionProperty&gt;(u</highlight><highlight class="stringliteral">&quot;MyScript&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;MyScript<sp/>Math<sp/>Sample&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Bindings()-&gt;Add(MakeObject&lt;WebExtensionBinding&gt;(u</highlight><highlight class="stringliteral">&quot;MyScript&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1ac5880cbc5c5e13c7591d2823fc32c27ba9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain text.">WebExtensionBindingType::Text</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;104380646&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Allow<sp/>the<sp/>user<sp/>to<sp/>interact<sp/>with<sp/>the<sp/>add-in.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;set_IsFrozen(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>access<sp/>the<sp/>web<sp/>extension<sp/>in<sp/>Microsoft<sp/>Word<sp/>via<sp/>Developer<sp/>-&gt;<sp/>Add-ins.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.WebExtension.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>all<sp/>web<sp/>extension<sp/>task<sp/>panes<sp/>at<sp/>once<sp/>like<sp/>this.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_WebExtensionTaskPanes()-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>doc-&gt;get_WebExtensionTaskPanes()-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h" line="217" column="60"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1a42ea5782ab050ba8d56bd04795af3ea0" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::WebExtensions::WebExtensionReference::get_Version</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Version</name>
+        <qualifiedname>Aspose::Words::WebExtensions::WebExtensionReference::get_Version</qualifiedname>
+        <briefdescription>
+<para>Specifies the version of the web extension. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to add a web extension to a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>task<sp/>pane<sp/>with<sp/>&quot;MyScript&quot;<sp/>add-in,<sp/>which<sp/>will<sp/>be<sp/>used<sp/>by<sp/>the<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>then<sp/>set<sp/>its<sp/>default<sp/>location.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>myScriptTaskPane<sp/>=<sp/>MakeObject&lt;TaskPane&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_WebExtensionTaskPanes()-&gt;Add(myScriptTaskPane);</highlight></codeline>
+<codeline><highlight class="normal">myScriptTaskPane-&gt;set_DockState(<ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1ad413c107a26922f558573abaae4769aea92b09c7c48c520c3c55e497875da437c" kindref="member" tooltip="Dock the task pane on the right side of the document window.">TaskPaneDockState::Right</ref>);</highlight></codeline>
+<codeline><highlight class="normal">myScriptTaskPane-&gt;set_IsVisible(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">myScriptTaskPane-&gt;set_Width(300);</highlight></codeline>
+<codeline><highlight class="normal">myScriptTaskPane-&gt;set_IsLocked(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>there<sp/>are<sp/>multiple<sp/>task<sp/>panes<sp/>in<sp/>the<sp/>same<sp/>docking<sp/>location,<sp/>we<sp/>can<sp/>set<sp/>this<sp/>index<sp/>to<sp/>arrange<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">myScriptTaskPane-&gt;set_Row(1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>add-in<sp/>called<sp/>&quot;MyScript<sp/>Math<sp/>Sample&quot;,<sp/>which<sp/>the<sp/>task<sp/>pane<sp/>will<sp/>display<sp/>within.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;WebExtension&gt;<sp/>webExtension<sp/>=<sp/>myScriptTaskPane-&gt;get_WebExtension();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>application<sp/>store<sp/>reference<sp/>parameters<sp/>for<sp/>our<sp/>add-in,<sp/>such<sp/>as<sp/>the<sp/>ID.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Id(u</highlight><highlight class="stringliteral">&quot;WA104380646&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Version(u</highlight><highlight class="stringliteral">&quot;1.0.0.0&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_StoreType(<ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1a2c1128b3a961ef3fcd21ded855d6b01da43b0bdf5adc2d4c9776dec69d0469b26" kindref="member" tooltip="Specifies that the store type is Office.com.">WebExtensionStoreType::OMEX</ref>);</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Reference()-&gt;set_Store(<ref refid="class/system.globalization.culture_info/_1a654f9ef41db5eba355867b38b3d4af35" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Globalization::CultureInfo::get_CurrentCulture</ref>()-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Properties()-&gt;Add(MakeObject&lt;WebExtensionProperty&gt;(u</highlight><highlight class="stringliteral">&quot;MyScript&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;MyScript<sp/>Math<sp/>Sample&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;get_Bindings()-&gt;Add(MakeObject&lt;WebExtensionBinding&gt;(u</highlight><highlight class="stringliteral">&quot;MyScript&quot;</highlight><highlight class="normal">,<sp/><ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1ac5880cbc5c5e13c7591d2823fc32c27ba9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain text.">WebExtensionBindingType::Text</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;104380646&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Allow<sp/>the<sp/>user<sp/>to<sp/>interact<sp/>with<sp/>the<sp/>add-in.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">webExtension-&gt;set_IsFrozen(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>access<sp/>the<sp/>web<sp/>extension<sp/>in<sp/>Microsoft<sp/>Word<sp/>via<sp/>Developer<sp/>-&gt;<sp/>Add-ins.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.WebExtension.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>all<sp/>web<sp/>extension<sp/>task<sp/>panes<sp/>at<sp/>once<sp/>like<sp/>this.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_WebExtensionTaskPanes()-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>doc-&gt;get_WebExtensionTaskPanes()-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h" line="123" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1a74c824c994ee528dbcfd9f6bc50baeac" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::WebExtensions::WebExtensionReference::set_Id</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Id</name>
+        <qualifiedname>Aspose::Words::WebExtensions::WebExtensionReference::set_Id</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1a8b14dfd0d7a1fc70090ab1126567fde4" kindref="member">Aspose::Words::WebExtensions::WebExtensionReference::get_Id</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h" line="79" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1aa9152237a3de1cbbe6e4675ef243b756" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::WebExtensions::WebExtensionReference::set_Store</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Store</name>
+        <qualifiedname>Aspose::Words::WebExtensions::WebExtensionReference::set_Store</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1acc620677f03bc870c89e1d235c2cc368" kindref="member">Aspose::Words::WebExtensions::WebExtensionReference::get_Store</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h" line="173" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1a7870ba8096c601907049980bd3632266" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::WebExtensions::WebExtensionReference::set_StoreType</definition>
+        <argsstring>(Aspose::Words::WebExtensions::WebExtensionStoreType value)</argsstring>
+        <name>set_StoreType</name>
+        <qualifiedname>Aspose::Words::WebExtensions::WebExtensionReference::set_StoreType</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_web_extensions_1a2c1128b3a961ef3fcd21ded855d6b01d" kindref="member">Aspose::Words::WebExtensions::WebExtensionStoreType</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1ac29bb12c7b51e5dc87e7abd6036b2eda" kindref="member">Aspose::Words::WebExtensions::WebExtensionReference::get_StoreType</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h" line="220" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1a46a16883ce1458a36f0ee012aaaf84ea" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::WebExtensions::WebExtensionReference::set_Version</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Version</name>
+        <qualifiedname>Aspose::Words::WebExtensions::WebExtensionReference::set_Version</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1a42ea5782ab050ba8d56bd04795af3ea0" kindref="member">Aspose::Words::WebExtensions::WebExtensionReference::get_Version</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h" line="126" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents the reference to a web extension. The reference is used to identify the provider location and version of the extension. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::WebExtensions::WebExtensionReference</label>
+        <link refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::WebExtensions::WebExtensionReference</label>
+        <link refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h" line="24" column="1" bodyfile="Aspose.Words.Cpp/WebExtensions/WebExtensionReference.h" bodystart="25" bodyend="231"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1af8826e8c08dfe8f913bc968ced97d8a7" prot="private" virt="non-virtual"><scope>Aspose::Words::WebExtensions::WebExtensionReference</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1a8b14dfd0d7a1fc70090ab1126567fde4" prot="public" virt="non-virtual"><scope>Aspose::Words::WebExtensions::WebExtensionReference</scope><name>get_Id</name></member>
+      <member refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1acc620677f03bc870c89e1d235c2cc368" prot="public" virt="non-virtual"><scope>Aspose::Words::WebExtensions::WebExtensionReference</scope><name>get_Store</name></member>
+      <member refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1ac29bb12c7b51e5dc87e7abd6036b2eda" prot="public" virt="non-virtual"><scope>Aspose::Words::WebExtensions::WebExtensionReference</scope><name>get_StoreType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1a42ea5782ab050ba8d56bd04795af3ea0" prot="public" virt="non-virtual"><scope>Aspose::Words::WebExtensions::WebExtensionReference</scope><name>get_Version</name></member>
+      <member refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1ab7775649ee277402c3e2bf95ba43a0eb" prot="private" virt="non-virtual"><scope>Aspose::Words::WebExtensions::WebExtensionReference</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1aae17b580b6b8b777226d254d6744b0a3" prot="private" virt="non-virtual"><scope>Aspose::Words::WebExtensions::WebExtensionReference</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1a5d5901f51dddfcaf175b3cefee18a135" prot="private" virt="non-virtual"><scope>Aspose::Words::WebExtensions::WebExtensionReference</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1aef1f9c993fadc77808cebbf283dbcf51" prot="private" virt="non-virtual"><scope>Aspose::Words::WebExtensions::WebExtensionReference</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1a0efc62fa458e7901d22348d9a4885464" prot="private" virt="non-virtual"><scope>Aspose::Words::WebExtensions::WebExtensionReference</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1a74c824c994ee528dbcfd9f6bc50baeac" prot="public" virt="non-virtual"><scope>Aspose::Words::WebExtensions::WebExtensionReference</scope><name>set_Id</name></member>
+      <member refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1aa9152237a3de1cbbe6e4675ef243b756" prot="public" virt="non-virtual"><scope>Aspose::Words::WebExtensions::WebExtensionReference</scope><name>set_Store</name></member>
+      <member refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1a7870ba8096c601907049980bd3632266" prot="public" virt="non-virtual"><scope>Aspose::Words::WebExtensions::WebExtensionReference</scope><name>set_StoreType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1a46a16883ce1458a36f0ee012aaaf84ea" prot="public" virt="non-virtual"><scope>Aspose::Words::WebExtensions::WebExtensionReference</scope><name>set_Version</name></member>
+      <member refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1ab1211041586b02fc273a46733c853aa6" prot="private" virt="non-virtual"><scope>Aspose::Words::WebExtensions::WebExtensionReference</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1a05fcabd676d1a25b98819255830bd23f" prot="private" virt="non-virtual"><scope>Aspose::Words::WebExtensions::WebExtensionReference</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_web_extensions_1_1_web_extension_reference_1a3041f90a16d01ef5cff000c664c3323a" prot="public" virt="non-virtual"><scope>Aspose::Words::WebExtensions::WebExtensionReference</scope><name>WebExtensionReference</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

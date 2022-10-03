@@ -1,0 +1,655 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Saving::DocSaveOptions</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_saving_1_1_save_options" prot="public" virt="non-virtual">Aspose::Words::Saving::SaveOptions</basecompoundref>
+    <includes refid="_doc_save_options_8h" local="no">Aspose.Words.Cpp/Saving/DocSaveOptions.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1a61609c273528095527ffd81066da9d71" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_save_options" kindref="compound">Aspose::Words::Saving::SaveOptions</ref></type>
+        <definition>typedef Aspose::Words::Saving::SaveOptions Aspose::Words::Saving::DocSaveOptions::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Saving::DocSaveOptions::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocSaveOptions.h" line="60" column="48" bodyfile="Aspose.Words.Cpp/Saving/DocSaveOptions.h" bodystart="60" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1a19f785d6dade367640ba0b4d038cac11" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options" kindref="compound">DocSaveOptions</ref></type>
+        <definition>typedef DocSaveOptions Aspose::Words::Saving::DocSaveOptions::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Saving::DocSaveOptions::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocSaveOptions.h" line="59" column="28" bodyfile="Aspose.Words.Cpp/Saving/DocSaveOptions.h" bodystart="59" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1ad701fa2173ff47ad034c7c68883a919f" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_save_options" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::DocSaveOptions::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Saving::DocSaveOptions::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocSaveOptions.h" line="62" column="37" bodyfile="Aspose.Words.Cpp/Saving/DocSaveOptions.h" bodystart="62" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1abb279d7be20ca22c503fc167e423993b" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::DocSaveOptions::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Saving::DocSaveOptions::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocSaveOptions.h" line="302" column="20" bodyfile="Aspose.Words.Cpp/Saving/DocSaveOptions.h" bodystart="302" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1a3a1383eca4baf428a36c7c2810e741a3" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::DocSaveOptions::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Saving::DocSaveOptions::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocSaveOptions.h" line="303" column="23" bodyfile="Aspose.Words.Cpp/Saving/DocSaveOptions.h" bodystart="303" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1acfcc84f4df607c4918c4116de79fd1b8" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::DocSaveOptions::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Saving::DocSaveOptions::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocSaveOptions.h" line="304" column="23" bodyfile="Aspose.Words.Cpp/Saving/DocSaveOptions.h" bodystart="304" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1a0c750e50b9639d17f9a0081b138c8a1f" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Saving::DocSaveOptions::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Saving::DocSaveOptions::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocSaveOptions.h" line="305" column="23" bodyfile="Aspose.Words.Cpp/Saving/DocSaveOptions.h" bodystart="305" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1a61f500911cd22bedb00ccb66d6929213" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::DocSaveOptions::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Saving::DocSaveOptions::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocSaveOptions.h" line="306" column="23" bodyfile="Aspose.Words.Cpp/Saving/DocSaveOptions.h" bodystart="306" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1afa151764895dbd7636f34f3cd8866751" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::DocSaveOptions::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Saving::DocSaveOptions::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocSaveOptions.h" line="63" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1a96b4fdb560384a1c5123a82a92cdeaca" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::DocSaveOptions::DocSaveOptions</definition>
+        <argsstring>()</argsstring>
+        <name>DocSaveOptions</name>
+        <qualifiedname>Aspose::Words::Saving::DocSaveOptions::DocSaveOptions</qualifiedname>
+        <briefdescription>
+<para>Initializes a new instance of this class that can be used to save a document in the <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a7a48ae1b7387f8a8159c488fbd850021" kindref="member">Doc</ref> format. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set save options for older Microsoft Word formats. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;DocSaveOptions&gt;(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a7a48ae1b7387f8a8159c488fbd850021" kindref="member" tooltip="Saves the document in the Microsoft Word 97 - 2007 Document format.">SaveFormat::Doc</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>password<sp/>which<sp/>will<sp/>protect<sp/>the<sp/>loading<sp/>of<sp/>the<sp/>document<sp/>by<sp/>Microsoft<sp/>Word<sp/>or<sp/>Aspose.Words.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Note<sp/>that<sp/>this<sp/>does<sp/>not<sp/>encrypt<sp/>the<sp/>contents<sp/>of<sp/>the<sp/>document<sp/>in<sp/>any<sp/>way.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_Password(u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>document<sp/>contains<sp/>a<sp/>routing<sp/>slip,<sp/>we<sp/>can<sp/>preserve<sp/>it<sp/>while<sp/>saving<sp/>by<sp/>setting<sp/>this<sp/>flag<sp/>to<sp/>true.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_SaveRoutingSlip(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocSaveOptions.SaveAsDoc.doc&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>To<sp/>be<sp/>able<sp/>to<sp/>load<sp/>the<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>we<sp/>will<sp/>need<sp/>to<sp/>apply<sp/>the<sp/>password<sp/>we<sp/>specified<sp/>in<sp/>the<sp/>DocSaveOptions<sp/>object<sp/>in<sp/>a<sp/>LoadOptions<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_THROW(doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocSaveOptions.SaveAsDoc.doc&quot;</highlight><highlight class="normal">),<sp/><ref refid="namespace_aspose_1_1_words_1a69d5ddc9f0a7b4c2dfd356817c3be538" kindref="member" tooltip="Thrown if a document is encrypted with a password and the password specified when opening the documen...">IncorrectPasswordException</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>loadOptions<sp/>=<sp/>MakeObject&lt;LoadOptions&gt;(u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocSaveOptions.SaveAsDoc.doc&quot;</highlight><highlight class="normal">,<sp/>loadOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocSaveOptions.h" line="263" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1a90ffd9d680b65f73e901ee5d525d567f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::DocSaveOptions::DocSaveOptions</definition>
+        <argsstring>(Aspose::Words::SaveFormat saveFormat)</argsstring>
+        <name>DocSaveOptions</name>
+        <qualifiedname>Aspose::Words::Saving::DocSaveOptions::DocSaveOptions</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" kindref="member">Aspose::Words::SaveFormat</ref></type>
+          <declname>saveFormat</declname>
+        </param>
+        <briefdescription>
+<para>Initializes a new instance of this class that can be used to save a document in the <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a7a48ae1b7387f8a8159c488fbd850021" kindref="member">Doc</ref> or <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847aaf6c6cf7a454b4ef4a850ac4d960a2cc" kindref="member">Dot</ref> format. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>saveFormat</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Can be <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a7a48ae1b7387f8a8159c488fbd850021" kindref="member">Doc</ref> or <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847aaf6c6cf7a454b4ef4a850ac4d960a2cc" kindref="member">Dot</ref>.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set save options for older Microsoft Word formats. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;DocSaveOptions&gt;(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a7a48ae1b7387f8a8159c488fbd850021" kindref="member" tooltip="Saves the document in the Microsoft Word 97 - 2007 Document format.">SaveFormat::Doc</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>password<sp/>which<sp/>will<sp/>protect<sp/>the<sp/>loading<sp/>of<sp/>the<sp/>document<sp/>by<sp/>Microsoft<sp/>Word<sp/>or<sp/>Aspose.Words.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Note<sp/>that<sp/>this<sp/>does<sp/>not<sp/>encrypt<sp/>the<sp/>contents<sp/>of<sp/>the<sp/>document<sp/>in<sp/>any<sp/>way.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_Password(u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>document<sp/>contains<sp/>a<sp/>routing<sp/>slip,<sp/>we<sp/>can<sp/>preserve<sp/>it<sp/>while<sp/>saving<sp/>by<sp/>setting<sp/>this<sp/>flag<sp/>to<sp/>true.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_SaveRoutingSlip(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocSaveOptions.SaveAsDoc.doc&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>To<sp/>be<sp/>able<sp/>to<sp/>load<sp/>the<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>we<sp/>will<sp/>need<sp/>to<sp/>apply<sp/>the<sp/>password<sp/>we<sp/>specified<sp/>in<sp/>the<sp/>DocSaveOptions<sp/>object<sp/>in<sp/>a<sp/>LoadOptions<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_THROW(doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocSaveOptions.SaveAsDoc.doc&quot;</highlight><highlight class="normal">),<sp/><ref refid="namespace_aspose_1_1_words_1a69d5ddc9f0a7b4c2dfd356817c3be538" kindref="member" tooltip="Thrown if a document is encrypted with a password and the password specified when opening the documen...">IncorrectPasswordException</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>loadOptions<sp/>=<sp/>MakeObject&lt;LoadOptions&gt;(u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocSaveOptions.SaveAsDoc.doc&quot;</highlight><highlight class="normal">,<sp/>loadOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocSaveOptions.h" line="298" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1ac212be44dce1be0001c4480bc4f8371e" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Saving::DocSaveOptions::get_AlwaysCompressMetafiles</definition>
+        <argsstring>() const</argsstring>
+        <name>get_AlwaysCompressMetafiles</name>
+        <qualifiedname>Aspose::Words::Saving::DocSaveOptions::get_AlwaysCompressMetafiles</qualifiedname>
+        <briefdescription>
+<para>When <computeroutput>false</computeroutput>, small metafiles are not compressed for performance reason. Default value is <bold>true</bold>, all metafiles are compressed regardless of its size. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to change metafiles compression in a document while saving. <programlisting><codeline><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>that<sp/>contains<sp/>a<sp/>Microsoft<sp/>Equation<sp/>3.0<sp/>formula.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>equation<sp/>object.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>save<sp/>a<sp/>document,<sp/>smaller<sp/>metafiles<sp/>are<sp/>not<sp/>compressed<sp/>for<sp/>performance<sp/>reasons.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>set<sp/>a<sp/>flag<sp/>in<sp/>a<sp/>SaveOptions<sp/>object<sp/>to<sp/>compress<sp/>every<sp/>metafile<sp/>when<sp/>saving.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Some<sp/>editors<sp/>such<sp/>as<sp/>LibreOffice<sp/>cannot<sp/>read<sp/>uncompressed<sp/>metafiles.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;DocSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_AlwaysCompressMetafiles(compressAllMetafiles);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocSaveOptions.AlwaysCompressMetafiles.docx&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(compressAllMetafiles)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_LT(10000,<sp/>MakeObject&lt;System::IO::FileInfo&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocSaveOptions.AlwaysCompressMetafiles.docx&quot;</highlight><highlight class="normal">)-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_GE(30000,<sp/>MakeObject&lt;System::IO::FileInfo&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocSaveOptions.AlwaysCompressMetafiles.docx&quot;</highlight><highlight class="normal">)-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocSaveOptions.h" line="203" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1afb3590ef64a2663f8428ddcf5e5bd0de" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::DocSaveOptions::get_Password</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Password</name>
+        <qualifiedname>Aspose::Words::Saving::DocSaveOptions::get_Password</qualifiedname>
+        <briefdescription>
+<para>Gets/sets a password to encrypt document using RC4 encryption method. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>In order to save document without encryption this property should be null or empty string.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set save options for older Microsoft Word formats. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;DocSaveOptions&gt;(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a7a48ae1b7387f8a8159c488fbd850021" kindref="member" tooltip="Saves the document in the Microsoft Word 97 - 2007 Document format.">SaveFormat::Doc</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>password<sp/>which<sp/>will<sp/>protect<sp/>the<sp/>loading<sp/>of<sp/>the<sp/>document<sp/>by<sp/>Microsoft<sp/>Word<sp/>or<sp/>Aspose.Words.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Note<sp/>that<sp/>this<sp/>does<sp/>not<sp/>encrypt<sp/>the<sp/>contents<sp/>of<sp/>the<sp/>document<sp/>in<sp/>any<sp/>way.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_Password(u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>document<sp/>contains<sp/>a<sp/>routing<sp/>slip,<sp/>we<sp/>can<sp/>preserve<sp/>it<sp/>while<sp/>saving<sp/>by<sp/>setting<sp/>this<sp/>flag<sp/>to<sp/>true.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_SaveRoutingSlip(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocSaveOptions.SaveAsDoc.doc&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>To<sp/>be<sp/>able<sp/>to<sp/>load<sp/>the<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>we<sp/>will<sp/>need<sp/>to<sp/>apply<sp/>the<sp/>password<sp/>we<sp/>specified<sp/>in<sp/>the<sp/>DocSaveOptions<sp/>object<sp/>in<sp/>a<sp/>LoadOptions<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_THROW(doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocSaveOptions.SaveAsDoc.doc&quot;</highlight><highlight class="normal">),<sp/><ref refid="namespace_aspose_1_1_words_1a69d5ddc9f0a7b4c2dfd356817c3be538" kindref="member" tooltip="Thrown if a document is encrypted with a password and the password specified when opening the documen...">IncorrectPasswordException</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>loadOptions<sp/>=<sp/>MakeObject&lt;LoadOptions&gt;(u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocSaveOptions.SaveAsDoc.doc&quot;</highlight><highlight class="normal">,<sp/>loadOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocSaveOptions.h" line="135" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1ad5c8bec18e9521bae18e3f57aa9f7695" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" kindref="member">Aspose::Words::SaveFormat</ref></type>
+        <definition>Aspose::Words::SaveFormat Aspose::Words::Saving::DocSaveOptions::get_SaveFormat</definition>
+        <argsstring>() override</argsstring>
+        <name>get_SaveFormat</name>
+        <qualifiedname>Aspose::Words::Saving::DocSaveOptions::get_SaveFormat</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6df9e8d37cc7794640ea5c5932134253">get_SaveFormat</reimplements>
+        <briefdescription>
+<para>Specifies the format in which the document will be saved if this save options object is used. Can be <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a7a48ae1b7387f8a8159c488fbd850021" kindref="member">Doc</ref> or <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847aaf6c6cf7a454b4ef4a850ac4d960a2cc" kindref="member">Dot</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set save options for older Microsoft Word formats. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;DocSaveOptions&gt;(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a7a48ae1b7387f8a8159c488fbd850021" kindref="member" tooltip="Saves the document in the Microsoft Word 97 - 2007 Document format.">SaveFormat::Doc</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>password<sp/>which<sp/>will<sp/>protect<sp/>the<sp/>loading<sp/>of<sp/>the<sp/>document<sp/>by<sp/>Microsoft<sp/>Word<sp/>or<sp/>Aspose.Words.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Note<sp/>that<sp/>this<sp/>does<sp/>not<sp/>encrypt<sp/>the<sp/>contents<sp/>of<sp/>the<sp/>document<sp/>in<sp/>any<sp/>way.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_Password(u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>document<sp/>contains<sp/>a<sp/>routing<sp/>slip,<sp/>we<sp/>can<sp/>preserve<sp/>it<sp/>while<sp/>saving<sp/>by<sp/>setting<sp/>this<sp/>flag<sp/>to<sp/>true.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_SaveRoutingSlip(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocSaveOptions.SaveAsDoc.doc&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>To<sp/>be<sp/>able<sp/>to<sp/>load<sp/>the<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>we<sp/>will<sp/>need<sp/>to<sp/>apply<sp/>the<sp/>password<sp/>we<sp/>specified<sp/>in<sp/>the<sp/>DocSaveOptions<sp/>object<sp/>in<sp/>a<sp/>LoadOptions<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_THROW(doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocSaveOptions.SaveAsDoc.doc&quot;</highlight><highlight class="normal">),<sp/><ref refid="namespace_aspose_1_1_words_1a69d5ddc9f0a7b4c2dfd356817c3be538" kindref="member" tooltip="Thrown if a document is encrypted with a password and the password specified when opening the documen...">IncorrectPasswordException</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>loadOptions<sp/>=<sp/>MakeObject&lt;LoadOptions&gt;(u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocSaveOptions.SaveAsDoc.doc&quot;</highlight><highlight class="normal">,<sp/>loadOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocSaveOptions.h" line="98" column="34"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1ac26109002a73ff23ad8c6bd7736ef442" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Saving::DocSaveOptions::get_SavePictureBullet</definition>
+        <argsstring>() const</argsstring>
+        <name>get_SavePictureBullet</name>
+        <qualifiedname>Aspose::Words::Saving::DocSaveOptions::get_SavePictureBullet</qualifiedname>
+        <briefdescription>
+<para>When <computeroutput>false</computeroutput>, PictureBullet data is not saved to output document. Default value is <bold>true</bold>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This option is provided for Word 97, which cannot work correctly with PictureBullet data. To remove PictureBullet data, set the option to &quot;false&quot;.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to omit PictureBullet data from the document when saving. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Image<sp/>bullet<sp/>points.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Some<sp/>word<sp/>processors,<sp/>such<sp/>as<sp/>Microsoft<sp/>Word<sp/>97,<sp/>are<sp/>incompatible<sp/>with<sp/>PictureBullet<sp/>data.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>By<sp/>setting<sp/>a<sp/>flag<sp/>in<sp/>the<sp/>SaveOptions<sp/>object,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>we<sp/>can<sp/>convert<sp/>all<sp/>image<sp/>bullet<sp/>points<sp/>to<sp/>ordinary<sp/>bullet<sp/>points<sp/>while<sp/>saving.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;DocSaveOptions&gt;(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a7a48ae1b7387f8a8159c488fbd850021" kindref="member" tooltip="Saves the document in the Microsoft Word 97 - 2007 Document format.">SaveFormat::Doc</ref>);</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_SavePictureBullet(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocSaveOptions.PictureBullets.doc&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocSaveOptions.h" line="228" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1adc8e6859ffb2c2533312c1512136d502" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Saving::DocSaveOptions::get_SaveRoutingSlip</definition>
+        <argsstring>() const</argsstring>
+        <name>get_SaveRoutingSlip</name>
+        <qualifiedname>Aspose::Words::Saving::DocSaveOptions::get_SaveRoutingSlip</qualifiedname>
+        <briefdescription>
+<para>When <computeroutput>false</computeroutput>, RoutingSlip data is not saved to output document. Default value is <bold>true</bold>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set save options for older Microsoft Word formats. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;DocSaveOptions&gt;(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a7a48ae1b7387f8a8159c488fbd850021" kindref="member" tooltip="Saves the document in the Microsoft Word 97 - 2007 Document format.">SaveFormat::Doc</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>password<sp/>which<sp/>will<sp/>protect<sp/>the<sp/>loading<sp/>of<sp/>the<sp/>document<sp/>by<sp/>Microsoft<sp/>Word<sp/>or<sp/>Aspose.Words.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Note<sp/>that<sp/>this<sp/>does<sp/>not<sp/>encrypt<sp/>the<sp/>contents<sp/>of<sp/>the<sp/>document<sp/>in<sp/>any<sp/>way.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_Password(u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>document<sp/>contains<sp/>a<sp/>routing<sp/>slip,<sp/>we<sp/>can<sp/>preserve<sp/>it<sp/>while<sp/>saving<sp/>by<sp/>setting<sp/>this<sp/>flag<sp/>to<sp/>true.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_SaveRoutingSlip(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocSaveOptions.SaveAsDoc.doc&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>To<sp/>be<sp/>able<sp/>to<sp/>load<sp/>the<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>we<sp/>will<sp/>need<sp/>to<sp/>apply<sp/>the<sp/>password<sp/>we<sp/>specified<sp/>in<sp/>the<sp/>DocSaveOptions<sp/>object<sp/>in<sp/>a<sp/>LoadOptions<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_THROW(doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocSaveOptions.SaveAsDoc.doc&quot;</highlight><highlight class="normal">),<sp/><ref refid="namespace_aspose_1_1_words_1a69d5ddc9f0a7b4c2dfd356817c3be538" kindref="member" tooltip="Thrown if a document is encrypted with a password and the password specified when opening the documen...">IncorrectPasswordException</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>loadOptions<sp/>=<sp/>MakeObject&lt;LoadOptions&gt;(u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocSaveOptions.SaveAsDoc.doc&quot;</highlight><highlight class="normal">,<sp/>loadOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocSaveOptions.h" line="171" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1ae0821617ae53cd10fce302d5a0bc3aff" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::DocSaveOptions::set_AlwaysCompressMetafiles</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_AlwaysCompressMetafiles</name>
+        <qualifiedname>Aspose::Words::Saving::DocSaveOptions::set_AlwaysCompressMetafiles</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1ac212be44dce1be0001c4480bc4f8371e" kindref="member">Aspose::Words::Saving::DocSaveOptions::get_AlwaysCompressMetafiles</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocSaveOptions.h" line="206" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1a8a15828a42feed648dc177ad0e4ab23f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::DocSaveOptions::set_Password</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Password</name>
+        <qualifiedname>Aspose::Words::Saving::DocSaveOptions::set_Password</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1afb3590ef64a2663f8428ddcf5e5bd0de" kindref="member">Aspose::Words::Saving::DocSaveOptions::get_Password</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocSaveOptions.h" line="138" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1a5fadc3f84015e5c4924e01ca2b84cab8" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::DocSaveOptions::set_SaveFormat</definition>
+        <argsstring>(Aspose::Words::SaveFormat value) override</argsstring>
+        <name>set_SaveFormat</name>
+        <qualifiedname>Aspose::Words::Saving::DocSaveOptions::set_SaveFormat</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a75d9ec81ad960179eba172764d2c60b9">set_SaveFormat</reimplements>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847" kindref="member">Aspose::Words::SaveFormat</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1ad5c8bec18e9521bae18e3f57aa9f7695" kindref="member">Aspose::Words::Saving::DocSaveOptions::get_SaveFormat</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocSaveOptions.h" line="101" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1aa368dd0b878089d2fd6d1b65cd31d2ff" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::DocSaveOptions::set_SavePictureBullet</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_SavePictureBullet</name>
+        <qualifiedname>Aspose::Words::Saving::DocSaveOptions::set_SavePictureBullet</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1ac26109002a73ff23ad8c6bd7736ef442" kindref="member">Aspose::Words::Saving::DocSaveOptions::get_SavePictureBullet</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocSaveOptions.h" line="231" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1a0410cf2e86aab59e7e7096fe16bdc19a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::DocSaveOptions::set_SaveRoutingSlip</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_SaveRoutingSlip</name>
+        <qualifiedname>Aspose::Words::Saving::DocSaveOptions::set_SaveRoutingSlip</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1adc8e6859ffb2c2533312c1512136d502" kindref="member">Aspose::Words::Saving::DocSaveOptions::get_SaveRoutingSlip</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/DocSaveOptions.h" line="174" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Can be used to specify additional options when saving a document into the <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a7a48ae1b7387f8a8159c488fbd850021" kindref="member">Doc</ref> or <ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847aaf6c6cf7a454b4ef4a850ac4d960a2cc" kindref="member">Dot</ref> format. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>At the moment provides only the <ref refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1ad5c8bec18e9521bae18e3f57aa9f7695" kindref="member">SaveFormat</ref> property, but in the future will have other options added, such as an encryption password or digital signature settings.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set save options for older Microsoft Word formats. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;DocSaveOptions&gt;(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a7a48ae1b7387f8a8159c488fbd850021" kindref="member" tooltip="Saves the document in the Microsoft Word 97 - 2007 Document format.">SaveFormat::Doc</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>password<sp/>which<sp/>will<sp/>protect<sp/>the<sp/>loading<sp/>of<sp/>the<sp/>document<sp/>by<sp/>Microsoft<sp/>Word<sp/>or<sp/>Aspose.Words.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Note<sp/>that<sp/>this<sp/>does<sp/>not<sp/>encrypt<sp/>the<sp/>contents<sp/>of<sp/>the<sp/>document<sp/>in<sp/>any<sp/>way.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_Password(u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>document<sp/>contains<sp/>a<sp/>routing<sp/>slip,<sp/>we<sp/>can<sp/>preserve<sp/>it<sp/>while<sp/>saving<sp/>by<sp/>setting<sp/>this<sp/>flag<sp/>to<sp/>true.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_SaveRoutingSlip(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocSaveOptions.SaveAsDoc.doc&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>To<sp/>be<sp/>able<sp/>to<sp/>load<sp/>the<sp/>document,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>we<sp/>will<sp/>need<sp/>to<sp/>apply<sp/>the<sp/>password<sp/>we<sp/>specified<sp/>in<sp/>the<sp/>DocSaveOptions<sp/>object<sp/>in<sp/>a<sp/>LoadOptions<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_THROW(doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocSaveOptions.SaveAsDoc.doc&quot;</highlight><highlight class="normal">),<sp/><ref refid="namespace_aspose_1_1_words_1a69d5ddc9f0a7b4c2dfd356817c3be538" kindref="member" tooltip="Thrown if a document is encrypted with a password and the password specified when opening the documen...">IncorrectPasswordException</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>loadOptions<sp/>=<sp/>MakeObject&lt;LoadOptions&gt;(u</highlight><highlight class="stringliteral">&quot;MyPassword&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;DocSaveOptions.SaveAsDoc.doc&quot;</highlight><highlight class="normal">,<sp/>loadOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::DocSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Saving::SaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_save_options"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::DocSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Saving::SaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_save_options"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Saving/DocSaveOptions.h" line="57" column="1" bodyfile="Aspose.Words.Cpp/Saving/DocSaveOptions.h" bodystart="58" bodyend="308"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1a61609c273528095527ffd81066da9d71" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a5f8b7264160980e775d0ebc2bb87ec6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>CreateSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a92aa5f878a1d0f3e06f620fd1376142f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>CreateSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1a96b4fdb560384a1c5123a82a92cdeaca" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>DocSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1a90ffd9d680b65f73e901ee5d525d567f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>DocSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9fecca2156a70f1834bd1c913a129d47" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>get_AllowEmbeddingPostScriptFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1ac212be44dce1be0001c4480bc4f8371e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>get_AlwaysCompressMetafiles</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab9a4c7be9e7070ecbd5248bf01535ef3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>get_CustomTimeZoneInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a327b0f9146d84c39d72f09dffb55970d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>get_DefaultTemplate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ac309d37b349e0fd18de204c4b3493113" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>get_Dml3DEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0ad6a41669029f8bcb5d56ccd8eb1f25" prot="public" virt="virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>get_DmlEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a40d3faab0e88622c6fac579bbc050772" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>get_DmlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1add57516835dfbc84b4ac55117e03a6a5" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>get_ExportGeneratorName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab3a4c36623e1cba81e21fb0c18fc27d6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>get_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a4032bbd708177dd64e3ba455a509e470" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>get_ImlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a00434e0916cf24f88a1cff9f4952bff3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>get_MemoryOptimization</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1afb3590ef64a2663f8428ddcf5e5bd0de" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>get_Password</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1af3590697cf94e5b1f546536a3bb20089" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>get_PrettyFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aabbd691992af320129ecf001454428b1" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>get_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1ad5c8bec18e9521bae18e3f57aa9f7695" prot="public" virt="virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>get_SaveFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1ac26109002a73ff23ad8c6bd7736ef442" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>get_SavePictureBullet</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1adc8e6859ffb2c2533312c1512136d502" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>get_SaveRoutingSlip</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2eb22d168e7885c69f1a5ee73dfa9a9c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>get_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aafd986a59939576b688baf70ae2982b9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>get_UpdateCreatedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9058403d0bf8ef363c7265927c7d9689" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>get_UpdateFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ae00124e73b7ed35821a822f59a98456d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>get_UpdateLastPrintedProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aa37a14113e46f96d6a4100f33dbb41cd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>get_UpdateLastSavedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6ba4c67d7befc1d3959119554bc6ca0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>get_UpdateSdtContent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ac07a919eda7dd3104c3539643caab82f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>get_UseAntiAliasing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a926127b8a13db96c893d2e327d1ac458" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>get_UseHighQualityRendering</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1abb279d7be20ca22c503fc167e423993b" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1a3a1383eca4baf428a36c7c2810e741a3" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1acfcc84f4df607c4918c4116de79fd1b8" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1a0c750e50b9639d17f9a0081b138c8a1f" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1a61f500911cd22bedb00ccb66d6929213" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1afa151764895dbd7636f34f3cd8866751" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9bf0591a869b2046558fac161fb5c8b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>set_AllowEmbeddingPostScriptFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1ae0821617ae53cd10fce302d5a0bc3aff" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>set_AlwaysCompressMetafiles</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a70292d5b6ed5dd4ed81ab6779ada5037" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>set_CustomTimeZoneInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6d50c71651e23523dd4edae9c8e03b0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>set_DefaultTemplate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a52f28c6f920bd4829f304f586dd52a4e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>set_Dml3DEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0415bb8f17f114f5b8bfbf77822f3e33" prot="public" virt="virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>set_DmlEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a925282153c1c7004637ce406968cd6bd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>set_DmlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2b3bada9094a54559b832d5051f5be6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>set_ExportGeneratorName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f2f79ea57714961156f913867823fc2" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>set_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afe2fd3cb5119a04f528a9da4b6c643b6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>set_ImlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1b432af0d799842b6939005904d924b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>set_MemoryOptimization</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1a8a15828a42feed648dc177ad0e4ab23f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>set_Password</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0333c9e934c7b7066c108975a65291c9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>set_PrettyFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3ca5c36f7f1922b1f7b1f6e8528e29c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>set_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1a5fadc3f84015e5c4924e01ca2b84cab8" prot="public" virt="virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>set_SaveFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1aa368dd0b878089d2fd6d1b65cd31d2ff" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>set_SavePictureBullet</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1a0410cf2e86aab59e7e7096fe16bdc19a" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>set_SaveRoutingSlip</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a7488c6e1d35b21dda1fb3a6b24eb077c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>set_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aa6b3c59d2b5d93ecd4af333e7731a57a" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>set_UpdateCreatedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1ca0e9e7685d9cfdacad9b0c1c47fede" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>set_UpdateFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9253b0a7481cec6751f2d6e186d15f89" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>set_UpdateLastPrintedProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f8626f9e2fdd5ea38f656ecffea4433" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>set_UpdateLastSavedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afc31fd439351d75447554d3196522687" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>set_UpdateSdtContent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aee6a47d5aa51895c89fb99333990b15c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>set_UseAntiAliasing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aadd8de8195c06388cf619673c020dad3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>set_UseHighQualityRendering</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1a19f785d6dade367640ba0b4d038cac11" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_doc_save_options_1ad701fa2173ff47ad034c7c68883a919f" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::DocSaveOptions</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

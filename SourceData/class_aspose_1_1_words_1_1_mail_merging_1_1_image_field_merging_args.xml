@@ -1,0 +1,483 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::MailMerging::ImageFieldMergingArgs</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base" prot="public" virt="non-virtual">Aspose::Words::MailMerging::FieldMergingArgsBase</basecompoundref>
+    <includes refid="_image_field_merging_args_8h" local="no">Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1aa496d3f305806e8e3d1836aa504de4a1" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base" kindref="compound">Aspose::Words::MailMerging::FieldMergingArgsBase</ref></type>
+        <definition>typedef Aspose::Words::MailMerging::FieldMergingArgsBase Aspose::Words::MailMerging::ImageFieldMergingArgs::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::MailMerging::ImageFieldMergingArgs::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" line="70" column="62" bodyfile="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" bodystart="70" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1ad0199d8ea09c7b09dd8b6785e3cc3608" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args" kindref="compound">ImageFieldMergingArgs</ref></type>
+        <definition>typedef ImageFieldMergingArgs Aspose::Words::MailMerging::ImageFieldMergingArgs::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::MailMerging::ImageFieldMergingArgs::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" line="69" column="35" bodyfile="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" bodystart="69" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a03263d91bbbf8307c4331b2ac6112113" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::MailMerging::ImageFieldMergingArgs::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::MailMerging::ImageFieldMergingArgs::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" line="72" column="37" bodyfile="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" bodystart="72" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a4c295e0e30cab031d527a9b396e368e7" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::MailMerging::ImageFieldMergingArgs::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::MailMerging::ImageFieldMergingArgs::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" line="159" column="20" bodyfile="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" bodystart="159" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a25eae9c91884d5aa90ee6a8a100cbd75" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::MailMerging::ImageFieldMergingArgs::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::MailMerging::ImageFieldMergingArgs::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" line="160" column="23" bodyfile="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" bodystart="160" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a51580b03f4dd106b35beae004de93243" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::MailMerging::ImageFieldMergingArgs::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::MailMerging::ImageFieldMergingArgs::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" line="161" column="23" bodyfile="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" bodystart="161" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1abe92318afc73771cf18242a0d23f6c12" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::MailMerging::ImageFieldMergingArgs::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::MailMerging::ImageFieldMergingArgs::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" line="162" column="23" bodyfile="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" bodystart="162" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1af18d52c710e2e58361b73bdcced4aff9" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::MailMerging::ImageFieldMergingArgs::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::MailMerging::ImageFieldMergingArgs::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" line="163" column="23" bodyfile="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" bodystart="163" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1afce02012b0ef3d70564a673931d5c93e" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::MailMerging::ImageFieldMergingArgs::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::MailMerging::ImageFieldMergingArgs::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" line="164" column="23" bodyfile="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" bodystart="164" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a81dab7df58dd34a6f9a701f7495fa005" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::MailMerging::ImageFieldMergingArgs::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::MailMerging::ImageFieldMergingArgs::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" line="73" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a38208041b97b6c09184fe3b0de1ecd7b" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.drawing.image/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Image</ref> &gt; &amp;</type>
+        <definition>const System::SharedPtr&lt; System::Drawing::Image &gt; &amp; Aspose::Words::MailMerging::ImageFieldMergingArgs::get_Image</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Image</name>
+        <qualifiedname>Aspose::Words::MailMerging::ImageFieldMergingArgs::get_Image</qualifiedname>
+        <briefdescription>
+<para>Specifies the image that the mail merge engine must insert into the document. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" line="94" column="32"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a597b64ce67b5de2965437fd1ed6d6648" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageFileName</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ImageFileName</name>
+        <qualifiedname>Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageFileName</qualifiedname>
+        <briefdescription>
+<para>Sets the file name of the image that the mail merge engine must insert into the document. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" line="78" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a0193bc2bce3495eabba9fc298a7e0596" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_merge_field_image_dimension" kindref="compound">Aspose::Words::Fields::MergeFieldImageDimension</ref> &gt; &amp;</type>
+        <definition>const System::SharedPtr&lt; Aspose::Words::Fields::MergeFieldImageDimension &gt; &amp; Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageHeight</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ImageHeight</name>
+        <qualifiedname>Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageHeight</qualifiedname>
+        <briefdescription>
+<para>Specifies the image height for the image to insert into the document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The value of this property initially comes from the corresponding MERGEFIELD&apos;s code, contained in the template document. To override the initial value, you should assign an instance of <ref refid="class_aspose_1_1_words_1_1_fields_1_1_merge_field_image_dimension" kindref="compound">MergeFieldImageDimension</ref> class to this property or set the properties for the instance of <ref refid="class_aspose_1_1_words_1_1_fields_1_1_merge_field_image_dimension" kindref="compound">MergeFieldImageDimension</ref> class, returned by this property.</para>
+<para>To indicate that the original value of the image height should be applied, you should assign the <bold>null</bold> value to this property or set the <ref refid="class_aspose_1_1_words_1_1_fields_1_1_merge_field_image_dimension_1a543d9dc051ff97566ba5daba2d2d90b1" kindref="member">Value</ref> property for the instance of <ref refid="class_aspose_1_1_words_1_1_fields_1_1_merge_field_image_dimension" kindref="compound">MergeFieldImageDimension</ref> class, returned by this property, to a negative value.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_fields_1_1_merge_field_image_dimension" kindref="compound">Aspose::Words::Fields::MergeFieldImageDimension</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a42a63a6b0a7b556ffd6f69de5d538c2b" kindref="member">Aspose::Words::Fields::MergeFieldImageDimensionUnit</ref> </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" line="143" column="32"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a99e28985db65fea40b15d1f85c4a0535" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+        <definition>const System::SharedPtr&lt; System::IO::Stream &gt; &amp; Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageStream</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ImageStream</name>
+        <qualifiedname>Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageStream</qualifiedname>
+        <briefdescription>
+<para>Specifies the stream for the mail merge engine to read an image from. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Aspose.Words closes this stream after it merges the image into the document. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" line="86" column="32"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1ad48b0de7b8c45f4eff4e00c9cf068cb4" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_merge_field_image_dimension" kindref="compound">Aspose::Words::Fields::MergeFieldImageDimension</ref> &gt; &amp;</type>
+        <definition>const System::SharedPtr&lt; Aspose::Words::Fields::MergeFieldImageDimension &gt; &amp; Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageWidth</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ImageWidth</name>
+        <qualifiedname>Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageWidth</qualifiedname>
+        <briefdescription>
+<para>Specifies the image width for the image to insert into the document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The value of this property initially comes from the corresponding MERGEFIELD&apos;s code, contained in the template document. To override the initial value, you should assign an instance of <ref refid="class_aspose_1_1_words_1_1_fields_1_1_merge_field_image_dimension" kindref="compound">MergeFieldImageDimension</ref> class to this property or set the properties for the instance of <ref refid="class_aspose_1_1_words_1_1_fields_1_1_merge_field_image_dimension" kindref="compound">MergeFieldImageDimension</ref> class, returned by this property.</para>
+<para>To indicate that the original value of the image width should be applied, you should assign the <bold>null</bold> value to this property or set the <ref refid="class_aspose_1_1_words_1_1_fields_1_1_merge_field_image_dimension_1a543d9dc051ff97566ba5daba2d2d90b1" kindref="member">Value</ref> property for the instance of <ref refid="class_aspose_1_1_words_1_1_fields_1_1_merge_field_image_dimension" kindref="compound">MergeFieldImageDimension</ref> class, returned by this property, to a negative value.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_fields_1_1_merge_field_image_dimension" kindref="compound">Aspose::Words::Fields::MergeFieldImageDimension</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="namespace_aspose_1_1_words_1_1_fields_1a42a63a6b0a7b556ffd6f69de5d538c2b" kindref="member">Aspose::Words::Fields::MergeFieldImageDimensionUnit</ref> </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" line="125" column="32"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a18e176dfbe67ca4f11b2017615e62b0f" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape" kindref="compound">Aspose::Words::Drawing::Shape</ref> &gt; &amp;</type>
+        <definition>const System::SharedPtr&lt; Aspose::Words::Drawing::Shape &gt; &amp; Aspose::Words::MailMerging::ImageFieldMergingArgs::get_Shape</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Shape</name>
+        <qualifiedname>Aspose::Words::MailMerging::ImageFieldMergingArgs::get_Shape</qualifiedname>
+        <briefdescription>
+<para>Specifies the shape that the mail merge engine must insert into the document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>When this property is specified, the mail merge engine ignores all other properties like <ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a597b64ce67b5de2965437fd1ed6d6648" kindref="member">ImageFileName</ref> or <ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a99e28985db65fea40b15d1f85c4a0535" kindref="member">ImageStream</ref> and simply inserts the shape into the document.</para>
+<para>Use this property to fully control the process of merging an image merge field. For example, you can specify <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a60c99bc335b520c7d7a70cf00e205d9a" kindref="member">WrapType</ref> or any other shape property to fine tune the resulting node. However, please note that you are responsible for providing the content of the shape. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" line="107" column="32"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a8cc9f936351697c4fa3f36954241c1df" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::MailMerging::ImageFieldMergingArgs::set_Image</definition>
+        <argsstring>(const System::SharedPtr&lt; System::Drawing::Image &gt; &amp;value)</argsstring>
+        <name>set_Image</name>
+        <qualifiedname>Aspose::Words::MailMerging::ImageFieldMergingArgs::set_Image</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.drawing.image/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Image</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Specifies the image that the mail merge engine must insert into the document. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" line="97" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1ae6dc6e25e8f65e36be2dd8284cceedc4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::MailMerging::ImageFieldMergingArgs::set_ImageFileName</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ImageFileName</name>
+        <qualifiedname>Aspose::Words::MailMerging::ImageFieldMergingArgs::set_ImageFileName</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets the file name of the image that the mail merge engine must insert into the document. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" line="81" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1af6e61a580111ccc0ec085615103d9bf3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::MailMerging::ImageFieldMergingArgs::set_ImageHeight</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Fields::MergeFieldImageDimension &gt; &amp;value)</argsstring>
+        <name>set_ImageHeight</name>
+        <qualifiedname>Aspose::Words::MailMerging::ImageFieldMergingArgs::set_ImageHeight</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_merge_field_image_dimension" kindref="compound">Aspose::Words::Fields::MergeFieldImageDimension</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a0193bc2bce3495eabba9fc298a7e0596" kindref="member">Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageHeight</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" line="146" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a3decbeb98f01751d0e40802bbdb989df" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::MailMerging::ImageFieldMergingArgs::set_ImageStream</definition>
+        <argsstring>(const System::SharedPtr&lt; System::IO::Stream &gt; &amp;value)</argsstring>
+        <name>set_ImageStream</name>
+        <qualifiedname>Aspose::Words::MailMerging::ImageFieldMergingArgs::set_ImageStream</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Specifies the stream for the mail merge engine to read an image from. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Aspose.Words closes this stream after it merges the image into the document. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" line="91" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1ab884f264739be3e9e72e416a323f933d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename CharType</type>
+          </param>
+          <param>
+            <type>typename Traits</type>
+          </param>
+        </templateparamlist>
+        <type>void</type>
+        <definition>void Aspose::Words::MailMerging::ImageFieldMergingArgs::set_ImageStream</definition>
+        <argsstring>(std::basic_istream&lt; CharType, Traits &gt; &amp;value)</argsstring>
+        <name>set_ImageStream</name>
+        <qualifiedname>Aspose::Words::MailMerging::ImageFieldMergingArgs::set_ImageStream</qualifiedname>
+        <param>
+          <type>std::basic_istream&lt; CharType, Traits &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" line="149" column="10" bodyfile="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" bodystart="149" bodyend="153"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1ad4c62346a36862ff19716ad7902d42d3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::MailMerging::ImageFieldMergingArgs::set_ImageWidth</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Fields::MergeFieldImageDimension &gt; &amp;value)</argsstring>
+        <name>set_ImageWidth</name>
+        <qualifiedname>Aspose::Words::MailMerging::ImageFieldMergingArgs::set_ImageWidth</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_merge_field_image_dimension" kindref="compound">Aspose::Words::Fields::MergeFieldImageDimension</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1ad48b0de7b8c45f4eff4e00c9cf068cb4" kindref="member">Aspose::Words::MailMerging::ImageFieldMergingArgs::get_ImageWidth</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" line="128" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a35747e8815cd628271b4010ea0a95327" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::MailMerging::ImageFieldMergingArgs::set_Shape</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Drawing::Shape &gt; &amp;value)</argsstring>
+        <name>set_Shape</name>
+        <qualifiedname>Aspose::Words::MailMerging::ImageFieldMergingArgs::set_Shape</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape" kindref="compound">Aspose::Words::Drawing::Shape</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a18e176dfbe67ca4f11b2017615e62b0f" kindref="member">Aspose::Words::MailMerging::ImageFieldMergingArgs::get_Shape</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" line="110" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Provides data for the <ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_i_field_merging_callback_1a9e9c912e5b6718d18c96ec9e1329c81b" kindref="member">ImageFieldMerging()</ref> event. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>This event occurs during mail merge when an image mail merge field is encountered in the document. You can respond to this event to return a file name, stream, or an <ref refid="class/system.drawing.image/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">Image</ref> object to the mail merge engine so it is inserted into the document.</para>
+<para>There are three properties available <ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a597b64ce67b5de2965437fd1ed6d6648" kindref="member">ImageFileName</ref>, <ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a99e28985db65fea40b15d1f85c4a0535" kindref="member">ImageStream</ref> and <ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a38208041b97b6c09184fe3b0de1ecd7b" kindref="member">Image</ref> to specify where the image must be taken from. Set only one of these properties.</para>
+<para>To insert an image mail merge field into a document in Word, select Insert/Field command, then select MergeField and type Image:MyFieldName.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_i_field_merging_callback" kindref="compound">Aspose::Words::MailMerging::IFieldMergingCallback</ref> </para>
+</simplesect>
+</para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::MailMerging::FieldMergingArgsBase</label>
+        <link refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::MailMerging::ImageFieldMergingArgs</label>
+        <link refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::MailMerging::FieldMergingArgsBase</label>
+        <link refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::MailMerging::ImageFieldMergingArgs</label>
+        <link refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" line="67" column="1" bodyfile="Aspose.Words.Cpp/MailMerging/ImageFieldMergingArgs.h" bodystart="68" bodyend="166"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1aa496d3f305806e8e3d1836aa504de4a1" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base_1accf2b1f95f9c1897d088aa4d446c339e" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>get_Document</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base_1af99cd4866937bdbb1b6d0e62e165b8d6" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>get_DocumentFieldName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base_1a5082fa5b6e7a57712dac337797f77b4d" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>get_Field</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base_1a18b86d6528012ab5a86c014b986e6f81" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>get_FieldName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base_1a1e61345ef4cec152aef99c02d10ec006" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>get_FieldValue</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a38208041b97b6c09184fe3b0de1ecd7b" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>get_Image</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a597b64ce67b5de2965437fd1ed6d6648" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>get_ImageFileName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a0193bc2bce3495eabba9fc298a7e0596" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>get_ImageHeight</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a99e28985db65fea40b15d1f85c4a0535" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>get_ImageStream</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1ad48b0de7b8c45f4eff4e00c9cf068cb4" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>get_ImageWidth</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base_1a721f8810dca5a4959eaeeb7b2d4cd79c" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>get_RecordIndex</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a18e176dfbe67ca4f11b2017615e62b0f" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>get_Shape</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base_1a633f4555dbddd38b15f22fe13ba20c51" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>get_TableName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a4c295e0e30cab031d527a9b396e368e7" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a25eae9c91884d5aa90ee6a8a100cbd75" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a51580b03f4dd106b35beae004de93243" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1abe92318afc73771cf18242a0d23f6c12" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1af18d52c710e2e58361b73bdcced4aff9" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1afce02012b0ef3d70564a673931d5c93e" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a81dab7df58dd34a6f9a701f7495fa005" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_field_merging_args_base_1a1908c8699bb256be807385b7cf62818f" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>set_FieldValue</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a8cc9f936351697c4fa3f36954241c1df" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>set_Image</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1ae6dc6e25e8f65e36be2dd8284cceedc4" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>set_ImageFileName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1af6e61a580111ccc0ec085615103d9bf3" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>set_ImageHeight</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a3decbeb98f01751d0e40802bbdb989df" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>set_ImageStream</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1ab884f264739be3e9e72e416a323f933d" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>set_ImageStream</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1ad4c62346a36862ff19716ad7902d42d3" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>set_ImageWidth</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a35747e8815cd628271b4010ea0a95327" prot="public" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>set_Shape</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1ad0199d8ea09c7b09dd8b6785e3cc3608" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_mail_merging_1_1_image_field_merging_args_1a03263d91bbbf8307c4331b2ac6112113" prot="private" virt="non-virtual"><scope>Aspose::Words::MailMerging::ImageFieldMergingArgs</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

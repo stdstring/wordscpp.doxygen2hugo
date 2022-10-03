@@ -1,0 +1,489 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Markup::SdtListItem</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_sdt_list_item_8h" local="no">Aspose.Words.Cpp/Markup/SdtListItem.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_1aa48f88e2a321849d0cd2b14510a0a54f" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Markup::SdtListItem::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Markup::SdtListItem::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/SdtListItem.h" line="83" column="28" bodyfile="Aspose.Words.Cpp/Markup/SdtListItem.h" bodystart="83" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_1aa22c2b144e71ad6a887f72d708654fb9" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item" kindref="compound">SdtListItem</ref></type>
+        <definition>typedef SdtListItem Aspose::Words::Markup::SdtListItem::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Markup::SdtListItem::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/SdtListItem.h" line="82" column="25" bodyfile="Aspose.Words.Cpp/Markup/SdtListItem.h" bodystart="82" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_1aaffa2ecdc7d264b65b97ff898e649929" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Markup::SdtListItem::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Markup::SdtListItem::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/SdtListItem.h" line="85" column="37" bodyfile="Aspose.Words.Cpp/Markup/SdtListItem.h" bodystart="85" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_1ade5e9b95d9b63822ab0cbde1e2f3e861" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Markup::SdtListItem::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Markup::SdtListItem::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/SdtListItem.h" line="342" column="20" bodyfile="Aspose.Words.Cpp/Markup/SdtListItem.h" bodystart="342" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_1a99a1812418b56969de2559a685014c7a" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Markup::SdtListItem::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Markup::SdtListItem::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/SdtListItem.h" line="343" column="20" bodyfile="Aspose.Words.Cpp/Markup/SdtListItem.h" bodystart="343" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_1ab7440f16ebd0c73fa6396431ba8e67a1" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Markup::SdtListItem::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Markup::SdtListItem::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/SdtListItem.h" line="86" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_1af3a6bd03290f72de11233e4b093f943c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Markup::SdtListItem::SdtListItem</definition>
+        <argsstring>(const System::String &amp;displayText, const System::String &amp;value)</argsstring>
+        <name>SdtListItem</name>
+        <qualifiedname>Aspose::Words::Markup::SdtListItem::SdtListItem</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>displayText</declname>
+        </param>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Initializes a new instance of this class. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with drop down-list structured document tags. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tag<sp/>=<sp/>MakeObject&lt;StructuredDocumentTag&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7ae4ef5c80fe94d0cad53a95d50691a0c7" kindref="member" tooltip="The SDT represents a drop down list when displayed in the document.">SdtType::DropDownList</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a57672f3522526bfeb73e0b7539583751ae1e4c8c9ccd9fc39c391da4bcd093fb2" kindref="member" tooltip="The element occurs at the block level (e.g. among tables and paragraphs).">MarkupLevel::Block</ref>);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;AppendChild(tag);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>drop-down<sp/>list<sp/>structured<sp/>document<sp/>tag<sp/>is<sp/>a<sp/>form<sp/>that<sp/>allows<sp/>the<sp/>user<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>select<sp/>an<sp/>option<sp/>from<sp/>a<sp/>list<sp/>by<sp/>left-clicking<sp/>and<sp/>opening<sp/>the<sp/>form<sp/>in<sp/>Microsoft<sp/>Word.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;ListItems&quot;<sp/>property<sp/>contains<sp/>all<sp/>list<sp/>items,<sp/>and<sp/>each<sp/>list<sp/>item<sp/>is<sp/>an<sp/>&quot;SdtListItem&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;SdtListItemCollection&gt;<sp/>listItems<sp/>=<sp/>tag-&gt;get_ListItems();</highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;Add(MakeObject&lt;SdtListItem&gt;(u</highlight><highlight class="stringliteral">&quot;Value<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(listItems-&gt;idx_get(0)-&gt;get_DisplayText(),<sp/>listItems-&gt;idx_get(0)-&gt;get_Value());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>3<sp/>more<sp/>list<sp/>items.<sp/>Initialize<sp/>these<sp/>items<sp/>using<sp/>a<sp/>different<sp/>constructor<sp/>to<sp/>the<sp/>first<sp/>item</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>display<sp/>strings<sp/>that<sp/>are<sp/>different<sp/>from<sp/>their<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;Add(MakeObject&lt;SdtListItem&gt;(u</highlight><highlight class="stringliteral">&quot;Item<sp/>2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Value<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;Add(MakeObject&lt;SdtListItem&gt;(u</highlight><highlight class="stringliteral">&quot;Item<sp/>3&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Value<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;Add(MakeObject&lt;SdtListItem&gt;(u</highlight><highlight class="stringliteral">&quot;Item<sp/>4&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Value<sp/>4&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>listItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>drop-down<sp/>list<sp/>is<sp/>displaying<sp/>the<sp/>first<sp/>item.<sp/>Assign<sp/>a<sp/>different<sp/>list<sp/>item<sp/>to<sp/>the<sp/>&quot;SelectedValue&quot;<sp/>to<sp/>display<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;set_SelectedValue(listItems-&gt;idx_get(3));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Value<sp/>4&quot;</highlight><highlight class="normal">,<sp/>listItems-&gt;get_SelectedValue()-&gt;get_Value());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>over<sp/>the<sp/>collection<sp/>and<sp/>print<sp/>each<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;SdtListItem&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>listItems-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(enumerator-&gt;get_Current()<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;List<sp/>item:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_DisplayText()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>value:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_Value()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>the<sp/>last<sp/>list<sp/>item.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;RemoveAt(3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>listItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Since<sp/>our<sp/>drop-down<sp/>control<sp/>is<sp/>set<sp/>to<sp/>display<sp/>the<sp/>removed<sp/>item<sp/>by<sp/>default,<sp/>give<sp/>it<sp/>an<sp/>item<sp/>to<sp/>display<sp/>which<sp/>exists.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;set_SelectedValue(listItems-&gt;idx_get(1));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;StructuredDocumentTag.ListItemCollection.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;Clear&quot;<sp/>method<sp/>to<sp/>empty<sp/>the<sp/>entire<sp/>drop-down<sp/>item<sp/>collection<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>listItems-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/SdtListItem.h" line="275" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_1a6e8f905d0927b7986567c7810e47f34f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Markup::SdtListItem::SdtListItem</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>SdtListItem</name>
+        <qualifiedname>Aspose::Words::Markup::SdtListItem::SdtListItem</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Initializes a new instance of this class. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with drop down-list structured document tags. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tag<sp/>=<sp/>MakeObject&lt;StructuredDocumentTag&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7ae4ef5c80fe94d0cad53a95d50691a0c7" kindref="member" tooltip="The SDT represents a drop down list when displayed in the document.">SdtType::DropDownList</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a57672f3522526bfeb73e0b7539583751ae1e4c8c9ccd9fc39c391da4bcd093fb2" kindref="member" tooltip="The element occurs at the block level (e.g. among tables and paragraphs).">MarkupLevel::Block</ref>);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;AppendChild(tag);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>drop-down<sp/>list<sp/>structured<sp/>document<sp/>tag<sp/>is<sp/>a<sp/>form<sp/>that<sp/>allows<sp/>the<sp/>user<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>select<sp/>an<sp/>option<sp/>from<sp/>a<sp/>list<sp/>by<sp/>left-clicking<sp/>and<sp/>opening<sp/>the<sp/>form<sp/>in<sp/>Microsoft<sp/>Word.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;ListItems&quot;<sp/>property<sp/>contains<sp/>all<sp/>list<sp/>items,<sp/>and<sp/>each<sp/>list<sp/>item<sp/>is<sp/>an<sp/>&quot;SdtListItem&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;SdtListItemCollection&gt;<sp/>listItems<sp/>=<sp/>tag-&gt;get_ListItems();</highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;Add(MakeObject&lt;SdtListItem&gt;(u</highlight><highlight class="stringliteral">&quot;Value<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(listItems-&gt;idx_get(0)-&gt;get_DisplayText(),<sp/>listItems-&gt;idx_get(0)-&gt;get_Value());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>3<sp/>more<sp/>list<sp/>items.<sp/>Initialize<sp/>these<sp/>items<sp/>using<sp/>a<sp/>different<sp/>constructor<sp/>to<sp/>the<sp/>first<sp/>item</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>display<sp/>strings<sp/>that<sp/>are<sp/>different<sp/>from<sp/>their<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;Add(MakeObject&lt;SdtListItem&gt;(u</highlight><highlight class="stringliteral">&quot;Item<sp/>2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Value<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;Add(MakeObject&lt;SdtListItem&gt;(u</highlight><highlight class="stringliteral">&quot;Item<sp/>3&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Value<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;Add(MakeObject&lt;SdtListItem&gt;(u</highlight><highlight class="stringliteral">&quot;Item<sp/>4&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Value<sp/>4&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>listItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>drop-down<sp/>list<sp/>is<sp/>displaying<sp/>the<sp/>first<sp/>item.<sp/>Assign<sp/>a<sp/>different<sp/>list<sp/>item<sp/>to<sp/>the<sp/>&quot;SelectedValue&quot;<sp/>to<sp/>display<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;set_SelectedValue(listItems-&gt;idx_get(3));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Value<sp/>4&quot;</highlight><highlight class="normal">,<sp/>listItems-&gt;get_SelectedValue()-&gt;get_Value());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>over<sp/>the<sp/>collection<sp/>and<sp/>print<sp/>each<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;SdtListItem&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>listItems-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(enumerator-&gt;get_Current()<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;List<sp/>item:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_DisplayText()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>value:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_Value()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>the<sp/>last<sp/>list<sp/>item.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;RemoveAt(3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>listItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Since<sp/>our<sp/>drop-down<sp/>control<sp/>is<sp/>set<sp/>to<sp/>display<sp/>the<sp/>removed<sp/>item<sp/>by<sp/>default,<sp/>give<sp/>it<sp/>an<sp/>item<sp/>to<sp/>display<sp/>which<sp/>exists.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;set_SelectedValue(listItems-&gt;idx_get(1));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;StructuredDocumentTag.ListItemCollection.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;Clear&quot;<sp/>method<sp/>to<sp/>empty<sp/>the<sp/>entire<sp/>drop-down<sp/>item<sp/>collection<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>listItems-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/SdtListItem.h" line="336" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_1a68ffa89716ee33119645d76078c99875" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Markup::SdtListItem::get_DisplayText</definition>
+        <argsstring>() const</argsstring>
+        <name>get_DisplayText</name>
+        <qualifiedname>Aspose::Words::Markup::SdtListItem::get_DisplayText</qualifiedname>
+        <briefdescription>
+<para>Gets the text to display in the run content in place of the <ref refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_1a9743dad00f13e97418780f022a1f13f2" kindref="member">Value</ref> attribute contents for this list item. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Cannot be null and cannot be an empty string.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with drop down-list structured document tags. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tag<sp/>=<sp/>MakeObject&lt;StructuredDocumentTag&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7ae4ef5c80fe94d0cad53a95d50691a0c7" kindref="member" tooltip="The SDT represents a drop down list when displayed in the document.">SdtType::DropDownList</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a57672f3522526bfeb73e0b7539583751ae1e4c8c9ccd9fc39c391da4bcd093fb2" kindref="member" tooltip="The element occurs at the block level (e.g. among tables and paragraphs).">MarkupLevel::Block</ref>);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;AppendChild(tag);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>drop-down<sp/>list<sp/>structured<sp/>document<sp/>tag<sp/>is<sp/>a<sp/>form<sp/>that<sp/>allows<sp/>the<sp/>user<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>select<sp/>an<sp/>option<sp/>from<sp/>a<sp/>list<sp/>by<sp/>left-clicking<sp/>and<sp/>opening<sp/>the<sp/>form<sp/>in<sp/>Microsoft<sp/>Word.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;ListItems&quot;<sp/>property<sp/>contains<sp/>all<sp/>list<sp/>items,<sp/>and<sp/>each<sp/>list<sp/>item<sp/>is<sp/>an<sp/>&quot;SdtListItem&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;SdtListItemCollection&gt;<sp/>listItems<sp/>=<sp/>tag-&gt;get_ListItems();</highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;Add(MakeObject&lt;SdtListItem&gt;(u</highlight><highlight class="stringliteral">&quot;Value<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(listItems-&gt;idx_get(0)-&gt;get_DisplayText(),<sp/>listItems-&gt;idx_get(0)-&gt;get_Value());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>3<sp/>more<sp/>list<sp/>items.<sp/>Initialize<sp/>these<sp/>items<sp/>using<sp/>a<sp/>different<sp/>constructor<sp/>to<sp/>the<sp/>first<sp/>item</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>display<sp/>strings<sp/>that<sp/>are<sp/>different<sp/>from<sp/>their<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;Add(MakeObject&lt;SdtListItem&gt;(u</highlight><highlight class="stringliteral">&quot;Item<sp/>2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Value<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;Add(MakeObject&lt;SdtListItem&gt;(u</highlight><highlight class="stringliteral">&quot;Item<sp/>3&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Value<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;Add(MakeObject&lt;SdtListItem&gt;(u</highlight><highlight class="stringliteral">&quot;Item<sp/>4&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Value<sp/>4&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>listItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>drop-down<sp/>list<sp/>is<sp/>displaying<sp/>the<sp/>first<sp/>item.<sp/>Assign<sp/>a<sp/>different<sp/>list<sp/>item<sp/>to<sp/>the<sp/>&quot;SelectedValue&quot;<sp/>to<sp/>display<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;set_SelectedValue(listItems-&gt;idx_get(3));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Value<sp/>4&quot;</highlight><highlight class="normal">,<sp/>listItems-&gt;get_SelectedValue()-&gt;get_Value());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>over<sp/>the<sp/>collection<sp/>and<sp/>print<sp/>each<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;SdtListItem&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>listItems-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(enumerator-&gt;get_Current()<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;List<sp/>item:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_DisplayText()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>value:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_Value()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>the<sp/>last<sp/>list<sp/>item.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;RemoveAt(3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>listItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Since<sp/>our<sp/>drop-down<sp/>control<sp/>is<sp/>set<sp/>to<sp/>display<sp/>the<sp/>removed<sp/>item<sp/>by<sp/>default,<sp/>give<sp/>it<sp/>an<sp/>item<sp/>to<sp/>display<sp/>which<sp/>exists.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;set_SelectedValue(listItems-&gt;idx_get(1));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;StructuredDocumentTag.ListItemCollection.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;Clear&quot;<sp/>method<sp/>to<sp/>empty<sp/>the<sp/>entire<sp/>drop-down<sp/>item<sp/>collection<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>listItems-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/SdtListItem.h" line="151" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_1a9743dad00f13e97418780f022a1f13f2" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Markup::SdtListItem::get_Value</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Value</name>
+        <qualifiedname>Aspose::Words::Markup::SdtListItem::get_Value</qualifiedname>
+        <briefdescription>
+<para>Gets the value of this list item. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Cannot be null and cannot be an empty string.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with drop down-list structured document tags. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tag<sp/>=<sp/>MakeObject&lt;StructuredDocumentTag&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7ae4ef5c80fe94d0cad53a95d50691a0c7" kindref="member" tooltip="The SDT represents a drop down list when displayed in the document.">SdtType::DropDownList</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a57672f3522526bfeb73e0b7539583751ae1e4c8c9ccd9fc39c391da4bcd093fb2" kindref="member" tooltip="The element occurs at the block level (e.g. among tables and paragraphs).">MarkupLevel::Block</ref>);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;AppendChild(tag);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>drop-down<sp/>list<sp/>structured<sp/>document<sp/>tag<sp/>is<sp/>a<sp/>form<sp/>that<sp/>allows<sp/>the<sp/>user<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>select<sp/>an<sp/>option<sp/>from<sp/>a<sp/>list<sp/>by<sp/>left-clicking<sp/>and<sp/>opening<sp/>the<sp/>form<sp/>in<sp/>Microsoft<sp/>Word.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;ListItems&quot;<sp/>property<sp/>contains<sp/>all<sp/>list<sp/>items,<sp/>and<sp/>each<sp/>list<sp/>item<sp/>is<sp/>an<sp/>&quot;SdtListItem&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;SdtListItemCollection&gt;<sp/>listItems<sp/>=<sp/>tag-&gt;get_ListItems();</highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;Add(MakeObject&lt;SdtListItem&gt;(u</highlight><highlight class="stringliteral">&quot;Value<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(listItems-&gt;idx_get(0)-&gt;get_DisplayText(),<sp/>listItems-&gt;idx_get(0)-&gt;get_Value());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>3<sp/>more<sp/>list<sp/>items.<sp/>Initialize<sp/>these<sp/>items<sp/>using<sp/>a<sp/>different<sp/>constructor<sp/>to<sp/>the<sp/>first<sp/>item</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>display<sp/>strings<sp/>that<sp/>are<sp/>different<sp/>from<sp/>their<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;Add(MakeObject&lt;SdtListItem&gt;(u</highlight><highlight class="stringliteral">&quot;Item<sp/>2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Value<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;Add(MakeObject&lt;SdtListItem&gt;(u</highlight><highlight class="stringliteral">&quot;Item<sp/>3&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Value<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;Add(MakeObject&lt;SdtListItem&gt;(u</highlight><highlight class="stringliteral">&quot;Item<sp/>4&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Value<sp/>4&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>listItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>drop-down<sp/>list<sp/>is<sp/>displaying<sp/>the<sp/>first<sp/>item.<sp/>Assign<sp/>a<sp/>different<sp/>list<sp/>item<sp/>to<sp/>the<sp/>&quot;SelectedValue&quot;<sp/>to<sp/>display<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;set_SelectedValue(listItems-&gt;idx_get(3));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Value<sp/>4&quot;</highlight><highlight class="normal">,<sp/>listItems-&gt;get_SelectedValue()-&gt;get_Value());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>over<sp/>the<sp/>collection<sp/>and<sp/>print<sp/>each<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;SdtListItem&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>listItems-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(enumerator-&gt;get_Current()<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;List<sp/>item:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_DisplayText()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>value:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_Value()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>the<sp/>last<sp/>list<sp/>item.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;RemoveAt(3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>listItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Since<sp/>our<sp/>drop-down<sp/>control<sp/>is<sp/>set<sp/>to<sp/>display<sp/>the<sp/>removed<sp/>item<sp/>by<sp/>default,<sp/>give<sp/>it<sp/>an<sp/>item<sp/>to<sp/>display<sp/>which<sp/>exists.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;set_SelectedValue(listItems-&gt;idx_get(1));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;StructuredDocumentTag.ListItemCollection.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;Clear&quot;<sp/>method<sp/>to<sp/>empty<sp/>the<sp/>entire<sp/>drop-down<sp/>item<sp/>collection<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>listItems-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Markup/SdtListItem.h" line="214" column="23"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>This element specifies a single list item within a parent <ref refid="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7afd249a0c28275ebf9d4c8464ca2225cf" kindref="member">ComboBox</ref> or <ref refid="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7ae4ef5c80fe94d0cad53a95d50691a0c7" kindref="member">DropDownList</ref> structured document tag. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with drop down-list structured document tags. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tag<sp/>=<sp/>MakeObject&lt;StructuredDocumentTag&gt;(doc,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a857aa9a59398c85d6ad07f20c4123ae7ae4ef5c80fe94d0cad53a95d50691a0c7" kindref="member" tooltip="The SDT represents a drop down list when displayed in the document.">SdtType::DropDownList</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_markup_1a57672f3522526bfeb73e0b7539583751ae1e4c8c9ccd9fc39c391da4bcd093fb2" kindref="member" tooltip="The element occurs at the block level (e.g. among tables and paragraphs).">MarkupLevel::Block</ref>);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;AppendChild(tag);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>drop-down<sp/>list<sp/>structured<sp/>document<sp/>tag<sp/>is<sp/>a<sp/>form<sp/>that<sp/>allows<sp/>the<sp/>user<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>select<sp/>an<sp/>option<sp/>from<sp/>a<sp/>list<sp/>by<sp/>left-clicking<sp/>and<sp/>opening<sp/>the<sp/>form<sp/>in<sp/>Microsoft<sp/>Word.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;ListItems&quot;<sp/>property<sp/>contains<sp/>all<sp/>list<sp/>items,<sp/>and<sp/>each<sp/>list<sp/>item<sp/>is<sp/>an<sp/>&quot;SdtListItem&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;SdtListItemCollection&gt;<sp/>listItems<sp/>=<sp/>tag-&gt;get_ListItems();</highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;Add(MakeObject&lt;SdtListItem&gt;(u</highlight><highlight class="stringliteral">&quot;Value<sp/>1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(listItems-&gt;idx_get(0)-&gt;get_DisplayText(),<sp/>listItems-&gt;idx_get(0)-&gt;get_Value());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>3<sp/>more<sp/>list<sp/>items.<sp/>Initialize<sp/>these<sp/>items<sp/>using<sp/>a<sp/>different<sp/>constructor<sp/>to<sp/>the<sp/>first<sp/>item</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>display<sp/>strings<sp/>that<sp/>are<sp/>different<sp/>from<sp/>their<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;Add(MakeObject&lt;SdtListItem&gt;(u</highlight><highlight class="stringliteral">&quot;Item<sp/>2&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Value<sp/>2&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;Add(MakeObject&lt;SdtListItem&gt;(u</highlight><highlight class="stringliteral">&quot;Item<sp/>3&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Value<sp/>3&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;Add(MakeObject&lt;SdtListItem&gt;(u</highlight><highlight class="stringliteral">&quot;Item<sp/>4&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Value<sp/>4&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(4,<sp/>listItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>drop-down<sp/>list<sp/>is<sp/>displaying<sp/>the<sp/>first<sp/>item.<sp/>Assign<sp/>a<sp/>different<sp/>list<sp/>item<sp/>to<sp/>the<sp/>&quot;SelectedValue&quot;<sp/>to<sp/>display<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;set_SelectedValue(listItems-&gt;idx_get(3));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Value<sp/>4&quot;</highlight><highlight class="normal">,<sp/>listItems-&gt;get_SelectedValue()-&gt;get_Value());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Enumerate<sp/>over<sp/>the<sp/>collection<sp/>and<sp/>print<sp/>each<sp/>element.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;SdtListItem&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>listItems-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(enumerator-&gt;get_Current()<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;List<sp/>item:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_DisplayText()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;,<sp/>value:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>enumerator-&gt;get_Current()-&gt;get_Value()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>the<sp/>last<sp/>list<sp/>item.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;RemoveAt(3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>listItems-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Since<sp/>our<sp/>drop-down<sp/>control<sp/>is<sp/>set<sp/>to<sp/>display<sp/>the<sp/>removed<sp/>item<sp/>by<sp/>default,<sp/>give<sp/>it<sp/>an<sp/>item<sp/>to<sp/>display<sp/>which<sp/>exists.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;set_SelectedValue(listItems-&gt;idx_get(1));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;StructuredDocumentTag.ListItemCollection.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;Clear&quot;<sp/>method<sp/>to<sp/>empty<sp/>the<sp/>entire<sp/>drop-down<sp/>item<sp/>collection<sp/>at<sp/>once.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listItems-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>listItems-&gt;get_Count());</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Markup::SdtListItem</label>
+        <link refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Markup::SdtListItem</label>
+        <link refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Markup/SdtListItem.h" line="80" column="1" bodyfile="Aspose.Words.Cpp/Markup/SdtListItem.h" bodystart="81" bodyend="345"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_1aa48f88e2a321849d0cd2b14510a0a54f" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::SdtListItem</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_1a68ffa89716ee33119645d76078c99875" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::SdtListItem</scope><name>get_DisplayText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_1a9743dad00f13e97418780f022a1f13f2" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::SdtListItem</scope><name>get_Value</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_1ade5e9b95d9b63822ab0cbde1e2f3e861" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::SdtListItem</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_1a99a1812418b56969de2559a685014c7a" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::SdtListItem</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_1ab7440f16ebd0c73fa6396431ba8e67a1" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::SdtListItem</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_1af3a6bd03290f72de11233e4b093f943c" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::SdtListItem</scope><name>SdtListItem</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_1a6e8f905d0927b7986567c7810e47f34f" prot="public" virt="non-virtual"><scope>Aspose::Words::Markup::SdtListItem</scope><name>SdtListItem</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_1aa22c2b144e71ad6a887f72d708654fb9" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::SdtListItem</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_markup_1_1_sdt_list_item_1aaffa2ecdc7d264b65b97ff898e649929" prot="private" virt="non-virtual"><scope>Aspose::Words::Markup::SdtListItem</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

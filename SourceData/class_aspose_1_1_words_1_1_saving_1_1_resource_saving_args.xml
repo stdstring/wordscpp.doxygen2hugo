@@ -1,0 +1,710 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Saving::ResourceSavingArgs</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_resource_saving_args_8h" local="no">Aspose.Words.Cpp/Saving/ResourceSavingArgs.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1aa758aa852e348fe117b03f3dd35d6d92" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Saving::ResourceSavingArgs::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Saving::ResourceSavingArgs::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="100" column="28" bodyfile="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" bodystart="100" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a99e25ad1b5b46b71005cc42b85643a66" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args" kindref="compound">ResourceSavingArgs</ref></type>
+        <definition>typedef ResourceSavingArgs Aspose::Words::Saving::ResourceSavingArgs::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Saving::ResourceSavingArgs::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="99" column="32" bodyfile="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" bodystart="99" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a1c416422200c99fc343adb52cbf8a1be" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::ResourceSavingArgs::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Saving::ResourceSavingArgs::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="102" column="37" bodyfile="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" bodystart="102" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a90188b7d1cbf0adf251bcae61f4aba9c" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::ResourceSavingArgs::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Saving::ResourceSavingArgs::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="490" column="23" bodyfile="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" bodystart="490" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a0b670bdbc545bfed4ce7405372d130b1" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::ResourceSavingArgs::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Saving::ResourceSavingArgs::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="491" column="20" bodyfile="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" bodystart="491" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a8526a4d82876076eab4510f4b64c2a11" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::ResourceSavingArgs::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Saving::ResourceSavingArgs::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="492" column="20" bodyfile="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" bodystart="492" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a244eaa3ac4097768870cf1e3e8128794" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::ResourceSavingArgs::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Saving::ResourceSavingArgs::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="493" column="23" bodyfile="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" bodystart="493" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a8058f2a6c2887c1d44a1e41e5cbe2e25" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::ResourceSavingArgs::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Saving::ResourceSavingArgs::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="494" column="23" bodyfile="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" bodystart="494" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a12b2e30145936fde21e6cb7057967e46" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::ResourceSavingArgs::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::Saving::ResourceSavingArgs::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="495" column="23" bodyfile="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" bodystart="495" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a01e845b11a64e1c057b5d1bd24b3cb1e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::ResourceSavingArgs::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Saving::ResourceSavingArgs::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="103" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a963c5e6ba12ec4613271752a25f28459" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Aspose::Words::Document</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Document &gt; Aspose::Words::Saving::ResourceSavingArgs::get_Document</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Document</name>
+        <qualifiedname>Aspose::Words::Saving::ResourceSavingArgs::get_Document</qualifiedname>
+        <briefdescription>
+<para>Gets the document object that is currently being saved. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use a callback to track external resources created while converting a document to HTML. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceSavingCallback()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Bullet<sp/>points<sp/>with<sp/>alternative<sp/>font.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>callback<sp/>=<sp/>MakeObject&lt;ExHtmlFixedSaveOptions::FontSavingCallback&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;HtmlFixedSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>saveOptions-&gt;set_ResourceSavingCallback(callback);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlFixedSaveOptions.UsingMachineFonts.html&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>callback-&gt;GetText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">FontSavingCallback<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IResourceSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceSaving(SharedPtr&lt;ResourceSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mText-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;Original<sp/>document<sp/>URI:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Document()-&gt;get_OriginalFileName()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mText-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;Resource<sp/>being<sp/>saved:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_ResourceFileName()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mText-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;Full<sp/>uri<sp/>after<sp/>saving:\t{0}\n&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_ResourceFileUri()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>GetText()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mText-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>FontSavingCallback()<sp/>:<sp/>mText(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mText;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="153" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a44d9a3081dea91a237ad050df089f840" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Saving::ResourceSavingArgs::get_KeepResourceStreamOpen</definition>
+        <argsstring>() const</argsstring>
+        <name>get_KeepResourceStreamOpen</name>
+        <qualifiedname>Aspose::Words::Saving::ResourceSavingArgs::get_KeepResourceStreamOpen</qualifiedname>
+        <briefdescription>
+<para>Specifies whether Aspose.Words should keep the stream open or close it after saving a resource. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Default is <computeroutput>false</computeroutput> and Aspose.Words will close the stream you provided in the <ref refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1ac3591749b80695b396864a7e9966b2af" kindref="member">ResourceStream</ref> property after writing a resource into it. Specify <computeroutput>true</computeroutput> to keep the stream open.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1ac3591749b80695b396864a7e9966b2af" kindref="member">Aspose::Words::Saving::ResourceSavingArgs::get_ResourceStream</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use a callback to print the URIs of external resources created while converting a document to HTML. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>HtmlFixedResourceFolder()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>callback<sp/>=<sp/>MakeObject&lt;ExHtmlFixedSaveOptions::ResourceUriPrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;HtmlFixedSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_SaveFormat(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a4104cfeac027d4432d51a3d13a2ed58d" kindref="member" tooltip="Saves the document in the HTML format using absolutely positioned elements.">SaveFormat::HtmlFixed</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ExportEmbeddedImages(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourcesFolder(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlFixedResourceFolder&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourcesFolderAlias(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlFixedResourceFolderAlias&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ShowPageBorder(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourceSavingCallback(callback);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>folder<sp/>specified<sp/>by<sp/>ResourcesFolderAlias<sp/>will<sp/>contain<sp/>the<sp/>resources<sp/>instead<sp/>of<sp/>ResourcesFolder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>must<sp/>ensure<sp/>the<sp/>folder<sp/>exists<sp/>before<sp/>the<sp/>streams<sp/>can<sp/>put<sp/>their<sp/>resources<sp/>into<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlFixedSaveOptions.HtmlFixedResourceFolder.html&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>callback-&gt;GetText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ArrayPtr&lt;String&gt;<sp/>resourceFiles<sp/>=<sp/><ref refid="class/system.i_o.directory/_1a175e3c7c67d67de4fc93cd54b8fb6f2d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::GetFiles</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlFixedResourceFolderAlias&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_FALSE(<ref refid="class/system.i_o.directory/_1a8898c7613b377294f56ca21ff2de72e2" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::Exists</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlFixedResourceFolder&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::function&lt;bool(String<sp/>f)&gt;<sp/>isImageOrCss<sp/>=<sp/>[](<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>f)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f.EndsWith(u</highlight><highlight class="stringliteral">&quot;.jpeg&quot;</highlight><highlight class="normal">)<sp/>||<sp/>f.EndsWith(u</highlight><highlight class="stringliteral">&quot;.png&quot;</highlight><highlight class="normal">)<sp/>||<sp/>f.EndsWith(u</highlight><highlight class="stringliteral">&quot;.css&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>};</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(6,<sp/>resourceFiles-&gt;LINQ_Count(isImageOrCss));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">ResourceUriPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IResourceSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>GetText()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mText-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ResourceUriPrinter()<sp/>:<sp/>mSavedResourceCount(0),<sp/>mText(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mSavedResourceCount;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mText;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceSaving(SharedPtr&lt;ResourceSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>set<sp/>a<sp/>folder<sp/>alias<sp/>in<sp/>the<sp/>SaveOptions<sp/>object,<sp/>we<sp/>will<sp/>be<sp/>able<sp/>to<sp/>print<sp/>it<sp/>from<sp/>here.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mText-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;Resource<sp/>#{0}<sp/>\&quot;{1}\&quot;&quot;</highlight><highlight class="normal">,<sp/>++mSavedResourceCount,<sp/>args-&gt;get_ResourceFileName()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>extension<sp/>=<sp/><ref refid="class/system.i_o.path/_1ae9e0f0c8b345ecfab2ca997411b81f97" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::GetExtension</ref>(args-&gt;get_ResourceFileName());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(extension<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;.ttf&quot;</highlight><highlight class="normal"><sp/>||<sp/>extension<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;.woff&quot;</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>&apos;ResourceFileUri&apos;<sp/>uses<sp/>system<sp/>folder<sp/>for<sp/>fonts.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>To<sp/>avoid<sp/>problems<sp/>in<sp/>other<sp/>platforms<sp/>you<sp/>must<sp/>explicitly<sp/>specify<sp/>the<sp/>path<sp/>for<sp/>the<sp/>fonts.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ResourceFileUri(ArtifactsDir<sp/>+<sp/><ref refid="class/system.i_o.path/_1a48b88536e6fb0566b1e1534de6fcb5ac" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::DirectorySeparatorChar</ref><sp/>+<sp/>args-&gt;get_ResourceFileName());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mText-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/>args-&gt;get_ResourceFileUri());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>have<sp/>specified<sp/>a<sp/>folder<sp/>in<sp/>the<sp/>&quot;ResourcesFolderAlias&quot;<sp/>property,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>we<sp/>will<sp/>also<sp/>need<sp/>to<sp/>redirect<sp/>each<sp/>stream<sp/>to<sp/>put<sp/>its<sp/>resource<sp/>in<sp/>that<sp/>folder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ResourceStream(MakeObject&lt;System::IO::FileStream&gt;(args-&gt;get_ResourceFileUri(),<sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_KeepResourceStreamOpen(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="378" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a52c09f57706079b5ad3dea2972abc176" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::ResourceSavingArgs::get_ResourceFileName</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ResourceFileName</name>
+        <qualifiedname>Aspose::Words::Saving::ResourceSavingArgs::get_ResourceFileName</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the file name (without path) where the resource will be saved to. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This property allows you to redefine how the resource file names are generated during export to fixed page HTML or SVG.</para>
+<para>When the event is fired, this property contains the file name that was generated by Aspose.Words. You can change the value of this property to save the resource into a different file. Note that file names must be unique.</para>
+<para>Aspose.Words automatically generates a unique file name for every resource when exporting to fixed page HTML or SVG format. How the resource file name is generated depends on whether you save the document to a file or to a stream.</para>
+<para>When saving a document to a file, the generated resource file name looks like <emphasis>%&lt;document base file name&gt;.&lt;image number&gt;.&lt;extension&gt;</emphasis>.</para>
+<para>When saving a document to a stream, the generated resource file name looks like <emphasis>Aspose.Words.&lt;document guid&gt;.&lt;image number&gt;.&lt;extension&gt;</emphasis>.</para>
+<para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a52c09f57706079b5ad3dea2972abc176" kindref="member">ResourceFileName</ref> must contain only the file name without the path. Aspose.Words determines the path for saving and the value of the <computeroutput>src</computeroutput> attribute for writing to fixed page HTML or SVG using the document file name, the <ref refid="class_aspose_1_1_words_1_1_saving_1_1_html_fixed_save_options_1a6afdffa62421016d5f2812bdd235c570" kindref="member">ResourcesFolder</ref> or <ref refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1a911e99b0ee72e3ccfb1e42bd608353be" kindref="member">ResourcesFolder</ref> and <ref refid="class_aspose_1_1_words_1_1_saving_1_1_html_fixed_save_options_1a89582c2f865e7c2f9e4c9078746b02d6" kindref="member">ResourcesFolderAlias</ref> or <ref refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options_1aa0b4cdb8e7bd50dfd4c93ac6cf5eda29" kindref="member">ResourcesFolderAlias</ref> properties.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1ac3591749b80695b396864a7e9966b2af" kindref="member">Aspose::Words::Saving::ResourceSavingArgs::get_ResourceStream</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use a callback to track external resources created while converting a document to HTML. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceSavingCallback()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Bullet<sp/>points<sp/>with<sp/>alternative<sp/>font.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>callback<sp/>=<sp/>MakeObject&lt;ExHtmlFixedSaveOptions::FontSavingCallback&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;HtmlFixedSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>saveOptions-&gt;set_ResourceSavingCallback(callback);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlFixedSaveOptions.UsingMachineFonts.html&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>callback-&gt;GetText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">FontSavingCallback<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IResourceSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceSaving(SharedPtr&lt;ResourceSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mText-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;Original<sp/>document<sp/>URI:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Document()-&gt;get_OriginalFileName()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mText-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;Resource<sp/>being<sp/>saved:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_ResourceFileName()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mText-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;Full<sp/>uri<sp/>after<sp/>saving:\t{0}\n&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_ResourceFileUri()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>GetText()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mText-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>FontSavingCallback()<sp/>:<sp/>mText(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mText;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="226" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a87f0ee693cca99df4e2f0f63cfdbab8e" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Saving::ResourceSavingArgs::get_ResourceFileUri</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ResourceFileUri</name>
+        <qualifiedname>Aspose::Words::Saving::ResourceSavingArgs::get_ResourceFileUri</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the uniform resource identifier (URI) used to reference the resource file from the document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This property allows you to change URIs of resource files exported to fixed page HTML or SVG documents.</para>
+<para>Aspose.Words automatically generates an URI for every resource file during export to fixed page HTML or SVG format. The generated URIs reference resource files saved by Aspose.Words. However, the URIs can be incorrect if resource files are to be moved to other location or if resource files are saved to streams. This property allows to correct URIs in these cases.</para>
+<para>When the event is fired, this property contains the URI that was generated by Aspose.Words. You can change the value of this property to provide a custom URI for the resource file.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use a callback to track external resources created while converting a document to HTML. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceSavingCallback()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Bullet<sp/>points<sp/>with<sp/>alternative<sp/>font.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>callback<sp/>=<sp/>MakeObject&lt;ExHtmlFixedSaveOptions::FontSavingCallback&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;HtmlFixedSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>saveOptions-&gt;set_ResourceSavingCallback(callback);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlFixedSaveOptions.UsingMachineFonts.html&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>callback-&gt;GetText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">FontSavingCallback<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IResourceSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceSaving(SharedPtr&lt;ResourceSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mText-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;Original<sp/>document<sp/>URI:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Document()-&gt;get_OriginalFileName()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mText-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;Resource<sp/>being<sp/>saved:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_ResourceFileName()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mText-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;Full<sp/>uri<sp/>after<sp/>saving:\t{0}\n&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_ResourceFileUri()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>GetText()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mText-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>FontSavingCallback()<sp/>:<sp/>mText(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mText;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="287" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1ac3591749b80695b396864a7e9966b2af" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; System::IO::Stream &gt; Aspose::Words::Saving::ResourceSavingArgs::get_ResourceStream</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ResourceStream</name>
+        <qualifiedname>Aspose::Words::Saving::ResourceSavingArgs::get_ResourceStream</qualifiedname>
+        <briefdescription>
+<para>Allows to specify the stream where the resource will be saved to. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This property allows you to save resources to streams instead of files.</para>
+<para>The default value is <computeroutput>null</computeroutput>. When this property is <computeroutput>null</computeroutput>, the resource will be saved to a file specified in the <ref refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a52c09f57706079b5ad3dea2972abc176" kindref="member">ResourceFileName</ref> property.</para>
+<para>Using <ref refid="class_aspose_1_1_words_1_1_saving_1_1_i_resource_saving_callback" kindref="compound">IResourceSavingCallback</ref> you cannot substitute one resource with another. It is intended only for control over location where to save resources.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a52c09f57706079b5ad3dea2972abc176" kindref="member">Aspose::Words::Saving::ResourceSavingArgs::get_ResourceFileName</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a44d9a3081dea91a237ad050df089f840" kindref="member">Aspose::Words::Saving::ResourceSavingArgs::get_KeepResourceStreamOpen</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use a callback to print the URIs of external resources created while converting a document to HTML. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>HtmlFixedResourceFolder()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>callback<sp/>=<sp/>MakeObject&lt;ExHtmlFixedSaveOptions::ResourceUriPrinter&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;HtmlFixedSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_SaveFormat(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a4104cfeac027d4432d51a3d13a2ed58d" kindref="member" tooltip="Saves the document in the HTML format using absolutely positioned elements.">SaveFormat::HtmlFixed</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ExportEmbeddedImages(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourcesFolder(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlFixedResourceFolder&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourcesFolderAlias(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlFixedResourceFolderAlias&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ShowPageBorder(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_ResourceSavingCallback(callback);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>A<sp/>folder<sp/>specified<sp/>by<sp/>ResourcesFolderAlias<sp/>will<sp/>contain<sp/>the<sp/>resources<sp/>instead<sp/>of<sp/>ResourcesFolder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>must<sp/>ensure<sp/>the<sp/>folder<sp/>exists<sp/>before<sp/>the<sp/>streams<sp/>can<sp/>put<sp/>their<sp/>resources<sp/>into<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="class/system.i_o.directory/_1a2fdf34c13286610724abbd6207d618d7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::CreateDirectory_</ref>(options-&gt;get_ResourcesFolderAlias());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlFixedSaveOptions.HtmlFixedResourceFolder.html&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>callback-&gt;GetText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ArrayPtr&lt;String&gt;<sp/>resourceFiles<sp/>=<sp/><ref refid="class/system.i_o.directory/_1a175e3c7c67d67de4fc93cd54b8fb6f2d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::GetFiles</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlFixedResourceFolderAlias&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_FALSE(<ref refid="class/system.i_o.directory/_1a8898c7613b377294f56ca21ff2de72e2" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::Exists</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlFixedResourceFolder&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::function&lt;bool(String<sp/>f)&gt;<sp/>isImageOrCss<sp/>=<sp/>[](<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>f)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f.EndsWith(u</highlight><highlight class="stringliteral">&quot;.jpeg&quot;</highlight><highlight class="normal">)<sp/>||<sp/>f.EndsWith(u</highlight><highlight class="stringliteral">&quot;.png&quot;</highlight><highlight class="normal">)<sp/>||<sp/>f.EndsWith(u</highlight><highlight class="stringliteral">&quot;.css&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>};</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(6,<sp/>resourceFiles-&gt;LINQ_Count(isImageOrCss));</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">ResourceUriPrinter<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IResourceSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>GetText()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mText-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ResourceUriPrinter()<sp/>:<sp/>mSavedResourceCount(0),<sp/>mText(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>mSavedResourceCount;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mText;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceSaving(SharedPtr&lt;ResourceSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>set<sp/>a<sp/>folder<sp/>alias<sp/>in<sp/>the<sp/>SaveOptions<sp/>object,<sp/>we<sp/>will<sp/>be<sp/>able<sp/>to<sp/>print<sp/>it<sp/>from<sp/>here.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mText-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;Resource<sp/>#{0}<sp/>\&quot;{1}\&quot;&quot;</highlight><highlight class="normal">,<sp/>++mSavedResourceCount,<sp/>args-&gt;get_ResourceFileName()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>extension<sp/>=<sp/><ref refid="class/system.i_o.path/_1ae9e0f0c8b345ecfab2ca997411b81f97" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::GetExtension</ref>(args-&gt;get_ResourceFileName());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(extension<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;.ttf&quot;</highlight><highlight class="normal"><sp/>||<sp/>extension<sp/>==<sp/>u</highlight><highlight class="stringliteral">&quot;.woff&quot;</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>By<sp/>default,<sp/>&apos;ResourceFileUri&apos;<sp/>uses<sp/>system<sp/>folder<sp/>for<sp/>fonts.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>To<sp/>avoid<sp/>problems<sp/>in<sp/>other<sp/>platforms<sp/>you<sp/>must<sp/>explicitly<sp/>specify<sp/>the<sp/>path<sp/>for<sp/>the<sp/>fonts.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ResourceFileUri(ArtifactsDir<sp/>+<sp/><ref refid="class/system.i_o.path/_1a48b88536e6fb0566b1e1534de6fcb5ac" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::DirectorySeparatorChar</ref><sp/>+<sp/>args-&gt;get_ResourceFileName());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mText-&gt;AppendLine(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t&quot;</highlight><highlight class="normal">)<sp/>+<sp/>args-&gt;get_ResourceFileUri());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>have<sp/>specified<sp/>a<sp/>folder<sp/>in<sp/>the<sp/>&quot;ResourcesFolderAlias&quot;<sp/>property,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>we<sp/>will<sp/>also<sp/>need<sp/>to<sp/>redirect<sp/>each<sp/>stream<sp/>to<sp/>put<sp/>its<sp/>resource<sp/>in<sp/>that<sp/>folder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_ResourceStream(MakeObject&lt;System::IO::FileStream&gt;(args-&gt;get_ResourceFileUri(),<sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_KeepResourceStreamOpen(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="474" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a713bc962971c0fc86e6584e48be08a73" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::ResourceSavingArgs::set_KeepResourceStreamOpen</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_KeepResourceStreamOpen</name>
+        <qualifiedname>Aspose::Words::Saving::ResourceSavingArgs::set_KeepResourceStreamOpen</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a44d9a3081dea91a237ad050df089f840" kindref="member">Aspose::Words::Saving::ResourceSavingArgs::get_KeepResourceStreamOpen</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="381" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1acfd225d116fdb773573db70970109724" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::ResourceSavingArgs::set_ResourceFileName</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ResourceFileName</name>
+        <qualifiedname>Aspose::Words::Saving::ResourceSavingArgs::set_ResourceFileName</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a52c09f57706079b5ad3dea2972abc176" kindref="member">Aspose::Words::Saving::ResourceSavingArgs::get_ResourceFileName</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="229" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a66852fc099cc7f34f56c2110b6a6899a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::ResourceSavingArgs::set_ResourceFileUri</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ResourceFileUri</name>
+        <qualifiedname>Aspose::Words::Saving::ResourceSavingArgs::set_ResourceFileUri</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a87f0ee693cca99df4e2f0f63cfdbab8e" kindref="member">Aspose::Words::Saving::ResourceSavingArgs::get_ResourceFileUri</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="290" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a983437970800b2b1657c22536ca124b1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::ResourceSavingArgs::set_ResourceStream</definition>
+        <argsstring>(const System::SharedPtr&lt; System::IO::Stream &gt; &amp;value)</argsstring>
+        <name>set_ResourceStream</name>
+        <qualifiedname>Aspose::Words::Saving::ResourceSavingArgs::set_ResourceStream</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1ac3591749b80695b396864a7e9966b2af" kindref="member">Aspose::Words::Saving::ResourceSavingArgs::get_ResourceStream</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="477" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1ac568790a2218ca1bb6b6d2d6fc48a515" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename CharType</type>
+          </param>
+          <param>
+            <type>typename Traits</type>
+          </param>
+        </templateparamlist>
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::ResourceSavingArgs::set_ResourceStream</definition>
+        <argsstring>(std::basic_ostream&lt; CharType, Traits &gt; &amp;value)</argsstring>
+        <name>set_ResourceStream</name>
+        <qualifiedname>Aspose::Words::Saving::ResourceSavingArgs::set_ResourceStream</qualifiedname>
+        <param>
+          <type>std::basic_ostream&lt; CharType, Traits &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="480" column="10" bodyfile="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" bodystart="480" bodyend="484"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Provides data for the <ref refid="class_aspose_1_1_words_1_1_saving_1_1_i_resource_saving_callback_1a534636fa1e23f970f4038e01d3db470b" kindref="member">ResourceSaving()</ref> event. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>By default, when Aspose.Words saves a document to fixed page HTML or SVG, it saves each resource into a separate file. Aspose.Words uses the document file name and a unique number to generate unique file name for each resource found in the document.</para>
+<para><ref refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args" kindref="compound">ResourceSavingArgs</ref> allows to redefine how resource file names are generated or to completely circumvent saving of resources into files by providing your own stream objects.</para>
+<para>To apply your own logic for generating resource file names use the <ref refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a52c09f57706079b5ad3dea2972abc176" kindref="member">ResourceFileName</ref> property.</para>
+<para>To save resources into streams instead of files, use the <ref refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1ac3591749b80695b396864a7e9966b2af" kindref="member">ResourceStream</ref> property.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use a callback to track external resources created while converting a document to HTML. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceSavingCallback()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Bullet<sp/>points<sp/>with<sp/>alternative<sp/>font.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>callback<sp/>=<sp/>MakeObject&lt;ExHtmlFixedSaveOptions::FontSavingCallback&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;HtmlFixedSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>saveOptions-&gt;set_ResourceSavingCallback(callback);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;HtmlFixedSaveOptions.UsingMachineFonts.html&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>callback-&gt;GetText()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">class<sp/></highlight><highlight class="normal">FontSavingCallback<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IResourceSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>ResourceSaving(SharedPtr&lt;ResourceSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mText-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;Original<sp/>document<sp/>URI:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_Document()-&gt;get_OriginalFileName()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mText-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;Resource<sp/>being<sp/>saved:\t{0}&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_ResourceFileName()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>mText-&gt;AppendLine(String::Format(u</highlight><highlight class="stringliteral">&quot;Full<sp/>uri<sp/>after<sp/>saving:\t{0}\n&quot;</highlight><highlight class="normal">,<sp/>args-&gt;get_ResourceFileUri()));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>GetText()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>mText-&gt;ToString();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>FontSavingCallback()<sp/>:<sp/>mText(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;System::<ref refid="namespace_aspose_1_1_words_1a5fddddb463c824cf3fe353ce1bcd8f52a9dffbf69ffba8bc38bc4e01abf4b1675" kindref="member" tooltip="Plain Text.">Text</ref>::StringBuilder&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">private</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Text::StringBuilder&gt;<sp/>mText;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::ResourceSavingArgs</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::ResourceSavingArgs</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" line="97" column="1" bodyfile="Aspose.Words.Cpp/Saving/ResourceSavingArgs.h" bodystart="98" bodyend="497"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1aa758aa852e348fe117b03f3dd35d6d92" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::ResourceSavingArgs</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a963c5e6ba12ec4613271752a25f28459" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ResourceSavingArgs</scope><name>get_Document</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a44d9a3081dea91a237ad050df089f840" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ResourceSavingArgs</scope><name>get_KeepResourceStreamOpen</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a52c09f57706079b5ad3dea2972abc176" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ResourceSavingArgs</scope><name>get_ResourceFileName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a87f0ee693cca99df4e2f0f63cfdbab8e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ResourceSavingArgs</scope><name>get_ResourceFileUri</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1ac3591749b80695b396864a7e9966b2af" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ResourceSavingArgs</scope><name>get_ResourceStream</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a90188b7d1cbf0adf251bcae61f4aba9c" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::ResourceSavingArgs</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a0b670bdbc545bfed4ce7405372d130b1" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::ResourceSavingArgs</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a8526a4d82876076eab4510f4b64c2a11" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::ResourceSavingArgs</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a244eaa3ac4097768870cf1e3e8128794" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::ResourceSavingArgs</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a8058f2a6c2887c1d44a1e41e5cbe2e25" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::ResourceSavingArgs</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a12b2e30145936fde21e6cb7057967e46" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::ResourceSavingArgs</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a01e845b11a64e1c057b5d1bd24b3cb1e" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::ResourceSavingArgs</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a713bc962971c0fc86e6584e48be08a73" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ResourceSavingArgs</scope><name>set_KeepResourceStreamOpen</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1acfd225d116fdb773573db70970109724" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ResourceSavingArgs</scope><name>set_ResourceFileName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a66852fc099cc7f34f56c2110b6a6899a" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ResourceSavingArgs</scope><name>set_ResourceFileUri</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a983437970800b2b1657c22536ca124b1" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ResourceSavingArgs</scope><name>set_ResourceStream</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1ac568790a2218ca1bb6b6d2d6fc48a515" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::ResourceSavingArgs</scope><name>set_ResourceStream</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a99e25ad1b5b46b71005cc42b85643a66" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::ResourceSavingArgs</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_resource_saving_args_1a1c416422200c99fc343adb52cbf8a1be" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::ResourceSavingArgs</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

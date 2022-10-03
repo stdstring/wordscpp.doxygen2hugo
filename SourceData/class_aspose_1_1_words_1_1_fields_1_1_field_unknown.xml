@@ -1,0 +1,318 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_field_unknown" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::FieldUnknown</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field" prot="public" virt="non-virtual">Aspose::Words::Fields::Field</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IMergeFieldSurrogate</basecompoundref>
+    <includes refid="_field_unknown_8h" local="no">Aspose.Words.Cpp/Fields/FieldUnknown.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1a18b8a73fcc74e4fdfb7d650983aa9ea2" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref></type>
+        <definition>typedef Aspose::Words::Fields::Field Aspose::Words::Fields::FieldUnknown::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldUnknown::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldUnknown.h" line="66" column="42" bodyfile="Aspose.Words.Cpp/Fields/FieldUnknown.h" bodystart="66" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1a80ab3168f51ba330c1eb182fe40b4cd3" prot="private" static="no">
+        <type>Aspose::Words::Fields::IMergeFieldSurrogate</type>
+        <definition>typedef Aspose::Words::Fields::IMergeFieldSurrogate Aspose::Words::Fields::FieldUnknown::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Fields::FieldUnknown::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldUnknown.h" line="67" column="57" bodyfile="Aspose.Words.Cpp/Fields/FieldUnknown.h" bodystart="67" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1ad15961e586df56a0290b7b582ba99977" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_unknown" kindref="compound">FieldUnknown</ref></type>
+        <definition>typedef FieldUnknown Aspose::Words::Fields::FieldUnknown::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldUnknown::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldUnknown.h" line="65" column="26" bodyfile="Aspose.Words.Cpp/Fields/FieldUnknown.h" bodystart="65" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1a3e2224f686b3d5b5e8b6b8b4680fae7d" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Fields::FieldUnknown::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::FieldUnknown::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldUnknown.h" line="69" column="37" bodyfile="Aspose.Words.Cpp/Fields/FieldUnknown.h" bodystart="69" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1ae97b88f3d6d6c27d7db706ec9e26f39a" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Fields::FieldUnknown::~FieldUnknown</definition>
+        <argsstring>()</argsstring>
+        <name>~FieldUnknown</name>
+        <qualifiedname>Aspose::Words::Fields::FieldUnknown::~FieldUnknown</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldUnknown.h" line="88" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1a90240022dfba39c115a40c626d28fdb1" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldUnknown::CanWorkAsMergeField</definition>
+        <argsstring>() override</argsstring>
+        <name>CanWorkAsMergeField</name>
+        <qualifiedname>Aspose::Words::Fields::FieldUnknown::CanWorkAsMergeField</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldUnknown.h" line="93" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1abe7b63692890f5cdf72b10d4a20035d1" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldUnknown::GetMergeFieldName</definition>
+        <argsstring>() override</argsstring>
+        <name>GetMergeFieldName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldUnknown::GetMergeFieldName</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldUnknown.h" line="92" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1a2691f6709262649dfc919d8163c6db8b" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>Aspose::Words::Fields::FieldUpdateStage</type>
+        <definition>Aspose::Words::Fields::FieldUpdateStage Aspose::Words::Fields::FieldUnknown::GetUpdateStage</definition>
+        <argsstring>() override</argsstring>
+        <name>GetUpdateStage</name>
+        <qualifiedname>Aspose::Words::Fields::FieldUnknown::GetUpdateStage</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa312d165970a8c453ad49aca355adf8a">GetUpdateStage</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldUnknown.h" line="85" column="48"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1a3e151d9caccb967c3302b4fb62b67d99" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldUnknown::IsMergeValueRequired</definition>
+        <argsstring>() override</argsstring>
+        <name>IsMergeValueRequired</name>
+        <qualifiedname>Aspose::Words::Fields::FieldUnknown::IsMergeValueRequired</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldUnknown.h" line="94" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1adc13b9d95889b339fde34ec937b83e25" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldUnknown::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::FieldUnknown::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldUnknown.h" line="70" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1a49d200a1491923ac399b9d174985f62a" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldUpdateAction &gt; Aspose::Words::Fields::FieldUnknown::UpdateCore</definition>
+        <argsstring>() override</argsstring>
+        <name>UpdateCore</name>
+        <qualifiedname>Aspose::Words::Fields::FieldUnknown::UpdateCore</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afd2f4d29a84550a38375396538654ab8">UpdateCore</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldUnknown.h" line="86" column="26"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1a2cad0dd351f89c2af00cdbc276bb2360" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_end" kindref="compound">Aspose::Words::Fields::FieldEnd</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldEnd &gt; Aspose::Words::Fields::FieldUnknown::get_End</definition>
+        <argsstring>() override</argsstring>
+        <name>get_End</name>
+        <qualifiedname>Aspose::Words::Fields::FieldUnknown::get_End</qualifiedname>
+        <briefdescription>
+<para>Gets the node that represents the field end. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldUnknown.h" line="81" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1a522243962f7adb99d9509f40829ebfe0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_separator" kindref="compound">Aspose::Words::Fields::FieldSeparator</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldSeparator &gt; Aspose::Words::Fields::FieldUnknown::get_Separator</definition>
+        <argsstring>() override</argsstring>
+        <name>get_Separator</name>
+        <qualifiedname>Aspose::Words::Fields::FieldUnknown::get_Separator</qualifiedname>
+        <briefdescription>
+<para>Gets the node that represents the field separator. Can be null. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldUnknown.h" line="78" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1a94ac6aefc564b3d1bde1118e22a7ea20" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_start" kindref="compound">Aspose::Words::Fields::FieldStart</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldStart &gt; Aspose::Words::Fields::FieldUnknown::get_Start</definition>
+        <argsstring>() override</argsstring>
+        <name>get_Start</name>
+        <qualifiedname>Aspose::Words::Fields::FieldUnknown::get_Start</qualifiedname>
+        <briefdescription>
+<para>Gets the node that represents the start of the field. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldUnknown.h" line="75" column="26"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implements an unknown or unrecognized field. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with &apos;FieldNone&apos; field in a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>field<sp/>that<sp/>does<sp/>not<sp/>denote<sp/>an<sp/>objective<sp/>field<sp/>type<sp/>in<sp/>its<sp/>field<sp/>code.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Field&gt;<sp/>field<sp/>=<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>NOTAREALFIELD<sp/>//a&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>&quot;FieldNone&quot;<sp/>field<sp/>type<sp/>is<sp/>reserved<sp/>for<sp/>fields<sp/>such<sp/>as<sp/>these.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca254b3f5921a732374e9c7739ba5e695b" kindref="member" tooltip="Field type is not specified or unknown.">FieldType::FieldNone</ref>,<sp/>field-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>still<sp/>work<sp/>with<sp/>these<sp/>fields<sp/>and<sp/>assign<sp/>them<sp/>as<sp/>instances<sp/>of<sp/>the<sp/>FieldUnknown<sp/>class.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldUnknown<sp/>=<sp/>System::DynamicCast&lt;FieldUnknown&gt;(field);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>NOTAREALFIELD<sp/>//a&quot;</highlight><highlight class="normal">,<sp/>fieldUnknown-&gt;GetFieldCode());</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldUnknown</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_unknown"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IMergeFieldSurrogate</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldUnknown</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_unknown"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IMergeFieldSurrogate</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/FieldUnknown.h" line="63" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldUnknown.h" bodystart="64" bodyend="96"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1a18b8a73fcc74e4fdfb7d650983aa9ea2" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1a80ab3168f51ba330c1eb182fe40b4cd3" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1a90240022dfba39c115a40c626d28fdb1" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>CanWorkAsMergeField</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a5c2d01019c517ea8098f296903e37a34" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>get_DisplayResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1a2cad0dd351f89c2af00cdbc276bb2360" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad5f0995c85cce833806e847cf25809b7" prot="public" virt="non-virtual" ambiguityscope="Aspose::Words::Fields::Field::"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a399c14463916724cac0015b430175589" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>get_FieldEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abc40cddc1325f7fec80d8530e5287448" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>get_FieldStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a090c5d09915e2ead6cc54fda736dd7c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>get_Format</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ae68851d4a88a1fc867d3ddee2e4e88c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>get_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afda4c46db80761545c89e21aae5b717d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>get_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a93719d071099487b6aea1eaa241dd6e8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>get_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a012c93472901dc077815970a9b2ab650" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>get_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1a522243962f7adb99d9509f40829ebfe0" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>get_Separator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1a94ac6aefc564b3d1bde1118e22a7ea20" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afa7cd5d4cf1a87b05058982f26786456" prot="public" virt="non-virtual" ambiguityscope="Aspose::Words::Fields::Field::"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad68196653db5cfca30c1ba18ed44c76e" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa40bc0e4a5be11f0df785cc8bb2ff042" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1abe7b63692890f5cdf72b10d4a20035d1" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>GetMergeFieldName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1a2691f6709262649dfc919d8163c6db8b" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>GetUpdateStage</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1a3e151d9caccb967c3302b4fb62b67d99" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>IsMergeValueRequired</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad26a8021af3dbdc5bf0a1360a201222f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1adc13b9d95889b339fde34ec937b83e25" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa637d825865724665fb8ed856e664d95" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>set_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ac70b125adbe7f0ba5b889280cd282c47" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>set_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a165f748dd5ba33844f1d765f6c710f88" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>set_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa6af1e900c84ae806f071098dfe8f087" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>set_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1ad15961e586df56a0290b7b582ba99977" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1a3e2224f686b3d5b5e8b6b8b4680fae7d" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab9f908becb16b26bed76d58dbcee9929" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>Unlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aaec82418b2b6493aa2827b8e282b2e82" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a1298d7daa07c863bf97cb3f37a4d7a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1a49d200a1491923ac399b9d174985f62a" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>UpdateCore</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_unknown_1ae97b88f3d6d6c27d7db706ec9e26f39a" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldUnknown</scope><name>~FieldUnknown</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fonts::MemoryFontSource</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base" prot="public" virt="non-virtual">Aspose::Words::Fonts::FontSourceBase</basecompoundref>
+    <includes refid="_memory_font_source_8h" local="no">Aspose.Words.Cpp/Fonts/MemoryFontSource.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1a33f2ca918e39def9177c4a0b84741984" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base" kindref="compound">Aspose::Words::Fonts::FontSourceBase</ref></type>
+        <definition>typedef Aspose::Words::Fonts::FontSourceBase Aspose::Words::Fonts::MemoryFontSource::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fonts::MemoryFontSource::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/MemoryFontSource.h" line="60" column="50" bodyfile="Aspose.Words.Cpp/Fonts/MemoryFontSource.h" bodystart="60" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1aee0c019f1a3119f91cadea6bb5123cb9" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source" kindref="compound">MemoryFontSource</ref></type>
+        <definition>typedef MemoryFontSource Aspose::Words::Fonts::MemoryFontSource::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fonts::MemoryFontSource::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/MemoryFontSource.h" line="59" column="30" bodyfile="Aspose.Words.Cpp/Fonts/MemoryFontSource.h" bodystart="59" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1a7859d74b9d7f3c8ce01ce3abeeb13b9d" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Fonts::MemoryFontSource::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fonts::MemoryFontSource::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/MemoryFontSource.h" line="62" column="37" bodyfile="Aspose.Words.Cpp/Fonts/MemoryFontSource.h" bodystart="62" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1abe3ce019aab2e4185f4786678dc99ca7" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fonts::MemoryFontSource::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Fonts::MemoryFontSource::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/MemoryFontSource.h" line="156" column="20" bodyfile="Aspose.Words.Cpp/Fonts/MemoryFontSource.h" bodystart="156" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1a7917c52dd0e9be357865b5fc3c3c21a9" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fonts::MemoryFontSource::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Fonts::MemoryFontSource::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/MemoryFontSource.h" line="157" column="23" bodyfile="Aspose.Words.Cpp/Fonts/MemoryFontSource.h" bodystart="157" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1a5285d697456b447d8714389f37152ef3" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fonts::MemoryFontSource::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fonts::MemoryFontSource::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/MemoryFontSource.h" line="63" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1a1739f53d84363bf86adc95c9a414f047" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fonts::MemoryFontSource::MemoryFontSource</definition>
+        <argsstring>(const System::ArrayPtr&lt; uint8_t &gt; &amp;fontData)</argsstring>
+        <name>MemoryFontSource</name>
+        <qualifiedname>Aspose::Words::Fonts::MemoryFontSource::MemoryFontSource</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt; &amp;</type>
+          <declname>fontData</declname>
+        </param>
+        <briefdescription>
+<para>Ctor. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>fontData</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Binary font data.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use a byte array with data from a font file as a font source. <programlisting><codeline><highlight class="normal">ArrayPtr&lt;uint8_t&gt;<sp/>fontBytes<sp/>=<sp/><ref refid="class/system.i_o.file/_1abdf236ad2f3924d0fc9259f8f715a5c4" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::ReadAllBytes</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.ttf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>memoryFontSource<sp/>=<sp/>MakeObject&lt;MemoryFontSource&gt;(fontBytes,<sp/>0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(MakeObject&lt;FontSettings&gt;());</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({memoryFontSource}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1a38db0c6a58731cdfb767ad291e039d70" kindref="member" tooltip="A MemoryFontSource object that represents single font in memory.">FontSourceType::MemoryFont</ref>,<sp/>memoryFontSource-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>memoryFontSource-&gt;get_Priority());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/MemoryFontSource.h" line="124" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1a7f6324c80e686c6c57f42b02b028d4c9" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fonts::MemoryFontSource::MemoryFontSource</definition>
+        <argsstring>(const System::ArrayPtr&lt; uint8_t &gt; &amp;fontData, int32_t priority)</argsstring>
+        <name>MemoryFontSource</name>
+        <qualifiedname>Aspose::Words::Fonts::MemoryFontSource::MemoryFontSource</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt; &amp;</type>
+          <declname>fontData</declname>
+        </param>
+        <param>
+          <type>int32_t</type>
+          <declname>priority</declname>
+        </param>
+        <briefdescription>
+<para>Ctor. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>fontData</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Binary font data. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>priority</parametername>
+</parameternamelist>
+<parameterdescription>
+<para><ref refid="class_aspose_1_1_words_1_1_font" kindref="compound">Font</ref> source priority. See the <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1abba3fb9827af183660bb750252ec78f6" kindref="member">Priority</ref> property description for more information.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use a byte array with data from a font file as a font source. <programlisting><codeline><highlight class="normal">ArrayPtr&lt;uint8_t&gt;<sp/>fontBytes<sp/>=<sp/><ref refid="class/system.i_o.file/_1abdf236ad2f3924d0fc9259f8f715a5c4" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::ReadAllBytes</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.ttf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>memoryFontSource<sp/>=<sp/>MakeObject&lt;MemoryFontSource&gt;(fontBytes,<sp/>0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(MakeObject&lt;FontSettings&gt;());</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({memoryFontSource}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1a38db0c6a58731cdfb767ad291e039d70" kindref="member" tooltip="A MemoryFontSource object that represents single font in memory.">FontSourceType::MemoryFont</ref>,<sp/>memoryFontSource-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>memoryFontSource-&gt;get_Priority());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/MemoryFontSource.h" line="145" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1aee0c1b77443170121ea1f02800a410fd" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fonts::MemoryFontSource::MemoryFontSource</definition>
+        <argsstring>(const System::ArrayPtr&lt; uint8_t &gt; &amp;fontData, int32_t priority, const System::String &amp;cacheKey)</argsstring>
+        <name>MemoryFontSource</name>
+        <qualifiedname>Aspose::Words::Fonts::MemoryFontSource::MemoryFontSource</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt; &amp;</type>
+          <declname>fontData</declname>
+        </param>
+        <param>
+          <type>int32_t</type>
+          <declname>priority</declname>
+        </param>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>cacheKey</declname>
+        </param>
+        <briefdescription>
+<para>Ctor. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>fontData</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Binary font data. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>priority</parametername>
+</parameternamelist>
+<parameterdescription>
+<para><ref refid="class_aspose_1_1_words_1_1_font" kindref="compound">Font</ref> source priority. See the <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1abba3fb9827af183660bb750252ec78f6" kindref="member">Priority</ref> property description for more information. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>cacheKey</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The key of this source in the cache. See <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1a5b961a1ae3f081002a126504e1dbbb76" kindref="member">CacheKey</ref> property description for more information. </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/MemoryFontSource.h" line="152" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1a5b961a1ae3f081002a126504e1dbbb76" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fonts::MemoryFontSource::get_CacheKey</definition>
+        <argsstring>() const</argsstring>
+        <name>get_CacheKey</name>
+        <qualifiedname>Aspose::Words::Fonts::MemoryFontSource::get_CacheKey</qualifiedname>
+        <briefdescription>
+<para>The key of this source in the cache. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/MemoryFontSource.h" line="86" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1a1e1c3e25b4dc6fda66f6a66ca7217664" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt;</type>
+        <definition>System::ArrayPtr&lt; uint8_t &gt; Aspose::Words::Fonts::MemoryFontSource::get_FontData</definition>
+        <argsstring>() const</argsstring>
+        <name>get_FontData</name>
+        <qualifiedname>Aspose::Words::Fonts::MemoryFontSource::get_FontData</qualifiedname>
+        <briefdescription>
+<para>Binary font data. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use a byte array with data from a font file as a font source. <programlisting><codeline><highlight class="normal">ArrayPtr&lt;uint8_t&gt;<sp/>fontBytes<sp/>=<sp/><ref refid="class/system.i_o.file/_1abdf236ad2f3924d0fc9259f8f715a5c4" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::ReadAllBytes</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.ttf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>memoryFontSource<sp/>=<sp/>MakeObject&lt;MemoryFontSource&gt;(fontBytes,<sp/>0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(MakeObject&lt;FontSettings&gt;());</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({memoryFontSource}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1a38db0c6a58731cdfb767ad291e039d70" kindref="member" tooltip="A MemoryFontSource object that represents single font in memory.">FontSourceType::MemoryFont</ref>,<sp/>memoryFontSource-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>memoryFontSource-&gt;get_Priority());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/MemoryFontSource.h" line="83" column="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1a4bc5c3ca40a1caf94f5a8f608b92c584" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1" kindref="member">Aspose::Words::Fonts::FontSourceType</ref></type>
+        <definition>Aspose::Words::Fonts::FontSourceType Aspose::Words::Fonts::MemoryFontSource::get_Type</definition>
+        <argsstring>() override</argsstring>
+        <name>get_Type</name>
+        <qualifiedname>Aspose::Words::Fonts::MemoryFontSource::get_Type</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a7ee93eabec992e28bde2e2a7ccffb463">get_Type</reimplements>
+        <briefdescription>
+<para>Returns the type of the font source. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use a byte array with data from a font file as a font source. <programlisting><codeline><highlight class="normal">ArrayPtr&lt;uint8_t&gt;<sp/>fontBytes<sp/>=<sp/><ref refid="class/system.i_o.file/_1abdf236ad2f3924d0fc9259f8f715a5c4" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::ReadAllBytes</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.ttf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>memoryFontSource<sp/>=<sp/>MakeObject&lt;MemoryFontSource&gt;(fontBytes,<sp/>0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(MakeObject&lt;FontSettings&gt;());</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({memoryFontSource}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1a38db0c6a58731cdfb767ad291e039d70" kindref="member" tooltip="A MemoryFontSource object that represents single font in memory.">FontSourceType::MemoryFont</ref>,<sp/>memoryFontSource-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>memoryFontSource-&gt;get_Priority());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/MemoryFontSource.h" line="104" column="45"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents the single TrueType font file stored in memory. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use a byte array with data from a font file as a font source. <programlisting><codeline><highlight class="normal">ArrayPtr&lt;uint8_t&gt;<sp/>fontBytes<sp/>=<sp/><ref refid="class/system.i_o.file/_1abdf236ad2f3924d0fc9259f8f715a5c4" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::ReadAllBytes</ref>(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.ttf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>memoryFontSource<sp/>=<sp/>MakeObject&lt;MemoryFontSource&gt;(fontBytes,<sp/>0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(MakeObject&lt;FontSettings&gt;());</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({memoryFontSource}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1a38db0c6a58731cdfb767ad291e039d70" kindref="member" tooltip="A MemoryFontSource object that represents single font in memory.">FontSourceType::MemoryFont</ref>,<sp/>memoryFontSource-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>memoryFontSource-&gt;get_Priority());</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="3">
+        <label>Aspose::Fonts::IFontSource</label>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Fonts::FontSourceBase</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fonts::MemoryFontSource</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>Aspose::Fonts::IFontSource</label>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Fonts::FontSourceBase</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fonts::MemoryFontSource</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fonts/MemoryFontSource.h" line="57" column="1" bodyfile="Aspose.Words.Cpp/Fonts/MemoryFontSource.h" bodystart="58" bodyend="161"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1a33f2ca918e39def9177c4a0b84741984" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::MemoryFontSource</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1a5b961a1ae3f081002a126504e1dbbb76" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::MemoryFontSource</scope><name>get_CacheKey</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1a1e1c3e25b4dc6fda66f6a66ca7217664" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::MemoryFontSource</scope><name>get_FontData</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1abba3fb9827af183660bb750252ec78f6" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::MemoryFontSource</scope><name>get_Priority</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1a4bc5c3ca40a1caf94f5a8f608b92c584" prot="public" virt="virtual"><scope>Aspose::Words::Fonts::MemoryFontSource</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a82c8254fe64b2f20579fd502db17032a" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::MemoryFontSource</scope><name>get_WarningCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a41658ea3418ae6df25dbd632fdaa0c43" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::MemoryFontSource</scope><name>GetAvailableFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1a1739f53d84363bf86adc95c9a414f047" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::MemoryFontSource</scope><name>MemoryFontSource</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1a7f6324c80e686c6c57f42b02b028d4c9" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::MemoryFontSource</scope><name>MemoryFontSource</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1aee0c1b77443170121ea1f02800a410fd" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::MemoryFontSource</scope><name>MemoryFontSource</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1abe3ce019aab2e4185f4786678dc99ca7" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::MemoryFontSource</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1a7917c52dd0e9be357865b5fc3c3c21a9" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::MemoryFontSource</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1a5285d697456b447d8714389f37152ef3" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::MemoryFontSource</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a296a7f589143ba1850991e81fd1a1119" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::MemoryFontSource</scope><name>set_WarningCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1aee0c019f1a3119f91cadea6bb5123cb9" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::MemoryFontSource</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_memory_font_source_1a7859d74b9d7f3c8ce01ce3abeeb13b9d" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::MemoryFontSource</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,938 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::FieldIncludeText</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field" prot="public" virt="non-virtual">Aspose::Words::Fields::Field</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IFieldCodeTokenInfoProvider</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IFieldIncludeTextCode</basecompoundref>
+    <includes refid="_field_include_text_8h" local="no">Aspose.Words.Cpp/Fields/FieldIncludeText.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a8f5ea887d6caeab2492eda88df832e2b" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref></type>
+        <definition>typedef Aspose::Words::Fields::Field Aspose::Words::Fields::FieldIncludeText::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="86" column="42" bodyfile="Aspose.Words.Cpp/Fields/FieldIncludeText.h" bodystart="86" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a6399fc1d7b4a79db910d13299f95470b" prot="private" static="no">
+        <type>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</type>
+        <definition>typedef Aspose::Words::Fields::IFieldCodeTokenInfoProvider Aspose::Words::Fields::FieldIncludeText::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="87" column="64" bodyfile="Aspose.Words.Cpp/Fields/FieldIncludeText.h" bodystart="87" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a4ae09a7170cc37456a9f462f93b5e259" prot="private" static="no">
+        <type>Aspose::Words::Fields::IFieldIncludeTextCode</type>
+        <definition>typedef Aspose::Words::Fields::IFieldIncludeTextCode Aspose::Words::Fields::FieldIncludeText::BaseType2</definition>
+        <argsstring></argsstring>
+        <name>BaseType2</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::BaseType2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="88" column="58" bodyfile="Aspose.Words.Cpp/Fields/FieldIncludeText.h" bodystart="88" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1ab133224b73f4a10d4d408818c719492a" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text" kindref="compound">FieldIncludeText</ref></type>
+        <definition>typedef FieldIncludeText Aspose::Words::Fields::FieldIncludeText::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="85" column="30" bodyfile="Aspose.Words.Cpp/Fields/FieldIncludeText.h" bodystart="85" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1ae34c4600b442274fd502ce6916146281" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1, BaseType2 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1, BaseType2&gt; Aspose::Words::Fields::FieldIncludeText::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="90" column="37" bodyfile="Aspose.Words.Cpp/Fields/FieldIncludeText.h" bodystart="90" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a554aaf5d5320945afd719cf2e209a474" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Fields::FieldIncludeText::~FieldIncludeText</definition>
+        <argsstring>()</argsstring>
+        <name>~FieldIncludeText</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::~FieldIncludeText</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="531" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a98cb8ab36dc352e0c5895d647f81c085" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Fields::FieldIncludeText::get_SourceFullNameArgumentIndex</definition>
+        <argsstring>() override</argsstring>
+        <name>get_SourceFullNameArgumentIndex</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::get_SourceFullNameArgumentIndex</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="535" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1ad52eb4543bc72e02db76d81ea6810ed7" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>Aspose::Words::Fields::FieldSwitchType</type>
+        <definition>Aspose::Words::Fields::FieldSwitchType Aspose::Words::Fields::FieldIncludeText::GetSwitchType</definition>
+        <argsstring>(System::String) override</argsstring>
+        <name>GetSwitchType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::GetSwitchType</qualifiedname>
+        <param>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="537" column="44"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1afef9835fecc1562f2d2b468fa90da641" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldIncludeText::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="91" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1ab6d7db58f6f274e8bc46bb43f7ac54de" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Fields::FieldUpdateAction &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fields::FieldUpdateAction &gt; Aspose::Words::Fields::FieldIncludeText::UpdateCore</definition>
+        <argsstring>() override</argsstring>
+        <name>UpdateCore</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::UpdateCore</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afd2f4d29a84550a38375396538654ab8">UpdateCore</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="529" column="26"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1abf4d25ea963e72297a0302a3e6d17bcd" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldIncludeText::get_BookmarkName</definition>
+        <argsstring>() override</argsstring>
+        <name>get_BookmarkName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::get_BookmarkName</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the name of the bookmark in the document to include. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create an INCLUDETEXT field, and set its properties. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldIncludeText_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>to<sp/>use<sp/>INCLUDETEXT<sp/>fields<sp/>to<sp/>display<sp/>the<sp/>contents<sp/>of<sp/>an<sp/>XML<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Perform<sp/>an<sp/>XSL<sp/>transformation<sp/>on<sp/>an<sp/>XML<sp/>document:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FieldIncludeText&gt;<sp/>fieldIncludeText<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>CreateFieldIncludeText(builder,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>data.xml&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;text/xml&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;XML&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;ISO-8859-1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_XslTransformation(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>XSL<sp/>transformation.xsl&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Use<sp/>an<sp/>XPath<sp/>to<sp/>take<sp/>specific<sp/>elements<sp/>from<sp/>an<sp/>XML<sp/>document:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText<sp/>=<sp/>CreateFieldIncludeText(builder,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>data.xml&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;text/xml&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;XML&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;ISO-8859-1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_NamespaceMappings(u</highlight><highlight class="stringliteral">&quot;xmlns:n=&apos;myNamespace&apos;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_XPath(u</highlight><highlight class="stringliteral">&quot;/catalog/cd/title&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.INCLUDETEXT.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldIncludeText&gt;<sp/>CreateFieldIncludeText(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>sourceFullName,<sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>lockFields,<sp/>String<sp/>mimeType,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String<sp/>textConverter,<sp/>String<sp/>encoding)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldIncludeText<sp/>=<sp/>System::DynamicCast&lt;FieldIncludeText&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca83d1f8ca80d70a2bc52afd2351a25022" kindref="member" tooltip="Specifies the INCLUDETEXT field.">FieldType::FieldIncludeText</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_SourceFullName(sourceFullName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_LockFields(lockFields);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_MimeType(mimeType);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_TextConverter(textConverter);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_Encoding(encoding);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>fieldIncludeText;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="186" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a063acf6514217f58135af59973bf5311" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldIncludeText::get_Encoding</definition>
+        <argsstring>()</argsstring>
+        <name>get_Encoding</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::get_Encoding</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the encoding applied to the data within the referenced file. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create an INCLUDETEXT field, and set its properties. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldIncludeText_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>to<sp/>use<sp/>INCLUDETEXT<sp/>fields<sp/>to<sp/>display<sp/>the<sp/>contents<sp/>of<sp/>an<sp/>XML<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Perform<sp/>an<sp/>XSL<sp/>transformation<sp/>on<sp/>an<sp/>XML<sp/>document:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FieldIncludeText&gt;<sp/>fieldIncludeText<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>CreateFieldIncludeText(builder,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>data.xml&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;text/xml&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;XML&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;ISO-8859-1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_XslTransformation(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>XSL<sp/>transformation.xsl&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Use<sp/>an<sp/>XPath<sp/>to<sp/>take<sp/>specific<sp/>elements<sp/>from<sp/>an<sp/>XML<sp/>document:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText<sp/>=<sp/>CreateFieldIncludeText(builder,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>data.xml&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;text/xml&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;XML&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;ISO-8859-1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_NamespaceMappings(u</highlight><highlight class="stringliteral">&quot;xmlns:n=&apos;myNamespace&apos;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_XPath(u</highlight><highlight class="stringliteral">&quot;/catalog/cd/title&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.INCLUDETEXT.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldIncludeText&gt;<sp/>CreateFieldIncludeText(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>sourceFullName,<sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>lockFields,<sp/>String<sp/>mimeType,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String<sp/>textConverter,<sp/>String<sp/>encoding)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldIncludeText<sp/>=<sp/>System::DynamicCast&lt;FieldIncludeText&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca83d1f8ca80d70a2bc52afd2351a25022" kindref="member" tooltip="Specifies the INCLUDETEXT field.">FieldType::FieldIncludeText</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_SourceFullName(sourceFullName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_LockFields(lockFields);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_MimeType(mimeType);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_TextConverter(textConverter);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_Encoding(encoding);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>fieldIncludeText;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="474" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1ac46dd3826f39fc5dfb6f31eb51472b11" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldIncludeText::get_LockFields</definition>
+        <argsstring>() override</argsstring>
+        <name>get_LockFields</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::get_LockFields</qualifiedname>
+        <briefdescription>
+<para>Gets or sets whether to prevent fields in the included document from being updated. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create an INCLUDETEXT field, and set its properties. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldIncludeText_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>to<sp/>use<sp/>INCLUDETEXT<sp/>fields<sp/>to<sp/>display<sp/>the<sp/>contents<sp/>of<sp/>an<sp/>XML<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Perform<sp/>an<sp/>XSL<sp/>transformation<sp/>on<sp/>an<sp/>XML<sp/>document:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FieldIncludeText&gt;<sp/>fieldIncludeText<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>CreateFieldIncludeText(builder,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>data.xml&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;text/xml&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;XML&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;ISO-8859-1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_XslTransformation(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>XSL<sp/>transformation.xsl&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Use<sp/>an<sp/>XPath<sp/>to<sp/>take<sp/>specific<sp/>elements<sp/>from<sp/>an<sp/>XML<sp/>document:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText<sp/>=<sp/>CreateFieldIncludeText(builder,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>data.xml&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;text/xml&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;XML&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;ISO-8859-1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_NamespaceMappings(u</highlight><highlight class="stringliteral">&quot;xmlns:n=&apos;myNamespace&apos;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_XPath(u</highlight><highlight class="stringliteral">&quot;/catalog/cd/title&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.INCLUDETEXT.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldIncludeText&gt;<sp/>CreateFieldIncludeText(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>sourceFullName,<sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>lockFields,<sp/>String<sp/>mimeType,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String<sp/>textConverter,<sp/>String<sp/>encoding)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldIncludeText<sp/>=<sp/>System::DynamicCast&lt;FieldIncludeText&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca83d1f8ca80d70a2bc52afd2351a25022" kindref="member" tooltip="Specifies the INCLUDETEXT field.">FieldType::FieldIncludeText</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_SourceFullName(sourceFullName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_LockFields(lockFields);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_MimeType(mimeType);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_TextConverter(textConverter);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_Encoding(encoding);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>fieldIncludeText;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="234" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a906eb3577e0b22dbeefae73a091c523e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldIncludeText::get_MimeType</definition>
+        <argsstring>()</argsstring>
+        <name>get_MimeType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::get_MimeType</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the MIME type of the referenced file. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create an INCLUDETEXT field, and set its properties. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldIncludeText_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>to<sp/>use<sp/>INCLUDETEXT<sp/>fields<sp/>to<sp/>display<sp/>the<sp/>contents<sp/>of<sp/>an<sp/>XML<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Perform<sp/>an<sp/>XSL<sp/>transformation<sp/>on<sp/>an<sp/>XML<sp/>document:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FieldIncludeText&gt;<sp/>fieldIncludeText<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>CreateFieldIncludeText(builder,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>data.xml&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;text/xml&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;XML&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;ISO-8859-1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_XslTransformation(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>XSL<sp/>transformation.xsl&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Use<sp/>an<sp/>XPath<sp/>to<sp/>take<sp/>specific<sp/>elements<sp/>from<sp/>an<sp/>XML<sp/>document:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText<sp/>=<sp/>CreateFieldIncludeText(builder,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>data.xml&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;text/xml&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;XML&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;ISO-8859-1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_NamespaceMappings(u</highlight><highlight class="stringliteral">&quot;xmlns:n=&apos;myNamespace&apos;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_XPath(u</highlight><highlight class="stringliteral">&quot;/catalog/cd/title&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.INCLUDETEXT.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldIncludeText&gt;<sp/>CreateFieldIncludeText(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>sourceFullName,<sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>lockFields,<sp/>String<sp/>mimeType,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String<sp/>textConverter,<sp/>String<sp/>encoding)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldIncludeText<sp/>=<sp/>System::DynamicCast&lt;FieldIncludeText&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca83d1f8ca80d70a2bc52afd2351a25022" kindref="member" tooltip="Specifies the INCLUDETEXT field.">FieldType::FieldIncludeText</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_SourceFullName(sourceFullName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_LockFields(lockFields);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_MimeType(mimeType);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_TextConverter(textConverter);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_Encoding(encoding);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>fieldIncludeText;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="522" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a4159b098bc9a0a42ba21eebe8da32936" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldIncludeText::get_NamespaceMappings</definition>
+        <argsstring>() override</argsstring>
+        <name>get_NamespaceMappings</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::get_NamespaceMappings</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the namespace mappings for XPath queries. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create an INCLUDETEXT field, and set its properties. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldIncludeText_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>to<sp/>use<sp/>INCLUDETEXT<sp/>fields<sp/>to<sp/>display<sp/>the<sp/>contents<sp/>of<sp/>an<sp/>XML<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Perform<sp/>an<sp/>XSL<sp/>transformation<sp/>on<sp/>an<sp/>XML<sp/>document:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FieldIncludeText&gt;<sp/>fieldIncludeText<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>CreateFieldIncludeText(builder,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>data.xml&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;text/xml&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;XML&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;ISO-8859-1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_XslTransformation(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>XSL<sp/>transformation.xsl&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Use<sp/>an<sp/>XPath<sp/>to<sp/>take<sp/>specific<sp/>elements<sp/>from<sp/>an<sp/>XML<sp/>document:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText<sp/>=<sp/>CreateFieldIncludeText(builder,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>data.xml&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;text/xml&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;XML&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;ISO-8859-1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_NamespaceMappings(u</highlight><highlight class="stringliteral">&quot;xmlns:n=&apos;myNamespace&apos;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_XPath(u</highlight><highlight class="stringliteral">&quot;/catalog/cd/title&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.INCLUDETEXT.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldIncludeText&gt;<sp/>CreateFieldIncludeText(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>sourceFullName,<sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>lockFields,<sp/>String<sp/>mimeType,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String<sp/>textConverter,<sp/>String<sp/>encoding)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldIncludeText<sp/>=<sp/>System::DynamicCast&lt;FieldIncludeText&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca83d1f8ca80d70a2bc52afd2351a25022" kindref="member" tooltip="Specifies the INCLUDETEXT field.">FieldType::FieldIncludeText</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_SourceFullName(sourceFullName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_LockFields(lockFields);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_MimeType(mimeType);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_TextConverter(textConverter);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_Encoding(encoding);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>fieldIncludeText;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="330" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a74d15dbb9cfeb6b98b09041b4de0adb4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldIncludeText::get_SourceFullName</definition>
+        <argsstring>() override</argsstring>
+        <name>get_SourceFullName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::get_SourceFullName</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the location of the document using an IRI. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create an INCLUDETEXT field, and set its properties. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldIncludeText_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>to<sp/>use<sp/>INCLUDETEXT<sp/>fields<sp/>to<sp/>display<sp/>the<sp/>contents<sp/>of<sp/>an<sp/>XML<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Perform<sp/>an<sp/>XSL<sp/>transformation<sp/>on<sp/>an<sp/>XML<sp/>document:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FieldIncludeText&gt;<sp/>fieldIncludeText<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>CreateFieldIncludeText(builder,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>data.xml&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;text/xml&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;XML&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;ISO-8859-1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_XslTransformation(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>XSL<sp/>transformation.xsl&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Use<sp/>an<sp/>XPath<sp/>to<sp/>take<sp/>specific<sp/>elements<sp/>from<sp/>an<sp/>XML<sp/>document:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText<sp/>=<sp/>CreateFieldIncludeText(builder,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>data.xml&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;text/xml&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;XML&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;ISO-8859-1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_NamespaceMappings(u</highlight><highlight class="stringliteral">&quot;xmlns:n=&apos;myNamespace&apos;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_XPath(u</highlight><highlight class="stringliteral">&quot;/catalog/cd/title&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.INCLUDETEXT.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldIncludeText&gt;<sp/>CreateFieldIncludeText(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>sourceFullName,<sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>lockFields,<sp/>String<sp/>mimeType,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String<sp/>textConverter,<sp/>String<sp/>encoding)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldIncludeText<sp/>=<sp/>System::DynamicCast&lt;FieldIncludeText&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca83d1f8ca80d70a2bc52afd2351a25022" kindref="member" tooltip="Specifies the INCLUDETEXT field.">FieldType::FieldIncludeText</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_SourceFullName(sourceFullName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_LockFields(lockFields);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_MimeType(mimeType);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_TextConverter(textConverter);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_Encoding(encoding);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>fieldIncludeText;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="138" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a18d5e24de96f397ca9ddb41e49a2f53a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldIncludeText::get_TextConverter</definition>
+        <argsstring>() override</argsstring>
+        <name>get_TextConverter</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::get_TextConverter</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the name of the text converter for the format of the included file. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create an INCLUDETEXT field, and set its properties. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldIncludeText_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>to<sp/>use<sp/>INCLUDETEXT<sp/>fields<sp/>to<sp/>display<sp/>the<sp/>contents<sp/>of<sp/>an<sp/>XML<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Perform<sp/>an<sp/>XSL<sp/>transformation<sp/>on<sp/>an<sp/>XML<sp/>document:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FieldIncludeText&gt;<sp/>fieldIncludeText<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>CreateFieldIncludeText(builder,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>data.xml&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;text/xml&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;XML&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;ISO-8859-1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_XslTransformation(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>XSL<sp/>transformation.xsl&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Use<sp/>an<sp/>XPath<sp/>to<sp/>take<sp/>specific<sp/>elements<sp/>from<sp/>an<sp/>XML<sp/>document:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText<sp/>=<sp/>CreateFieldIncludeText(builder,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>data.xml&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;text/xml&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;XML&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;ISO-8859-1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_NamespaceMappings(u</highlight><highlight class="stringliteral">&quot;xmlns:n=&apos;myNamespace&apos;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_XPath(u</highlight><highlight class="stringliteral">&quot;/catalog/cd/title&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.INCLUDETEXT.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldIncludeText&gt;<sp/>CreateFieldIncludeText(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>sourceFullName,<sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>lockFields,<sp/>String<sp/>mimeType,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String<sp/>textConverter,<sp/>String<sp/>encoding)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldIncludeText<sp/>=<sp/>System::DynamicCast&lt;FieldIncludeText&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca83d1f8ca80d70a2bc52afd2351a25022" kindref="member" tooltip="Specifies the INCLUDETEXT field.">FieldType::FieldIncludeText</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_SourceFullName(sourceFullName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_LockFields(lockFields);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_MimeType(mimeType);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_TextConverter(textConverter);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_Encoding(encoding);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>fieldIncludeText;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="282" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1aff6b24aa1babc7b5686ba1b41822a2c3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldIncludeText::get_XPath</definition>
+        <argsstring>() override</argsstring>
+        <name>get_XPath</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::get_XPath</qualifiedname>
+        <briefdescription>
+<para>Gets or sets XPath for the desired portion of the XML file. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create an INCLUDETEXT field, and set its properties. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldIncludeText_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>to<sp/>use<sp/>INCLUDETEXT<sp/>fields<sp/>to<sp/>display<sp/>the<sp/>contents<sp/>of<sp/>an<sp/>XML<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Perform<sp/>an<sp/>XSL<sp/>transformation<sp/>on<sp/>an<sp/>XML<sp/>document:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FieldIncludeText&gt;<sp/>fieldIncludeText<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>CreateFieldIncludeText(builder,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>data.xml&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;text/xml&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;XML&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;ISO-8859-1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_XslTransformation(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>XSL<sp/>transformation.xsl&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Use<sp/>an<sp/>XPath<sp/>to<sp/>take<sp/>specific<sp/>elements<sp/>from<sp/>an<sp/>XML<sp/>document:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText<sp/>=<sp/>CreateFieldIncludeText(builder,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>data.xml&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;text/xml&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;XML&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;ISO-8859-1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_NamespaceMappings(u</highlight><highlight class="stringliteral">&quot;xmlns:n=&apos;myNamespace&apos;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_XPath(u</highlight><highlight class="stringliteral">&quot;/catalog/cd/title&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.INCLUDETEXT.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldIncludeText&gt;<sp/>CreateFieldIncludeText(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>sourceFullName,<sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>lockFields,<sp/>String<sp/>mimeType,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String<sp/>textConverter,<sp/>String<sp/>encoding)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldIncludeText<sp/>=<sp/>System::DynamicCast&lt;FieldIncludeText&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca83d1f8ca80d70a2bc52afd2351a25022" kindref="member" tooltip="Specifies the INCLUDETEXT field.">FieldType::FieldIncludeText</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_SourceFullName(sourceFullName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_LockFields(lockFields);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_MimeType(mimeType);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_TextConverter(textConverter);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_Encoding(encoding);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>fieldIncludeText;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="426" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a4a4c1ff0bd0b058a07e8a3a4e698d4e0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldIncludeText::get_XslTransformation</definition>
+        <argsstring>() override</argsstring>
+        <name>get_XslTransformation</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::get_XslTransformation</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the location of XSL Transformation to format XML data. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create an INCLUDETEXT field, and set its properties. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldIncludeText_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>to<sp/>use<sp/>INCLUDETEXT<sp/>fields<sp/>to<sp/>display<sp/>the<sp/>contents<sp/>of<sp/>an<sp/>XML<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Perform<sp/>an<sp/>XSL<sp/>transformation<sp/>on<sp/>an<sp/>XML<sp/>document:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FieldIncludeText&gt;<sp/>fieldIncludeText<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>CreateFieldIncludeText(builder,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>data.xml&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;text/xml&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;XML&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;ISO-8859-1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_XslTransformation(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>XSL<sp/>transformation.xsl&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Use<sp/>an<sp/>XPath<sp/>to<sp/>take<sp/>specific<sp/>elements<sp/>from<sp/>an<sp/>XML<sp/>document:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText<sp/>=<sp/>CreateFieldIncludeText(builder,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>data.xml&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;text/xml&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;XML&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;ISO-8859-1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_NamespaceMappings(u</highlight><highlight class="stringliteral">&quot;xmlns:n=&apos;myNamespace&apos;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_XPath(u</highlight><highlight class="stringliteral">&quot;/catalog/cd/title&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.INCLUDETEXT.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldIncludeText&gt;<sp/>CreateFieldIncludeText(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>sourceFullName,<sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>lockFields,<sp/>String<sp/>mimeType,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String<sp/>textConverter,<sp/>String<sp/>encoding)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldIncludeText<sp/>=<sp/>System::DynamicCast&lt;FieldIncludeText&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca83d1f8ca80d70a2bc52afd2351a25022" kindref="member" tooltip="Specifies the INCLUDETEXT field.">FieldType::FieldIncludeText</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_SourceFullName(sourceFullName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_LockFields(lockFields);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_MimeType(mimeType);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_TextConverter(textConverter);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_Encoding(encoding);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>fieldIncludeText;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="378" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a26dcd102776cc1c3fb5f87cea5d448cf" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldIncludeText::set_BookmarkName</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_BookmarkName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::set_BookmarkName</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1abf4d25ea963e72297a0302a3e6d17bcd" kindref="member">Aspose::Words::Fields::FieldIncludeText::get_BookmarkName</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="189" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a69008471197235164f939d505c73b14b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldIncludeText::set_Encoding</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Encoding</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::set_Encoding</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a063acf6514217f58135af59973bf5311" kindref="member">Aspose::Words::Fields::FieldIncludeText::get_Encoding</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="477" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a6e827d72dfd2d2de3d867119a53e64c4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldIncludeText::set_LockFields</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_LockFields</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::set_LockFields</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1ac46dd3826f39fc5dfb6f31eb51472b11" kindref="member">Aspose::Words::Fields::FieldIncludeText::get_LockFields</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="237" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a3ceefe41b509265a0dcd5185f181cd65" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldIncludeText::set_MimeType</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_MimeType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::set_MimeType</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a906eb3577e0b22dbeefae73a091c523e" kindref="member">Aspose::Words::Fields::FieldIncludeText::get_MimeType</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="525" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a256d8ca0aad0e5f63d0823ae9149c1c4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldIncludeText::set_NamespaceMappings</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_NamespaceMappings</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::set_NamespaceMappings</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a4159b098bc9a0a42ba21eebe8da32936" kindref="member">Aspose::Words::Fields::FieldIncludeText::get_NamespaceMappings</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="333" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1acfe4c7540c1731d4b9434153ef43bbd4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldIncludeText::set_SourceFullName</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_SourceFullName</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::set_SourceFullName</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a74d15dbb9cfeb6b98b09041b4de0adb4" kindref="member">Aspose::Words::Fields::FieldIncludeText::get_SourceFullName</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="141" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1ae9c5e304026b3aac13ddc565a5aea493" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldIncludeText::set_TextConverter</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_TextConverter</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::set_TextConverter</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a18d5e24de96f397ca9ddb41e49a2f53a" kindref="member">Aspose::Words::Fields::FieldIncludeText::get_TextConverter</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="285" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a01f5fdfc74c8b3d6d1913b2994e16474" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldIncludeText::set_XPath</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_XPath</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::set_XPath</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1aff6b24aa1babc7b5686ba1b41822a2c3" kindref="member">Aspose::Words::Fields::FieldIncludeText::get_XPath</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="429" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a364aef9dda73e9f4284389b45532dd83" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldIncludeText::set_XslTransformation</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_XslTransformation</name>
+        <qualifiedname>Aspose::Words::Fields::FieldIncludeText::set_XslTransformation</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a4a4c1ff0bd0b058a07e8a3a4e698d4e0" kindref="member">Aspose::Words::Fields::FieldIncludeText::get_XslTransformation</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="381" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implements the INCLUDETEXT field. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create an INCLUDETEXT field, and set its properties. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldIncludeText_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>to<sp/>use<sp/>INCLUDETEXT<sp/>fields<sp/>to<sp/>display<sp/>the<sp/>contents<sp/>of<sp/>an<sp/>XML<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Perform<sp/>an<sp/>XSL<sp/>transformation<sp/>on<sp/>an<sp/>XML<sp/>document:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FieldIncludeText&gt;<sp/>fieldIncludeText<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>CreateFieldIncludeText(builder,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>data.xml&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;text/xml&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;XML&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;ISO-8859-1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_XslTransformation(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>XSL<sp/>transformation.xsl&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Use<sp/>an<sp/>XPath<sp/>to<sp/>take<sp/>specific<sp/>elements<sp/>from<sp/>an<sp/>XML<sp/>document:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText<sp/>=<sp/>CreateFieldIncludeText(builder,<sp/>MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;CD<sp/>collection<sp/>data.xml&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;text/xml&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;XML&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;ISO-8859-1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_NamespaceMappings(u</highlight><highlight class="stringliteral">&quot;xmlns:n=&apos;myNamespace&apos;&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_XPath(u</highlight><highlight class="stringliteral">&quot;/catalog/cd/title&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.INCLUDETEXT.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FieldIncludeText&gt;<sp/>CreateFieldIncludeText(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>sourceFullName,<sp/></highlight><highlight class="keywordtype">bool</highlight><highlight class="normal"><sp/>lockFields,<sp/>String<sp/>mimeType,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String<sp/>textConverter,<sp/>String<sp/>encoding)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldIncludeText<sp/>=<sp/>System::DynamicCast&lt;FieldIncludeText&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca83d1f8ca80d70a2bc52afd2351a25022" kindref="member" tooltip="Specifies the INCLUDETEXT field.">FieldType::FieldIncludeText</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_SourceFullName(sourceFullName);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_LockFields(lockFields);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_MimeType(mimeType);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_TextConverter(textConverter);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>fieldIncludeText-&gt;set_Encoding(encoding);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>fieldIncludeText;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldIncludeText</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="5">
+        <label>Aspose::Words::Fields::IFieldIncludeTextCode</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldIncludeText</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="5">
+        <label>Aspose::Words::Fields::IFieldIncludeTextCode</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/FieldIncludeText.h" line="83" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldIncludeText.h" bodystart="84" bodyend="539"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a8f5ea887d6caeab2492eda88df832e2b" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a6399fc1d7b4a79db910d13299f95470b" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a4ae09a7170cc37456a9f462f93b5e259" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>BaseType2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1abf4d25ea963e72297a0302a3e6d17bcd" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>get_BookmarkName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a5c2d01019c517ea8098f296903e37a34" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>get_DisplayResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a063acf6514217f58135af59973bf5311" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>get_Encoding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad5f0995c85cce833806e847cf25809b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a399c14463916724cac0015b430175589" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>get_FieldEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abc40cddc1325f7fec80d8530e5287448" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>get_FieldStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a090c5d09915e2ead6cc54fda736dd7c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>get_Format</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ae68851d4a88a1fc867d3ddee2e4e88c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>get_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afda4c46db80761545c89e21aae5b717d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>get_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a93719d071099487b6aea1eaa241dd6e8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>get_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1ac46dd3826f39fc5dfb6f31eb51472b11" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>get_LockFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a906eb3577e0b22dbeefae73a091c523e" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>get_MimeType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a4159b098bc9a0a42ba21eebe8da32936" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>get_NamespaceMappings</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a012c93472901dc077815970a9b2ab650" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>get_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abbc83ad66d5fb391a21980126ea96847" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>get_Separator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a74d15dbb9cfeb6b98b09041b4de0adb4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>get_SourceFullName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a98cb8ab36dc352e0c5895d647f81c085" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>get_SourceFullNameArgumentIndex</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afa7cd5d4cf1a87b05058982f26786456" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a18d5e24de96f397ca9ddb41e49a2f53a" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>get_TextConverter</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad68196653db5cfca30c1ba18ed44c76e" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1aff6b24aa1babc7b5686ba1b41822a2c3" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>get_XPath</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a4a4c1ff0bd0b058a07e8a3a4e698d4e0" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>get_XslTransformation</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa40bc0e4a5be11f0df785cc8bb2ff042" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1ad52eb4543bc72e02db76d81ea6810ed7" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>GetSwitchType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad26a8021af3dbdc5bf0a1360a201222f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1afef9835fecc1562f2d2b468fa90da641" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a26dcd102776cc1c3fb5f87cea5d448cf" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>set_BookmarkName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a69008471197235164f939d505c73b14b" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>set_Encoding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa637d825865724665fb8ed856e664d95" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>set_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ac70b125adbe7f0ba5b889280cd282c47" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>set_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a165f748dd5ba33844f1d765f6c710f88" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>set_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a6e827d72dfd2d2de3d867119a53e64c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>set_LockFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a3ceefe41b509265a0dcd5185f181cd65" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>set_MimeType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a256d8ca0aad0e5f63d0823ae9149c1c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>set_NamespaceMappings</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa6af1e900c84ae806f071098dfe8f087" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>set_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1acfe4c7540c1731d4b9434153ef43bbd4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>set_SourceFullName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1ae9c5e304026b3aac13ddc565a5aea493" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>set_TextConverter</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a01f5fdfc74c8b3d6d1913b2994e16474" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>set_XPath</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a364aef9dda73e9f4284389b45532dd83" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>set_XslTransformation</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1ab133224b73f4a10d4d408818c719492a" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1ae34c4600b442274fd502ce6916146281" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab9f908becb16b26bed76d58dbcee9929" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>Unlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aaec82418b2b6493aa2827b8e282b2e82" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a1298d7daa07c863bf97cb3f37a4d7a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1ab6d7db58f6f274e8bc46bb43f7ac54de" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>UpdateCore</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_include_text_1a554aaf5d5320945afd719cf2e209a474" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldIncludeText</scope><name>~FieldIncludeText</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,501 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::FieldAutoNumLgl</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field" prot="public" virt="non-virtual">Aspose::Words::Fields::Field</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IFieldCodeTokenInfoProvider</basecompoundref>
+    <includes refid="_field_auto_num_lgl_8h" local="no">Aspose.Words.Cpp/Fields/FieldAutoNumLgl.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl_1acca27029113e30d7fa090a63e5ca5e65" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref></type>
+        <definition>typedef Aspose::Words::Fields::Field Aspose::Words::Fields::FieldAutoNumLgl::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAutoNumLgl::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAutoNumLgl.h" line="120" column="42" bodyfile="Aspose.Words.Cpp/Fields/FieldAutoNumLgl.h" bodystart="120" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl_1a5ea62a4ce657bc824fc56ce8c5b2cca4" prot="private" static="no">
+        <type>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</type>
+        <definition>typedef Aspose::Words::Fields::IFieldCodeTokenInfoProvider Aspose::Words::Fields::FieldAutoNumLgl::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAutoNumLgl::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAutoNumLgl.h" line="121" column="64" bodyfile="Aspose.Words.Cpp/Fields/FieldAutoNumLgl.h" bodystart="121" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl_1a389915e5d7573b4041a1be6c441c6807" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl" kindref="compound">FieldAutoNumLgl</ref></type>
+        <definition>typedef FieldAutoNumLgl Aspose::Words::Fields::FieldAutoNumLgl::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAutoNumLgl::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAutoNumLgl.h" line="119" column="29" bodyfile="Aspose.Words.Cpp/Fields/FieldAutoNumLgl.h" bodystart="119" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl_1af6e781292c24e6de496046d603a14113" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Fields::FieldAutoNumLgl::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAutoNumLgl::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAutoNumLgl.h" line="123" column="37" bodyfile="Aspose.Words.Cpp/Fields/FieldAutoNumLgl.h" bodystart="123" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl_1a0e52fed6f945cd414728767d7cf63698" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Fields::FieldAutoNumLgl::~FieldAutoNumLgl</definition>
+        <argsstring>()</argsstring>
+        <name>~FieldAutoNumLgl</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAutoNumLgl::~FieldAutoNumLgl</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAutoNumLgl.h" line="300" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl_1abeec083b056f77ec75c99c95d7030b4d" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::NodeRange &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::NodeRange &gt; Aspose::Words::Fields::FieldAutoNumLgl::GetFakeResult</definition>
+        <argsstring>() override</argsstring>
+        <name>GetFakeResult</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAutoNumLgl::GetFakeResult</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aec0fb24827aecbea0ff27a044ba7c760">GetFakeResult</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAutoNumLgl.h" line="298" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl_1a61d29d26c3ff657b080b8fc109872d22" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>Aspose::Words::Fields::FieldSwitchType</type>
+        <definition>Aspose::Words::Fields::FieldSwitchType Aspose::Words::Fields::FieldAutoNumLgl::GetSwitchType</definition>
+        <argsstring>(System::String) override</argsstring>
+        <name>GetSwitchType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAutoNumLgl::GetSwitchType</qualifiedname>
+        <param>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAutoNumLgl.h" line="304" column="44"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl_1a3b4de4d7eed7deb3957c3814f03ea226" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldAutoNumLgl::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAutoNumLgl::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAutoNumLgl.h" line="124" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl_1a4070d2684cc44eaf26469200bcd0bbc4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldAutoNumLgl::get_RemoveTrailingPeriod</definition>
+        <argsstring>()</argsstring>
+        <name>get_RemoveTrailingPeriod</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAutoNumLgl::get_RemoveTrailingPeriod</qualifiedname>
+        <briefdescription>
+<para>Gets or sets whether to display the number without a trailing period. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to organize a document using AUTONUMLGL fields. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldAutoNumLgl_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>fillerText<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Lorem<sp/>ipsum<sp/>dolor<sp/>sit<sp/>amet,<sp/>consectetur<sp/>adipiscing<sp/>elit,<sp/>sed<sp/>do<sp/>eiusmod<sp/>tempor<sp/>incididunt<sp/>ut<sp/>labore<sp/>et<sp/>dolore<sp/>magna<sp/>aliqua.<sp/>&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;\nUt<sp/>enim<sp/>ad<sp/>minim<sp/>veniam,<sp/>quis<sp/>nostrud<sp/>exercitation<sp/>ullamco<sp/>laboris<sp/>nisi<sp/>ut<sp/>aliquip<sp/>ex<sp/>ea<sp/>commodo<sp/>consequat.<sp/>&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>AUTONUMLGL<sp/>fields<sp/>display<sp/>a<sp/>number<sp/>that<sp/>increments<sp/>at<sp/>each<sp/>AUTONUMLGL<sp/>field<sp/>within<sp/>its<sp/>current<sp/>heading<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>These<sp/>fields<sp/>maintain<sp/>a<sp/>separate<sp/>count<sp/>for<sp/>each<sp/>heading<sp/>level,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>and<sp/>each<sp/>field<sp/>also<sp/>displays<sp/>the<sp/>AUTONUMLGL<sp/>field<sp/>counts<sp/>for<sp/>all<sp/>heading<sp/>levels<sp/>below<sp/>its<sp/>own.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Changing<sp/>the<sp/>count<sp/>for<sp/>any<sp/>heading<sp/>level<sp/>resets<sp/>the<sp/>counts<sp/>for<sp/>all<sp/>levels<sp/>above<sp/>that<sp/>level<sp/>to<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>allows<sp/>us<sp/>to<sp/>organize<sp/>our<sp/>document<sp/>in<sp/>the<sp/>form<sp/>of<sp/>an<sp/>outline<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>is<sp/>the<sp/>first<sp/>AUTONUMLGL<sp/>field<sp/>at<sp/>a<sp/>heading<sp/>level<sp/>of<sp/>1,<sp/>displaying<sp/>&quot;1.&quot;<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertNumberedClause(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\tHeading<sp/>1&quot;</highlight><highlight class="normal">,<sp/>fillerText,<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a87f33c2e9209edfc0333a264ec3085a2" kindref="member" tooltip="The Heading 1 style.">StyleIdentifier::Heading1</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>is<sp/>the<sp/>second<sp/>AUTONUMLGL<sp/>field<sp/>at<sp/>a<sp/>heading<sp/>level<sp/>of<sp/>1,<sp/>so<sp/>it<sp/>will<sp/>display<sp/>&quot;2.&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertNumberedClause(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\tHeading<sp/>2&quot;</highlight><highlight class="normal">,<sp/>fillerText,<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a87f33c2e9209edfc0333a264ec3085a2" kindref="member" tooltip="The Heading 1 style.">StyleIdentifier::Heading1</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>is<sp/>the<sp/>first<sp/>AUTONUMLGL<sp/>field<sp/>at<sp/>a<sp/>heading<sp/>level<sp/>of<sp/>2,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>AUTONUMLGL<sp/>count<sp/>for<sp/>the<sp/>heading<sp/>level<sp/>below<sp/>it<sp/>is<sp/>&quot;2&quot;,<sp/>so<sp/>it<sp/>will<sp/>display<sp/>&quot;2.1.&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertNumberedClause(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\tHeading<sp/>3&quot;</highlight><highlight class="normal">,<sp/>fillerText,<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34aa6bef18a8a766b5e3c9facc5b87ed2c8" kindref="member" tooltip="The Heading 2 style.">StyleIdentifier::Heading2</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>is<sp/>the<sp/>first<sp/>AUTONUMLGL<sp/>field<sp/>at<sp/>a<sp/>heading<sp/>level<sp/>of<sp/>3.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Working<sp/>in<sp/>the<sp/>same<sp/>way<sp/>as<sp/>the<sp/>field<sp/>above,<sp/>it<sp/>will<sp/>display<sp/>&quot;2.1.1.&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertNumberedClause(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\tHeading<sp/>4&quot;</highlight><highlight class="normal">,<sp/>fillerText,<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a5c20c643b1731618a5eddb7660b10a3e" kindref="member" tooltip="The Heading 3 style.">StyleIdentifier::Heading3</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>field<sp/>is<sp/>at<sp/>a<sp/>heading<sp/>level<sp/>of<sp/>2,<sp/>and<sp/>its<sp/>respective<sp/>AUTONUMLGL<sp/>count<sp/>is<sp/>at<sp/>2,<sp/>so<sp/>the<sp/>field<sp/>will<sp/>display<sp/>&quot;2.2.&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertNumberedClause(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\tHeading<sp/>5&quot;</highlight><highlight class="normal">,<sp/>fillerText,<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34aa6bef18a8a766b5e3c9facc5b87ed2c8" kindref="member" tooltip="The Heading 2 style.">StyleIdentifier::Heading2</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Incrementing<sp/>the<sp/>AUTONUMLGL<sp/>count<sp/>for<sp/>a<sp/>heading<sp/>level<sp/>below<sp/>this<sp/>one</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>has<sp/>reset<sp/>the<sp/>count<sp/>for<sp/>this<sp/>level<sp/>so<sp/>that<sp/>this<sp/>field<sp/>will<sp/>display<sp/>&quot;2.2.1.&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertNumberedClause(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\tHeading<sp/>6&quot;</highlight><highlight class="normal">,<sp/>fillerText,<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a5c20c643b1731618a5eddb7660b10a3e" kindref="member" tooltip="The Heading 3 style.">StyleIdentifier::Heading3</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>isAutoNumLegal<sp/>=<sp/>[](SharedPtr&lt;Field&gt;<sp/>f)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_Type()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca057a45a85def5ee89a72e5940cc6fd47" kindref="member" tooltip="Specifies the AUTONUMLGL field.">FieldType::FieldAutoNumLegal</ref>;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>};</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>:<sp/>System::IterateOver&lt;FieldAutoNumLgl&gt;(doc-&gt;get_Range()-&gt;get_Fields()-&gt;LINQ_Where(isAutoNumLegal)))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>separator<sp/>character,<sp/>which<sp/>appears<sp/>in<sp/>the<sp/>field<sp/>result<sp/>immediately<sp/>after<sp/>the<sp/>number,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>is<sp/>a<sp/>full<sp/>stop<sp/>by<sp/>default.<sp/>If<sp/>we<sp/>leave<sp/>this<sp/>property<sp/>null,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>our<sp/>last<sp/>AUTONUMLGL<sp/>field<sp/>will<sp/>display<sp/>&quot;2.2.1.&quot;<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(field-&gt;get_SeparatorCharacter()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Setting<sp/>a<sp/>custom<sp/>separator<sp/>character<sp/>and<sp/>removing<sp/>the<sp/>trailing<sp/>period</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>will<sp/>change<sp/>that<sp/>field&apos;s<sp/>appearance<sp/>from<sp/>&quot;2.2.1.&quot;<sp/>to<sp/>&quot;2:2:1&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>apply<sp/>this<sp/>to<sp/>all<sp/>the<sp/>fields<sp/>that<sp/>we<sp/>have<sp/>created.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>field-&gt;set_SeparatorCharacter(u</highlight><highlight class="stringliteral">&quot;:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>field-&gt;set_RemoveTrailingPeriod(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>AUTONUMLGL<sp/><sp/>\\s<sp/>:<sp/>\\e&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.AUTONUMLGL.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertNumberedClause(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>heading,<sp/>String<sp/>contents,<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34" kindref="member" tooltip="Locale independent style identifier.">StyleIdentifier</ref><sp/>headingStyle)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca057a45a85def5ee89a72e5940cc6fd47" kindref="member" tooltip="Specifies the AUTONUMLGL field.">FieldType::FieldAutoNumLegal</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_CurrentParagraph()-&gt;get_ParagraphFormat()-&gt;set_StyleIdentifier(headingStyle);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(heading);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>text<sp/>will<sp/>belong<sp/>to<sp/>the<sp/>auto<sp/>num<sp/>legal<sp/>field<sp/>above<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>It<sp/>will<sp/>collapse<sp/>when<sp/>we<sp/>click<sp/>the<sp/>arrow<sp/>next<sp/>to<sp/>the<sp/>corresponding<sp/>AUTONUMLGL<sp/>field<sp/>in<sp/>Microsoft<sp/>Word.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_CurrentParagraph()-&gt;get_ParagraphFormat()-&gt;set_StyleIdentifier(<ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a4cfff2d57e16cda5e4256c5491568c58" kindref="member" tooltip="The Body Text style.">StyleIdentifier::BodyText</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(contents);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAutoNumLgl.h" line="207" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl_1acb03f70e2f20e1d9b345aba1c5bb4457" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldAutoNumLgl::get_SeparatorCharacter</definition>
+        <argsstring>()</argsstring>
+        <name>get_SeparatorCharacter</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAutoNumLgl::get_SeparatorCharacter</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the separator character to be used. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to organize a document using AUTONUMLGL fields. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldAutoNumLgl_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>fillerText<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Lorem<sp/>ipsum<sp/>dolor<sp/>sit<sp/>amet,<sp/>consectetur<sp/>adipiscing<sp/>elit,<sp/>sed<sp/>do<sp/>eiusmod<sp/>tempor<sp/>incididunt<sp/>ut<sp/>labore<sp/>et<sp/>dolore<sp/>magna<sp/>aliqua.<sp/>&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;\nUt<sp/>enim<sp/>ad<sp/>minim<sp/>veniam,<sp/>quis<sp/>nostrud<sp/>exercitation<sp/>ullamco<sp/>laboris<sp/>nisi<sp/>ut<sp/>aliquip<sp/>ex<sp/>ea<sp/>commodo<sp/>consequat.<sp/>&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>AUTONUMLGL<sp/>fields<sp/>display<sp/>a<sp/>number<sp/>that<sp/>increments<sp/>at<sp/>each<sp/>AUTONUMLGL<sp/>field<sp/>within<sp/>its<sp/>current<sp/>heading<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>These<sp/>fields<sp/>maintain<sp/>a<sp/>separate<sp/>count<sp/>for<sp/>each<sp/>heading<sp/>level,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>and<sp/>each<sp/>field<sp/>also<sp/>displays<sp/>the<sp/>AUTONUMLGL<sp/>field<sp/>counts<sp/>for<sp/>all<sp/>heading<sp/>levels<sp/>below<sp/>its<sp/>own.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Changing<sp/>the<sp/>count<sp/>for<sp/>any<sp/>heading<sp/>level<sp/>resets<sp/>the<sp/>counts<sp/>for<sp/>all<sp/>levels<sp/>above<sp/>that<sp/>level<sp/>to<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>allows<sp/>us<sp/>to<sp/>organize<sp/>our<sp/>document<sp/>in<sp/>the<sp/>form<sp/>of<sp/>an<sp/>outline<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>is<sp/>the<sp/>first<sp/>AUTONUMLGL<sp/>field<sp/>at<sp/>a<sp/>heading<sp/>level<sp/>of<sp/>1,<sp/>displaying<sp/>&quot;1.&quot;<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertNumberedClause(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\tHeading<sp/>1&quot;</highlight><highlight class="normal">,<sp/>fillerText,<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a87f33c2e9209edfc0333a264ec3085a2" kindref="member" tooltip="The Heading 1 style.">StyleIdentifier::Heading1</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>is<sp/>the<sp/>second<sp/>AUTONUMLGL<sp/>field<sp/>at<sp/>a<sp/>heading<sp/>level<sp/>of<sp/>1,<sp/>so<sp/>it<sp/>will<sp/>display<sp/>&quot;2.&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertNumberedClause(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\tHeading<sp/>2&quot;</highlight><highlight class="normal">,<sp/>fillerText,<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a87f33c2e9209edfc0333a264ec3085a2" kindref="member" tooltip="The Heading 1 style.">StyleIdentifier::Heading1</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>is<sp/>the<sp/>first<sp/>AUTONUMLGL<sp/>field<sp/>at<sp/>a<sp/>heading<sp/>level<sp/>of<sp/>2,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>AUTONUMLGL<sp/>count<sp/>for<sp/>the<sp/>heading<sp/>level<sp/>below<sp/>it<sp/>is<sp/>&quot;2&quot;,<sp/>so<sp/>it<sp/>will<sp/>display<sp/>&quot;2.1.&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertNumberedClause(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\tHeading<sp/>3&quot;</highlight><highlight class="normal">,<sp/>fillerText,<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34aa6bef18a8a766b5e3c9facc5b87ed2c8" kindref="member" tooltip="The Heading 2 style.">StyleIdentifier::Heading2</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>is<sp/>the<sp/>first<sp/>AUTONUMLGL<sp/>field<sp/>at<sp/>a<sp/>heading<sp/>level<sp/>of<sp/>3.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Working<sp/>in<sp/>the<sp/>same<sp/>way<sp/>as<sp/>the<sp/>field<sp/>above,<sp/>it<sp/>will<sp/>display<sp/>&quot;2.1.1.&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertNumberedClause(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\tHeading<sp/>4&quot;</highlight><highlight class="normal">,<sp/>fillerText,<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a5c20c643b1731618a5eddb7660b10a3e" kindref="member" tooltip="The Heading 3 style.">StyleIdentifier::Heading3</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>field<sp/>is<sp/>at<sp/>a<sp/>heading<sp/>level<sp/>of<sp/>2,<sp/>and<sp/>its<sp/>respective<sp/>AUTONUMLGL<sp/>count<sp/>is<sp/>at<sp/>2,<sp/>so<sp/>the<sp/>field<sp/>will<sp/>display<sp/>&quot;2.2.&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertNumberedClause(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\tHeading<sp/>5&quot;</highlight><highlight class="normal">,<sp/>fillerText,<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34aa6bef18a8a766b5e3c9facc5b87ed2c8" kindref="member" tooltip="The Heading 2 style.">StyleIdentifier::Heading2</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Incrementing<sp/>the<sp/>AUTONUMLGL<sp/>count<sp/>for<sp/>a<sp/>heading<sp/>level<sp/>below<sp/>this<sp/>one</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>has<sp/>reset<sp/>the<sp/>count<sp/>for<sp/>this<sp/>level<sp/>so<sp/>that<sp/>this<sp/>field<sp/>will<sp/>display<sp/>&quot;2.2.1.&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertNumberedClause(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\tHeading<sp/>6&quot;</highlight><highlight class="normal">,<sp/>fillerText,<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a5c20c643b1731618a5eddb7660b10a3e" kindref="member" tooltip="The Heading 3 style.">StyleIdentifier::Heading3</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>isAutoNumLegal<sp/>=<sp/>[](SharedPtr&lt;Field&gt;<sp/>f)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_Type()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca057a45a85def5ee89a72e5940cc6fd47" kindref="member" tooltip="Specifies the AUTONUMLGL field.">FieldType::FieldAutoNumLegal</ref>;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>};</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>:<sp/>System::IterateOver&lt;FieldAutoNumLgl&gt;(doc-&gt;get_Range()-&gt;get_Fields()-&gt;LINQ_Where(isAutoNumLegal)))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>separator<sp/>character,<sp/>which<sp/>appears<sp/>in<sp/>the<sp/>field<sp/>result<sp/>immediately<sp/>after<sp/>the<sp/>number,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>is<sp/>a<sp/>full<sp/>stop<sp/>by<sp/>default.<sp/>If<sp/>we<sp/>leave<sp/>this<sp/>property<sp/>null,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>our<sp/>last<sp/>AUTONUMLGL<sp/>field<sp/>will<sp/>display<sp/>&quot;2.2.1.&quot;<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(field-&gt;get_SeparatorCharacter()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Setting<sp/>a<sp/>custom<sp/>separator<sp/>character<sp/>and<sp/>removing<sp/>the<sp/>trailing<sp/>period</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>will<sp/>change<sp/>that<sp/>field&apos;s<sp/>appearance<sp/>from<sp/>&quot;2.2.1.&quot;<sp/>to<sp/>&quot;2:2:1&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>apply<sp/>this<sp/>to<sp/>all<sp/>the<sp/>fields<sp/>that<sp/>we<sp/>have<sp/>created.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>field-&gt;set_SeparatorCharacter(u</highlight><highlight class="stringliteral">&quot;:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>field-&gt;set_RemoveTrailingPeriod(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>AUTONUMLGL<sp/><sp/>\\s<sp/>:<sp/>\\e&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.AUTONUMLGL.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertNumberedClause(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>heading,<sp/>String<sp/>contents,<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34" kindref="member" tooltip="Locale independent style identifier.">StyleIdentifier</ref><sp/>headingStyle)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca057a45a85def5ee89a72e5940cc6fd47" kindref="member" tooltip="Specifies the AUTONUMLGL field.">FieldType::FieldAutoNumLegal</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_CurrentParagraph()-&gt;get_ParagraphFormat()-&gt;set_StyleIdentifier(headingStyle);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(heading);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>text<sp/>will<sp/>belong<sp/>to<sp/>the<sp/>auto<sp/>num<sp/>legal<sp/>field<sp/>above<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>It<sp/>will<sp/>collapse<sp/>when<sp/>we<sp/>click<sp/>the<sp/>arrow<sp/>next<sp/>to<sp/>the<sp/>corresponding<sp/>AUTONUMLGL<sp/>field<sp/>in<sp/>Microsoft<sp/>Word.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_CurrentParagraph()-&gt;get_ParagraphFormat()-&gt;set_StyleIdentifier(<ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a4cfff2d57e16cda5e4256c5491568c58" kindref="member" tooltip="The Body Text style.">StyleIdentifier::BodyText</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(contents);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAutoNumLgl.h" line="291" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl_1a52257a3211f7f6b09ebe294e83f5f549" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldAutoNumLgl::set_RemoveTrailingPeriod</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_RemoveTrailingPeriod</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAutoNumLgl::set_RemoveTrailingPeriod</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl_1a4070d2684cc44eaf26469200bcd0bbc4" kindref="member">Aspose::Words::Fields::FieldAutoNumLgl::get_RemoveTrailingPeriod</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAutoNumLgl.h" line="210" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl_1a2c988f621050dbc35da774b8d24eb2a7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldAutoNumLgl::set_SeparatorCharacter</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_SeparatorCharacter</name>
+        <qualifiedname>Aspose::Words::Fields::FieldAutoNumLgl::set_SeparatorCharacter</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl_1acb03f70e2f20e1d9b345aba1c5bb4457" kindref="member">Aspose::Words::Fields::FieldAutoNumLgl::get_SeparatorCharacter</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldAutoNumLgl.h" line="294" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implements the AUTONUMLGL field. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to organize a document using AUTONUMLGL fields. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>FieldAutoNumLgl_()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>fillerText<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Lorem<sp/>ipsum<sp/>dolor<sp/>sit<sp/>amet,<sp/>consectetur<sp/>adipiscing<sp/>elit,<sp/>sed<sp/>do<sp/>eiusmod<sp/>tempor<sp/>incididunt<sp/>ut<sp/>labore<sp/>et<sp/>dolore<sp/>magna<sp/>aliqua.<sp/>&quot;</highlight><highlight class="normal">)<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;\nUt<sp/>enim<sp/>ad<sp/>minim<sp/>veniam,<sp/>quis<sp/>nostrud<sp/>exercitation<sp/>ullamco<sp/>laboris<sp/>nisi<sp/>ut<sp/>aliquip<sp/>ex<sp/>ea<sp/>commodo<sp/>consequat.<sp/>&quot;</highlight><highlight class="normal">;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>AUTONUMLGL<sp/>fields<sp/>display<sp/>a<sp/>number<sp/>that<sp/>increments<sp/>at<sp/>each<sp/>AUTONUMLGL<sp/>field<sp/>within<sp/>its<sp/>current<sp/>heading<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>These<sp/>fields<sp/>maintain<sp/>a<sp/>separate<sp/>count<sp/>for<sp/>each<sp/>heading<sp/>level,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>and<sp/>each<sp/>field<sp/>also<sp/>displays<sp/>the<sp/>AUTONUMLGL<sp/>field<sp/>counts<sp/>for<sp/>all<sp/>heading<sp/>levels<sp/>below<sp/>its<sp/>own.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Changing<sp/>the<sp/>count<sp/>for<sp/>any<sp/>heading<sp/>level<sp/>resets<sp/>the<sp/>counts<sp/>for<sp/>all<sp/>levels<sp/>above<sp/>that<sp/>level<sp/>to<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>allows<sp/>us<sp/>to<sp/>organize<sp/>our<sp/>document<sp/>in<sp/>the<sp/>form<sp/>of<sp/>an<sp/>outline<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>is<sp/>the<sp/>first<sp/>AUTONUMLGL<sp/>field<sp/>at<sp/>a<sp/>heading<sp/>level<sp/>of<sp/>1,<sp/>displaying<sp/>&quot;1.&quot;<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertNumberedClause(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\tHeading<sp/>1&quot;</highlight><highlight class="normal">,<sp/>fillerText,<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a87f33c2e9209edfc0333a264ec3085a2" kindref="member" tooltip="The Heading 1 style.">StyleIdentifier::Heading1</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>is<sp/>the<sp/>second<sp/>AUTONUMLGL<sp/>field<sp/>at<sp/>a<sp/>heading<sp/>level<sp/>of<sp/>1,<sp/>so<sp/>it<sp/>will<sp/>display<sp/>&quot;2.&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertNumberedClause(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\tHeading<sp/>2&quot;</highlight><highlight class="normal">,<sp/>fillerText,<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a87f33c2e9209edfc0333a264ec3085a2" kindref="member" tooltip="The Heading 1 style.">StyleIdentifier::Heading1</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>is<sp/>the<sp/>first<sp/>AUTONUMLGL<sp/>field<sp/>at<sp/>a<sp/>heading<sp/>level<sp/>of<sp/>2,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>and<sp/>the<sp/>AUTONUMLGL<sp/>count<sp/>for<sp/>the<sp/>heading<sp/>level<sp/>below<sp/>it<sp/>is<sp/>&quot;2&quot;,<sp/>so<sp/>it<sp/>will<sp/>display<sp/>&quot;2.1.&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertNumberedClause(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\tHeading<sp/>3&quot;</highlight><highlight class="normal">,<sp/>fillerText,<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34aa6bef18a8a766b5e3c9facc5b87ed2c8" kindref="member" tooltip="The Heading 2 style.">StyleIdentifier::Heading2</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>is<sp/>the<sp/>first<sp/>AUTONUMLGL<sp/>field<sp/>at<sp/>a<sp/>heading<sp/>level<sp/>of<sp/>3.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Working<sp/>in<sp/>the<sp/>same<sp/>way<sp/>as<sp/>the<sp/>field<sp/>above,<sp/>it<sp/>will<sp/>display<sp/>&quot;2.1.1.&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertNumberedClause(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\tHeading<sp/>4&quot;</highlight><highlight class="normal">,<sp/>fillerText,<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a5c20c643b1731618a5eddb7660b10a3e" kindref="member" tooltip="The Heading 3 style.">StyleIdentifier::Heading3</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>field<sp/>is<sp/>at<sp/>a<sp/>heading<sp/>level<sp/>of<sp/>2,<sp/>and<sp/>its<sp/>respective<sp/>AUTONUMLGL<sp/>count<sp/>is<sp/>at<sp/>2,<sp/>so<sp/>the<sp/>field<sp/>will<sp/>display<sp/>&quot;2.2.&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertNumberedClause(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\tHeading<sp/>5&quot;</highlight><highlight class="normal">,<sp/>fillerText,<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34aa6bef18a8a766b5e3c9facc5b87ed2c8" kindref="member" tooltip="The Heading 2 style.">StyleIdentifier::Heading2</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Incrementing<sp/>the<sp/>AUTONUMLGL<sp/>count<sp/>for<sp/>a<sp/>heading<sp/>level<sp/>below<sp/>this<sp/>one</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>has<sp/>reset<sp/>the<sp/>count<sp/>for<sp/>this<sp/>level<sp/>so<sp/>that<sp/>this<sp/>field<sp/>will<sp/>display<sp/>&quot;2.2.1.&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>InsertNumberedClause(builder,<sp/>u</highlight><highlight class="stringliteral">&quot;\tHeading<sp/>6&quot;</highlight><highlight class="normal">,<sp/>fillerText,<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a5c20c643b1731618a5eddb7660b10a3e" kindref="member" tooltip="The Heading 3 style.">StyleIdentifier::Heading3</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>isAutoNumLegal<sp/>=<sp/>[](SharedPtr&lt;Field&gt;<sp/>f)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>f-&gt;get_Type()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca057a45a85def5ee89a72e5940cc6fd47" kindref="member" tooltip="Specifies the AUTONUMLGL field.">FieldType::FieldAutoNumLegal</ref>;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>};</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>field<sp/>:<sp/>System::IterateOver&lt;FieldAutoNumLgl&gt;(doc-&gt;get_Range()-&gt;get_Fields()-&gt;LINQ_Where(isAutoNumLegal)))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>The<sp/>separator<sp/>character,<sp/>which<sp/>appears<sp/>in<sp/>the<sp/>field<sp/>result<sp/>immediately<sp/>after<sp/>the<sp/>number,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>is<sp/>a<sp/>full<sp/>stop<sp/>by<sp/>default.<sp/>If<sp/>we<sp/>leave<sp/>this<sp/>property<sp/>null,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>our<sp/>last<sp/>AUTONUMLGL<sp/>field<sp/>will<sp/>display<sp/>&quot;2.2.1.&quot;<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_TRUE(field-&gt;get_SeparatorCharacter()<sp/>==<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Setting<sp/>a<sp/>custom<sp/>separator<sp/>character<sp/>and<sp/>removing<sp/>the<sp/>trailing<sp/>period</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>will<sp/>change<sp/>that<sp/>field&apos;s<sp/>appearance<sp/>from<sp/>&quot;2.2.1.&quot;<sp/>to<sp/>&quot;2:2:1&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>apply<sp/>this<sp/>to<sp/>all<sp/>the<sp/>fields<sp/>that<sp/>we<sp/>have<sp/>created.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>field-&gt;set_SeparatorCharacter(u</highlight><highlight class="stringliteral">&quot;:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>field-&gt;set_RemoveTrailingPeriod(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>AUTONUMLGL<sp/><sp/>\\s<sp/>:<sp/>\\e&quot;</highlight><highlight class="normal">,<sp/>field-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.AUTONUMLGL.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">static</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>InsertNumberedClause(SharedPtr&lt;DocumentBuilder&gt;<sp/>builder,<sp/>String<sp/>heading,<sp/>String<sp/>contents,<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34" kindref="member" tooltip="Locale independent style identifier.">StyleIdentifier</ref><sp/>headingStyle)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca057a45a85def5ee89a72e5940cc6fd47" kindref="member" tooltip="Specifies the AUTONUMLGL field.">FieldType::FieldAutoNumLegal</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_CurrentParagraph()-&gt;get_ParagraphFormat()-&gt;set_StyleIdentifier(headingStyle);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(heading);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>text<sp/>will<sp/>belong<sp/>to<sp/>the<sp/>auto<sp/>num<sp/>legal<sp/>field<sp/>above<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>It<sp/>will<sp/>collapse<sp/>when<sp/>we<sp/>click<sp/>the<sp/>arrow<sp/>next<sp/>to<sp/>the<sp/>corresponding<sp/>AUTONUMLGL<sp/>field<sp/>in<sp/>Microsoft<sp/>Word.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_CurrentParagraph()-&gt;get_ParagraphFormat()-&gt;set_StyleIdentifier(<ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a4cfff2d57e16cda5e4256c5491568c58" kindref="member" tooltip="The Body Text style.">StyleIdentifier::BodyText</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(contents);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldAutoNumLgl</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldAutoNumLgl</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/FieldAutoNumLgl.h" line="117" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldAutoNumLgl.h" bodystart="118" bodyend="306"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl_1acca27029113e30d7fa090a63e5ca5e65" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl_1a5ea62a4ce657bc824fc56ce8c5b2cca4" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a5c2d01019c517ea8098f296903e37a34" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>get_DisplayResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad5f0995c85cce833806e847cf25809b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a399c14463916724cac0015b430175589" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>get_FieldEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abc40cddc1325f7fec80d8530e5287448" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>get_FieldStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a090c5d09915e2ead6cc54fda736dd7c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>get_Format</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ae68851d4a88a1fc867d3ddee2e4e88c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>get_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afda4c46db80761545c89e21aae5b717d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>get_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a93719d071099487b6aea1eaa241dd6e8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>get_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl_1a4070d2684cc44eaf26469200bcd0bbc4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>get_RemoveTrailingPeriod</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a012c93472901dc077815970a9b2ab650" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>get_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abbc83ad66d5fb391a21980126ea96847" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>get_Separator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl_1acb03f70e2f20e1d9b345aba1c5bb4457" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>get_SeparatorCharacter</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afa7cd5d4cf1a87b05058982f26786456" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad68196653db5cfca30c1ba18ed44c76e" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl_1abeec083b056f77ec75c99c95d7030b4d" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>GetFakeResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa40bc0e4a5be11f0df785cc8bb2ff042" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl_1a61d29d26c3ff657b080b8fc109872d22" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>GetSwitchType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad26a8021af3dbdc5bf0a1360a201222f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl_1a3b4de4d7eed7deb3957c3814f03ea226" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa637d825865724665fb8ed856e664d95" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>set_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ac70b125adbe7f0ba5b889280cd282c47" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>set_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a165f748dd5ba33844f1d765f6c710f88" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>set_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl_1a52257a3211f7f6b09ebe294e83f5f549" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>set_RemoveTrailingPeriod</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa6af1e900c84ae806f071098dfe8f087" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>set_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl_1a2c988f621050dbc35da774b8d24eb2a7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>set_SeparatorCharacter</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl_1a389915e5d7573b4041a1be6c441c6807" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl_1af6e781292c24e6de496046d603a14113" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab9f908becb16b26bed76d58dbcee9929" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>Unlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aaec82418b2b6493aa2827b8e282b2e82" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a1298d7daa07c863bf97cb3f37a4d7a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_auto_num_lgl_1a0e52fed6f945cd414728767d7cf63698" prot="private" virt="virtual"><scope>Aspose::Words::Fields::FieldAutoNumLgl</scope><name>~FieldAutoNumLgl</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

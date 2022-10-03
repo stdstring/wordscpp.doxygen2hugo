@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry_collection" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Drawing::Charts::ChartLegendEntryCollection</compoundname>
+    <basecompoundref refid="class/system.collections.generic.i_enumerable/" prot="public" virt="non-virtual">System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Drawing::Charts::ChartLegendEntry &gt; &gt;</basecompoundref>
+    <includes refid="_chart_legend_entry_collection_8h" local="no">Aspose.Words.Cpp/Drawing/Charts/ChartLegendEntryCollection.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry_collection_1a227791eb47e1ca1df019aaa231daeaa7" prot="private" static="no">
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry" kindref="compound">Aspose::Words::Drawing::Charts::ChartLegendEntry</ref> &gt; &gt;</type>
+        <definition>typedef System::Collections::Generic::IEnumerable&lt;System::SharedPtr&lt;Aspose::Words::Drawing::Charts::ChartLegendEntry&gt; &gt; Aspose::Words::Drawing::Charts::ChartLegendEntryCollection::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegendEntryCollection::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegendEntryCollection.h" line="50" column="55" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartLegendEntryCollection.h" bodystart="50" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry_collection_1ac81f079a162df9cb2af37eb90f2d2c55" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry_collection" kindref="compound">ChartLegendEntryCollection</ref></type>
+        <definition>typedef ChartLegendEntryCollection Aspose::Words::Drawing::Charts::ChartLegendEntryCollection::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegendEntryCollection::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegendEntryCollection.h" line="49" column="40" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartLegendEntryCollection.h" bodystart="49" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry_collection_1a95e74e0a6cc3ca764d5c9ac966a01939" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Drawing::Charts::ChartLegendEntryCollection::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegendEntryCollection::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegendEntryCollection.h" line="52" column="37" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartLegendEntryCollection.h" bodystart="52" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry_collection_1ab202f964476aca6f85666b9900ba7f60" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartLegendEntryCollection::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegendEntryCollection::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegendEntryCollection.h" line="74" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartLegendEntryCollection.h" bodystart="74" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry_collection_1a5ec467ed47f559c284115cf27c308483" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartLegendEntryCollection::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegendEntryCollection::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegendEntryCollection.h" line="75" column="21" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartLegendEntryCollection.h" bodystart="75" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry_collection_1ab9ef7c486e12b835886847118b415d80" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Drawing::Charts::ChartLegendEntryCollection::~ChartLegendEntryCollection</definition>
+        <argsstring>()</argsstring>
+        <name>~ChartLegendEntryCollection</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegendEntryCollection::~ChartLegendEntryCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegendEntryCollection.h" line="70" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry_collection_1aea1507aa3b2f5bc450d111dfe3cfd670" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Drawing::Charts::ChartLegendEntryCollection::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegendEntryCollection::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegendEntryCollection.h" line="53" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry_collection_1a3e34356382dc3116741d053a01ba1e88" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Drawing::Charts::ChartLegendEntryCollection::get_Count</definition>
+        <argsstring>()</argsstring>
+        <name>get_Count</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegendEntryCollection::get_Count</qualifiedname>
+        <briefdescription>
+<para>Returns the number of <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry" kindref="compound">ChartLegendEntry</ref> in this collection. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegendEntryCollection.h" line="60" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry_collection_1acd43c9d4903864019248532f63e500ca" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry" kindref="compound">Aspose::Words::Drawing::Charts::ChartLegendEntry</ref> &gt; &gt; &gt;</type>
+        <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::SharedPtr&lt; Aspose::Words::Drawing::Charts::ChartLegendEntry &gt; &gt; &gt; Aspose::Words::Drawing::Charts::ChartLegendEntryCollection::GetEnumerator</definition>
+        <argsstring>() override</argsstring>
+        <name>GetEnumerator</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegendEntryCollection::GetEnumerator</qualifiedname>
+        <briefdescription>
+<para>Returns an enumerator object. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegendEntryCollection.h" line="63" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry_collection_1ad89d409d15679de77da5fe09665c45ff" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry" kindref="compound">Aspose::Words::Drawing::Charts::ChartLegendEntry</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::Charts::ChartLegendEntry &gt; Aspose::Words::Drawing::Charts::ChartLegendEntryCollection::idx_get</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>idx_get</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartLegendEntryCollection::idx_get</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Returns <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry" kindref="compound">ChartLegendEntry</ref> for the specified index. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegendEntryCollection.h" line="66" column="26"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents a collection of chart legend entries. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Drawing::Charts::ChartLegendEntryCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Drawing::Charts::ChartLegendEntry &gt; &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Drawing::Charts::ChartLegendEntryCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Drawing::Charts::ChartLegendEntry &gt; &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Drawing/Charts/ChartLegendEntryCollection.h" line="47" column="1" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartLegendEntryCollection.h" bodystart="48" bodyend="77"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry_collection_1a227791eb47e1ca1df019aaa231daeaa7" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegendEntryCollection</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry_collection_1a3e34356382dc3116741d053a01ba1e88" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegendEntryCollection</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry_collection_1acd43c9d4903864019248532f63e500ca" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegendEntryCollection</scope><name>GetEnumerator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry_collection_1ad89d409d15679de77da5fe09665c45ff" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegendEntryCollection</scope><name>idx_get</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry_collection_1ab202f964476aca6f85666b9900ba7f60" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegendEntryCollection</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry_collection_1a5ec467ed47f559c284115cf27c308483" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegendEntryCollection</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry_collection_1aea1507aa3b2f5bc450d111dfe3cfd670" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegendEntryCollection</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry_collection_1ac81f079a162df9cb2af37eb90f2d2c55" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegendEntryCollection</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry_collection_1a95e74e0a6cc3ca764d5c9ac966a01939" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegendEntryCollection</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_legend_entry_collection_1ab9ef7c486e12b835886847118b415d80" prot="private" virt="virtual"><scope>Aspose::Words::Drawing::Charts::ChartLegendEntryCollection</scope><name>~ChartLegendEntryCollection</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

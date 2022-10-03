@@ -1,0 +1,1226 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Drawing::OleFormat</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_ole_format_8h" local="no">Aspose.Words.Cpp/Drawing/OleFormat.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1ad9cbef555e712bbe79efb95e582ce465" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Drawing::OleFormat::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="93" column="28" bodyfile="Aspose.Words.Cpp/Drawing/OleFormat.h" bodystart="93" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a08adbd257db0a70e0a295b23f05b3904" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format" kindref="compound">OleFormat</ref></type>
+        <definition>typedef OleFormat Aspose::Words::Drawing::OleFormat::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="92" column="23" bodyfile="Aspose.Words.Cpp/Drawing/OleFormat.h" bodystart="92" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a5ada9e1e1483ba93a3432f38bf3b0fb4" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Drawing::OleFormat::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="95" column="37" bodyfile="Aspose.Words.Cpp/Drawing/OleFormat.h" bodystart="95" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a9ac8eac638c78518d33e58eb72ca51bf" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::Drawing::OleFormat::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="828" column="21" bodyfile="Aspose.Words.Cpp/Drawing/OleFormat.h" bodystart="828" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1acd45003e745b8428c5d1d31cb9352be8" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::OleFormat::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="829" column="23" bodyfile="Aspose.Words.Cpp/Drawing/OleFormat.h" bodystart="829" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a728064fc5be092da8a9f472a70d6a0b4" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::OleFormat::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="830" column="23" bodyfile="Aspose.Words.Cpp/Drawing/OleFormat.h" bodystart="830" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a22a6b6bfebfead12bd630a4f3e7c0215" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::OleFormat::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="831" column="23" bodyfile="Aspose.Words.Cpp/Drawing/OleFormat.h" bodystart="831" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a83b42f9817934fed544c03f3e7d863ac" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Drawing::OleFormat::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="96" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a8513d21e507afc1d392dc5341452c06e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Drawing::OleFormat::get_AutoUpdate</definition>
+        <argsstring>()</argsstring>
+        <name>get_AutoUpdate</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::get_AutoUpdate</qualifiedname>
+        <briefdescription>
+<para>Specifies whether the link to the OLE object is automatically updated or not in Microsoft Word. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The default value is <bold>false</bold>.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to extract embedded OLE objects into files. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OLE<sp/>spreadsheet.docm&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>shape<sp/>=<sp/>System::DynamicCast&lt;Shape&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>OLE<sp/>object<sp/>in<sp/>the<sp/>first<sp/>shape<sp/>is<sp/>a<sp/>Microsoft<sp/>Excel<sp/>spreadsheet.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;OleFormat&gt;<sp/>oleFormat<sp/>=<sp/>shape-&gt;get_OleFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Excel.Sheet.12&quot;</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_ProgId());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>object<sp/>is<sp/>neither<sp/>auto<sp/>updating<sp/>nor<sp/>locked<sp/>from<sp/>updates.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(oleFormat-&gt;get_AutoUpdate());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_IsLocked());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>plan<sp/>on<sp/>saving<sp/>the<sp/>OLE<sp/>object<sp/>to<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>we<sp/>can<sp/>use<sp/>the<sp/>&quot;SuggestedExtension&quot;<sp/>property<sp/>to<sp/>determine<sp/>which<sp/>file<sp/>extension<sp/>to<sp/>apply<sp/>to<sp/>the<sp/>file.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;.xlsx&quot;</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_SuggestedExtension());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>saving<sp/>an<sp/>OLE<sp/>object<sp/>to<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Save<sp/>it<sp/>via<sp/>a<sp/>stream:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fs<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OLE<sp/>spreadsheet<sp/>extracted<sp/>via<sp/>stream&quot;</highlight><highlight class="normal"><sp/>+<sp/>oleFormat-&gt;get_SuggestedExtension(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>System::IO::FileMode::Create);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>oleFormat-&gt;Save(fs);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Save<sp/>it<sp/>directly<sp/>to<sp/>a<sp/>filename:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">oleFormat-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OLE<sp/>spreadsheet<sp/>saved<sp/>directly&quot;</highlight><highlight class="normal"><sp/>+<sp/>oleFormat-&gt;get_SuggestedExtension());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="470" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1abafb20a9d2f55a0d3578133bd84811a7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.guid/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Guid</ref></type>
+        <definition>System::Guid Aspose::Words::Drawing::OleFormat::get_Clsid</definition>
+        <argsstring>()</argsstring>
+        <name>get_Clsid</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::get_Clsid</qualifiedname>
+        <briefdescription>
+<para>Gets the CLSID of the OLE object. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access an OLE control embedded in a document and its child controls. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OLE<sp/>ActiveX<sp/>controls.docm&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Shapes<sp/>store<sp/>and<sp/>display<sp/>OLE<sp/>objects<sp/>in<sp/>the<sp/>document&apos;s<sp/>body.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>shape<sp/>=<sp/>System::DynamicCast&lt;Shape&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;6e182020-f460-11ce-9bcd-00aa00608e01&quot;</highlight><highlight class="normal">,<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(shape-&gt;get_OleFormat()-&gt;get_Clsid()));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>oleControl<sp/>=<sp/>System::DynamicCast&lt;Forms2OleControl&gt;(shape-&gt;get_OleFormat()-&gt;get_OleControl());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Some<sp/>OLE<sp/>controls<sp/>may<sp/>contain<sp/>child<sp/>controls,<sp/>such<sp/>as<sp/>the<sp/>one<sp/>in<sp/>this<sp/>document<sp/>with<sp/>three<sp/>options<sp/>buttons.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Forms2OleControlCollection&gt;<sp/>oleControlCollection<sp/>=<sp/>oleControl-&gt;get_ChildNodes();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>oleControlCollection-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;C#&quot;</highlight><highlight class="normal">,<sp/>oleControlCollection-&gt;idx_get(0)-&gt;get_Caption());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;1&quot;</highlight><highlight class="normal">,<sp/>oleControlCollection-&gt;idx_get(0)-&gt;get_Value());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Visual<sp/>Basic&quot;</highlight><highlight class="normal">,<sp/>oleControlCollection-&gt;idx_get(1)-&gt;get_Caption());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;0&quot;</highlight><highlight class="normal">,<sp/>oleControlCollection-&gt;idx_get(1)-&gt;get_Value());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Delphi&quot;</highlight><highlight class="normal">,<sp/>oleControlCollection-&gt;idx_get(2)-&gt;get_Caption());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;0&quot;</highlight><highlight class="normal">,<sp/>oleControlCollection-&gt;idx_get(2)-&gt;get_Value());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="603" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1ab647771f463c7ef713813781f8322b7a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Drawing::OleFormat::get_IconCaption</definition>
+        <argsstring>()</argsstring>
+        <name>get_IconCaption</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::get_IconCaption</qualifiedname>
+        <briefdescription>
+<para>Gets icon caption of OLE object. In case of OLE object is not embedded as icon or caption couldn&apos;t be retrieved returns empty string. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert linked and unlinked OLE objects. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Embed<sp/>a<sp/>Microsoft<sp/>Visio<sp/>drawing<sp/>into<sp/>the<sp/>document<sp/>as<sp/>an<sp/>OLE<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertOleObject(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Visio<sp/>drawing.vsd&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Package&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>link<sp/>to<sp/>the<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system<sp/>and<sp/>display<sp/>it<sp/>as<sp/>an<sp/>icon.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertOleObject(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Visio<sp/>drawing.vsd&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Package&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Inserting<sp/>OLE<sp/>objects<sp/>creates<sp/>shapes<sp/>that<sp/>store<sp/>these<sp/>objects.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;Shape&gt;&gt;<sp/>shapes<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;LINQ_OfType&lt;SharedPtr&lt;Shape&gt;&gt;()-&gt;LINQ_ToArray();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>shapes-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>isOleObject<sp/>=<sp/>[](SharedPtr&lt;Shape&gt;<sp/>s)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>s-&gt;get_ShapeType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bcca47761aa09d9484702fdbb3afc34d9beb" kindref="member" tooltip="The shape is an OLE object. You cannot create shapes of this type in the document.">ShapeType::OleObject</ref>;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>shapes-&gt;LINQ_Count(isOleObject));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>a<sp/>shape<sp/>contains<sp/>an<sp/>OLE<sp/>object,<sp/>it<sp/>will<sp/>have<sp/>a<sp/>valid<sp/>&quot;OleFormat&quot;<sp/>property,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>we<sp/>can<sp/>use<sp/>to<sp/>verify<sp/>some<sp/>aspects<sp/>of<sp/>the<sp/>shape.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;OleFormat&gt;<sp/>oleFormat<sp/>=<sp/>shapes[0]-&gt;get_OleFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_IsLink());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_OleIcon());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">oleFormat<sp/>=<sp/>shapes[1]-&gt;get_OleFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_IsLink());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_OleIcon());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(oleFormat-&gt;get_SourceFullName().EndsWith(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Images&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.i_o.path/_1a48b88536e6fb0566b1e1534de6fcb5ac" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::DirectorySeparatorChar</ref><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Visio<sp/>drawing.vsd&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_SourceItem());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Visio<sp/>drawing.vsd&quot;</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_IconCaption());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.OleLinks.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>object<sp/>contains<sp/>OLE<sp/>data,<sp/>we<sp/>can<sp/>access<sp/>it<sp/>using<sp/>a<sp/>stream.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::MemoryStream&gt;<sp/>stream<sp/>=<sp/>oleFormat-&gt;GetOleEntry(u</highlight><highlight class="stringliteral">&quot;\x0001&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;CompObj&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ArrayPtr&lt;uint8_t&gt;<sp/>oleEntryBytes<sp/>=<sp/>stream-&gt;ToArray();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(76,<sp/>oleEntryBytes-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="153" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a179317cdd1f4f5def0c60b28ec3fdc6e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Drawing::OleFormat::get_IsLink</definition>
+        <argsstring>()</argsstring>
+        <name>get_IsLink</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::get_IsLink</qualifiedname>
+        <briefdescription>
+<para>Returns true if the OLE object is linked (when <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a16b0c4157a57473e66fabc207aba00a9" kindref="member">SourceFullName</ref> is specified). </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert linked and unlinked OLE objects. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Embed<sp/>a<sp/>Microsoft<sp/>Visio<sp/>drawing<sp/>into<sp/>the<sp/>document<sp/>as<sp/>an<sp/>OLE<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertOleObject(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Visio<sp/>drawing.vsd&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Package&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>link<sp/>to<sp/>the<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system<sp/>and<sp/>display<sp/>it<sp/>as<sp/>an<sp/>icon.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertOleObject(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Visio<sp/>drawing.vsd&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Package&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Inserting<sp/>OLE<sp/>objects<sp/>creates<sp/>shapes<sp/>that<sp/>store<sp/>these<sp/>objects.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;Shape&gt;&gt;<sp/>shapes<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;LINQ_OfType&lt;SharedPtr&lt;Shape&gt;&gt;()-&gt;LINQ_ToArray();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>shapes-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>isOleObject<sp/>=<sp/>[](SharedPtr&lt;Shape&gt;<sp/>s)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>s-&gt;get_ShapeType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bcca47761aa09d9484702fdbb3afc34d9beb" kindref="member" tooltip="The shape is an OLE object. You cannot create shapes of this type in the document.">ShapeType::OleObject</ref>;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>shapes-&gt;LINQ_Count(isOleObject));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>a<sp/>shape<sp/>contains<sp/>an<sp/>OLE<sp/>object,<sp/>it<sp/>will<sp/>have<sp/>a<sp/>valid<sp/>&quot;OleFormat&quot;<sp/>property,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>we<sp/>can<sp/>use<sp/>to<sp/>verify<sp/>some<sp/>aspects<sp/>of<sp/>the<sp/>shape.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;OleFormat&gt;<sp/>oleFormat<sp/>=<sp/>shapes[0]-&gt;get_OleFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_IsLink());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_OleIcon());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">oleFormat<sp/>=<sp/>shapes[1]-&gt;get_OleFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_IsLink());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_OleIcon());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(oleFormat-&gt;get_SourceFullName().EndsWith(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Images&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.i_o.path/_1a48b88536e6fb0566b1e1534de6fcb5ac" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::DirectorySeparatorChar</ref><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Visio<sp/>drawing.vsd&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_SourceItem());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Visio<sp/>drawing.vsd&quot;</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_IconCaption());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.OleLinks.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>object<sp/>contains<sp/>OLE<sp/>data,<sp/>we<sp/>can<sp/>access<sp/>it<sp/>using<sp/>a<sp/>stream.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::MemoryStream&gt;<sp/>stream<sp/>=<sp/>oleFormat-&gt;GetOleEntry(u</highlight><highlight class="stringliteral">&quot;\x0001&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;CompObj&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ArrayPtr&lt;uint8_t&gt;<sp/>oleEntryBytes<sp/>=<sp/>stream-&gt;ToArray();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(76,<sp/>oleEntryBytes-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="309" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a70bd9fa7fc0a3447fb65ef772d85e7da" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Drawing::OleFormat::get_IsLocked</definition>
+        <argsstring>()</argsstring>
+        <name>get_IsLocked</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::get_IsLocked</qualifiedname>
+        <briefdescription>
+<para>Specifies whether the link to the OLE object is locked from updates. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The default value is <bold>false</bold>.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to extract embedded OLE objects into files. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OLE<sp/>spreadsheet.docm&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>shape<sp/>=<sp/>System::DynamicCast&lt;Shape&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>OLE<sp/>object<sp/>in<sp/>the<sp/>first<sp/>shape<sp/>is<sp/>a<sp/>Microsoft<sp/>Excel<sp/>spreadsheet.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;OleFormat&gt;<sp/>oleFormat<sp/>=<sp/>shape-&gt;get_OleFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Excel.Sheet.12&quot;</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_ProgId());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>object<sp/>is<sp/>neither<sp/>auto<sp/>updating<sp/>nor<sp/>locked<sp/>from<sp/>updates.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(oleFormat-&gt;get_AutoUpdate());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_IsLocked());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>plan<sp/>on<sp/>saving<sp/>the<sp/>OLE<sp/>object<sp/>to<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>we<sp/>can<sp/>use<sp/>the<sp/>&quot;SuggestedExtension&quot;<sp/>property<sp/>to<sp/>determine<sp/>which<sp/>file<sp/>extension<sp/>to<sp/>apply<sp/>to<sp/>the<sp/>file.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;.xlsx&quot;</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_SuggestedExtension());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>saving<sp/>an<sp/>OLE<sp/>object<sp/>to<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Save<sp/>it<sp/>via<sp/>a<sp/>stream:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fs<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OLE<sp/>spreadsheet<sp/>extracted<sp/>via<sp/>stream&quot;</highlight><highlight class="normal"><sp/>+<sp/>oleFormat-&gt;get_SuggestedExtension(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>System::IO::FileMode::Create);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>oleFormat-&gt;Save(fs);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Save<sp/>it<sp/>directly<sp/>to<sp/>a<sp/>filename:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">oleFormat-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OLE<sp/>spreadsheet<sp/>saved<sp/>directly&quot;</highlight><highlight class="normal"><sp/>+<sp/>oleFormat-&gt;get_SuggestedExtension());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="569" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a297addaf837d09ef2e99f131f0fa32e3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Drawing::Ole::OleControl &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::Ole::OleControl &gt; Aspose::Words::Drawing::OleFormat::get_OleControl</definition>
+        <argsstring>()</argsstring>
+        <name>get_OleControl</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::get_OleControl</qualifiedname>
+        <briefdescription>
+<para>Gets <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a297addaf837d09ef2e99f131f0fa32e3" kindref="member">OleControl</ref> objects if this OLE object is an ActiveX control. Otherwise this property is null. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to verify the properties of an ActiveX control. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;ActiveX<sp/>controls.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>shape<sp/>=<sp/>System::DynamicCast&lt;Shape&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;OleControl&gt;<sp/>oleControl<sp/>=<sp/>shape-&gt;get_OleFormat()-&gt;get_OleControl();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">,<sp/>oleControl-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(oleControl-&gt;get_IsForms2OleControl())</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>checkBox<sp/>=<sp/>System::DynamicCast&lt;Forms2OleControl&gt;(oleControl);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Первый&quot;</highlight><highlight class="normal">,<sp/>checkBox-&gt;get_Caption());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;0&quot;</highlight><highlight class="normal">,<sp/>checkBox-&gt;get_Value());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/>checkBox-&gt;get_Enabled());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(Forms2OleControlType::CheckBox,<sp/>checkBox-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">,<sp/>checkBox-&gt;get_ChildNodes());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="655" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a178610998167565c84622648f4a9c478" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Drawing::OleFormat::get_OleIcon</definition>
+        <argsstring>()</argsstring>
+        <name>get_OleIcon</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::get_OleIcon</qualifiedname>
+        <briefdescription>
+<para>Gets the draw aspect of the OLE object. When <bold>true</bold>, the OLE object is displayed as an icon. When <bold>false</bold>, the OLE object is displayed as content. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Aspose.Words does not allow to set this property to avoid confusion. If you were able to change the draw aspect in Aspose.Words, Microsoft Word would still display the OLE object in its original draw aspect until you edit or update the OLE object in Microsoft Word.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert linked and unlinked OLE objects. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Embed<sp/>a<sp/>Microsoft<sp/>Visio<sp/>drawing<sp/>into<sp/>the<sp/>document<sp/>as<sp/>an<sp/>OLE<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertOleObject(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Visio<sp/>drawing.vsd&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Package&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>link<sp/>to<sp/>the<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system<sp/>and<sp/>display<sp/>it<sp/>as<sp/>an<sp/>icon.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertOleObject(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Visio<sp/>drawing.vsd&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Package&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Inserting<sp/>OLE<sp/>objects<sp/>creates<sp/>shapes<sp/>that<sp/>store<sp/>these<sp/>objects.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;Shape&gt;&gt;<sp/>shapes<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;LINQ_OfType&lt;SharedPtr&lt;Shape&gt;&gt;()-&gt;LINQ_ToArray();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>shapes-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>isOleObject<sp/>=<sp/>[](SharedPtr&lt;Shape&gt;<sp/>s)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>s-&gt;get_ShapeType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bcca47761aa09d9484702fdbb3afc34d9beb" kindref="member" tooltip="The shape is an OLE object. You cannot create shapes of this type in the document.">ShapeType::OleObject</ref>;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>shapes-&gt;LINQ_Count(isOleObject));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>a<sp/>shape<sp/>contains<sp/>an<sp/>OLE<sp/>object,<sp/>it<sp/>will<sp/>have<sp/>a<sp/>valid<sp/>&quot;OleFormat&quot;<sp/>property,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>we<sp/>can<sp/>use<sp/>to<sp/>verify<sp/>some<sp/>aspects<sp/>of<sp/>the<sp/>shape.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;OleFormat&gt;<sp/>oleFormat<sp/>=<sp/>shapes[0]-&gt;get_OleFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_IsLink());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_OleIcon());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">oleFormat<sp/>=<sp/>shapes[1]-&gt;get_OleFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_IsLink());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_OleIcon());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(oleFormat-&gt;get_SourceFullName().EndsWith(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Images&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.i_o.path/_1a48b88536e6fb0566b1e1534de6fcb5ac" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::DirectorySeparatorChar</ref><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Visio<sp/>drawing.vsd&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_SourceItem());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Visio<sp/>drawing.vsd&quot;</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_IconCaption());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.OleLinks.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>object<sp/>contains<sp/>OLE<sp/>data,<sp/>we<sp/>can<sp/>access<sp/>it<sp/>using<sp/>a<sp/>stream.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::MemoryStream&gt;<sp/>stream<sp/>=<sp/>oleFormat-&gt;GetOleEntry(u</highlight><highlight class="stringliteral">&quot;\x0001&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;CompObj&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ArrayPtr&lt;uint8_t&gt;<sp/>oleEntryBytes<sp/>=<sp/>stream-&gt;ToArray();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(76,<sp/>oleEntryBytes-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="532" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1ab8242a29ed0da621eba0a67624f3afee" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_package" kindref="compound">Aspose::Words::Drawing::OlePackage</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::OlePackage &gt; Aspose::Words::Drawing::OleFormat::get_OlePackage</definition>
+        <argsstring>()</argsstring>
+        <name>get_OlePackage</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::get_OlePackage</qualifiedname>
+        <briefdescription>
+<para>Provide access to <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_package" kindref="compound">OlePackage</ref> if OLE object is an OLE Package. Returns null otherwise. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how insert an OLE object into a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>OLE<sp/>objects<sp/>allow<sp/>us<sp/>to<sp/>open<sp/>other<sp/>files<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system<sp/>using<sp/>another<sp/>installed<sp/>application</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>in<sp/>our<sp/>operating<sp/>system<sp/>by<sp/>double-clicking<sp/>on<sp/>the<sp/>shape<sp/>that<sp/>contains<sp/>the<sp/>OLE<sp/>object<sp/>in<sp/>the<sp/>document<sp/>body.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>our<sp/>external<sp/>file<sp/>will<sp/>be<sp/>a<sp/>ZIP<sp/>archive.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;uint8_t&gt;<sp/>zipFileBytes<sp/>=<sp/><ref refid="class/system.i_o.file/_1abdf236ad2f3924d0fc9259f8f715a5c4" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::ReadAllBytes</ref>(DatabaseDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;cat001.zip&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>stream<sp/>=<sp/>MakeObject&lt;System::IO::MemoryStream&gt;(zipFileBytes);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertOleObject(stream,<sp/>u</highlight><highlight class="stringliteral">&quot;Package&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>shape-&gt;get_OleFormat()-&gt;get_OlePackage()-&gt;set_FileName(u</highlight><highlight class="stringliteral">&quot;Package<sp/>file<sp/>name.zip&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>shape-&gt;get_OleFormat()-&gt;get_OlePackage()-&gt;set_DisplayName(u</highlight><highlight class="stringliteral">&quot;Package<sp/>display<sp/>name.zip&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.InsertOlePackage.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="630" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a8ccb72f152b9c0e46d254263dca9580a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Drawing::OleFormat::get_ProgId</definition>
+        <argsstring>()</argsstring>
+        <name>get_ProgId</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::get_ProgId</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the ProgID of the OLE object. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The ProgID property is not always present in Microsoft Word documents and cannot be relied upon.</para>
+<para>Cannot be null.</para>
+<para>The default value is an empty string.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to extract embedded OLE objects into files. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OLE<sp/>spreadsheet.docm&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>shape<sp/>=<sp/>System::DynamicCast&lt;Shape&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>OLE<sp/>object<sp/>in<sp/>the<sp/>first<sp/>shape<sp/>is<sp/>a<sp/>Microsoft<sp/>Excel<sp/>spreadsheet.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;OleFormat&gt;<sp/>oleFormat<sp/>=<sp/>shape-&gt;get_OleFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Excel.Sheet.12&quot;</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_ProgId());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>object<sp/>is<sp/>neither<sp/>auto<sp/>updating<sp/>nor<sp/>locked<sp/>from<sp/>updates.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(oleFormat-&gt;get_AutoUpdate());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_IsLocked());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>plan<sp/>on<sp/>saving<sp/>the<sp/>OLE<sp/>object<sp/>to<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>we<sp/>can<sp/>use<sp/>the<sp/>&quot;SuggestedExtension&quot;<sp/>property<sp/>to<sp/>determine<sp/>which<sp/>file<sp/>extension<sp/>to<sp/>apply<sp/>to<sp/>the<sp/>file.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;.xlsx&quot;</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_SuggestedExtension());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>saving<sp/>an<sp/>OLE<sp/>object<sp/>to<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Save<sp/>it<sp/>via<sp/>a<sp/>stream:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fs<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OLE<sp/>spreadsheet<sp/>extracted<sp/>via<sp/>stream&quot;</highlight><highlight class="normal"><sp/>+<sp/>oleFormat-&gt;get_SuggestedExtension(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>System::IO::FileMode::Create);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>oleFormat-&gt;Save(fs);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Save<sp/>it<sp/>directly<sp/>to<sp/>a<sp/>filename:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">oleFormat-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OLE<sp/>spreadsheet<sp/>saved<sp/>directly&quot;</highlight><highlight class="normal"><sp/>+<sp/>oleFormat-&gt;get_SuggestedExtension());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="252" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a16b0c4157a57473e66fabc207aba00a9" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Drawing::OleFormat::get_SourceFullName</definition>
+        <argsstring>()</argsstring>
+        <name>get_SourceFullName</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::get_SourceFullName</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the path and name of the source file for the linked OLE object. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The default value is an empty string.</para>
+<para>If <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a16b0c4157a57473e66fabc207aba00a9" kindref="member">SourceFullName</ref> is not an empty string, the OLE object is linked.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert linked and unlinked OLE objects. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Embed<sp/>a<sp/>Microsoft<sp/>Visio<sp/>drawing<sp/>into<sp/>the<sp/>document<sp/>as<sp/>an<sp/>OLE<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertOleObject(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Visio<sp/>drawing.vsd&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Package&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>link<sp/>to<sp/>the<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system<sp/>and<sp/>display<sp/>it<sp/>as<sp/>an<sp/>icon.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertOleObject(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Visio<sp/>drawing.vsd&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Package&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Inserting<sp/>OLE<sp/>objects<sp/>creates<sp/>shapes<sp/>that<sp/>store<sp/>these<sp/>objects.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;Shape&gt;&gt;<sp/>shapes<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;LINQ_OfType&lt;SharedPtr&lt;Shape&gt;&gt;()-&gt;LINQ_ToArray();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>shapes-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>isOleObject<sp/>=<sp/>[](SharedPtr&lt;Shape&gt;<sp/>s)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>s-&gt;get_ShapeType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bcca47761aa09d9484702fdbb3afc34d9beb" kindref="member" tooltip="The shape is an OLE object. You cannot create shapes of this type in the document.">ShapeType::OleObject</ref>;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>shapes-&gt;LINQ_Count(isOleObject));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>a<sp/>shape<sp/>contains<sp/>an<sp/>OLE<sp/>object,<sp/>it<sp/>will<sp/>have<sp/>a<sp/>valid<sp/>&quot;OleFormat&quot;<sp/>property,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>we<sp/>can<sp/>use<sp/>to<sp/>verify<sp/>some<sp/>aspects<sp/>of<sp/>the<sp/>shape.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;OleFormat&gt;<sp/>oleFormat<sp/>=<sp/>shapes[0]-&gt;get_OleFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_IsLink());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_OleIcon());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">oleFormat<sp/>=<sp/>shapes[1]-&gt;get_OleFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_IsLink());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_OleIcon());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(oleFormat-&gt;get_SourceFullName().EndsWith(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Images&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.i_o.path/_1a48b88536e6fb0566b1e1534de6fcb5ac" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::DirectorySeparatorChar</ref><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Visio<sp/>drawing.vsd&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_SourceItem());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Visio<sp/>drawing.vsd&quot;</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_IconCaption());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.OleLinks.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>object<sp/>contains<sp/>OLE<sp/>data,<sp/>we<sp/>can<sp/>access<sp/>it<sp/>using<sp/>a<sp/>stream.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::MemoryStream&gt;<sp/>stream<sp/>=<sp/>oleFormat-&gt;GetOleEntry(u</highlight><highlight class="stringliteral">&quot;\x0001&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;CompObj&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ArrayPtr&lt;uint8_t&gt;<sp/>oleEntryBytes<sp/>=<sp/>stream-&gt;ToArray();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(76,<sp/>oleEntryBytes-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="367" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a076846969f161b0ab9571b7b11945cea" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Drawing::OleFormat::get_SourceItem</definition>
+        <argsstring>()</argsstring>
+        <name>get_SourceItem</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::get_SourceItem</qualifiedname>
+        <briefdescription>
+<para>Gets or sets a string that is used to identify the portion of the source file that is being linked. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The default value is an empty string.</para>
+<para>For example, if the source file is a Microsoft Excel workbook, the <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a076846969f161b0ab9571b7b11945cea" kindref="member">SourceItem</ref> property might return &quot;Workbook1!R3C1:R4C2&quot; if the OLE object contains only a few cells from the worksheet.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert linked and unlinked OLE objects. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Embed<sp/>a<sp/>Microsoft<sp/>Visio<sp/>drawing<sp/>into<sp/>the<sp/>document<sp/>as<sp/>an<sp/>OLE<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertOleObject(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Visio<sp/>drawing.vsd&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Package&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>link<sp/>to<sp/>the<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system<sp/>and<sp/>display<sp/>it<sp/>as<sp/>an<sp/>icon.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertOleObject(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Visio<sp/>drawing.vsd&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Package&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Inserting<sp/>OLE<sp/>objects<sp/>creates<sp/>shapes<sp/>that<sp/>store<sp/>these<sp/>objects.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;Shape&gt;&gt;<sp/>shapes<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;LINQ_OfType&lt;SharedPtr&lt;Shape&gt;&gt;()-&gt;LINQ_ToArray();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>shapes-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>isOleObject<sp/>=<sp/>[](SharedPtr&lt;Shape&gt;<sp/>s)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>s-&gt;get_ShapeType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bcca47761aa09d9484702fdbb3afc34d9beb" kindref="member" tooltip="The shape is an OLE object. You cannot create shapes of this type in the document.">ShapeType::OleObject</ref>;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>shapes-&gt;LINQ_Count(isOleObject));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>a<sp/>shape<sp/>contains<sp/>an<sp/>OLE<sp/>object,<sp/>it<sp/>will<sp/>have<sp/>a<sp/>valid<sp/>&quot;OleFormat&quot;<sp/>property,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>we<sp/>can<sp/>use<sp/>to<sp/>verify<sp/>some<sp/>aspects<sp/>of<sp/>the<sp/>shape.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;OleFormat&gt;<sp/>oleFormat<sp/>=<sp/>shapes[0]-&gt;get_OleFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_IsLink());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_OleIcon());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">oleFormat<sp/>=<sp/>shapes[1]-&gt;get_OleFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_IsLink());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_OleIcon());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(oleFormat-&gt;get_SourceFullName().EndsWith(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Images&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.i_o.path/_1a48b88536e6fb0566b1e1534de6fcb5ac" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::DirectorySeparatorChar</ref><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Visio<sp/>drawing.vsd&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_SourceItem());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Visio<sp/>drawing.vsd&quot;</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_IconCaption());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.OleLinks.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>object<sp/>contains<sp/>OLE<sp/>data,<sp/>we<sp/>can<sp/>access<sp/>it<sp/>using<sp/>a<sp/>stream.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::MemoryStream&gt;<sp/>stream<sp/>=<sp/>oleFormat-&gt;GetOleEntry(u</highlight><highlight class="stringliteral">&quot;\x0001&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;CompObj&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ArrayPtr&lt;uint8_t&gt;<sp/>oleEntryBytes<sp/>=<sp/>stream-&gt;ToArray();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(76,<sp/>oleEntryBytes-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="430" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a9494e257e021185bfe2abea7c147780b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Drawing::OleFormat::get_SuggestedExtension</definition>
+        <argsstring>()</argsstring>
+        <name>get_SuggestedExtension</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::get_SuggestedExtension</qualifiedname>
+        <briefdescription>
+<para>Gets the file extension suggested for the current embedded object if you want to save it into a file. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to extract embedded OLE objects into files. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OLE<sp/>spreadsheet.docm&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>shape<sp/>=<sp/>System::DynamicCast&lt;Shape&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>OLE<sp/>object<sp/>in<sp/>the<sp/>first<sp/>shape<sp/>is<sp/>a<sp/>Microsoft<sp/>Excel<sp/>spreadsheet.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;OleFormat&gt;<sp/>oleFormat<sp/>=<sp/>shape-&gt;get_OleFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Excel.Sheet.12&quot;</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_ProgId());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>object<sp/>is<sp/>neither<sp/>auto<sp/>updating<sp/>nor<sp/>locked<sp/>from<sp/>updates.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(oleFormat-&gt;get_AutoUpdate());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_IsLocked());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>plan<sp/>on<sp/>saving<sp/>the<sp/>OLE<sp/>object<sp/>to<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>we<sp/>can<sp/>use<sp/>the<sp/>&quot;SuggestedExtension&quot;<sp/>property<sp/>to<sp/>determine<sp/>which<sp/>file<sp/>extension<sp/>to<sp/>apply<sp/>to<sp/>the<sp/>file.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;.xlsx&quot;</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_SuggestedExtension());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>saving<sp/>an<sp/>OLE<sp/>object<sp/>to<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Save<sp/>it<sp/>via<sp/>a<sp/>stream:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fs<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OLE<sp/>spreadsheet<sp/>extracted<sp/>via<sp/>stream&quot;</highlight><highlight class="normal"><sp/>+<sp/>oleFormat-&gt;get_SuggestedExtension(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>System::IO::FileMode::Create);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>oleFormat-&gt;Save(fs);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Save<sp/>it<sp/>directly<sp/>to<sp/>a<sp/>filename:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">oleFormat-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OLE<sp/>spreadsheet<sp/>saved<sp/>directly&quot;</highlight><highlight class="normal"><sp/>+<sp/>oleFormat-&gt;get_SuggestedExtension());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="188" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a67ebd5aacd3c7406cd967003f4656efa" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Drawing::OleFormat::get_SuggestedFileName</definition>
+        <argsstring>()</argsstring>
+        <name>get_SuggestedFileName</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::get_SuggestedFileName</qualifiedname>
+        <briefdescription>
+<para>Gets the file name suggested for the current embedded object if you want to save it into a file. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to get an OLE object&apos;s suggested file name. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OLE<sp/>shape.rtf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>oleShape<sp/>=<sp/>System::DynamicCast&lt;Shape&gt;(doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>OLE<sp/>objects<sp/>can<sp/>provide<sp/>a<sp/>suggested<sp/>filename<sp/>and<sp/>extension,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>we<sp/>can<sp/>use<sp/>when<sp/>saving<sp/>the<sp/>object&apos;s<sp/>contents<sp/>into<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>suggestedFileName<sp/>=<sp/>oleShape-&gt;get_OleFormat()-&gt;get_SuggestedFileName();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;CSV.csv&quot;</highlight><highlight class="normal">,<sp/>suggestedFileName);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fileStream<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>suggestedFileName,<sp/>System::IO::FileMode::Create);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>oleShape-&gt;get_OleFormat()-&gt;Save(fileStream);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="211" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a26ec76efc16d9451ee0795a3a61b9cd9" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.memory_stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::MemoryStream</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; System::IO::MemoryStream &gt; Aspose::Words::Drawing::OleFormat::GetOleEntry</definition>
+        <argsstring>(const System::String &amp;oleEntryName)</argsstring>
+        <name>GetOleEntry</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::GetOleEntry</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>oleEntryName</declname>
+        </param>
+        <briefdescription>
+<para>Gets OLE object data entry. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>oleEntryName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Case-sensitive name of the OLE data stream.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>An OLE data stream or null.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to insert linked and unlinked OLE objects. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Embed<sp/>a<sp/>Microsoft<sp/>Visio<sp/>drawing<sp/>into<sp/>the<sp/>document<sp/>as<sp/>an<sp/>OLE<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertOleObject(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Visio<sp/>drawing.vsd&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Package&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>link<sp/>to<sp/>the<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system<sp/>and<sp/>display<sp/>it<sp/>as<sp/>an<sp/>icon.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertOleObject(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Visio<sp/>drawing.vsd&quot;</highlight><highlight class="normal">,<sp/>u</highlight><highlight class="stringliteral">&quot;Package&quot;</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Inserting<sp/>OLE<sp/>objects<sp/>creates<sp/>shapes<sp/>that<sp/>store<sp/>these<sp/>objects.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;SharedPtr&lt;Shape&gt;&gt;<sp/>shapes<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;LINQ_OfType&lt;SharedPtr&lt;Shape&gt;&gt;()-&gt;LINQ_ToArray();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>shapes-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>isOleObject<sp/>=<sp/>[](SharedPtr&lt;Shape&gt;<sp/>s)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>s-&gt;get_ShapeType()<sp/>==<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bcca47761aa09d9484702fdbb3afc34d9beb" kindref="member" tooltip="The shape is an OLE object. You cannot create shapes of this type in the document.">ShapeType::OleObject</ref>;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>shapes-&gt;LINQ_Count(isOleObject));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>a<sp/>shape<sp/>contains<sp/>an<sp/>OLE<sp/>object,<sp/>it<sp/>will<sp/>have<sp/>a<sp/>valid<sp/>&quot;OleFormat&quot;<sp/>property,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>we<sp/>can<sp/>use<sp/>to<sp/>verify<sp/>some<sp/>aspects<sp/>of<sp/>the<sp/>shape.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;OleFormat&gt;<sp/>oleFormat<sp/>=<sp/>shapes[0]-&gt;get_OleFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_IsLink());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_OleIcon());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">oleFormat<sp/>=<sp/>shapes[1]-&gt;get_OleFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_IsLink());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">true</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_OleIcon());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(oleFormat-&gt;get_SourceFullName().EndsWith(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Images&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.i_o.path/_1a48b88536e6fb0566b1e1534de6fcb5ac" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::DirectorySeparatorChar</ref><sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Visio<sp/>drawing.vsd&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_SourceItem());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Microsoft<sp/>Visio<sp/>drawing.vsd&quot;</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_IconCaption());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.OleLinks.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>object<sp/>contains<sp/>OLE<sp/>data,<sp/>we<sp/>can<sp/>access<sp/>it<sp/>using<sp/>a<sp/>stream.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::MemoryStream&gt;<sp/>stream<sp/>=<sp/>oleFormat-&gt;GetOleEntry(u</highlight><highlight class="stringliteral">&quot;\x0001&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;CompObj&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ArrayPtr&lt;uint8_t&gt;<sp/>oleEntryBytes<sp/>=<sp/>stream-&gt;ToArray();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(76,<sp/>oleEntryBytes-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="793" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a543715cf656531b85fd05d569648a186" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt;</type>
+        <definition>System::ArrayPtr&lt; uint8_t &gt; Aspose::Words::Drawing::OleFormat::GetRawData</definition>
+        <argsstring>()</argsstring>
+        <name>GetRawData</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::GetRawData</qualifiedname>
+        <briefdescription>
+<para>Gets OLE object raw data. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access the raw data of an embedded OLE object. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OLE<sp/>objects.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>shape<sp/>:<sp/>System::IterateOver(doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;OleFormat&gt;<sp/>oleFormat<sp/>=<sp/>(System::DynamicCast&lt;Shape&gt;(shape))-&gt;get_OleFormat();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(oleFormat<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>(oleFormat-&gt;get_IsLink()<sp/>?<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;a<sp/>linked&quot;</highlight><highlight class="normal">)<sp/>:<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;an<sp/>embedded&quot;</highlight><highlight class="normal">))<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;<sp/>object&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ArrayPtr&lt;uint8_t&gt;<sp/>oleRawData<sp/>=<sp/>oleFormat-&gt;GetRawData();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_EQ(24576,<sp/>oleRawData-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="815" column="25"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a4874c86283d35a618814ff7e0ae869bd" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::OleFormat::Save</definition>
+        <argsstring>(const System::SharedPtr&lt; System::IO::Stream &gt; &amp;stream)</argsstring>
+        <name>Save</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::Save</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <declname>stream</declname>
+        </param>
+        <briefdescription>
+<para>Saves the data of the embedded object into the specified stream. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>It is the responsibility of the caller to dispose the stream.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>stream</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Where to save the object data.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System::InvalidOperationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Throws if you attempt to save a linked object.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to extract embedded OLE objects into files. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OLE<sp/>spreadsheet.docm&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>shape<sp/>=<sp/>System::DynamicCast&lt;Shape&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>OLE<sp/>object<sp/>in<sp/>the<sp/>first<sp/>shape<sp/>is<sp/>a<sp/>Microsoft<sp/>Excel<sp/>spreadsheet.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;OleFormat&gt;<sp/>oleFormat<sp/>=<sp/>shape-&gt;get_OleFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Excel.Sheet.12&quot;</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_ProgId());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>object<sp/>is<sp/>neither<sp/>auto<sp/>updating<sp/>nor<sp/>locked<sp/>from<sp/>updates.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(oleFormat-&gt;get_AutoUpdate());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_IsLocked());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>plan<sp/>on<sp/>saving<sp/>the<sp/>OLE<sp/>object<sp/>to<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>we<sp/>can<sp/>use<sp/>the<sp/>&quot;SuggestedExtension&quot;<sp/>property<sp/>to<sp/>determine<sp/>which<sp/>file<sp/>extension<sp/>to<sp/>apply<sp/>to<sp/>the<sp/>file.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;.xlsx&quot;</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_SuggestedExtension());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>saving<sp/>an<sp/>OLE<sp/>object<sp/>to<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Save<sp/>it<sp/>via<sp/>a<sp/>stream:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fs<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OLE<sp/>spreadsheet<sp/>extracted<sp/>via<sp/>stream&quot;</highlight><highlight class="normal"><sp/>+<sp/>oleFormat-&gt;get_SuggestedExtension(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>System::IO::FileMode::Create);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>oleFormat-&gt;Save(fs);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Save<sp/>it<sp/>directly<sp/>to<sp/>a<sp/>filename:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">oleFormat-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OLE<sp/>spreadsheet<sp/>saved<sp/>directly&quot;</highlight><highlight class="normal"><sp/>+<sp/>oleFormat-&gt;get_SuggestedExtension());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="696" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a694d6b6f68c87a14fed3218a210b2593" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::OleFormat::Save</definition>
+        <argsstring>(const System::String &amp;fileName)</argsstring>
+        <name>Save</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::Save</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>fileName</declname>
+        </param>
+        <briefdescription>
+<para>Saves the data of the embedded object into a file with the specified name. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>fileName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Name of the file to save the OLE object data.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<parameterlist kind="exception"><parameteritem>
+<parameternamelist>
+<parametername>System::InvalidOperationException</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Throws if you attempt to save a linked object.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to extract embedded OLE objects into files. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OLE<sp/>spreadsheet.docm&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>shape<sp/>=<sp/>System::DynamicCast&lt;Shape&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>OLE<sp/>object<sp/>in<sp/>the<sp/>first<sp/>shape<sp/>is<sp/>a<sp/>Microsoft<sp/>Excel<sp/>spreadsheet.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;OleFormat&gt;<sp/>oleFormat<sp/>=<sp/>shape-&gt;get_OleFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Excel.Sheet.12&quot;</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_ProgId());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>object<sp/>is<sp/>neither<sp/>auto<sp/>updating<sp/>nor<sp/>locked<sp/>from<sp/>updates.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(oleFormat-&gt;get_AutoUpdate());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_IsLocked());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>plan<sp/>on<sp/>saving<sp/>the<sp/>OLE<sp/>object<sp/>to<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>we<sp/>can<sp/>use<sp/>the<sp/>&quot;SuggestedExtension&quot;<sp/>property<sp/>to<sp/>determine<sp/>which<sp/>file<sp/>extension<sp/>to<sp/>apply<sp/>to<sp/>the<sp/>file.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;.xlsx&quot;</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_SuggestedExtension());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>saving<sp/>an<sp/>OLE<sp/>object<sp/>to<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Save<sp/>it<sp/>via<sp/>a<sp/>stream:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fs<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OLE<sp/>spreadsheet<sp/>extracted<sp/>via<sp/>stream&quot;</highlight><highlight class="normal"><sp/>+<sp/>oleFormat-&gt;get_SuggestedExtension(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>System::IO::FileMode::Create);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>oleFormat-&gt;Save(fs);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Save<sp/>it<sp/>directly<sp/>to<sp/>a<sp/>filename:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">oleFormat-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OLE<sp/>spreadsheet<sp/>saved<sp/>directly&quot;</highlight><highlight class="normal"><sp/>+<sp/>oleFormat-&gt;get_SuggestedExtension());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="735" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1ab4a61a5d03dd22f61968f2bf72e10e88" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename CharType</type>
+          </param>
+          <param>
+            <type>typename Traits</type>
+          </param>
+        </templateparamlist>
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::OleFormat::Save</definition>
+        <argsstring>(std::basic_ostream&lt; CharType, Traits &gt; &amp;stream)</argsstring>
+        <name>Save</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::Save</qualifiedname>
+        <param>
+          <type>std::basic_ostream&lt; CharType, Traits &gt; &amp;</type>
+          <declname>stream</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="818" column="10" bodyfile="Aspose.Words.Cpp/Drawing/OleFormat.h" bodystart="818" bodyend="822"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a94c5e337e5ca8c741cfd5f828625a605" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::OleFormat::set_AutoUpdate</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_AutoUpdate</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::set_AutoUpdate</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a8513d21e507afc1d392dc5341452c06e" kindref="member">Aspose::Words::Drawing::OleFormat::get_AutoUpdate</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="473" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a7e6fb5302436593c52826c10ce8807ed" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::OleFormat::set_IsLocked</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_IsLocked</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::set_IsLocked</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a70bd9fa7fc0a3447fb65ef772d85e7da" kindref="member">Aspose::Words::Drawing::OleFormat::get_IsLocked</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="572" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a5a732bc7c04a3e51e75032d2ef16702c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::OleFormat::set_ProgId</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ProgId</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::set_ProgId</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a8ccb72f152b9c0e46d254263dca9580a" kindref="member">Aspose::Words::Drawing::OleFormat::get_ProgId</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="255" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a93c24e9fff26996dccd1f332e73fd92f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::OleFormat::set_SourceFullName</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_SourceFullName</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::set_SourceFullName</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a16b0c4157a57473e66fabc207aba00a9" kindref="member">Aspose::Words::Drawing::OleFormat::get_SourceFullName</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="370" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1adf9b64b67de436c0e862d704b796080e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::OleFormat::set_SourceItem</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_SourceItem</name>
+        <qualifiedname>Aspose::Words::Drawing::OleFormat::set_SourceItem</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a076846969f161b0ab9571b7b11945cea" kindref="member">Aspose::Words::Drawing::OleFormat::get_SourceItem</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="433" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Provides access to the data of an OLE object or ActiveX control. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>Use the <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_1a4b7eb04ddf6e5df391b5a2251096f950" kindref="member">OleFormat</ref> property to access the data of an OLE object. You do not create instances of the <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format" kindref="compound">OleFormat</ref> class directly.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_1a4b7eb04ddf6e5df391b5a2251096f950" kindref="member">Aspose::Words::Drawing::Shape::get_OleFormat</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to extract embedded OLE objects into files. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OLE<sp/>spreadsheet.docm&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>shape<sp/>=<sp/>System::DynamicCast&lt;Shape&gt;(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379a880c1273b27d27cfc82004c3a4b205c9" kindref="member" tooltip="A drawing object, such as an OfficeArt shape, image or an OLE object. A Shape node can contain Paragr...">NodeType::Shape</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>OLE<sp/>object<sp/>in<sp/>the<sp/>first<sp/>shape<sp/>is<sp/>a<sp/>Microsoft<sp/>Excel<sp/>spreadsheet.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;OleFormat&gt;<sp/>oleFormat<sp/>=<sp/>shape-&gt;get_OleFormat();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Excel.Sheet.12&quot;</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_ProgId());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>object<sp/>is<sp/>neither<sp/>auto<sp/>updating<sp/>nor<sp/>locked<sp/>from<sp/>updates.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(oleFormat-&gt;get_AutoUpdate());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_IsLocked());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>plan<sp/>on<sp/>saving<sp/>the<sp/>OLE<sp/>object<sp/>to<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>we<sp/>can<sp/>use<sp/>the<sp/>&quot;SuggestedExtension&quot;<sp/>property<sp/>to<sp/>determine<sp/>which<sp/>file<sp/>extension<sp/>to<sp/>apply<sp/>to<sp/>the<sp/>file.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;.xlsx&quot;</highlight><highlight class="normal">,<sp/>oleFormat-&gt;get_SuggestedExtension());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>saving<sp/>an<sp/>OLE<sp/>object<sp/>to<sp/>a<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Save<sp/>it<sp/>via<sp/>a<sp/>stream:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fs<sp/>=<sp/>MakeObject&lt;System::IO::FileStream&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OLE<sp/>spreadsheet<sp/>extracted<sp/>via<sp/>stream&quot;</highlight><highlight class="normal"><sp/>+<sp/>oleFormat-&gt;get_SuggestedExtension(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>System::IO::FileMode::Create);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>oleFormat-&gt;Save(fs);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Save<sp/>it<sp/>directly<sp/>to<sp/>a<sp/>filename:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">oleFormat-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;OLE<sp/>spreadsheet<sp/>saved<sp/>directly&quot;</highlight><highlight class="normal"><sp/>+<sp/>oleFormat-&gt;get_SuggestedExtension());</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Drawing::OleFormat</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Drawing::OleFormat</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Drawing/OleFormat.h" line="90" column="1" bodyfile="Aspose.Words.Cpp/Drawing/OleFormat.h" bodystart="91" bodyend="833"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1ad9cbef555e712bbe79efb95e582ce465" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a8513d21e507afc1d392dc5341452c06e" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>get_AutoUpdate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1abafb20a9d2f55a0d3578133bd84811a7" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>get_Clsid</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1ab647771f463c7ef713813781f8322b7a" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>get_IconCaption</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a179317cdd1f4f5def0c60b28ec3fdc6e" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>get_IsLink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a70bd9fa7fc0a3447fb65ef772d85e7da" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>get_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a297addaf837d09ef2e99f131f0fa32e3" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>get_OleControl</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a178610998167565c84622648f4a9c478" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>get_OleIcon</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1ab8242a29ed0da621eba0a67624f3afee" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>get_OlePackage</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a8ccb72f152b9c0e46d254263dca9580a" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>get_ProgId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a16b0c4157a57473e66fabc207aba00a9" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>get_SourceFullName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a076846969f161b0ab9571b7b11945cea" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>get_SourceItem</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a9494e257e021185bfe2abea7c147780b" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>get_SuggestedExtension</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a67ebd5aacd3c7406cd967003f4656efa" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>get_SuggestedFileName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a26ec76efc16d9451ee0795a3a61b9cd9" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>GetOleEntry</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a543715cf656531b85fd05d569648a186" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>GetRawData</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a9ac8eac638c78518d33e58eb72ca51bf" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1acd45003e745b8428c5d1d31cb9352be8" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a728064fc5be092da8a9f472a70d6a0b4" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a22a6b6bfebfead12bd630a4f3e7c0215" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a83b42f9817934fed544c03f3e7d863ac" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a4874c86283d35a618814ff7e0ae869bd" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>Save</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a694d6b6f68c87a14fed3218a210b2593" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>Save</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1ab4a61a5d03dd22f61968f2bf72e10e88" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>Save</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a94c5e337e5ca8c741cfd5f828625a605" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>set_AutoUpdate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a7e6fb5302436593c52826c10ce8807ed" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>set_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a5a732bc7c04a3e51e75032d2ef16702c" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>set_ProgId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a93c24e9fff26996dccd1f332e73fd92f" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>set_SourceFullName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1adf9b64b67de436c0e862d704b796080e" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>set_SourceItem</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a08adbd257db0a70e0a295b23f05b3904" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_ole_format_1a5ada9e1e1483ba93a3432f38bf3b0fb4" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::OleFormat</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,716 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Drawing::GradientStopCollection</compoundname>
+    <basecompoundref refid="class/system.collections.generic.i_enumerable/" prot="public" virt="non-virtual">System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Drawing::GradientStop &gt; &gt;</basecompoundref>
+    <includes refid="_gradient_stop_collection_8h" local="no">Aspose.Words.Cpp/Drawing/GradientStopCollection.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a32802f0beadc4ef6e5cef2a3ab66d7d4" prot="private" static="no">
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop" kindref="compound">Aspose::Words::Drawing::GradientStop</ref> &gt; &gt;</type>
+        <definition>typedef System::Collections::Generic::IEnumerable&lt;System::SharedPtr&lt;Aspose::Words::Drawing::GradientStop&gt; &gt; Aspose::Words::Drawing::GradientStopCollection::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Drawing::GradientStopCollection::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GradientStopCollection.h" line="101" column="55" bodyfile="Aspose.Words.Cpp/Drawing/GradientStopCollection.h" bodystart="101" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a92f7e95cc94c91a165a49fe538891135" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection" kindref="compound">GradientStopCollection</ref></type>
+        <definition>typedef GradientStopCollection Aspose::Words::Drawing::GradientStopCollection::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Drawing::GradientStopCollection::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GradientStopCollection.h" line="100" column="36" bodyfile="Aspose.Words.Cpp/Drawing/GradientStopCollection.h" bodystart="100" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1ad186d6037bc1e2af0ad5eb7afc553a21" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Drawing::GradientStopCollection::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Drawing::GradientStopCollection::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GradientStopCollection.h" line="103" column="37" bodyfile="Aspose.Words.Cpp/Drawing/GradientStopCollection.h" bodystart="103" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1ab5b8fae18c886e480e1a443bd9d24122" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::GradientStopCollection::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Drawing::GradientStopCollection::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GradientStopCollection.h" line="492" column="23" bodyfile="Aspose.Words.Cpp/Drawing/GradientStopCollection.h" bodystart="492" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a921de1892d3480a110031e7baf7bde32" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::GradientStopCollection::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Drawing::GradientStopCollection::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GradientStopCollection.h" line="493" column="23" bodyfile="Aspose.Words.Cpp/Drawing/GradientStopCollection.h" bodystart="493" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a8666456686799b935adf3394b0a4847b" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::Drawing::GradientStopCollection::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Drawing::GradientStopCollection::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GradientStopCollection.h" line="494" column="21" bodyfile="Aspose.Words.Cpp/Drawing/GradientStopCollection.h" bodystart="494" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a4c0a80f3eda6ad58136ef714ca7c315b" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Drawing::GradientStopCollection::~GradientStopCollection</definition>
+        <argsstring>()</argsstring>
+        <name>~GradientStopCollection</name>
+        <qualifiedname>Aspose::Words::Drawing::GradientStopCollection::~GradientStopCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GradientStopCollection.h" line="488" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a2c76500e357606d22c05f9508ca9467e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Drawing::GradientStopCollection::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Drawing::GradientStopCollection::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GradientStopCollection.h" line="104" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a66d510dce8fb5512eb68dfe8dc764398" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop" kindref="compound">Aspose::Words::Drawing::GradientStop</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::GradientStop &gt; Aspose::Words::Drawing::GradientStopCollection::Add</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Drawing::GradientStop &gt; &amp;gradientStop)</argsstring>
+        <name>Add</name>
+        <qualifiedname>Aspose::Words::Drawing::GradientStopCollection::Add</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop" kindref="compound">Aspose::Words::Drawing::GradientStop</ref> &gt; &amp;</type>
+          <declname>gradientStop</declname>
+        </param>
+        <briefdescription>
+<para>Adds a specified <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop" kindref="compound">GradientStop</ref> to a gradient. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to add gradient stops to the gradient fill. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccace9291906a4c3b042650b70d7f3b152e" kindref="member">ShapeType::Rectangle</ref>,<sp/>80,<sp/>80);</highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;get_Fill()-&gt;TwoColorGradient(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>(),<sp/><ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>(),<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a610db2dc24cd10024dddc254b5992edbac1b5fa03ecdb95d4a45dd1c40b02527f" kindref="member" tooltip="Gradient running horizontally across an object.">GradientStyle::Horizontal</ref>,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1adab7b8aed778ae3af981575ce6809974a8cd748220218f0d12e403e8549ad2380" kindref="member" tooltip="Gradient variant 2.">GradientVariant::Variant2</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>gradient<sp/>stops<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;GradientStopCollection&gt;<sp/>gradientStops<sp/>=<sp/>shape-&gt;get_Fill()-&gt;get_GradientStops();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Change<sp/>first<sp/>gradient<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;idx_get(0)-&gt;set_Color(<ref refid="class/system.drawing.color/_1a64becea77333256af0d086fc505ec321" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Aqua</ref>());</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;idx_get(0)-&gt;set_Position(0.1);</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;idx_get(0)-&gt;set_Transparency(0.25);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>new<sp/>gradient<sp/>stop<sp/>to<sp/>the<sp/>end<sp/>of<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>gradientStop<sp/>=<sp/>MakeObject&lt;GradientStop&gt;(<ref refid="class/system.drawing.color/_1a035c988a5a98198427a396cb0b513ffd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Brown</ref>(),<sp/>0.5);</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;Add(gradientStop);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>gradient<sp/>stop<sp/>at<sp/>index<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;RemoveAt(1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>And<sp/>insert<sp/>new<sp/>gradient<sp/>stop<sp/>at<sp/>the<sp/>same<sp/>index<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;Insert(1,<sp/>MakeObject&lt;GradientStop&gt;(<ref refid="class/system.drawing.color/_1a0541ebcf092e84528a81ae6025b0622d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Chocolate</ref>(),<sp/>0.75,<sp/>0.3));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>last<sp/>gradient<sp/>stop<sp/>in<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStop<sp/>=<sp/>gradientStops-&gt;idx_get(2);</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;Remove(gradientStop);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>gradientStops-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a64becea77333256af0d086fc505ec321" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Aqua</ref>().ToArgb(),<sp/>gradientStops-&gt;idx_get(0)-&gt;get_Color().ToArgb());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.1,<sp/>gradientStops-&gt;idx_get(0)-&gt;get_Position(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.25,<sp/>gradientStops-&gt;idx_get(0)-&gt;get_Transparency(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a0541ebcf092e84528a81ae6025b0622d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Chocolate</ref>().ToArgb(),<sp/>gradientStops-&gt;idx_get(1)-&gt;get_Color().ToArgb());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.75,<sp/>gradientStops-&gt;idx_get(1)-&gt;get_Position(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.3,<sp/>gradientStops-&gt;idx_get(1)-&gt;get_Transparency(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>compliance<sp/>option<sp/>to<sp/>define<sp/>the<sp/>shape<sp/>using<sp/>DML</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>if<sp/>you<sp/>want<sp/>to<sp/>get<sp/>&quot;GradientStops&quot;<sp/>property<sp/>after<sp/>the<sp/>document<sp/>saves.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;OoxmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_Compliance(OoxmlCompliance::Iso29500_2008_Strict);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.GradientStops.docx&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GradientStopCollection.h" line="371" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a35012402edc49d92a8bd62b0691c9dd6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Drawing::GradientStopCollection::get_Count</definition>
+        <argsstring>()</argsstring>
+        <name>get_Count</name>
+        <qualifiedname>Aspose::Words::Drawing::GradientStopCollection::get_Count</qualifiedname>
+        <briefdescription>
+<para>Gets an integer value indicating the number of items in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to add gradient stops to the gradient fill. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccace9291906a4c3b042650b70d7f3b152e" kindref="member">ShapeType::Rectangle</ref>,<sp/>80,<sp/>80);</highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;get_Fill()-&gt;TwoColorGradient(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>(),<sp/><ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>(),<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a610db2dc24cd10024dddc254b5992edbac1b5fa03ecdb95d4a45dd1c40b02527f" kindref="member" tooltip="Gradient running horizontally across an object.">GradientStyle::Horizontal</ref>,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1adab7b8aed778ae3af981575ce6809974a8cd748220218f0d12e403e8549ad2380" kindref="member" tooltip="Gradient variant 2.">GradientVariant::Variant2</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>gradient<sp/>stops<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;GradientStopCollection&gt;<sp/>gradientStops<sp/>=<sp/>shape-&gt;get_Fill()-&gt;get_GradientStops();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Change<sp/>first<sp/>gradient<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;idx_get(0)-&gt;set_Color(<ref refid="class/system.drawing.color/_1a64becea77333256af0d086fc505ec321" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Aqua</ref>());</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;idx_get(0)-&gt;set_Position(0.1);</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;idx_get(0)-&gt;set_Transparency(0.25);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>new<sp/>gradient<sp/>stop<sp/>to<sp/>the<sp/>end<sp/>of<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>gradientStop<sp/>=<sp/>MakeObject&lt;GradientStop&gt;(<ref refid="class/system.drawing.color/_1a035c988a5a98198427a396cb0b513ffd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Brown</ref>(),<sp/>0.5);</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;Add(gradientStop);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>gradient<sp/>stop<sp/>at<sp/>index<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;RemoveAt(1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>And<sp/>insert<sp/>new<sp/>gradient<sp/>stop<sp/>at<sp/>the<sp/>same<sp/>index<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;Insert(1,<sp/>MakeObject&lt;GradientStop&gt;(<ref refid="class/system.drawing.color/_1a0541ebcf092e84528a81ae6025b0622d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Chocolate</ref>(),<sp/>0.75,<sp/>0.3));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>last<sp/>gradient<sp/>stop<sp/>in<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStop<sp/>=<sp/>gradientStops-&gt;idx_get(2);</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;Remove(gradientStop);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>gradientStops-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a64becea77333256af0d086fc505ec321" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Aqua</ref>().ToArgb(),<sp/>gradientStops-&gt;idx_get(0)-&gt;get_Color().ToArgb());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.1,<sp/>gradientStops-&gt;idx_get(0)-&gt;get_Position(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.25,<sp/>gradientStops-&gt;idx_get(0)-&gt;get_Transparency(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a0541ebcf092e84528a81ae6025b0622d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Chocolate</ref>().ToArgb(),<sp/>gradientStops-&gt;idx_get(1)-&gt;get_Color().ToArgb());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.75,<sp/>gradientStops-&gt;idx_get(1)-&gt;get_Position(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.3,<sp/>gradientStops-&gt;idx_get(1)-&gt;get_Transparency(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>compliance<sp/>option<sp/>to<sp/>define<sp/>the<sp/>shape<sp/>using<sp/>DML</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>if<sp/>you<sp/>want<sp/>to<sp/>get<sp/>&quot;GradientStops&quot;<sp/>property<sp/>after<sp/>the<sp/>document<sp/>saves.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;OoxmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_Compliance(OoxmlCompliance::Iso29500_2008_Strict);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.GradientStops.docx&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GradientStopCollection.h" line="159" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a284766fae48e4a77d56d719a98d8e088" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop" kindref="compound">Aspose::Words::Drawing::GradientStop</ref> &gt; &gt; &gt;</type>
+        <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::SharedPtr&lt; Aspose::Words::Drawing::GradientStop &gt; &gt; &gt; Aspose::Words::Drawing::GradientStopCollection::GetEnumerator</definition>
+        <argsstring>() override</argsstring>
+        <name>GetEnumerator</name>
+        <qualifiedname>Aspose::Words::Drawing::GradientStopCollection::GetEnumerator</qualifiedname>
+        <briefdescription>
+<para>Returns an enumerator that iterates through the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GradientStopCollection.h" line="484" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a915108aabbd612130ddf2375df8ad694" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop" kindref="compound">Aspose::Words::Drawing::GradientStop</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::GradientStop &gt; Aspose::Words::Drawing::GradientStopCollection::idx_get</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>idx_get</name>
+        <qualifiedname>Aspose::Words::Drawing::GradientStopCollection::idx_get</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Gets or sets a <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop" kindref="compound">GradientStop</ref> object in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to add gradient stops to the gradient fill. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccace9291906a4c3b042650b70d7f3b152e" kindref="member">ShapeType::Rectangle</ref>,<sp/>80,<sp/>80);</highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;get_Fill()-&gt;TwoColorGradient(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>(),<sp/><ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>(),<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a610db2dc24cd10024dddc254b5992edbac1b5fa03ecdb95d4a45dd1c40b02527f" kindref="member" tooltip="Gradient running horizontally across an object.">GradientStyle::Horizontal</ref>,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1adab7b8aed778ae3af981575ce6809974a8cd748220218f0d12e403e8549ad2380" kindref="member" tooltip="Gradient variant 2.">GradientVariant::Variant2</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>gradient<sp/>stops<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;GradientStopCollection&gt;<sp/>gradientStops<sp/>=<sp/>shape-&gt;get_Fill()-&gt;get_GradientStops();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Change<sp/>first<sp/>gradient<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;idx_get(0)-&gt;set_Color(<ref refid="class/system.drawing.color/_1a64becea77333256af0d086fc505ec321" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Aqua</ref>());</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;idx_get(0)-&gt;set_Position(0.1);</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;idx_get(0)-&gt;set_Transparency(0.25);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>new<sp/>gradient<sp/>stop<sp/>to<sp/>the<sp/>end<sp/>of<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>gradientStop<sp/>=<sp/>MakeObject&lt;GradientStop&gt;(<ref refid="class/system.drawing.color/_1a035c988a5a98198427a396cb0b513ffd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Brown</ref>(),<sp/>0.5);</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;Add(gradientStop);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>gradient<sp/>stop<sp/>at<sp/>index<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;RemoveAt(1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>And<sp/>insert<sp/>new<sp/>gradient<sp/>stop<sp/>at<sp/>the<sp/>same<sp/>index<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;Insert(1,<sp/>MakeObject&lt;GradientStop&gt;(<ref refid="class/system.drawing.color/_1a0541ebcf092e84528a81ae6025b0622d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Chocolate</ref>(),<sp/>0.75,<sp/>0.3));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>last<sp/>gradient<sp/>stop<sp/>in<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStop<sp/>=<sp/>gradientStops-&gt;idx_get(2);</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;Remove(gradientStop);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>gradientStops-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a64becea77333256af0d086fc505ec321" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Aqua</ref>().ToArgb(),<sp/>gradientStops-&gt;idx_get(0)-&gt;get_Color().ToArgb());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.1,<sp/>gradientStops-&gt;idx_get(0)-&gt;get_Position(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.25,<sp/>gradientStops-&gt;idx_get(0)-&gt;get_Transparency(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a0541ebcf092e84528a81ae6025b0622d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Chocolate</ref>().ToArgb(),<sp/>gradientStops-&gt;idx_get(1)-&gt;get_Color().ToArgb());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.75,<sp/>gradientStops-&gt;idx_get(1)-&gt;get_Position(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.3,<sp/>gradientStops-&gt;idx_get(1)-&gt;get_Transparency(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>compliance<sp/>option<sp/>to<sp/>define<sp/>the<sp/>shape<sp/>using<sp/>DML</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>if<sp/>you<sp/>want<sp/>to<sp/>get<sp/>&quot;GradientStops&quot;<sp/>property<sp/>after<sp/>the<sp/>document<sp/>saves.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;OoxmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_Compliance(OoxmlCompliance::Iso29500_2008_Strict);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.GradientStops.docx&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GradientStopCollection.h" line="212" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a271e9a2b1035d2725acab39f579dd052" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::GradientStopCollection::idx_set</definition>
+        <argsstring>(int32_t index, const System::SharedPtr&lt; Aspose::Words::Drawing::GradientStop &gt; &amp;value)</argsstring>
+        <name>idx_set</name>
+        <qualifiedname>Aspose::Words::Drawing::GradientStopCollection::idx_set</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop" kindref="compound">Aspose::Words::Drawing::GradientStop</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Gets or sets a <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop" kindref="compound">GradientStop</ref> object in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to add gradient stops to the gradient fill. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccace9291906a4c3b042650b70d7f3b152e" kindref="member">ShapeType::Rectangle</ref>,<sp/>80,<sp/>80);</highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;get_Fill()-&gt;TwoColorGradient(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>(),<sp/><ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>(),<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a610db2dc24cd10024dddc254b5992edbac1b5fa03ecdb95d4a45dd1c40b02527f" kindref="member" tooltip="Gradient running horizontally across an object.">GradientStyle::Horizontal</ref>,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1adab7b8aed778ae3af981575ce6809974a8cd748220218f0d12e403e8549ad2380" kindref="member" tooltip="Gradient variant 2.">GradientVariant::Variant2</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>gradient<sp/>stops<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;GradientStopCollection&gt;<sp/>gradientStops<sp/>=<sp/>shape-&gt;get_Fill()-&gt;get_GradientStops();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Change<sp/>first<sp/>gradient<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;idx_get(0)-&gt;set_Color(<ref refid="class/system.drawing.color/_1a64becea77333256af0d086fc505ec321" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Aqua</ref>());</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;idx_get(0)-&gt;set_Position(0.1);</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;idx_get(0)-&gt;set_Transparency(0.25);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>new<sp/>gradient<sp/>stop<sp/>to<sp/>the<sp/>end<sp/>of<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>gradientStop<sp/>=<sp/>MakeObject&lt;GradientStop&gt;(<ref refid="class/system.drawing.color/_1a035c988a5a98198427a396cb0b513ffd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Brown</ref>(),<sp/>0.5);</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;Add(gradientStop);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>gradient<sp/>stop<sp/>at<sp/>index<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;RemoveAt(1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>And<sp/>insert<sp/>new<sp/>gradient<sp/>stop<sp/>at<sp/>the<sp/>same<sp/>index<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;Insert(1,<sp/>MakeObject&lt;GradientStop&gt;(<ref refid="class/system.drawing.color/_1a0541ebcf092e84528a81ae6025b0622d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Chocolate</ref>(),<sp/>0.75,<sp/>0.3));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>last<sp/>gradient<sp/>stop<sp/>in<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStop<sp/>=<sp/>gradientStops-&gt;idx_get(2);</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;Remove(gradientStop);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>gradientStops-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a64becea77333256af0d086fc505ec321" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Aqua</ref>().ToArgb(),<sp/>gradientStops-&gt;idx_get(0)-&gt;get_Color().ToArgb());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.1,<sp/>gradientStops-&gt;idx_get(0)-&gt;get_Position(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.25,<sp/>gradientStops-&gt;idx_get(0)-&gt;get_Transparency(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a0541ebcf092e84528a81ae6025b0622d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Chocolate</ref>().ToArgb(),<sp/>gradientStops-&gt;idx_get(1)-&gt;get_Color().ToArgb());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.75,<sp/>gradientStops-&gt;idx_get(1)-&gt;get_Position(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.3,<sp/>gradientStops-&gt;idx_get(1)-&gt;get_Transparency(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>compliance<sp/>option<sp/>to<sp/>define<sp/>the<sp/>shape<sp/>using<sp/>DML</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>if<sp/>you<sp/>want<sp/>to<sp/>get<sp/>&quot;GradientStops&quot;<sp/>property<sp/>after<sp/>the<sp/>document<sp/>saves.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;OoxmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_Compliance(OoxmlCompliance::Iso29500_2008_Strict);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.GradientStops.docx&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GradientStopCollection.h" line="265" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a2e2c6cb11fc5a1a1a22cb20df7e1b0b6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop" kindref="compound">Aspose::Words::Drawing::GradientStop</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::GradientStop &gt; Aspose::Words::Drawing::GradientStopCollection::Insert</definition>
+        <argsstring>(int32_t index, const System::SharedPtr&lt; Aspose::Words::Drawing::GradientStop &gt; &amp;gradientStop)</argsstring>
+        <name>Insert</name>
+        <qualifiedname>Aspose::Words::Drawing::GradientStopCollection::Insert</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop" kindref="compound">Aspose::Words::Drawing::GradientStop</ref> &gt; &amp;</type>
+          <declname>gradientStop</declname>
+        </param>
+        <briefdescription>
+<para>Inserts a <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop" kindref="compound">GradientStop</ref> to the collection at a specified index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to add gradient stops to the gradient fill. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccace9291906a4c3b042650b70d7f3b152e" kindref="member">ShapeType::Rectangle</ref>,<sp/>80,<sp/>80);</highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;get_Fill()-&gt;TwoColorGradient(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>(),<sp/><ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>(),<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a610db2dc24cd10024dddc254b5992edbac1b5fa03ecdb95d4a45dd1c40b02527f" kindref="member" tooltip="Gradient running horizontally across an object.">GradientStyle::Horizontal</ref>,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1adab7b8aed778ae3af981575ce6809974a8cd748220218f0d12e403e8549ad2380" kindref="member" tooltip="Gradient variant 2.">GradientVariant::Variant2</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>gradient<sp/>stops<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;GradientStopCollection&gt;<sp/>gradientStops<sp/>=<sp/>shape-&gt;get_Fill()-&gt;get_GradientStops();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Change<sp/>first<sp/>gradient<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;idx_get(0)-&gt;set_Color(<ref refid="class/system.drawing.color/_1a64becea77333256af0d086fc505ec321" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Aqua</ref>());</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;idx_get(0)-&gt;set_Position(0.1);</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;idx_get(0)-&gt;set_Transparency(0.25);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>new<sp/>gradient<sp/>stop<sp/>to<sp/>the<sp/>end<sp/>of<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>gradientStop<sp/>=<sp/>MakeObject&lt;GradientStop&gt;(<ref refid="class/system.drawing.color/_1a035c988a5a98198427a396cb0b513ffd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Brown</ref>(),<sp/>0.5);</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;Add(gradientStop);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>gradient<sp/>stop<sp/>at<sp/>index<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;RemoveAt(1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>And<sp/>insert<sp/>new<sp/>gradient<sp/>stop<sp/>at<sp/>the<sp/>same<sp/>index<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;Insert(1,<sp/>MakeObject&lt;GradientStop&gt;(<ref refid="class/system.drawing.color/_1a0541ebcf092e84528a81ae6025b0622d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Chocolate</ref>(),<sp/>0.75,<sp/>0.3));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>last<sp/>gradient<sp/>stop<sp/>in<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStop<sp/>=<sp/>gradientStops-&gt;idx_get(2);</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;Remove(gradientStop);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>gradientStops-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a64becea77333256af0d086fc505ec321" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Aqua</ref>().ToArgb(),<sp/>gradientStops-&gt;idx_get(0)-&gt;get_Color().ToArgb());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.1,<sp/>gradientStops-&gt;idx_get(0)-&gt;get_Position(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.25,<sp/>gradientStops-&gt;idx_get(0)-&gt;get_Transparency(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a0541ebcf092e84528a81ae6025b0622d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Chocolate</ref>().ToArgb(),<sp/>gradientStops-&gt;idx_get(1)-&gt;get_Color().ToArgb());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.75,<sp/>gradientStops-&gt;idx_get(1)-&gt;get_Position(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.3,<sp/>gradientStops-&gt;idx_get(1)-&gt;get_Transparency(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>compliance<sp/>option<sp/>to<sp/>define<sp/>the<sp/>shape<sp/>using<sp/>DML</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>if<sp/>you<sp/>want<sp/>to<sp/>get<sp/>&quot;GradientStops&quot;<sp/>property<sp/>after<sp/>the<sp/>document<sp/>saves.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;OoxmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_Compliance(OoxmlCompliance::Iso29500_2008_Strict);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.GradientStops.docx&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GradientStopCollection.h" line="318" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a98af7db14b6641f3e6e6633c029a3d27" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Drawing::GradientStopCollection::Remove</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Drawing::GradientStop &gt; &amp;gradientStop)</argsstring>
+        <name>Remove</name>
+        <qualifiedname>Aspose::Words::Drawing::GradientStopCollection::Remove</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop" kindref="compound">Aspose::Words::Drawing::GradientStop</ref> &gt; &amp;</type>
+          <declname>gradientStop</declname>
+        </param>
+        <briefdescription>
+<para>Removes a specified <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop" kindref="compound">GradientStop</ref> from the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>True if gradient stop was successfully removed, otherwise false.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to add gradient stops to the gradient fill. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccace9291906a4c3b042650b70d7f3b152e" kindref="member">ShapeType::Rectangle</ref>,<sp/>80,<sp/>80);</highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;get_Fill()-&gt;TwoColorGradient(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>(),<sp/><ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>(),<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a610db2dc24cd10024dddc254b5992edbac1b5fa03ecdb95d4a45dd1c40b02527f" kindref="member" tooltip="Gradient running horizontally across an object.">GradientStyle::Horizontal</ref>,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1adab7b8aed778ae3af981575ce6809974a8cd748220218f0d12e403e8549ad2380" kindref="member" tooltip="Gradient variant 2.">GradientVariant::Variant2</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>gradient<sp/>stops<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;GradientStopCollection&gt;<sp/>gradientStops<sp/>=<sp/>shape-&gt;get_Fill()-&gt;get_GradientStops();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Change<sp/>first<sp/>gradient<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;idx_get(0)-&gt;set_Color(<ref refid="class/system.drawing.color/_1a64becea77333256af0d086fc505ec321" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Aqua</ref>());</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;idx_get(0)-&gt;set_Position(0.1);</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;idx_get(0)-&gt;set_Transparency(0.25);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>new<sp/>gradient<sp/>stop<sp/>to<sp/>the<sp/>end<sp/>of<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>gradientStop<sp/>=<sp/>MakeObject&lt;GradientStop&gt;(<ref refid="class/system.drawing.color/_1a035c988a5a98198427a396cb0b513ffd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Brown</ref>(),<sp/>0.5);</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;Add(gradientStop);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>gradient<sp/>stop<sp/>at<sp/>index<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;RemoveAt(1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>And<sp/>insert<sp/>new<sp/>gradient<sp/>stop<sp/>at<sp/>the<sp/>same<sp/>index<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;Insert(1,<sp/>MakeObject&lt;GradientStop&gt;(<ref refid="class/system.drawing.color/_1a0541ebcf092e84528a81ae6025b0622d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Chocolate</ref>(),<sp/>0.75,<sp/>0.3));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>last<sp/>gradient<sp/>stop<sp/>in<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStop<sp/>=<sp/>gradientStops-&gt;idx_get(2);</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;Remove(gradientStop);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>gradientStops-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a64becea77333256af0d086fc505ec321" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Aqua</ref>().ToArgb(),<sp/>gradientStops-&gt;idx_get(0)-&gt;get_Color().ToArgb());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.1,<sp/>gradientStops-&gt;idx_get(0)-&gt;get_Position(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.25,<sp/>gradientStops-&gt;idx_get(0)-&gt;get_Transparency(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a0541ebcf092e84528a81ae6025b0622d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Chocolate</ref>().ToArgb(),<sp/>gradientStops-&gt;idx_get(1)-&gt;get_Color().ToArgb());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.75,<sp/>gradientStops-&gt;idx_get(1)-&gt;get_Position(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.3,<sp/>gradientStops-&gt;idx_get(1)-&gt;get_Transparency(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>compliance<sp/>option<sp/>to<sp/>define<sp/>the<sp/>shape<sp/>using<sp/>DML</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>if<sp/>you<sp/>want<sp/>to<sp/>get<sp/>&quot;GradientStops&quot;<sp/>property<sp/>after<sp/>the<sp/>document<sp/>saves.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;OoxmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_Compliance(OoxmlCompliance::Iso29500_2008_Strict);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.GradientStops.docx&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GradientStopCollection.h" line="481" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a53a3e02771d3ec0bbd2aa90be735d0ae" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop" kindref="compound">Aspose::Words::Drawing::GradientStop</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::GradientStop &gt; Aspose::Words::Drawing::GradientStopCollection::RemoveAt</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>RemoveAt</name>
+        <qualifiedname>Aspose::Words::Drawing::GradientStopCollection::RemoveAt</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Removes a <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop" kindref="compound">GradientStop</ref> from the collection at a specified index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>Removed <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop" kindref="compound">GradientStop</ref>.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to add gradient stops to the gradient fill. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccace9291906a4c3b042650b70d7f3b152e" kindref="member">ShapeType::Rectangle</ref>,<sp/>80,<sp/>80);</highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;get_Fill()-&gt;TwoColorGradient(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>(),<sp/><ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>(),<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a610db2dc24cd10024dddc254b5992edbac1b5fa03ecdb95d4a45dd1c40b02527f" kindref="member" tooltip="Gradient running horizontally across an object.">GradientStyle::Horizontal</ref>,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1adab7b8aed778ae3af981575ce6809974a8cd748220218f0d12e403e8549ad2380" kindref="member" tooltip="Gradient variant 2.">GradientVariant::Variant2</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>gradient<sp/>stops<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;GradientStopCollection&gt;<sp/>gradientStops<sp/>=<sp/>shape-&gt;get_Fill()-&gt;get_GradientStops();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Change<sp/>first<sp/>gradient<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;idx_get(0)-&gt;set_Color(<ref refid="class/system.drawing.color/_1a64becea77333256af0d086fc505ec321" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Aqua</ref>());</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;idx_get(0)-&gt;set_Position(0.1);</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;idx_get(0)-&gt;set_Transparency(0.25);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>new<sp/>gradient<sp/>stop<sp/>to<sp/>the<sp/>end<sp/>of<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>gradientStop<sp/>=<sp/>MakeObject&lt;GradientStop&gt;(<ref refid="class/system.drawing.color/_1a035c988a5a98198427a396cb0b513ffd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Brown</ref>(),<sp/>0.5);</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;Add(gradientStop);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>gradient<sp/>stop<sp/>at<sp/>index<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;RemoveAt(1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>And<sp/>insert<sp/>new<sp/>gradient<sp/>stop<sp/>at<sp/>the<sp/>same<sp/>index<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;Insert(1,<sp/>MakeObject&lt;GradientStop&gt;(<ref refid="class/system.drawing.color/_1a0541ebcf092e84528a81ae6025b0622d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Chocolate</ref>(),<sp/>0.75,<sp/>0.3));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>last<sp/>gradient<sp/>stop<sp/>in<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStop<sp/>=<sp/>gradientStops-&gt;idx_get(2);</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;Remove(gradientStop);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>gradientStops-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a64becea77333256af0d086fc505ec321" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Aqua</ref>().ToArgb(),<sp/>gradientStops-&gt;idx_get(0)-&gt;get_Color().ToArgb());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.1,<sp/>gradientStops-&gt;idx_get(0)-&gt;get_Position(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.25,<sp/>gradientStops-&gt;idx_get(0)-&gt;get_Transparency(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a0541ebcf092e84528a81ae6025b0622d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Chocolate</ref>().ToArgb(),<sp/>gradientStops-&gt;idx_get(1)-&gt;get_Color().ToArgb());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.75,<sp/>gradientStops-&gt;idx_get(1)-&gt;get_Position(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.3,<sp/>gradientStops-&gt;idx_get(1)-&gt;get_Transparency(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>compliance<sp/>option<sp/>to<sp/>define<sp/>the<sp/>shape<sp/>using<sp/>DML</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>if<sp/>you<sp/>want<sp/>to<sp/>get<sp/>&quot;GradientStops&quot;<sp/>property<sp/>after<sp/>the<sp/>document<sp/>saves.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;OoxmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_Compliance(OoxmlCompliance::Iso29500_2008_Strict);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.GradientStops.docx&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/GradientStopCollection.h" line="426" column="26"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Contains a collection of <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop" kindref="compound">GradientStop</ref> objects. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to add gradient stops to the gradient fill. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertShape(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a497d548e329ebb218fbc1754e4c74bccace9291906a4c3b042650b70d7f3b152e" kindref="member">ShapeType::Rectangle</ref>,<sp/>80,<sp/>80);</highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;get_Fill()-&gt;TwoColorGradient(<ref refid="class/system.drawing.color/_1a77fddff8420436e0eec436f1fb13ee5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Green</ref>(),<sp/><ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>(),<sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a610db2dc24cd10024dddc254b5992edbac1b5fa03ecdb95d4a45dd1c40b02527f" kindref="member" tooltip="Gradient running horizontally across an object.">GradientStyle::Horizontal</ref>,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_drawing_1adab7b8aed778ae3af981575ce6809974a8cd748220218f0d12e403e8549ad2380" kindref="member" tooltip="Gradient variant 2.">GradientVariant::Variant2</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Get<sp/>gradient<sp/>stops<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;GradientStopCollection&gt;<sp/>gradientStops<sp/>=<sp/>shape-&gt;get_Fill()-&gt;get_GradientStops();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Change<sp/>first<sp/>gradient<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;idx_get(0)-&gt;set_Color(<ref refid="class/system.drawing.color/_1a64becea77333256af0d086fc505ec321" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Aqua</ref>());</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;idx_get(0)-&gt;set_Position(0.1);</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;idx_get(0)-&gt;set_Transparency(0.25);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>new<sp/>gradient<sp/>stop<sp/>to<sp/>the<sp/>end<sp/>of<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>gradientStop<sp/>=<sp/>MakeObject&lt;GradientStop&gt;(<ref refid="class/system.drawing.color/_1a035c988a5a98198427a396cb0b513ffd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Brown</ref>(),<sp/>0.5);</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;Add(gradientStop);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>gradient<sp/>stop<sp/>at<sp/>index<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;RemoveAt(1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>And<sp/>insert<sp/>new<sp/>gradient<sp/>stop<sp/>at<sp/>the<sp/>same<sp/>index<sp/>1.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;Insert(1,<sp/>MakeObject&lt;GradientStop&gt;(<ref refid="class/system.drawing.color/_1a0541ebcf092e84528a81ae6025b0622d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Chocolate</ref>(),<sp/>0.75,<sp/>0.3));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Remove<sp/>last<sp/>gradient<sp/>stop<sp/>in<sp/>the<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">gradientStop<sp/>=<sp/>gradientStops-&gt;idx_get(2);</highlight></codeline>
+<codeline><highlight class="normal">gradientStops-&gt;Remove(gradientStop);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>gradientStops-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a64becea77333256af0d086fc505ec321" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Aqua</ref>().ToArgb(),<sp/>gradientStops-&gt;idx_get(0)-&gt;get_Color().ToArgb());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.1,<sp/>gradientStops-&gt;idx_get(0)-&gt;get_Position(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.25,<sp/>gradientStops-&gt;idx_get(0)-&gt;get_Transparency(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1a0541ebcf092e84528a81ae6025b0622d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Chocolate</ref>().ToArgb(),<sp/>gradientStops-&gt;idx_get(1)-&gt;get_Color().ToArgb());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.75,<sp/>gradientStops-&gt;idx_get(1)-&gt;get_Position(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(0.3,<sp/>gradientStops-&gt;idx_get(1)-&gt;get_Transparency(),<sp/>0.01);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>compliance<sp/>option<sp/>to<sp/>define<sp/>the<sp/>shape<sp/>using<sp/>DML</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>if<sp/>you<sp/>want<sp/>to<sp/>get<sp/>&quot;GradientStops&quot;<sp/>property<sp/>after<sp/>the<sp/>document<sp/>saves.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;OoxmlSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_Compliance(OoxmlCompliance::Iso29500_2008_Strict);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Shape.GradientStops.docx&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Drawing::GradientStopCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Drawing::GradientStop &gt; &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Drawing::GradientStopCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Drawing::GradientStop &gt; &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Drawing/GradientStopCollection.h" line="98" column="1" bodyfile="Aspose.Words.Cpp/Drawing/GradientStopCollection.h" bodystart="99" bodyend="496"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a66d510dce8fb5512eb68dfe8dc764398" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GradientStopCollection</scope><name>Add</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a32802f0beadc4ef6e5cef2a3ab66d7d4" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::GradientStopCollection</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a35012402edc49d92a8bd62b0691c9dd6" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GradientStopCollection</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a284766fae48e4a77d56d719a98d8e088" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GradientStopCollection</scope><name>GetEnumerator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a915108aabbd612130ddf2375df8ad694" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GradientStopCollection</scope><name>idx_get</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a271e9a2b1035d2725acab39f579dd052" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GradientStopCollection</scope><name>idx_set</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a2e2c6cb11fc5a1a1a22cb20df7e1b0b6" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GradientStopCollection</scope><name>Insert</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1ab5b8fae18c886e480e1a443bd9d24122" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::GradientStopCollection</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a921de1892d3480a110031e7baf7bde32" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::GradientStopCollection</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a8666456686799b935adf3394b0a4847b" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::GradientStopCollection</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a98af7db14b6641f3e6e6633c029a3d27" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GradientStopCollection</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a53a3e02771d3ec0bbd2aa90be735d0ae" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::GradientStopCollection</scope><name>RemoveAt</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a2c76500e357606d22c05f9508ca9467e" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::GradientStopCollection</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a92f7e95cc94c91a165a49fe538891135" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::GradientStopCollection</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1ad186d6037bc1e2af0ad5eb7afc553a21" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::GradientStopCollection</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection_1a4c0a80f3eda6ad58136ef714ca7c315b" prot="private" virt="virtual"><scope>Aspose::Words::Drawing::GradientStopCollection</scope><name>~GradientStopCollection</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,984 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Saving::FixedPageSaveOptions</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_saving_1_1_save_options" prot="public" virt="non-virtual">Aspose::Words::Saving::SaveOptions</basecompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_saving_1_1_html_fixed_save_options" prot="public" virt="non-virtual">Aspose::Words::Saving::HtmlFixedSaveOptions</derivedcompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_saving_1_1_image_save_options" prot="public" virt="non-virtual">Aspose::Words::Saving::ImageSaveOptions</derivedcompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options" prot="public" virt="non-virtual">Aspose::Words::Saving::PclSaveOptions</derivedcompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options" prot="public" virt="non-virtual">Aspose::Words::Saving::PdfSaveOptions</derivedcompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_saving_1_1_ps_save_options" prot="public" virt="non-virtual">Aspose::Words::Saving::PsSaveOptions</derivedcompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options" prot="public" virt="non-virtual">Aspose::Words::Saving::SvgSaveOptions</derivedcompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options" prot="public" virt="non-virtual">Aspose::Words::Saving::XamlFixedSaveOptions</derivedcompoundref>
+    <derivedcompoundref refid="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options" prot="public" virt="non-virtual">Aspose::Words::Saving::XpsSaveOptions</derivedcompoundref>
+    <includes refid="_fixed_page_save_options_8h" local="no">Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a04d4000f97d9a076e008095c8c341118" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_save_options" kindref="compound">Aspose::Words::Saving::SaveOptions</ref></type>
+        <definition>typedef Aspose::Words::Saving::SaveOptions Aspose::Words::Saving::FixedPageSaveOptions::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="106" column="48" bodyfile="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" bodystart="106" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ac8c390ca9ca0acd23609a36dfc8a7aef" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options" kindref="compound">FixedPageSaveOptions</ref></type>
+        <definition>typedef FixedPageSaveOptions Aspose::Words::Saving::FixedPageSaveOptions::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="105" column="34" bodyfile="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" bodystart="105" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1afe3117bb90071af3c6e7df8932e95136" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_save_options" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Saving::FixedPageSaveOptions::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="108" column="37" bodyfile="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" bodystart="108" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1aa79536266bcb119887ec7cd101e8c869" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::FixedPageSaveOptions::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="471" column="23" bodyfile="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" bodystart="471" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a1aeac9cd0dd6c7619a0d695ad6a3f26e" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::FixedPageSaveOptions::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="472" column="23" bodyfile="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" bodystart="472" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a58e604c79e0bacc1183d76a2b5fdefb5" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Saving::FixedPageSaveOptions::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="473" column="23" bodyfile="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" bodystart="473" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a28de4b48372d3af49bc9f3b582a47c33" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::FixedPageSaveOptions::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="474" column="23" bodyfile="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" bodystart="474" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a3f3b4f6c3bff07f3fd9a6bca829ab9d2" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Saving::FixedPageSaveOptions::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="475" column="23" bodyfile="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" bodystart="475" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ad097ac6f623095b69fe75c115bbe7778" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Saving::FixedPageSaveOptions::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="476" column="23" bodyfile="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" bodystart="476" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ad2a660d512cf5cda638f6026af4e48e7" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Saving::FixedPageSaveOptions::mField6</definition>
+        <argsstring></argsstring>
+        <name>mField6</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::mField6</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="477" column="23" bodyfile="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" bodystart="477" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a66ca6bdb7f8ff4804f442fc020a6bfdd" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Saving::FixedPageSaveOptions::mField7</definition>
+        <argsstring></argsstring>
+        <name>mField7</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::mField7</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="478" column="23" bodyfile="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" bodystart="478" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ad1b1a5a1d0fde04955e74265840f62b7" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::FixedPageSaveOptions::FixedPageSaveOptions</definition>
+        <argsstring>()</argsstring>
+        <name>FixedPageSaveOptions</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::FixedPageSaveOptions</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="467" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1aecb512ec263417e2e01c63dd53a91d0b" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>bool</type>
+        <definition>virtual bool Aspose::Words::Saving::FixedPageSaveOptions::get_CreateOutlinesForHeadingsInTables</definition>
+        <argsstring>()</argsstring>
+        <name>get_CreateOutlinesForHeadingsInTables</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::get_CreateOutlinesForHeadingsInTables</qualifiedname>
+        <reimplementedby refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options_1aac7d2a0cce2a67c405e0f088905d0b6d">get_CreateOutlinesForHeadingsInTables</reimplementedby>
+        <reimplementedby refid="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1a10b07db988a68535f35ccb27b9e451db">get_CreateOutlinesForHeadingsInTables</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="464" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a1509423c212b838fd934c40c0be9f4df" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Saving::FixedPageSaveOptions::get_IsFlowFormat</definition>
+        <argsstring>() override</argsstring>
+        <name>get_IsFlowFormat</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::get_IsFlowFormat</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1a7171a0d88f5f11d721457980aff700">get_IsFlowFormat</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="462" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a0d614cafba12f933e85316d18fc6f052" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>bool</type>
+        <definition>virtual bool Aspose::Words::Saving::FixedPageSaveOptions::get_IsShapingSupported</definition>
+        <argsstring>()</argsstring>
+        <name>get_IsShapingSupported</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::get_IsShapingSupported</qualifiedname>
+        <reimplementedby refid="class_aspose_1_1_words_1_1_saving_1_1_image_save_options_1a134fa5776b644b8b230af1a8bc6e419c">get_IsShapingSupported</reimplementedby>
+        <reimplementedby refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options_1a44934f9f20b8cdc729d9076efb0e20d4">get_IsShapingSupported</reimplementedby>
+        <reimplementedby refid="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options_1ab4a90b519ac027d3abc48380e0cfefd4">get_IsShapingSupported</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="465" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a7685bb49e69fb506be3d814343912890" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Saving::FixedPageSaveOptions::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="109" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a0957be75c5d5e6c01c685b589b706366" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Saving::FixedPageSaveOptions::Equals</definition>
+        <argsstring>(System::SharedPtr&lt; System::Object &gt; obj) override</argsstring>
+        <name>Equals</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::Equals</qualifiedname>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+<para>Determines whether the specified object is equal in value to the current object. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="458" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ac1a855cc8feceb3d1cbe331b282931ef" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_saving_1a90fa95b0984ea7d9643da5b7192cab9d" kindref="member">Aspose::Words::Saving::ColorMode</ref></type>
+        <definition>Aspose::Words::Saving::ColorMode Aspose::Words::Saving::FixedPageSaveOptions::get_ColorMode</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ColorMode</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::get_ColorMode</qualifiedname>
+        <briefdescription>
+<para>Gets or sets a value determining how colors are rendered. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to change image color with saving options property. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Images.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;PdfSaveOptions&quot;<sp/>object<sp/>that<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>that<sp/>method<sp/>converts<sp/>the<sp/>document<sp/>to<sp/>.PDF.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ColorMode&quot;<sp/>property<sp/>to<sp/>&quot;Grayscale&quot;<sp/>to<sp/>render<sp/>all<sp/>images<sp/>from<sp/>the<sp/>document<sp/>in<sp/>black<sp/>and<sp/>white.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>size<sp/>of<sp/>the<sp/>output<sp/>document<sp/>may<sp/>be<sp/>larger<sp/>with<sp/>this<sp/>setting.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;ColorMode&quot;<sp/>property<sp/>to<sp/>&quot;Normal&quot;<sp/>to<sp/>render<sp/>all<sp/>images<sp/>in<sp/>color.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>pdfSaveOptions<sp/>=<sp/>MakeObject&lt;PdfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal">pdfSaveOptions-&gt;set_ColorMode(colorMode);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PdfSaveOptions.ColorRendering.pdf&quot;</highlight><highlight class="normal">,<sp/>pdfSaveOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="423" column="41"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a97d6477b73da72eb08d9d68e61e464c6" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Saving::FixedPageSaveOptions::get_JpegQuality</definition>
+        <argsstring>() const</argsstring>
+        <name>get_JpegQuality</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::get_JpegQuality</qualifiedname>
+        <briefdescription>
+<para>Gets or sets a value determining the quality of the JPEG images inside Html document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Has effect only when a document contains JPEG images.</para>
+<para>Use this property to get or set the quality of the images inside a document when saving in fixed page format. The value may vary from 0 to 100 where 0 means worst quality but maximum compression and 100 means best quality but minimum compression.</para>
+<para>The default value is 95.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to configure compression while saving a document as a JPEG. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertImage(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;ImageSaveOptions&quot;<sp/>object<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>the<sp/>way<sp/>in<sp/>which<sp/>that<sp/>method<sp/>renders<sp/>the<sp/>document<sp/>into<sp/>an<sp/>image.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>imageOptions<sp/>=<sp/>MakeObject&lt;ImageSaveOptions&gt;(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a5023eac1d7fffa77b37c0e6797c97773" kindref="member" tooltip="Renders a page of the document and saves it as a JPEG file.">SaveFormat::Jpeg</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;JpegQuality&quot;<sp/>property<sp/>to<sp/>&quot;10&quot;<sp/>to<sp/>use<sp/>stronger<sp/>compression<sp/>when<sp/>rendering<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>will<sp/>reduce<sp/>the<sp/>file<sp/>size<sp/>of<sp/>the<sp/>document,<sp/>but<sp/>the<sp/>image<sp/>will<sp/>display<sp/>more<sp/>prominent<sp/>compression<sp/>artifacts.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">imageOptions-&gt;set_JpegQuality(10);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;ImageSaveOptions.JpegQuality.HighCompression.jpg&quot;</highlight><highlight class="normal">,<sp/>imageOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_GE(20000,<sp/>MakeObject&lt;System::IO::FileInfo&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;ImageSaveOptions.JpegQuality.HighCompression.jpg&quot;</highlight><highlight class="normal">)-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;JpegQuality&quot;<sp/>property<sp/>to<sp/>&quot;100&quot;<sp/>to<sp/>use<sp/>weaker<sp/>compression<sp/>when<sp/>rending<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>will<sp/>improve<sp/>the<sp/>quality<sp/>of<sp/>the<sp/>image<sp/>at<sp/>the<sp/>cost<sp/>of<sp/>an<sp/>increased<sp/>file<sp/>size.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">imageOptions-&gt;set_JpegQuality(100);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;ImageSaveOptions.JpegQuality.HighQuality.jpg&quot;</highlight><highlight class="normal">,<sp/>imageOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_LT(60000,<sp/>MakeObject&lt;System::IO::FileInfo&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;ImageSaveOptions.JpegQuality.HighQuality.jpg&quot;</highlight><highlight class="normal">)-&gt;get_Length());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="400" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a9aa8454e978e8bc63738b7646e73496c" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_metafile_rendering_options" kindref="compound">Aspose::Words::Saving::MetafileRenderingOptions</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Saving::MetafileRenderingOptions &gt; Aspose::Words::Saving::FixedPageSaveOptions::get_MetafileRenderingOptions</definition>
+        <argsstring>() const</argsstring>
+        <name>get_MetafileRenderingOptions</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::get_MetafileRenderingOptions</qualifiedname>
+        <briefdescription>
+<para>Allows to specify metafile rendering options. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows added a fallback to bitmap rendering and changing type of warnings about unsupported metafile records. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>HandleBinaryRasterWarnings()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;WMF<sp/>with<sp/>image.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>metafileRenderingOptions<sp/>=<sp/>MakeObject&lt;MetafileRenderingOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;EmulateRasterOperations&quot;<sp/>property<sp/>to<sp/>&quot;false&quot;<sp/>to<sp/>fall<sp/>back<sp/>to<sp/>bitmap<sp/>when</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>it<sp/>encounters<sp/>a<sp/>metafile,<sp/>which<sp/>will<sp/>require<sp/>raster<sp/>operations<sp/>to<sp/>render<sp/>in<sp/>the<sp/>output<sp/>PDF.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>metafileRenderingOptions-&gt;set_EmulateRasterOperations(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;RenderingMode&quot;<sp/>property<sp/>to<sp/>&quot;VectorWithFallback&quot;<sp/>to<sp/>try<sp/>to<sp/>render<sp/>every<sp/>metafile<sp/>using<sp/>vector<sp/>graphics.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>metafileRenderingOptions-&gt;set_RenderingMode(<ref refid="namespace_aspose_1_1_words_1_1_saving_1a85652fa6052d69126f0fbe3817e792b5ad3041457f7574474aee6259c01791297" kindref="member" tooltip="Aspose.Words tries to render a metafile as vector graphics. If Aspose.Words cannot correctly render s...">MetafileRenderingMode::VectorWithFallback</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;PdfSaveOptions&quot;<sp/>object<sp/>that<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>that<sp/>method<sp/>converts<sp/>the<sp/>document<sp/>to<sp/>.PDF<sp/>and<sp/>applies<sp/>the<sp/>configuration</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>in<sp/>our<sp/>MetafileRenderingOptions<sp/>object<sp/>to<sp/>the<sp/>saving<sp/>operation.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;PdfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>saveOptions-&gt;set_MetafileRenderingOptions(metafileRenderingOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>callback<sp/>=<sp/>MakeObject&lt;ExPdfSaveOptions::HandleDocumentWarnings&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;set_WarningCallback(callback);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PdfSaveOptions.HandleBinaryRasterWarnings.pdf&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(1,<sp/>callback-&gt;Warnings-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;&apos;R2_XORPEN&apos;<sp/>binary<sp/>raster<sp/>operation<sp/>is<sp/>partly<sp/>supported.&quot;</highlight><highlight class="normal">,<sp/>callback-&gt;Warnings-&gt;idx_get(0)-&gt;get_Description());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">HandleDocumentWarnings<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IWarningCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;WarningInfoCollection&gt;<sp/>Warnings;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>Warning(SharedPtr&lt;WarningInfo&gt;<sp/>info)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(info-&gt;get_WarningType()<sp/>==<sp/>WarningType::MinorFormattingLoss)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Unsupported<sp/>operation:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>info-&gt;get_Description())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>Warnings-&gt;Warning(info);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>HandleDocumentWarnings()<sp/>:<sp/>Warnings(<ref refid="namespace/system/_1a5847b0709cd1220134e32db545a670f3" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">MakeObject</ref>&lt;WarningInfoCollection&gt;())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="357" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a342c8937835bd912528d137767001e22" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_saving_1a9fc527ee2d419e235943a1fd44ec782e" kindref="member">Aspose::Words::Saving::NumeralFormat</ref></type>
+        <definition>Aspose::Words::Saving::NumeralFormat Aspose::Words::Saving::FixedPageSaveOptions::get_NumeralFormat</definition>
+        <argsstring>() const</argsstring>
+        <name>get_NumeralFormat</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::get_NumeralFormat</qualifiedname>
+        <briefdescription>
+<para>Gets or sets <ref refid="namespace_aspose_1_1_words_1_1_saving_1a9fc527ee2d419e235943a1fd44ec782e" kindref="member">NumeralFormat</ref> used for rendering of numerals. European numerals are used by default. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set the numeral format used when saving to PDF. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Font()-&gt;set_LocaleId(MakeObject&lt;System::Globalization::CultureInfo&gt;(u</highlight><highlight class="stringliteral">&quot;ar-AR&quot;</highlight><highlight class="normal">)-&gt;get_LCID());</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;1,<sp/>2,<sp/>3,<sp/>4,<sp/>5,<sp/>6,<sp/>7,<sp/>8,<sp/>9,<sp/>10,<sp/>50,<sp/>100&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;PdfSaveOptions&quot;<sp/>object<sp/>that<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>that<sp/>method<sp/>converts<sp/>the<sp/>document<sp/>to<sp/>.PDF.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;PdfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;NumeralFormat&quot;<sp/>property<sp/>to<sp/>&quot;NumeralFormat.ArabicIndic&quot;<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>use<sp/>glyphs<sp/>from<sp/>the<sp/>U+0660<sp/>to<sp/>U+0669<sp/>range<sp/>as<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;NumeralFormat&quot;<sp/>property<sp/>to<sp/>&quot;NumeralFormat.Context&quot;<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>look<sp/>up<sp/>the<sp/>locale<sp/>to<sp/>determine<sp/>what<sp/>number<sp/>of<sp/>glyphs<sp/>to<sp/>use.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;NumeralFormat&quot;<sp/>property<sp/>to<sp/>&quot;NumeralFormat.EasternArabicIndic&quot;<sp/>to</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>use<sp/>glyphs<sp/>from<sp/>the<sp/>U+06F0<sp/>to<sp/>U+06F9<sp/>range<sp/>as<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;NumeralFormat&quot;<sp/>property<sp/>to<sp/>&quot;NumeralFormat.European&quot;<sp/>to<sp/>use<sp/>european<sp/>numerals.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;NumeralFormat&quot;<sp/>property<sp/>to<sp/>&quot;NumeralFormat.System&quot;<sp/>to<sp/>determine<sp/>the<sp/>symbol<sp/>set<sp/>from<sp/>regional<sp/>settings.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_NumeralFormat(numeralFormat);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PdfSaveOptions.SetNumeralFormat.pdf&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="296" column="45"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a5b5ba06ac381a275da60e5f7bfaf0fec" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>bool</type>
+        <definition>virtual bool Aspose::Words::Saving::FixedPageSaveOptions::get_OptimizeOutput</definition>
+        <argsstring>()</argsstring>
+        <name>get_OptimizeOutput</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::get_OptimizeOutput</qualifiedname>
+        <reimplementedby refid="class_aspose_1_1_words_1_1_saving_1_1_html_fixed_save_options_1a1c329c4731049abf82eff83d080a013f">get_OptimizeOutput</reimplementedby>
+        <briefdescription>
+<para>Flag indicates whether it is required to optimize output. If this flag is set redundant nested canvases and empty canvases are removed, also neighbor glyphs with the same formatting are concatenated. Note: The accuracy of the content display may be affected if this property is set to true. Default is false. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to optimize document objects while saving to xps. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Unoptimized<sp/>document.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;XpsSaveOptions&quot;<sp/>object<sp/>to<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>that<sp/>method<sp/>converts<sp/>the<sp/>document<sp/>to<sp/>.XPS.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>saveOptions<sp/>=<sp/>MakeObject&lt;XpsSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;OptimizeOutput&quot;<sp/>property<sp/>to<sp/>&quot;true&quot;<sp/>to<sp/>take<sp/>measures<sp/>such<sp/>as<sp/>removing<sp/>nested<sp/>or<sp/>empty<sp/>canvases</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>concatenating<sp/>adjacent<sp/>runs<sp/>with<sp/>identical<sp/>formatting<sp/>to<sp/>optimize<sp/>the<sp/>output<sp/>document&apos;s<sp/>content.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>may<sp/>affect<sp/>the<sp/>appearance<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;OptimizeOutput&quot;<sp/>property<sp/>to<sp/>&quot;false&quot;<sp/>to<sp/>save<sp/>the<sp/>document<sp/>normally.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">saveOptions-&gt;set_OptimizeOutput(optimizeOutput);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;XpsSaveOptions.OptimizeOutput.xps&quot;</highlight><highlight class="normal">,<sp/>saveOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="452" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a946c829e55d34cdc9b730134b0569fd5" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_i_page_saving_callback" kindref="compound">Aspose::Words::Saving::IPageSavingCallback</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Saving::IPageSavingCallback &gt; Aspose::Words::Saving::FixedPageSaveOptions::get_PageSavingCallback</definition>
+        <argsstring>() const</argsstring>
+        <name>get_PageSavingCallback</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::get_PageSavingCallback</qualifiedname>
+        <briefdescription>
+<para>Allows to control how separate pages are saved when a document is exported to fixed page format. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use a callback to save a document to HTML page by page. <programlisting><codeline><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>PageFileNames()</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Page<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Page<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertImage(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Page<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;HtmlFixedSaveOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>we<sp/>convert<sp/>the<sp/>document<sp/>to<sp/>HTML.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>htmlFixedSaveOptions<sp/>=<sp/>MakeObject&lt;HtmlFixedSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>save<sp/>each<sp/>page<sp/>in<sp/>this<sp/>document<sp/>to<sp/>a<sp/>separate<sp/>HTML<sp/>file<sp/>in<sp/>the<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>a<sp/>callback<sp/>that<sp/>allows<sp/>us<sp/>to<sp/>name<sp/>each<sp/>output<sp/>HTML<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>htmlFixedSaveOptions-&gt;set_PageSavingCallback(MakeObject&lt;ExSavingCallback::CustomFileNamePageSavingCallback&gt;());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SavingCallback.PageFileNames.html&quot;</highlight><highlight class="normal">,<sp/>htmlFixedSaveOptions);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ArrayPtr&lt;String&gt;<sp/>filePaths<sp/>=<sp/><ref refid="class/system.i_o.directory/_1a175e3c7c67d67de4fc93cd54b8fb6f2d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Directory::GetFiles</ref>(ArtifactsDir)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;LINQ_Where([](String<sp/>s)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>s.StartsWith(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;SavingCallback.PageFileNames.Page_&quot;</highlight><highlight class="normal">);<sp/>})</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>-&gt;LINQ_ToArray();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_EQ(3,<sp/>filePaths-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="keyword">class<sp/></highlight><highlight class="normal">CustomFileNamePageSavingCallback<sp/>:<sp/></highlight><highlight class="keyword">public</highlight><highlight class="normal"><sp/>IPageSavingCallback</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">public</highlight><highlight class="normal">:</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordtype">void</highlight><highlight class="normal"><sp/>PageSaving(SharedPtr&lt;PageSavingArgs&gt;<sp/>args)</highlight><highlight class="keyword"><sp/>override</highlight></codeline>
+<codeline><highlight class="keyword"><sp/><sp/><sp/><sp/></highlight><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>outFileName<sp/>=<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;{0}SavingCallback.PageFileNames.Page_{1}.html&quot;</highlight><highlight class="normal">,<sp/>ArtifactsDir,<sp/>args-&gt;get_PageIndex());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>specifying<sp/>where<sp/>Aspose.Words<sp/>will<sp/>save<sp/>each<sp/>page<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Set<sp/>a<sp/>filename<sp/>for<sp/>the<sp/>output<sp/>page<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_PageFileName(outFileName);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Create<sp/>a<sp/>custom<sp/>stream<sp/>for<sp/>the<sp/>output<sp/>page<sp/>file:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>args-&gt;set_PageStream(MakeObject&lt;System::IO::FileStream&gt;(outFileName,<sp/>System::IO::FileMode::Create));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>ASSERT_FALSE(args-&gt;get_KeepPageStreamOpen());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="262" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ae5425719ba374cba63e3262e18f285eb" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_page_set" kindref="compound">Aspose::Words::Saving::PageSet</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Saving::PageSet &gt; Aspose::Words::Saving::FixedPageSaveOptions::get_PageSet</definition>
+        <argsstring>() const</argsstring>
+        <name>get_PageSet</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::get_PageSet</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the pages to render. Default is all the pages in the document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to convert only some of the pages in a document to PDF. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Page<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Page<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Page<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::Stream&gt;<sp/>stream<sp/>=<sp/><ref refid="class/system.i_o.file/_1a4ae2fe9ccdd95b23c3aa07177a6f325e" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::Create</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PdfSaveOptions.OnePage.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;PdfSaveOptions&quot;<sp/>object<sp/>that<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>that<sp/>method<sp/>converts<sp/>the<sp/>document<sp/>to<sp/>.PDF.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;PdfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;PageIndex&quot;<sp/>to<sp/>&quot;1&quot;<sp/>to<sp/>render<sp/>a<sp/>portion<sp/>of<sp/>the<sp/>document<sp/>starting<sp/>from<sp/>the<sp/>second<sp/>page.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_PageSet(MakeObject&lt;PageSet&gt;(1));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>This<sp/>document<sp/>will<sp/>contain<sp/>one<sp/>page<sp/>starting<sp/>from<sp/>page<sp/>two,<sp/>which<sp/>will<sp/>only<sp/>contain<sp/>the<sp/>second<sp/>page.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(stream,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting></para>
+<para>Shows how to export Odd pages from the document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>5;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(String::Format(u</highlight><highlight class="stringliteral">&quot;Page<sp/>{0}<sp/>({1})&quot;</highlight><highlight class="normal">,<sp/>i<sp/>+<sp/>1,<sp/>(i<sp/>%<sp/>2<sp/>==<sp/>0<sp/>?<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;odd&quot;</highlight><highlight class="normal">)<sp/>:<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;even&quot;</highlight><highlight class="normal">))));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(i<sp/>&lt;<sp/>4)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>&quot;PdfSaveOptions&quot;<sp/>object<sp/>that<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>that<sp/>method<sp/>converts<sp/>the<sp/>document<sp/>to<sp/>.PDF.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;PdfSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>PageSet<sp/>properties<sp/>that<sp/>we<sp/>can<sp/>use<sp/>to<sp/>filter<sp/>out<sp/>a<sp/>set<sp/>of<sp/>pages<sp/>from</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>our<sp/>document<sp/>to<sp/>save<sp/>in<sp/>an<sp/>output<sp/>PDF<sp/>document<sp/>based<sp/>on<sp/>the<sp/>parity<sp/>of<sp/>their<sp/>page<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Save<sp/>only<sp/>the<sp/>even-numbered<sp/>pages:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_PageSet(<ref refid="class_aspose_1_1_words_1_1_saving_1_1_page_set_1a2c2347dcb3f5d599e4fb7aaa4e7cc55e" kindref="member" tooltip="Gets a set with all the even pages of the document in their original order.">PageSet::get_Even</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PdfSaveOptions.ExportPageSet.Even.pdf&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Save<sp/>only<sp/>the<sp/>odd-numbered<sp/>pages:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_PageSet(<ref refid="class_aspose_1_1_words_1_1_saving_1_1_page_set_1a1d0b92534c64794249736e643c5cd6ed" kindref="member" tooltip="Gets a set with all the odd pages of the document in their original order.">PageSet::get_Odd</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PdfSaveOptions.ExportPageSet.Odd.pdf&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>Save<sp/>every<sp/>page:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_PageSet(<ref refid="class_aspose_1_1_words_1_1_saving_1_1_page_set_1a24be00dffa8385075e21b2052b269b07" kindref="member" tooltip="Gets a set with all the pages of the document in their original order.">PageSet::get_All</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;PdfSaveOptions.ExportPageSet.All.pdf&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to extract pages based on exact page indices. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Add<sp/>five<sp/>pages<sp/>to<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>1;<sp/>i<sp/>&lt;<sp/>6;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Write(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Page<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>i);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;XpsSaveOptions&quot;<sp/>object,<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>how<sp/>that<sp/>method<sp/>converts<sp/>the<sp/>document<sp/>to<sp/>.XPS.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>xpsOptions<sp/>=<sp/>MakeObject&lt;XpsSaveOptions&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Use<sp/>the<sp/>&quot;PageSet&quot;<sp/>property<sp/>to<sp/>select<sp/>a<sp/>set<sp/>of<sp/>the<sp/>document&apos;s<sp/>pages<sp/>to<sp/>save<sp/>to<sp/>output<sp/>XPS.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>this<sp/>case,<sp/>we<sp/>will<sp/>choose,<sp/>via<sp/>a<sp/>zero-based<sp/>index,<sp/>only<sp/>three<sp/>pages:<sp/>page<sp/>1,<sp/>page<sp/>2,<sp/>and<sp/>page<sp/>4.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">xpsOptions-&gt;set_PageSet(MakeObject&lt;PageSet&gt;(MakeArray&lt;int&gt;({0,<sp/>1,<sp/>3})));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;XpsSaveOptions.ExportExactPages.xps&quot;</highlight><highlight class="normal">,<sp/>xpsOptions);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="201" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a1374624908c0c4ca45b73f9974787de8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::FixedPageSaveOptions::set_ColorMode</definition>
+        <argsstring>(Aspose::Words::Saving::ColorMode value)</argsstring>
+        <name>set_ColorMode</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::set_ColorMode</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_saving_1a90fa95b0984ea7d9643da5b7192cab9d" kindref="member">Aspose::Words::Saving::ColorMode</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ac1a855cc8feceb3d1cbe331b282931ef" kindref="member">Aspose::Words::Saving::FixedPageSaveOptions::get_ColorMode</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="426" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1af228e06a02d9af4afd279a5cba926e0c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::FixedPageSaveOptions::set_JpegQuality</definition>
+        <argsstring>(int32_t value)</argsstring>
+        <name>set_JpegQuality</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::set_JpegQuality</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a97d6477b73da72eb08d9d68e61e464c6" kindref="member">Aspose::Words::Saving::FixedPageSaveOptions::get_JpegQuality</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="403" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a1b8abe12e2961656a28d0be53c60feef" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::FixedPageSaveOptions::set_MetafileRenderingOptions</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Saving::MetafileRenderingOptions &gt; &amp;value)</argsstring>
+        <name>set_MetafileRenderingOptions</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::set_MetafileRenderingOptions</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_metafile_rendering_options" kindref="compound">Aspose::Words::Saving::MetafileRenderingOptions</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a9aa8454e978e8bc63738b7646e73496c" kindref="member">Aspose::Words::Saving::FixedPageSaveOptions::get_MetafileRenderingOptions</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="360" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1adb586e7d583e068e2823237d0ae2617e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::FixedPageSaveOptions::set_NumeralFormat</definition>
+        <argsstring>(Aspose::Words::Saving::NumeralFormat value)</argsstring>
+        <name>set_NumeralFormat</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::set_NumeralFormat</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_saving_1a9fc527ee2d419e235943a1fd44ec782e" kindref="member">Aspose::Words::Saving::NumeralFormat</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a342c8937835bd912528d137767001e22" kindref="member">Aspose::Words::Saving::FixedPageSaveOptions::get_NumeralFormat</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="299" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a11799e324c1e6fe42583f49e697690b9" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type>void</type>
+        <definition>virtual void Aspose::Words::Saving::FixedPageSaveOptions::set_OptimizeOutput</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_OptimizeOutput</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::set_OptimizeOutput</qualifiedname>
+        <reimplementedby refid="class_aspose_1_1_words_1_1_saving_1_1_html_fixed_save_options_1af31470a0f6c8cb207973ff4c85d46dd2">set_OptimizeOutput</reimplementedby>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a5b5ba06ac381a275da60e5f7bfaf0fec" kindref="member">Aspose::Words::Saving::FixedPageSaveOptions::get_OptimizeOutput</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="455" column="21"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ac9c030c94c0c536539a1f725fa70be77" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::FixedPageSaveOptions::set_PageSavingCallback</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Saving::IPageSavingCallback &gt; &amp;value)</argsstring>
+        <name>set_PageSavingCallback</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::set_PageSavingCallback</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_i_page_saving_callback" kindref="compound">Aspose::Words::Saving::IPageSavingCallback</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a946c829e55d34cdc9b730134b0569fd5" kindref="member">Aspose::Words::Saving::FixedPageSaveOptions::get_PageSavingCallback</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="265" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a0b9356a6ec3e79daa4a976f9ae1eb7ca" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Saving::FixedPageSaveOptions::set_PageSet</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Saving::PageSet &gt; &amp;value)</argsstring>
+        <name>set_PageSet</name>
+        <qualifiedname>Aspose::Words::Saving::FixedPageSaveOptions::set_PageSet</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_saving_1_1_page_set" kindref="compound">Aspose::Words::Saving::PageSet</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ae5425719ba374cba63e3262e18f285eb" kindref="member">Aspose::Words::Saving::FixedPageSaveOptions::get_PageSet</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="204" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Contains common options that can be specified when saving a document into fixed page formats (PDF, XPS, images etc). </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to render one page from a document to a JPEG image. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Page<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Page<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertImage(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Page<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;ImageSaveOptions&quot;<sp/>object<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>the<sp/>way<sp/>in<sp/>which<sp/>that<sp/>method<sp/>renders<sp/>the<sp/>document<sp/>into<sp/>an<sp/>image.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;ImageSaveOptions&gt;(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a5023eac1d7fffa77b37c0e6797c97773" kindref="member" tooltip="Renders a page of the document and saves it as a JPEG file.">SaveFormat::Jpeg</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;PageSet&quot;<sp/>to<sp/>&quot;1&quot;<sp/>to<sp/>select<sp/>the<sp/>second<sp/>page<sp/>via</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>zero-based<sp/>index<sp/>to<sp/>start<sp/>rendering<sp/>the<sp/>document<sp/>from.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">options-&gt;set_PageSet(MakeObject&lt;PageSet&gt;(1));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>save<sp/>the<sp/>document<sp/>to<sp/>the<sp/>JPEG<sp/>format,<sp/>Aspose.Words<sp/>only<sp/>renders<sp/>one<sp/>page.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>image<sp/>will<sp/>contain<sp/>one<sp/>page<sp/>starting<sp/>from<sp/>page<sp/>two,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>just<sp/>be<sp/>the<sp/>second<sp/>page<sp/>of<sp/>the<sp/>original<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;ImageSaveOptions.OnePage.jpg&quot;</highlight><highlight class="normal">,<sp/>options);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to render every page of a document to a separate TIFF image. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Page<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Page<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertImage(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Page<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>&quot;ImageSaveOptions&quot;<sp/>object<sp/>which<sp/>we<sp/>can<sp/>pass<sp/>to<sp/>the<sp/>document&apos;s<sp/>&quot;Save&quot;<sp/>method</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>modify<sp/>the<sp/>way<sp/>in<sp/>which<sp/>that<sp/>method<sp/>renders<sp/>the<sp/>document<sp/>into<sp/>an<sp/>image.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>options<sp/>=<sp/>MakeObject&lt;ImageSaveOptions&gt;(<ref refid="namespace_aspose_1_1_words_1a115f4c887d1fbaa2cbe273d422f7e847a72ab34b91787bd01f445189e04fef4ce" kindref="member" tooltip="Renders a page or pages of the document and saves them into a single or multipage TIFF file.">SaveFormat::Tiff</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>doc-&gt;get_PageCount();<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>&quot;PageSet&quot;<sp/>property<sp/>to<sp/>the<sp/>number<sp/>of<sp/>the<sp/>first<sp/>page<sp/>from</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>which<sp/>to<sp/>start<sp/>rendering<sp/>the<sp/>document<sp/>from.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>options-&gt;set_PageSet(MakeObject&lt;PageSet&gt;(i));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;Save(ArtifactsDir<sp/>+<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;ImageSaveOptions.PageByPage.{0}.tiff&quot;</highlight><highlight class="normal">,<sp/>i<sp/>+<sp/>1),<sp/>options);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::FixedPageSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Saving::HtmlFixedSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_html_fixed_save_options"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>Aspose::Words::Saving::ImageSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_image_save_options"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="6">
+        <label>Aspose::Words::Saving::PclSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_pcl_save_options"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="7">
+        <label>Aspose::Words::Saving::PdfSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_pdf_save_options"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="8">
+        <label>Aspose::Words::Saving::PsSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_ps_save_options"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Saving::SaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_save_options"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="9">
+        <label>Aspose::Words::Saving::SvgSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_svg_save_options"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="10">
+        <label>Aspose::Words::Saving::XamlFixedSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_xaml_fixed_save_options"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="11">
+        <label>Aspose::Words::Saving::XpsSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_xps_save_options"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Saving::FixedPageSaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Saving::SaveOptions</label>
+        <link refid="class_aspose_1_1_words_1_1_saving_1_1_save_options"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" line="103" column="1" bodyfile="Aspose.Words.Cpp/Saving/FixedPageSaveOptions.h" bodystart="104" bodyend="480"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a04d4000f97d9a076e008095c8c341118" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a5f8b7264160980e775d0ebc2bb87ec6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>CreateSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a92aa5f878a1d0f3e06f620fd1376142f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>CreateSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a0957be75c5d5e6c01c685b589b706366" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>Equals</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ad1b1a5a1d0fde04955e74265840f62b7" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>FixedPageSaveOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9fecca2156a70f1834bd1c913a129d47" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_AllowEmbeddingPostScriptFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ac1a855cc8feceb3d1cbe331b282931ef" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_ColorMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1aecb512ec263417e2e01c63dd53a91d0b" prot="private" virt="virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_CreateOutlinesForHeadingsInTables</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab9a4c7be9e7070ecbd5248bf01535ef3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_CustomTimeZoneInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a327b0f9146d84c39d72f09dffb55970d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_DefaultTemplate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ac309d37b349e0fd18de204c4b3493113" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_Dml3DEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0ad6a41669029f8bcb5d56ccd8eb1f25" prot="public" virt="virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_DmlEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a40d3faab0e88622c6fac579bbc050772" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_DmlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1add57516835dfbc84b4ac55117e03a6a5" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_ExportGeneratorName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ab3a4c36623e1cba81e21fb0c18fc27d6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a4032bbd708177dd64e3ba455a509e470" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_ImlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a1509423c212b838fd934c40c0be9f4df" prot="private" virt="virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_IsFlowFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a0d614cafba12f933e85316d18fc6f052" prot="private" virt="virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_IsShapingSupported</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a97d6477b73da72eb08d9d68e61e464c6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_JpegQuality</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a00434e0916cf24f88a1cff9f4952bff3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_MemoryOptimization</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a9aa8454e978e8bc63738b7646e73496c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_MetafileRenderingOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a342c8937835bd912528d137767001e22" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_NumeralFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a5b5ba06ac381a275da60e5f7bfaf0fec" prot="public" virt="virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_OptimizeOutput</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a946c829e55d34cdc9b730134b0569fd5" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_PageSavingCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ae5425719ba374cba63e3262e18f285eb" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_PageSet</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1af3590697cf94e5b1f546536a3bb20089" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_PrettyFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aabbd691992af320129ecf001454428b1" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6df9e8d37cc7794640ea5c5932134253" prot="public" virt="pure-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_SaveFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2eb22d168e7885c69f1a5ee73dfa9a9c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aafd986a59939576b688baf70ae2982b9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_UpdateCreatedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9058403d0bf8ef363c7265927c7d9689" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_UpdateFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ae00124e73b7ed35821a822f59a98456d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_UpdateLastPrintedProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aa37a14113e46f96d6a4100f33dbb41cd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_UpdateLastSavedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6ba4c67d7befc1d3959119554bc6ca0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_UpdateSdtContent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1ac07a919eda7dd3104c3539643caab82f" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_UseAntiAliasing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a926127b8a13db96c893d2e327d1ac458" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>get_UseHighQualityRendering</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1aa79536266bcb119887ec7cd101e8c869" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a1aeac9cd0dd6c7619a0d695ad6a3f26e" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a58e604c79e0bacc1183d76a2b5fdefb5" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a28de4b48372d3af49bc9f3b582a47c33" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a3f3b4f6c3bff07f3fd9a6bca829ab9d2" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ad097ac6f623095b69fe75c115bbe7778" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ad2a660d512cf5cda638f6026af4e48e7" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>mField6</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a66ca6bdb7f8ff4804f442fc020a6bfdd" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>mField7</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a7685bb49e69fb506be3d814343912890" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9bf0591a869b2046558fac161fb5c8b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_AllowEmbeddingPostScriptFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a1374624908c0c4ca45b73f9974787de8" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_ColorMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a70292d5b6ed5dd4ed81ab6779ada5037" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_CustomTimeZoneInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a6d50c71651e23523dd4edae9c8e03b0e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_DefaultTemplate</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a52f28c6f920bd4829f304f586dd52a4e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_Dml3DEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0415bb8f17f114f5b8bfbf77822f3e33" prot="public" virt="virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_DmlEffectsRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a925282153c1c7004637ce406968cd6bd" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_DmlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a2b3bada9094a54559b832d5051f5be6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_ExportGeneratorName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f2f79ea57714961156f913867823fc2" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_FlatOpcXmlMappingOnly</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afe2fd3cb5119a04f528a9da4b6c643b6" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_ImlRenderingMode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1af228e06a02d9af4afd279a5cba926e0c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_JpegQuality</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1b432af0d799842b6939005904d924b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_MemoryOptimization</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a1b8abe12e2961656a28d0be53c60feef" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_MetafileRenderingOptions</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1adb586e7d583e068e2823237d0ae2617e" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_NumeralFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a11799e324c1e6fe42583f49e697690b9" prot="public" virt="virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_OptimizeOutput</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ac9c030c94c0c536539a1f725fa70be77" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_PageSavingCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1a0b9356a6ec3e79daa4a976f9ae1eb7ca" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_PageSet</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a0333c9e934c7b7066c108975a65291c9" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_PrettyFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3ca5c36f7f1922b1f7b1f6e8528e29c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_ProgressCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a75d9ec81ad960179eba172764d2c60b9" prot="public" virt="pure-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_SaveFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a7488c6e1d35b21dda1fb3a6b24eb077c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_TempFolder</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aa6b3c59d2b5d93ecd4af333e7731a57a" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_UpdateCreatedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a1ca0e9e7685d9cfdacad9b0c1c47fede" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_UpdateFields</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a9253b0a7481cec6751f2d6e186d15f89" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_UpdateLastPrintedProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1a3f8626f9e2fdd5ea38f656ecffea4433" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_UpdateLastSavedTimeProperty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1afc31fd439351d75447554d3196522687" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_UpdateSdtContent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aee6a47d5aa51895c89fb99333990b15c" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_UseAntiAliasing</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_save_options_1aadd8de8195c06388cf619673c020dad3" prot="public" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>set_UseHighQualityRendering</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1ac8c390ca9ca0acd23609a36dfc8a7aef" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_saving_1_1_fixed_page_save_options_1afe3117bb90071af3c6e7df8932e95136" prot="private" virt="non-virtual"><scope>Aspose::Words::Saving::FixedPageSaveOptions</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

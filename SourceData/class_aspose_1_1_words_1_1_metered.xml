@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_metered" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Metered</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_metered_8h" local="no">Aspose.Words.Cpp/Metered.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_metered_1a3008c2dd9d0e567cbd83a11014d21a45" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Metered::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Metered::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Metered.h" line="29" column="28" bodyfile="Aspose.Words.Cpp/Metered.h" bodystart="29" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_metered_1a72e29d212ff28f5d74ab7d61485c0db6" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_metered" kindref="compound">Metered</ref></type>
+        <definition>typedef Metered Aspose::Words::Metered::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Metered::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Metered.h" line="28" column="21" bodyfile="Aspose.Words.Cpp/Metered.h" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_metered_1ac82207cb6b13fb3287cedd8dd5e26fc3" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Metered::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Metered::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Metered.h" line="31" column="37" bodyfile="Aspose.Words.Cpp/Metered.h" bodystart="31" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_metered_1a35e5d28146085ea8d3fed6bb848cb936" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Metered::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Metered::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Metered.h" line="32" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_metered_1a65b9921e03e735c6d67f62918a56b7cd" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Metered::Metered</definition>
+        <argsstring>()</argsstring>
+        <name>Metered</name>
+        <qualifiedname>Aspose::Words::Metered::Metered</qualifiedname>
+        <briefdescription>
+<para>Initializes a new instance of this class. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Metered.h" line="37" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_metered_1af8740b8048a166b26738339cd19556f8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Metered::SetMeteredKey</definition>
+        <argsstring>(const System::String &amp;publicKey, const System::String &amp;privateKey)</argsstring>
+        <name>SetMeteredKey</name>
+        <qualifiedname>Aspose::Words::Metered::SetMeteredKey</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>publicKey</declname>
+        </param>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>privateKey</declname>
+        </param>
+        <briefdescription>
+<para>Sets metered public and private key. If you purchase metered license, when start application, this API should be called, normally, this is enough. However, if always fail to upload consumption data and exceed 24 hours, the license will be set to evaluation status, to avoid such case, you should regularly check the license status, if it is evaluation status, call this API again. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>publicKey</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>public key </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>privateKey</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>private key </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Metered.h" line="46" column="13"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_metered_1a8fd75532aabf78ef500be56669359593" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.decimal/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Decimal</ref></type>
+        <definition>static System::Decimal Aspose::Words::Metered::GetConsumptionCredit</definition>
+        <argsstring>()</argsstring>
+        <name>GetConsumptionCredit</name>
+        <qualifiedname>Aspose::Words::Metered::GetConsumptionCredit</qualifiedname>
+        <briefdescription>
+<para>Gets consumption credit. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>consumption quantity </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Metered.h" line="56" column="31"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_metered_1afb29747379a32e40ce225c391726ebf2" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.decimal/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Decimal</ref></type>
+        <definition>static System::Decimal Aspose::Words::Metered::GetConsumptionQuantity</definition>
+        <argsstring>()</argsstring>
+        <name>GetConsumptionQuantity</name>
+        <qualifiedname>Aspose::Words::Metered::GetConsumptionQuantity</qualifiedname>
+        <briefdescription>
+<para>Gets consumption file size. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>consumption quantity </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Metered.h" line="51" column="31"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Provides methods to set metered key. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Metered</label>
+        <link refid="class_aspose_1_1_words_1_1_metered"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Metered</label>
+        <link refid="class_aspose_1_1_words_1_1_metered"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Metered.h" line="26" column="1" bodyfile="Aspose.Words.Cpp/Metered.h" bodystart="27" bodyend="58"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_metered_1a3008c2dd9d0e567cbd83a11014d21a45" prot="private" virt="non-virtual"><scope>Aspose::Words::Metered</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_metered_1a8fd75532aabf78ef500be56669359593" prot="public" virt="non-virtual"><scope>Aspose::Words::Metered</scope><name>GetConsumptionCredit</name></member>
+      <member refid="class_aspose_1_1_words_1_1_metered_1afb29747379a32e40ce225c391726ebf2" prot="public" virt="non-virtual"><scope>Aspose::Words::Metered</scope><name>GetConsumptionQuantity</name></member>
+      <member refid="class_aspose_1_1_words_1_1_metered_1a65b9921e03e735c6d67f62918a56b7cd" prot="public" virt="non-virtual"><scope>Aspose::Words::Metered</scope><name>Metered</name></member>
+      <member refid="class_aspose_1_1_words_1_1_metered_1a35e5d28146085ea8d3fed6bb848cb936" prot="private" virt="non-virtual"><scope>Aspose::Words::Metered</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_metered_1af8740b8048a166b26738339cd19556f8" prot="public" virt="non-virtual"><scope>Aspose::Words::Metered</scope><name>SetMeteredKey</name></member>
+      <member refid="class_aspose_1_1_words_1_1_metered_1a72e29d212ff28f5d74ab7d61485c0db6" prot="private" virt="non-virtual"><scope>Aspose::Words::Metered</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_metered_1ac82207cb6b13fb3287cedd8dd5e26fc3" prot="private" virt="non-virtual"><scope>Aspose::Words::Metered</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

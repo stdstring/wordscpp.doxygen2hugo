@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_license" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::License</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_license_8h" local="no">Aspose.Words.Cpp/License.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_license_1a738dfed9af4bb00d682fd1189f9642b9" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::License::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::License::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/License.h" line="61" column="28" bodyfile="Aspose.Words.Cpp/License.h" bodystart="61" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_license_1ae878bde945b0cde33e3865781bab0288" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_license" kindref="compound">License</ref></type>
+        <definition>typedef License Aspose::Words::License::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::License::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/License.h" line="60" column="21" bodyfile="Aspose.Words.Cpp/License.h" bodystart="60" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_license_1a900861c32f5695bbc455d00417ec765b" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::License::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::License::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/License.h" line="63" column="37" bodyfile="Aspose.Words.Cpp/License.h" bodystart="63" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_license_1a44fe30142c1a80adab3ca8d753318ef0" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::License::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::License::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/License.h" line="64" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_license_1ac35bf7d7ce612a36fb9e5ee750d6297f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::License::License</definition>
+        <argsstring>()</argsstring>
+        <name>License</name>
+        <qualifiedname>Aspose::Words::License::License</qualifiedname>
+        <briefdescription>
+<para>Initializes a new instance of this class. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how initialize a license for Aspose.Words using a license file in the local file system. <programlisting><codeline><highlight class="comment">//<sp/>Set<sp/>the<sp/>license<sp/>for<sp/>our<sp/>Aspose.Words<sp/>product<sp/>by<sp/>passing<sp/>the<sp/>local<sp/>file<sp/>system<sp/>filename<sp/>of<sp/>a<sp/>valid<sp/>license<sp/>file.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>licenseFileName<sp/>=<sp/><ref refid="class/system.i_o.path/_1a29adb2a8493ae80f056243b88dbf4de7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::Combine</ref>(LicenseDir,<sp/>u</highlight><highlight class="stringliteral">&quot;Aspose.Words.Cpp.lic&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>license<sp/>=<sp/>MakeObject&lt;License&gt;();</highlight></codeline>
+<codeline><highlight class="normal">license-&gt;SetLicense(licenseFileName);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>copy<sp/>of<sp/>our<sp/>license<sp/>file<sp/>in<sp/>the<sp/>binaries<sp/>folder<sp/>of<sp/>our<sp/>application.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>licenseCopyFileName<sp/>=<sp/><ref refid="class/system.i_o.path/_1a29adb2a8493ae80f056243b88dbf4de7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::Combine</ref>(AssemblyDir,<sp/>u</highlight><highlight class="stringliteral">&quot;Aspose.Words.Cpp.lic&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.i_o.file/_1a7047b678c1915b79c5f81b8b316b432a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::Copy</ref>(licenseFileName,<sp/>licenseCopyFileName);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>pass<sp/>a<sp/>file&apos;s<sp/>name<sp/>without<sp/>a<sp/>path,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>SetLicense<sp/>will<sp/>search<sp/>several<sp/>local<sp/>file<sp/>system<sp/>locations<sp/>for<sp/>this<sp/>file.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>One<sp/>of<sp/>those<sp/>locations<sp/>will<sp/>be<sp/>the<sp/>&quot;bin&quot;<sp/>folder,<sp/>which<sp/>contains<sp/>a<sp/>copy<sp/>of<sp/>our<sp/>license<sp/>file.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">license-&gt;SetLicense(u</highlight><highlight class="stringliteral">&quot;Aspose.Words.Cpp.lic&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/License.h" line="89" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_license_1abfa557ba158d46c41fda828d17adafa3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::License::SetLicense</definition>
+        <argsstring>(const System::SharedPtr&lt; System::IO::Stream &gt; &amp;stream)</argsstring>
+        <name>SetLicense</name>
+        <qualifiedname>Aspose::Words::License::SetLicense</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.i_o.stream/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Stream</ref> &gt; &amp;</type>
+          <declname>stream</declname>
+        </param>
+        <briefdescription>
+<para>Licenses the component. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Use this method to load a license from a stream.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>stream</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>A stream that contains the license.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to initialize a license for Aspose.Words from a stream. <programlisting><codeline><highlight class="comment">//<sp/>Set<sp/>the<sp/>license<sp/>for<sp/>our<sp/>Aspose.Words<sp/>product<sp/>by<sp/>passing<sp/>a<sp/>stream<sp/>for<sp/>a<sp/>valid<sp/>license<sp/>file<sp/>in<sp/>our<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::IO::Stream&gt;<sp/>myStream<sp/>=<sp/><ref refid="class/system.i_o.file/_1acf0c889be242fb4723b33e96e9377423" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::OpenRead</ref>(<ref refid="class/system.i_o.path/_1a29adb2a8493ae80f056243b88dbf4de7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::Combine</ref>(LicenseDir,<sp/>u</highlight><highlight class="stringliteral">&quot;Aspose.Words.Cpp.lic&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>license<sp/>=<sp/>MakeObject&lt;License&gt;();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>license-&gt;SetLicense(myStream);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/License.h" line="142" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_license_1a26c80f00858b6c8c92c1ca45c2d9ea08" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::License::SetLicense</definition>
+        <argsstring>(const System::String &amp;licenseName)</argsstring>
+        <name>SetLicense</name>
+        <qualifiedname>Aspose::Words::License::SetLicense</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>licenseName</declname>
+        </param>
+        <briefdescription>
+<para>Licenses the component. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Tries to find the license in the following locations:</para>
+<para><orderedlist>
+<listitem><para>Explicit path.</para>
+</listitem><listitem><para>The folder that contains the Aspose.Words library.</para>
+</listitem><listitem><para>The folder that contains the client&apos;s application.</para>
+</listitem></orderedlist>
+</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>licenseName</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Can be a full or short file name. Use an empty string to switch to evaluation mode.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how initialize a license for Aspose.Words using a license file in the local file system. <programlisting><codeline><highlight class="comment">//<sp/>Set<sp/>the<sp/>license<sp/>for<sp/>our<sp/>Aspose.Words<sp/>product<sp/>by<sp/>passing<sp/>the<sp/>local<sp/>file<sp/>system<sp/>filename<sp/>of<sp/>a<sp/>valid<sp/>license<sp/>file.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>licenseFileName<sp/>=<sp/><ref refid="class/system.i_o.path/_1a29adb2a8493ae80f056243b88dbf4de7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::Combine</ref>(LicenseDir,<sp/>u</highlight><highlight class="stringliteral">&quot;Aspose.Words.Cpp.lic&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>license<sp/>=<sp/>MakeObject&lt;License&gt;();</highlight></codeline>
+<codeline><highlight class="normal">license-&gt;SetLicense(licenseFileName);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>copy<sp/>of<sp/>our<sp/>license<sp/>file<sp/>in<sp/>the<sp/>binaries<sp/>folder<sp/>of<sp/>our<sp/>application.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>licenseCopyFileName<sp/>=<sp/><ref refid="class/system.i_o.path/_1a29adb2a8493ae80f056243b88dbf4de7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::Combine</ref>(AssemblyDir,<sp/>u</highlight><highlight class="stringliteral">&quot;Aspose.Words.Cpp.lic&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.i_o.file/_1a7047b678c1915b79c5f81b8b316b432a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::Copy</ref>(licenseFileName,<sp/>licenseCopyFileName);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>pass<sp/>a<sp/>file&apos;s<sp/>name<sp/>without<sp/>a<sp/>path,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>SetLicense<sp/>will<sp/>search<sp/>several<sp/>local<sp/>file<sp/>system<sp/>locations<sp/>for<sp/>this<sp/>file.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>One<sp/>of<sp/>those<sp/>locations<sp/>will<sp/>be<sp/>the<sp/>&quot;bin&quot;<sp/>folder,<sp/>which<sp/>contains<sp/>a<sp/>copy<sp/>of<sp/>our<sp/>license<sp/>file.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">license-&gt;SetLicense(u</highlight><highlight class="stringliteral">&quot;Aspose.Words.Cpp.lic&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/License.h" line="123" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_license_1a357677c4502717d265ba2f035b5337bd" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <templateparamlist>
+          <param>
+            <type>typename CharType</type>
+          </param>
+          <param>
+            <type>typename Traits</type>
+          </param>
+        </templateparamlist>
+        <type>void</type>
+        <definition>void Aspose::Words::License::SetLicense</definition>
+        <argsstring>(std::basic_istream&lt; CharType, Traits &gt; &amp;stream)</argsstring>
+        <name>SetLicense</name>
+        <qualifiedname>Aspose::Words::License::SetLicense</qualifiedname>
+        <param>
+          <type>std::basic_istream&lt; CharType, Traits &gt; &amp;</type>
+          <declname>stream</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/License.h" line="145" column="10" bodyfile="Aspose.Words.Cpp/License.h" bodystart="145" bodyend="149"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Provides methods to license the component. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how initialize a license for Aspose.Words using a license file in the local file system. <programlisting><codeline><highlight class="comment">//<sp/>Set<sp/>the<sp/>license<sp/>for<sp/>our<sp/>Aspose.Words<sp/>product<sp/>by<sp/>passing<sp/>the<sp/>local<sp/>file<sp/>system<sp/>filename<sp/>of<sp/>a<sp/>valid<sp/>license<sp/>file.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>licenseFileName<sp/>=<sp/><ref refid="class/system.i_o.path/_1a29adb2a8493ae80f056243b88dbf4de7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::Combine</ref>(LicenseDir,<sp/>u</highlight><highlight class="stringliteral">&quot;Aspose.Words.Cpp.lic&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>license<sp/>=<sp/>MakeObject&lt;License&gt;();</highlight></codeline>
+<codeline><highlight class="normal">license-&gt;SetLicense(licenseFileName);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>copy<sp/>of<sp/>our<sp/>license<sp/>file<sp/>in<sp/>the<sp/>binaries<sp/>folder<sp/>of<sp/>our<sp/>application.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref><sp/>licenseCopyFileName<sp/>=<sp/><ref refid="class/system.i_o.path/_1a29adb2a8493ae80f056243b88dbf4de7" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::Path::Combine</ref>(AssemblyDir,<sp/>u</highlight><highlight class="stringliteral">&quot;Aspose.Words.Cpp.lic&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.i_o.file/_1a7047b678c1915b79c5f81b8b316b432a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::Copy</ref>(licenseFileName,<sp/>licenseCopyFileName);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>pass<sp/>a<sp/>file&apos;s<sp/>name<sp/>without<sp/>a<sp/>path,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>SetLicense<sp/>will<sp/>search<sp/>several<sp/>local<sp/>file<sp/>system<sp/>locations<sp/>for<sp/>this<sp/>file.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>One<sp/>of<sp/>those<sp/>locations<sp/>will<sp/>be<sp/>the<sp/>&quot;bin&quot;<sp/>folder,<sp/>which<sp/>contains<sp/>a<sp/>copy<sp/>of<sp/>our<sp/>license<sp/>file.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">license-&gt;SetLicense(u</highlight><highlight class="stringliteral">&quot;Aspose.Words.Cpp.lic&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::License</label>
+        <link refid="class_aspose_1_1_words_1_1_license"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::License</label>
+        <link refid="class_aspose_1_1_words_1_1_license"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/License.h" line="58" column="1" bodyfile="Aspose.Words.Cpp/License.h" bodystart="59" bodyend="151"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_license_1a738dfed9af4bb00d682fd1189f9642b9" prot="private" virt="non-virtual"><scope>Aspose::Words::License</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_license_1ac35bf7d7ce612a36fb9e5ee750d6297f" prot="public" virt="non-virtual"><scope>Aspose::Words::License</scope><name>License</name></member>
+      <member refid="class_aspose_1_1_words_1_1_license_1a44fe30142c1a80adab3ca8d753318ef0" prot="private" virt="non-virtual"><scope>Aspose::Words::License</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_license_1a26c80f00858b6c8c92c1ca45c2d9ea08" prot="public" virt="non-virtual"><scope>Aspose::Words::License</scope><name>SetLicense</name></member>
+      <member refid="class_aspose_1_1_words_1_1_license_1abfa557ba158d46c41fda828d17adafa3" prot="public" virt="non-virtual"><scope>Aspose::Words::License</scope><name>SetLicense</name></member>
+      <member refid="class_aspose_1_1_words_1_1_license_1a357677c4502717d265ba2f035b5337bd" prot="public" virt="non-virtual"><scope>Aspose::Words::License</scope><name>SetLicense</name></member>
+      <member refid="class_aspose_1_1_words_1_1_license_1ae878bde945b0cde33e3865781bab0288" prot="private" virt="non-virtual"><scope>Aspose::Words::License</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_license_1a900861c32f5695bbc455d00417ec765b" prot="private" virt="non-virtual"><scope>Aspose::Words::License</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

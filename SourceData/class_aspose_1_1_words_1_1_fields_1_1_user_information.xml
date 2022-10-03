@@ -1,0 +1,447 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_user_information" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::UserInformation</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_user_information_8h" local="no">Aspose.Words.Cpp/Fields/UserInformation.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a53d479dc791beb7e845a925d1b380e26" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Fields::UserInformation::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::UserInformation::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/UserInformation.h" line="61" column="28" bodyfile="Aspose.Words.Cpp/Fields/UserInformation.h" bodystart="61" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_user_information_1af9fa854f6a6c389a7fcb1ec2828ccd09" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_user_information" kindref="compound">UserInformation</ref></type>
+        <definition>typedef UserInformation Aspose::Words::Fields::UserInformation::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::UserInformation::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/UserInformation.h" line="60" column="29" bodyfile="Aspose.Words.Cpp/Fields/UserInformation.h" bodystart="60" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a3071168f4f23d93d6fe2e919fd57c452" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Fields::UserInformation::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::UserInformation::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/UserInformation.h" line="63" column="37" bodyfile="Aspose.Words.Cpp/Fields/UserInformation.h" bodystart="63" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a37f5bb595510b8bd3292e7234a1f2bb8" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::UserInformation::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Fields::UserInformation::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/UserInformation.h" line="229" column="20" bodyfile="Aspose.Words.Cpp/Fields/UserInformation.h" bodystart="229" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a6d4dd9fd9d60d795f49bd6a7a2197810" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::UserInformation::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Fields::UserInformation::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/UserInformation.h" line="230" column="20" bodyfile="Aspose.Words.Cpp/Fields/UserInformation.h" bodystart="230" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4809182d0a0536881aff62588e59edc0" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::UserInformation::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Fields::UserInformation::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/UserInformation.h" line="231" column="20" bodyfile="Aspose.Words.Cpp/Fields/UserInformation.h" bodystart="231" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_user_information_1aa0ccb679a66e99276d47f9a2cdf52623" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::UserInformation::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::UserInformation::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/UserInformation.h" line="64" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4ab1a8f3668f71a5918a58e24ec38d1e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::UserInformation::UserInformation</definition>
+        <argsstring>()</argsstring>
+        <name>UserInformation</name>
+        <qualifiedname>Aspose::Words::Fields::UserInformation::UserInformation</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/UserInformation.h" line="225" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a8630cd67d5fdc75e9692499515789acf" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::UserInformation::get_Address</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Address</name>
+        <qualifiedname>Aspose::Words::Fields::UserInformation::get_Address</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the user&apos;s postal address. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set user details, and display them using fields. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>UserInformation<sp/>object<sp/>and<sp/>set<sp/>it<sp/>as<sp/>the<sp/>data<sp/>source<sp/>for<sp/>fields<sp/>that<sp/>display<sp/>user<sp/>information.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>userInformation<sp/>=<sp/>MakeObject&lt;UserInformation&gt;();</highlight></codeline>
+<codeline><highlight class="normal">userInformation-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">userInformation-&gt;set_Initials(u</highlight><highlight class="stringliteral">&quot;J.<sp/>D.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">userInformation-&gt;set_Address(u</highlight><highlight class="stringliteral">&quot;123<sp/>Main<sp/>Street&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FieldOptions()-&gt;set_CurrentUser(userInformation);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>USERNAME,<sp/>USERINITIALS,<sp/>and<sp/>USERADDRESS<sp/>fields,<sp/>which<sp/>display<sp/>values<sp/>of</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>respective<sp/>properties<sp/>of<sp/>the<sp/>UserInformation<sp/>object<sp/>that<sp/>we<sp/>have<sp/>created<sp/>above.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(userInformation-&gt;get_Name(),<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERNAME<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(userInformation-&gt;get_Initials(),<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERINITIALS<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(userInformation-&gt;get_Address(),<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERADDRESS<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>field<sp/>options<sp/>object<sp/>also<sp/>has<sp/>a<sp/>static<sp/>default<sp/>user<sp/>that<sp/>fields<sp/>from<sp/>all<sp/>documents<sp/>can<sp/>refer<sp/>to.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4119867d9fbc2eab7941cbf67ab87ed8" kindref="member" tooltip="Default user information.">UserInformation::get_DefaultUser</ref>()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Default<sp/>User&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4119867d9fbc2eab7941cbf67ab87ed8" kindref="member" tooltip="Default user information.">UserInformation::get_DefaultUser</ref>()-&gt;set_Initials(u</highlight><highlight class="stringliteral">&quot;D.<sp/>U.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4119867d9fbc2eab7941cbf67ab87ed8" kindref="member" tooltip="Default user information.">UserInformation::get_DefaultUser</ref>()-&gt;set_Address(u</highlight><highlight class="stringliteral">&quot;One<sp/>Microsoft<sp/>Way&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FieldOptions()-&gt;set_CurrentUser(<ref refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4119867d9fbc2eab7941cbf67ab87ed8" kindref="member" tooltip="Default user information.">UserInformation::get_DefaultUser</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Default<sp/>User&quot;</highlight><highlight class="normal">,<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERNAME<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;D.<sp/>U.&quot;</highlight><highlight class="normal">,<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERINITIALS<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;One<sp/>Microsoft<sp/>Way&quot;</highlight><highlight class="normal">,<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERADDRESS<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FieldOptions.CurrentUser.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/UserInformation.h" line="183" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a2e9ed1a272f113d507b980bd0b680717" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::UserInformation::get_Initials</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Initials</name>
+        <qualifiedname>Aspose::Words::Fields::UserInformation::get_Initials</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the user&apos;s initials. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set user details, and display them using fields. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>UserInformation<sp/>object<sp/>and<sp/>set<sp/>it<sp/>as<sp/>the<sp/>data<sp/>source<sp/>for<sp/>fields<sp/>that<sp/>display<sp/>user<sp/>information.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>userInformation<sp/>=<sp/>MakeObject&lt;UserInformation&gt;();</highlight></codeline>
+<codeline><highlight class="normal">userInformation-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">userInformation-&gt;set_Initials(u</highlight><highlight class="stringliteral">&quot;J.<sp/>D.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">userInformation-&gt;set_Address(u</highlight><highlight class="stringliteral">&quot;123<sp/>Main<sp/>Street&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FieldOptions()-&gt;set_CurrentUser(userInformation);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>USERNAME,<sp/>USERINITIALS,<sp/>and<sp/>USERADDRESS<sp/>fields,<sp/>which<sp/>display<sp/>values<sp/>of</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>respective<sp/>properties<sp/>of<sp/>the<sp/>UserInformation<sp/>object<sp/>that<sp/>we<sp/>have<sp/>created<sp/>above.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(userInformation-&gt;get_Name(),<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERNAME<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(userInformation-&gt;get_Initials(),<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERINITIALS<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(userInformation-&gt;get_Address(),<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERADDRESS<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>field<sp/>options<sp/>object<sp/>also<sp/>has<sp/>a<sp/>static<sp/>default<sp/>user<sp/>that<sp/>fields<sp/>from<sp/>all<sp/>documents<sp/>can<sp/>refer<sp/>to.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4119867d9fbc2eab7941cbf67ab87ed8" kindref="member" tooltip="Default user information.">UserInformation::get_DefaultUser</ref>()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Default<sp/>User&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4119867d9fbc2eab7941cbf67ab87ed8" kindref="member" tooltip="Default user information.">UserInformation::get_DefaultUser</ref>()-&gt;set_Initials(u</highlight><highlight class="stringliteral">&quot;D.<sp/>U.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4119867d9fbc2eab7941cbf67ab87ed8" kindref="member" tooltip="Default user information.">UserInformation::get_DefaultUser</ref>()-&gt;set_Address(u</highlight><highlight class="stringliteral">&quot;One<sp/>Microsoft<sp/>Way&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FieldOptions()-&gt;set_CurrentUser(<ref refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4119867d9fbc2eab7941cbf67ab87ed8" kindref="member" tooltip="Default user information.">UserInformation::get_DefaultUser</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Default<sp/>User&quot;</highlight><highlight class="normal">,<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERNAME<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;D.<sp/>U.&quot;</highlight><highlight class="normal">,<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERINITIALS<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;One<sp/>Microsoft<sp/>Way&quot;</highlight><highlight class="normal">,<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERADDRESS<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FieldOptions.CurrentUser.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/UserInformation.h" line="143" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a5c4541a769f5b882e6a5d323f5a89ead" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::UserInformation::get_Name</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Name</name>
+        <qualifiedname>Aspose::Words::Fields::UserInformation::get_Name</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the user&apos;s name. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set user details, and display them using fields. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>UserInformation<sp/>object<sp/>and<sp/>set<sp/>it<sp/>as<sp/>the<sp/>data<sp/>source<sp/>for<sp/>fields<sp/>that<sp/>display<sp/>user<sp/>information.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>userInformation<sp/>=<sp/>MakeObject&lt;UserInformation&gt;();</highlight></codeline>
+<codeline><highlight class="normal">userInformation-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">userInformation-&gt;set_Initials(u</highlight><highlight class="stringliteral">&quot;J.<sp/>D.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">userInformation-&gt;set_Address(u</highlight><highlight class="stringliteral">&quot;123<sp/>Main<sp/>Street&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FieldOptions()-&gt;set_CurrentUser(userInformation);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>USERNAME,<sp/>USERINITIALS,<sp/>and<sp/>USERADDRESS<sp/>fields,<sp/>which<sp/>display<sp/>values<sp/>of</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>respective<sp/>properties<sp/>of<sp/>the<sp/>UserInformation<sp/>object<sp/>that<sp/>we<sp/>have<sp/>created<sp/>above.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(userInformation-&gt;get_Name(),<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERNAME<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(userInformation-&gt;get_Initials(),<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERINITIALS<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(userInformation-&gt;get_Address(),<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERADDRESS<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>field<sp/>options<sp/>object<sp/>also<sp/>has<sp/>a<sp/>static<sp/>default<sp/>user<sp/>that<sp/>fields<sp/>from<sp/>all<sp/>documents<sp/>can<sp/>refer<sp/>to.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4119867d9fbc2eab7941cbf67ab87ed8" kindref="member" tooltip="Default user information.">UserInformation::get_DefaultUser</ref>()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Default<sp/>User&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4119867d9fbc2eab7941cbf67ab87ed8" kindref="member" tooltip="Default user information.">UserInformation::get_DefaultUser</ref>()-&gt;set_Initials(u</highlight><highlight class="stringliteral">&quot;D.<sp/>U.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4119867d9fbc2eab7941cbf67ab87ed8" kindref="member" tooltip="Default user information.">UserInformation::get_DefaultUser</ref>()-&gt;set_Address(u</highlight><highlight class="stringliteral">&quot;One<sp/>Microsoft<sp/>Way&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FieldOptions()-&gt;set_CurrentUser(<ref refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4119867d9fbc2eab7941cbf67ab87ed8" kindref="member" tooltip="Default user information.">UserInformation::get_DefaultUser</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Default<sp/>User&quot;</highlight><highlight class="normal">,<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERNAME<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;D.<sp/>U.&quot;</highlight><highlight class="normal">,<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERINITIALS<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;One<sp/>Microsoft<sp/>Way&quot;</highlight><highlight class="normal">,<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERADDRESS<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FieldOptions.CurrentUser.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/UserInformation.h" line="103" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_user_information_1aa7953d0f0b0344da0d6ca41418f4d4a6" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::UserInformation::set_Address</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Address</name>
+        <qualifiedname>Aspose::Words::Fields::UserInformation::set_Address</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a8630cd67d5fdc75e9692499515789acf" kindref="member">Aspose::Words::Fields::UserInformation::get_Address</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/UserInformation.h" line="186" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_user_information_1ae64f7f5c8c997726d8eb483203f1e8db" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::UserInformation::set_Initials</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Initials</name>
+        <qualifiedname>Aspose::Words::Fields::UserInformation::set_Initials</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a2e9ed1a272f113d507b980bd0b680717" kindref="member">Aspose::Words::Fields::UserInformation::get_Initials</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/UserInformation.h" line="146" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4d4eb8aa9a4192bad1f3e877edea9bfd" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::UserInformation::set_Name</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Name</name>
+        <qualifiedname>Aspose::Words::Fields::UserInformation::set_Name</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a5c4541a769f5b882e6a5d323f5a89ead" kindref="member">Aspose::Words::Fields::UserInformation::get_Name</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/UserInformation.h" line="106" column="13"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4119867d9fbc2eab7941cbf67ab87ed8" prot="public" static="yes" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_user_information" kindref="compound">Aspose::Words::Fields::UserInformation</ref> &gt;</type>
+        <definition>static System::SharedPtr&lt; Aspose::Words::Fields::UserInformation &gt; Aspose::Words::Fields::UserInformation::get_DefaultUser</definition>
+        <argsstring>()</argsstring>
+        <name>get_DefaultUser</name>
+        <qualifiedname>Aspose::Words::Fields::UserInformation::get_DefaultUser</qualifiedname>
+        <briefdescription>
+<para>Default user information. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set user details, and display them using fields. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>UserInformation<sp/>object<sp/>and<sp/>set<sp/>it<sp/>as<sp/>the<sp/>data<sp/>source<sp/>for<sp/>fields<sp/>that<sp/>display<sp/>user<sp/>information.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>userInformation<sp/>=<sp/>MakeObject&lt;UserInformation&gt;();</highlight></codeline>
+<codeline><highlight class="normal">userInformation-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">userInformation-&gt;set_Initials(u</highlight><highlight class="stringliteral">&quot;J.<sp/>D.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">userInformation-&gt;set_Address(u</highlight><highlight class="stringliteral">&quot;123<sp/>Main<sp/>Street&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FieldOptions()-&gt;set_CurrentUser(userInformation);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>USERNAME,<sp/>USERINITIALS,<sp/>and<sp/>USERADDRESS<sp/>fields,<sp/>which<sp/>display<sp/>values<sp/>of</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>respective<sp/>properties<sp/>of<sp/>the<sp/>UserInformation<sp/>object<sp/>that<sp/>we<sp/>have<sp/>created<sp/>above.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(userInformation-&gt;get_Name(),<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERNAME<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(userInformation-&gt;get_Initials(),<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERINITIALS<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(userInformation-&gt;get_Address(),<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERADDRESS<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>field<sp/>options<sp/>object<sp/>also<sp/>has<sp/>a<sp/>static<sp/>default<sp/>user<sp/>that<sp/>fields<sp/>from<sp/>all<sp/>documents<sp/>can<sp/>refer<sp/>to.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4119867d9fbc2eab7941cbf67ab87ed8" kindref="member" tooltip="Default user information.">UserInformation::get_DefaultUser</ref>()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Default<sp/>User&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4119867d9fbc2eab7941cbf67ab87ed8" kindref="member" tooltip="Default user information.">UserInformation::get_DefaultUser</ref>()-&gt;set_Initials(u</highlight><highlight class="stringliteral">&quot;D.<sp/>U.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4119867d9fbc2eab7941cbf67ab87ed8" kindref="member" tooltip="Default user information.">UserInformation::get_DefaultUser</ref>()-&gt;set_Address(u</highlight><highlight class="stringliteral">&quot;One<sp/>Microsoft<sp/>Way&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FieldOptions()-&gt;set_CurrentUser(<ref refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4119867d9fbc2eab7941cbf67ab87ed8" kindref="member" tooltip="Default user information.">UserInformation::get_DefaultUser</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Default<sp/>User&quot;</highlight><highlight class="normal">,<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERNAME<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;D.<sp/>U.&quot;</highlight><highlight class="normal">,<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERINITIALS<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;One<sp/>Microsoft<sp/>Way&quot;</highlight><highlight class="normal">,<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERADDRESS<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FieldOptions.CurrentUser.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/UserInformation.h" line="223" column="33"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Specifies information about the user. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to set user details, and display them using fields. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>UserInformation<sp/>object<sp/>and<sp/>set<sp/>it<sp/>as<sp/>the<sp/>data<sp/>source<sp/>for<sp/>fields<sp/>that<sp/>display<sp/>user<sp/>information.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>userInformation<sp/>=<sp/>MakeObject&lt;UserInformation&gt;();</highlight></codeline>
+<codeline><highlight class="normal">userInformation-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;John<sp/>Doe&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">userInformation-&gt;set_Initials(u</highlight><highlight class="stringliteral">&quot;J.<sp/>D.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">userInformation-&gt;set_Address(u</highlight><highlight class="stringliteral">&quot;123<sp/>Main<sp/>Street&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FieldOptions()-&gt;set_CurrentUser(userInformation);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>USERNAME,<sp/>USERINITIALS,<sp/>and<sp/>USERADDRESS<sp/>fields,<sp/>which<sp/>display<sp/>values<sp/>of</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>respective<sp/>properties<sp/>of<sp/>the<sp/>UserInformation<sp/>object<sp/>that<sp/>we<sp/>have<sp/>created<sp/>above.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(userInformation-&gt;get_Name(),<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERNAME<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(userInformation-&gt;get_Initials(),<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERINITIALS<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(userInformation-&gt;get_Address(),<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERADDRESS<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>field<sp/>options<sp/>object<sp/>also<sp/>has<sp/>a<sp/>static<sp/>default<sp/>user<sp/>that<sp/>fields<sp/>from<sp/>all<sp/>documents<sp/>can<sp/>refer<sp/>to.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4119867d9fbc2eab7941cbf67ab87ed8" kindref="member" tooltip="Default user information.">UserInformation::get_DefaultUser</ref>()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Default<sp/>User&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4119867d9fbc2eab7941cbf67ab87ed8" kindref="member" tooltip="Default user information.">UserInformation::get_DefaultUser</ref>()-&gt;set_Initials(u</highlight><highlight class="stringliteral">&quot;D.<sp/>U.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4119867d9fbc2eab7941cbf67ab87ed8" kindref="member" tooltip="Default user information.">UserInformation::get_DefaultUser</ref>()-&gt;set_Address(u</highlight><highlight class="stringliteral">&quot;One<sp/>Microsoft<sp/>Way&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FieldOptions()-&gt;set_CurrentUser(<ref refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4119867d9fbc2eab7941cbf67ab87ed8" kindref="member" tooltip="Default user information.">UserInformation::get_DefaultUser</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Default<sp/>User&quot;</highlight><highlight class="normal">,<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERNAME<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;D.<sp/>U.&quot;</highlight><highlight class="normal">,<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERINITIALS<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;One<sp/>Microsoft<sp/>Way&quot;</highlight><highlight class="normal">,<sp/>builder-&gt;InsertField(u</highlight><highlight class="stringliteral">&quot;<sp/>USERADDRESS<sp/>&quot;</highlight><highlight class="normal">)-&gt;get_Result());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;FieldOptions.CurrentUser.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Fields::UserInformation</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_user_information"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Fields::UserInformation</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_user_information"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/UserInformation.h" line="58" column="1" bodyfile="Aspose.Words.Cpp/Fields/UserInformation.h" bodystart="59" bodyend="233"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a53d479dc791beb7e845a925d1b380e26" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::UserInformation</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a8630cd67d5fdc75e9692499515789acf" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::UserInformation</scope><name>get_Address</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4119867d9fbc2eab7941cbf67ab87ed8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::UserInformation</scope><name>get_DefaultUser</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a2e9ed1a272f113d507b980bd0b680717" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::UserInformation</scope><name>get_Initials</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a5c4541a769f5b882e6a5d323f5a89ead" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::UserInformation</scope><name>get_Name</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a37f5bb595510b8bd3292e7234a1f2bb8" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::UserInformation</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a6d4dd9fd9d60d795f49bd6a7a2197810" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::UserInformation</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4809182d0a0536881aff62588e59edc0" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::UserInformation</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1aa0ccb679a66e99276d47f9a2cdf52623" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::UserInformation</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1aa7953d0f0b0344da0d6ca41418f4d4a6" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::UserInformation</scope><name>set_Address</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1ae64f7f5c8c997726d8eb483203f1e8db" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::UserInformation</scope><name>set_Initials</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4d4eb8aa9a4192bad1f3e877edea9bfd" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::UserInformation</scope><name>set_Name</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1af9fa854f6a6c389a7fcb1ec2828ccd09" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::UserInformation</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a3071168f4f23d93d6fe2e919fd57c452" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::UserInformation</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_user_information_1a4ab1a8f3668f71a5918a58e24ec38d1e" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::UserInformation</scope><name>UserInformation</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

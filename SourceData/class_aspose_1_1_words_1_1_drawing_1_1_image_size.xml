@@ -1,0 +1,590 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_drawing_1_1_image_size" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Drawing::ImageSize</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_image_size_8h" local="no">Aspose.Words.Cpp/Drawing/ImageSize.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1a7bbb856a076efa57537045ad2c759024" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Drawing::ImageSize::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Drawing::ImageSize::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/ImageSize.h" line="69" column="28" bodyfile="Aspose.Words.Cpp/Drawing/ImageSize.h" bodystart="69" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1a0fa62fdac6de423c012f4e4236c95d36" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_drawing_1_1_image_size" kindref="compound">ImageSize</ref></type>
+        <definition>typedef ImageSize Aspose::Words::Drawing::ImageSize::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Drawing::ImageSize::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/ImageSize.h" line="68" column="23" bodyfile="Aspose.Words.Cpp/Drawing/ImageSize.h" bodystart="68" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1afa7e63288441b36927edf59fb12867cf" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Drawing::ImageSize::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Drawing::ImageSize::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/ImageSize.h" line="71" column="37" bodyfile="Aspose.Words.Cpp/Drawing/ImageSize.h" bodystart="71" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1a6ea6a0eec4c29e9bda5b57a3e0115462" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Drawing::ImageSize::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Drawing::ImageSize::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/ImageSize.h" line="310" column="23" bodyfile="Aspose.Words.Cpp/Drawing/ImageSize.h" bodystart="310" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1a77d15c8ae55a263cfd09c0a74150f589" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Drawing::ImageSize::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Drawing::ImageSize::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/ImageSize.h" line="311" column="23" bodyfile="Aspose.Words.Cpp/Drawing/ImageSize.h" bodystart="311" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1a545a6a508459105a2f2772033bf29a7b" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 8, 8, 8, 8 &gt;::type</type>
+        <definition>__TypeStub&lt;8,8,8,8&gt;::type Aspose::Words::Drawing::ImageSize::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Drawing::ImageSize::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/ImageSize.h" line="312" column="23" bodyfile="Aspose.Words.Cpp/Drawing/ImageSize.h" bodystart="312" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1a20c16a04185d84dc422b8d6fc85f2838" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 8, 8, 8, 8 &gt;::type</type>
+        <definition>__TypeStub&lt;8,8,8,8&gt;::type Aspose::Words::Drawing::ImageSize::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Drawing::ImageSize::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/ImageSize.h" line="313" column="23" bodyfile="Aspose.Words.Cpp/Drawing/ImageSize.h" bodystart="313" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1af12f832e8c9fe69df8456ae830ba7b5f" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Drawing::ImageSize::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Drawing::ImageSize::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/ImageSize.h" line="72" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1abe4c936432e739f2b3e4d5e0535091e2" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Drawing::ImageSize::ImageSize</definition>
+        <argsstring>(int32_t widthPixels, int32_t heightPixels)</argsstring>
+        <name>ImageSize</name>
+        <qualifiedname>Aspose::Words::Drawing::ImageSize::ImageSize</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>widthPixels</declname>
+        </param>
+        <param>
+          <type>int32_t</type>
+          <declname>heightPixels</declname>
+        </param>
+        <briefdescription>
+<para>Initializes width and height to the given values in pixels. Initializes resolution to 96 dpi. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>widthPixels</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Width in pixels. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>heightPixels</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Height in pixels. </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/ImageSize.h" line="296" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1abbe7f0845495cfb22cdcb034534b9714" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Drawing::ImageSize::ImageSize</definition>
+        <argsstring>(int32_t widthPixels, int32_t heightPixels, double horizontalResolution, double verticalResolution)</argsstring>
+        <name>ImageSize</name>
+        <qualifiedname>Aspose::Words::Drawing::ImageSize::ImageSize</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>widthPixels</declname>
+        </param>
+        <param>
+          <type>int32_t</type>
+          <declname>heightPixels</declname>
+        </param>
+        <param>
+          <type>double</type>
+          <declname>horizontalResolution</declname>
+        </param>
+        <param>
+          <type>double</type>
+          <declname>verticalResolution</declname>
+        </param>
+        <briefdescription>
+<para>Initializes width, height and resolution to the given values. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>widthPixels</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Width in pixels. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>heightPixels</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Height in pixels. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>horizontalResolution</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Horizontal resolution in DPI. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>verticalResolution</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Vertical resolution in DPI. </para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/ImageSize.h" line="304" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1a26557cbab285aac1d0a94d1cb1c1e265" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Drawing::ImageSize::get_HeightPixels</definition>
+        <argsstring>() const</argsstring>
+        <name>get_HeightPixels</name>
+        <qualifiedname>Aspose::Words::Drawing::ImageSize::get_HeightPixels</qualifiedname>
+        <briefdescription>
+<para>Gets the height of the image in pixels. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to read the properties of an image in a shape. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>shape<sp/>into<sp/>the<sp/>document<sp/>which<sp/>contains<sp/>an<sp/>image<sp/>taken<sp/>from<sp/>our<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertImage(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>shape<sp/>contains<sp/>an<sp/>image,<sp/>its<sp/>ImageData<sp/>property<sp/>will<sp/>be<sp/>valid,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>it<sp/>will<sp/>contain<sp/>an<sp/>ImageSize<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ImageSize&gt;<sp/>imageSize<sp/>=<sp/>shape-&gt;get_ImageData()-&gt;get_ImageSize();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>ImageSize<sp/>object<sp/>contains<sp/>read-only<sp/>information<sp/>about<sp/>the<sp/>image<sp/>within<sp/>the<sp/>shape.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(400,<sp/>imageSize-&gt;get_HeightPixels());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(400,<sp/>imageSize-&gt;get_WidthPixels());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">double</highlight><highlight class="normal"><sp/>delta<sp/>=<sp/>0.05;</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(95.98,<sp/>imageSize-&gt;get_HorizontalResolution(),<sp/>delta);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(95.98,<sp/>imageSize-&gt;get_VerticalResolution(),<sp/>delta);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>base<sp/>the<sp/>size<sp/>of<sp/>the<sp/>shape<sp/>on<sp/>the<sp/>size<sp/>of<sp/>its<sp/>image<sp/>to<sp/>avoid<sp/>stretching<sp/>the<sp/>image.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;set_Width(imageSize-&gt;get_WidthPoints()<sp/>*<sp/>2);</highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;set_Height(imageSize-&gt;get_HeightPoints()<sp/>*<sp/>2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Drawing.ImageSize.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/ImageSize.h" line="138" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1a13571562480dbead95ca7a3b0cc0d124" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::Drawing::ImageSize::get_HeightPoints</definition>
+        <argsstring>()</argsstring>
+        <name>get_HeightPoints</name>
+        <qualifiedname>Aspose::Words::Drawing::ImageSize::get_HeightPoints</qualifiedname>
+        <briefdescription>
+<para>Gets the height of the image in points. 1 point is 1/72 inch. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to resize a shape with an image. <programlisting><codeline><highlight class="comment">//<sp/>When<sp/>we<sp/>insert<sp/>an<sp/>image<sp/>using<sp/>the<sp/>&quot;InsertImage&quot;<sp/>method,<sp/>the<sp/>builder<sp/>scales<sp/>the<sp/>shape<sp/>that<sp/>displays<sp/>the<sp/>image<sp/>so<sp/>that,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>when<sp/>we<sp/>view<sp/>the<sp/>document<sp/>using<sp/>100%<sp/>zoom<sp/>in<sp/>Microsoft<sp/>Word,<sp/>the<sp/>shape<sp/>displays<sp/>the<sp/>image<sp/>in<sp/>its<sp/>actual<sp/>size.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertImage(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>400x400<sp/>image<sp/>will<sp/>create<sp/>an<sp/>ImageData<sp/>object<sp/>with<sp/>an<sp/>image<sp/>size<sp/>of<sp/>300x300pt.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ImageSize&gt;<sp/>imageSize<sp/>=<sp/>shape-&gt;get_ImageData()-&gt;get_ImageSize();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(300.0,<sp/>imageSize-&gt;get_WidthPoints());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(300.0,<sp/>imageSize-&gt;get_HeightPoints());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>a<sp/>shape&apos;s<sp/>dimensions<sp/>match<sp/>the<sp/>image<sp/>data&apos;s<sp/>dimensions,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>then<sp/>the<sp/>shape<sp/>is<sp/>displaying<sp/>the<sp/>image<sp/>in<sp/>its<sp/>original<sp/>size.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(300.0,<sp/>shape-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(300.0,<sp/>shape-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Reduce<sp/>the<sp/>overall<sp/>size<sp/>of<sp/>the<sp/>shape<sp/>by<sp/>50%.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">System::setter_mul_wrap(shape.GetPointer(),<sp/>&amp;<ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a084bb01d8745091d41a49c4c02a4e4c1" kindref="member" tooltip="Gets or sets the width of the containing block of the shape.">ShapeBase::get_Width</ref>,<sp/>&amp;<ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1abc1647de067cb60261df30ae474a048d" kindref="member" tooltip="Setter for Aspose::Words::Drawing::ShapeBase::get_Width.">ShapeBase::set_Width</ref>,<sp/>0.5);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Scaling<sp/>factors<sp/>apply<sp/>to<sp/>both<sp/>the<sp/>width<sp/>and<sp/>the<sp/>height<sp/>at<sp/>the<sp/>same<sp/>time<sp/>to<sp/>preserve<sp/>the<sp/>shape&apos;s<sp/>proportions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(150.0,<sp/>shape-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(150.0,<sp/>shape-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>resize<sp/>the<sp/>shape,<sp/>the<sp/>size<sp/>of<sp/>the<sp/>image<sp/>data<sp/>remains<sp/>the<sp/>same.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(300.0,<sp/>imageSize-&gt;get_WidthPoints());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(300.0,<sp/>imageSize-&gt;get_HeightPoints());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>reference<sp/>the<sp/>image<sp/>data<sp/>dimensions<sp/>to<sp/>apply<sp/>a<sp/>scaling<sp/>based<sp/>on<sp/>the<sp/>size<sp/>of<sp/>the<sp/>image.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;set_Width(imageSize-&gt;get_WidthPoints()<sp/>*<sp/>1.1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(330.0,<sp/>shape-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(330.0,<sp/>shape-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Image.ScaleImage.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/ImageSize.h" line="290" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1a1fa4be70a16fb3be4bb704d695f6a085" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::Drawing::ImageSize::get_HorizontalResolution</definition>
+        <argsstring>() const</argsstring>
+        <name>get_HorizontalResolution</name>
+        <qualifiedname>Aspose::Words::Drawing::ImageSize::get_HorizontalResolution</qualifiedname>
+        <briefdescription>
+<para>Gets the horizontal resolution in DPI. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to read the properties of an image in a shape. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>shape<sp/>into<sp/>the<sp/>document<sp/>which<sp/>contains<sp/>an<sp/>image<sp/>taken<sp/>from<sp/>our<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertImage(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>shape<sp/>contains<sp/>an<sp/>image,<sp/>its<sp/>ImageData<sp/>property<sp/>will<sp/>be<sp/>valid,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>it<sp/>will<sp/>contain<sp/>an<sp/>ImageSize<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ImageSize&gt;<sp/>imageSize<sp/>=<sp/>shape-&gt;get_ImageData()-&gt;get_ImageSize();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>ImageSize<sp/>object<sp/>contains<sp/>read-only<sp/>information<sp/>about<sp/>the<sp/>image<sp/>within<sp/>the<sp/>shape.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(400,<sp/>imageSize-&gt;get_HeightPixels());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(400,<sp/>imageSize-&gt;get_WidthPixels());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">double</highlight><highlight class="normal"><sp/>delta<sp/>=<sp/>0.05;</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(95.98,<sp/>imageSize-&gt;get_HorizontalResolution(),<sp/>delta);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(95.98,<sp/>imageSize-&gt;get_VerticalResolution(),<sp/>delta);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>base<sp/>the<sp/>size<sp/>of<sp/>the<sp/>shape<sp/>on<sp/>the<sp/>size<sp/>of<sp/>its<sp/>image<sp/>to<sp/>avoid<sp/>stretching<sp/>the<sp/>image.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;set_Width(imageSize-&gt;get_WidthPoints()<sp/>*<sp/>2);</highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;set_Height(imageSize-&gt;get_HeightPoints()<sp/>*<sp/>2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Drawing.ImageSize.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/ImageSize.h" line="170" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1a1553f2d5e6c73e8291854d00c191afb2" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::Drawing::ImageSize::get_VerticalResolution</definition>
+        <argsstring>() const</argsstring>
+        <name>get_VerticalResolution</name>
+        <qualifiedname>Aspose::Words::Drawing::ImageSize::get_VerticalResolution</qualifiedname>
+        <briefdescription>
+<para>Gets the vertical resolution in DPI. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to read the properties of an image in a shape. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>shape<sp/>into<sp/>the<sp/>document<sp/>which<sp/>contains<sp/>an<sp/>image<sp/>taken<sp/>from<sp/>our<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertImage(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>shape<sp/>contains<sp/>an<sp/>image,<sp/>its<sp/>ImageData<sp/>property<sp/>will<sp/>be<sp/>valid,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>it<sp/>will<sp/>contain<sp/>an<sp/>ImageSize<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ImageSize&gt;<sp/>imageSize<sp/>=<sp/>shape-&gt;get_ImageData()-&gt;get_ImageSize();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>ImageSize<sp/>object<sp/>contains<sp/>read-only<sp/>information<sp/>about<sp/>the<sp/>image<sp/>within<sp/>the<sp/>shape.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(400,<sp/>imageSize-&gt;get_HeightPixels());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(400,<sp/>imageSize-&gt;get_WidthPixels());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">double</highlight><highlight class="normal"><sp/>delta<sp/>=<sp/>0.05;</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(95.98,<sp/>imageSize-&gt;get_HorizontalResolution(),<sp/>delta);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(95.98,<sp/>imageSize-&gt;get_VerticalResolution(),<sp/>delta);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>base<sp/>the<sp/>size<sp/>of<sp/>the<sp/>shape<sp/>on<sp/>the<sp/>size<sp/>of<sp/>its<sp/>image<sp/>to<sp/>avoid<sp/>stretching<sp/>the<sp/>image.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;set_Width(imageSize-&gt;get_WidthPoints()<sp/>*<sp/>2);</highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;set_Height(imageSize-&gt;get_HeightPoints()<sp/>*<sp/>2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Drawing.ImageSize.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/ImageSize.h" line="202" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1a92610b7b7b7b2165d7541c06188cd9bc" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Drawing::ImageSize::get_WidthPixels</definition>
+        <argsstring>() const</argsstring>
+        <name>get_WidthPixels</name>
+        <qualifiedname>Aspose::Words::Drawing::ImageSize::get_WidthPixels</qualifiedname>
+        <briefdescription>
+<para>Gets the width of the image in pixels. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to read the properties of an image in a shape. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Insert<sp/>a<sp/>shape<sp/>into<sp/>the<sp/>document<sp/>which<sp/>contains<sp/>an<sp/>image<sp/>taken<sp/>from<sp/>our<sp/>local<sp/>file<sp/>system.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertImage(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>the<sp/>shape<sp/>contains<sp/>an<sp/>image,<sp/>its<sp/>ImageData<sp/>property<sp/>will<sp/>be<sp/>valid,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>and<sp/>it<sp/>will<sp/>contain<sp/>an<sp/>ImageSize<sp/>object.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ImageSize&gt;<sp/>imageSize<sp/>=<sp/>shape-&gt;get_ImageData()-&gt;get_ImageSize();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>ImageSize<sp/>object<sp/>contains<sp/>read-only<sp/>information<sp/>about<sp/>the<sp/>image<sp/>within<sp/>the<sp/>shape.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(400,<sp/>imageSize-&gt;get_HeightPixels());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(400,<sp/>imageSize-&gt;get_WidthPixels());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keywordtype">double</highlight><highlight class="normal"><sp/>delta<sp/>=<sp/>0.05;</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(95.98,<sp/>imageSize-&gt;get_HorizontalResolution(),<sp/>delta);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_NEAR(95.98,<sp/>imageSize-&gt;get_VerticalResolution(),<sp/>delta);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>base<sp/>the<sp/>size<sp/>of<sp/>the<sp/>shape<sp/>on<sp/>the<sp/>size<sp/>of<sp/>its<sp/>image<sp/>to<sp/>avoid<sp/>stretching<sp/>the<sp/>image.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;set_Width(imageSize-&gt;get_WidthPoints()<sp/>*<sp/>2);</highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;set_Height(imageSize-&gt;get_HeightPoints()<sp/>*<sp/>2);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Drawing.ImageSize.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/ImageSize.h" line="106" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1a824cfc6a0e57aa6db73d9c160d4a3461" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::Drawing::ImageSize::get_WidthPoints</definition>
+        <argsstring>()</argsstring>
+        <name>get_WidthPoints</name>
+        <qualifiedname>Aspose::Words::Drawing::ImageSize::get_WidthPoints</qualifiedname>
+        <briefdescription>
+<para>Gets the width of the image in points. 1 point is 1/72 inch. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to resize a shape with an image. <programlisting><codeline><highlight class="comment">//<sp/>When<sp/>we<sp/>insert<sp/>an<sp/>image<sp/>using<sp/>the<sp/>&quot;InsertImage&quot;<sp/>method,<sp/>the<sp/>builder<sp/>scales<sp/>the<sp/>shape<sp/>that<sp/>displays<sp/>the<sp/>image<sp/>so<sp/>that,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>when<sp/>we<sp/>view<sp/>the<sp/>document<sp/>using<sp/>100%<sp/>zoom<sp/>in<sp/>Microsoft<sp/>Word,<sp/>the<sp/>shape<sp/>displays<sp/>the<sp/>image<sp/>in<sp/>its<sp/>actual<sp/>size.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertImage(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>400x400<sp/>image<sp/>will<sp/>create<sp/>an<sp/>ImageData<sp/>object<sp/>with<sp/>an<sp/>image<sp/>size<sp/>of<sp/>300x300pt.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ImageSize&gt;<sp/>imageSize<sp/>=<sp/>shape-&gt;get_ImageData()-&gt;get_ImageSize();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(300.0,<sp/>imageSize-&gt;get_WidthPoints());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(300.0,<sp/>imageSize-&gt;get_HeightPoints());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>a<sp/>shape&apos;s<sp/>dimensions<sp/>match<sp/>the<sp/>image<sp/>data&apos;s<sp/>dimensions,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>then<sp/>the<sp/>shape<sp/>is<sp/>displaying<sp/>the<sp/>image<sp/>in<sp/>its<sp/>original<sp/>size.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(300.0,<sp/>shape-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(300.0,<sp/>shape-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Reduce<sp/>the<sp/>overall<sp/>size<sp/>of<sp/>the<sp/>shape<sp/>by<sp/>50%.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">System::setter_mul_wrap(shape.GetPointer(),<sp/>&amp;<ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a084bb01d8745091d41a49c4c02a4e4c1" kindref="member" tooltip="Gets or sets the width of the containing block of the shape.">ShapeBase::get_Width</ref>,<sp/>&amp;<ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1abc1647de067cb60261df30ae474a048d" kindref="member" tooltip="Setter for Aspose::Words::Drawing::ShapeBase::get_Width.">ShapeBase::set_Width</ref>,<sp/>0.5);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Scaling<sp/>factors<sp/>apply<sp/>to<sp/>both<sp/>the<sp/>width<sp/>and<sp/>the<sp/>height<sp/>at<sp/>the<sp/>same<sp/>time<sp/>to<sp/>preserve<sp/>the<sp/>shape&apos;s<sp/>proportions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(150.0,<sp/>shape-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(150.0,<sp/>shape-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>resize<sp/>the<sp/>shape,<sp/>the<sp/>size<sp/>of<sp/>the<sp/>image<sp/>data<sp/>remains<sp/>the<sp/>same.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(300.0,<sp/>imageSize-&gt;get_WidthPoints());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(300.0,<sp/>imageSize-&gt;get_HeightPoints());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>reference<sp/>the<sp/>image<sp/>data<sp/>dimensions<sp/>to<sp/>apply<sp/>a<sp/>scaling<sp/>based<sp/>on<sp/>the<sp/>size<sp/>of<sp/>the<sp/>image.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;set_Width(imageSize-&gt;get_WidthPoints()<sp/>*<sp/>1.1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(330.0,<sp/>shape-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(330.0,<sp/>shape-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Image.ScaleImage.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/ImageSize.h" line="246" column="15"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Contains information about image size and resolution. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_drawing_1_1_image_data_1a8cea11d5b3740d41bc34d0f27d8ec0a1" kindref="member">Aspose::Words::Drawing::ImageData::get_ImageSize</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to resize a shape with an image. <programlisting><codeline><highlight class="comment">//<sp/>When<sp/>we<sp/>insert<sp/>an<sp/>image<sp/>using<sp/>the<sp/>&quot;InsertImage&quot;<sp/>method,<sp/>the<sp/>builder<sp/>scales<sp/>the<sp/>shape<sp/>that<sp/>displays<sp/>the<sp/>image<sp/>so<sp/>that,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>when<sp/>we<sp/>view<sp/>the<sp/>document<sp/>using<sp/>100%<sp/>zoom<sp/>in<sp/>Microsoft<sp/>Word,<sp/>the<sp/>shape<sp/>displays<sp/>the<sp/>image<sp/>in<sp/>its<sp/>actual<sp/>size.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertImage(ImageDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Logo.jpg&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>400x400<sp/>image<sp/>will<sp/>create<sp/>an<sp/>ImageData<sp/>object<sp/>with<sp/>an<sp/>image<sp/>size<sp/>of<sp/>300x300pt.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ImageSize&gt;<sp/>imageSize<sp/>=<sp/>shape-&gt;get_ImageData()-&gt;get_ImageSize();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(300.0,<sp/>imageSize-&gt;get_WidthPoints());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(300.0,<sp/>imageSize-&gt;get_HeightPoints());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>a<sp/>shape&apos;s<sp/>dimensions<sp/>match<sp/>the<sp/>image<sp/>data&apos;s<sp/>dimensions,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>then<sp/>the<sp/>shape<sp/>is<sp/>displaying<sp/>the<sp/>image<sp/>in<sp/>its<sp/>original<sp/>size.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(300.0,<sp/>shape-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(300.0,<sp/>shape-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Reduce<sp/>the<sp/>overall<sp/>size<sp/>of<sp/>the<sp/>shape<sp/>by<sp/>50%.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">System::setter_mul_wrap(shape.GetPointer(),<sp/>&amp;<ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1a084bb01d8745091d41a49c4c02a4e4c1" kindref="member" tooltip="Gets or sets the width of the containing block of the shape.">ShapeBase::get_Width</ref>,<sp/>&amp;<ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape_base_1abc1647de067cb60261df30ae474a048d" kindref="member" tooltip="Setter for Aspose::Words::Drawing::ShapeBase::get_Width.">ShapeBase::set_Width</ref>,<sp/>0.5);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Scaling<sp/>factors<sp/>apply<sp/>to<sp/>both<sp/>the<sp/>width<sp/>and<sp/>the<sp/>height<sp/>at<sp/>the<sp/>same<sp/>time<sp/>to<sp/>preserve<sp/>the<sp/>shape&apos;s<sp/>proportions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(150.0,<sp/>shape-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(150.0,<sp/>shape-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>When<sp/>we<sp/>resize<sp/>the<sp/>shape,<sp/>the<sp/>size<sp/>of<sp/>the<sp/>image<sp/>data<sp/>remains<sp/>the<sp/>same.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(300.0,<sp/>imageSize-&gt;get_WidthPoints());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(300.0,<sp/>imageSize-&gt;get_HeightPoints());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>reference<sp/>the<sp/>image<sp/>data<sp/>dimensions<sp/>to<sp/>apply<sp/>a<sp/>scaling<sp/>based<sp/>on<sp/>the<sp/>size<sp/>of<sp/>the<sp/>image.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">shape-&gt;set_Width(imageSize-&gt;get_WidthPoints()<sp/>*<sp/>1.1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(330.0,<sp/>shape-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(330.0,<sp/>shape-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Image.ScaleImage.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Drawing::ImageSize</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_image_size"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Drawing::ImageSize</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_image_size"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Drawing/ImageSize.h" line="66" column="1" bodyfile="Aspose.Words.Cpp/Drawing/ImageSize.h" bodystart="67" bodyend="315"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1a7bbb856a076efa57537045ad2c759024" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::ImageSize</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1a26557cbab285aac1d0a94d1cb1c1e265" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::ImageSize</scope><name>get_HeightPixels</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1a13571562480dbead95ca7a3b0cc0d124" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::ImageSize</scope><name>get_HeightPoints</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1a1fa4be70a16fb3be4bb704d695f6a085" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::ImageSize</scope><name>get_HorizontalResolution</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1a1553f2d5e6c73e8291854d00c191afb2" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::ImageSize</scope><name>get_VerticalResolution</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1a92610b7b7b7b2165d7541c06188cd9bc" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::ImageSize</scope><name>get_WidthPixels</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1a824cfc6a0e57aa6db73d9c160d4a3461" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::ImageSize</scope><name>get_WidthPoints</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1abe4c936432e739f2b3e4d5e0535091e2" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::ImageSize</scope><name>ImageSize</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1abbe7f0845495cfb22cdcb034534b9714" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::ImageSize</scope><name>ImageSize</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1a6ea6a0eec4c29e9bda5b57a3e0115462" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::ImageSize</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1a77d15c8ae55a263cfd09c0a74150f589" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::ImageSize</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1a545a6a508459105a2f2772033bf29a7b" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::ImageSize</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1a20c16a04185d84dc422b8d6fc85f2838" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::ImageSize</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1af12f832e8c9fe69df8456ae830ba7b5f" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::ImageSize</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1a0fa62fdac6de423c012f4e4236c95d36" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::ImageSize</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_image_size_1afa7e63288441b36927edf59fb12867cf" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::ImageSize</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

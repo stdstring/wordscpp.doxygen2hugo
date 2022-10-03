@@ -1,0 +1,665 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_tab_stop" kind="class" language="C++" prot="public" final="yes">
+    <compoundname>Aspose::Words::TabStop</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_tab_stop_8h" local="no">Aspose.Words.Cpp/TabStop.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_tab_stop_1a1d3fd26b1a6c9d0cc1a050b5d3f8c7b9" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::TabStop::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::TabStop::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TabStop.h" line="63" column="28" bodyfile="Aspose.Words.Cpp/TabStop.h" bodystart="63" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_tab_stop_1a28d469703618f071592c538b2ad56e54" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_tab_stop" kindref="compound">TabStop</ref></type>
+        <definition>typedef TabStop Aspose::Words::TabStop::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::TabStop::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TabStop.h" line="62" column="21" bodyfile="Aspose.Words.Cpp/TabStop.h" bodystart="62" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_tab_stop_1a62d9790ed6313bb7c2e0f0122a7aad10" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::TabStop::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::TabStop::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TabStop.h" line="65" column="37" bodyfile="Aspose.Words.Cpp/TabStop.h" bodystart="65" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_tab_stop_1a7697cd43d2f80e89de8ede6c62ee9dd8" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::TabStop::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::TabStop::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TabStop.h" line="347" column="23" bodyfile="Aspose.Words.Cpp/TabStop.h" bodystart="347" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_tab_stop_1abf3ed1ac645052e0b5d94c3dba381ba9" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::TabStop::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::TabStop::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TabStop.h" line="348" column="23" bodyfile="Aspose.Words.Cpp/TabStop.h" bodystart="348" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_tab_stop_1a1e8fff237c87a405f978c868c0d09549" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::TabStop::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::TabStop::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TabStop.h" line="349" column="23" bodyfile="Aspose.Words.Cpp/TabStop.h" bodystart="349" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_tab_stop_1a7eca5f6541aa61d5e07e9d0380baea72" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::TabStop::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::TabStop::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TabStop.h" line="350" column="23" bodyfile="Aspose.Words.Cpp/TabStop.h" bodystart="350" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_tab_stop_1a3f8bcb9ac0719e87322279db8aafe93f" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::TabStop::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::TabStop::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TabStop.h" line="351" column="23" bodyfile="Aspose.Words.Cpp/TabStop.h" bodystart="351" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_tab_stop_1a1ab1b17363eeb25853de1a81b5edd848" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::TabStop::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::TabStop::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TabStop.h" line="352" column="23" bodyfile="Aspose.Words.Cpp/TabStop.h" bodystart="352" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_tab_stop_1aaa211d0ac58e05864150369e0d1cb8e9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::TabStop::TabStop</definition>
+        <argsstring>()</argsstring>
+        <name>TabStop</name>
+        <qualifiedname>Aspose::Words::TabStop::TabStop</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TabStop.h" line="343" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_tab_stop_1afff566fcf26beca915fe6a7437476269" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::TabStop::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::TabStop::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TabStop.h" line="66" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_tab_stop_1a458c43e52e4180b11c11294d2e8ddd9d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::TabStop::TabStop</definition>
+        <argsstring>(double position)</argsstring>
+        <name>TabStop</name>
+        <qualifiedname>Aspose::Words::TabStop::TabStop</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>position</declname>
+        </param>
+        <briefdescription>
+<para>Initializes a new instance of this class. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with a document&apos;s collection of tab stops. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TabStopCollection&gt;<sp/>tabStops<sp/>=<sp/>builder-&gt;get_ParagraphFormat()-&gt;get_TabStops();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>72<sp/>points<sp/>is<sp/>one<sp/>&quot;inch&quot;<sp/>on<sp/>the<sp/>Microsoft<sp/>Word<sp/>tab<sp/>stop<sp/>ruler.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tabStops-&gt;Add(MakeObject&lt;TabStop&gt;(72.0));</highlight></codeline>
+<codeline><highlight class="normal">tabStops-&gt;Add(MakeObject&lt;TabStop&gt;(432.0,<sp/><ref refid="namespace_aspose_1_1_words_1a12692f3efc7a99db6c2eecd8e9d2c0daa92b09c7c48c520c3c55e497875da437c" kindref="member" tooltip="Right-aligns the text at the tab stop.">TabAlignment::Right</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1a1c62232acd0a037622ea840d3bc9304ea42cc42fc95ac762daf6aaef616076b7f" kindref="member" tooltip="The leader line is made up from dashes.">TabLeader::Dashes</ref>));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>tabStops-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(tabStops-&gt;idx_get(0)-&gt;get_IsClear());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(tabStops-&gt;idx_get(0),<sp/>tabStops-&gt;idx_get(1)));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Every<sp/>&quot;tab&quot;<sp/>character<sp/>takes<sp/>the<sp/>builder&apos;s<sp/>cursor<sp/>to<sp/>the<sp/>location<sp/>of<sp/>the<sp/>next<sp/>tab<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Start\tTab<sp/>1\tTab<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ParagraphCollection&gt;<sp/>paragraphs<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>paragraphs-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>paragraph<sp/>gets<sp/>its<sp/>tab<sp/>stop<sp/>collection,<sp/>which<sp/>clones<sp/>its<sp/>values<sp/>from<sp/>the<sp/>document<sp/>builder&apos;s<sp/>tab<sp/>stop<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(paragraphs-&gt;idx_get(0)-&gt;get_ParagraphFormat()-&gt;get_TabStops(),<sp/>paragraphs-&gt;idx_get(1)-&gt;get_ParagraphFormat()-&gt;get_TabStops());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_NS(paragraphs-&gt;idx_get(0)-&gt;get_ParagraphFormat()-&gt;get_TabStops(),<sp/>paragraphs-&gt;idx_get(1)-&gt;get_ParagraphFormat()-&gt;get_TabStops());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>tab<sp/>stop<sp/>collection<sp/>can<sp/>point<sp/>us<sp/>to<sp/>TabStops<sp/>before<sp/>and<sp/>after<sp/>certain<sp/>positions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(72.0,<sp/>tabStops-&gt;Before(100.0)-&gt;get_Position());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(432.0,<sp/>tabStops-&gt;After(100.0)-&gt;get_Position());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>clear<sp/>a<sp/>paragraph&apos;s<sp/>tab<sp/>stop<sp/>collection<sp/>to<sp/>revert<sp/>to<sp/>the<sp/>default<sp/>tabbing<sp/>behavior.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">paragraphs-&gt;idx_get(1)-&gt;get_ParagraphFormat()-&gt;get_TabStops()-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>paragraphs-&gt;idx_get(1)-&gt;get_ParagraphFormat()-&gt;get_TabStops()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;TabStopCollection.TabStopCollection.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TabStop.h" line="244" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_tab_stop_1a37a18bd30f05cf4952121b5fcb46c4c0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::TabStop::TabStop</definition>
+        <argsstring>(double position, Aspose::Words::TabAlignment alignment, Aspose::Words::TabLeader leader)</argsstring>
+        <name>TabStop</name>
+        <qualifiedname>Aspose::Words::TabStop::TabStop</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>position</declname>
+        </param>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1a12692f3efc7a99db6c2eecd8e9d2c0da" kindref="member">Aspose::Words::TabAlignment</ref></type>
+          <declname>alignment</declname>
+        </param>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1a1c62232acd0a037622ea840d3bc9304e" kindref="member">Aspose::Words::TabLeader</ref></type>
+          <declname>leader</declname>
+        </param>
+        <briefdescription>
+<para>Initializes a new instance of this class. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>position</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The position of the tab stop in points. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>alignment</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>A <ref refid="namespace_aspose_1_1_words_1a12692f3efc7a99db6c2eecd8e9d2c0da" kindref="member">TabAlignment</ref> value that specifies the alignment of text at this tab stop. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>leader</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>A <ref refid="namespace_aspose_1_1_words_1a1c62232acd0a037622ea840d3bc9304e" kindref="member">TabLeader</ref> value that specifies the type of the leader line displayed under the tab character.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with a document&apos;s collection of tab stops. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TabStopCollection&gt;<sp/>tabStops<sp/>=<sp/>builder-&gt;get_ParagraphFormat()-&gt;get_TabStops();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>72<sp/>points<sp/>is<sp/>one<sp/>&quot;inch&quot;<sp/>on<sp/>the<sp/>Microsoft<sp/>Word<sp/>tab<sp/>stop<sp/>ruler.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tabStops-&gt;Add(MakeObject&lt;TabStop&gt;(72.0));</highlight></codeline>
+<codeline><highlight class="normal">tabStops-&gt;Add(MakeObject&lt;TabStop&gt;(432.0,<sp/><ref refid="namespace_aspose_1_1_words_1a12692f3efc7a99db6c2eecd8e9d2c0daa92b09c7c48c520c3c55e497875da437c" kindref="member" tooltip="Right-aligns the text at the tab stop.">TabAlignment::Right</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1a1c62232acd0a037622ea840d3bc9304ea42cc42fc95ac762daf6aaef616076b7f" kindref="member" tooltip="The leader line is made up from dashes.">TabLeader::Dashes</ref>));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>tabStops-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(tabStops-&gt;idx_get(0)-&gt;get_IsClear());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(tabStops-&gt;idx_get(0),<sp/>tabStops-&gt;idx_get(1)));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Every<sp/>&quot;tab&quot;<sp/>character<sp/>takes<sp/>the<sp/>builder&apos;s<sp/>cursor<sp/>to<sp/>the<sp/>location<sp/>of<sp/>the<sp/>next<sp/>tab<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Start\tTab<sp/>1\tTab<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ParagraphCollection&gt;<sp/>paragraphs<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>paragraphs-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>paragraph<sp/>gets<sp/>its<sp/>tab<sp/>stop<sp/>collection,<sp/>which<sp/>clones<sp/>its<sp/>values<sp/>from<sp/>the<sp/>document<sp/>builder&apos;s<sp/>tab<sp/>stop<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(paragraphs-&gt;idx_get(0)-&gt;get_ParagraphFormat()-&gt;get_TabStops(),<sp/>paragraphs-&gt;idx_get(1)-&gt;get_ParagraphFormat()-&gt;get_TabStops());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_NS(paragraphs-&gt;idx_get(0)-&gt;get_ParagraphFormat()-&gt;get_TabStops(),<sp/>paragraphs-&gt;idx_get(1)-&gt;get_ParagraphFormat()-&gt;get_TabStops());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>tab<sp/>stop<sp/>collection<sp/>can<sp/>point<sp/>us<sp/>to<sp/>TabStops<sp/>before<sp/>and<sp/>after<sp/>certain<sp/>positions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(72.0,<sp/>tabStops-&gt;Before(100.0)-&gt;get_Position());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(432.0,<sp/>tabStops-&gt;After(100.0)-&gt;get_Position());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>clear<sp/>a<sp/>paragraph&apos;s<sp/>tab<sp/>stop<sp/>collection<sp/>to<sp/>revert<sp/>to<sp/>the<sp/>default<sp/>tabbing<sp/>behavior.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">paragraphs-&gt;idx_get(1)-&gt;get_ParagraphFormat()-&gt;get_TabStops()-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>paragraphs-&gt;idx_get(1)-&gt;get_ParagraphFormat()-&gt;get_TabStops()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;TabStopCollection.TabStopCollection.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TabStop.h" line="293" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_tab_stop_1a5d9a5a9ff43144808554acfba636cc50" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::TabStop::Equals</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::TabStop &gt; &amp;rhs)</argsstring>
+        <name>Equals</name>
+        <qualifiedname>Aspose::Words::TabStop::Equals</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_tab_stop" kindref="compound">Aspose::Words::TabStop</ref> &gt; &amp;</type>
+          <declname>rhs</declname>
+        </param>
+        <briefdescription>
+<para>Compares with the specified <ref refid="class_aspose_1_1_words_1_1_tab_stop" kindref="compound">TabStop</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with a document&apos;s collection of tab stops. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TabStopCollection&gt;<sp/>tabStops<sp/>=<sp/>builder-&gt;get_ParagraphFormat()-&gt;get_TabStops();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>72<sp/>points<sp/>is<sp/>one<sp/>&quot;inch&quot;<sp/>on<sp/>the<sp/>Microsoft<sp/>Word<sp/>tab<sp/>stop<sp/>ruler.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tabStops-&gt;Add(MakeObject&lt;TabStop&gt;(72.0));</highlight></codeline>
+<codeline><highlight class="normal">tabStops-&gt;Add(MakeObject&lt;TabStop&gt;(432.0,<sp/><ref refid="namespace_aspose_1_1_words_1a12692f3efc7a99db6c2eecd8e9d2c0daa92b09c7c48c520c3c55e497875da437c" kindref="member" tooltip="Right-aligns the text at the tab stop.">TabAlignment::Right</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1a1c62232acd0a037622ea840d3bc9304ea42cc42fc95ac762daf6aaef616076b7f" kindref="member" tooltip="The leader line is made up from dashes.">TabLeader::Dashes</ref>));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>tabStops-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(tabStops-&gt;idx_get(0)-&gt;get_IsClear());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(tabStops-&gt;idx_get(0),<sp/>tabStops-&gt;idx_get(1)));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Every<sp/>&quot;tab&quot;<sp/>character<sp/>takes<sp/>the<sp/>builder&apos;s<sp/>cursor<sp/>to<sp/>the<sp/>location<sp/>of<sp/>the<sp/>next<sp/>tab<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Start\tTab<sp/>1\tTab<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ParagraphCollection&gt;<sp/>paragraphs<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>paragraphs-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>paragraph<sp/>gets<sp/>its<sp/>tab<sp/>stop<sp/>collection,<sp/>which<sp/>clones<sp/>its<sp/>values<sp/>from<sp/>the<sp/>document<sp/>builder&apos;s<sp/>tab<sp/>stop<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(paragraphs-&gt;idx_get(0)-&gt;get_ParagraphFormat()-&gt;get_TabStops(),<sp/>paragraphs-&gt;idx_get(1)-&gt;get_ParagraphFormat()-&gt;get_TabStops());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_NS(paragraphs-&gt;idx_get(0)-&gt;get_ParagraphFormat()-&gt;get_TabStops(),<sp/>paragraphs-&gt;idx_get(1)-&gt;get_ParagraphFormat()-&gt;get_TabStops());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>tab<sp/>stop<sp/>collection<sp/>can<sp/>point<sp/>us<sp/>to<sp/>TabStops<sp/>before<sp/>and<sp/>after<sp/>certain<sp/>positions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(72.0,<sp/>tabStops-&gt;Before(100.0)-&gt;get_Position());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(432.0,<sp/>tabStops-&gt;After(100.0)-&gt;get_Position());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>clear<sp/>a<sp/>paragraph&apos;s<sp/>tab<sp/>stop<sp/>collection<sp/>to<sp/>revert<sp/>to<sp/>the<sp/>default<sp/>tabbing<sp/>behavior.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">paragraphs-&gt;idx_get(1)-&gt;get_ParagraphFormat()-&gt;get_TabStops()-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>paragraphs-&gt;idx_get(1)-&gt;get_ParagraphFormat()-&gt;get_TabStops()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;TabStopCollection.TabStopCollection.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TabStop.h" line="336" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_tab_stop_1a834288d6760227c434de8d995900fd95" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a12692f3efc7a99db6c2eecd8e9d2c0da" kindref="member">Aspose::Words::TabAlignment</ref></type>
+        <definition>Aspose::Words::TabAlignment Aspose::Words::TabStop::get_Alignment</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Alignment</name>
+        <qualifiedname>Aspose::Words::TabStop::get_Alignment</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the alignment of text at this tab stop. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to modify the position of the right tab stop in TOC related paragraphs. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table<sp/>of<sp/>contents.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Iterate<sp/>through<sp/>all<sp/>paragraphs<sp/>with<sp/>TOC<sp/>result-based<sp/>styles;<sp/>this<sp/>is<sp/>any<sp/>style<sp/>between<sp/>TOC<sp/>and<sp/>TOC9.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>para<sp/>:<sp/>System::IterateOver(doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;LINQ_OfType&lt;SharedPtr&lt;Paragraph&gt;&gt;()))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(para-&gt;get_ParagraphFormat()-&gt;get_Style()-&gt;get_StyleIdentifier()<sp/>&gt;=<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a20c0f0b05465f571395bbcdf082d0cda" kindref="member">StyleIdentifier::Toc1</ref><sp/>&amp;&amp;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>para-&gt;get_ParagraphFormat()-&gt;get_Style()-&gt;get_StyleIdentifier()<sp/>&lt;=<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34ae8da749f30b38cb3ce02e34dcf390ef4" kindref="member">StyleIdentifier::Toc9</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>first<sp/>tab<sp/>used<sp/>in<sp/>this<sp/>paragraph,<sp/>this<sp/>should<sp/>be<sp/>the<sp/>tab<sp/>used<sp/>to<sp/>align<sp/>the<sp/>page<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;TabStop&gt;<sp/>tab<sp/>=<sp/>para-&gt;get_ParagraphFormat()-&gt;get_TabStops()-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Replace<sp/>the<sp/>first<sp/>default<sp/>tab,<sp/>stop<sp/>with<sp/>a<sp/>custom<sp/>tab<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>para-&gt;get_ParagraphFormat()-&gt;get_TabStops()-&gt;RemoveByPosition(tab-&gt;get_Position());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>para-&gt;get_ParagraphFormat()-&gt;get_TabStops()-&gt;Add(tab-&gt;get_Position()<sp/>-<sp/>50,<sp/>tab-&gt;get_Alignment(),<sp/>tab-&gt;get_Leader());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Styles.ChangeTocsTabStops.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TabStop.h" line="125" column="36"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_tab_stop_1ab97e3aff30ada289366930e33d1d54ad" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::TabStop::get_IsClear</definition>
+        <argsstring>()</argsstring>
+        <name>get_IsClear</name>
+        <qualifiedname>Aspose::Words::TabStop::get_IsClear</qualifiedname>
+        <briefdescription>
+<para>Returns true if this tab stop clears any existing tab stops in this position. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with a document&apos;s collection of tab stops. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;TabStopCollection&gt;<sp/>tabStops<sp/>=<sp/>builder-&gt;get_ParagraphFormat()-&gt;get_TabStops();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>72<sp/>points<sp/>is<sp/>one<sp/>&quot;inch&quot;<sp/>on<sp/>the<sp/>Microsoft<sp/>Word<sp/>tab<sp/>stop<sp/>ruler.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tabStops-&gt;Add(MakeObject&lt;TabStop&gt;(72.0));</highlight></codeline>
+<codeline><highlight class="normal">tabStops-&gt;Add(MakeObject&lt;TabStop&gt;(432.0,<sp/><ref refid="namespace_aspose_1_1_words_1a12692f3efc7a99db6c2eecd8e9d2c0daa92b09c7c48c520c3c55e497875da437c" kindref="member" tooltip="Right-aligns the text at the tab stop.">TabAlignment::Right</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1a1c62232acd0a037622ea840d3bc9304ea42cc42fc95ac762daf6aaef616076b7f" kindref="member" tooltip="The leader line is made up from dashes.">TabLeader::Dashes</ref>));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>tabStops-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(tabStops-&gt;idx_get(0)-&gt;get_IsClear());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(<ref refid="class/system.object_ext/_1aa4971f1f636ffeaca96bd2f017b6f04d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::Equals</ref>(tabStops-&gt;idx_get(0),<sp/>tabStops-&gt;idx_get(1)));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Every<sp/>&quot;tab&quot;<sp/>character<sp/>takes<sp/>the<sp/>builder&apos;s<sp/>cursor<sp/>to<sp/>the<sp/>location<sp/>of<sp/>the<sp/>next<sp/>tab<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Start\tTab<sp/>1\tTab<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ParagraphCollection&gt;<sp/>paragraphs<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(2,<sp/>paragraphs-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>paragraph<sp/>gets<sp/>its<sp/>tab<sp/>stop<sp/>collection,<sp/>which<sp/>clones<sp/>its<sp/>values<sp/>from<sp/>the<sp/>document<sp/>builder&apos;s<sp/>tab<sp/>stop<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(paragraphs-&gt;idx_get(0)-&gt;get_ParagraphFormat()-&gt;get_TabStops(),<sp/>paragraphs-&gt;idx_get(1)-&gt;get_ParagraphFormat()-&gt;get_TabStops());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_NS(paragraphs-&gt;idx_get(0)-&gt;get_ParagraphFormat()-&gt;get_TabStops(),<sp/>paragraphs-&gt;idx_get(1)-&gt;get_ParagraphFormat()-&gt;get_TabStops());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>tab<sp/>stop<sp/>collection<sp/>can<sp/>point<sp/>us<sp/>to<sp/>TabStops<sp/>before<sp/>and<sp/>after<sp/>certain<sp/>positions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(72.0,<sp/>tabStops-&gt;Before(100.0)-&gt;get_Position());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(432.0,<sp/>tabStops-&gt;After(100.0)-&gt;get_Position());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>clear<sp/>a<sp/>paragraph&apos;s<sp/>tab<sp/>stop<sp/>collection<sp/>to<sp/>revert<sp/>to<sp/>the<sp/>default<sp/>tabbing<sp/>behavior.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">paragraphs-&gt;idx_get(1)-&gt;get_ParagraphFormat()-&gt;get_TabStops()-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>paragraphs-&gt;idx_get(1)-&gt;get_ParagraphFormat()-&gt;get_TabStops()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;TabStopCollection.TabStopCollection.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TabStop.h" line="201" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_tab_stop_1a13118808cabd545650768c3a76a1eeca" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a1c62232acd0a037622ea840d3bc9304e" kindref="member">Aspose::Words::TabLeader</ref></type>
+        <definition>Aspose::Words::TabLeader Aspose::Words::TabStop::get_Leader</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Leader</name>
+        <qualifiedname>Aspose::Words::TabStop::get_Leader</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the type of the leader line displayed under the tab character. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to modify the position of the right tab stop in TOC related paragraphs. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table<sp/>of<sp/>contents.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Iterate<sp/>through<sp/>all<sp/>paragraphs<sp/>with<sp/>TOC<sp/>result-based<sp/>styles;<sp/>this<sp/>is<sp/>any<sp/>style<sp/>between<sp/>TOC<sp/>and<sp/>TOC9.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>para<sp/>:<sp/>System::IterateOver(doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;LINQ_OfType&lt;SharedPtr&lt;Paragraph&gt;&gt;()))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(para-&gt;get_ParagraphFormat()-&gt;get_Style()-&gt;get_StyleIdentifier()<sp/>&gt;=<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a20c0f0b05465f571395bbcdf082d0cda" kindref="member">StyleIdentifier::Toc1</ref><sp/>&amp;&amp;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>para-&gt;get_ParagraphFormat()-&gt;get_Style()-&gt;get_StyleIdentifier()<sp/>&lt;=<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34ae8da749f30b38cb3ce02e34dcf390ef4" kindref="member">StyleIdentifier::Toc9</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>first<sp/>tab<sp/>used<sp/>in<sp/>this<sp/>paragraph,<sp/>this<sp/>should<sp/>be<sp/>the<sp/>tab<sp/>used<sp/>to<sp/>align<sp/>the<sp/>page<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;TabStop&gt;<sp/>tab<sp/>=<sp/>para-&gt;get_ParagraphFormat()-&gt;get_TabStops()-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Replace<sp/>the<sp/>first<sp/>default<sp/>tab,<sp/>stop<sp/>with<sp/>a<sp/>custom<sp/>tab<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>para-&gt;get_ParagraphFormat()-&gt;get_TabStops()-&gt;RemoveByPosition(tab-&gt;get_Position());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>para-&gt;get_ParagraphFormat()-&gt;get_TabStops()-&gt;Add(tab-&gt;get_Position()<sp/>-<sp/>50,<sp/>tab-&gt;get_Alignment(),<sp/>tab-&gt;get_Leader());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Styles.ChangeTocsTabStops.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TabStop.h" line="155" column="33"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_tab_stop_1ac373c0ee3563d656f9f4bfde18613275" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::TabStop::get_Position</definition>
+        <argsstring>()</argsstring>
+        <name>get_Position</name>
+        <qualifiedname>Aspose::Words::TabStop::get_Position</qualifiedname>
+        <briefdescription>
+<para>Gets the position of the tab stop in points. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to modify the position of the right tab stop in TOC related paragraphs. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table<sp/>of<sp/>contents.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Iterate<sp/>through<sp/>all<sp/>paragraphs<sp/>with<sp/>TOC<sp/>result-based<sp/>styles;<sp/>this<sp/>is<sp/>any<sp/>style<sp/>between<sp/>TOC<sp/>and<sp/>TOC9.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>para<sp/>:<sp/>System::IterateOver(doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;LINQ_OfType&lt;SharedPtr&lt;Paragraph&gt;&gt;()))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(para-&gt;get_ParagraphFormat()-&gt;get_Style()-&gt;get_StyleIdentifier()<sp/>&gt;=<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a20c0f0b05465f571395bbcdf082d0cda" kindref="member">StyleIdentifier::Toc1</ref><sp/>&amp;&amp;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>para-&gt;get_ParagraphFormat()-&gt;get_Style()-&gt;get_StyleIdentifier()<sp/>&lt;=<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34ae8da749f30b38cb3ce02e34dcf390ef4" kindref="member">StyleIdentifier::Toc9</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>first<sp/>tab<sp/>used<sp/>in<sp/>this<sp/>paragraph,<sp/>this<sp/>should<sp/>be<sp/>the<sp/>tab<sp/>used<sp/>to<sp/>align<sp/>the<sp/>page<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;TabStop&gt;<sp/>tab<sp/>=<sp/>para-&gt;get_ParagraphFormat()-&gt;get_TabStops()-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Replace<sp/>the<sp/>first<sp/>default<sp/>tab,<sp/>stop<sp/>with<sp/>a<sp/>custom<sp/>tab<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>para-&gt;get_ParagraphFormat()-&gt;get_TabStops()-&gt;RemoveByPosition(tab-&gt;get_Position());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>para-&gt;get_ParagraphFormat()-&gt;get_TabStops()-&gt;Add(tab-&gt;get_Position()<sp/>-<sp/>50,<sp/>tab-&gt;get_Alignment(),<sp/>tab-&gt;get_Leader());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Styles.ChangeTocsTabStops.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TabStop.h" line="98" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_tab_stop_1a351ea73dd6af5e0eb9bf5d7752d0a0b2" prot="public" static="no" const="yes" explicit="no" inline="no" virt="virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::TabStop::GetHashCode</definition>
+        <argsstring>() const override</argsstring>
+        <name>GetHashCode</name>
+        <qualifiedname>Aspose::Words::TabStop::GetHashCode</qualifiedname>
+        <reimplements refid="class/system.object/_1a00ddaaa824a71dbaa2b3a0f688d044a9">GetHashCode</reimplements>
+        <briefdescription>
+<para>Calculates hash code for this object. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TabStop.h" line="339" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_tab_stop_1ae14f44c51b6487c46693fa826097c25a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::TabStop::set_Alignment</definition>
+        <argsstring>(Aspose::Words::TabAlignment value)</argsstring>
+        <name>set_Alignment</name>
+        <qualifiedname>Aspose::Words::TabStop::set_Alignment</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1a12692f3efc7a99db6c2eecd8e9d2c0da" kindref="member">Aspose::Words::TabAlignment</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_tab_stop_1a834288d6760227c434de8d995900fd95" kindref="member">Aspose::Words::TabStop::get_Alignment</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TabStop.h" line="128" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_tab_stop_1abd7291d82b2dcf3d5dcad5392b01240f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::TabStop::set_Leader</definition>
+        <argsstring>(Aspose::Words::TabLeader value)</argsstring>
+        <name>set_Leader</name>
+        <qualifiedname>Aspose::Words::TabStop::set_Leader</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1a1c62232acd0a037622ea840d3bc9304e" kindref="member">Aspose::Words::TabLeader</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_tab_stop_1a13118808cabd545650768c3a76a1eeca" kindref="member">Aspose::Words::TabStop::get_Leader</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/TabStop.h" line="158" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents a single custom tab stop. The <bold>TabStop</bold> object is a member of the <ref refid="class_aspose_1_1_words_1_1_tab_stop_collection" kindref="compound">TabStopCollection</ref> collection. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>Normally, a tab stop specifies a position where a tab stop exists. But because tab stops can be inherited from parent styles, it might be needed for the child object to define explicitly that there is no tab stop at a given position. To clear an inherited tab stop at a given position, create a <bold>TabStop</bold> object and set <ref refid="class_aspose_1_1_words_1_1_tab_stop_1a834288d6760227c434de8d995900fd95" kindref="member">Alignment</ref> to <computeroutput>TabAlignment.Clear</computeroutput>.</para>
+<para>For more information see <ref refid="class_aspose_1_1_words_1_1_tab_stop_collection" kindref="compound">TabStopCollection</ref>.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_paragraph_format" kindref="compound">Aspose::Words::ParagraphFormat</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_tab_stop_collection" kindref="compound">Aspose::Words::TabStopCollection</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_document_1ab3f6a1ab5fe5f8427dfb8641ad6a87c3" kindref="member">Aspose::Words::Document::get_DefaultTabStop</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to modify the position of the right tab stop in TOC related paragraphs. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table<sp/>of<sp/>contents.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Iterate<sp/>through<sp/>all<sp/>paragraphs<sp/>with<sp/>TOC<sp/>result-based<sp/>styles;<sp/>this<sp/>is<sp/>any<sp/>style<sp/>between<sp/>TOC<sp/>and<sp/>TOC9.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>para<sp/>:<sp/>System::IterateOver(doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;LINQ_OfType&lt;SharedPtr&lt;Paragraph&gt;&gt;()))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(para-&gt;get_ParagraphFormat()-&gt;get_Style()-&gt;get_StyleIdentifier()<sp/>&gt;=<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a20c0f0b05465f571395bbcdf082d0cda" kindref="member">StyleIdentifier::Toc1</ref><sp/>&amp;&amp;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>para-&gt;get_ParagraphFormat()-&gt;get_Style()-&gt;get_StyleIdentifier()<sp/>&lt;=<sp/><ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34ae8da749f30b38cb3ce02e34dcf390ef4" kindref="member">StyleIdentifier::Toc9</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Get<sp/>the<sp/>first<sp/>tab<sp/>used<sp/>in<sp/>this<sp/>paragraph,<sp/>this<sp/>should<sp/>be<sp/>the<sp/>tab<sp/>used<sp/>to<sp/>align<sp/>the<sp/>page<sp/>numbers.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;TabStop&gt;<sp/>tab<sp/>=<sp/>para-&gt;get_ParagraphFormat()-&gt;get_TabStops()-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Replace<sp/>the<sp/>first<sp/>default<sp/>tab,<sp/>stop<sp/>with<sp/>a<sp/>custom<sp/>tab<sp/>stop.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>para-&gt;get_ParagraphFormat()-&gt;get_TabStops()-&gt;RemoveByPosition(tab-&gt;get_Position());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>para-&gt;get_ParagraphFormat()-&gt;get_TabStops()-&gt;Add(tab-&gt;get_Position()<sp/>-<sp/>50,<sp/>tab-&gt;get_Alignment(),<sp/>tab-&gt;get_Leader());</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Styles.ChangeTocsTabStops.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::TabStop</label>
+        <link refid="class_aspose_1_1_words_1_1_tab_stop"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::TabStop</label>
+        <link refid="class_aspose_1_1_words_1_1_tab_stop"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/TabStop.h" line="60" column="1" bodyfile="Aspose.Words.Cpp/TabStop.h" bodystart="61" bodyend="354"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_tab_stop_1a1d3fd26b1a6c9d0cc1a050b5d3f8c7b9" prot="private" virt="non-virtual"><scope>Aspose::Words::TabStop</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tab_stop_1a5d9a5a9ff43144808554acfba636cc50" prot="public" virt="non-virtual"><scope>Aspose::Words::TabStop</scope><name>Equals</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tab_stop_1a834288d6760227c434de8d995900fd95" prot="public" virt="non-virtual"><scope>Aspose::Words::TabStop</scope><name>get_Alignment</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tab_stop_1ab97e3aff30ada289366930e33d1d54ad" prot="public" virt="non-virtual"><scope>Aspose::Words::TabStop</scope><name>get_IsClear</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tab_stop_1a13118808cabd545650768c3a76a1eeca" prot="public" virt="non-virtual"><scope>Aspose::Words::TabStop</scope><name>get_Leader</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tab_stop_1ac373c0ee3563d656f9f4bfde18613275" prot="public" virt="non-virtual"><scope>Aspose::Words::TabStop</scope><name>get_Position</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tab_stop_1a351ea73dd6af5e0eb9bf5d7752d0a0b2" prot="public" virt="virtual"><scope>Aspose::Words::TabStop</scope><name>GetHashCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tab_stop_1a7697cd43d2f80e89de8ede6c62ee9dd8" prot="private" virt="non-virtual"><scope>Aspose::Words::TabStop</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tab_stop_1abf3ed1ac645052e0b5d94c3dba381ba9" prot="private" virt="non-virtual"><scope>Aspose::Words::TabStop</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tab_stop_1a1e8fff237c87a405f978c868c0d09549" prot="private" virt="non-virtual"><scope>Aspose::Words::TabStop</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tab_stop_1a7eca5f6541aa61d5e07e9d0380baea72" prot="private" virt="non-virtual"><scope>Aspose::Words::TabStop</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tab_stop_1a3f8bcb9ac0719e87322279db8aafe93f" prot="private" virt="non-virtual"><scope>Aspose::Words::TabStop</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tab_stop_1a1ab1b17363eeb25853de1a81b5edd848" prot="private" virt="non-virtual"><scope>Aspose::Words::TabStop</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tab_stop_1afff566fcf26beca915fe6a7437476269" prot="private" virt="non-virtual"><scope>Aspose::Words::TabStop</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tab_stop_1ae14f44c51b6487c46693fa826097c25a" prot="public" virt="non-virtual"><scope>Aspose::Words::TabStop</scope><name>set_Alignment</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tab_stop_1abd7291d82b2dcf3d5dcad5392b01240f" prot="public" virt="non-virtual"><scope>Aspose::Words::TabStop</scope><name>set_Leader</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tab_stop_1a458c43e52e4180b11c11294d2e8ddd9d" prot="public" virt="non-virtual"><scope>Aspose::Words::TabStop</scope><name>TabStop</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tab_stop_1a37a18bd30f05cf4952121b5fcb46c4c0" prot="public" virt="non-virtual"><scope>Aspose::Words::TabStop</scope><name>TabStop</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tab_stop_1aaa211d0ac58e05864150369e0d1cb8e9" prot="private" virt="non-virtual"><scope>Aspose::Words::TabStop</scope><name>TabStop</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tab_stop_1a28d469703618f071592c538b2ad56e54" prot="private" virt="non-virtual"><scope>Aspose::Words::TabStop</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_tab_stop_1a62d9790ed6313bb7c2e0f0122a7aad10" prot="private" virt="non-virtual"><scope>Aspose::Words::TabStop</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

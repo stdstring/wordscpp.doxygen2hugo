@@ -1,0 +1,379 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fonts::FolderFontSource</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base" prot="public" virt="non-virtual">Aspose::Words::Fonts::FontSourceBase</basecompoundref>
+    <includes refid="_folder_font_source_8h" local="no">Aspose.Words.Cpp/Fonts/FolderFontSource.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source_1af8efe018866a5337b35a71b3ad11823a" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base" kindref="compound">Aspose::Words::Fonts::FontSourceBase</ref></type>
+        <definition>typedef Aspose::Words::Fonts::FontSourceBase Aspose::Words::Fonts::FolderFontSource::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fonts::FolderFontSource::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FolderFontSource.h" line="63" column="50" bodyfile="Aspose.Words.Cpp/Fonts/FolderFontSource.h" bodystart="63" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source_1ad0a61968b5bb3c2fdf6a8a488f9775f3" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source" kindref="compound">FolderFontSource</ref></type>
+        <definition>typedef FolderFontSource Aspose::Words::Fonts::FolderFontSource::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fonts::FolderFontSource::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FolderFontSource.h" line="62" column="30" bodyfile="Aspose.Words.Cpp/Fonts/FolderFontSource.h" bodystart="62" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source_1ace59ef79af6fc1462deff5260bcb0542" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Fonts::FolderFontSource::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fonts::FolderFontSource::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FolderFontSource.h" line="65" column="37" bodyfile="Aspose.Words.Cpp/Fonts/FolderFontSource.h" bodystart="65" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source_1a13b30efb62a85eae04c8b0713d3a4ef0" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fonts::FolderFontSource::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Fonts::FolderFontSource::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FolderFontSource.h" line="179" column="20" bodyfile="Aspose.Words.Cpp/Fonts/FolderFontSource.h" bodystart="179" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source_1a569405ffa89fe22106424fb6f1d64d1f" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Fonts::FolderFontSource::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Fonts::FolderFontSource::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FolderFontSource.h" line="180" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FolderFontSource.h" bodystart="180" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source_1ab59c2d992cc6316b2ef3a3fa7e4e2ed5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fonts::FolderFontSource::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fonts::FolderFontSource::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FolderFontSource.h" line="66" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source_1a893e8c30f714f685c294b52a6cfb1088" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fonts::FolderFontSource::FolderFontSource</definition>
+        <argsstring>(const System::String &amp;folderPath, bool scanSubfolders)</argsstring>
+        <name>FolderFontSource</name>
+        <qualifiedname>Aspose::Words::Fonts::FolderFontSource::FolderFontSource</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>folderPath</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>scanSubfolders</declname>
+        </param>
+        <briefdescription>
+<para>Ctor. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>folderPath</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Path to folder. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>scanSubfolders</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Determines whether or not to scan subfolders.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use a local system folder which contains fonts as a font source. <programlisting><codeline><highlight class="comment">//<sp/>Create<sp/>a<sp/>font<sp/>source<sp/>from<sp/>a<sp/>folder<sp/>that<sp/>contains<sp/>font<sp/>files.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>folderFontSource<sp/>=<sp/>MakeObject&lt;FolderFontSource&gt;(FontsDir,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(MakeObject&lt;FontSettings&gt;());</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({folderFontSource}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(FontsDir,<sp/>folderFontSource-&gt;get_FolderPath());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>folderFontSource-&gt;get_ScanSubfolders());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1a051c80aa5ee51bddb25684fd9953dd15" kindref="member" tooltip="A FolderFontSource object that represents folder with font files.">FontSourceType::FontsFolder</ref>,<sp/>folderFontSource-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>folderFontSource-&gt;get_Priority());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FolderFontSource.h" line="151" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source_1ac42e3fde2815794c6b742b11d8f8356c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fonts::FolderFontSource::FolderFontSource</definition>
+        <argsstring>(const System::String &amp;folderPath, bool scanSubfolders, int32_t priority)</argsstring>
+        <name>FolderFontSource</name>
+        <qualifiedname>Aspose::Words::Fonts::FolderFontSource::FolderFontSource</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>folderPath</declname>
+        </param>
+        <param>
+          <type>bool</type>
+          <declname>scanSubfolders</declname>
+        </param>
+        <param>
+          <type>int32_t</type>
+          <declname>priority</declname>
+        </param>
+        <briefdescription>
+<para>Ctor. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>folderPath</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Path to folder. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>scanSubfolders</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Determines whether or not to scan subfolders. </para>
+</parameterdescription>
+</parameteritem>
+<parameteritem>
+<parameternamelist>
+<parametername>priority</parametername>
+</parameternamelist>
+<parameterdescription>
+<para><ref refid="class_aspose_1_1_words_1_1_font" kindref="compound">Font</ref> source priority. See the <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1abba3fb9827af183660bb750252ec78f6" kindref="member">Priority</ref> property description for more information.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use a local system folder which contains fonts as a font source. <programlisting><codeline><highlight class="comment">//<sp/>Create<sp/>a<sp/>font<sp/>source<sp/>from<sp/>a<sp/>folder<sp/>that<sp/>contains<sp/>font<sp/>files.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>folderFontSource<sp/>=<sp/>MakeObject&lt;FolderFontSource&gt;(FontsDir,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(MakeObject&lt;FontSettings&gt;());</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({folderFontSource}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(FontsDir,<sp/>folderFontSource-&gt;get_FolderPath());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>folderFontSource-&gt;get_ScanSubfolders());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1a051c80aa5ee51bddb25684fd9953dd15" kindref="member" tooltip="A FolderFontSource object that represents folder with font files.">FontSourceType::FontsFolder</ref>,<sp/>folderFontSource-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>folderFontSource-&gt;get_Priority());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FolderFontSource.h" line="175" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source_1afc0f63f8b8644776aa09c6e4f4baa004" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fonts::FolderFontSource::get_FolderPath</definition>
+        <argsstring>() const</argsstring>
+        <name>get_FolderPath</name>
+        <qualifiedname>Aspose::Words::Fonts::FolderFontSource::get_FolderPath</qualifiedname>
+        <briefdescription>
+<para>Path to the folder. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use a local system folder which contains fonts as a font source. <programlisting><codeline><highlight class="comment">//<sp/>Create<sp/>a<sp/>font<sp/>source<sp/>from<sp/>a<sp/>folder<sp/>that<sp/>contains<sp/>font<sp/>files.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>folderFontSource<sp/>=<sp/>MakeObject&lt;FolderFontSource&gt;(FontsDir,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(MakeObject&lt;FontSettings&gt;());</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({folderFontSource}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(FontsDir,<sp/>folderFontSource-&gt;get_FolderPath());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>folderFontSource-&gt;get_ScanSubfolders());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1a051c80aa5ee51bddb25684fd9953dd15" kindref="member" tooltip="A FolderFontSource object that represents folder with font files.">FontSourceType::FontsFolder</ref>,<sp/>folderFontSource-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>folderFontSource-&gt;get_Priority());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FolderFontSource.h" line="88" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source_1af53f3c852035dc875fbaa40a633da80f" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fonts::FolderFontSource::get_ScanSubfolders</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ScanSubfolders</name>
+        <qualifiedname>Aspose::Words::Fonts::FolderFontSource::get_ScanSubfolders</qualifiedname>
+        <briefdescription>
+<para>Determines whether or not to scan the subfolders. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use a local system folder which contains fonts as a font source. <programlisting><codeline><highlight class="comment">//<sp/>Create<sp/>a<sp/>font<sp/>source<sp/>from<sp/>a<sp/>folder<sp/>that<sp/>contains<sp/>font<sp/>files.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>folderFontSource<sp/>=<sp/>MakeObject&lt;FolderFontSource&gt;(FontsDir,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(MakeObject&lt;FontSettings&gt;());</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({folderFontSource}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(FontsDir,<sp/>folderFontSource-&gt;get_FolderPath());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>folderFontSource-&gt;get_ScanSubfolders());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1a051c80aa5ee51bddb25684fd9953dd15" kindref="member" tooltip="A FolderFontSource object that represents folder with font files.">FontSourceType::FontsFolder</ref>,<sp/>folderFontSource-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>folderFontSource-&gt;get_Priority());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FolderFontSource.h" line="108" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source_1a115ae3e7438d1dfe189b7a2c2fcd3f9b" prot="public" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1" kindref="member">Aspose::Words::Fonts::FontSourceType</ref></type>
+        <definition>Aspose::Words::Fonts::FontSourceType Aspose::Words::Fonts::FolderFontSource::get_Type</definition>
+        <argsstring>() override</argsstring>
+        <name>get_Type</name>
+        <qualifiedname>Aspose::Words::Fonts::FolderFontSource::get_Type</qualifiedname>
+        <reimplements refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a7ee93eabec992e28bde2e2a7ccffb463">get_Type</reimplements>
+        <briefdescription>
+<para>Returns the type of the font source. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use a local system folder which contains fonts as a font source. <programlisting><codeline><highlight class="comment">//<sp/>Create<sp/>a<sp/>font<sp/>source<sp/>from<sp/>a<sp/>folder<sp/>that<sp/>contains<sp/>font<sp/>files.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>folderFontSource<sp/>=<sp/>MakeObject&lt;FolderFontSource&gt;(FontsDir,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(MakeObject&lt;FontSettings&gt;());</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({folderFontSource}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(FontsDir,<sp/>folderFontSource-&gt;get_FolderPath());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>folderFontSource-&gt;get_ScanSubfolders());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1a051c80aa5ee51bddb25684fd9953dd15" kindref="member" tooltip="A FolderFontSource object that represents folder with font files.">FontSourceType::FontsFolder</ref>,<sp/>folderFontSource-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>folderFontSource-&gt;get_Priority());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FolderFontSource.h" line="128" column="45"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents the folder that contains TrueType font files. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to use a local system folder which contains fonts as a font source. <programlisting><codeline><highlight class="comment">//<sp/>Create<sp/>a<sp/>font<sp/>source<sp/>from<sp/>a<sp/>folder<sp/>that<sp/>contains<sp/>font<sp/>files.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>folderFontSource<sp/>=<sp/>MakeObject&lt;FolderFontSource&gt;(FontsDir,<sp/></highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>1);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;set_FontSettings(MakeObject&lt;FontSettings&gt;());</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_FontSettings()-&gt;SetFontsSources(MakeArray&lt;SharedPtr&lt;FontSourceBase&gt;&gt;({folderFontSource}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(FontsDir,<sp/>folderFontSource-&gt;get_FolderPath());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(</highlight><highlight class="keyword">false</highlight><highlight class="normal">,<sp/>folderFontSource-&gt;get_ScanSubfolders());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a016f4701fd203aaadd93269438fa18a1a051c80aa5ee51bddb25684fd9953dd15" kindref="member" tooltip="A FolderFontSource object that represents folder with font files.">FontSourceType::FontsFolder</ref>,<sp/>folderFontSource-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>folderFontSource-&gt;get_Priority());</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="3">
+        <label>Aspose::Fonts::IFontSource</label>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fonts::FolderFontSource</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Fonts::FontSourceBase</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>Aspose::Fonts::IFontSource</label>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fonts::FolderFontSource</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Fonts::FontSourceBase</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fonts/FolderFontSource.h" line="60" column="1" bodyfile="Aspose.Words.Cpp/Fonts/FolderFontSource.h" bodystart="61" bodyend="184"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source_1af8efe018866a5337b35a71b3ad11823a" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FolderFontSource</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source_1a893e8c30f714f685c294b52a6cfb1088" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FolderFontSource</scope><name>FolderFontSource</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source_1ac42e3fde2815794c6b742b11d8f8356c" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FolderFontSource</scope><name>FolderFontSource</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source_1afc0f63f8b8644776aa09c6e4f4baa004" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FolderFontSource</scope><name>get_FolderPath</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1abba3fb9827af183660bb750252ec78f6" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FolderFontSource</scope><name>get_Priority</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source_1af53f3c852035dc875fbaa40a633da80f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FolderFontSource</scope><name>get_ScanSubfolders</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source_1a115ae3e7438d1dfe189b7a2c2fcd3f9b" prot="public" virt="virtual"><scope>Aspose::Words::Fonts::FolderFontSource</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a82c8254fe64b2f20579fd502db17032a" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FolderFontSource</scope><name>get_WarningCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a41658ea3418ae6df25dbd632fdaa0c43" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FolderFontSource</scope><name>GetAvailableFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source_1a13b30efb62a85eae04c8b0713d3a4ef0" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FolderFontSource</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source_1a569405ffa89fe22106424fb6f1d64d1f" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FolderFontSource</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source_1ab59c2d992cc6316b2ef3a3fa7e4e2ed5" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FolderFontSource</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_source_base_1a296a7f589143ba1850991e81fd1a1119" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FolderFontSource</scope><name>set_WarningCallback</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source_1ad0a61968b5bb3c2fdf6a8a488f9775f3" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FolderFontSource</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_folder_font_source_1ace59ef79af6fc1462deff5260bcb0542" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FolderFontSource</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

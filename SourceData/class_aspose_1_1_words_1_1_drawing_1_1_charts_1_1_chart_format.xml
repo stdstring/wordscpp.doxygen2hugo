@@ -1,0 +1,1465 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Drawing::Charts::ChartFormat</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Drawing::Core::IFillable</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Drawing::Core::IStrokable</basecompoundref>
+    <includes refid="_chart_format_8h" local="no">Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a5d73f654ee0cae4884ce9dbe68250745" prot="private" static="no">
+        <type>Aspose::Words::Drawing::Core::IFillable</type>
+        <definition>typedef Aspose::Words::Drawing::Core::IFillable Aspose::Words::Drawing::Charts::ChartFormat::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="85" column="53" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" bodystart="85" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1adae12c4cf5d903b1327f886222b01ca5" prot="private" static="no">
+        <type>Aspose::Words::Drawing::Core::IStrokable</type>
+        <definition>typedef Aspose::Words::Drawing::Core::IStrokable Aspose::Words::Drawing::Charts::ChartFormat::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="86" column="54" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" bodystart="86" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a4fc4e84d83eec3046c3e00dcf426a41d" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format" kindref="compound">ChartFormat</ref></type>
+        <definition>typedef ChartFormat Aspose::Words::Drawing::Charts::ChartFormat::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="84" column="25" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" bodystart="84" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1aa59b5560d6a987d68ef7f7031563afcc" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; BaseType, BaseType1 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Drawing::Charts::ChartFormat::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="88" column="37" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" bodystart="88" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ad28778b8e14644d0d84f020b2a2b0b04" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartFormat::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="234" column="21" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" bodystart="234" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ac6722ff87a4551861ab8a7b865f607d5" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartFormat::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="235" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" bodystart="235" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a6c22f135dcd52e642ee5580a00fd3b8c" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Drawing::Charts::ChartFormat::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="236" column="23" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" bodystart="236" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a10d394139608ac103255b166f75acc62" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Drawing::Charts::ChartFormat::~ChartFormat</definition>
+        <argsstring>()</argsstring>
+        <name>~ChartFormat</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::~ChartFormat</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="169" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1aa95eaf3e987dd8126d1709622deb6c38" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a85945aebfa7941033984f1361893750f" kindref="member">Aspose::Words::Drawing::DashStyle</ref></type>
+        <definition>Aspose::Words::Drawing::DashStyle Aspose::Words::Drawing::Charts::ChartFormat::get_DashStyle</definition>
+        <argsstring>() override</argsstring>
+        <name>get_DashStyle</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_DashStyle</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="209" column="39"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1afa51eddbdff9b50edf260aaaad12197e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1aba4a9960dc2f7028e94bf50f4cbb2899" kindref="member">Aspose::Words::Drawing::ArrowLength</ref></type>
+        <definition>Aspose::Words::Drawing::ArrowLength Aspose::Words::Drawing::Charts::ChartFormat::get_EndArrowLength</definition>
+        <argsstring>() override</argsstring>
+        <name>get_EndArrowLength</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_EndArrowLength</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="227" column="41"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ae780aeb5974e3cdcefedbbcf6f631c4a" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a2555b23818971467ba5ce3de15a8f78d" kindref="member">Aspose::Words::Drawing::ArrowType</ref></type>
+        <definition>Aspose::Words::Drawing::ArrowType Aspose::Words::Drawing::Charts::ChartFormat::get_EndArrowType</definition>
+        <argsstring>() override</argsstring>
+        <name>get_EndArrowType</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_EndArrowType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="219" column="39"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a9df78433f55a29d0cc5c08126949086f" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1ab3c78eebc9bfcfee61e5b8398e9b0ed1" kindref="member">Aspose::Words::Drawing::ArrowWidth</ref></type>
+        <definition>Aspose::Words::Drawing::ArrowWidth Aspose::Words::Drawing::Charts::ChartFormat::get_EndArrowWidth</definition>
+        <argsstring>() override</argsstring>
+        <name>get_EndArrowWidth</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_EndArrowWidth</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="225" column="40"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1af7d4cf584113a52e88c0907494c221f5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1aad70ed23fe8702e63c020dcb91d1ff2f" kindref="member">Aspose::Words::Drawing::EndCap</ref></type>
+        <definition>Aspose::Words::Drawing::EndCap Aspose::Words::Drawing::Charts::ChartFormat::get_EndCap</definition>
+        <argsstring>() override</argsstring>
+        <name>get_EndCap</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_EndCap</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="213" column="36"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1abc3331d834424864928320ee2328825a" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+        <definition>System::Drawing::Color Aspose::Words::Drawing::Charts::ChartFormat::get_FillableBackColor</definition>
+        <argsstring>() override</argsstring>
+        <name>get_FillableBackColor</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_FillableBackColor</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="182" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a7f3c89a5eabc6e41730e970bf119f5da" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+        <definition>System::Drawing::Color Aspose::Words::Drawing::Charts::ChartFormat::get_FillableForeColor</definition>
+        <argsstring>() override</argsstring>
+        <name>get_FillableForeColor</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_FillableForeColor</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="180" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a07596c8f9e424c7d33e38d56edaabf45" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt;</type>
+        <definition>System::ArrayPtr&lt; uint8_t &gt; Aspose::Words::Drawing::Charts::ChartFormat::get_FillableImageBytes</definition>
+        <argsstring>() override</argsstring>
+        <name>get_FillableImageBytes</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_FillableImageBytes</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="179" column="22"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a764bd97ee4147fc8565f487dd9eb5352" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Drawing::Core::Dml::Themes::IThemeProvider &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::Core::Dml::Themes::IThemeProvider &gt; Aspose::Words::Drawing::Charts::ChartFormat::get_FillableThemeProvider</definition>
+        <argsstring>() override</argsstring>
+        <name>get_FillableThemeProvider</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_FillableThemeProvider</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="198" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1aba0ab3327125a13439e752d8354b61a8" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::Drawing::Charts::ChartFormat::get_FillableTransparency</definition>
+        <argsstring>() override</argsstring>
+        <name>get_FillableTransparency</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_FillableTransparency</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="186" column="12"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ad09fc72e91d5a4d9787f997afd24dd57" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Drawing::Charts::ChartFormat::get_FillableVisible</definition>
+        <argsstring>() override</argsstring>
+        <name>get_FillableVisible</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_FillableVisible</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="184" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a600ca651c17a6eb21eb78bbadd15efcf" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+        <definition>System::Drawing::Color Aspose::Words::Drawing::Charts::ChartFormat::get_FilledColor</definition>
+        <argsstring>() override</argsstring>
+        <name>get_FilledColor</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_FilledColor</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="173" column="28"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a10680a3192447fda90502b46ae74030a" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>Aspose::Words::Drawing::Core::FillTypeCore</type>
+        <definition>Aspose::Words::Drawing::Core::FillTypeCore Aspose::Words::Drawing::Charts::ChartFormat::get_FillType</definition>
+        <argsstring>() override</argsstring>
+        <name>get_FillType</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_FillType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="190" column="48"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a6be0a79fbce9572dce6d5e5fa3ab24b8" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::Drawing::Charts::ChartFormat::get_GradientAngle</definition>
+        <argsstring>() override</argsstring>
+        <name>get_GradientAngle</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_GradientAngle</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="193" column="12"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a32b783082dd6e87c2829f296c3ad0ce1" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_gradient_stop_collection" kindref="compound">Aspose::Words::Drawing::GradientStopCollection</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::GradientStopCollection &gt; Aspose::Words::Drawing::Charts::ChartFormat::get_GradientStops</definition>
+        <argsstring>() override</argsstring>
+        <name>get_GradientStops</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_GradientStops</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="197" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a22c16b928edbd584d22b11d55517fd2a" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a610db2dc24cd10024dddc254b5992edb" kindref="member">Aspose::Words::Drawing::GradientStyle</ref></type>
+        <definition>Aspose::Words::Drawing::GradientStyle Aspose::Words::Drawing::Charts::ChartFormat::get_GradientStyle</definition>
+        <argsstring>() override</argsstring>
+        <name>get_GradientStyle</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_GradientStyle</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="196" column="43"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a4dc0ae26fa4a3f10155d95f267234648" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1adab7b8aed778ae3af981575ce6809974" kindref="member">Aspose::Words::Drawing::GradientVariant</ref></type>
+        <definition>Aspose::Words::Drawing::GradientVariant Aspose::Words::Drawing::Charts::ChartFormat::get_GradientVariant</definition>
+        <argsstring>() override</argsstring>
+        <name>get_GradientVariant</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_GradientVariant</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="195" column="45"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a7a3d6569c4508a24e7433d904f297983" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a5cf8d49b721f08db4d9b6f38b5994fdf" kindref="member">Aspose::Words::Drawing::JoinStyle</ref></type>
+        <definition>Aspose::Words::Drawing::JoinStyle Aspose::Words::Drawing::Charts::ChartFormat::get_JoinStyle</definition>
+        <argsstring>() override</argsstring>
+        <name>get_JoinStyle</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_JoinStyle</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="211" column="39"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a1619350d6149b20d987faee247948103" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>Aspose::Words::Drawing::Core::LineFillType</type>
+        <definition>Aspose::Words::Drawing::Core::LineFillType Aspose::Words::Drawing::Charts::ChartFormat::get_LineFillType</definition>
+        <argsstring>() override</argsstring>
+        <name>get_LineFillType</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_LineFillType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="229" column="48"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a3154e42e903e09bc444df48fdf2f98d4" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a967dbb2cb759c83972c1f31edec3dcd9" kindref="member">Aspose::Words::Drawing::ShapeLineStyle</ref></type>
+        <definition>Aspose::Words::Drawing::ShapeLineStyle Aspose::Words::Drawing::Charts::ChartFormat::get_LineStyle</definition>
+        <argsstring>() override</argsstring>
+        <name>get_LineStyle</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_LineStyle</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="215" column="44"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1aec28f38109f4a27b2cf00ddd9199194f" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Drawing::Charts::ChartFormat::get_On</definition>
+        <argsstring>() override</argsstring>
+        <name>get_On</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_On</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="175" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ac1f260747ce90b2425c4761b51504539" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::Drawing::Charts::ChartFormat::get_Opacity</definition>
+        <argsstring>() override</argsstring>
+        <name>get_Opacity</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_Opacity</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="177" column="12"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a707afcf7077209d09c8b9f74f266751f" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Drawing::Charts::ChartFormat::get_RotateWithObject</definition>
+        <argsstring>() override</argsstring>
+        <name>get_RotateWithObject</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_RotateWithObject</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="188" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1abcc3ca5b0d132e39ac7dd10e0d1f387b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1aba4a9960dc2f7028e94bf50f4cbb2899" kindref="member">Aspose::Words::Drawing::ArrowLength</ref></type>
+        <definition>Aspose::Words::Drawing::ArrowLength Aspose::Words::Drawing::Charts::ChartFormat::get_StartArrowLength</definition>
+        <argsstring>() override</argsstring>
+        <name>get_StartArrowLength</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_StartArrowLength</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="223" column="41"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1aedccd14fdb4e8291238dedb5cb183b4e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a2555b23818971467ba5ce3de15a8f78d" kindref="member">Aspose::Words::Drawing::ArrowType</ref></type>
+        <definition>Aspose::Words::Drawing::ArrowType Aspose::Words::Drawing::Charts::ChartFormat::get_StartArrowType</definition>
+        <argsstring>() override</argsstring>
+        <name>get_StartArrowType</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_StartArrowType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="217" column="39"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ac3533593aa99b4ce76bcba4941589cac" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1ab3c78eebc9bfcfee61e5b8398e9b0ed1" kindref="member">Aspose::Words::Drawing::ArrowWidth</ref></type>
+        <definition>Aspose::Words::Drawing::ArrowWidth Aspose::Words::Drawing::Charts::ChartFormat::get_StartArrowWidth</definition>
+        <argsstring>() override</argsstring>
+        <name>get_StartArrowWidth</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_StartArrowWidth</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="221" column="40"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ab8bec4f5be53f7afb6e7275df6ffc44e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Drawing::DrColor &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Drawing::DrColor &gt; Aspose::Words::Drawing::Charts::ChartFormat::get_StrokeBackColor</definition>
+        <argsstring>() override</argsstring>
+        <name>get_StrokeBackColor</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_StrokeBackColor</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="201" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a1d2a5961c794224a84b79d6f6112c3cd" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Drawing::DrColor &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Drawing::DrColor &gt; Aspose::Words::Drawing::Charts::ChartFormat::get_StrokeForeColor</definition>
+        <argsstring>() override</argsstring>
+        <name>get_StrokeForeColor</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_StrokeForeColor</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="199" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1aa88fb08693a9c4c0726a67979df29e40" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt;</type>
+        <definition>System::ArrayPtr&lt; uint8_t &gt; Aspose::Words::Drawing::Charts::ChartFormat::get_StrokeImageBytes</definition>
+        <argsstring>() override</argsstring>
+        <name>get_StrokeImageBytes</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_StrokeImageBytes</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="231" column="22"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a2a4df36a4a6c210ad0ad08f1dbec383f" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Drawing::Core::Dml::Themes::IThemeProvider &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::Core::Dml::Themes::IThemeProvider &gt; Aspose::Words::Drawing::Charts::ChartFormat::get_StrokeThemeProvider</definition>
+        <argsstring>() override</argsstring>
+        <name>get_StrokeThemeProvider</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_StrokeThemeProvider</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="232" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1abb46881734ac9a3ac3ed6a63a2d644a6" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::Drawing::Charts::ChartFormat::get_StrokeTransparency</definition>
+        <argsstring>() override</argsstring>
+        <name>get_StrokeTransparency</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_StrokeTransparency</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="205" column="12"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a145ddfe08f1a9cc4a866563ebe541b1b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Drawing::Charts::ChartFormat::get_StrokeVisible</definition>
+        <argsstring>() override</argsstring>
+        <name>get_StrokeVisible</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_StrokeVisible</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="203" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a33383c0b77af6a127529707b5a11576b" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a7d37f1d8a4325aa913702818080464e0" kindref="member">Aspose::Words::Drawing::TextureAlignment</ref></type>
+        <definition>Aspose::Words::Drawing::TextureAlignment Aspose::Words::Drawing::Charts::ChartFormat::get_TextureAlignment</definition>
+        <argsstring>() override</argsstring>
+        <name>get_TextureAlignment</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_TextureAlignment</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="191" column="46"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a7831d50a073996e4d3446ce8696c0619" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::Drawing::Charts::ChartFormat::get_Weight</definition>
+        <argsstring>() override</argsstring>
+        <name>get_Weight</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_Weight</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="207" column="12"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a878990ff38c8425ab68f2550513b865f" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230" kindref="member">Aspose::Words::Drawing::PatternType</ref></type>
+        <definition>Aspose::Words::Drawing::PatternType Aspose::Words::Drawing::Charts::ChartFormat::GetPatternType</definition>
+        <argsstring>() override</argsstring>
+        <name>GetPatternType</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::GetPatternType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="242" column="41"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ad278254728d0cbf974336d824d8c1791" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fc" kindref="member">Aspose::Words::Drawing::PresetTexture</ref></type>
+        <definition>Aspose::Words::Drawing::PresetTexture Aspose::Words::Drawing::Charts::ChartFormat::GetPresetTexture</definition>
+        <argsstring>() override</argsstring>
+        <name>GetPresetTexture</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::GetPresetTexture</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="241" column="43"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a1df29e17525f02ac0339ef62c7b3e07f" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::Drawing::Charts::ChartFormat::GetTransparency</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::Drawing::Core::Dml::Colors::DmlColor &gt;) override</argsstring>
+        <name>GetTransparency</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::GetTransparency</qualifiedname>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Drawing::Core::Dml::Colors::DmlColor &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="247" column="12"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a1f99e2480aabe0c6dde432e7c79a51c2" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::OneColorGradient</definition>
+        <argsstring>(Aspose::Words::Drawing::GradientStyle, Aspose::Words::Drawing::GradientVariant, double) override</argsstring>
+        <name>OneColorGradient</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::OneColorGradient</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a610db2dc24cd10024dddc254b5992edb" kindref="member">Aspose::Words::Drawing::GradientStyle</ref></type>
+        </param>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1adab7b8aed778ae3af981575ce6809974" kindref="member">Aspose::Words::Drawing::GradientVariant</ref></type>
+        </param>
+        <param>
+          <type>double</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="243" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a4b3573e334b5b1a794b80de767a509c5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::Patterned</definition>
+        <argsstring>(Aspose::Words::Drawing::PatternType) override</argsstring>
+        <name>Patterned</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::Patterned</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a440e38f9b3ff8cbca20c3fb37c77d230" kindref="member">Aspose::Words::Drawing::PatternType</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="240" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1aa619ae01899d8795c974eab692d4d43d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::PresetTextured</definition>
+        <argsstring>(Aspose::Words::Drawing::PresetTexture) override</argsstring>
+        <name>PresetTextured</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::PresetTextured</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fc" kindref="member">Aspose::Words::Drawing::PresetTexture</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="239" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ae99994797a81927e7c2cd82d4c38e583" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Drawing::Charts::ChartFormat::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="89" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a3679e34eea883b7383ab7743d672c4c5" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::set_DashStyle</definition>
+        <argsstring>(Aspose::Words::Drawing::DashStyle) override</argsstring>
+        <name>set_DashStyle</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_DashStyle</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a85945aebfa7941033984f1361893750f" kindref="member">Aspose::Words::Drawing::DashStyle</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="210" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a01d28b03a72cbff4deed1612e31c0327" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::set_EndArrowLength</definition>
+        <argsstring>(Aspose::Words::Drawing::ArrowLength) override</argsstring>
+        <name>set_EndArrowLength</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_EndArrowLength</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1aba4a9960dc2f7028e94bf50f4cbb2899" kindref="member">Aspose::Words::Drawing::ArrowLength</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="228" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a7bb819ee96a33527ebf00cd83d06a7b1" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::set_EndArrowType</definition>
+        <argsstring>(Aspose::Words::Drawing::ArrowType) override</argsstring>
+        <name>set_EndArrowType</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_EndArrowType</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a2555b23818971467ba5ce3de15a8f78d" kindref="member">Aspose::Words::Drawing::ArrowType</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="220" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ad40c56c9c7a469918060d491c78fbc57" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::set_EndArrowWidth</definition>
+        <argsstring>(Aspose::Words::Drawing::ArrowWidth) override</argsstring>
+        <name>set_EndArrowWidth</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_EndArrowWidth</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1ab3c78eebc9bfcfee61e5b8398e9b0ed1" kindref="member">Aspose::Words::Drawing::ArrowWidth</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="226" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a16f69b6b8bc68e3c013abd75fa494466" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::set_EndCap</definition>
+        <argsstring>(Aspose::Words::Drawing::EndCap) override</argsstring>
+        <name>set_EndCap</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_EndCap</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1aad70ed23fe8702e63c020dcb91d1ff2f" kindref="member">Aspose::Words::Drawing::EndCap</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="214" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a9f8f31235dcb1a4d306c4f37ad397f46" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::set_FillableBackColor</definition>
+        <argsstring>(System::Drawing::Color) override</argsstring>
+        <name>set_FillableBackColor</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_FillableBackColor</qualifiedname>
+        <param>
+          <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="183" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a0bc7b4c86f78b1951a65c2f915ea6a15" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::set_FillableForeColor</definition>
+        <argsstring>(System::Drawing::Color) override</argsstring>
+        <name>set_FillableForeColor</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_FillableForeColor</qualifiedname>
+        <param>
+          <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="181" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ae3acc397eac2b337a7e562e0c14b652d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::set_FillableTransparency</definition>
+        <argsstring>(double) override</argsstring>
+        <name>set_FillableTransparency</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_FillableTransparency</qualifiedname>
+        <param>
+          <type>double</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="187" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a778be3d0b149eb425c27fa7ea0d9358c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::set_FillableVisible</definition>
+        <argsstring>(bool) override</argsstring>
+        <name>set_FillableVisible</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_FillableVisible</qualifiedname>
+        <param>
+          <type>bool</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="185" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a8bfb938f5adc5dc3424d67d2fb33c9e2" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::set_FilledColor</definition>
+        <argsstring>(System::Drawing::Color) override</argsstring>
+        <name>set_FilledColor</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_FilledColor</qualifiedname>
+        <param>
+          <type><ref refid="class/system.drawing.color/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="174" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1af06c325b78f02fe55fee7cb7484f0578" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::set_GradientAngle</definition>
+        <argsstring>(double) override</argsstring>
+        <name>set_GradientAngle</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_GradientAngle</qualifiedname>
+        <param>
+          <type>double</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="194" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a32d875ccbc8ba4818b100657390a6c17" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::set_JoinStyle</definition>
+        <argsstring>(Aspose::Words::Drawing::JoinStyle) override</argsstring>
+        <name>set_JoinStyle</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_JoinStyle</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a5cf8d49b721f08db4d9b6f38b5994fdf" kindref="member">Aspose::Words::Drawing::JoinStyle</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="212" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a5732cedc710e5c9a6cb1f0a5cbb0b9a8" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::set_LineFillType</definition>
+        <argsstring>(Aspose::Words::Drawing::Core::LineFillType) override</argsstring>
+        <name>set_LineFillType</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_LineFillType</qualifiedname>
+        <param>
+          <type>Aspose::Words::Drawing::Core::LineFillType</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="230" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1af9827f25b230c432e46aae674aba4227" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::set_LineStyle</definition>
+        <argsstring>(Aspose::Words::Drawing::ShapeLineStyle) override</argsstring>
+        <name>set_LineStyle</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_LineStyle</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a967dbb2cb759c83972c1f31edec3dcd9" kindref="member">Aspose::Words::Drawing::ShapeLineStyle</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="216" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1aad506e321d519724921441b499580436" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::set_On</definition>
+        <argsstring>(bool) override</argsstring>
+        <name>set_On</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_On</qualifiedname>
+        <param>
+          <type>bool</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="176" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1afebf4fc654f9fa706da22155506a1fab" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::set_Opacity</definition>
+        <argsstring>(double) override</argsstring>
+        <name>set_Opacity</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_Opacity</qualifiedname>
+        <param>
+          <type>double</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="178" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a8c158f924e23bad7d25f91dd57e24623" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::set_RotateWithObject</definition>
+        <argsstring>(bool) override</argsstring>
+        <name>set_RotateWithObject</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_RotateWithObject</qualifiedname>
+        <param>
+          <type>bool</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="189" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a52e1670417e59c1dbdb93d6dc3409b43" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::set_StartArrowLength</definition>
+        <argsstring>(Aspose::Words::Drawing::ArrowLength) override</argsstring>
+        <name>set_StartArrowLength</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_StartArrowLength</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1aba4a9960dc2f7028e94bf50f4cbb2899" kindref="member">Aspose::Words::Drawing::ArrowLength</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="224" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a8c8e0633cc8dcd031ea020a4676d799f" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::set_StartArrowType</definition>
+        <argsstring>(Aspose::Words::Drawing::ArrowType) override</argsstring>
+        <name>set_StartArrowType</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_StartArrowType</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a2555b23818971467ba5ce3de15a8f78d" kindref="member">Aspose::Words::Drawing::ArrowType</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="218" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ae64a67f6697ca9a7ca24e9b776ec55ad" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::set_StartArrowWidth</definition>
+        <argsstring>(Aspose::Words::Drawing::ArrowWidth) override</argsstring>
+        <name>set_StartArrowWidth</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_StartArrowWidth</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1ab3c78eebc9bfcfee61e5b8398e9b0ed1" kindref="member">Aspose::Words::Drawing::ArrowWidth</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="222" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a212636fb66e2c4501c46841f962cf918" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::set_StrokeBackColor</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Drawing::DrColor &gt;) override</argsstring>
+        <name>set_StrokeBackColor</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_StrokeBackColor</qualifiedname>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Drawing::DrColor &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="202" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a7ba223dfe9c48044c410089aab8bb6d4" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::set_StrokeForeColor</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Drawing::DrColor &gt;) override</argsstring>
+        <name>set_StrokeForeColor</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_StrokeForeColor</qualifiedname>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Drawing::DrColor &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="200" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ab43a83ecfeb6213f5539109615f940de" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::set_StrokeTransparency</definition>
+        <argsstring>(double) override</argsstring>
+        <name>set_StrokeTransparency</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_StrokeTransparency</qualifiedname>
+        <param>
+          <type>double</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="206" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1aba7048ea50d40b1d71b1b91042a40c4e" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::set_StrokeVisible</definition>
+        <argsstring>(bool) override</argsstring>
+        <name>set_StrokeVisible</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_StrokeVisible</qualifiedname>
+        <param>
+          <type>bool</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="204" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ada9f99093a50f43aad8d89b032329f2d" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::set_TextureAlignment</definition>
+        <argsstring>(Aspose::Words::Drawing::TextureAlignment) override</argsstring>
+        <name>set_TextureAlignment</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_TextureAlignment</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a7d37f1d8a4325aa913702818080464e0" kindref="member">Aspose::Words::Drawing::TextureAlignment</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="192" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a4ffb6c38f8f090a043e8515ade8dddc2" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::set_Weight</definition>
+        <argsstring>(double) override</argsstring>
+        <name>set_Weight</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::set_Weight</qualifiedname>
+        <param>
+          <type>double</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="208" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ad2e36035c1d83483225838ea1594e812" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::SetFill</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::Drawing::Core::IFill &gt;) override</argsstring>
+        <name>SetFill</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::SetFill</qualifiedname>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Drawing::Core::IFill &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="246" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a228189839bee6b185a95d346f3127cff" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::SetImage</definition>
+        <argsstring>(System::ArrayPtr&lt; uint8_t &gt;) override</argsstring>
+        <name>SetImage</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::SetImage</qualifiedname>
+        <param>
+          <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; uint8_t &gt;</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="245" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ab2db9f6efbd6d3f16f35d8a3ba187254" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::SetTransparency</definition>
+        <argsstring>(System::SharedPtr&lt; Aspose::Words::Drawing::Core::Dml::Colors::DmlColor &gt;, double) override</argsstring>
+        <name>SetTransparency</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::SetTransparency</qualifiedname>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; Aspose::Words::Drawing::Core::Dml::Colors::DmlColor &gt;</type>
+        </param>
+        <param>
+          <type>double</type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="248" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a01b119e6d274cc75dd79413d51e835f9" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::Solid</definition>
+        <argsstring>() override</argsstring>
+        <name>Solid</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::Solid</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="238" column="10"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a554c4fcf295e2c0038551f1599534bab" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Drawing::Charts::ChartFormat::TwoColorGradient</definition>
+        <argsstring>(Aspose::Words::Drawing::GradientStyle, Aspose::Words::Drawing::GradientVariant) override</argsstring>
+        <name>TwoColorGradient</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::TwoColorGradient</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a610db2dc24cd10024dddc254b5992edb" kindref="member">Aspose::Words::Drawing::GradientStyle</ref></type>
+        </param>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1adab7b8aed778ae3af981575ce6809974" kindref="member">Aspose::Words::Drawing::GradientVariant</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="244" column="10"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a83cd9a1d62ddf04bd12c25e632555731" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_fill" kindref="compound">Aspose::Words::Drawing::Fill</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::Fill &gt; Aspose::Words::Drawing::Charts::ChartFormat::get_Fill</definition>
+        <argsstring>()</argsstring>
+        <name>get_Fill</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_Fill</qualifiedname>
+        <briefdescription>
+<para>Gets fill formatting for the parent chart element. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Show how to set marker formatting. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertChart(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a09870720ca8134284e4e305ac6ce5f19" kindref="member" tooltip="Scatter chart.">ChartType::Scatter</ref>,<sp/>432,<sp/>252);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Chart&gt;<sp/>chart<sp/>=<sp/>shape-&gt;get_Chart();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Delete<sp/>default<sp/>generated<sp/>series.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">chart-&gt;get_Series()-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ChartSeries&gt;<sp/>series<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;Add(u</highlight><highlight class="stringliteral">&quot;AW<sp/>Series<sp/>1&quot;</highlight><highlight class="normal">,<sp/>MakeArray&lt;double&gt;({0.7,<sp/>1.8,<sp/>2.6,<sp/>3.9}),<sp/>MakeArray&lt;double&gt;({2.7,<sp/>3.2,<sp/>0.8,<sp/>1.7}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>marker<sp/>formatting.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">series-&gt;get_Marker()-&gt;set_Size(40);</highlight></codeline>
+<codeline><highlight class="normal">series-&gt;get_Marker()-&gt;set_Symbol(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a00dc99c10541d924bd92abb1fa4027a1aceb46ca115d05c51aa5a16a8867c3304" kindref="member" tooltip="Specifies a square shall be drawn at each data point.">MarkerSymbol::Square</ref>);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ChartDataPointCollection&gt;<sp/>dataPoints<sp/>=<sp/>series-&gt;get_DataPoints();</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(0)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Fill()-&gt;PresetTextured(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca26d2add8253cba145696aedb988451f5" kindref="member" tooltip="Denim texture.">PresetTexture::Denim</ref>);</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(0)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(0)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_BackColor(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(1)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Fill()-&gt;PresetTextured(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca19e498f00e7f35f51d8e9b6144788b1f" kindref="member" tooltip="Water droplets texture.">PresetTexture::WaterDroplets</ref>);</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(1)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(1)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_Visible(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(2)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Fill()-&gt;PresetTextured(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca3dba67e90d8fa1db33b9de781ff30286" kindref="member" tooltip="Green marble texture.">PresetTexture::GreenMarble</ref>);</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(2)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(3)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Fill()-&gt;PresetTextured(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fcaf2b6dcdc344bf345a187b3c6c19af47e" kindref="member" tooltip="Oak texture.">PresetTexture::Oak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(3)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(3)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_Transparency(0.5);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Charts.MarkerFormatting.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="128" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a49af89b73daab589386a2c5d7d7ffa61" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_stroke" kindref="compound">Aspose::Words::Drawing::Stroke</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Drawing::Stroke &gt; Aspose::Words::Drawing::Charts::ChartFormat::get_Stroke</definition>
+        <argsstring>()</argsstring>
+        <name>get_Stroke</name>
+        <qualifiedname>Aspose::Words::Drawing::Charts::ChartFormat::get_Stroke</qualifiedname>
+        <briefdescription>
+<para>Gets line formatting for the parent chart element. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Show how to set marker formatting. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Shape&gt;<sp/>shape<sp/>=<sp/>builder-&gt;InsertChart(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a1a4ae35eb8880ff95c16437f9d3f3b36a09870720ca8134284e4e305ac6ce5f19" kindref="member" tooltip="Scatter chart.">ChartType::Scatter</ref>,<sp/>432,<sp/>252);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Chart&gt;<sp/>chart<sp/>=<sp/>shape-&gt;get_Chart();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Delete<sp/>default<sp/>generated<sp/>series.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">chart-&gt;get_Series()-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ChartSeries&gt;<sp/>series<sp/>=</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>chart-&gt;get_Series()-&gt;Add(u</highlight><highlight class="stringliteral">&quot;AW<sp/>Series<sp/>1&quot;</highlight><highlight class="normal">,<sp/>MakeArray&lt;double&gt;({0.7,<sp/>1.8,<sp/>2.6,<sp/>3.9}),<sp/>MakeArray&lt;double&gt;({2.7,<sp/>3.2,<sp/>0.8,<sp/>1.7}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>marker<sp/>formatting.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">series-&gt;get_Marker()-&gt;set_Size(40);</highlight></codeline>
+<codeline><highlight class="normal">series-&gt;get_Marker()-&gt;set_Symbol(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1_1_charts_1a00dc99c10541d924bd92abb1fa4027a1aceb46ca115d05c51aa5a16a8867c3304" kindref="member" tooltip="Specifies a square shall be drawn at each data point.">MarkerSymbol::Square</ref>);</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ChartDataPointCollection&gt;<sp/>dataPoints<sp/>=<sp/>series-&gt;get_DataPoints();</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(0)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Fill()-&gt;PresetTextured(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca26d2add8253cba145696aedb988451f5" kindref="member" tooltip="Denim texture.">PresetTexture::Denim</ref>);</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(0)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(0)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_BackColor(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(1)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Fill()-&gt;PresetTextured(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca19e498f00e7f35f51d8e9b6144788b1f" kindref="member" tooltip="Water droplets texture.">PresetTexture::WaterDroplets</ref>);</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(1)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(1)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_Visible(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(2)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Fill()-&gt;PresetTextured(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fca3dba67e90d8fa1db33b9de781ff30286" kindref="member" tooltip="Green marble texture.">PresetTexture::GreenMarble</ref>);</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(2)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(3)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Fill()-&gt;PresetTextured(<ref refid="namespace_aspose_1_1_words_1_1_drawing_1a1f2b0ebeb8bbf0139dfe4b63053195fcaf2b6dcdc344bf345a187b3c6c19af47e" kindref="member" tooltip="Oak texture.">PresetTexture::Oak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(3)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_ForeColor(<ref refid="class/system.drawing.color/_1ab0895ee04ac7572b810a3c0f97544c55" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Yellow</ref>());</highlight></codeline>
+<codeline><highlight class="normal">dataPoints-&gt;idx_get(3)-&gt;get_Marker()-&gt;get_Format()-&gt;get_Stroke()-&gt;set_Transparency(0.5);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Charts.MarkerFormatting.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="165" column="26"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents the formatting of a chart element. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Drawing::Charts::ChartFormat</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Drawing::Core::IFillable</label>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::Drawing::Core::IStrokable</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Drawing::Charts::ChartFormat</label>
+        <link refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::Drawing::Core::IFillable</label>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::Drawing::Core::IStrokable</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" line="82" column="1" bodyfile="Aspose.Words.Cpp/Drawing/Charts/ChartFormat.h" bodystart="83" bodyend="250"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a5d73f654ee0cae4884ce9dbe68250745" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1adae12c4cf5d903b1327f886222b01ca5" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1aa95eaf3e987dd8126d1709622deb6c38" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_DashStyle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1afa51eddbdff9b50edf260aaaad12197e" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_EndArrowLength</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ae780aeb5974e3cdcefedbbcf6f631c4a" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_EndArrowType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a9df78433f55a29d0cc5c08126949086f" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_EndArrowWidth</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1af7d4cf584113a52e88c0907494c221f5" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_EndCap</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a83cd9a1d62ddf04bd12c25e632555731" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_Fill</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1abc3331d834424864928320ee2328825a" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_FillableBackColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a7f3c89a5eabc6e41730e970bf119f5da" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_FillableForeColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a07596c8f9e424c7d33e38d56edaabf45" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_FillableImageBytes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a764bd97ee4147fc8565f487dd9eb5352" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_FillableThemeProvider</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1aba0ab3327125a13439e752d8354b61a8" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_FillableTransparency</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ad09fc72e91d5a4d9787f997afd24dd57" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_FillableVisible</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a600ca651c17a6eb21eb78bbadd15efcf" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_FilledColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a10680a3192447fda90502b46ae74030a" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_FillType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a6be0a79fbce9572dce6d5e5fa3ab24b8" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_GradientAngle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a32b783082dd6e87c2829f296c3ad0ce1" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_GradientStops</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a22c16b928edbd584d22b11d55517fd2a" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_GradientStyle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a4dc0ae26fa4a3f10155d95f267234648" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_GradientVariant</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a7a3d6569c4508a24e7433d904f297983" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_JoinStyle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a1619350d6149b20d987faee247948103" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_LineFillType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a3154e42e903e09bc444df48fdf2f98d4" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_LineStyle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1aec28f38109f4a27b2cf00ddd9199194f" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_On</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ac1f260747ce90b2425c4761b51504539" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_Opacity</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a707afcf7077209d09c8b9f74f266751f" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_RotateWithObject</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1abcc3ca5b0d132e39ac7dd10e0d1f387b" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_StartArrowLength</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1aedccd14fdb4e8291238dedb5cb183b4e" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_StartArrowType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ac3533593aa99b4ce76bcba4941589cac" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_StartArrowWidth</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a49af89b73daab589386a2c5d7d7ffa61" prot="public" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_Stroke</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ab8bec4f5be53f7afb6e7275df6ffc44e" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_StrokeBackColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a1d2a5961c794224a84b79d6f6112c3cd" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_StrokeForeColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1aa88fb08693a9c4c0726a67979df29e40" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_StrokeImageBytes</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a2a4df36a4a6c210ad0ad08f1dbec383f" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_StrokeThemeProvider</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1abb46881734ac9a3ac3ed6a63a2d644a6" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_StrokeTransparency</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a145ddfe08f1a9cc4a866563ebe541b1b" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_StrokeVisible</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a33383c0b77af6a127529707b5a11576b" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_TextureAlignment</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a7831d50a073996e4d3446ce8696c0619" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>get_Weight</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a878990ff38c8425ab68f2550513b865f" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>GetPatternType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ad278254728d0cbf974336d824d8c1791" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>GetPresetTexture</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a1df29e17525f02ac0339ef62c7b3e07f" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>GetTransparency</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ad28778b8e14644d0d84f020b2a2b0b04" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ac6722ff87a4551861ab8a7b865f607d5" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a6c22f135dcd52e642ee5580a00fd3b8c" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a1f99e2480aabe0c6dde432e7c79a51c2" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>OneColorGradient</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a4b3573e334b5b1a794b80de767a509c5" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>Patterned</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1aa619ae01899d8795c974eab692d4d43d" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>PresetTextured</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ae99994797a81927e7c2cd82d4c38e583" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a3679e34eea883b7383ab7743d672c4c5" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>set_DashStyle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a01d28b03a72cbff4deed1612e31c0327" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>set_EndArrowLength</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a7bb819ee96a33527ebf00cd83d06a7b1" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>set_EndArrowType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ad40c56c9c7a469918060d491c78fbc57" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>set_EndArrowWidth</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a16f69b6b8bc68e3c013abd75fa494466" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>set_EndCap</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a9f8f31235dcb1a4d306c4f37ad397f46" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>set_FillableBackColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a0bc7b4c86f78b1951a65c2f915ea6a15" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>set_FillableForeColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ae3acc397eac2b337a7e562e0c14b652d" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>set_FillableTransparency</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a778be3d0b149eb425c27fa7ea0d9358c" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>set_FillableVisible</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a8bfb938f5adc5dc3424d67d2fb33c9e2" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>set_FilledColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1af06c325b78f02fe55fee7cb7484f0578" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>set_GradientAngle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a32d875ccbc8ba4818b100657390a6c17" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>set_JoinStyle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a5732cedc710e5c9a6cb1f0a5cbb0b9a8" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>set_LineFillType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1af9827f25b230c432e46aae674aba4227" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>set_LineStyle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1aad506e321d519724921441b499580436" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>set_On</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1afebf4fc654f9fa706da22155506a1fab" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>set_Opacity</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a8c158f924e23bad7d25f91dd57e24623" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>set_RotateWithObject</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a52e1670417e59c1dbdb93d6dc3409b43" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>set_StartArrowLength</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a8c8e0633cc8dcd031ea020a4676d799f" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>set_StartArrowType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ae64a67f6697ca9a7ca24e9b776ec55ad" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>set_StartArrowWidth</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a212636fb66e2c4501c46841f962cf918" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>set_StrokeBackColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a7ba223dfe9c48044c410089aab8bb6d4" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>set_StrokeForeColor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ab43a83ecfeb6213f5539109615f940de" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>set_StrokeTransparency</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1aba7048ea50d40b1d71b1b91042a40c4e" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>set_StrokeVisible</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ada9f99093a50f43aad8d89b032329f2d" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>set_TextureAlignment</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a4ffb6c38f8f090a043e8515ade8dddc2" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>set_Weight</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ad2e36035c1d83483225838ea1594e812" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>SetFill</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a228189839bee6b185a95d346f3127cff" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>SetImage</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1ab2db9f6efbd6d3f16f35d8a3ba187254" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>SetTransparency</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a01b119e6d274cc75dd79413d51e835f9" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>Solid</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a4fc4e84d83eec3046c3e00dcf426a41d" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1aa59b5560d6a987d68ef7f7031563afcc" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a554c4fcf295e2c0038551f1599534bab" prot="private" virt="non-virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>TwoColorGradient</name></member>
+      <member refid="class_aspose_1_1_words_1_1_drawing_1_1_charts_1_1_chart_format_1a10d394139608ac103255b166f75acc62" prot="private" virt="virtual"><scope>Aspose::Words::Drawing::Charts::ChartFormat</scope><name>~ChartFormat</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

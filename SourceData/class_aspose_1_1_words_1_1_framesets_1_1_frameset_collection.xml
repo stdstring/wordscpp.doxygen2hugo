@@ -1,0 +1,439 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Framesets::FramesetCollection</compoundname>
+    <basecompoundref refid="class/system.collections.generic.i_enumerable/" prot="public" virt="non-virtual">System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Framesets::Frameset &gt; &gt;</basecompoundref>
+    <includes refid="_frameset_collection_8h" local="no">Aspose.Words.Cpp/Framesets/FramesetCollection.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a9533c627e8477eff0b803a61715f2550" prot="private" static="no">
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset" kindref="compound">Aspose::Words::Framesets::Frameset</ref> &gt; &gt;</type>
+        <definition>typedef System::Collections::Generic::IEnumerable&lt;System::SharedPtr&lt;Aspose::Words::Framesets::Frameset&gt; &gt; Aspose::Words::Framesets::FramesetCollection::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Framesets::FramesetCollection::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h" line="50" column="55" bodyfile="Aspose.Words.Cpp/Framesets/FramesetCollection.h" bodystart="50" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1ac6d155367b37b85e8fabe498160d1bfc" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection" kindref="compound">FramesetCollection</ref></type>
+        <definition>typedef FramesetCollection Aspose::Words::Framesets::FramesetCollection::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Framesets::FramesetCollection::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h" line="49" column="32" bodyfile="Aspose.Words.Cpp/Framesets/FramesetCollection.h" bodystart="49" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1ae5609e97c4931c8a4b10ed34b2c27469" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Framesets::FramesetCollection::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Framesets::FramesetCollection::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h" line="52" column="37" bodyfile="Aspose.Words.Cpp/Framesets/FramesetCollection.h" bodystart="52" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a4c2fc5b5d6f60cd716785468458916c0" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.list/_1a0f284b9cbb583432336a9ce4f0b9c84a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
+        <definition>using Aspose::Words::Framesets::FramesetCollection::const_iterator =  typename iterator_holder_type::const_iterator</definition>
+        <argsstring></argsstring>
+        <name>const_iterator</name>
+        <qualifiedname>Aspose::Words::Framesets::FramesetCollection::const_iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h" line="61" column="5" bodyfile="Aspose.Words.Cpp/Framesets/FramesetCollection.h" bodystart="61" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1adcfab5981ade0043a65f489338f78570" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.list/_1ab0ac6ed1e49acd56e069fe8614c87f3d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
+        <definition>using Aspose::Words::Framesets::FramesetCollection::iterator =  typename iterator_holder_type::iterator</definition>
+        <argsstring></argsstring>
+        <name>iterator</name>
+        <qualifiedname>Aspose::Words::Framesets::FramesetCollection::iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h" line="59" column="5" bodyfile="Aspose.Words.Cpp/Framesets/FramesetCollection.h" bodystart="59" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1ac1e7a2df3837608f358f7aacc47c19d9" prot="public" static="no">
+        <type><ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset" kindref="compound">Aspose::Words::Framesets::Frameset</ref> &gt; &gt;</type>
+        <definition>using Aspose::Words::Framesets::FramesetCollection::iterator_holder_type =  System::Collections::Generic::List&lt;System::SharedPtr&lt;Aspose::Words::Framesets::Frameset&gt; &gt;</definition>
+        <argsstring></argsstring>
+        <name>iterator_holder_type</name>
+        <qualifiedname>Aspose::Words::Framesets::FramesetCollection::iterator_holder_type</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h" line="57" column="5" bodyfile="Aspose.Words.Cpp/Framesets/FramesetCollection.h" bodystart="57" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a90b97901c00ec932fbc933dbb20eed17" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
+        <definition>using Aspose::Words::Framesets::FramesetCollection::virtualized_iterator =  typename iterator_holder_type::virtualized_iterator</definition>
+        <argsstring></argsstring>
+        <name>virtualized_iterator</name>
+        <qualifiedname>Aspose::Words::Framesets::FramesetCollection::virtualized_iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h" line="65" column="5" bodyfile="Aspose.Words.Cpp/Framesets/FramesetCollection.h" bodystart="65" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a96ce5704bf0f0a6494a336d392ce38a0" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
+        <definition>using Aspose::Words::Framesets::FramesetCollection::virtualized_iterator_element =  typename iterator_holder_type::virtualized_iterator_element</definition>
+        <argsstring></argsstring>
+        <name>virtualized_iterator_element</name>
+        <qualifiedname>Aspose::Words::Framesets::FramesetCollection::virtualized_iterator_element</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h" line="63" column="5" bodyfile="Aspose.Words.Cpp/Framesets/FramesetCollection.h" bodystart="63" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a9af8e80dbfb3b4ae9e3a7781ca7d379d" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Framesets::FramesetCollection::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Framesets::FramesetCollection::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h" line="105" column="23" bodyfile="Aspose.Words.Cpp/Framesets/FramesetCollection.h" bodystart="105" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1aec4f0aa1b55b710c899154fe46f6d75f" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Framesets::FramesetCollection::~FramesetCollection</definition>
+        <argsstring>()</argsstring>
+        <name>~FramesetCollection</name>
+        <qualifiedname>Aspose::Words::Framesets::FramesetCollection::~FramesetCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h" line="101" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1aaf1ac8aee336e16f1b7c7a8211805feb" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Framesets::FramesetCollection::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Framesets::FramesetCollection::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h" line="53" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a1796ed2c4c530093b45ad23ec61aaa2e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Framesets::FramesetCollection::FramesetCollection</definition>
+        <argsstring>()</argsstring>
+        <name>FramesetCollection</name>
+        <qualifiedname>Aspose::Words::Framesets::FramesetCollection::FramesetCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h" line="77" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a1446f97b733352cc64a71231ebbc96ba" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a4c2fc5b5d6f60cd716785468458916c0" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::Framesets::FramesetCollection::begin</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>begin</name>
+        <qualifiedname>Aspose::Words::Framesets::FramesetCollection::begin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h" line="83" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1acafcd77e52381a2d56e244560bc58dfd" prot="public" static="no" const="no" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1adcfab5981ade0043a65f489338f78570" kindref="member">iterator</ref></type>
+        <definition>iterator Aspose::Words::Framesets::FramesetCollection::begin</definition>
+        <argsstring>() noexcept</argsstring>
+        <name>begin</name>
+        <qualifiedname>Aspose::Words::Framesets::FramesetCollection::begin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h" line="79" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a6e73a06f4c7ed7e4a4a8c54caa7ea8fd" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a4c2fc5b5d6f60cd716785468458916c0" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::Framesets::FramesetCollection::cbegin</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>cbegin</name>
+        <qualifiedname>Aspose::Words::Framesets::FramesetCollection::cbegin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h" line="87" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1adedf39fef6dfdf8ab0c43baa03301a1e" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a4c2fc5b5d6f60cd716785468458916c0" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::Framesets::FramesetCollection::cend</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>cend</name>
+        <qualifiedname>Aspose::Words::Framesets::FramesetCollection::cend</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h" line="89" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a657f1aa97b4be2b30fc3f826a3018f7d" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a4c2fc5b5d6f60cd716785468458916c0" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::Framesets::FramesetCollection::end</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>end</name>
+        <qualifiedname>Aspose::Words::Framesets::FramesetCollection::end</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h" line="85" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a5e3eb8db7d587f046e736aa10cd0a7df" prot="public" static="no" const="no" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1adcfab5981ade0043a65f489338f78570" kindref="member">iterator</ref></type>
+        <definition>iterator Aspose::Words::Framesets::FramesetCollection::end</definition>
+        <argsstring>() noexcept</argsstring>
+        <name>end</name>
+        <qualifiedname>Aspose::Words::Framesets::FramesetCollection::end</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h" line="81" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1ac1fb13abfe1865f35da45ee9369c953a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Framesets::FramesetCollection::get_Count</definition>
+        <argsstring>()</argsstring>
+        <name>get_Count</name>
+        <qualifiedname>Aspose::Words::Framesets::FramesetCollection::get_Count</qualifiedname>
+        <briefdescription>
+<para>Gets the number of frames or frames pages contained in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h" line="70" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a172b38941b06e5c7a5e01eceddea19b0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset" kindref="compound">Aspose::Words::Framesets::Frameset</ref> &gt; &gt; &gt;</type>
+        <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::SharedPtr&lt; Aspose::Words::Framesets::Frameset &gt; &gt; &gt; Aspose::Words::Framesets::FramesetCollection::GetEnumerator</definition>
+        <argsstring>() override</argsstring>
+        <name>GetEnumerator</name>
+        <qualifiedname>Aspose::Words::Framesets::FramesetCollection::GetEnumerator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h" line="75" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1abc9950b6a74d1cfb048243fb54a4cf46" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset" kindref="compound">Aspose::Words::Framesets::Frameset</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Framesets::Frameset &gt; Aspose::Words::Framesets::FramesetCollection::idx_get</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>idx_get</name>
+        <qualifiedname>Aspose::Words::Framesets::FramesetCollection::idx_get</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Gets a frame or frames page at the specified index. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h" line="73" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a5425b0e201b51af9254fcfeb91b0f3a8" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a90b97901c00ec932fbc933dbb20eed17" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::Framesets::FramesetCollection::virtualizeBeginConstIterator</definition>
+        <argsstring>() const override</argsstring>
+        <name>virtualizeBeginConstIterator</name>
+        <qualifiedname>Aspose::Words::Framesets::FramesetCollection::virtualizeBeginConstIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h" line="95" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1ae2a15ae6bcd062cc311262b5a427f9e3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a90b97901c00ec932fbc933dbb20eed17" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::Framesets::FramesetCollection::virtualizeBeginIterator</definition>
+        <argsstring>() override</argsstring>
+        <name>virtualizeBeginIterator</name>
+        <qualifiedname>Aspose::Words::Framesets::FramesetCollection::virtualizeBeginIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h" line="91" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1ae228d03107fbd06b3f01854c8ab911e4" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a90b97901c00ec932fbc933dbb20eed17" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::Framesets::FramesetCollection::virtualizeEndConstIterator</definition>
+        <argsstring>() const override</argsstring>
+        <name>virtualizeEndConstIterator</name>
+        <qualifiedname>Aspose::Words::Framesets::FramesetCollection::virtualizeEndConstIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h" line="97" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a01e9e04549495d8b754e636a407583cf" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a90b97901c00ec932fbc933dbb20eed17" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::Framesets::FramesetCollection::virtualizeEndIterator</definition>
+        <argsstring>() override</argsstring>
+        <name>virtualizeEndIterator</name>
+        <qualifiedname>Aspose::Words::Framesets::FramesetCollection::virtualizeEndIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h" line="93" column="29"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents a collection of instances of the <ref refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset" kindref="compound">Frameset</ref> class. </para>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Framesets::FramesetCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Framesets::Frameset &gt; &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Framesets::FramesetCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Framesets::Frameset &gt; &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Framesets/FramesetCollection.h" line="47" column="1" bodyfile="Aspose.Words.Cpp/Framesets/FramesetCollection.h" bodystart="48" bodyend="107"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a9533c627e8477eff0b803a61715f2550" prot="private" virt="non-virtual"><scope>Aspose::Words::Framesets::FramesetCollection</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1acafcd77e52381a2d56e244560bc58dfd" prot="public" virt="non-virtual"><scope>Aspose::Words::Framesets::FramesetCollection</scope><name>begin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a1446f97b733352cc64a71231ebbc96ba" prot="public" virt="non-virtual"><scope>Aspose::Words::Framesets::FramesetCollection</scope><name>begin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a6e73a06f4c7ed7e4a4a8c54caa7ea8fd" prot="public" virt="non-virtual"><scope>Aspose::Words::Framesets::FramesetCollection</scope><name>cbegin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1adedf39fef6dfdf8ab0c43baa03301a1e" prot="public" virt="non-virtual"><scope>Aspose::Words::Framesets::FramesetCollection</scope><name>cend</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a4c2fc5b5d6f60cd716785468458916c0" prot="public" virt="non-virtual"><scope>Aspose::Words::Framesets::FramesetCollection</scope><name>const_iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a5e3eb8db7d587f046e736aa10cd0a7df" prot="public" virt="non-virtual"><scope>Aspose::Words::Framesets::FramesetCollection</scope><name>end</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a657f1aa97b4be2b30fc3f826a3018f7d" prot="public" virt="non-virtual"><scope>Aspose::Words::Framesets::FramesetCollection</scope><name>end</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a1796ed2c4c530093b45ad23ec61aaa2e" prot="public" virt="non-virtual"><scope>Aspose::Words::Framesets::FramesetCollection</scope><name>FramesetCollection</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1ac1fb13abfe1865f35da45ee9369c953a" prot="public" virt="non-virtual"><scope>Aspose::Words::Framesets::FramesetCollection</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a172b38941b06e5c7a5e01eceddea19b0" prot="public" virt="non-virtual"><scope>Aspose::Words::Framesets::FramesetCollection</scope><name>GetEnumerator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1abc9950b6a74d1cfb048243fb54a4cf46" prot="public" virt="non-virtual"><scope>Aspose::Words::Framesets::FramesetCollection</scope><name>idx_get</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1adcfab5981ade0043a65f489338f78570" prot="public" virt="non-virtual"><scope>Aspose::Words::Framesets::FramesetCollection</scope><name>iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1ac1e7a2df3837608f358f7aacc47c19d9" prot="public" virt="non-virtual"><scope>Aspose::Words::Framesets::FramesetCollection</scope><name>iterator_holder_type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a9af8e80dbfb3b4ae9e3a7781ca7d379d" prot="private" virt="non-virtual"><scope>Aspose::Words::Framesets::FramesetCollection</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1aaf1ac8aee336e16f1b7c7a8211805feb" prot="private" virt="non-virtual"><scope>Aspose::Words::Framesets::FramesetCollection</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1ac6d155367b37b85e8fabe498160d1bfc" prot="private" virt="non-virtual"><scope>Aspose::Words::Framesets::FramesetCollection</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1ae5609e97c4931c8a4b10ed34b2c27469" prot="private" virt="non-virtual"><scope>Aspose::Words::Framesets::FramesetCollection</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a5425b0e201b51af9254fcfeb91b0f3a8" prot="public" virt="non-virtual"><scope>Aspose::Words::Framesets::FramesetCollection</scope><name>virtualizeBeginConstIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1ae2a15ae6bcd062cc311262b5a427f9e3" prot="public" virt="non-virtual"><scope>Aspose::Words::Framesets::FramesetCollection</scope><name>virtualizeBeginIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a90b97901c00ec932fbc933dbb20eed17" prot="public" virt="non-virtual"><scope>Aspose::Words::Framesets::FramesetCollection</scope><name>virtualized_iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a96ce5704bf0f0a6494a336d392ce38a0" prot="public" virt="non-virtual"><scope>Aspose::Words::Framesets::FramesetCollection</scope><name>virtualized_iterator_element</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1ae228d03107fbd06b3f01854c8ab911e4" prot="public" virt="non-virtual"><scope>Aspose::Words::Framesets::FramesetCollection</scope><name>virtualizeEndConstIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1a01e9e04549495d8b754e636a407583cf" prot="public" virt="non-virtual"><scope>Aspose::Words::Framesets::FramesetCollection</scope><name>virtualizeEndIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_framesets_1_1_frameset_collection_1aec4f0aa1b55b710c899154fe46f6d75f" prot="private" virt="virtual"><scope>Aspose::Words::Framesets::FramesetCollection</scope><name>~FramesetCollection</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_frame_format" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::FrameFormat</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_frame_format_8h" local="no">Aspose.Words.Cpp/FrameFormat.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_frame_format_1a5ba15379319c984abc6e2165dccd92ab" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::FrameFormat::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::FrameFormat::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/FrameFormat.h" line="55" column="28" bodyfile="Aspose.Words.Cpp/FrameFormat.h" bodystart="55" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_frame_format_1a32e56db90acc801259864d17b5c7c034" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_frame_format" kindref="compound">FrameFormat</ref></type>
+        <definition>typedef FrameFormat Aspose::Words::FrameFormat::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::FrameFormat::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/FrameFormat.h" line="54" column="25" bodyfile="Aspose.Words.Cpp/FrameFormat.h" bodystart="54" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_frame_format_1a6a1635ec3d561f6e4a7f7882e9994fd5" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::FrameFormat::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::FrameFormat::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/FrameFormat.h" line="57" column="37" bodyfile="Aspose.Words.Cpp/FrameFormat.h" bodystart="57" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_frame_format_1af2803e9b9a52e698f52aa9c61d856475" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::FrameFormat::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::FrameFormat::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/FrameFormat.h" line="366" column="21" bodyfile="Aspose.Words.Cpp/FrameFormat.h" bodystart="366" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_frame_format_1a09d417c80a580d16c5264da16d37da57" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::FrameFormat::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::FrameFormat::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/FrameFormat.h" line="58" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_frame_format_1a5307909605d36f941bf71d20a35e8edb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::FrameFormat::get_Height</definition>
+        <argsstring>()</argsstring>
+        <name>get_Height</name>
+        <qualifiedname>Aspose::Words::FrameFormat::get_Height</qualifiedname>
+        <briefdescription>
+<para>Gets the height of the specified frame. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to get information about formatting properties of paragraphs that are frames. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>frame.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Paragraph&gt;<sp/>paragraphFrame<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;LINQ_OfType&lt;SharedPtr&lt;Paragraph&gt;&gt;()-&gt;LINQ_First(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Paragraph&gt;<sp/>p)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>p-&gt;get_FrameFormat()-&gt;get_IsFrame();<sp/>});</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(233.3,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(138.8,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccbabad91df0cfc5662f3af47244d02d4802" kindref="member" tooltip="The height will be at least the specified height in points. It will grow, if needed,...">HeightRule::AtLeast</ref>,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HeightRule());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(HorizontalAlignment::Default,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(VerticalAlignment::Default,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(34.05,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(RelativeHorizontalPosition::Page,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_RelativeHorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(9.0,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalDistanceFromText());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(20.5,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(RelativeVerticalPosition::Paragraph,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_RelativeVerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(0.0,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalDistanceFromText());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/FrameFormat.h" line="110" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_frame_format_1a126c9a5c2bac6745f5eadb115d0832f8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccb" kindref="member">Aspose::Words::HeightRule</ref></type>
+        <definition>Aspose::Words::HeightRule Aspose::Words::FrameFormat::get_HeightRule</definition>
+        <argsstring>()</argsstring>
+        <name>get_HeightRule</name>
+        <qualifiedname>Aspose::Words::FrameFormat::get_HeightRule</qualifiedname>
+        <briefdescription>
+<para>Gets the rule for determining the height of the specified frame. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to get information about formatting properties of paragraphs that are frames. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>frame.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Paragraph&gt;<sp/>paragraphFrame<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;LINQ_OfType&lt;SharedPtr&lt;Paragraph&gt;&gt;()-&gt;LINQ_First(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Paragraph&gt;<sp/>p)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>p-&gt;get_FrameFormat()-&gt;get_IsFrame();<sp/>});</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(233.3,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(138.8,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccbabad91df0cfc5662f3af47244d02d4802" kindref="member" tooltip="The height will be at least the specified height in points. It will grow, if needed,...">HeightRule::AtLeast</ref>,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HeightRule());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(HorizontalAlignment::Default,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(VerticalAlignment::Default,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(34.05,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(RelativeHorizontalPosition::Page,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_RelativeHorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(9.0,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalDistanceFromText());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(20.5,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(RelativeVerticalPosition::Paragraph,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_RelativeVerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(0.0,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalDistanceFromText());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/FrameFormat.h" line="85" column="34"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_frame_format_1aca0bb277c9188b56a10a95dd33438833" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a9405d962a637184a61edd198df2aa5e4" kindref="member">Aspose::Words::Drawing::HorizontalAlignment</ref></type>
+        <definition>Aspose::Words::Drawing::HorizontalAlignment Aspose::Words::FrameFormat::get_HorizontalAlignment</definition>
+        <argsstring>()</argsstring>
+        <name>get_HorizontalAlignment</name>
+        <qualifiedname>Aspose::Words::FrameFormat::get_HorizontalAlignment</qualifiedname>
+        <briefdescription>
+<para>Gets horizontal alignment of the specified frame. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to get information about formatting properties of paragraphs that are frames. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>frame.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Paragraph&gt;<sp/>paragraphFrame<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;LINQ_OfType&lt;SharedPtr&lt;Paragraph&gt;&gt;()-&gt;LINQ_First(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Paragraph&gt;<sp/>p)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>p-&gt;get_FrameFormat()-&gt;get_IsFrame();<sp/>});</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(233.3,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(138.8,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccbabad91df0cfc5662f3af47244d02d4802" kindref="member" tooltip="The height will be at least the specified height in points. It will grow, if needed,...">HeightRule::AtLeast</ref>,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HeightRule());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(HorizontalAlignment::Default,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(VerticalAlignment::Default,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(34.05,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(RelativeHorizontalPosition::Page,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_RelativeHorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(9.0,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalDistanceFromText());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(20.5,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(RelativeVerticalPosition::Paragraph,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_RelativeVerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(0.0,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalDistanceFromText());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/FrameFormat.h" line="335" column="52"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_frame_format_1afcdbefab87024e8b55662fbb1dd3110b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::FrameFormat::get_HorizontalDistanceFromText</definition>
+        <argsstring>()</argsstring>
+        <name>get_HorizontalDistanceFromText</name>
+        <qualifiedname>Aspose::Words::FrameFormat::get_HorizontalDistanceFromText</qualifiedname>
+        <briefdescription>
+<para>Gets horizontal distance between a frame and the surrounding text, in points. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to get information about formatting properties of paragraphs that are frames. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>frame.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Paragraph&gt;<sp/>paragraphFrame<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;LINQ_OfType&lt;SharedPtr&lt;Paragraph&gt;&gt;()-&gt;LINQ_First(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Paragraph&gt;<sp/>p)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>p-&gt;get_FrameFormat()-&gt;get_IsFrame();<sp/>});</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(233.3,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(138.8,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccbabad91df0cfc5662f3af47244d02d4802" kindref="member" tooltip="The height will be at least the specified height in points. It will grow, if needed,...">HeightRule::AtLeast</ref>,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HeightRule());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(HorizontalAlignment::Default,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(VerticalAlignment::Default,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(34.05,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(RelativeHorizontalPosition::Page,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_RelativeHorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(9.0,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalDistanceFromText());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(20.5,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(RelativeVerticalPosition::Paragraph,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_RelativeVerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(0.0,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalDistanceFromText());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/FrameFormat.h" line="135" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_frame_format_1a964d477b59f196cbd834f8695cb21e8f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::FrameFormat::get_HorizontalPosition</definition>
+        <argsstring>()</argsstring>
+        <name>get_HorizontalPosition</name>
+        <qualifiedname>Aspose::Words::FrameFormat::get_HorizontalPosition</qualifiedname>
+        <briefdescription>
+<para>Gets horizontal distance between the edge of the frame and the item specified by the <ref refid="class_aspose_1_1_words_1_1_frame_format_1aac2e930a697eb28a2662c46e2c2f8163" kindref="member">RelativeHorizontalPosition</ref> property. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to get information about formatting properties of paragraphs that are frames. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>frame.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Paragraph&gt;<sp/>paragraphFrame<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;LINQ_OfType&lt;SharedPtr&lt;Paragraph&gt;&gt;()-&gt;LINQ_First(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Paragraph&gt;<sp/>p)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>p-&gt;get_FrameFormat()-&gt;get_IsFrame();<sp/>});</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(233.3,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(138.8,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccbabad91df0cfc5662f3af47244d02d4802" kindref="member" tooltip="The height will be at least the specified height in points. It will grow, if needed,...">HeightRule::AtLeast</ref>,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HeightRule());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(HorizontalAlignment::Default,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(VerticalAlignment::Default,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(34.05,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(RelativeHorizontalPosition::Page,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_RelativeHorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(9.0,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalDistanceFromText());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(20.5,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(RelativeVerticalPosition::Paragraph,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_RelativeVerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(0.0,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalDistanceFromText());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/FrameFormat.h" line="160" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_frame_format_1ade03760802eb0cbc9d988e3929d0782b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::FrameFormat::get_IsFrame</definition>
+        <argsstring>()</argsstring>
+        <name>get_IsFrame</name>
+        <qualifiedname>Aspose::Words::FrameFormat::get_IsFrame</qualifiedname>
+        <briefdescription>
+<para>Returns true if the paragraph is a frame. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to get information about formatting properties of paragraphs that are frames. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>frame.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Paragraph&gt;<sp/>paragraphFrame<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;LINQ_OfType&lt;SharedPtr&lt;Paragraph&gt;&gt;()-&gt;LINQ_First(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Paragraph&gt;<sp/>p)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>p-&gt;get_FrameFormat()-&gt;get_IsFrame();<sp/>});</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(233.3,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(138.8,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccbabad91df0cfc5662f3af47244d02d4802" kindref="member" tooltip="The height will be at least the specified height in points. It will grow, if needed,...">HeightRule::AtLeast</ref>,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HeightRule());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(HorizontalAlignment::Default,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(VerticalAlignment::Default,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(34.05,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(RelativeHorizontalPosition::Page,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_RelativeHorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(9.0,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalDistanceFromText());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(20.5,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(RelativeVerticalPosition::Paragraph,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_RelativeVerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(0.0,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalDistanceFromText());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/FrameFormat.h" line="360" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_frame_format_1aac2e930a697eb28a2662c46e2c2f8163" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8e90f9cda614a150f92b5fdac6e8bb93" kindref="member">Aspose::Words::Drawing::RelativeHorizontalPosition</ref></type>
+        <definition>Aspose::Words::Drawing::RelativeHorizontalPosition Aspose::Words::FrameFormat::get_RelativeHorizontalPosition</definition>
+        <argsstring>()</argsstring>
+        <name>get_RelativeHorizontalPosition</name>
+        <qualifiedname>Aspose::Words::FrameFormat::get_RelativeHorizontalPosition</qualifiedname>
+        <briefdescription>
+<para>Gets the relative horizontal position of a frame. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to get information about formatting properties of paragraphs that are frames. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>frame.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Paragraph&gt;<sp/>paragraphFrame<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;LINQ_OfType&lt;SharedPtr&lt;Paragraph&gt;&gt;()-&gt;LINQ_First(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Paragraph&gt;<sp/>p)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>p-&gt;get_FrameFormat()-&gt;get_IsFrame();<sp/>});</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(233.3,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(138.8,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccbabad91df0cfc5662f3af47244d02d4802" kindref="member" tooltip="The height will be at least the specified height in points. It will grow, if needed,...">HeightRule::AtLeast</ref>,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HeightRule());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(HorizontalAlignment::Default,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(VerticalAlignment::Default,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(34.05,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(RelativeHorizontalPosition::Page,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_RelativeHorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(9.0,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalDistanceFromText());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(20.5,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(RelativeVerticalPosition::Paragraph,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_RelativeVerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(0.0,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalDistanceFromText());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/FrameFormat.h" line="185" column="59"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_frame_format_1ac5dee410d844122a35b3c7addadc3fd9" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a8ced2882da57fa8603a594e7e959b41d" kindref="member">Aspose::Words::Drawing::RelativeVerticalPosition</ref></type>
+        <definition>Aspose::Words::Drawing::RelativeVerticalPosition Aspose::Words::FrameFormat::get_RelativeVerticalPosition</definition>
+        <argsstring>()</argsstring>
+        <name>get_RelativeVerticalPosition</name>
+        <qualifiedname>Aspose::Words::FrameFormat::get_RelativeVerticalPosition</qualifiedname>
+        <briefdescription>
+<para>Gets the relative vertical position of a frame. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to get information about formatting properties of paragraphs that are frames. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>frame.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Paragraph&gt;<sp/>paragraphFrame<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;LINQ_OfType&lt;SharedPtr&lt;Paragraph&gt;&gt;()-&gt;LINQ_First(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Paragraph&gt;<sp/>p)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>p-&gt;get_FrameFormat()-&gt;get_IsFrame();<sp/>});</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(233.3,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(138.8,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccbabad91df0cfc5662f3af47244d02d4802" kindref="member" tooltip="The height will be at least the specified height in points. It will grow, if needed,...">HeightRule::AtLeast</ref>,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HeightRule());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(HorizontalAlignment::Default,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(VerticalAlignment::Default,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(34.05,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(RelativeHorizontalPosition::Page,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_RelativeHorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(9.0,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalDistanceFromText());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(20.5,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(RelativeVerticalPosition::Paragraph,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_RelativeVerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(0.0,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalDistanceFromText());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/FrameFormat.h" line="210" column="57"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_frame_format_1a7efc81a97f1430e4037e5c0c7d46e1e1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_drawing_1a0663b2e567a9ab7e29fbf0cec206fc60" kindref="member">Aspose::Words::Drawing::VerticalAlignment</ref></type>
+        <definition>Aspose::Words::Drawing::VerticalAlignment Aspose::Words::FrameFormat::get_VerticalAlignment</definition>
+        <argsstring>()</argsstring>
+        <name>get_VerticalAlignment</name>
+        <qualifiedname>Aspose::Words::FrameFormat::get_VerticalAlignment</qualifiedname>
+        <briefdescription>
+<para>Gets vertical alignment of the specified frame. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to get information about formatting properties of paragraphs that are frames. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>frame.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Paragraph&gt;<sp/>paragraphFrame<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;LINQ_OfType&lt;SharedPtr&lt;Paragraph&gt;&gt;()-&gt;LINQ_First(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Paragraph&gt;<sp/>p)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>p-&gt;get_FrameFormat()-&gt;get_IsFrame();<sp/>});</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(233.3,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(138.8,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccbabad91df0cfc5662f3af47244d02d4802" kindref="member" tooltip="The height will be at least the specified height in points. It will grow, if needed,...">HeightRule::AtLeast</ref>,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HeightRule());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(HorizontalAlignment::Default,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(VerticalAlignment::Default,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(34.05,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(RelativeHorizontalPosition::Page,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_RelativeHorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(9.0,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalDistanceFromText());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(20.5,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(RelativeVerticalPosition::Paragraph,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_RelativeVerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(0.0,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalDistanceFromText());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/FrameFormat.h" line="310" column="50"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_frame_format_1a5c7e24a16d76877da90d26302a11942c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::FrameFormat::get_VerticalDistanceFromText</definition>
+        <argsstring>()</argsstring>
+        <name>get_VerticalDistanceFromText</name>
+        <qualifiedname>Aspose::Words::FrameFormat::get_VerticalDistanceFromText</qualifiedname>
+        <briefdescription>
+<para>Specifies vertical distance (in points) between a frame and the surrounding text. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to get information about formatting properties of paragraphs that are frames. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>frame.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Paragraph&gt;<sp/>paragraphFrame<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;LINQ_OfType&lt;SharedPtr&lt;Paragraph&gt;&gt;()-&gt;LINQ_First(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Paragraph&gt;<sp/>p)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>p-&gt;get_FrameFormat()-&gt;get_IsFrame();<sp/>});</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(233.3,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(138.8,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccbabad91df0cfc5662f3af47244d02d4802" kindref="member" tooltip="The height will be at least the specified height in points. It will grow, if needed,...">HeightRule::AtLeast</ref>,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HeightRule());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(HorizontalAlignment::Default,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(VerticalAlignment::Default,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(34.05,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(RelativeHorizontalPosition::Page,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_RelativeHorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(9.0,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalDistanceFromText());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(20.5,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(RelativeVerticalPosition::Paragraph,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_RelativeVerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(0.0,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalDistanceFromText());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/FrameFormat.h" line="235" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_frame_format_1a4cbb2769ef842a9cbe9e9171b2765320" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::FrameFormat::get_VerticalPosition</definition>
+        <argsstring>()</argsstring>
+        <name>get_VerticalPosition</name>
+        <qualifiedname>Aspose::Words::FrameFormat::get_VerticalPosition</qualifiedname>
+        <briefdescription>
+<para>Gets vertical distance between the edge of the frame and the item specified by the <ref refid="class_aspose_1_1_words_1_1_frame_format_1ac5dee410d844122a35b3c7addadc3fd9" kindref="member">RelativeVerticalPosition</ref> property. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to get information about formatting properties of paragraphs that are frames. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>frame.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Paragraph&gt;<sp/>paragraphFrame<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;LINQ_OfType&lt;SharedPtr&lt;Paragraph&gt;&gt;()-&gt;LINQ_First(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Paragraph&gt;<sp/>p)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>p-&gt;get_FrameFormat()-&gt;get_IsFrame();<sp/>});</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(233.3,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(138.8,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccbabad91df0cfc5662f3af47244d02d4802" kindref="member" tooltip="The height will be at least the specified height in points. It will grow, if needed,...">HeightRule::AtLeast</ref>,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HeightRule());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(HorizontalAlignment::Default,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(VerticalAlignment::Default,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(34.05,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(RelativeHorizontalPosition::Page,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_RelativeHorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(9.0,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalDistanceFromText());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(20.5,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(RelativeVerticalPosition::Paragraph,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_RelativeVerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(0.0,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalDistanceFromText());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/FrameFormat.h" line="260" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_frame_format_1a4ca9d1407406f21a5037a9f651c62b0f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::FrameFormat::get_Width</definition>
+        <argsstring>()</argsstring>
+        <name>get_Width</name>
+        <qualifiedname>Aspose::Words::FrameFormat::get_Width</qualifiedname>
+        <briefdescription>
+<para>Gets the width of the specified frame, in points. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to get information about formatting properties of paragraphs that are frames. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>frame.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Paragraph&gt;<sp/>paragraphFrame<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;LINQ_OfType&lt;SharedPtr&lt;Paragraph&gt;&gt;()-&gt;LINQ_First(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Paragraph&gt;<sp/>p)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>p-&gt;get_FrameFormat()-&gt;get_IsFrame();<sp/>});</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(233.3,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(138.8,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccbabad91df0cfc5662f3af47244d02d4802" kindref="member" tooltip="The height will be at least the specified height in points. It will grow, if needed,...">HeightRule::AtLeast</ref>,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HeightRule());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(HorizontalAlignment::Default,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(VerticalAlignment::Default,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(34.05,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(RelativeHorizontalPosition::Page,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_RelativeHorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(9.0,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalDistanceFromText());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(20.5,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(RelativeVerticalPosition::Paragraph,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_RelativeVerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(0.0,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalDistanceFromText());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/FrameFormat.h" line="285" column="15"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents frame related formatting for a paragraph. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>This object is always created. If a paragraph is a frame, then all properties will contain respective values, otherwise all properties are set to their defaults.</para>
+<para>Use <ref refid="class_aspose_1_1_words_1_1_frame_format_1ade03760802eb0cbc9d988e3929d0782b" kindref="member">IsFrame</ref> to check whether paragraph is a frame.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to get information about formatting properties of paragraphs that are frames. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Paragraph<sp/>frame.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Paragraph&gt;<sp/>paragraphFrame<sp/>=<sp/>doc-&gt;get_FirstSection()-&gt;get_Body()-&gt;get_Paragraphs()-&gt;LINQ_OfType&lt;SharedPtr&lt;Paragraph&gt;&gt;()-&gt;LINQ_First(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>[](SharedPtr&lt;Paragraph&gt;<sp/>p)<sp/>{<sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>p-&gt;get_FrameFormat()-&gt;get_IsFrame();<sp/>});</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(233.3,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_Width());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(138.8,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_Height());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a5a06eed54291a03fff010f2caa3daccbabad91df0cfc5662f3af47244d02d4802" kindref="member" tooltip="The height will be at least the specified height in points. It will grow, if needed,...">HeightRule::AtLeast</ref>,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HeightRule());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(HorizontalAlignment::Default,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(VerticalAlignment::Default,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalAlignment());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(34.05,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(RelativeHorizontalPosition::Page,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_RelativeHorizontalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(9.0,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_HorizontalDistanceFromText());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(20.5,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(RelativeVerticalPosition::Paragraph,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_RelativeVerticalPosition());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(0.0,<sp/>paragraphFrame-&gt;get_FrameFormat()-&gt;get_VerticalDistanceFromText());</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::FrameFormat</label>
+        <link refid="class_aspose_1_1_words_1_1_frame_format"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::FrameFormat</label>
+        <link refid="class_aspose_1_1_words_1_1_frame_format"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/FrameFormat.h" line="52" column="1" bodyfile="Aspose.Words.Cpp/FrameFormat.h" bodystart="53" bodyend="368"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_frame_format_1a5ba15379319c984abc6e2165dccd92ab" prot="private" virt="non-virtual"><scope>Aspose::Words::FrameFormat</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_frame_format_1a5307909605d36f941bf71d20a35e8edb" prot="public" virt="non-virtual"><scope>Aspose::Words::FrameFormat</scope><name>get_Height</name></member>
+      <member refid="class_aspose_1_1_words_1_1_frame_format_1a126c9a5c2bac6745f5eadb115d0832f8" prot="public" virt="non-virtual"><scope>Aspose::Words::FrameFormat</scope><name>get_HeightRule</name></member>
+      <member refid="class_aspose_1_1_words_1_1_frame_format_1aca0bb277c9188b56a10a95dd33438833" prot="public" virt="non-virtual"><scope>Aspose::Words::FrameFormat</scope><name>get_HorizontalAlignment</name></member>
+      <member refid="class_aspose_1_1_words_1_1_frame_format_1afcdbefab87024e8b55662fbb1dd3110b" prot="public" virt="non-virtual"><scope>Aspose::Words::FrameFormat</scope><name>get_HorizontalDistanceFromText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_frame_format_1a964d477b59f196cbd834f8695cb21e8f" prot="public" virt="non-virtual"><scope>Aspose::Words::FrameFormat</scope><name>get_HorizontalPosition</name></member>
+      <member refid="class_aspose_1_1_words_1_1_frame_format_1ade03760802eb0cbc9d988e3929d0782b" prot="public" virt="non-virtual"><scope>Aspose::Words::FrameFormat</scope><name>get_IsFrame</name></member>
+      <member refid="class_aspose_1_1_words_1_1_frame_format_1aac2e930a697eb28a2662c46e2c2f8163" prot="public" virt="non-virtual"><scope>Aspose::Words::FrameFormat</scope><name>get_RelativeHorizontalPosition</name></member>
+      <member refid="class_aspose_1_1_words_1_1_frame_format_1ac5dee410d844122a35b3c7addadc3fd9" prot="public" virt="non-virtual"><scope>Aspose::Words::FrameFormat</scope><name>get_RelativeVerticalPosition</name></member>
+      <member refid="class_aspose_1_1_words_1_1_frame_format_1a7efc81a97f1430e4037e5c0c7d46e1e1" prot="public" virt="non-virtual"><scope>Aspose::Words::FrameFormat</scope><name>get_VerticalAlignment</name></member>
+      <member refid="class_aspose_1_1_words_1_1_frame_format_1a5c7e24a16d76877da90d26302a11942c" prot="public" virt="non-virtual"><scope>Aspose::Words::FrameFormat</scope><name>get_VerticalDistanceFromText</name></member>
+      <member refid="class_aspose_1_1_words_1_1_frame_format_1a4cbb2769ef842a9cbe9e9171b2765320" prot="public" virt="non-virtual"><scope>Aspose::Words::FrameFormat</scope><name>get_VerticalPosition</name></member>
+      <member refid="class_aspose_1_1_words_1_1_frame_format_1a4ca9d1407406f21a5037a9f651c62b0f" prot="public" virt="non-virtual"><scope>Aspose::Words::FrameFormat</scope><name>get_Width</name></member>
+      <member refid="class_aspose_1_1_words_1_1_frame_format_1af2803e9b9a52e698f52aa9c61d856475" prot="private" virt="non-virtual"><scope>Aspose::Words::FrameFormat</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_frame_format_1a09d417c80a580d16c5264da16d37da57" prot="private" virt="non-virtual"><scope>Aspose::Words::FrameFormat</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_frame_format_1a32e56db90acc801259864d17b5c7c034" prot="private" virt="non-virtual"><scope>Aspose::Words::FrameFormat</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_frame_format_1a6a1635ec3d561f6e4a7f7882e9994fd5" prot="private" virt="non-virtual"><scope>Aspose::Words::FrameFormat</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

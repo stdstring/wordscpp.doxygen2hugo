@@ -1,0 +1,917 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fonts::FontInfoCollection</compoundname>
+    <basecompoundref refid="class/system.collections.generic.i_enumerable/" prot="public" virt="non-virtual">System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Fonts::FontInfo &gt; &gt;</basecompoundref>
+    <includes refid="_font_info_collection_8h" local="no">Aspose.Words.Cpp/Fonts/FontInfoCollection.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1ae867fcc3d9c976a0bfa6849fdd6f84cd" prot="private" static="no">
+        <type><ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerable</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info" kindref="compound">Aspose::Words::Fonts::FontInfo</ref> &gt; &gt;</type>
+        <definition>typedef System::Collections::Generic::IEnumerable&lt;System::SharedPtr&lt;Aspose::Words::Fonts::FontInfo&gt; &gt; Aspose::Words::Fonts::FontInfoCollection::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="101" column="55" bodyfile="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" bodystart="101" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a1fd7c062166b8f622a0fc355a2c3407e" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection" kindref="compound">FontInfoCollection</ref></type>
+        <definition>typedef FontInfoCollection Aspose::Words::Fonts::FontInfoCollection::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="100" column="32" bodyfile="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" bodystart="100" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a97787c69ff95b3af5469bff2024fe5c3" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.collections.generic.i_enumerable/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Fonts::FontInfoCollection::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="103" column="37" bodyfile="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" bodystart="103" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1ac78c2fb8fa098407f1c81a5c59de7da5" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.list/_1a0f284b9cbb583432336a9ce4f0b9c84a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::const_iterator</ref></type>
+        <definition>using Aspose::Words::Fonts::FontInfoCollection::const_iterator =  typename iterator_holder_type::const_iterator</definition>
+        <argsstring></argsstring>
+        <name>const_iterator</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::const_iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="112" column="5" bodyfile="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" bodystart="112" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1abd49d4b5406fd319fc50757cae81fcfb" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.list/_1ab0ac6ed1e49acd56e069fe8614c87f3d" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::iterator</ref></type>
+        <definition>using Aspose::Words::Fonts::FontInfoCollection::iterator =  typename iterator_holder_type::iterator</definition>
+        <argsstring></argsstring>
+        <name>iterator</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="110" column="5" bodyfile="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" bodystart="110" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1ae3a83d49a10d2a63354df9479e542691" prot="public" static="no">
+        <type><ref refid="class/system.collections.generic.list/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::List</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info" kindref="compound">Aspose::Words::Fonts::FontInfo</ref> &gt; &gt;</type>
+        <definition>using Aspose::Words::Fonts::FontInfoCollection::iterator_holder_type =  System::Collections::Generic::List&lt;System::SharedPtr&lt;Aspose::Words::Fonts::FontInfo&gt; &gt;</definition>
+        <argsstring></argsstring>
+        <name>iterator_holder_type</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::iterator_holder_type</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="108" column="5" bodyfile="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" bodystart="108" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1af93fa5ec04a5de316594577e2c55d329" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a728213db2c392697ade8169f6a54cb8a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator</ref></type>
+        <definition>using Aspose::Words::Fonts::FontInfoCollection::virtualized_iterator =  typename iterator_holder_type::virtualized_iterator</definition>
+        <argsstring></argsstring>
+        <name>virtualized_iterator</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::virtualized_iterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="116" column="5" bodyfile="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" bodystart="116" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a144c7dfdeb4beb4b157f0ddd4170aac1" prot="public" static="no">
+        <type>typename <ref refid="class/system.collections.generic.i_enumerable/_1a3a2f6052e0f1f1182c3694c377f3947a" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">iterator_holder_type::virtualized_iterator_element</ref></type>
+        <definition>using Aspose::Words::Fonts::FontInfoCollection::virtualized_iterator_element =  typename iterator_holder_type::virtualized_iterator_element</definition>
+        <argsstring></argsstring>
+        <name>virtualized_iterator_element</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::virtualized_iterator_element</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="114" column="5" bodyfile="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" bodystart="114" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1adf22fc6b7b25a3f0b64498fdebf5ea4b" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fonts::FontInfoCollection::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="398" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" bodystart="398" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1afa2a7ebca682b41ee6e9ba9d3802f073" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fonts::FontInfoCollection::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="399" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" bodystart="399" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a403d46836f2e4c3e2a64fe84b962db1b" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fonts::FontInfoCollection::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="400" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" bodystart="400" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1afcb4fd831740d8128c97d6a1eaf99069" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Fonts::FontInfoCollection::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="401" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" bodystart="401" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a88def2bf9c834eac2c7d97439bc18986" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Fonts::FontInfoCollection::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="402" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" bodystart="402" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a30ac7f88305605e692703ef6db0bbbc5" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Fonts::FontInfoCollection::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="403" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" bodystart="403" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a516a63c42a223e88f113fa2618c50508" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Fonts::FontInfoCollection::mField6</definition>
+        <argsstring></argsstring>
+        <name>mField6</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::mField6</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="404" column="23" bodyfile="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" bodystart="404" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a1432c4235d359da72c40b975b31ca9a1" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fonts::FontInfoCollection::FontInfoCollection</definition>
+        <argsstring>()</argsstring>
+        <name>FontInfoCollection</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::FontInfoCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="392" column="5"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1aa91a72234f3c4ea2895fe5ea639f0dad" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Fonts::FontInfoCollection::~FontInfoCollection</definition>
+        <argsstring>()</argsstring>
+        <name>~FontInfoCollection</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::~FontInfoCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="394" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a61f8a11952c95d163212a10f1a23b99c" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fonts::FontInfoCollection::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="104" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a929265da061bdda26e7b5d7ba0e75df1" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1ac78c2fb8fa098407f1c81a5c59de7da5" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::Fonts::FontInfoCollection::begin</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>begin</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::begin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="374" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a23473840b59cdc443f5176a3d8e9c106" prot="public" static="no" const="no" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1abd49d4b5406fd319fc50757cae81fcfb" kindref="member">iterator</ref></type>
+        <definition>iterator Aspose::Words::Fonts::FontInfoCollection::begin</definition>
+        <argsstring>() noexcept</argsstring>
+        <name>begin</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::begin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="370" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1af41fb65dccd609712b26d1c5f68d2775" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1ac78c2fb8fa098407f1c81a5c59de7da5" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::Fonts::FontInfoCollection::cbegin</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>cbegin</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::cbegin</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="378" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1ad86472f097a063c49183a1791a628dc1" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1ac78c2fb8fa098407f1c81a5c59de7da5" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::Fonts::FontInfoCollection::cend</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>cend</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::cend</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="380" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a7c4e2e0fb3ddda04c87fda464d35f222" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fonts::FontInfoCollection::Contains</definition>
+        <argsstring>(const System::String &amp;name)</argsstring>
+        <name>Contains</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::Contains</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>name</declname>
+        </param>
+        <briefdescription>
+<para>Determines whether the collection contains a font with the given name. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>name</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Case-insensitive name of the font to locate.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="return"><para>True if the item is found in the collection; otherwise, false.</para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows info about the fonts that are present in the blank document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>blank<sp/>document<sp/>contains<sp/>3<sp/>default<sp/>fonts.<sp/>Each<sp/>font<sp/>in<sp/>the<sp/>document</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>will<sp/>have<sp/>a<sp/>corresponding<sp/>FontInfo<sp/>object<sp/>which<sp/>contains<sp/>details<sp/>about<sp/>that<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>doc-&gt;get_FontInfos()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_FontInfos()-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(204,<sp/>doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">)-&gt;get_Charset());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_FontInfos()-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Symbol&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_FontInfos()-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">));</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="368" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a2e4880268a5091712dd55d4e3ee62387" prot="public" static="no" const="yes" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1ac78c2fb8fa098407f1c81a5c59de7da5" kindref="member">const_iterator</ref></type>
+        <definition>const_iterator Aspose::Words::Fonts::FontInfoCollection::end</definition>
+        <argsstring>() const noexcept</argsstring>
+        <name>end</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::end</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="376" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a691f13aa39ca0ad5bce3f8c53e3391b8" prot="public" static="no" const="no" explicit="no" inline="no" noexcept="yes" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1abd49d4b5406fd319fc50757cae81fcfb" kindref="member">iterator</ref></type>
+        <definition>iterator Aspose::Words::Fonts::FontInfoCollection::end</definition>
+        <argsstring>() noexcept</argsstring>
+        <name>end</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::end</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="372" column="17"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a287c658cca5dca9f020802789bbaea5e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Fonts::FontInfoCollection::get_Count</definition>
+        <argsstring>()</argsstring>
+        <name>get_Count</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::get_Count</qualifiedname>
+        <briefdescription>
+<para>Gets the number of elements contained in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows info about the fonts that are present in the blank document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>blank<sp/>document<sp/>contains<sp/>3<sp/>default<sp/>fonts.<sp/>Each<sp/>font<sp/>in<sp/>the<sp/>document</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>will<sp/>have<sp/>a<sp/>corresponding<sp/>FontInfo<sp/>object<sp/>which<sp/>contains<sp/>details<sp/>about<sp/>that<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>doc-&gt;get_FontInfos()-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_FontInfos()-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(204,<sp/>doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Times<sp/>New<sp/>Roman&quot;</highlight><highlight class="normal">)-&gt;get_Charset());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_FontInfos()-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Symbol&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_FontInfos()-&gt;Contains(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">));</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="138" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a2076525cdfe0d8b7b7c3bb032b97a9d4" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fonts::FontInfoCollection::get_EmbedSystemFonts</definition>
+        <argsstring>() const</argsstring>
+        <name>get_EmbedSystemFonts</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::get_EmbedSystemFonts</qualifiedname>
+        <briefdescription>
+<para>Specifies whether or not to embed System fonts into the document. Default value for this property is <bold>false</bold>. This option works only when <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1abba9122450e5885fbc326bc015d78cd8" kindref="member">EmbedTrueTypeFonts</ref> option is set to <bold>true</bold>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Setting this property to <computeroutput>True</computeroutput> is useful if the user is on an East Asian system and wants to create a document that is readable by others who do not have fonts for that language on their system. For example, a user on a Japanese system could choose to embed the fonts in a document so that the Japanese document would be readable on all systems.</para>
+<para>This option works for DOC, DOCX and RTF formats only.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to save a document with embedded TrueType fonts. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Aspose::Words::Fonts::FontInfoCollection&gt;<sp/>fontInfos<sp/>=<sp/>doc-&gt;get_FontInfos();</highlight></codeline>
+<codeline><highlight class="normal">fontInfos-&gt;set_EmbedTrueTypeFonts(embedAllFonts);</highlight></codeline>
+<codeline><highlight class="normal">fontInfos-&gt;set_EmbedSystemFonts(embedAllFonts);</highlight></codeline>
+<codeline><highlight class="normal">fontInfos-&gt;set_SaveSubsetFonts(embedAllFonts);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font.FontInfoCollection.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(embedAllFonts)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_LT(25000,<sp/>MakeObject&lt;System::IO::FileInfo&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font.FontInfoCollection.docx&quot;</highlight><highlight class="normal">)-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_GE(15000,<sp/>MakeObject&lt;System::IO::FileInfo&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font.FontInfoCollection.docx&quot;</highlight><highlight class="normal">)-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="208" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1abba9122450e5885fbc326bc015d78cd8" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fonts::FontInfoCollection::get_EmbedTrueTypeFonts</definition>
+        <argsstring>() const</argsstring>
+        <name>get_EmbedTrueTypeFonts</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::get_EmbedTrueTypeFonts</qualifiedname>
+        <briefdescription>
+<para>Specifies whether or not to embed TrueType fonts in a document when it is saved. Default value for this property is <bold>false</bold>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Embedding TrueType fonts allows others to view the document with the same fonts that were used to create it, but may substantially increase the document size.</para>
+<para>This option works for DOC, DOCX and RTF formats only.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to save a document with embedded TrueType fonts. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Aspose::Words::Fonts::FontInfoCollection&gt;<sp/>fontInfos<sp/>=<sp/>doc-&gt;get_FontInfos();</highlight></codeline>
+<codeline><highlight class="normal">fontInfos-&gt;set_EmbedTrueTypeFonts(embedAllFonts);</highlight></codeline>
+<codeline><highlight class="normal">fontInfos-&gt;set_EmbedSystemFonts(embedAllFonts);</highlight></codeline>
+<codeline><highlight class="normal">fontInfos-&gt;set_SaveSubsetFonts(embedAllFonts);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font.FontInfoCollection.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(embedAllFonts)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_LT(25000,<sp/>MakeObject&lt;System::IO::FileInfo&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font.FontInfoCollection.docx&quot;</highlight><highlight class="normal">)-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_GE(15000,<sp/>MakeObject&lt;System::IO::FileInfo&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font.FontInfoCollection.docx&quot;</highlight><highlight class="normal">)-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="170" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1aaa1310a0785eb92ad961b1511b365367" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fonts::FontInfoCollection::get_SaveSubsetFonts</definition>
+        <argsstring>() const</argsstring>
+        <name>get_SaveSubsetFonts</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::get_SaveSubsetFonts</qualifiedname>
+        <briefdescription>
+<para>Specifies whether or not to save a subset of the embedded TrueType fonts with the document. Default value for this property is <bold>false</bold>. This option works only when <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1abba9122450e5885fbc326bc015d78cd8" kindref="member">EmbedTrueTypeFonts</ref> property is set to <bold>true</bold>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to save a document with embedded TrueType fonts. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Aspose::Words::Fonts::FontInfoCollection&gt;<sp/>fontInfos<sp/>=<sp/>doc-&gt;get_FontInfos();</highlight></codeline>
+<codeline><highlight class="normal">fontInfos-&gt;set_EmbedTrueTypeFonts(embedAllFonts);</highlight></codeline>
+<codeline><highlight class="normal">fontInfos-&gt;set_EmbedSystemFonts(embedAllFonts);</highlight></codeline>
+<codeline><highlight class="normal">fontInfos-&gt;set_SaveSubsetFonts(embedAllFonts);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font.FontInfoCollection.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(embedAllFonts)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_LT(25000,<sp/>MakeObject&lt;System::IO::FileInfo&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font.FontInfoCollection.docx&quot;</highlight><highlight class="normal">)-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_GE(15000,<sp/>MakeObject&lt;System::IO::FileInfo&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font.FontInfoCollection.docx&quot;</highlight><highlight class="normal">)-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="239" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a3a5a350821bebf9f696096a7f93abaab" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.collections.generic.i_enumerator/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Collections::Generic::IEnumerator</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info" kindref="compound">Aspose::Words::Fonts::FontInfo</ref> &gt; &gt; &gt;</type>
+        <definition>System::SharedPtr&lt; System::Collections::Generic::IEnumerator&lt; System::SharedPtr&lt; Aspose::Words::Fonts::FontInfo &gt; &gt; &gt; Aspose::Words::Fonts::FontInfoCollection::GetEnumerator</definition>
+        <argsstring>() override</argsstring>
+        <name>GetEnumerator</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::GetEnumerator</qualifiedname>
+        <briefdescription>
+<para>Returns an enumerator object that can be used to iterate over all items in the collection. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to access and print details of each font in a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;FontInfo&gt;&gt;&gt;<sp/>fontCollectionEnumerator<sp/>=<sp/>doc-&gt;get_FontInfos()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(fontCollectionEnumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;FontInfo&gt;<sp/>fontInfo<sp/>=<sp/>fontCollectionEnumerator-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(fontInfo<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Font<sp/>name:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Name())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="comment">//<sp/>Alt<sp/>names<sp/>are<sp/>usually<sp/>blank.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Alt<sp/>name:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_AltName())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Family:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(fontInfo-&gt;get_Family()))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>(fontInfo-&gt;get_IsTrueType()<sp/>?<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Is<sp/>TrueType&quot;</highlight><highlight class="normal">)<sp/>:<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Is<sp/>not<sp/>TrueType&quot;</highlight><highlight class="normal">)))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Pitch:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/><ref refid="class/system.object_ext/_1a02a47581b14b298ef9da890fb37918da" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ObjectExt::ToString</ref>(fontInfo-&gt;get_Pitch()))<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t-<sp/>Charset:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Charset())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t-<sp/>Panose:&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tFamily<sp/>Kind:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[0])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tSerif<sp/>Style:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[1])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tWeight:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[2])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tProportion:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[3])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tContrast:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[4])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tStroke<sp/>Variation:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[5])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tArm<sp/>Style:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[6])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tLetterform:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[7])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tMidline:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[8])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;\t\tX-Height:<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>fontInfo-&gt;get_Panose()[9])<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="344" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a818cd6416f1d6fc252420d1430e7b550" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info" kindref="compound">Aspose::Words::Fonts::FontInfo</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fonts::FontInfo &gt; Aspose::Words::Fonts::FontInfoCollection::idx_get</definition>
+        <argsstring>(const System::String &amp;name)</argsstring>
+        <name>idx_get</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::idx_get</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>name</declname>
+        </param>
+        <briefdescription>
+<para>Gets a font with the specified name. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>name</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Case-insensitive name of the font to locate.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to extract an embedded font from a document, and save it to the local file system. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Embedded<sp/>font.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FontInfo&gt;<sp/>embeddedFont<sp/>=<sp/>doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;uint8_t&gt;<sp/>embeddedFontBytes<sp/>=<sp/>embeddedFont-&gt;GetEmbeddedFont(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1aa8323c947fe5f32c318d27d39ab91f51a91cdc78c52608d9ae56e8ed641636b99" kindref="member" tooltip="Specifies font, embedded as plain copy of OpenType (TrueType) font file. This format of embedded font...">EmbeddedFontFormat::OpenType</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.i_o.file/_1a2bff5b0fbdb0ef68ad612a665efeac56" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::WriteAllBytes</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.ttf&quot;</highlight><highlight class="normal">,<sp/>embeddedFontBytes);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Embedded<sp/>font<sp/>formats<sp/>may<sp/>be<sp/>different<sp/>in<sp/>other<sp/>formats<sp/>such<sp/>as<sp/>.doc.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>need<sp/>to<sp/>know<sp/>the<sp/>correct<sp/>format<sp/>before<sp/>we<sp/>can<sp/>extract<sp/>the<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Embedded<sp/>font.doc&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">)-&gt;GetEmbeddedFont(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1aa8323c947fe5f32c318d27d39ab91f51a91cdc78c52608d9ae56e8ed641636b99" kindref="member" tooltip="Specifies font, embedded as plain copy of OpenType (TrueType) font file. This format of embedded font...">EmbeddedFontFormat::OpenType</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>)<sp/>==</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">)-&gt;GetEmbeddedFont(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1aa8323c947fe5f32c318d27d39ab91f51a6f172d13875bbc14d80601bb10c35427" kindref="member" tooltip="Specifies Embedded OpenType (EOT) File Format. This format of embedded fonts used in DOC files.">EmbeddedFontFormat::EmbeddedOpenType</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>)<sp/>==</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Also,<sp/>we<sp/>can<sp/>convert<sp/>embedded<sp/>OpenType<sp/>format,<sp/>which<sp/>comes<sp/>from<sp/>.doc<sp/>documents,<sp/>to<sp/>OpenType.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">embeddedFontBytes<sp/>=<sp/>doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">)-&gt;GetEmbeddedFontAsOpenType(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.i_o.file/_1a2bff5b0fbdb0ef68ad612a665efeac56" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::WriteAllBytes</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.otf&quot;</highlight><highlight class="normal">,<sp/>embeddedFontBytes);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="274" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a8cd0d92e55bb86c81b19dcdaab02277d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info" kindref="compound">Aspose::Words::Fonts::FontInfo</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Fonts::FontInfo &gt; Aspose::Words::Fonts::FontInfoCollection::idx_get</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>idx_get</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::idx_get</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Gets a font at the specified index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>index</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>Zero-based index of the font.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to extract an embedded font from a document, and save it to the local file system. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Embedded<sp/>font.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;FontInfo&gt;<sp/>embeddedFont<sp/>=<sp/>doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">ArrayPtr&lt;uint8_t&gt;<sp/>embeddedFontBytes<sp/>=<sp/>embeddedFont-&gt;GetEmbeddedFont(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1aa8323c947fe5f32c318d27d39ab91f51a91cdc78c52608d9ae56e8ed641636b99" kindref="member" tooltip="Specifies font, embedded as plain copy of OpenType (TrueType) font file. This format of embedded font...">EmbeddedFontFormat::OpenType</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.i_o.file/_1a2bff5b0fbdb0ef68ad612a665efeac56" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::WriteAllBytes</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.ttf&quot;</highlight><highlight class="normal">,<sp/>embeddedFontBytes);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Embedded<sp/>font<sp/>formats<sp/>may<sp/>be<sp/>different<sp/>in<sp/>other<sp/>formats<sp/>such<sp/>as<sp/>.doc.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>need<sp/>to<sp/>know<sp/>the<sp/>correct<sp/>format<sp/>before<sp/>we<sp/>can<sp/>extract<sp/>the<sp/>font.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Embedded<sp/>font.doc&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">)-&gt;GetEmbeddedFont(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1aa8323c947fe5f32c318d27d39ab91f51a91cdc78c52608d9ae56e8ed641636b99" kindref="member" tooltip="Specifies font, embedded as plain copy of OpenType (TrueType) font file. This format of embedded font...">EmbeddedFontFormat::OpenType</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>)<sp/>==</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">)-&gt;GetEmbeddedFont(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1aa8323c947fe5f32c318d27d39ab91f51a6f172d13875bbc14d80601bb10c35427" kindref="member" tooltip="Specifies Embedded OpenType (EOT) File Format. This format of embedded fonts used in DOC files.">EmbeddedFontFormat::EmbeddedOpenType</ref>,<sp/><ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>)<sp/>==</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Also,<sp/>we<sp/>can<sp/>convert<sp/>embedded<sp/>OpenType<sp/>format,<sp/>which<sp/>comes<sp/>from<sp/>.doc<sp/>documents,<sp/>to<sp/>OpenType.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">embeddedFontBytes<sp/>=<sp/>doc-&gt;get_FontInfos()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift&quot;</highlight><highlight class="normal">)-&gt;GetEmbeddedFontAsOpenType(<ref refid="namespace_aspose_1_1_words_1_1_fonts_1a4abfacf05659527776719a4a6f8d0c56ad2203cb1237cb6460cbad94564e39345" kindref="member" tooltip="Specifies the Regular embedded font.">EmbeddedFontStyle::Regular</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><ref refid="class/system.i_o.file/_1a2bff5b0fbdb0ef68ad612a665efeac56" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::IO::File::WriteAllBytes</ref>(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Alte<sp/>DIN<sp/>1451<sp/>Mittelschrift.otf&quot;</highlight><highlight class="normal">,<sp/>embeddedFontBytes);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="306" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a037831f14df172134cef6559be5dd0a7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::FontInfoCollection::set_EmbedSystemFonts</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_EmbedSystemFonts</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::set_EmbedSystemFonts</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a2076525cdfe0d8b7b7c3bb032b97a9d4" kindref="member">Aspose::Words::Fonts::FontInfoCollection::get_EmbedSystemFonts</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="211" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1ad3b6112c301411bcb7f5a2a5b5ccbe5d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::FontInfoCollection::set_EmbedTrueTypeFonts</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_EmbedTrueTypeFonts</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::set_EmbedTrueTypeFonts</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1abba9122450e5885fbc326bc015d78cd8" kindref="member">Aspose::Words::Fonts::FontInfoCollection::get_EmbedTrueTypeFonts</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="173" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a1db9fe000d9fd190c05a34ad9af51159" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fonts::FontInfoCollection::set_SaveSubsetFonts</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_SaveSubsetFonts</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::set_SaveSubsetFonts</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1aaa1310a0785eb92ad961b1511b365367" kindref="member">Aspose::Words::Fonts::FontInfoCollection::get_SaveSubsetFonts</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="242" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a2f54ffa3d9e0aa8170547092aa138c3e" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1af93fa5ec04a5de316594577e2c55d329" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::Fonts::FontInfoCollection::virtualizeBeginConstIterator</definition>
+        <argsstring>() const override</argsstring>
+        <name>virtualizeBeginConstIterator</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::virtualizeBeginConstIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="386" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a68715e0e820105b01772f3e16189bed0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1af93fa5ec04a5de316594577e2c55d329" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::Fonts::FontInfoCollection::virtualizeBeginIterator</definition>
+        <argsstring>() override</argsstring>
+        <name>virtualizeBeginIterator</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::virtualizeBeginIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="382" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a85c651bb5ad89aa26abe06abd2063712" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1af93fa5ec04a5de316594577e2c55d329" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::Fonts::FontInfoCollection::virtualizeEndConstIterator</definition>
+        <argsstring>() const override</argsstring>
+        <name>virtualizeEndConstIterator</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::virtualizeEndConstIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="388" column="29"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a8cd6cd181ca785d87c6fbcb8eca7fc77" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1af93fa5ec04a5de316594577e2c55d329" kindref="member">virtualized_iterator</ref> *</type>
+        <definition>virtualized_iterator * Aspose::Words::Fonts::FontInfoCollection::virtualizeEndIterator</definition>
+        <argsstring>() override</argsstring>
+        <name>virtualizeEndIterator</name>
+        <qualifiedname>Aspose::Words::Fonts::FontInfoCollection::virtualizeEndIterator</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="384" column="29"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents a collection of fonts used in a document. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>Items are <ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info" kindref="compound">FontInfo</ref> objects.</para>
+<para>You do not create instances of this class directly. Use the <ref refid="class_aspose_1_1_words_1_1_document_base_1a68377fd35d6e3d7463bb9fc79423e382" kindref="member">FontInfos</ref> property to access the collection of fonts defined in the document.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info" kindref="compound">Aspose::Words::Fonts::FontInfo</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_document_base_1a68377fd35d6e3d7463bb9fc79423e382" kindref="member">Aspose::Words::DocumentBase::get_FontInfos</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to print the details of what fonts are present in a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Embedded<sp/>font.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Aspose::Words::Fonts::FontInfoCollection&gt;<sp/>allFonts<sp/>=<sp/>doc-&gt;get_FontInfos();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Print<sp/>all<sp/>the<sp/>used<sp/>and<sp/>unused<sp/>fonts<sp/>in<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>allFonts-&gt;get_Count();<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;Font<sp/>index<sp/>#&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>i<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tName:<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>allFonts-&gt;idx_get(i)-&gt;get_Name()<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\tIs<sp/>&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>(allFonts-&gt;idx_get(i)-&gt;get_IsTrueType()<sp/>?<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;&quot;</highlight><highlight class="normal">)<sp/>:<sp/><ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;not<sp/>&quot;</highlight><highlight class="normal">))<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;a<sp/>trueType<sp/>font&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting></para>
+<para>Shows how to save a document with embedded TrueType fonts. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Aspose::Words::Fonts::FontInfoCollection&gt;<sp/>fontInfos<sp/>=<sp/>doc-&gt;get_FontInfos();</highlight></codeline>
+<codeline><highlight class="normal">fontInfos-&gt;set_EmbedTrueTypeFonts(embedAllFonts);</highlight></codeline>
+<codeline><highlight class="normal">fontInfos-&gt;set_EmbedSystemFonts(embedAllFonts);</highlight></codeline>
+<codeline><highlight class="normal">fontInfos-&gt;set_SaveSubsetFonts(embedAllFonts);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font.FontInfoCollection.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(embedAllFonts)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_LT(25000,<sp/>MakeObject&lt;System::IO::FileInfo&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font.FontInfoCollection.docx&quot;</highlight><highlight class="normal">)-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">else</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>ASSERT_GE(15000,<sp/>MakeObject&lt;System::IO::FileInfo&gt;(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Font.FontInfoCollection.docx&quot;</highlight><highlight class="normal">)-&gt;get_Length());</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Fonts::FontInfoCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Fonts::FontInfo &gt; &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Fonts::FontInfoCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Fonts::FontInfo &gt; &gt;</label>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" line="98" column="1" bodyfile="Aspose.Words.Cpp/Fonts/FontInfoCollection.h" bodystart="99" bodyend="406"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1ae867fcc3d9c976a0bfa6849fdd6f84cd" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a23473840b59cdc443f5176a3d8e9c106" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>begin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a929265da061bdda26e7b5d7ba0e75df1" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>begin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1af41fb65dccd609712b26d1c5f68d2775" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>cbegin</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1ad86472f097a063c49183a1791a628dc1" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>cend</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1ac78c2fb8fa098407f1c81a5c59de7da5" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>const_iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a7c4e2e0fb3ddda04c87fda464d35f222" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>Contains</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a691f13aa39ca0ad5bce3f8c53e3391b8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>end</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a2e4880268a5091712dd55d4e3ee62387" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>end</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a1432c4235d359da72c40b975b31ca9a1" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>FontInfoCollection</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a287c658cca5dca9f020802789bbaea5e" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a2076525cdfe0d8b7b7c3bb032b97a9d4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>get_EmbedSystemFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1abba9122450e5885fbc326bc015d78cd8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>get_EmbedTrueTypeFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1aaa1310a0785eb92ad961b1511b365367" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>get_SaveSubsetFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a3a5a350821bebf9f696096a7f93abaab" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>GetEnumerator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a818cd6416f1d6fc252420d1430e7b550" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>idx_get</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a8cd0d92e55bb86c81b19dcdaab02277d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>idx_get</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1abd49d4b5406fd319fc50757cae81fcfb" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1ae3a83d49a10d2a63354df9479e542691" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>iterator_holder_type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1adf22fc6b7b25a3f0b64498fdebf5ea4b" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1afa2a7ebca682b41ee6e9ba9d3802f073" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a403d46836f2e4c3e2a64fe84b962db1b" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1afcb4fd831740d8128c97d6a1eaf99069" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a88def2bf9c834eac2c7d97439bc18986" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a30ac7f88305605e692703ef6db0bbbc5" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a516a63c42a223e88f113fa2618c50508" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>mField6</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a61f8a11952c95d163212a10f1a23b99c" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a037831f14df172134cef6559be5dd0a7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>set_EmbedSystemFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1ad3b6112c301411bcb7f5a2a5b5ccbe5d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>set_EmbedTrueTypeFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a1db9fe000d9fd190c05a34ad9af51159" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>set_SaveSubsetFonts</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a1fd7c062166b8f622a0fc355a2c3407e" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a97787c69ff95b3af5469bff2024fe5c3" prot="private" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a2f54ffa3d9e0aa8170547092aa138c3e" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>virtualizeBeginConstIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a68715e0e820105b01772f3e16189bed0" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>virtualizeBeginIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1af93fa5ec04a5de316594577e2c55d329" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>virtualized_iterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a144c7dfdeb4beb4b157f0ddd4170aac1" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>virtualized_iterator_element</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a85c651bb5ad89aa26abe06abd2063712" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>virtualizeEndConstIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1a8cd6cd181ca785d87c6fbcb8eca7fc77" prot="public" virt="non-virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>virtualizeEndIterator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fonts_1_1_font_info_collection_1aa91a72234f3c4ea2895fe5ea639f0dad" prot="private" virt="virtual"><scope>Aspose::Words::Fonts::FontInfoCollection</scope><name>~FontInfoCollection</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

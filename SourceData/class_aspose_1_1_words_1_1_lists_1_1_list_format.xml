@@ -1,0 +1,1195 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_lists_1_1_list_format" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Lists::ListFormat</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_list_format_8h" local="no">Aspose.Words.Cpp/Lists/ListFormat.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_lists_1_1_list_format_1ae611b555893cb2321b824c5284d6de4f" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Lists::ListFormat::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Lists::ListFormat::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Lists/ListFormat.h" line="123" column="28" bodyfile="Aspose.Words.Cpp/Lists/ListFormat.h" bodystart="123" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a9a78fafca90dbd22dc33177695e3dcde" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_format" kindref="compound">ListFormat</ref></type>
+        <definition>typedef ListFormat Aspose::Words::Lists::ListFormat::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Lists::ListFormat::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Lists/ListFormat.h" line="122" column="24" bodyfile="Aspose.Words.Cpp/Lists/ListFormat.h" bodystart="122" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_lists_1_1_list_format_1ae61b0e21ed24baf21fb641eb12c63334" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Lists::ListFormat::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Lists::ListFormat::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Lists/ListFormat.h" line="125" column="37" bodyfile="Aspose.Words.Cpp/Lists/ListFormat.h" bodystart="125" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a0677f8586b867800a687df14d5a5d47a" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::Lists::ListFormat::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Lists::ListFormat::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Lists/ListFormat.h" line="998" column="21" bodyfile="Aspose.Words.Cpp/Lists/ListFormat.h" bodystart="998" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_lists_1_1_list_format_1ac38e1ab47a0a366deb48ea33fde1dfe2" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::Lists::ListFormat::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Lists::ListFormat::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Lists/ListFormat.h" line="999" column="21" bodyfile="Aspose.Words.Cpp/Lists/ListFormat.h" bodystart="999" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a28684bff0e5f26a0566ca1abb8292e96" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Lists::ListFormat::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Lists::ListFormat::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Lists/ListFormat.h" line="1000" column="23" bodyfile="Aspose.Words.Cpp/Lists/ListFormat.h" bodystart="1000" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_lists_1_1_list_format_1ad005f65bf29054db5af0c866c9c95eab" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Lists::ListFormat::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Lists::ListFormat::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Lists/ListFormat.h" line="1001" column="23" bodyfile="Aspose.Words.Cpp/Lists/ListFormat.h" bodystart="1001" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_lists_1_1_list_format_1ad118cb909da5a229c1119179c4c93253" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Lists::ListFormat::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Lists::ListFormat::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Lists/ListFormat.h" line="1002" column="23" bodyfile="Aspose.Words.Cpp/Lists/ListFormat.h" bodystart="1002" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_lists_1_1_list_format_1ad52075b220c483c140d7f15b5f992950" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Lists::ListFormat::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Lists::ListFormat::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Lists/ListFormat.h" line="126" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a4003610eca51d7e6783df97c4a4e8265" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Lists::ListFormat::ApplyBulletDefault</definition>
+        <argsstring>()</argsstring>
+        <name>ApplyBulletDefault</name>
+        <qualifiedname>Aspose::Words::Lists::ListFormat::ApplyBulletDefault</qualifiedname>
+        <briefdescription>
+<para>Starts a new default bulleted list and applies it to the paragraph. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This is a shortcut method that creates a new list using the default bulleted template, applies it to the paragraph and selects the 1st list level.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1ab0d0047a81fecf98d4a7ee244d7bbee9" kindref="member">Aspose::Words::Lists::ListFormat::get_List</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a29b4de98987b94ae64a97413e9c30f18" kindref="member">Aspose::Words::Lists::ListFormat::RemoveNumbers</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a4b00ca0e0adf9904069256dd46bd552b" kindref="member">Aspose::Words::Lists::ListFormat::get_ListLevelNumber</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create bulleted and numbered lists. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Aspose.Words<sp/>main<sp/>advantages<sp/>are:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>list<sp/>allows<sp/>us<sp/>to<sp/>organize<sp/>and<sp/>decorate<sp/>sets<sp/>of<sp/>paragraphs<sp/>with<sp/>prefix<sp/>symbols<sp/>and<sp/>indents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>create<sp/>nested<sp/>lists<sp/>by<sp/>increasing<sp/>the<sp/>indent<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>begin<sp/>and<sp/>end<sp/>a<sp/>list<sp/>by<sp/>using<sp/>a<sp/>document<sp/>builder&apos;s<sp/>&quot;ListFormat&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>paragraph<sp/>that<sp/>we<sp/>add<sp/>between<sp/>a<sp/>list&apos;s<sp/>start<sp/>and<sp/>the<sp/>end<sp/>will<sp/>become<sp/>an<sp/>item<sp/>in<sp/>the<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>types<sp/>of<sp/>lists<sp/>that<sp/>we<sp/>can<sp/>create<sp/>with<sp/>a<sp/>document<sp/>builder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>A<sp/>bulleted<sp/>list:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>list<sp/>will<sp/>apply<sp/>an<sp/>indent<sp/>and<sp/>a<sp/>bullet<sp/>symbol<sp/>(&quot;•&quot;)<sp/>before<sp/>each<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ApplyBulletDefault();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Great<sp/>performance&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;High<sp/>reliability&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Quality<sp/>code<sp/>and<sp/>working&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Wide<sp/>variety<sp/>of<sp/>features&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Easy<sp/>to<sp/>understand<sp/>API&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>End<sp/>the<sp/>bulleted<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;RemoveNumbers();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eac3316c9c335ce5fa8638df2fc5d518d4" kindref="member" tooltip="Break between paragraphs.">BreakType::ParagraphBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Aspose.Words<sp/>allows:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>A<sp/>numbered<sp/>list:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Numbered<sp/>lists<sp/>create<sp/>a<sp/>logical<sp/>order<sp/>for<sp/>their<sp/>paragraphs<sp/>by<sp/>numbering<sp/>each<sp/>item.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ApplyNumberDefault();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>paragraph<sp/>is<sp/>the<sp/>first<sp/>item.<sp/>The<sp/>first<sp/>item<sp/>of<sp/>a<sp/>numbered<sp/>list<sp/>will<sp/>have<sp/>a<sp/>&quot;1.&quot;<sp/>as<sp/>its<sp/>list<sp/>item<sp/>symbol.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Opening<sp/>documents<sp/>from<sp/>different<sp/>formats:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>builder-&gt;get_ListFormat()-&gt;get_ListLevelNumber());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Call<sp/>the<sp/>&quot;ListIndent&quot;<sp/>method<sp/>to<sp/>increase<sp/>the<sp/>current<sp/>list<sp/>level,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>start<sp/>a<sp/>new<sp/>self-contained<sp/>list,<sp/>with<sp/>a<sp/>deeper<sp/>indent,<sp/>at<sp/>the<sp/>current<sp/>item<sp/>of<sp/>the<sp/>first<sp/>list<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ListIndent();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>builder-&gt;get_ListFormat()-&gt;get_ListLevelNumber());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>are<sp/>the<sp/>first<sp/>three<sp/>list<sp/>items<sp/>of<sp/>the<sp/>second<sp/>list<sp/>level,<sp/>which<sp/>will<sp/>maintain<sp/>a<sp/>count</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>independent<sp/>of<sp/>the<sp/>count<sp/>of<sp/>the<sp/>first<sp/>list<sp/>level.<sp/>According<sp/>to<sp/>the<sp/>current<sp/>list<sp/>format,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>they<sp/>will<sp/>have<sp/>symbols<sp/>of<sp/>&quot;a.&quot;,<sp/>&quot;b.&quot;,<sp/>and<sp/>&quot;c.&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;DOC&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;PDF&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;HTML&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Call<sp/>the<sp/>&quot;ListOutdent&quot;<sp/>method<sp/>to<sp/>return<sp/>to<sp/>the<sp/>previous<sp/>list<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ListOutdent();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>builder-&gt;get_ListFormat()-&gt;get_ListLevelNumber());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>two<sp/>paragraphs<sp/>will<sp/>continue<sp/>the<sp/>count<sp/>of<sp/>the<sp/>first<sp/>list<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>items<sp/>will<sp/>have<sp/>symbols<sp/>of<sp/>&quot;2.&quot;,<sp/>and<sp/>&quot;3.&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Processing<sp/>documents&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Saving<sp/>documents<sp/>in<sp/>different<sp/>formats:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>increase<sp/>the<sp/>list<sp/>level<sp/>to<sp/>a<sp/>level<sp/>that<sp/>we<sp/>have<sp/>added<sp/>items<sp/>to<sp/>previously,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>nested<sp/>list<sp/>will<sp/>be<sp/>separate<sp/>from<sp/>the<sp/>previous,<sp/>and<sp/>its<sp/>numbering<sp/>will<sp/>start<sp/>from<sp/>the<sp/>beginning.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>list<sp/>items<sp/>will<sp/>have<sp/>symbols<sp/>of<sp/>&quot;a.&quot;,<sp/>&quot;b.&quot;,<sp/>&quot;c.&quot;,<sp/>&quot;d.&quot;,<sp/>and<sp/>&quot;e&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ListIndent();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;DOC&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;PDF&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;HTML&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;MHTML&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Plain<sp/>text&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Outdent<sp/>the<sp/>list<sp/>level<sp/>again.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ListOutdent();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Doing<sp/>many<sp/>other<sp/>things!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>End<sp/>the<sp/>numbered<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;RemoveNumbers();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Lists.ApplyDefaultBulletsAndNumbers.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Lists/ListFormat.h" line="612" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a06f7259fd257284d424efdcf35abadaf" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Lists::ListFormat::ApplyNumberDefault</definition>
+        <argsstring>()</argsstring>
+        <name>ApplyNumberDefault</name>
+        <qualifiedname>Aspose::Words::Lists::ListFormat::ApplyNumberDefault</qualifiedname>
+        <briefdescription>
+<para>Starts a new default numbered list and applies it to the paragraph. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This is a shortcut method that creates a new list using the default numbered template, applies it to the paragraph and selects the 1st list level.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1ab0d0047a81fecf98d4a7ee244d7bbee9" kindref="member">Aspose::Words::Lists::ListFormat::get_List</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a29b4de98987b94ae64a97413e9c30f18" kindref="member">Aspose::Words::Lists::ListFormat::RemoveNumbers</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a4b00ca0e0adf9904069256dd46bd552b" kindref="member">Aspose::Words::Lists::ListFormat::get_ListLevelNumber</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create bulleted and numbered lists. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Aspose.Words<sp/>main<sp/>advantages<sp/>are:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>list<sp/>allows<sp/>us<sp/>to<sp/>organize<sp/>and<sp/>decorate<sp/>sets<sp/>of<sp/>paragraphs<sp/>with<sp/>prefix<sp/>symbols<sp/>and<sp/>indents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>create<sp/>nested<sp/>lists<sp/>by<sp/>increasing<sp/>the<sp/>indent<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>begin<sp/>and<sp/>end<sp/>a<sp/>list<sp/>by<sp/>using<sp/>a<sp/>document<sp/>builder&apos;s<sp/>&quot;ListFormat&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>paragraph<sp/>that<sp/>we<sp/>add<sp/>between<sp/>a<sp/>list&apos;s<sp/>start<sp/>and<sp/>the<sp/>end<sp/>will<sp/>become<sp/>an<sp/>item<sp/>in<sp/>the<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>types<sp/>of<sp/>lists<sp/>that<sp/>we<sp/>can<sp/>create<sp/>with<sp/>a<sp/>document<sp/>builder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>A<sp/>bulleted<sp/>list:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>list<sp/>will<sp/>apply<sp/>an<sp/>indent<sp/>and<sp/>a<sp/>bullet<sp/>symbol<sp/>(&quot;•&quot;)<sp/>before<sp/>each<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ApplyBulletDefault();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Great<sp/>performance&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;High<sp/>reliability&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Quality<sp/>code<sp/>and<sp/>working&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Wide<sp/>variety<sp/>of<sp/>features&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Easy<sp/>to<sp/>understand<sp/>API&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>End<sp/>the<sp/>bulleted<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;RemoveNumbers();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eac3316c9c335ce5fa8638df2fc5d518d4" kindref="member" tooltip="Break between paragraphs.">BreakType::ParagraphBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Aspose.Words<sp/>allows:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>A<sp/>numbered<sp/>list:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Numbered<sp/>lists<sp/>create<sp/>a<sp/>logical<sp/>order<sp/>for<sp/>their<sp/>paragraphs<sp/>by<sp/>numbering<sp/>each<sp/>item.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ApplyNumberDefault();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>paragraph<sp/>is<sp/>the<sp/>first<sp/>item.<sp/>The<sp/>first<sp/>item<sp/>of<sp/>a<sp/>numbered<sp/>list<sp/>will<sp/>have<sp/>a<sp/>&quot;1.&quot;<sp/>as<sp/>its<sp/>list<sp/>item<sp/>symbol.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Opening<sp/>documents<sp/>from<sp/>different<sp/>formats:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>builder-&gt;get_ListFormat()-&gt;get_ListLevelNumber());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Call<sp/>the<sp/>&quot;ListIndent&quot;<sp/>method<sp/>to<sp/>increase<sp/>the<sp/>current<sp/>list<sp/>level,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>start<sp/>a<sp/>new<sp/>self-contained<sp/>list,<sp/>with<sp/>a<sp/>deeper<sp/>indent,<sp/>at<sp/>the<sp/>current<sp/>item<sp/>of<sp/>the<sp/>first<sp/>list<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ListIndent();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>builder-&gt;get_ListFormat()-&gt;get_ListLevelNumber());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>are<sp/>the<sp/>first<sp/>three<sp/>list<sp/>items<sp/>of<sp/>the<sp/>second<sp/>list<sp/>level,<sp/>which<sp/>will<sp/>maintain<sp/>a<sp/>count</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>independent<sp/>of<sp/>the<sp/>count<sp/>of<sp/>the<sp/>first<sp/>list<sp/>level.<sp/>According<sp/>to<sp/>the<sp/>current<sp/>list<sp/>format,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>they<sp/>will<sp/>have<sp/>symbols<sp/>of<sp/>&quot;a.&quot;,<sp/>&quot;b.&quot;,<sp/>and<sp/>&quot;c.&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;DOC&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;PDF&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;HTML&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Call<sp/>the<sp/>&quot;ListOutdent&quot;<sp/>method<sp/>to<sp/>return<sp/>to<sp/>the<sp/>previous<sp/>list<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ListOutdent();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>builder-&gt;get_ListFormat()-&gt;get_ListLevelNumber());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>two<sp/>paragraphs<sp/>will<sp/>continue<sp/>the<sp/>count<sp/>of<sp/>the<sp/>first<sp/>list<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>items<sp/>will<sp/>have<sp/>symbols<sp/>of<sp/>&quot;2.&quot;,<sp/>and<sp/>&quot;3.&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Processing<sp/>documents&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Saving<sp/>documents<sp/>in<sp/>different<sp/>formats:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>increase<sp/>the<sp/>list<sp/>level<sp/>to<sp/>a<sp/>level<sp/>that<sp/>we<sp/>have<sp/>added<sp/>items<sp/>to<sp/>previously,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>nested<sp/>list<sp/>will<sp/>be<sp/>separate<sp/>from<sp/>the<sp/>previous,<sp/>and<sp/>its<sp/>numbering<sp/>will<sp/>start<sp/>from<sp/>the<sp/>beginning.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>list<sp/>items<sp/>will<sp/>have<sp/>symbols<sp/>of<sp/>&quot;a.&quot;,<sp/>&quot;b.&quot;,<sp/>&quot;c.&quot;,<sp/>&quot;d.&quot;,<sp/>and<sp/>&quot;e&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ListIndent();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;DOC&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;PDF&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;HTML&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;MHTML&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Plain<sp/>text&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Outdent<sp/>the<sp/>list<sp/>level<sp/>again.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ListOutdent();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Doing<sp/>many<sp/>other<sp/>things!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>End<sp/>the<sp/>numbered<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;RemoveNumbers();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Lists.ApplyDefaultBulletsAndNumbers.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Lists/ListFormat.h" line="703" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a55e271e3c65b219f03f6f271d08048a2" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Lists::ListFormat::get_IsListItem</definition>
+        <argsstring>()</argsstring>
+        <name>get_IsListItem</name>
+        <qualifiedname>Aspose::Words::Lists::ListFormat::get_IsListItem</qualifiedname>
+        <briefdescription>
+<para>True when the paragraph has bulleted or numbered formatting applied to it. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with list levels. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(builder-&gt;get_ListFormat()-&gt;get_IsListItem());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>list<sp/>allows<sp/>us<sp/>to<sp/>organize<sp/>and<sp/>decorate<sp/>sets<sp/>of<sp/>paragraphs<sp/>with<sp/>prefix<sp/>symbols<sp/>and<sp/>indents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>create<sp/>nested<sp/>lists<sp/>by<sp/>increasing<sp/>the<sp/>indent<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>begin<sp/>and<sp/>end<sp/>a<sp/>list<sp/>by<sp/>using<sp/>a<sp/>document<sp/>builder&apos;s<sp/>&quot;ListFormat&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>paragraph<sp/>that<sp/>we<sp/>add<sp/>between<sp/>a<sp/>list&apos;s<sp/>start<sp/>and<sp/>the<sp/>end<sp/>will<sp/>become<sp/>an<sp/>item<sp/>in<sp/>the<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>types<sp/>of<sp/>lists<sp/>that<sp/>we<sp/>can<sp/>create<sp/>using<sp/>a<sp/>document<sp/>builder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>A<sp/>numbered<sp/>list:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Numbered<sp/>lists<sp/>create<sp/>a<sp/>logical<sp/>order<sp/>for<sp/>their<sp/>paragraphs<sp/>by<sp/>numbering<sp/>each<sp/>item.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(doc-&gt;get_Lists()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8ada57879220b36b005040009bf65f236c" kindref="member" tooltip="Default numbered list with 9 levels. Arabic numbering (1., 2., 3., ...) for the first level,...">ListTemplate::NumberDefault</ref>));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(builder-&gt;get_ListFormat()-&gt;get_IsListItem());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>By<sp/>setting<sp/>the<sp/>&quot;ListLevelNumber&quot;<sp/>property,<sp/>we<sp/>can<sp/>increase<sp/>the<sp/>list<sp/>level</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>begin<sp/>a<sp/>self-contained<sp/>sub-list<sp/>at<sp/>the<sp/>current<sp/>list<sp/>item.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>Microsoft<sp/>Word<sp/>list<sp/>template<sp/>called<sp/>&quot;NumberDefault&quot;<sp/>uses<sp/>numbers<sp/>to<sp/>create<sp/>list<sp/>levels<sp/>for<sp/>the<sp/>first<sp/>list<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Deeper<sp/>list<sp/>levels<sp/>use<sp/>letters<sp/>and<sp/>lowercase<sp/>Roman<sp/>numerals.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>9;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_ListFormat()-&gt;set_ListLevelNumber(i);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Level<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>i);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>A<sp/>bulleted<sp/>list:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>list<sp/>will<sp/>apply<sp/>an<sp/>indent<sp/>and<sp/>a<sp/>bullet<sp/>symbol<sp/>(&quot;•&quot;)<sp/>before<sp/>each<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Deeper<sp/>levels<sp/>of<sp/>this<sp/>list<sp/>will<sp/>use<sp/>different<sp/>symbols,<sp/>such<sp/>as<sp/>&quot;■&quot;<sp/>and<sp/>&quot;○&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(doc-&gt;get_Lists()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8a37308d182b67d940f81ad431fba3f302" kindref="member" tooltip="Default bulleted list with 9 levels. Bullet of the first level is a disc, bullet of the second level ...">ListTemplate::BulletDefault</ref>));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>9;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_ListFormat()-&gt;set_ListLevelNumber(i);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Level<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>i);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>disable<sp/>list<sp/>formatting<sp/>to<sp/>not<sp/>format<sp/>any<sp/>subsequent<sp/>paragraphs<sp/>as<sp/>lists<sp/>by<sp/>un-setting<sp/>the<sp/>&quot;List&quot;<sp/>flag.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(</highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(builder-&gt;get_ListFormat()-&gt;get_IsListItem());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Lists.SpecifyListLevel.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to output all paragraphs in a document that are list items. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ApplyNumberDefault();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Numbered<sp/>list<sp/>item<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Numbered<sp/>list<sp/>item<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Numbered<sp/>list<sp/>item<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;RemoveNumbers();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ApplyBulletDefault();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Bulleted<sp/>list<sp/>item<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Bulleted<sp/>list<sp/>item<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Bulleted<sp/>list<sp/>item<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;RemoveNumbers();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;NodeCollection&gt;<sp/>paras<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>para<sp/>:<sp/>System::IterateOver(</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>paras-&gt;LINQ_OfType&lt;SharedPtr&lt;Paragraph&gt;&gt;()-&gt;LINQ_Where([](SharedPtr&lt;Paragraph&gt;<sp/>p)<sp/>{<sp/>return<sp/>p-&gt;get_ListFormat()-&gt;get_IsListItem();<sp/>})))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;This<sp/>paragraph<sp/>belongs<sp/>to<sp/>list<sp/>ID#<sp/>{0},<sp/>number<sp/>style<sp/>\&quot;{1}\&quot;&quot;</highlight><highlight class="normal">,<sp/>para-&gt;get_ListFormat()-&gt;get_List()-&gt;get_ListId(),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>para-&gt;get_ListFormat()-&gt;get_ListLevel()-&gt;get_NumberStyle())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\t\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>para-&gt;GetText().Trim()<sp/>&lt;&lt;<sp/></highlight><highlight class="stringliteral">&quot;\&quot;&quot;</highlight><highlight class="normal"><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Lists/ListFormat.h" line="349" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_lists_1_1_list_format_1ab0d0047a81fecf98d4a7ee244d7bbee9" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list" kindref="compound">Aspose::Words::Lists::List</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Lists::List &gt; Aspose::Words::Lists::ListFormat::get_List</definition>
+        <argsstring>()</argsstring>
+        <name>get_List</name>
+        <qualifiedname>Aspose::Words::Lists::ListFormat::get_List</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the list this paragraph is a member of. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The list that is being assigned to this property must belong to the current document.</para>
+<para>The list that is being assigned to this property must not be a list style definition.</para>
+<para>Setting this property to null removes bullets and numbering from the paragraph and sets the list level number to zero. Setting this property to null is equivalent to calling <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a29b4de98987b94ae64a97413e9c30f18" kindref="member">RemoveNumbers</ref>.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a4b00ca0e0adf9904069256dd46bd552b" kindref="member">Aspose::Words::Lists::ListFormat::get_ListLevelNumber</ref> </para>
+</simplesect>
+<simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a29b4de98987b94ae64a97413e9c30f18" kindref="member">Aspose::Words::Lists::ListFormat::RemoveNumbers</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with list levels. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(builder-&gt;get_ListFormat()-&gt;get_IsListItem());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>list<sp/>allows<sp/>us<sp/>to<sp/>organize<sp/>and<sp/>decorate<sp/>sets<sp/>of<sp/>paragraphs<sp/>with<sp/>prefix<sp/>symbols<sp/>and<sp/>indents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>create<sp/>nested<sp/>lists<sp/>by<sp/>increasing<sp/>the<sp/>indent<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>begin<sp/>and<sp/>end<sp/>a<sp/>list<sp/>by<sp/>using<sp/>a<sp/>document<sp/>builder&apos;s<sp/>&quot;ListFormat&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>paragraph<sp/>that<sp/>we<sp/>add<sp/>between<sp/>a<sp/>list&apos;s<sp/>start<sp/>and<sp/>the<sp/>end<sp/>will<sp/>become<sp/>an<sp/>item<sp/>in<sp/>the<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>types<sp/>of<sp/>lists<sp/>that<sp/>we<sp/>can<sp/>create<sp/>using<sp/>a<sp/>document<sp/>builder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>A<sp/>numbered<sp/>list:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Numbered<sp/>lists<sp/>create<sp/>a<sp/>logical<sp/>order<sp/>for<sp/>their<sp/>paragraphs<sp/>by<sp/>numbering<sp/>each<sp/>item.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(doc-&gt;get_Lists()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8ada57879220b36b005040009bf65f236c" kindref="member" tooltip="Default numbered list with 9 levels. Arabic numbering (1., 2., 3., ...) for the first level,...">ListTemplate::NumberDefault</ref>));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(builder-&gt;get_ListFormat()-&gt;get_IsListItem());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>By<sp/>setting<sp/>the<sp/>&quot;ListLevelNumber&quot;<sp/>property,<sp/>we<sp/>can<sp/>increase<sp/>the<sp/>list<sp/>level</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>begin<sp/>a<sp/>self-contained<sp/>sub-list<sp/>at<sp/>the<sp/>current<sp/>list<sp/>item.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>Microsoft<sp/>Word<sp/>list<sp/>template<sp/>called<sp/>&quot;NumberDefault&quot;<sp/>uses<sp/>numbers<sp/>to<sp/>create<sp/>list<sp/>levels<sp/>for<sp/>the<sp/>first<sp/>list<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Deeper<sp/>list<sp/>levels<sp/>use<sp/>letters<sp/>and<sp/>lowercase<sp/>Roman<sp/>numerals.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>9;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_ListFormat()-&gt;set_ListLevelNumber(i);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Level<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>i);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>A<sp/>bulleted<sp/>list:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>list<sp/>will<sp/>apply<sp/>an<sp/>indent<sp/>and<sp/>a<sp/>bullet<sp/>symbol<sp/>(&quot;•&quot;)<sp/>before<sp/>each<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Deeper<sp/>levels<sp/>of<sp/>this<sp/>list<sp/>will<sp/>use<sp/>different<sp/>symbols,<sp/>such<sp/>as<sp/>&quot;■&quot;<sp/>and<sp/>&quot;○&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(doc-&gt;get_Lists()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8a37308d182b67d940f81ad431fba3f302" kindref="member" tooltip="Default bulleted list with 9 levels. Bullet of the first level is a disc, bullet of the second level ...">ListTemplate::BulletDefault</ref>));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>9;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_ListFormat()-&gt;set_ListLevelNumber(i);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Level<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>i);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>disable<sp/>list<sp/>formatting<sp/>to<sp/>not<sp/>format<sp/>any<sp/>subsequent<sp/>paragraphs<sp/>as<sp/>lists<sp/>by<sp/>un-setting<sp/>the<sp/>&quot;List&quot;<sp/>flag.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(</highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(builder-&gt;get_ListFormat()-&gt;get_IsListItem());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Lists.SpecifyListLevel.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to nest a list inside another list. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>list<sp/>allows<sp/>us<sp/>to<sp/>organize<sp/>and<sp/>decorate<sp/>sets<sp/>of<sp/>paragraphs<sp/>with<sp/>prefix<sp/>symbols<sp/>and<sp/>indents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>create<sp/>nested<sp/>lists<sp/>by<sp/>increasing<sp/>the<sp/>indent<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>begin<sp/>and<sp/>end<sp/>a<sp/>list<sp/>by<sp/>using<sp/>a<sp/>document<sp/>builder&apos;s<sp/>&quot;ListFormat&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>paragraph<sp/>that<sp/>we<sp/>add<sp/>between<sp/>a<sp/>list&apos;s<sp/>start<sp/>and<sp/>the<sp/>end<sp/>will<sp/>become<sp/>an<sp/>item<sp/>in<sp/>the<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>an<sp/>outline<sp/>list<sp/>for<sp/>the<sp/>headings.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;List&gt;<sp/>outlineList<sp/>=<sp/>doc-&gt;get_Lists()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8a79c8fbef58bd01f6cd9a3087e41a3aa4" kindref="member" tooltip="An outline list with levels numbered &quot;1), a), i), (1), (a), (i), 1., a., i.&quot;. Corresponds to the 1st ...">ListTemplate::OutlineNumbers</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(outlineList);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_StyleIdentifier(<ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a87f33c2e9209edfc0333a264ec3085a2" kindref="member" tooltip="The Heading 1 style.">StyleIdentifier::Heading1</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>my<sp/>Chapter<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>numbered<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;List&gt;<sp/>numberedList<sp/>=<sp/>doc-&gt;get_Lists()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8ada57879220b36b005040009bf65f236c" kindref="member" tooltip="Default numbered list with 9 levels. Arabic numbering (1., 2., 3., ...) for the first level,...">ListTemplate::NumberDefault</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(numberedList);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_StyleIdentifier(<ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a960b44c579bc2f6818d2daaf9e4c16f0" kindref="member" tooltip="The Normal style.">StyleIdentifier::Normal</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Numbered<sp/>list<sp/>item<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Every<sp/>paragraph<sp/>that<sp/>comprises<sp/>a<sp/>list<sp/>will<sp/>have<sp/>this<sp/>flag.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(builder-&gt;get_CurrentParagraph()-&gt;get_IsListItem());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(builder-&gt;get_ParagraphFormat()-&gt;get_IsListItem());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>bulleted<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;List&gt;<sp/>bulletedList<sp/>=<sp/>doc-&gt;get_Lists()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8a37308d182b67d940f81ad431fba3f302" kindref="member" tooltip="Default bulleted list with 9 levels. Bullet of the first level is a disc, bullet of the second level ...">ListTemplate::BulletDefault</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(bulletedList);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_LeftIndent(72);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Bulleted<sp/>list<sp/>item<sp/>1.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Bulleted<sp/>list<sp/>item<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;ClearFormatting();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Revert<sp/>to<sp/>the<sp/>numbered<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(numberedList);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Numbered<sp/>list<sp/>item<sp/>2.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Numbered<sp/>list<sp/>item<sp/>3.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Revert<sp/>to<sp/>the<sp/>outline<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(outlineList);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_StyleIdentifier(<ref refid="namespace_aspose_1_1_words_1abffb83b9a70f034f432216a95d8ded34a87f33c2e9209edfc0333a264ec3085a2" kindref="member" tooltip="The Heading 1 style.">StyleIdentifier::Heading1</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;This<sp/>is<sp/>my<sp/>Chapter<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;ClearFormatting();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Document()-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Lists.NestedLists.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Lists/ListFormat.h" line="460" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a6977471233e9a85e29ce0ea902e4d48f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_level" kindref="compound">Aspose::Words::Lists::ListLevel</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Lists::ListLevel &gt; Aspose::Words::Lists::ListFormat::get_ListLevel</definition>
+        <argsstring>()</argsstring>
+        <name>get_ListLevel</name>
+        <qualifiedname>Aspose::Words::Lists::ListFormat::get_ListLevel</qualifiedname>
+        <briefdescription>
+<para>Returns the list level formatting plus any formatting overrides applied to the current paragraph. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to apply custom list formatting to paragraphs when using <ref refid="class_aspose_1_1_words_1_1_document_builder" kindref="compound">DocumentBuilder</ref>. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>list<sp/>allows<sp/>us<sp/>to<sp/>organize<sp/>and<sp/>decorate<sp/>sets<sp/>of<sp/>paragraphs<sp/>with<sp/>prefix<sp/>symbols<sp/>and<sp/>indents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>create<sp/>nested<sp/>lists<sp/>by<sp/>increasing<sp/>the<sp/>indent<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>begin<sp/>and<sp/>end<sp/>a<sp/>list<sp/>by<sp/>using<sp/>a<sp/>document<sp/>builder&apos;s<sp/>&quot;ListFormat&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>paragraph<sp/>that<sp/>we<sp/>add<sp/>between<sp/>a<sp/>list&apos;s<sp/>start<sp/>and<sp/>the<sp/>end<sp/>will<sp/>become<sp/>an<sp/>item<sp/>in<sp/>the<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>list<sp/>from<sp/>a<sp/>Microsoft<sp/>Word<sp/>template,<sp/>and<sp/>customize<sp/>the<sp/>first<sp/>two<sp/>of<sp/>its<sp/>list<sp/>levels.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;List&gt;<sp/>list<sp/>=<sp/>doc-&gt;get_Lists()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8ada57879220b36b005040009bf65f236c" kindref="member" tooltip="Default numbered list with 9 levels. Arabic numbering (1., 2., 3., ...) for the first level,...">ListTemplate::NumberDefault</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;ListLevel&gt;<sp/>listLevel<sp/>=<sp/>list-&gt;get_ListLevels()-&gt;idx_get(0);</highlight></codeline>
+<codeline><highlight class="normal">listLevel-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal">listLevel-&gt;get_Font()-&gt;set_Size(24);</highlight></codeline>
+<codeline><highlight class="normal">listLevel-&gt;set_NumberStyle(<ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da831fd2c8a4c8c9dd50d5fbb28fc39cb9" kindref="member" tooltip="Ordinal (text) (First, Second, Third, ...)">NumberStyle::OrdinalText</ref>);</highlight></codeline>
+<codeline><highlight class="normal">listLevel-&gt;set_StartAt(21);</highlight></codeline>
+<codeline><highlight class="normal">listLevel-&gt;set_NumberFormat(u</highlight><highlight class="stringliteral">&quot;\x0000&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listLevel-&gt;set_NumberPosition(-36);</highlight></codeline>
+<codeline><highlight class="normal">listLevel-&gt;set_TextPosition(144);</highlight></codeline>
+<codeline><highlight class="normal">listLevel-&gt;set_TabPosition(144);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listLevel<sp/>=<sp/>list-&gt;get_ListLevels()-&gt;idx_get(1);</highlight></codeline>
+<codeline><highlight class="normal">listLevel-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1_1_lists_1a4cd5df47cac2445a5ab0b23a415229e2a92b09c7c48c520c3c55e497875da437c" kindref="member" tooltip="This list label is aligned to the right of the number position.">ListLevelAlignment::Right</ref>);</highlight></codeline>
+<codeline><highlight class="normal">listLevel-&gt;set_NumberStyle(<ref refid="namespace_aspose_1_1_words_1a078bfff76cf8186d8eb7ea66d94ab89da7533f96ec01fd81438833f71539c7d4e" kindref="member" tooltip="Bullet (check the character code in the text)">NumberStyle::Bullet</ref>);</highlight></codeline>
+<codeline><highlight class="normal">listLevel-&gt;get_Font()-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Wingdings&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">listLevel-&gt;get_Font()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal">listLevel-&gt;get_Font()-&gt;set_Size(24);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>NumberFormat<sp/>value<sp/>will<sp/>create<sp/>star-shaped<sp/>bullet<sp/>list<sp/>symbols.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">listLevel-&gt;set_NumberFormat(u</highlight><highlight class="stringliteral">&quot;\xf0af&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">listLevel-&gt;set_TrailingCharacter(<ref refid="namespace_aspose_1_1_words_1_1_lists_1a10218d31830e70cded7cf262f5a9db0bad511f8439ecde36647437fbba67a4394" kindref="member" tooltip="A space character is placed between the list label and text of the paragraph.">ListTrailingCharacter::Space</ref>);</highlight></codeline>
+<codeline><highlight class="normal">listLevel-&gt;set_NumberPosition(144);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>paragraphs<sp/>and<sp/>apply<sp/>both<sp/>list<sp/>levels<sp/>of<sp/>our<sp/>custom<sp/>list<sp/>formatting<sp/>to<sp/>them.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(list);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;The<sp/>quick<sp/>brown<sp/>fox...&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;The<sp/>quick<sp/>brown<sp/>fox...&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ListIndent();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;jumped<sp/>over<sp/>the<sp/>lazy<sp/>dog.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;jumped<sp/>over<sp/>the<sp/>lazy<sp/>dog.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ListOutdent();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;The<sp/>quick<sp/>brown<sp/>fox...&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;RemoveNumbers();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_Document()-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Lists.CreateCustomList.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Lists/ListFormat.h" line="521" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a4b00ca0e0adf9904069256dd46bd552b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Lists::ListFormat::get_ListLevelNumber</definition>
+        <argsstring>()</argsstring>
+        <name>get_ListLevelNumber</name>
+        <qualifiedname>Aspose::Words::Lists::ListFormat::get_ListLevelNumber</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the list level number (0 to 8) for the paragraph. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>In Word documents, lists may consist of 1 or 9 levels, numbered 0 to 8.</para>
+<para>Has effect only when the <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1ab0d0047a81fecf98d4a7ee244d7bbee9" kindref="member">List</ref> property is set to reference a valid list.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1ab0d0047a81fecf98d4a7ee244d7bbee9" kindref="member">Aspose::Words::Lists::ListFormat::get_List</ref></para>
+</simplesect>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create bulleted and numbered lists. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Aspose.Words<sp/>main<sp/>advantages<sp/>are:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>list<sp/>allows<sp/>us<sp/>to<sp/>organize<sp/>and<sp/>decorate<sp/>sets<sp/>of<sp/>paragraphs<sp/>with<sp/>prefix<sp/>symbols<sp/>and<sp/>indents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>create<sp/>nested<sp/>lists<sp/>by<sp/>increasing<sp/>the<sp/>indent<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>begin<sp/>and<sp/>end<sp/>a<sp/>list<sp/>by<sp/>using<sp/>a<sp/>document<sp/>builder&apos;s<sp/>&quot;ListFormat&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>paragraph<sp/>that<sp/>we<sp/>add<sp/>between<sp/>a<sp/>list&apos;s<sp/>start<sp/>and<sp/>the<sp/>end<sp/>will<sp/>become<sp/>an<sp/>item<sp/>in<sp/>the<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>types<sp/>of<sp/>lists<sp/>that<sp/>we<sp/>can<sp/>create<sp/>with<sp/>a<sp/>document<sp/>builder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>A<sp/>bulleted<sp/>list:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>list<sp/>will<sp/>apply<sp/>an<sp/>indent<sp/>and<sp/>a<sp/>bullet<sp/>symbol<sp/>(&quot;•&quot;)<sp/>before<sp/>each<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ApplyBulletDefault();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Great<sp/>performance&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;High<sp/>reliability&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Quality<sp/>code<sp/>and<sp/>working&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Wide<sp/>variety<sp/>of<sp/>features&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Easy<sp/>to<sp/>understand<sp/>API&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>End<sp/>the<sp/>bulleted<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;RemoveNumbers();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eac3316c9c335ce5fa8638df2fc5d518d4" kindref="member" tooltip="Break between paragraphs.">BreakType::ParagraphBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Aspose.Words<sp/>allows:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>A<sp/>numbered<sp/>list:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Numbered<sp/>lists<sp/>create<sp/>a<sp/>logical<sp/>order<sp/>for<sp/>their<sp/>paragraphs<sp/>by<sp/>numbering<sp/>each<sp/>item.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ApplyNumberDefault();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>paragraph<sp/>is<sp/>the<sp/>first<sp/>item.<sp/>The<sp/>first<sp/>item<sp/>of<sp/>a<sp/>numbered<sp/>list<sp/>will<sp/>have<sp/>a<sp/>&quot;1.&quot;<sp/>as<sp/>its<sp/>list<sp/>item<sp/>symbol.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Opening<sp/>documents<sp/>from<sp/>different<sp/>formats:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>builder-&gt;get_ListFormat()-&gt;get_ListLevelNumber());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Call<sp/>the<sp/>&quot;ListIndent&quot;<sp/>method<sp/>to<sp/>increase<sp/>the<sp/>current<sp/>list<sp/>level,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>start<sp/>a<sp/>new<sp/>self-contained<sp/>list,<sp/>with<sp/>a<sp/>deeper<sp/>indent,<sp/>at<sp/>the<sp/>current<sp/>item<sp/>of<sp/>the<sp/>first<sp/>list<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ListIndent();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>builder-&gt;get_ListFormat()-&gt;get_ListLevelNumber());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>are<sp/>the<sp/>first<sp/>three<sp/>list<sp/>items<sp/>of<sp/>the<sp/>second<sp/>list<sp/>level,<sp/>which<sp/>will<sp/>maintain<sp/>a<sp/>count</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>independent<sp/>of<sp/>the<sp/>count<sp/>of<sp/>the<sp/>first<sp/>list<sp/>level.<sp/>According<sp/>to<sp/>the<sp/>current<sp/>list<sp/>format,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>they<sp/>will<sp/>have<sp/>symbols<sp/>of<sp/>&quot;a.&quot;,<sp/>&quot;b.&quot;,<sp/>and<sp/>&quot;c.&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;DOC&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;PDF&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;HTML&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Call<sp/>the<sp/>&quot;ListOutdent&quot;<sp/>method<sp/>to<sp/>return<sp/>to<sp/>the<sp/>previous<sp/>list<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ListOutdent();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>builder-&gt;get_ListFormat()-&gt;get_ListLevelNumber());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>two<sp/>paragraphs<sp/>will<sp/>continue<sp/>the<sp/>count<sp/>of<sp/>the<sp/>first<sp/>list<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>items<sp/>will<sp/>have<sp/>symbols<sp/>of<sp/>&quot;2.&quot;,<sp/>and<sp/>&quot;3.&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Processing<sp/>documents&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Saving<sp/>documents<sp/>in<sp/>different<sp/>formats:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>increase<sp/>the<sp/>list<sp/>level<sp/>to<sp/>a<sp/>level<sp/>that<sp/>we<sp/>have<sp/>added<sp/>items<sp/>to<sp/>previously,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>nested<sp/>list<sp/>will<sp/>be<sp/>separate<sp/>from<sp/>the<sp/>previous,<sp/>and<sp/>its<sp/>numbering<sp/>will<sp/>start<sp/>from<sp/>the<sp/>beginning.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>list<sp/>items<sp/>will<sp/>have<sp/>symbols<sp/>of<sp/>&quot;a.&quot;,<sp/>&quot;b.&quot;,<sp/>&quot;c.&quot;,<sp/>&quot;d.&quot;,<sp/>and<sp/>&quot;e&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ListIndent();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;DOC&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;PDF&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;HTML&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;MHTML&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Plain<sp/>text&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Outdent<sp/>the<sp/>list<sp/>level<sp/>again.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ListOutdent();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Doing<sp/>many<sp/>other<sp/>things!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>End<sp/>the<sp/>numbered<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;RemoveNumbers();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Lists.ApplyDefaultBulletsAndNumbers.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to work with list levels. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(builder-&gt;get_ListFormat()-&gt;get_IsListItem());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>list<sp/>allows<sp/>us<sp/>to<sp/>organize<sp/>and<sp/>decorate<sp/>sets<sp/>of<sp/>paragraphs<sp/>with<sp/>prefix<sp/>symbols<sp/>and<sp/>indents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>create<sp/>nested<sp/>lists<sp/>by<sp/>increasing<sp/>the<sp/>indent<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>begin<sp/>and<sp/>end<sp/>a<sp/>list<sp/>by<sp/>using<sp/>a<sp/>document<sp/>builder&apos;s<sp/>&quot;ListFormat&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>paragraph<sp/>that<sp/>we<sp/>add<sp/>between<sp/>a<sp/>list&apos;s<sp/>start<sp/>and<sp/>the<sp/>end<sp/>will<sp/>become<sp/>an<sp/>item<sp/>in<sp/>the<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>types<sp/>of<sp/>lists<sp/>that<sp/>we<sp/>can<sp/>create<sp/>using<sp/>a<sp/>document<sp/>builder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>A<sp/>numbered<sp/>list:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Numbered<sp/>lists<sp/>create<sp/>a<sp/>logical<sp/>order<sp/>for<sp/>their<sp/>paragraphs<sp/>by<sp/>numbering<sp/>each<sp/>item.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(doc-&gt;get_Lists()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8ada57879220b36b005040009bf65f236c" kindref="member" tooltip="Default numbered list with 9 levels. Arabic numbering (1., 2., 3., ...) for the first level,...">ListTemplate::NumberDefault</ref>));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(builder-&gt;get_ListFormat()-&gt;get_IsListItem());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>By<sp/>setting<sp/>the<sp/>&quot;ListLevelNumber&quot;<sp/>property,<sp/>we<sp/>can<sp/>increase<sp/>the<sp/>list<sp/>level</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>begin<sp/>a<sp/>self-contained<sp/>sub-list<sp/>at<sp/>the<sp/>current<sp/>list<sp/>item.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>Microsoft<sp/>Word<sp/>list<sp/>template<sp/>called<sp/>&quot;NumberDefault&quot;<sp/>uses<sp/>numbers<sp/>to<sp/>create<sp/>list<sp/>levels<sp/>for<sp/>the<sp/>first<sp/>list<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Deeper<sp/>list<sp/>levels<sp/>use<sp/>letters<sp/>and<sp/>lowercase<sp/>Roman<sp/>numerals.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>9;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_ListFormat()-&gt;set_ListLevelNumber(i);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Level<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>i);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>A<sp/>bulleted<sp/>list:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>list<sp/>will<sp/>apply<sp/>an<sp/>indent<sp/>and<sp/>a<sp/>bullet<sp/>symbol<sp/>(&quot;•&quot;)<sp/>before<sp/>each<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Deeper<sp/>levels<sp/>of<sp/>this<sp/>list<sp/>will<sp/>use<sp/>different<sp/>symbols,<sp/>such<sp/>as<sp/>&quot;■&quot;<sp/>and<sp/>&quot;○&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(doc-&gt;get_Lists()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8a37308d182b67d940f81ad431fba3f302" kindref="member" tooltip="Default bulleted list with 9 levels. Bullet of the first level is a disc, bullet of the second level ...">ListTemplate::BulletDefault</ref>));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>9;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_ListFormat()-&gt;set_ListLevelNumber(i);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Level<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>i);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>disable<sp/>list<sp/>formatting<sp/>to<sp/>not<sp/>format<sp/>any<sp/>subsequent<sp/>paragraphs<sp/>as<sp/>lists<sp/>by<sp/>un-setting<sp/>the<sp/>&quot;List&quot;<sp/>flag.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(</highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(builder-&gt;get_ListFormat()-&gt;get_IsListItem());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Lists.SpecifyListLevel.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Lists/ListFormat.h" line="265" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a2ceebe79a03ba0b2549c517c1f988e34" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Lists::ListFormat::ListIndent</definition>
+        <argsstring>()</argsstring>
+        <name>ListIndent</name>
+        <qualifiedname>Aspose::Words::Lists::ListFormat::ListIndent</qualifiedname>
+        <briefdescription>
+<para>Increases the list level of the current paragraph by one level. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This method changes the list level and applies formatting properties of the new level.</para>
+<para>In Word documents, lists may consist of up to nine levels. <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list" kindref="compound">List</ref> formatting for each level specifies what bullet or number is used, left indent, space between the bullet and text etc.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create bulleted and numbered lists. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Aspose.Words<sp/>main<sp/>advantages<sp/>are:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>list<sp/>allows<sp/>us<sp/>to<sp/>organize<sp/>and<sp/>decorate<sp/>sets<sp/>of<sp/>paragraphs<sp/>with<sp/>prefix<sp/>symbols<sp/>and<sp/>indents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>create<sp/>nested<sp/>lists<sp/>by<sp/>increasing<sp/>the<sp/>indent<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>begin<sp/>and<sp/>end<sp/>a<sp/>list<sp/>by<sp/>using<sp/>a<sp/>document<sp/>builder&apos;s<sp/>&quot;ListFormat&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>paragraph<sp/>that<sp/>we<sp/>add<sp/>between<sp/>a<sp/>list&apos;s<sp/>start<sp/>and<sp/>the<sp/>end<sp/>will<sp/>become<sp/>an<sp/>item<sp/>in<sp/>the<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>types<sp/>of<sp/>lists<sp/>that<sp/>we<sp/>can<sp/>create<sp/>with<sp/>a<sp/>document<sp/>builder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>A<sp/>bulleted<sp/>list:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>list<sp/>will<sp/>apply<sp/>an<sp/>indent<sp/>and<sp/>a<sp/>bullet<sp/>symbol<sp/>(&quot;•&quot;)<sp/>before<sp/>each<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ApplyBulletDefault();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Great<sp/>performance&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;High<sp/>reliability&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Quality<sp/>code<sp/>and<sp/>working&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Wide<sp/>variety<sp/>of<sp/>features&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Easy<sp/>to<sp/>understand<sp/>API&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>End<sp/>the<sp/>bulleted<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;RemoveNumbers();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eac3316c9c335ce5fa8638df2fc5d518d4" kindref="member" tooltip="Break between paragraphs.">BreakType::ParagraphBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Aspose.Words<sp/>allows:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>A<sp/>numbered<sp/>list:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Numbered<sp/>lists<sp/>create<sp/>a<sp/>logical<sp/>order<sp/>for<sp/>their<sp/>paragraphs<sp/>by<sp/>numbering<sp/>each<sp/>item.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ApplyNumberDefault();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>paragraph<sp/>is<sp/>the<sp/>first<sp/>item.<sp/>The<sp/>first<sp/>item<sp/>of<sp/>a<sp/>numbered<sp/>list<sp/>will<sp/>have<sp/>a<sp/>&quot;1.&quot;<sp/>as<sp/>its<sp/>list<sp/>item<sp/>symbol.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Opening<sp/>documents<sp/>from<sp/>different<sp/>formats:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>builder-&gt;get_ListFormat()-&gt;get_ListLevelNumber());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Call<sp/>the<sp/>&quot;ListIndent&quot;<sp/>method<sp/>to<sp/>increase<sp/>the<sp/>current<sp/>list<sp/>level,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>start<sp/>a<sp/>new<sp/>self-contained<sp/>list,<sp/>with<sp/>a<sp/>deeper<sp/>indent,<sp/>at<sp/>the<sp/>current<sp/>item<sp/>of<sp/>the<sp/>first<sp/>list<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ListIndent();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>builder-&gt;get_ListFormat()-&gt;get_ListLevelNumber());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>are<sp/>the<sp/>first<sp/>three<sp/>list<sp/>items<sp/>of<sp/>the<sp/>second<sp/>list<sp/>level,<sp/>which<sp/>will<sp/>maintain<sp/>a<sp/>count</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>independent<sp/>of<sp/>the<sp/>count<sp/>of<sp/>the<sp/>first<sp/>list<sp/>level.<sp/>According<sp/>to<sp/>the<sp/>current<sp/>list<sp/>format,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>they<sp/>will<sp/>have<sp/>symbols<sp/>of<sp/>&quot;a.&quot;,<sp/>&quot;b.&quot;,<sp/>and<sp/>&quot;c.&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;DOC&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;PDF&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;HTML&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Call<sp/>the<sp/>&quot;ListOutdent&quot;<sp/>method<sp/>to<sp/>return<sp/>to<sp/>the<sp/>previous<sp/>list<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ListOutdent();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>builder-&gt;get_ListFormat()-&gt;get_ListLevelNumber());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>two<sp/>paragraphs<sp/>will<sp/>continue<sp/>the<sp/>count<sp/>of<sp/>the<sp/>first<sp/>list<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>items<sp/>will<sp/>have<sp/>symbols<sp/>of<sp/>&quot;2.&quot;,<sp/>and<sp/>&quot;3.&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Processing<sp/>documents&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Saving<sp/>documents<sp/>in<sp/>different<sp/>formats:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>increase<sp/>the<sp/>list<sp/>level<sp/>to<sp/>a<sp/>level<sp/>that<sp/>we<sp/>have<sp/>added<sp/>items<sp/>to<sp/>previously,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>nested<sp/>list<sp/>will<sp/>be<sp/>separate<sp/>from<sp/>the<sp/>previous,<sp/>and<sp/>its<sp/>numbering<sp/>will<sp/>start<sp/>from<sp/>the<sp/>beginning.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>list<sp/>items<sp/>will<sp/>have<sp/>symbols<sp/>of<sp/>&quot;a.&quot;,<sp/>&quot;b.&quot;,<sp/>&quot;c.&quot;,<sp/>&quot;d.&quot;,<sp/>and<sp/>&quot;e&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ListIndent();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;DOC&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;PDF&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;HTML&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;MHTML&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Plain<sp/>text&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Outdent<sp/>the<sp/>list<sp/>level<sp/>again.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ListOutdent();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Doing<sp/>many<sp/>other<sp/>things!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>End<sp/>the<sp/>numbered<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;RemoveNumbers();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Lists.ApplyDefaultBulletsAndNumbers.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Lists/ListFormat.h" line="902" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a9b7edf1c9b8167ee9409d6b083832c6d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Lists::ListFormat::ListOutdent</definition>
+        <argsstring>()</argsstring>
+        <name>ListOutdent</name>
+        <qualifiedname>Aspose::Words::Lists::ListFormat::ListOutdent</qualifiedname>
+        <briefdescription>
+<para>Decreases the list level of the current paragraph by one level. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This method changes the list level and applies formatting properties of the new level.</para>
+<para>In Word documents, lists may consist of up to nine levels. <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list" kindref="compound">List</ref> formatting for each level specifies what bullet or number is used, left indent, space between the bullet and text etc.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create bulleted and numbered lists. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Aspose.Words<sp/>main<sp/>advantages<sp/>are:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>list<sp/>allows<sp/>us<sp/>to<sp/>organize<sp/>and<sp/>decorate<sp/>sets<sp/>of<sp/>paragraphs<sp/>with<sp/>prefix<sp/>symbols<sp/>and<sp/>indents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>create<sp/>nested<sp/>lists<sp/>by<sp/>increasing<sp/>the<sp/>indent<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>begin<sp/>and<sp/>end<sp/>a<sp/>list<sp/>by<sp/>using<sp/>a<sp/>document<sp/>builder&apos;s<sp/>&quot;ListFormat&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>paragraph<sp/>that<sp/>we<sp/>add<sp/>between<sp/>a<sp/>list&apos;s<sp/>start<sp/>and<sp/>the<sp/>end<sp/>will<sp/>become<sp/>an<sp/>item<sp/>in<sp/>the<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>types<sp/>of<sp/>lists<sp/>that<sp/>we<sp/>can<sp/>create<sp/>with<sp/>a<sp/>document<sp/>builder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>A<sp/>bulleted<sp/>list:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>list<sp/>will<sp/>apply<sp/>an<sp/>indent<sp/>and<sp/>a<sp/>bullet<sp/>symbol<sp/>(&quot;•&quot;)<sp/>before<sp/>each<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ApplyBulletDefault();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Great<sp/>performance&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;High<sp/>reliability&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Quality<sp/>code<sp/>and<sp/>working&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Wide<sp/>variety<sp/>of<sp/>features&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Easy<sp/>to<sp/>understand<sp/>API&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>End<sp/>the<sp/>bulleted<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;RemoveNumbers();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eac3316c9c335ce5fa8638df2fc5d518d4" kindref="member" tooltip="Break between paragraphs.">BreakType::ParagraphBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Aspose.Words<sp/>allows:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>A<sp/>numbered<sp/>list:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Numbered<sp/>lists<sp/>create<sp/>a<sp/>logical<sp/>order<sp/>for<sp/>their<sp/>paragraphs<sp/>by<sp/>numbering<sp/>each<sp/>item.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ApplyNumberDefault();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>paragraph<sp/>is<sp/>the<sp/>first<sp/>item.<sp/>The<sp/>first<sp/>item<sp/>of<sp/>a<sp/>numbered<sp/>list<sp/>will<sp/>have<sp/>a<sp/>&quot;1.&quot;<sp/>as<sp/>its<sp/>list<sp/>item<sp/>symbol.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Opening<sp/>documents<sp/>from<sp/>different<sp/>formats:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>builder-&gt;get_ListFormat()-&gt;get_ListLevelNumber());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Call<sp/>the<sp/>&quot;ListIndent&quot;<sp/>method<sp/>to<sp/>increase<sp/>the<sp/>current<sp/>list<sp/>level,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>start<sp/>a<sp/>new<sp/>self-contained<sp/>list,<sp/>with<sp/>a<sp/>deeper<sp/>indent,<sp/>at<sp/>the<sp/>current<sp/>item<sp/>of<sp/>the<sp/>first<sp/>list<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ListIndent();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>builder-&gt;get_ListFormat()-&gt;get_ListLevelNumber());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>are<sp/>the<sp/>first<sp/>three<sp/>list<sp/>items<sp/>of<sp/>the<sp/>second<sp/>list<sp/>level,<sp/>which<sp/>will<sp/>maintain<sp/>a<sp/>count</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>independent<sp/>of<sp/>the<sp/>count<sp/>of<sp/>the<sp/>first<sp/>list<sp/>level.<sp/>According<sp/>to<sp/>the<sp/>current<sp/>list<sp/>format,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>they<sp/>will<sp/>have<sp/>symbols<sp/>of<sp/>&quot;a.&quot;,<sp/>&quot;b.&quot;,<sp/>and<sp/>&quot;c.&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;DOC&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;PDF&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;HTML&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Call<sp/>the<sp/>&quot;ListOutdent&quot;<sp/>method<sp/>to<sp/>return<sp/>to<sp/>the<sp/>previous<sp/>list<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ListOutdent();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>builder-&gt;get_ListFormat()-&gt;get_ListLevelNumber());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>two<sp/>paragraphs<sp/>will<sp/>continue<sp/>the<sp/>count<sp/>of<sp/>the<sp/>first<sp/>list<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>items<sp/>will<sp/>have<sp/>symbols<sp/>of<sp/>&quot;2.&quot;,<sp/>and<sp/>&quot;3.&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Processing<sp/>documents&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Saving<sp/>documents<sp/>in<sp/>different<sp/>formats:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>increase<sp/>the<sp/>list<sp/>level<sp/>to<sp/>a<sp/>level<sp/>that<sp/>we<sp/>have<sp/>added<sp/>items<sp/>to<sp/>previously,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>nested<sp/>list<sp/>will<sp/>be<sp/>separate<sp/>from<sp/>the<sp/>previous,<sp/>and<sp/>its<sp/>numbering<sp/>will<sp/>start<sp/>from<sp/>the<sp/>beginning.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>list<sp/>items<sp/>will<sp/>have<sp/>symbols<sp/>of<sp/>&quot;a.&quot;,<sp/>&quot;b.&quot;,<sp/>&quot;c.&quot;,<sp/>&quot;d.&quot;,<sp/>and<sp/>&quot;e&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ListIndent();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;DOC&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;PDF&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;HTML&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;MHTML&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Plain<sp/>text&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Outdent<sp/>the<sp/>list<sp/>level<sp/>again.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ListOutdent();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Doing<sp/>many<sp/>other<sp/>things!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>End<sp/>the<sp/>numbered<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;RemoveNumbers();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Lists.ApplyDefaultBulletsAndNumbers.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Lists/ListFormat.h" line="992" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a29b4de98987b94ae64a97413e9c30f18" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Lists::ListFormat::RemoveNumbers</definition>
+        <argsstring>()</argsstring>
+        <name>RemoveNumbers</name>
+        <qualifiedname>Aspose::Words::Lists::ListFormat::RemoveNumbers</qualifiedname>
+        <briefdescription>
+<para>Removes numbers or bullets from the current paragraph and sets list level to zero. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>Calling this method is equivalent to setting the <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1ab0d0047a81fecf98d4a7ee244d7bbee9" kindref="member">List</ref> property to null.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to create bulleted and numbered lists. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Aspose.Words<sp/>main<sp/>advantages<sp/>are:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>list<sp/>allows<sp/>us<sp/>to<sp/>organize<sp/>and<sp/>decorate<sp/>sets<sp/>of<sp/>paragraphs<sp/>with<sp/>prefix<sp/>symbols<sp/>and<sp/>indents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>create<sp/>nested<sp/>lists<sp/>by<sp/>increasing<sp/>the<sp/>indent<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>begin<sp/>and<sp/>end<sp/>a<sp/>list<sp/>by<sp/>using<sp/>a<sp/>document<sp/>builder&apos;s<sp/>&quot;ListFormat&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>paragraph<sp/>that<sp/>we<sp/>add<sp/>between<sp/>a<sp/>list&apos;s<sp/>start<sp/>and<sp/>the<sp/>end<sp/>will<sp/>become<sp/>an<sp/>item<sp/>in<sp/>the<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>types<sp/>of<sp/>lists<sp/>that<sp/>we<sp/>can<sp/>create<sp/>with<sp/>a<sp/>document<sp/>builder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>A<sp/>bulleted<sp/>list:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>list<sp/>will<sp/>apply<sp/>an<sp/>indent<sp/>and<sp/>a<sp/>bullet<sp/>symbol<sp/>(&quot;•&quot;)<sp/>before<sp/>each<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ApplyBulletDefault();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Great<sp/>performance&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;High<sp/>reliability&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Quality<sp/>code<sp/>and<sp/>working&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Wide<sp/>variety<sp/>of<sp/>features&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Easy<sp/>to<sp/>understand<sp/>API&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>End<sp/>the<sp/>bulleted<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;RemoveNumbers();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eac3316c9c335ce5fa8638df2fc5d518d4" kindref="member" tooltip="Break between paragraphs.">BreakType::ParagraphBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Aspose.Words<sp/>allows:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>A<sp/>numbered<sp/>list:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Numbered<sp/>lists<sp/>create<sp/>a<sp/>logical<sp/>order<sp/>for<sp/>their<sp/>paragraphs<sp/>by<sp/>numbering<sp/>each<sp/>item.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ApplyNumberDefault();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>paragraph<sp/>is<sp/>the<sp/>first<sp/>item.<sp/>The<sp/>first<sp/>item<sp/>of<sp/>a<sp/>numbered<sp/>list<sp/>will<sp/>have<sp/>a<sp/>&quot;1.&quot;<sp/>as<sp/>its<sp/>list<sp/>item<sp/>symbol.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Opening<sp/>documents<sp/>from<sp/>different<sp/>formats:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>builder-&gt;get_ListFormat()-&gt;get_ListLevelNumber());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Call<sp/>the<sp/>&quot;ListIndent&quot;<sp/>method<sp/>to<sp/>increase<sp/>the<sp/>current<sp/>list<sp/>level,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>which<sp/>will<sp/>start<sp/>a<sp/>new<sp/>self-contained<sp/>list,<sp/>with<sp/>a<sp/>deeper<sp/>indent,<sp/>at<sp/>the<sp/>current<sp/>item<sp/>of<sp/>the<sp/>first<sp/>list<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ListIndent();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(1,<sp/>builder-&gt;get_ListFormat()-&gt;get_ListLevelNumber());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>are<sp/>the<sp/>first<sp/>three<sp/>list<sp/>items<sp/>of<sp/>the<sp/>second<sp/>list<sp/>level,<sp/>which<sp/>will<sp/>maintain<sp/>a<sp/>count</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>independent<sp/>of<sp/>the<sp/>count<sp/>of<sp/>the<sp/>first<sp/>list<sp/>level.<sp/>According<sp/>to<sp/>the<sp/>current<sp/>list<sp/>format,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>they<sp/>will<sp/>have<sp/>symbols<sp/>of<sp/>&quot;a.&quot;,<sp/>&quot;b.&quot;,<sp/>and<sp/>&quot;c.&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;DOC&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;PDF&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;HTML&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Call<sp/>the<sp/>&quot;ListOutdent&quot;<sp/>method<sp/>to<sp/>return<sp/>to<sp/>the<sp/>previous<sp/>list<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ListOutdent();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>builder-&gt;get_ListFormat()-&gt;get_ListLevelNumber());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>two<sp/>paragraphs<sp/>will<sp/>continue<sp/>the<sp/>count<sp/>of<sp/>the<sp/>first<sp/>list<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>items<sp/>will<sp/>have<sp/>symbols<sp/>of<sp/>&quot;2.&quot;,<sp/>and<sp/>&quot;3.&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Processing<sp/>documents&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Saving<sp/>documents<sp/>in<sp/>different<sp/>formats:&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>increase<sp/>the<sp/>list<sp/>level<sp/>to<sp/>a<sp/>level<sp/>that<sp/>we<sp/>have<sp/>added<sp/>items<sp/>to<sp/>previously,</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>nested<sp/>list<sp/>will<sp/>be<sp/>separate<sp/>from<sp/>the<sp/>previous,<sp/>and<sp/>its<sp/>numbering<sp/>will<sp/>start<sp/>from<sp/>the<sp/>beginning.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>These<sp/>list<sp/>items<sp/>will<sp/>have<sp/>symbols<sp/>of<sp/>&quot;a.&quot;,<sp/>&quot;b.&quot;,<sp/>&quot;c.&quot;,<sp/>&quot;d.&quot;,<sp/>and<sp/>&quot;e&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ListIndent();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;DOC&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;PDF&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;HTML&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;MHTML&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Plain<sp/>text&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Outdent<sp/>the<sp/>list<sp/>level<sp/>again.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ListOutdent();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Doing<sp/>many<sp/>other<sp/>things!&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>End<sp/>the<sp/>numbered<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;RemoveNumbers();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Lists.ApplyDefaultBulletsAndNumbers.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to remove list formatting from all paragraphs in the main text of a section. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;ApplyNumberDefault();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Numbered<sp/>list<sp/>item<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Numbered<sp/>list<sp/>item<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Numbered<sp/>list<sp/>item<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;RemoveNumbers();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;NodeCollection&gt;<sp/>paras<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(3,<sp/>paras-&gt;LINQ_Count([](SharedPtr&lt;Node&gt;<sp/>n)<sp/>{<sp/>return<sp/>System::DynamicCast&lt;Paragraph&gt;(n)-&gt;get_ListFormat()-&gt;get_IsListItem();<sp/>}));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>paragraph<sp/>:<sp/>System::IterateOver&lt;Paragraph&gt;(paras))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>paragraph-&gt;get_ListFormat()-&gt;RemoveNumbers();</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>paras-&gt;LINQ_Count([](SharedPtr&lt;Node&gt;<sp/>n)<sp/>{<sp/>return<sp/>System::DynamicCast&lt;Paragraph&gt;(n)-&gt;get_ListFormat()-&gt;get_IsListItem();<sp/>}));</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Lists/ListFormat.h" line="812" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a47d8b21d61b4ac3a1e7c2d314162c1ca" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Lists::ListFormat::set_List</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Lists::List &gt; &amp;value)</argsstring>
+        <name>set_List</name>
+        <qualifiedname>Aspose::Words::Lists::ListFormat::set_List</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list" kindref="compound">Aspose::Words::Lists::List</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1ab0d0047a81fecf98d4a7ee244d7bbee9" kindref="member">Aspose::Words::Lists::ListFormat::get_List</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Lists/ListFormat.h" line="463" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_lists_1_1_list_format_1ad0ebe1122ff4fe870ab2d94ab415e4cc" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Lists::ListFormat::set_ListLevelNumber</definition>
+        <argsstring>(int32_t value)</argsstring>
+        <name>set_ListLevelNumber</name>
+        <qualifiedname>Aspose::Words::Lists::ListFormat::set_ListLevelNumber</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a4b00ca0e0adf9904069256dd46bd552b" kindref="member">Aspose::Words::Lists::ListFormat::get_ListLevelNumber</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Lists/ListFormat.h" line="268" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Allows to control what list formatting is applied to a paragraph. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>A paragraph in a Microsoft Word document can be bulleted or numbered. When a paragraph is bulleted or numbered, it is said that list formatting is applied to the paragraph.</para>
+<para>You do not create objects of the <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_format" kindref="compound">ListFormat</ref> class directly. You access <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_format" kindref="compound">ListFormat</ref> as a property of another object that can have list formatting associated with it. At the moment the objects that can have list formatting are: <ref refid="class_aspose_1_1_words_1_1_paragraph" kindref="compound">Paragraph</ref>, <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Style</ref> and <ref refid="class_aspose_1_1_words_1_1_document_builder" kindref="compound">DocumentBuilder</ref>.</para>
+<para><ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_format" kindref="compound">ListFormat</ref> of a <ref refid="class_aspose_1_1_words_1_1_paragraph" kindref="compound">Paragraph</ref> specifies what list formatting and list level is applied to that particular paragraph.</para>
+<para><ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_format" kindref="compound">ListFormat</ref> of a <ref refid="class_aspose_1_1_words_1_1_style" kindref="compound">Style</ref> (applicable to paragraph styles only) allows to specify what list formatting and list level is applied to all paragraphs of that particular style.</para>
+<para><ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_format" kindref="compound">ListFormat</ref> of a <ref refid="class_aspose_1_1_words_1_1_document_builder" kindref="compound">DocumentBuilder</ref> provides access to the list formatting at the current cursor position inside the <ref refid="class_aspose_1_1_words_1_1_document_builder" kindref="compound">DocumentBuilder</ref>.</para>
+<para>The list formatting itself is stored inside a <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list" kindref="compound">List</ref> object that is stored separately from the paragraphs. The list objects are stored inside a <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_collection" kindref="compound">ListCollection</ref> collection. There is a single <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_collection" kindref="compound">ListCollection</ref> collection per <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Document</ref>.</para>
+<para>The paragraphs do not physically belong to a list. The paragraphs just reference a particular list object via the <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1ab0d0047a81fecf98d4a7ee244d7bbee9" kindref="member">List</ref> property and a particular level in the list via the <ref refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a4b00ca0e0adf9904069256dd46bd552b" kindref="member">ListLevelNumber</ref> property. By setting these two properties you control what bullets and numbering is applied to a paragraph.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with list levels. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(builder-&gt;get_ListFormat()-&gt;get_IsListItem());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>list<sp/>allows<sp/>us<sp/>to<sp/>organize<sp/>and<sp/>decorate<sp/>sets<sp/>of<sp/>paragraphs<sp/>with<sp/>prefix<sp/>symbols<sp/>and<sp/>indents.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>create<sp/>nested<sp/>lists<sp/>by<sp/>increasing<sp/>the<sp/>indent<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>begin<sp/>and<sp/>end<sp/>a<sp/>list<sp/>by<sp/>using<sp/>a<sp/>document<sp/>builder&apos;s<sp/>&quot;ListFormat&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Each<sp/>paragraph<sp/>that<sp/>we<sp/>add<sp/>between<sp/>a<sp/>list&apos;s<sp/>start<sp/>and<sp/>the<sp/>end<sp/>will<sp/>become<sp/>an<sp/>item<sp/>in<sp/>the<sp/>list.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>types<sp/>of<sp/>lists<sp/>that<sp/>we<sp/>can<sp/>create<sp/>using<sp/>a<sp/>document<sp/>builder.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>A<sp/>numbered<sp/>list:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Numbered<sp/>lists<sp/>create<sp/>a<sp/>logical<sp/>order<sp/>for<sp/>their<sp/>paragraphs<sp/>by<sp/>numbering<sp/>each<sp/>item.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(doc-&gt;get_Lists()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8ada57879220b36b005040009bf65f236c" kindref="member" tooltip="Default numbered list with 9 levels. Arabic numbering (1., 2., 3., ...) for the first level,...">ListTemplate::NumberDefault</ref>));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(builder-&gt;get_ListFormat()-&gt;get_IsListItem());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>By<sp/>setting<sp/>the<sp/>&quot;ListLevelNumber&quot;<sp/>property,<sp/>we<sp/>can<sp/>increase<sp/>the<sp/>list<sp/>level</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>begin<sp/>a<sp/>self-contained<sp/>sub-list<sp/>at<sp/>the<sp/>current<sp/>list<sp/>item.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>Microsoft<sp/>Word<sp/>list<sp/>template<sp/>called<sp/>&quot;NumberDefault&quot;<sp/>uses<sp/>numbers<sp/>to<sp/>create<sp/>list<sp/>levels<sp/>for<sp/>the<sp/>first<sp/>list<sp/>level.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Deeper<sp/>list<sp/>levels<sp/>use<sp/>letters<sp/>and<sp/>lowercase<sp/>Roman<sp/>numerals.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>9;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_ListFormat()-&gt;set_ListLevelNumber(i);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Level<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>i);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>A<sp/>bulleted<sp/>list:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>This<sp/>list<sp/>will<sp/>apply<sp/>an<sp/>indent<sp/>and<sp/>a<sp/>bullet<sp/>symbol<sp/>(&quot;•&quot;)<sp/>before<sp/>each<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Deeper<sp/>levels<sp/>of<sp/>this<sp/>list<sp/>will<sp/>use<sp/>different<sp/>symbols,<sp/>such<sp/>as<sp/>&quot;■&quot;<sp/>and<sp/>&quot;○&quot;.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(doc-&gt;get_Lists()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1_1_lists_1ad0cd260ddef6a328afb1dd7a5cce50d8a37308d182b67d940f81ad431fba3f302" kindref="member" tooltip="Default bulleted list with 9 levels. Bullet of the first level is a disc, bullet of the second level ...">ListTemplate::BulletDefault</ref>));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>i<sp/>=<sp/>0;<sp/>i<sp/>&lt;<sp/>9;<sp/>i++)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;get_ListFormat()-&gt;set_ListLevelNumber(i);</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>builder-&gt;Writeln(<ref refid="namespace_aspose_1_1_words_1_1_properties_1a18e161ff3021eed5f834261f8cbf2108a27118326006d3829667a400ad23d5d98" kindref="member" tooltip="The property is a string value.">String</ref>(u</highlight><highlight class="stringliteral">&quot;Level<sp/>&quot;</highlight><highlight class="normal">)<sp/>+<sp/>i);</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>disable<sp/>list<sp/>formatting<sp/>to<sp/>not<sp/>format<sp/>any<sp/>subsequent<sp/>paragraphs<sp/>as<sp/>lists<sp/>by<sp/>un-setting<sp/>the<sp/>&quot;List&quot;<sp/>flag.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ListFormat()-&gt;set_List(</highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_FALSE(builder-&gt;get_ListFormat()-&gt;get_IsListItem());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Lists.SpecifyListLevel.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Lists::ListFormat</label>
+        <link refid="class_aspose_1_1_words_1_1_lists_1_1_list_format"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Lists::ListFormat</label>
+        <link refid="class_aspose_1_1_words_1_1_lists_1_1_list_format"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Lists/ListFormat.h" line="120" column="1" bodyfile="Aspose.Words.Cpp/Lists/ListFormat.h" bodystart="121" bodyend="1004"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a4003610eca51d7e6783df97c4a4e8265" prot="public" virt="non-virtual"><scope>Aspose::Words::Lists::ListFormat</scope><name>ApplyBulletDefault</name></member>
+      <member refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a06f7259fd257284d424efdcf35abadaf" prot="public" virt="non-virtual"><scope>Aspose::Words::Lists::ListFormat</scope><name>ApplyNumberDefault</name></member>
+      <member refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1ae611b555893cb2321b824c5284d6de4f" prot="private" virt="non-virtual"><scope>Aspose::Words::Lists::ListFormat</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a55e271e3c65b219f03f6f271d08048a2" prot="public" virt="non-virtual"><scope>Aspose::Words::Lists::ListFormat</scope><name>get_IsListItem</name></member>
+      <member refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1ab0d0047a81fecf98d4a7ee244d7bbee9" prot="public" virt="non-virtual"><scope>Aspose::Words::Lists::ListFormat</scope><name>get_List</name></member>
+      <member refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a6977471233e9a85e29ce0ea902e4d48f" prot="public" virt="non-virtual"><scope>Aspose::Words::Lists::ListFormat</scope><name>get_ListLevel</name></member>
+      <member refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a4b00ca0e0adf9904069256dd46bd552b" prot="public" virt="non-virtual"><scope>Aspose::Words::Lists::ListFormat</scope><name>get_ListLevelNumber</name></member>
+      <member refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a2ceebe79a03ba0b2549c517c1f988e34" prot="public" virt="non-virtual"><scope>Aspose::Words::Lists::ListFormat</scope><name>ListIndent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a9b7edf1c9b8167ee9409d6b083832c6d" prot="public" virt="non-virtual"><scope>Aspose::Words::Lists::ListFormat</scope><name>ListOutdent</name></member>
+      <member refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a0677f8586b867800a687df14d5a5d47a" prot="private" virt="non-virtual"><scope>Aspose::Words::Lists::ListFormat</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1ac38e1ab47a0a366deb48ea33fde1dfe2" prot="private" virt="non-virtual"><scope>Aspose::Words::Lists::ListFormat</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a28684bff0e5f26a0566ca1abb8292e96" prot="private" virt="non-virtual"><scope>Aspose::Words::Lists::ListFormat</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1ad005f65bf29054db5af0c866c9c95eab" prot="private" virt="non-virtual"><scope>Aspose::Words::Lists::ListFormat</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1ad118cb909da5a229c1119179c4c93253" prot="private" virt="non-virtual"><scope>Aspose::Words::Lists::ListFormat</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a29b4de98987b94ae64a97413e9c30f18" prot="public" virt="non-virtual"><scope>Aspose::Words::Lists::ListFormat</scope><name>RemoveNumbers</name></member>
+      <member refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1ad52075b220c483c140d7f15b5f992950" prot="private" virt="non-virtual"><scope>Aspose::Words::Lists::ListFormat</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a47d8b21d61b4ac3a1e7c2d314162c1ca" prot="public" virt="non-virtual"><scope>Aspose::Words::Lists::ListFormat</scope><name>set_List</name></member>
+      <member refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1ad0ebe1122ff4fe870ab2d94ab415e4cc" prot="public" virt="non-virtual"><scope>Aspose::Words::Lists::ListFormat</scope><name>set_ListLevelNumber</name></member>
+      <member refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1a9a78fafca90dbd22dc33177695e3dcde" prot="private" virt="non-virtual"><scope>Aspose::Words::Lists::ListFormat</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_lists_1_1_list_format_1ae61b0e21ed24baf21fb641eb12c63334" prot="private" virt="non-virtual"><scope>Aspose::Words::Lists::ListFormat</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

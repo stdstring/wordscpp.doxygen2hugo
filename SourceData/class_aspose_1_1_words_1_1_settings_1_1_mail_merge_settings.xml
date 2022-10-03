@@ -1,0 +1,1041 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Settings::MailMergeSettings</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_mail_merge_settings_8h" local="no">Aspose.Words.Cpp/Settings/MailMergeSettings.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a48f48b78aad0460cfbbdacc071bdd456" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Settings::MailMergeSettings::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="71" column="28" bodyfile="Aspose.Words.Cpp/Settings/MailMergeSettings.h" bodystart="71" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1af7aaa633d80a55da24f571ef524c8e09" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings" kindref="compound">MailMergeSettings</ref></type>
+        <definition>typedef MailMergeSettings Aspose::Words::Settings::MailMergeSettings::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="70" column="31" bodyfile="Aspose.Words.Cpp/Settings/MailMergeSettings.h" bodystart="70" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1ae31bea9708023bd96a297bae162eb950" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Settings::MailMergeSettings::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="73" column="37" bodyfile="Aspose.Words.Cpp/Settings/MailMergeSettings.h" bodystart="73" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a16c508360919d8bb1bdeb51b00a7e92d" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Settings::MailMergeSettings::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="218" column="23" bodyfile="Aspose.Words.Cpp/Settings/MailMergeSettings.h" bodystart="218" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a4b2753dff7239dce3356c3cefdc41a0b" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Settings::MailMergeSettings::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="219" column="20" bodyfile="Aspose.Words.Cpp/Settings/MailMergeSettings.h" bodystart="219" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1ada23f2dc270a88117cf87bf6eb806aba" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Settings::MailMergeSettings::mField10</definition>
+        <argsstring></argsstring>
+        <name>mField10</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::mField10</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="228" column="23" bodyfile="Aspose.Words.Cpp/Settings/MailMergeSettings.h" bodystart="228" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a09862111dddb715e90051cafea115495" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Settings::MailMergeSettings::mField11</definition>
+        <argsstring></argsstring>
+        <name>mField11</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::mField11</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="229" column="20" bodyfile="Aspose.Words.Cpp/Settings/MailMergeSettings.h" bodystart="229" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a51cd90352865fc2cb7106d76859f247b" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Settings::MailMergeSettings::mField12</definition>
+        <argsstring></argsstring>
+        <name>mField12</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::mField12</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="230" column="23" bodyfile="Aspose.Words.Cpp/Settings/MailMergeSettings.h" bodystart="230" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1ae76b28c7e3ba095299b0204c70cdc49b" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Settings::MailMergeSettings::mField13</definition>
+        <argsstring></argsstring>
+        <name>mField13</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::mField13</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="231" column="23" bodyfile="Aspose.Words.Cpp/Settings/MailMergeSettings.h" bodystart="231" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a48230b0cb014b0f459dc1864d0f3b42c" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Settings::MailMergeSettings::mField14</definition>
+        <argsstring></argsstring>
+        <name>mField14</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::mField14</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="232" column="20" bodyfile="Aspose.Words.Cpp/Settings/MailMergeSettings.h" bodystart="232" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a181b744f153b640eaa005ed642d766c8" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Settings::MailMergeSettings::mField15</definition>
+        <argsstring></argsstring>
+        <name>mField15</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::mField15</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="233" column="23" bodyfile="Aspose.Words.Cpp/Settings/MailMergeSettings.h" bodystart="233" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1ab823fc7cf1379df751eef6176ca98c52" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Settings::MailMergeSettings::mField16</definition>
+        <argsstring></argsstring>
+        <name>mField16</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::mField16</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="234" column="23" bodyfile="Aspose.Words.Cpp/Settings/MailMergeSettings.h" bodystart="234" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a87ea89f0ff813c4b944a95eddc6af6c2" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Settings::MailMergeSettings::mField17</definition>
+        <argsstring></argsstring>
+        <name>mField17</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::mField17</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="235" column="23" bodyfile="Aspose.Words.Cpp/Settings/MailMergeSettings.h" bodystart="235" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a0c0f25e14be012c1d72c0de193685aaf" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Settings::MailMergeSettings::mField18</definition>
+        <argsstring></argsstring>
+        <name>mField18</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::mField18</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="236" column="23" bodyfile="Aspose.Words.Cpp/Settings/MailMergeSettings.h" bodystart="236" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a1739e7f5ced533fdd4e7dffdb56a3126" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Settings::MailMergeSettings::mField19</definition>
+        <argsstring></argsstring>
+        <name>mField19</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::mField19</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="237" column="23" bodyfile="Aspose.Words.Cpp/Settings/MailMergeSettings.h" bodystart="237" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a2ac6487a52f7d18a07c7ddc398495013" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Settings::MailMergeSettings::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="220" column="23" bodyfile="Aspose.Words.Cpp/Settings/MailMergeSettings.h" bodystart="220" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a9e4d8ec01e7e541680348338824cea50" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Settings::MailMergeSettings::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="221" column="20" bodyfile="Aspose.Words.Cpp/Settings/MailMergeSettings.h" bodystart="221" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a0a1ac11373e72eeec03617f877b61894" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Settings::MailMergeSettings::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="222" column="20" bodyfile="Aspose.Words.Cpp/Settings/MailMergeSettings.h" bodystart="222" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a127c746c4678819deb801701d944689d" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Settings::MailMergeSettings::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="223" column="23" bodyfile="Aspose.Words.Cpp/Settings/MailMergeSettings.h" bodystart="223" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1aacf9e8f96ccafac523149f64c053eebb" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::Settings::MailMergeSettings::mField6</definition>
+        <argsstring></argsstring>
+        <name>mField6</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::mField6</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="224" column="23" bodyfile="Aspose.Words.Cpp/Settings/MailMergeSettings.h" bodystart="224" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1affdfeb28328901f6bad93acd6b52d752" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Settings::MailMergeSettings::mField7</definition>
+        <argsstring></argsstring>
+        <name>mField7</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::mField7</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="225" column="23" bodyfile="Aspose.Words.Cpp/Settings/MailMergeSettings.h" bodystart="225" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a71cab0f43c46c5bb0d0a81aeb70d77f3" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Settings::MailMergeSettings::mField8</definition>
+        <argsstring></argsstring>
+        <name>mField8</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::mField8</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="226" column="20" bodyfile="Aspose.Words.Cpp/Settings/MailMergeSettings.h" bodystart="226" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a879aa09d22361948e9da914f14aafccc" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 1, 1, 1, 1 &gt;::type</type>
+        <definition>__TypeStub&lt;1,1,1,1&gt;::type Aspose::Words::Settings::MailMergeSettings::mField9</definition>
+        <argsstring></argsstring>
+        <name>mField9</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::mField9</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="227" column="23" bodyfile="Aspose.Words.Cpp/Settings/MailMergeSettings.h" bodystart="227" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1afc622ba348dd6f4131d426191b2be252" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Settings::MailMergeSettings::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="74" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a09b1c8795b8d5e459fbe2f503a8c20b3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Settings::MailMergeSettings::MailMergeSettings</definition>
+        <argsstring>()</argsstring>
+        <name>MailMergeSettings</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::MailMergeSettings</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="212" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a1643c483f139d3f4fac8ab05da860f71" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::MailMergeSettings::Clear</definition>
+        <argsstring>()</argsstring>
+        <name>Clear</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::Clear</qualifiedname>
+        <briefdescription>
+<para>Clears the mail merge settings in such a way that when the document is saved, no mail merge settings will be saved and it will become a normal document. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="207" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1aa04aa3d4d8094e7493dc54ff90b5306c" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings" kindref="compound">Aspose::Words::Settings::MailMergeSettings</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Settings::MailMergeSettings &gt; Aspose::Words::Settings::MailMergeSettings::Clone</definition>
+        <argsstring>()</argsstring>
+        <name>Clone</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::Clone</qualifiedname>
+        <briefdescription>
+<para>Returns a deep clone of this object. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="210" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1aca17861555c630bef1db585bac2851ac" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Settings::MailMergeSettings::get_ActiveRecord</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ActiveRecord</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::get_ActiveRecord</qualifiedname>
+        <briefdescription>
+<para>Specifies the one-based index of the record from the data source which shall be displayed in Microsoft Word. The default value is 1. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="79" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1afcfaf0c5bbc1ac3936e21a62fb88988c" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Settings::MailMergeSettings::get_AddressFieldName</definition>
+        <argsstring>() const</argsstring>
+        <name>get_AddressFieldName</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::get_AddressFieldName</qualifiedname>
+        <briefdescription>
+<para>Specifies the column within the data source that contains e-mail addresses. The default value is an empty string. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="85" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1ad75f9071e112448acd9a54a037c99f1c" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_settings_1a9683264d38522f8888c6629620ac73c4" kindref="member">Aspose::Words::Settings::MailMergeCheckErrors</ref></type>
+        <definition>Aspose::Words::Settings::MailMergeCheckErrors Aspose::Words::Settings::MailMergeSettings::get_CheckErrors</definition>
+        <argsstring>() const</argsstring>
+        <name>get_CheckErrors</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::get_CheckErrors</qualifiedname>
+        <briefdescription>
+<para>Specifies the type of error reporting which shall be conducted by Microsoft Word when performing a mail merge. The default value is <ref refid="namespace_aspose_1_1_words_1_1_settings_1a9683264d38522f8888c6629620ac73c4a7a1920d61156abc05a60135aefe8bc67" kindref="member">Default</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="92" column="54"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a69f97853d50d51a0ac177b859221045d" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Settings::MailMergeSettings::get_ConnectString</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ConnectString</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::get_ConnectString</qualifiedname>
+        <briefdescription>
+<para>Specifies the connection string used to connect to an external data source. The default value is an empty string. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="99" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1aa48d3651b995a87bb11f527d1b2be098" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Settings::MailMergeSettings::get_DataSource</definition>
+        <argsstring>() const</argsstring>
+        <name>get_DataSource</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::get_DataSource</qualifiedname>
+        <briefdescription>
+<para>Specifies the path to the mail-merge data source. The default value is an empty string. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="105" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a8b4e9a671da0b629293c33eccc629520" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_settings_1ab2d960ca749155861be043561973d5d4" kindref="member">Aspose::Words::Settings::MailMergeDataType</ref></type>
+        <definition>Aspose::Words::Settings::MailMergeDataType Aspose::Words::Settings::MailMergeSettings::get_DataType</definition>
+        <argsstring>() const</argsstring>
+        <name>get_DataType</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::get_DataType</qualifiedname>
+        <briefdescription>
+<para>Specifies the type of the mail-merge data source and the method of data access. The default value is <ref refid="namespace_aspose_1_1_words_1_1_settings_1ab2d960ca749155861be043561973d5d4a7a1920d61156abc05a60135aefe8bc67" kindref="member">Default</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="112" column="51"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a7b788bef4b61e4762047a7962913616b" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_settings_1a80336d38ac109df8287c229cbc2f8de1" kindref="member">Aspose::Words::Settings::MailMergeDestination</ref></type>
+        <definition>Aspose::Words::Settings::MailMergeDestination Aspose::Words::Settings::MailMergeSettings::get_Destination</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Destination</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::get_Destination</qualifiedname>
+        <briefdescription>
+<para>Specifies how Microsoft Word will output the results of a mail merge. The default value is <ref refid="namespace_aspose_1_1_words_1_1_settings_1a80336d38ac109df8287c229cbc2f8de1a7a1920d61156abc05a60135aefe8bc67" kindref="member">Default</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="120" column="54"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a1c1f0bf4e483b9315816063213355224" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Settings::MailMergeSettings::get_DoNotSupressBlankLines</definition>
+        <argsstring>() const</argsstring>
+        <name>get_DoNotSupressBlankLines</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::get_DoNotSupressBlankLines</qualifiedname>
+        <briefdescription>
+<para>Specifies how an application performing the mail merge shall handle blank lines in the merged documents resulting from the mail merge. The default value is <computeroutput>false</computeroutput>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="128" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1acfffbe2c9905f57557f8ca4a939b99e6" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Settings::MailMergeSettings::get_HeaderSource</definition>
+        <argsstring>() const</argsstring>
+        <name>get_HeaderSource</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::get_HeaderSource</qualifiedname>
+        <briefdescription>
+<para>Specifies the path to the mail-merge header source. The default value is an empty string. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="136" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1ac910d64c79ed568de7ff4d626c1485cc" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Settings::MailMergeSettings::get_LinkToQuery</definition>
+        <argsstring>() const</argsstring>
+        <name>get_LinkToQuery</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::get_LinkToQuery</qualifiedname>
+        <briefdescription>
+<para>Not sure about this one. The Microsoft Word Automation Reference suggests that this specifies that the query is executed every time the document is opened in Microsoft Word. But the OOXML specification suggests that this specifies that the query contains a reference to an external query file which contains the actual query. The default value is <computeroutput>false</computeroutput>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="147" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1aea4f53cec38286fdfc7f2c242a0a9373" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Settings::MailMergeSettings::get_MailAsAttachment</definition>
+        <argsstring>() const</argsstring>
+        <name>get_MailAsAttachment</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::get_MailAsAttachment</qualifiedname>
+        <briefdescription>
+<para>Specifies that the documents produced during a mail merge operation should be emailed as an attachment rather than the body of the actual e-mail. The default value is <computeroutput>false</computeroutput>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="154" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a0e96cd71b8fa8f74818e23250ce087ef" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Settings::MailMergeSettings::get_MailSubject</definition>
+        <argsstring>() const</argsstring>
+        <name>get_MailSubject</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::get_MailSubject</qualifiedname>
+        <briefdescription>
+<para>Specifies the text which shall appear in the subject line of the e-mails or faxes produced during mail merge. The default value is an empty string. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="162" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a709783322370425ced3d85576cecb7f6" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1_1_settings_1af721eccf1a8c80cb13aa986fbc523f68" kindref="member">Aspose::Words::Settings::MailMergeMainDocumentType</ref></type>
+        <definition>Aspose::Words::Settings::MailMergeMainDocumentType Aspose::Words::Settings::MailMergeSettings::get_MainDocumentType</definition>
+        <argsstring>() const</argsstring>
+        <name>get_MainDocumentType</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::get_MainDocumentType</qualifiedname>
+        <briefdescription>
+<para>Specifies the mail-merge main document type. The default value is <ref refid="namespace_aspose_1_1_words_1_1_settings_1af721eccf1a8c80cb13aa986fbc523f68a7a1920d61156abc05a60135aefe8bc67" kindref="member">Default</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The main document is the document that contains information that is the same for each version of the merged document. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="172" column="59"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1adcde9b87de5920606653848ff70ab8f4" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso" kindref="compound">Aspose::Words::Settings::Odso</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Settings::Odso &gt; Aspose::Words::Settings::MailMergeSettings::get_Odso</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Odso</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::get_Odso</qualifiedname>
+        <briefdescription>
+<para>Gets the object that specifies the Office Data Source Object (ODSO) settings. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This object is never null. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="180" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a14eab388fbe0250d84668f4fab5e49e4" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Settings::MailMergeSettings::get_Query</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Query</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::get_Query</qualifiedname>
+        <briefdescription>
+<para>Contains the Structured Query Language string that shall be run against the specified external data source to return the set of records which shall be imported into the document when the mail merge operation is performed. The default value is an empty string. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="190" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1ac6b29e8b2e7ae7cc0dd00fa8aca96182" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Settings::MailMergeSettings::get_ViewMergedData</definition>
+        <argsstring>() const</argsstring>
+        <name>get_ViewMergedData</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::get_ViewMergedData</qualifiedname>
+        <briefdescription>
+<para>Specifies that Microsoft Word shall display the data from the specified external data source where merge fields have been inserted (e.g. preview merged data). The default value is <computeroutput>false</computeroutput>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="199" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1ab0ab124efffec70a0330b839bfb58a4a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::MailMergeSettings::set_ActiveRecord</definition>
+        <argsstring>(int32_t value)</argsstring>
+        <name>set_ActiveRecord</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::set_ActiveRecord</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Specifies the one-based index of the record from the data source which shall be displayed in Microsoft Word. The default value is 1. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="82" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1ad58f4a0eb16f4b799ec895278d206b46" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::MailMergeSettings::set_AddressFieldName</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_AddressFieldName</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::set_AddressFieldName</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Specifies the column within the data source that contains e-mail addresses. The default value is an empty string. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="88" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a1b78bc3ad3c6fe0bac3b1c31cb926ff8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::MailMergeSettings::set_CheckErrors</definition>
+        <argsstring>(Aspose::Words::Settings::MailMergeCheckErrors value)</argsstring>
+        <name>set_CheckErrors</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::set_CheckErrors</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_settings_1a9683264d38522f8888c6629620ac73c4" kindref="member">Aspose::Words::Settings::MailMergeCheckErrors</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Specifies the type of error reporting which shall be conducted by Microsoft Word when performing a mail merge. The default value is <ref refid="namespace_aspose_1_1_words_1_1_settings_1a9683264d38522f8888c6629620ac73c4a7a1920d61156abc05a60135aefe8bc67" kindref="member">Default</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="96" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a8c677932f3ccb4c39a904f0b2c17a93b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::MailMergeSettings::set_ConnectString</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_ConnectString</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::set_ConnectString</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Specifies the connection string used to connect to an external data source. The default value is an empty string. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="102" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1ac0c29bff09ab1f48a59f8467e4848d2d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::MailMergeSettings::set_DataSource</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_DataSource</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::set_DataSource</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Specifies the path to the mail-merge data source. The default value is an empty string. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="108" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a37138434349d91e10a743d87411089be" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::MailMergeSettings::set_DataType</definition>
+        <argsstring>(Aspose::Words::Settings::MailMergeDataType value)</argsstring>
+        <name>set_DataType</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::set_DataType</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_settings_1ab2d960ca749155861be043561973d5d4" kindref="member">Aspose::Words::Settings::MailMergeDataType</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Specifies the type of the mail-merge data source and the method of data access. The default value is <ref refid="namespace_aspose_1_1_words_1_1_settings_1ab2d960ca749155861be043561973d5d4a7a1920d61156abc05a60135aefe8bc67" kindref="member">Default</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="116" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a395a8f48d93a9888aa03ccf2de8f2935" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::MailMergeSettings::set_Destination</definition>
+        <argsstring>(Aspose::Words::Settings::MailMergeDestination value)</argsstring>
+        <name>set_Destination</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::set_Destination</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_settings_1a80336d38ac109df8287c229cbc2f8de1" kindref="member">Aspose::Words::Settings::MailMergeDestination</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Specifies how Microsoft Word will output the results of a mail merge. The default value is <ref refid="namespace_aspose_1_1_words_1_1_settings_1a80336d38ac109df8287c229cbc2f8de1a7a1920d61156abc05a60135aefe8bc67" kindref="member">Default</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="124" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a74f5b26616a6d74984d4d1920dd6a754" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::MailMergeSettings::set_DoNotSupressBlankLines</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_DoNotSupressBlankLines</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::set_DoNotSupressBlankLines</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Specifies how an application performing the mail merge shall handle blank lines in the merged documents resulting from the mail merge. The default value is <computeroutput>false</computeroutput>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="132" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a2c14b77032f41af70ccbeaa45067ffc3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::MailMergeSettings::set_HeaderSource</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_HeaderSource</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::set_HeaderSource</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Specifies the path to the mail-merge header source. The default value is an empty string. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="140" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1aa2f965852bb0130a692f930e239a6ba4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::MailMergeSettings::set_LinkToQuery</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_LinkToQuery</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::set_LinkToQuery</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1ac910d64c79ed568de7ff4d626c1485cc" kindref="member">Aspose::Words::Settings::MailMergeSettings::get_LinkToQuery</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="150" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a7e6f4421b3a68e3aab338f19d986f08a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::MailMergeSettings::set_MailAsAttachment</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_MailAsAttachment</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::set_MailAsAttachment</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Specifies that the documents produced during a mail merge operation should be emailed as an attachment rather than the body of the actual e-mail. The default value is <computeroutput>false</computeroutput>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="158" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a245fdc18640e4bbed2d4973428a0f4dc" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::MailMergeSettings::set_MailSubject</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_MailSubject</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::set_MailSubject</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Specifies the text which shall appear in the subject line of the e-mails or faxes produced during mail merge. The default value is an empty string. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="166" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1aa15d81bca02bdde60846f4a210a59409" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::MailMergeSettings::set_MainDocumentType</definition>
+        <argsstring>(Aspose::Words::Settings::MailMergeMainDocumentType value)</argsstring>
+        <name>set_MainDocumentType</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::set_MainDocumentType</qualifiedname>
+        <param>
+          <type><ref refid="namespace_aspose_1_1_words_1_1_settings_1af721eccf1a8c80cb13aa986fbc523f68" kindref="member">Aspose::Words::Settings::MailMergeMainDocumentType</ref></type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a709783322370425ced3d85576cecb7f6" kindref="member">Aspose::Words::Settings::MailMergeSettings::get_MainDocumentType</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="175" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a611b9f02f4edcecbd6910781041c021d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::MailMergeSettings::set_Odso</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Settings::Odso &gt; &amp;value)</argsstring>
+        <name>set_Odso</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::set_Odso</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_settings_1_1_odso" kindref="compound">Aspose::Words::Settings::Odso</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Sets the object that specifies the Office Data Source Object (ODSO) settings. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This object is never null. </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="185" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a31b3ca5fc0ffeaef29b3086eea0b6f36" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::MailMergeSettings::set_Query</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Query</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::set_Query</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Contains the Structured Query Language string that shall be run against the specified external data source to return the set of records which shall be imported into the document when the mail merge operation is performed. The default value is an empty string. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="195" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1ad3c2942d5abff3bf39de275fe2184e76" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Settings::MailMergeSettings::set_ViewMergedData</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_ViewMergedData</name>
+        <qualifiedname>Aspose::Words::Settings::MailMergeSettings::set_ViewMergedData</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Specifies that Microsoft Word shall display the data from the specified external data source where merge fields have been inserted (e.g. preview merged data). The default value is <computeroutput>false</computeroutput>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="203" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Specifies all of the mail merge information for a document. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>You can use this object to specify a mail merge data source for a document and this information (along with the available data fields) will appear in Microsoft Word when the user opens this document. Or you can use this object to query mail merge settings that the user has specified in Microsoft Word for this document.</para>
+<para>You do not normally need to create objects of this class directly because Mail merge settings of a document are always available via the <ref refid="class_aspose_1_1_words_1_1_document_1a44041c02207cc181209d4138cd288a57" kindref="member">MailMergeSettings</ref> property.</para>
+<para>To detect whether this document is a mail merge main document, check the value of the <ref refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a709783322370425ced3d85576cecb7f6" kindref="member">MainDocumentType</ref> property.</para>
+<para>To remove mail merge settings and data source information from a document you can use the <ref refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a1643c483f139d3f4fac8ab05da860f71" kindref="member">Clear</ref> method. Aspose.Words will not write mail merge settings to a document if the <ref refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a709783322370425ced3d85576cecb7f6" kindref="member">MainDocumentType</ref> property is set to <ref refid="namespace_aspose_1_1_words_1_1_settings_1af721eccf1a8c80cb13aa986fbc523f68a387f23231c3080097a3b99343a7dd77c" kindref="member">NotAMergeDocument</ref> or the <ref refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a8b4e9a671da0b629293c33eccc629520" kindref="member">DataType</ref> property is set to <ref refid="namespace_aspose_1_1_words_1_1_settings_1ab2d960ca749155861be043561973d5d4a6adf97f83acf6453d4a6a4b1070f3754" kindref="member">None</ref>.</para>
+<para>The best way to learn how to use the properties of this object is to create a document with a desired data source manually in Microsoft Word and then open that document using Aspose.Words and examine the properties of the <ref refid="class_aspose_1_1_words_1_1_document_1a44041c02207cc181209d4138cd288a57" kindref="member">MailMergeSettings</ref> and <ref refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1adcde9b87de5920606653848ff70ab8f4" kindref="member">Odso</ref> objects. This is a good approach to take if you want to learn how to programmatically configure a data source, for example.</para>
+<para>Aspose.Words preserves mail merge information when loading, saving and converting documents between different formats, but does not use this information when performing its own mail merge using the <ref refid="class_aspose_1_1_words_1_1_mail_merging_1_1_mail_merge" kindref="compound">MailMerge</ref> object.</para>
+<para><simplesect kind="see"><para><ref refid="class_aspose_1_1_words_1_1_document_1a44041c02207cc181209d4138cd288a57" kindref="member">Aspose::Words::Document::get_MailMergeSettings</ref> </para>
+</simplesect>
+</para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Settings::MailMergeSettings</label>
+        <link refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Settings::MailMergeSettings</label>
+        <link refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Settings/MailMergeSettings.h" line="68" column="1" bodyfile="Aspose.Words.Cpp/Settings/MailMergeSettings.h" bodystart="69" bodyend="239"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a48f48b78aad0460cfbbdacc071bdd456" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a1643c483f139d3f4fac8ab05da860f71" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>Clear</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1aa04aa3d4d8094e7493dc54ff90b5306c" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>Clone</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1aca17861555c630bef1db585bac2851ac" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>get_ActiveRecord</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1afcfaf0c5bbc1ac3936e21a62fb88988c" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>get_AddressFieldName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1ad75f9071e112448acd9a54a037c99f1c" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>get_CheckErrors</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a69f97853d50d51a0ac177b859221045d" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>get_ConnectString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1aa48d3651b995a87bb11f527d1b2be098" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>get_DataSource</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a8b4e9a671da0b629293c33eccc629520" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>get_DataType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a7b788bef4b61e4762047a7962913616b" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>get_Destination</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a1c1f0bf4e483b9315816063213355224" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>get_DoNotSupressBlankLines</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1acfffbe2c9905f57557f8ca4a939b99e6" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>get_HeaderSource</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1ac910d64c79ed568de7ff4d626c1485cc" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>get_LinkToQuery</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1aea4f53cec38286fdfc7f2c242a0a9373" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>get_MailAsAttachment</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a0e96cd71b8fa8f74818e23250ce087ef" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>get_MailSubject</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a709783322370425ced3d85576cecb7f6" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>get_MainDocumentType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1adcde9b87de5920606653848ff70ab8f4" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>get_Odso</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a14eab388fbe0250d84668f4fab5e49e4" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>get_Query</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1ac6b29e8b2e7ae7cc0dd00fa8aca96182" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>get_ViewMergedData</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a09b1c8795b8d5e459fbe2f503a8c20b3" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>MailMergeSettings</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a16c508360919d8bb1bdeb51b00a7e92d" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a4b2753dff7239dce3356c3cefdc41a0b" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1ada23f2dc270a88117cf87bf6eb806aba" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>mField10</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a09862111dddb715e90051cafea115495" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>mField11</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a51cd90352865fc2cb7106d76859f247b" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>mField12</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1ae76b28c7e3ba095299b0204c70cdc49b" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>mField13</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a48230b0cb014b0f459dc1864d0f3b42c" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>mField14</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a181b744f153b640eaa005ed642d766c8" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>mField15</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1ab823fc7cf1379df751eef6176ca98c52" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>mField16</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a87ea89f0ff813c4b944a95eddc6af6c2" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>mField17</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a0c0f25e14be012c1d72c0de193685aaf" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>mField18</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a1739e7f5ced533fdd4e7dffdb56a3126" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>mField19</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a2ac6487a52f7d18a07c7ddc398495013" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a9e4d8ec01e7e541680348338824cea50" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a0a1ac11373e72eeec03617f877b61894" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a127c746c4678819deb801701d944689d" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1aacf9e8f96ccafac523149f64c053eebb" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>mField6</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1affdfeb28328901f6bad93acd6b52d752" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>mField7</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a71cab0f43c46c5bb0d0a81aeb70d77f3" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>mField8</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a879aa09d22361948e9da914f14aafccc" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>mField9</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1afc622ba348dd6f4131d426191b2be252" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1ab0ab124efffec70a0330b839bfb58a4a" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>set_ActiveRecord</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1ad58f4a0eb16f4b799ec895278d206b46" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>set_AddressFieldName</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a1b78bc3ad3c6fe0bac3b1c31cb926ff8" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>set_CheckErrors</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a8c677932f3ccb4c39a904f0b2c17a93b" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>set_ConnectString</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1ac0c29bff09ab1f48a59f8467e4848d2d" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>set_DataSource</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a37138434349d91e10a743d87411089be" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>set_DataType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a395a8f48d93a9888aa03ccf2de8f2935" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>set_Destination</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a74f5b26616a6d74984d4d1920dd6a754" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>set_DoNotSupressBlankLines</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a2c14b77032f41af70ccbeaa45067ffc3" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>set_HeaderSource</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1aa2f965852bb0130a692f930e239a6ba4" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>set_LinkToQuery</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a7e6f4421b3a68e3aab338f19d986f08a" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>set_MailAsAttachment</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a245fdc18640e4bbed2d4973428a0f4dc" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>set_MailSubject</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1aa15d81bca02bdde60846f4a210a59409" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>set_MainDocumentType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a611b9f02f4edcecbd6910781041c021d" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>set_Odso</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1a31b3ca5fc0ffeaef29b3086eea0b6f36" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>set_Query</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1ad3c2942d5abff3bf39de275fe2184e76" prot="public" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>set_ViewMergedData</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1af7aaa633d80a55da24f571ef524c8e09" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_settings_1_1_mail_merge_settings_1ae31bea9708023bd96a297bae162eb950" prot="private" virt="non-virtual"><scope>Aspose::Words::Settings::MailMergeSettings</scope><name>ThisTypeBaseTypesInfo</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

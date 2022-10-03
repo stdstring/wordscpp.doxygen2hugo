@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_section_collection" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::SectionCollection</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_node_collection" prot="public" virt="non-virtual">Aspose::Words::NodeCollection</basecompoundref>
+    <includes refid="_section_collection_8h" local="no">Aspose.Words.Cpp/SectionCollection.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_section_collection_1a3c297a5e0b36c174c1c7d20cb41e2a5e" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_node_collection" kindref="compound">Aspose::Words::NodeCollection</ref></type>
+        <definition>typedef Aspose::Words::NodeCollection Aspose::Words::SectionCollection::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::SectionCollection::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/SectionCollection.h" line="72" column="43" bodyfile="Aspose.Words.Cpp/SectionCollection.h" bodystart="72" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_section_collection_1a6b8ed27d9532569e8e95be2238775167" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_section_collection" kindref="compound">SectionCollection</ref></type>
+        <definition>typedef SectionCollection Aspose::Words::SectionCollection::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::SectionCollection::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/SectionCollection.h" line="71" column="31" bodyfile="Aspose.Words.Cpp/SectionCollection.h" bodystart="71" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_section_collection_1adc218d80132546ac2ea2f81cba7a8ded" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node_collection" kindref="compound">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::SectionCollection::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::SectionCollection::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/SectionCollection.h" line="74" column="37" bodyfile="Aspose.Words.Cpp/SectionCollection.h" bodystart="74" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_section_collection_1a11d996c5c52e37f373c82ecc14ddd62a" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::SectionCollection::~SectionCollection</definition>
+        <argsstring>()</argsstring>
+        <name>~SectionCollection</name>
+        <qualifiedname>Aspose::Words::SectionCollection::~SectionCollection</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/SectionCollection.h" line="148" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_section_collection_1abe991de49a5f633a3763e1c1657367ad" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::SectionCollection::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::SectionCollection::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/SectionCollection.h" line="75" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_section_collection_1a7f58e98b1651c263084eaa4350de33e8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_section" kindref="compound">Aspose::Words::Section</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Section &gt; Aspose::Words::SectionCollection::idx_get</definition>
+        <argsstring>(int32_t index)</argsstring>
+        <name>idx_get</name>
+        <qualifiedname>Aspose::Words::SectionCollection::idx_get</qualifiedname>
+        <param>
+          <type>int32_t</type>
+          <declname>index</declname>
+        </param>
+        <briefdescription>
+<para>Retrieves a section at the given index. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>The index is zero-based.</para>
+<para>Negative indexes are allowed and indicate access from the back of the collection. For example -1 means the last item, -2 means the second before last and so on.</para>
+<para>If index is greater than or equal to the number of items in the list, this returns a null reference.</para>
+<para>If index is negative and its absolute value is greater than the number of items in the list, this returns a null reference.</para>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>index</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>An index into the list of sections.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows when to recalculate the page layout of the document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Rendering.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Saving<sp/>a<sp/>document<sp/>to<sp/>PDF,<sp/>to<sp/>an<sp/>image,<sp/>or<sp/>printing<sp/>for<sp/>the<sp/>first<sp/>time<sp/>will<sp/>automatically</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>cache<sp/>the<sp/>layout<sp/>of<sp/>the<sp/>document<sp/>within<sp/>its<sp/>pages.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.UpdatePageLayout.1.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Modify<sp/>the<sp/>document<sp/>in<sp/>some<sp/>way.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Normal&quot;</highlight><highlight class="normal">)-&gt;get_Font()-&gt;set_Size(6);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Sections()-&gt;idx_get(0)-&gt;get_PageSetup()-&gt;set_Orientation(<ref refid="namespace_aspose_1_1_words_1ae2ae8bf76a0ae07d1d85df205d98af0ba815dff01257e5ef182b25d4c1ef0a7a0" kindref="member" tooltip="Landscape page orientation (wide and short).">Orientation::Landscape</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>In<sp/>the<sp/>current<sp/>version<sp/>of<sp/>Aspose.Words,<sp/>modifying<sp/>the<sp/>document<sp/>does<sp/>not<sp/>automatically<sp/>rebuild</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>the<sp/>cached<sp/>page<sp/>layout.<sp/>If<sp/>we<sp/>wish<sp/>for<sp/>the<sp/>cached<sp/>layout</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>to<sp/>stay<sp/>up<sp/>to<sp/>date,<sp/>we<sp/>will<sp/>need<sp/>to<sp/>update<sp/>it<sp/>manually.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdatePageLayout();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Document.UpdatePageLayout.2.pdf&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting></para>
+<para>Shows how to prepare a new section node for editing. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>A<sp/>blank<sp/>document<sp/>comes<sp/>with<sp/>a<sp/>section,<sp/>which<sp/>has<sp/>a<sp/>body,<sp/>which<sp/>in<sp/>turn<sp/>has<sp/>a<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>add<sp/>contents<sp/>to<sp/>this<sp/>document<sp/>by<sp/>adding<sp/>elements<sp/>such<sp/>as<sp/>text<sp/>runs,<sp/>shapes,<sp/>or<sp/>tables<sp/>to<sp/>that<sp/>paragraph.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379ad2c24d59e0baff4d0155fbdf62590867" kindref="member" tooltip="A Section object that corresponds to one section in a Word document. A Section node can have Body and...">NodeType::Section</ref>,<sp/>doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aed36a1ef76a59ee3f15180e0441188ad" kindref="member" tooltip="Indicates all node types. Allows to select all children.">NodeType::Any</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aac101b32dda4448cf13a93fe283dddd8" kindref="member" tooltip="A Body object that contains the main text of a section (main text story). A Body node can have Paragr...">NodeType::Body</ref>,<sp/>doc-&gt;get_Sections()-&gt;idx_get(0)-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aed36a1ef76a59ee3f15180e0441188ad" kindref="member" tooltip="Indicates all node types. Allows to select all children.">NodeType::Any</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>,<sp/>doc-&gt;get_Sections()-&gt;idx_get(0)-&gt;get_Body()-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aed36a1ef76a59ee3f15180e0441188ad" kindref="member" tooltip="Indicates all node types. Allows to select all children.">NodeType::Any</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>If<sp/>we<sp/>add<sp/>a<sp/>new<sp/>section<sp/>like<sp/>this,<sp/>it<sp/>will<sp/>not<sp/>have<sp/>a<sp/>body,<sp/>or<sp/>any<sp/>other<sp/>child<sp/>nodes.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Sections()-&gt;Add(MakeObject&lt;Section&gt;(doc));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>doc-&gt;get_Sections()-&gt;idx_get(1)-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aed36a1ef76a59ee3f15180e0441188ad" kindref="member" tooltip="Indicates all node types. Allows to select all children.">NodeType::Any</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_Count());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Run<sp/>the<sp/>&quot;EnsureMinimum&quot;<sp/>method<sp/>to<sp/>add<sp/>a<sp/>body<sp/>and<sp/>a<sp/>paragraph<sp/>to<sp/>this<sp/>section<sp/>to<sp/>begin<sp/>editing<sp/>it.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_LastSection()-&gt;EnsureMinimum();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aac101b32dda4448cf13a93fe283dddd8" kindref="member" tooltip="A Body object that contains the main text of a section (main text story). A Body node can have Paragr...">NodeType::Body</ref>,<sp/>doc-&gt;get_Sections()-&gt;idx_get(1)-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aed36a1ef76a59ee3f15180e0441188ad" kindref="member" tooltip="Indicates all node types. Allows to select all children.">NodeType::Any</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>,<sp/>doc-&gt;get_Sections()-&gt;idx_get(1)-&gt;get_Body()-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aed36a1ef76a59ee3f15180e0441188ad" kindref="member" tooltip="Indicates all node types. Allows to select all children.">NodeType::Any</ref>,<sp/>0,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)-&gt;get_NodeType());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Sections()-&gt;idx_get(0)-&gt;get_Body()-&gt;get_FirstParagraph()-&gt;AppendChild(MakeObject&lt;Run&gt;(doc,<sp/>u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Hello<sp/>world!&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/SectionCollection.h" line="139" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_section_collection_1acb0ee85f7137d83d004ddc7630f56ba7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a64e8d7c8f13f967748bdd283b4062425" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::ArrayPtr</ref>&lt; <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_section" kindref="compound">Aspose::Words::Section</ref> &gt; &gt;</type>
+        <definition>System::ArrayPtr&lt; System::SharedPtr&lt; Aspose::Words::Section &gt; &gt; Aspose::Words::SectionCollection::ToArray</definition>
+        <argsstring>()</argsstring>
+        <name>ToArray</name>
+        <qualifiedname>Aspose::Words::SectionCollection::ToArray</qualifiedname>
+        <briefdescription>
+<para>Copies all sections from the collection to a new array of sections. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="return"><para>An array of sections. </para>
+</simplesect>
+</para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/SectionCollection.h" line="144" column="25"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>A collection of <bold>Section</bold> objects in the document. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>A Microsoft Word document can contain multiple sections. To create a section in a Microsoft Word, select the Insert/Break command and select a break type. The break specifies whether section starts on a new page or on the same page.</para>
+<para>Programmatically inserting and removing sections can be used to customize documents produced during mail merge. If a document needs to have different content or parts of the content depending on some criteria, then you can create a &quot;master&quot; document that contains multiple sections and delete some of the sections before or after mail merge.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to add and remove sections in a document. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea8e798e1e673d70f3c9d8b7be6234320b" kindref="member" tooltip="Specifies start of new section on a new page.">BreakType::SectionBreakNewPage</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Section<sp/>1\x000c&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;Section<sp/>2&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Delete<sp/>the<sp/>first<sp/>section<sp/>from<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Sections()-&gt;RemoveAt(0);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Section<sp/>2&quot;</highlight><highlight class="normal">,<sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Append<sp/>a<sp/>copy<sp/>of<sp/>what<sp/>is<sp/>now<sp/>the<sp/>first<sp/>section<sp/>to<sp/>the<sp/>end<sp/>of<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordtype">int</highlight><highlight class="normal"><sp/>lastSectionIdx<sp/>=<sp/>doc-&gt;get_Sections()-&gt;get_Count()<sp/>-<sp/>1;</highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Section&gt;<sp/>newSection<sp/>=<sp/>doc-&gt;get_Sections()-&gt;idx_get(lastSectionIdx)-&gt;Clone();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Sections()-&gt;Add(newSection);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Section<sp/>2\x000c&quot;</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>u</highlight><highlight class="stringliteral">&quot;Section<sp/>2&quot;</highlight><highlight class="normal">,</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>doc-&gt;GetText().Trim());</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="3">
+        <label>Aspose::Words::INodeCollection</label>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::NodeCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_node_collection"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::SectionCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_section_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Node &gt; &gt;</label>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>Aspose::Words::INodeCollection</label>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::NodeCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_node_collection"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::SectionCollection</label>
+        <link refid="class_aspose_1_1_words_1_1_section_collection"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>System::Collections::Generic::IEnumerable&lt; System::SharedPtr&lt; Aspose::Words::Node &gt; &gt;</label>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="5">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/SectionCollection.h" line="69" column="1" bodyfile="Aspose.Words.Cpp/SectionCollection.h" bodystart="70" bodyend="150"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a068f070b5bbd81992e895bd3a9b7a909" prot="public" virt="non-virtual"><scope>Aspose::Words::SectionCollection</scope><name>Add</name></member>
+      <member refid="class_aspose_1_1_words_1_1_section_collection_1a3c297a5e0b36c174c1c7d20cb41e2a5e" prot="private" virt="non-virtual"><scope>Aspose::Words::SectionCollection</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a5c84bf176a96e3f048ff328ef0ef67aa" prot="public" virt="non-virtual"><scope>Aspose::Words::SectionCollection</scope><name>Clear</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1afb103bc9c0ef36a0593141c957dec4ad" prot="public" virt="non-virtual"><scope>Aspose::Words::SectionCollection</scope><name>Contains</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a08e6dd6c87c6f40972781651e176742a" prot="public" virt="non-virtual"><scope>Aspose::Words::SectionCollection</scope><name>get_Count</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a8d9e67dd4a36be575fdce2a6802cb917" prot="public" virt="non-virtual"><scope>Aspose::Words::SectionCollection</scope><name>GetEnumerator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_section_collection_1a7f58e98b1651c263084eaa4350de33e8" prot="public" virt="non-virtual"><scope>Aspose::Words::SectionCollection</scope><name>idx_get</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a99ff7fa6245f5be6b1830877cc6e641c" prot="public" virt="non-virtual"><scope>Aspose::Words::SectionCollection</scope><name>IndexOf</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1ae0e08870652837402e08e2e56647795c" prot="public" virt="non-virtual"><scope>Aspose::Words::SectionCollection</scope><name>Insert</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a86977ff4ddee5f0781a774868b8ad5a8" prot="public" virt="non-virtual"><scope>Aspose::Words::SectionCollection</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_node_collection_1a9c1ce160d192c038c1e740c3ddc309eb" prot="public" virt="non-virtual"><scope>Aspose::Words::SectionCollection</scope><name>RemoveAt</name></member>
+      <member refid="class_aspose_1_1_words_1_1_section_collection_1abe991de49a5f633a3763e1c1657367ad" prot="private" virt="non-virtual"><scope>Aspose::Words::SectionCollection</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_section_collection_1a6b8ed27d9532569e8e95be2238775167" prot="private" virt="non-virtual"><scope>Aspose::Words::SectionCollection</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_section_collection_1adc218d80132546ac2ea2f81cba7a8ded" prot="private" virt="non-virtual"><scope>Aspose::Words::SectionCollection</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_section_collection_1acb0ee85f7137d83d004ddc7630f56ba7" prot="public" virt="non-virtual"><scope>Aspose::Words::SectionCollection</scope><name>ToArray</name></member>
+      <member refid="class_aspose_1_1_words_1_1_section_collection_1a11d996c5c52e37f373c82ecc14ddd62a" prot="private" virt="virtual"><scope>Aspose::Words::SectionCollection</scope><name>~SectionCollection</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

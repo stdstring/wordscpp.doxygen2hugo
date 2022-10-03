@@ -1,0 +1,765 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_layout_1_1_layout_collector" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Layout::LayoutCollector</compoundname>
+    <basecompoundref refid="class/system.object/" prot="public" virt="non-virtual">System::Object</basecompoundref>
+    <includes refid="_layout_collector_8h" local="no">Aspose.Words.Cpp/Layout/LayoutCollector.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1ada7e67fa8fa8f21b937314fce7e3ed31" prot="private" static="no">
+        <type><ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref></type>
+        <definition>typedef System::Object Aspose::Words::Layout::LayoutCollector::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutCollector::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutCollector.h" line="114" column="28" bodyfile="Aspose.Words.Cpp/Layout/LayoutCollector.h" bodystart="114" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1a1b4351d2bb5f7691d58601f728a1d275" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector" kindref="compound">LayoutCollector</ref></type>
+        <definition>typedef LayoutCollector Aspose::Words::Layout::LayoutCollector::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutCollector::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutCollector.h" line="113" column="29" bodyfile="Aspose.Words.Cpp/Layout/LayoutCollector.h" bodystart="113" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1a100799cc6c04a6edb52676a8dac594f1" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">BaseType</ref> &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType&gt; Aspose::Words::Layout::LayoutCollector::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutCollector::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutCollector.h" line="116" column="37" bodyfile="Aspose.Words.Cpp/Layout/LayoutCollector.h" bodystart="116" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1afcc2f65f62f7674f86b2c9207c4900ef" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::Layout::LayoutCollector::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutCollector::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutCollector.h" line="553" column="21" bodyfile="Aspose.Words.Cpp/Layout/LayoutCollector.h" bodystart="553" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1aee0751e3a3907449732972ce3dc06cee" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Layout::LayoutCollector::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutCollector::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutCollector.h" line="554" column="23" bodyfile="Aspose.Words.Cpp/Layout/LayoutCollector.h" bodystart="554" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1adaddb21e3dd5f84aede85d6f769061b5" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Layout::LayoutCollector::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutCollector::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutCollector.h" line="555" column="23" bodyfile="Aspose.Words.Cpp/Layout/LayoutCollector.h" bodystart="555" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1a33338e79bb9e1611cb7f07a5ec63e5de" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::Layout::LayoutCollector::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutCollector::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutCollector.h" line="556" column="23" bodyfile="Aspose.Words.Cpp/Layout/LayoutCollector.h" bodystart="556" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1aa9138f3aefe9ef6b4b9d4b0f8034bff7" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::Layout::LayoutCollector::~LayoutCollector</definition>
+        <argsstring>()</argsstring>
+        <name>~LayoutCollector</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutCollector::~LayoutCollector</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutCollector.h" line="549" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1a2482a7e7374e18baa88a01c33a3a7def" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Layout::LayoutCollector::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutCollector::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutCollector.h" line="117" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1adbffa932be396d04920dd2d83f11b886" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Layout::LayoutCollector::LayoutCollector</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Document &gt; &amp;doc)</argsstring>
+        <name>LayoutCollector</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutCollector::LayoutCollector</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Aspose::Words::Document</ref> &gt; &amp;</type>
+          <declname>doc</declname>
+        </param>
+        <briefdescription>
+<para>Initializes an instance of this class. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>doc</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>The document to which this collector instance will be attached to.</para>
+</parameterdescription>
+</parameteritem>
+</parameterlist>
+<simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to see the the ranges of pages that a node spans. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>layoutCollector<sp/>=<sp/>MakeObject&lt;LayoutCollector&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Call<sp/>the<sp/>&quot;GetNumPagesSpanned&quot;<sp/>method<sp/>to<sp/>count<sp/>how<sp/>many<sp/>pages<sp/>the<sp/>content<sp/>of<sp/>our<sp/>document<sp/>spans.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Since<sp/>the<sp/>document<sp/>is<sp/>empty,<sp/>that<sp/>number<sp/>of<sp/>pages<sp/>is<sp/>currently<sp/>zero.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(doc,<sp/>layoutCollector-&gt;get_Document());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>layoutCollector-&gt;GetNumPagesSpanned(doc));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Populate<sp/>the<sp/>document<sp/>with<sp/>5<sp/>pages<sp/>of<sp/>content.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eaed73dc1bc28ff770598bf4a0c94b4741" kindref="member" tooltip="Specifies start of new section on a new even page.">BreakType::SectionBreakEvenPage</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Before<sp/>the<sp/>layout<sp/>collector,<sp/>we<sp/>need<sp/>to<sp/>call<sp/>the<sp/>&quot;UpdatePageLayout&quot;<sp/>method<sp/>to<sp/>give<sp/>us</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>an<sp/>accurate<sp/>figure<sp/>for<sp/>any<sp/>layout-related<sp/>metric,<sp/>such<sp/>as<sp/>the<sp/>page<sp/>count.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>layoutCollector-&gt;GetNumPagesSpanned(doc));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">layoutCollector-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdatePageLayout();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>layoutCollector-&gt;GetNumPagesSpanned(doc));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>see<sp/>the<sp/>numbers<sp/>of<sp/>the<sp/>start<sp/>and<sp/>end<sp/>pages<sp/>of<sp/>any<sp/>node<sp/>and<sp/>their<sp/>overall<sp/>page<sp/>spans.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;NodeCollection&gt;<sp/>nodes<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aed36a1ef76a59ee3f15180e0441188ad" kindref="member" tooltip="Indicates all node types. Allows to select all children.">NodeType::Any</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>node<sp/>:<sp/>System::IterateOver(nodes))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;-&gt;<sp/><sp/>NodeType.{0}:<sp/>&quot;</highlight><highlight class="normal">,<sp/>node-&gt;get_NodeType())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String::Format(u</highlight><highlight class="stringliteral">&quot;\tStarts<sp/>on<sp/>page<sp/>{0},<sp/>ends<sp/>on<sp/>page<sp/>{1},&quot;</highlight><highlight class="normal">,<sp/>layoutCollector-&gt;GetStartPageIndex(node),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>layoutCollector-&gt;GetEndPageIndex(node))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;<sp/>spanning<sp/>{0}<sp/>pages.&quot;</highlight><highlight class="normal">,<sp/>layoutCollector-&gt;GetNumPagesSpanned(node)))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>iterate<sp/>over<sp/>the<sp/>layout<sp/>entities<sp/>using<sp/>a<sp/>LayoutEnumerator.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>layoutEnumerator<sp/>=<sp/>MakeObject&lt;LayoutEnumerator&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a193cfc9be3b995831c6af2fea6650e60" kindref="member" tooltip="Represents page of a document. Page may have Column, HeaderFooter and Comment child entities.">LayoutEntityType::Page</ref>,<sp/>layoutEnumerator-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>LayoutEnumerator<sp/>can<sp/>traverse<sp/>the<sp/>collection<sp/>of<sp/>layout<sp/>entities<sp/>like<sp/>a<sp/>tree.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>apply<sp/>it<sp/>to<sp/>any<sp/>node&apos;s<sp/>corresponding<sp/>layout<sp/>entity.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">layoutEnumerator-&gt;set_Current(layoutCollector-&gt;GetEntity(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>,<sp/>1,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a9ce62112cff8eb735d9270c2e285b000" kindref="member" tooltip="Represents one or more characters in a line. This include special characters like field start/end mar...">LayoutEntityType::Span</ref>,<sp/>layoutEnumerator-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;¶&quot;</highlight><highlight class="normal">,<sp/>layoutEnumerator-&gt;get_Text());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutCollector.h" line="240" column="8"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1a78a732352245f1c1677cbc5d62dd42c7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Layout::LayoutCollector::Clear</definition>
+        <argsstring>()</argsstring>
+        <name>Clear</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutCollector::Clear</qualifiedname>
+        <briefdescription>
+<para>Clears all collected layout data. Call this method after document was manually updated, or layout was rebuilt. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to see the the ranges of pages that a node spans. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>layoutCollector<sp/>=<sp/>MakeObject&lt;LayoutCollector&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Call<sp/>the<sp/>&quot;GetNumPagesSpanned&quot;<sp/>method<sp/>to<sp/>count<sp/>how<sp/>many<sp/>pages<sp/>the<sp/>content<sp/>of<sp/>our<sp/>document<sp/>spans.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Since<sp/>the<sp/>document<sp/>is<sp/>empty,<sp/>that<sp/>number<sp/>of<sp/>pages<sp/>is<sp/>currently<sp/>zero.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(doc,<sp/>layoutCollector-&gt;get_Document());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>layoutCollector-&gt;GetNumPagesSpanned(doc));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Populate<sp/>the<sp/>document<sp/>with<sp/>5<sp/>pages<sp/>of<sp/>content.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eaed73dc1bc28ff770598bf4a0c94b4741" kindref="member" tooltip="Specifies start of new section on a new even page.">BreakType::SectionBreakEvenPage</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Before<sp/>the<sp/>layout<sp/>collector,<sp/>we<sp/>need<sp/>to<sp/>call<sp/>the<sp/>&quot;UpdatePageLayout&quot;<sp/>method<sp/>to<sp/>give<sp/>us</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>an<sp/>accurate<sp/>figure<sp/>for<sp/>any<sp/>layout-related<sp/>metric,<sp/>such<sp/>as<sp/>the<sp/>page<sp/>count.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>layoutCollector-&gt;GetNumPagesSpanned(doc));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">layoutCollector-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdatePageLayout();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>layoutCollector-&gt;GetNumPagesSpanned(doc));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>see<sp/>the<sp/>numbers<sp/>of<sp/>the<sp/>start<sp/>and<sp/>end<sp/>pages<sp/>of<sp/>any<sp/>node<sp/>and<sp/>their<sp/>overall<sp/>page<sp/>spans.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;NodeCollection&gt;<sp/>nodes<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aed36a1ef76a59ee3f15180e0441188ad" kindref="member" tooltip="Indicates all node types. Allows to select all children.">NodeType::Any</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>node<sp/>:<sp/>System::IterateOver(nodes))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;-&gt;<sp/><sp/>NodeType.{0}:<sp/>&quot;</highlight><highlight class="normal">,<sp/>node-&gt;get_NodeType())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String::Format(u</highlight><highlight class="stringliteral">&quot;\tStarts<sp/>on<sp/>page<sp/>{0},<sp/>ends<sp/>on<sp/>page<sp/>{1},&quot;</highlight><highlight class="normal">,<sp/>layoutCollector-&gt;GetStartPageIndex(node),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>layoutCollector-&gt;GetEndPageIndex(node))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;<sp/>spanning<sp/>{0}<sp/>pages.&quot;</highlight><highlight class="normal">,<sp/>layoutCollector-&gt;GetNumPagesSpanned(node)))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>iterate<sp/>over<sp/>the<sp/>layout<sp/>entities<sp/>using<sp/>a<sp/>LayoutEnumerator.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>layoutEnumerator<sp/>=<sp/>MakeObject&lt;LayoutEnumerator&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a193cfc9be3b995831c6af2fea6650e60" kindref="member" tooltip="Represents page of a document. Page may have Column, HeaderFooter and Comment child entities.">LayoutEntityType::Page</ref>,<sp/>layoutEnumerator-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>LayoutEnumerator<sp/>can<sp/>traverse<sp/>the<sp/>collection<sp/>of<sp/>layout<sp/>entities<sp/>like<sp/>a<sp/>tree.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>apply<sp/>it<sp/>to<sp/>any<sp/>node&apos;s<sp/>corresponding<sp/>layout<sp/>entity.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">layoutEnumerator-&gt;set_Current(layoutCollector-&gt;GetEntity(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>,<sp/>1,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a9ce62112cff8eb735d9270c2e285b000" kindref="member" tooltip="Represents one or more characters in a line. This include special characters like field start/end mar...">LayoutEntityType::Span</ref>,<sp/>layoutEnumerator-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;¶&quot;</highlight><highlight class="normal">,<sp/>layoutEnumerator-&gt;get_Text());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutCollector.h" line="473" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1ae10b32d218710f34bcfe338fed123e81" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Aspose::Words::Document</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Document &gt; Aspose::Words::Layout::LayoutCollector::get_Document</definition>
+        <argsstring>() const</argsstring>
+        <name>get_Document</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutCollector::get_Document</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the document this collector instance is attached to. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to see the the ranges of pages that a node spans. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>layoutCollector<sp/>=<sp/>MakeObject&lt;LayoutCollector&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Call<sp/>the<sp/>&quot;GetNumPagesSpanned&quot;<sp/>method<sp/>to<sp/>count<sp/>how<sp/>many<sp/>pages<sp/>the<sp/>content<sp/>of<sp/>our<sp/>document<sp/>spans.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Since<sp/>the<sp/>document<sp/>is<sp/>empty,<sp/>that<sp/>number<sp/>of<sp/>pages<sp/>is<sp/>currently<sp/>zero.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(doc,<sp/>layoutCollector-&gt;get_Document());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>layoutCollector-&gt;GetNumPagesSpanned(doc));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Populate<sp/>the<sp/>document<sp/>with<sp/>5<sp/>pages<sp/>of<sp/>content.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eaed73dc1bc28ff770598bf4a0c94b4741" kindref="member" tooltip="Specifies start of new section on a new even page.">BreakType::SectionBreakEvenPage</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Before<sp/>the<sp/>layout<sp/>collector,<sp/>we<sp/>need<sp/>to<sp/>call<sp/>the<sp/>&quot;UpdatePageLayout&quot;<sp/>method<sp/>to<sp/>give<sp/>us</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>an<sp/>accurate<sp/>figure<sp/>for<sp/>any<sp/>layout-related<sp/>metric,<sp/>such<sp/>as<sp/>the<sp/>page<sp/>count.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>layoutCollector-&gt;GetNumPagesSpanned(doc));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">layoutCollector-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdatePageLayout();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>layoutCollector-&gt;GetNumPagesSpanned(doc));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>see<sp/>the<sp/>numbers<sp/>of<sp/>the<sp/>start<sp/>and<sp/>end<sp/>pages<sp/>of<sp/>any<sp/>node<sp/>and<sp/>their<sp/>overall<sp/>page<sp/>spans.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;NodeCollection&gt;<sp/>nodes<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aed36a1ef76a59ee3f15180e0441188ad" kindref="member" tooltip="Indicates all node types. Allows to select all children.">NodeType::Any</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>node<sp/>:<sp/>System::IterateOver(nodes))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;-&gt;<sp/><sp/>NodeType.{0}:<sp/>&quot;</highlight><highlight class="normal">,<sp/>node-&gt;get_NodeType())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String::Format(u</highlight><highlight class="stringliteral">&quot;\tStarts<sp/>on<sp/>page<sp/>{0},<sp/>ends<sp/>on<sp/>page<sp/>{1},&quot;</highlight><highlight class="normal">,<sp/>layoutCollector-&gt;GetStartPageIndex(node),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>layoutCollector-&gt;GetEndPageIndex(node))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;<sp/>spanning<sp/>{0}<sp/>pages.&quot;</highlight><highlight class="normal">,<sp/>layoutCollector-&gt;GetNumPagesSpanned(node)))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>iterate<sp/>over<sp/>the<sp/>layout<sp/>entities<sp/>using<sp/>a<sp/>LayoutEnumerator.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>layoutEnumerator<sp/>=<sp/>MakeObject&lt;LayoutEnumerator&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a193cfc9be3b995831c6af2fea6650e60" kindref="member" tooltip="Represents page of a document. Page may have Column, HeaderFooter and Comment child entities.">LayoutEntityType::Page</ref>,<sp/>layoutEnumerator-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>LayoutEnumerator<sp/>can<sp/>traverse<sp/>the<sp/>collection<sp/>of<sp/>layout<sp/>entities<sp/>like<sp/>a<sp/>tree.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>apply<sp/>it<sp/>to<sp/>any<sp/>node&apos;s<sp/>corresponding<sp/>layout<sp/>entity.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">layoutEnumerator-&gt;set_Current(layoutCollector-&gt;GetEntity(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>,<sp/>1,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a9ce62112cff8eb735d9270c2e285b000" kindref="member" tooltip="Represents one or more characters in a line. This include special characters like field start/end mar...">LayoutEntityType::Span</ref>,<sp/>layoutEnumerator-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;¶&quot;</highlight><highlight class="normal">,<sp/>layoutEnumerator-&gt;get_Text());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutCollector.h" line="177" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1a42899b16c9c7e289da89a74835b6b631" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Layout::LayoutCollector::GetEndPageIndex</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Node &gt; &amp;node)</argsstring>
+        <name>GetEndPageIndex</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutCollector::GetEndPageIndex</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
+          <declname>node</declname>
+        </param>
+        <briefdescription>
+<para>Gets 1-based index of the page where node ends. Returns 0 if node cannot be mapped to a page. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to see the the ranges of pages that a node spans. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>layoutCollector<sp/>=<sp/>MakeObject&lt;LayoutCollector&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Call<sp/>the<sp/>&quot;GetNumPagesSpanned&quot;<sp/>method<sp/>to<sp/>count<sp/>how<sp/>many<sp/>pages<sp/>the<sp/>content<sp/>of<sp/>our<sp/>document<sp/>spans.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Since<sp/>the<sp/>document<sp/>is<sp/>empty,<sp/>that<sp/>number<sp/>of<sp/>pages<sp/>is<sp/>currently<sp/>zero.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(doc,<sp/>layoutCollector-&gt;get_Document());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>layoutCollector-&gt;GetNumPagesSpanned(doc));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Populate<sp/>the<sp/>document<sp/>with<sp/>5<sp/>pages<sp/>of<sp/>content.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eaed73dc1bc28ff770598bf4a0c94b4741" kindref="member" tooltip="Specifies start of new section on a new even page.">BreakType::SectionBreakEvenPage</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Before<sp/>the<sp/>layout<sp/>collector,<sp/>we<sp/>need<sp/>to<sp/>call<sp/>the<sp/>&quot;UpdatePageLayout&quot;<sp/>method<sp/>to<sp/>give<sp/>us</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>an<sp/>accurate<sp/>figure<sp/>for<sp/>any<sp/>layout-related<sp/>metric,<sp/>such<sp/>as<sp/>the<sp/>page<sp/>count.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>layoutCollector-&gt;GetNumPagesSpanned(doc));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">layoutCollector-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdatePageLayout();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>layoutCollector-&gt;GetNumPagesSpanned(doc));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>see<sp/>the<sp/>numbers<sp/>of<sp/>the<sp/>start<sp/>and<sp/>end<sp/>pages<sp/>of<sp/>any<sp/>node<sp/>and<sp/>their<sp/>overall<sp/>page<sp/>spans.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;NodeCollection&gt;<sp/>nodes<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aed36a1ef76a59ee3f15180e0441188ad" kindref="member" tooltip="Indicates all node types. Allows to select all children.">NodeType::Any</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>node<sp/>:<sp/>System::IterateOver(nodes))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;-&gt;<sp/><sp/>NodeType.{0}:<sp/>&quot;</highlight><highlight class="normal">,<sp/>node-&gt;get_NodeType())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String::Format(u</highlight><highlight class="stringliteral">&quot;\tStarts<sp/>on<sp/>page<sp/>{0},<sp/>ends<sp/>on<sp/>page<sp/>{1},&quot;</highlight><highlight class="normal">,<sp/>layoutCollector-&gt;GetStartPageIndex(node),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>layoutCollector-&gt;GetEndPageIndex(node))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;<sp/>spanning<sp/>{0}<sp/>pages.&quot;</highlight><highlight class="normal">,<sp/>layoutCollector-&gt;GetNumPagesSpanned(node)))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>iterate<sp/>over<sp/>the<sp/>layout<sp/>entities<sp/>using<sp/>a<sp/>LayoutEnumerator.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>layoutEnumerator<sp/>=<sp/>MakeObject&lt;LayoutEnumerator&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a193cfc9be3b995831c6af2fea6650e60" kindref="member" tooltip="Represents page of a document. Page may have Column, HeaderFooter and Comment child entities.">LayoutEntityType::Page</ref>,<sp/>layoutEnumerator-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>LayoutEnumerator<sp/>can<sp/>traverse<sp/>the<sp/>collection<sp/>of<sp/>layout<sp/>entities<sp/>like<sp/>a<sp/>tree.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>apply<sp/>it<sp/>to<sp/>any<sp/>node&apos;s<sp/>corresponding<sp/>layout<sp/>entity.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">layoutEnumerator-&gt;set_Current(layoutCollector-&gt;GetEntity(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>,<sp/>1,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a9ce62112cff8eb735d9270c2e285b000" kindref="member" tooltip="Represents one or more characters in a line. This include special characters like field start/end mar...">LayoutEntityType::Span</ref>,<sp/>layoutEnumerator-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;¶&quot;</highlight><highlight class="normal">,<sp/>layoutEnumerator-&gt;get_Text());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutCollector.h" line="356" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1afac264eaa344dcf5faed80c1be8777bc" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; System::Object &gt; Aspose::Words::Layout::LayoutCollector::GetEntity</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Node &gt; &amp;node)</argsstring>
+        <name>GetEntity</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutCollector::GetEntity</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
+          <declname>node</declname>
+        </param>
+        <briefdescription>
+<para>Returns an opaque position of the <ref refid="class_aspose_1_1_words_1_1_layout_1_1_layout_enumerator" kindref="compound">LayoutEnumerator</ref> which corresponds to the specified node. You can use returned value as an argument to <ref refid="class_aspose_1_1_words_1_1_layout_1_1_layout_enumerator_1a3c97a3387ccb995c402ce628d44066c3" kindref="member">Current</ref> given the document being enumerated and the document of the node are the same. </para>
+        </briefdescription>
+        <detaileddescription>
+<para>This method works for only <ref refid="class_aspose_1_1_words_1_1_paragraph" kindref="compound">Paragraph</ref> nodes, as well as indivisible inline nodes, e.g. <ref refid="class_aspose_1_1_words_1_1_bookmark_start" kindref="compound">BookmarkStart</ref> or <ref refid="class_aspose_1_1_words_1_1_drawing_1_1_shape" kindref="compound">Shape</ref>. It doesn&apos;t work for <ref refid="class_aspose_1_1_words_1_1_run" kindref="compound">Run</ref>, <ref refid="class_aspose_1_1_words_1_1_tables_1_1_cell" kindref="compound">Cell</ref><ref refid="class_aspose_1_1_words_1_1_tables_1_1_row" kindref="compound">Row</ref> or <ref refid="class_aspose_1_1_words_1_1_tables_1_1_table" kindref="compound">Table</ref> nodes, and nodes within header/footer.</para>
+<para>Note that the entity returned for a <ref refid="class_aspose_1_1_words_1_1_paragraph" kindref="compound">Paragraph</ref> node is a paragraph break span. Use the appropriate method to ascend to the parent line</para>
+<para>If you need to navigate to a <ref refid="class_aspose_1_1_words_1_1_run" kindref="compound">Run</ref> of text then you can insert bookmark right before it and then navigate to the bookmark instead.</para>
+<para>If you need to navigate to a <ref refid="class_aspose_1_1_words_1_1_tables_1_1_cell" kindref="compound">Cell</ref> node then you can move to a <ref refid="class_aspose_1_1_words_1_1_paragraph" kindref="compound">Paragraph</ref> node in this cell and then ascend to a parent entity. The same approach can be used for <ref refid="class_aspose_1_1_words_1_1_tables_1_1_row" kindref="compound">Row</ref> and <ref refid="class_aspose_1_1_words_1_1_tables_1_1_table" kindref="compound">Table</ref> nodes.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to see the the ranges of pages that a node spans. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>layoutCollector<sp/>=<sp/>MakeObject&lt;LayoutCollector&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Call<sp/>the<sp/>&quot;GetNumPagesSpanned&quot;<sp/>method<sp/>to<sp/>count<sp/>how<sp/>many<sp/>pages<sp/>the<sp/>content<sp/>of<sp/>our<sp/>document<sp/>spans.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Since<sp/>the<sp/>document<sp/>is<sp/>empty,<sp/>that<sp/>number<sp/>of<sp/>pages<sp/>is<sp/>currently<sp/>zero.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(doc,<sp/>layoutCollector-&gt;get_Document());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>layoutCollector-&gt;GetNumPagesSpanned(doc));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Populate<sp/>the<sp/>document<sp/>with<sp/>5<sp/>pages<sp/>of<sp/>content.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eaed73dc1bc28ff770598bf4a0c94b4741" kindref="member" tooltip="Specifies start of new section on a new even page.">BreakType::SectionBreakEvenPage</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Before<sp/>the<sp/>layout<sp/>collector,<sp/>we<sp/>need<sp/>to<sp/>call<sp/>the<sp/>&quot;UpdatePageLayout&quot;<sp/>method<sp/>to<sp/>give<sp/>us</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>an<sp/>accurate<sp/>figure<sp/>for<sp/>any<sp/>layout-related<sp/>metric,<sp/>such<sp/>as<sp/>the<sp/>page<sp/>count.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>layoutCollector-&gt;GetNumPagesSpanned(doc));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">layoutCollector-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdatePageLayout();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>layoutCollector-&gt;GetNumPagesSpanned(doc));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>see<sp/>the<sp/>numbers<sp/>of<sp/>the<sp/>start<sp/>and<sp/>end<sp/>pages<sp/>of<sp/>any<sp/>node<sp/>and<sp/>their<sp/>overall<sp/>page<sp/>spans.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;NodeCollection&gt;<sp/>nodes<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aed36a1ef76a59ee3f15180e0441188ad" kindref="member" tooltip="Indicates all node types. Allows to select all children.">NodeType::Any</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>node<sp/>:<sp/>System::IterateOver(nodes))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;-&gt;<sp/><sp/>NodeType.{0}:<sp/>&quot;</highlight><highlight class="normal">,<sp/>node-&gt;get_NodeType())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String::Format(u</highlight><highlight class="stringliteral">&quot;\tStarts<sp/>on<sp/>page<sp/>{0},<sp/>ends<sp/>on<sp/>page<sp/>{1},&quot;</highlight><highlight class="normal">,<sp/>layoutCollector-&gt;GetStartPageIndex(node),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>layoutCollector-&gt;GetEndPageIndex(node))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;<sp/>spanning<sp/>{0}<sp/>pages.&quot;</highlight><highlight class="normal">,<sp/>layoutCollector-&gt;GetNumPagesSpanned(node)))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>iterate<sp/>over<sp/>the<sp/>layout<sp/>entities<sp/>using<sp/>a<sp/>LayoutEnumerator.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>layoutEnumerator<sp/>=<sp/>MakeObject&lt;LayoutEnumerator&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a193cfc9be3b995831c6af2fea6650e60" kindref="member" tooltip="Represents page of a document. Page may have Column, HeaderFooter and Comment child entities.">LayoutEntityType::Page</ref>,<sp/>layoutEnumerator-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>LayoutEnumerator<sp/>can<sp/>traverse<sp/>the<sp/>collection<sp/>of<sp/>layout<sp/>entities<sp/>like<sp/>a<sp/>tree.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>apply<sp/>it<sp/>to<sp/>any<sp/>node&apos;s<sp/>corresponding<sp/>layout<sp/>entity.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">layoutEnumerator-&gt;set_Current(layoutCollector-&gt;GetEntity(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>,<sp/>1,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a9ce62112cff8eb735d9270c2e285b000" kindref="member" tooltip="Represents one or more characters in a line. This include special characters like field start/end mar...">LayoutEntityType::Span</ref>,<sp/>layoutEnumerator-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;¶&quot;</highlight><highlight class="normal">,<sp/>layoutEnumerator-&gt;get_Text());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutCollector.h" line="545" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1a7f2be9ba89d66aff8c7d03d74d9239a1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Layout::LayoutCollector::GetNumPagesSpanned</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Node &gt; &amp;node)</argsstring>
+        <name>GetNumPagesSpanned</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutCollector::GetNumPagesSpanned</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
+          <declname>node</declname>
+        </param>
+        <briefdescription>
+<para>Gets number of pages the specified node spans. 0 if node is within a single page. This is the same as <ref refid="" kindref="compound">GetEndPageIndex()</ref> - <ref refid="" kindref="compound">GetStartPageIndex()</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to see the the ranges of pages that a node spans. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>layoutCollector<sp/>=<sp/>MakeObject&lt;LayoutCollector&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Call<sp/>the<sp/>&quot;GetNumPagesSpanned&quot;<sp/>method<sp/>to<sp/>count<sp/>how<sp/>many<sp/>pages<sp/>the<sp/>content<sp/>of<sp/>our<sp/>document<sp/>spans.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Since<sp/>the<sp/>document<sp/>is<sp/>empty,<sp/>that<sp/>number<sp/>of<sp/>pages<sp/>is<sp/>currently<sp/>zero.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(doc,<sp/>layoutCollector-&gt;get_Document());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>layoutCollector-&gt;GetNumPagesSpanned(doc));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Populate<sp/>the<sp/>document<sp/>with<sp/>5<sp/>pages<sp/>of<sp/>content.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eaed73dc1bc28ff770598bf4a0c94b4741" kindref="member" tooltip="Specifies start of new section on a new even page.">BreakType::SectionBreakEvenPage</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Before<sp/>the<sp/>layout<sp/>collector,<sp/>we<sp/>need<sp/>to<sp/>call<sp/>the<sp/>&quot;UpdatePageLayout&quot;<sp/>method<sp/>to<sp/>give<sp/>us</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>an<sp/>accurate<sp/>figure<sp/>for<sp/>any<sp/>layout-related<sp/>metric,<sp/>such<sp/>as<sp/>the<sp/>page<sp/>count.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>layoutCollector-&gt;GetNumPagesSpanned(doc));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">layoutCollector-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdatePageLayout();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>layoutCollector-&gt;GetNumPagesSpanned(doc));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>see<sp/>the<sp/>numbers<sp/>of<sp/>the<sp/>start<sp/>and<sp/>end<sp/>pages<sp/>of<sp/>any<sp/>node<sp/>and<sp/>their<sp/>overall<sp/>page<sp/>spans.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;NodeCollection&gt;<sp/>nodes<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aed36a1ef76a59ee3f15180e0441188ad" kindref="member" tooltip="Indicates all node types. Allows to select all children.">NodeType::Any</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>node<sp/>:<sp/>System::IterateOver(nodes))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;-&gt;<sp/><sp/>NodeType.{0}:<sp/>&quot;</highlight><highlight class="normal">,<sp/>node-&gt;get_NodeType())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String::Format(u</highlight><highlight class="stringliteral">&quot;\tStarts<sp/>on<sp/>page<sp/>{0},<sp/>ends<sp/>on<sp/>page<sp/>{1},&quot;</highlight><highlight class="normal">,<sp/>layoutCollector-&gt;GetStartPageIndex(node),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>layoutCollector-&gt;GetEndPageIndex(node))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;<sp/>spanning<sp/>{0}<sp/>pages.&quot;</highlight><highlight class="normal">,<sp/>layoutCollector-&gt;GetNumPagesSpanned(node)))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>iterate<sp/>over<sp/>the<sp/>layout<sp/>entities<sp/>using<sp/>a<sp/>LayoutEnumerator.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>layoutEnumerator<sp/>=<sp/>MakeObject&lt;LayoutEnumerator&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a193cfc9be3b995831c6af2fea6650e60" kindref="member" tooltip="Represents page of a document. Page may have Column, HeaderFooter and Comment child entities.">LayoutEntityType::Page</ref>,<sp/>layoutEnumerator-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>LayoutEnumerator<sp/>can<sp/>traverse<sp/>the<sp/>collection<sp/>of<sp/>layout<sp/>entities<sp/>like<sp/>a<sp/>tree.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>apply<sp/>it<sp/>to<sp/>any<sp/>node&apos;s<sp/>corresponding<sp/>layout<sp/>entity.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">layoutEnumerator-&gt;set_Current(layoutCollector-&gt;GetEntity(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>,<sp/>1,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a9ce62112cff8eb735d9270c2e285b000" kindref="member" tooltip="Represents one or more characters in a line. This include special characters like field start/end mar...">LayoutEntityType::Span</ref>,<sp/>layoutEnumerator-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;¶&quot;</highlight><highlight class="normal">,<sp/>layoutEnumerator-&gt;get_Text());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutCollector.h" line="415" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1aea118c896c4241395d465c6a3bc95afb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::Layout::LayoutCollector::GetStartPageIndex</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Node &gt; &amp;node)</argsstring>
+        <name>GetStartPageIndex</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutCollector::GetStartPageIndex</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_node" kindref="compound">Aspose::Words::Node</ref> &gt; &amp;</type>
+          <declname>node</declname>
+        </param>
+        <briefdescription>
+<para>Gets 1-based index of the page where node begins. Returns 0 if node cannot be mapped to a page. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to see the the ranges of pages that a node spans. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>layoutCollector<sp/>=<sp/>MakeObject&lt;LayoutCollector&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Call<sp/>the<sp/>&quot;GetNumPagesSpanned&quot;<sp/>method<sp/>to<sp/>count<sp/>how<sp/>many<sp/>pages<sp/>the<sp/>content<sp/>of<sp/>our<sp/>document<sp/>spans.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Since<sp/>the<sp/>document<sp/>is<sp/>empty,<sp/>that<sp/>number<sp/>of<sp/>pages<sp/>is<sp/>currently<sp/>zero.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(doc,<sp/>layoutCollector-&gt;get_Document());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>layoutCollector-&gt;GetNumPagesSpanned(doc));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Populate<sp/>the<sp/>document<sp/>with<sp/>5<sp/>pages<sp/>of<sp/>content.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eaed73dc1bc28ff770598bf4a0c94b4741" kindref="member" tooltip="Specifies start of new section on a new even page.">BreakType::SectionBreakEvenPage</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Before<sp/>the<sp/>layout<sp/>collector,<sp/>we<sp/>need<sp/>to<sp/>call<sp/>the<sp/>&quot;UpdatePageLayout&quot;<sp/>method<sp/>to<sp/>give<sp/>us</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>an<sp/>accurate<sp/>figure<sp/>for<sp/>any<sp/>layout-related<sp/>metric,<sp/>such<sp/>as<sp/>the<sp/>page<sp/>count.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>layoutCollector-&gt;GetNumPagesSpanned(doc));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">layoutCollector-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdatePageLayout();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>layoutCollector-&gt;GetNumPagesSpanned(doc));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>see<sp/>the<sp/>numbers<sp/>of<sp/>the<sp/>start<sp/>and<sp/>end<sp/>pages<sp/>of<sp/>any<sp/>node<sp/>and<sp/>their<sp/>overall<sp/>page<sp/>spans.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;NodeCollection&gt;<sp/>nodes<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aed36a1ef76a59ee3f15180e0441188ad" kindref="member" tooltip="Indicates all node types. Allows to select all children.">NodeType::Any</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>node<sp/>:<sp/>System::IterateOver(nodes))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;-&gt;<sp/><sp/>NodeType.{0}:<sp/>&quot;</highlight><highlight class="normal">,<sp/>node-&gt;get_NodeType())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String::Format(u</highlight><highlight class="stringliteral">&quot;\tStarts<sp/>on<sp/>page<sp/>{0},<sp/>ends<sp/>on<sp/>page<sp/>{1},&quot;</highlight><highlight class="normal">,<sp/>layoutCollector-&gt;GetStartPageIndex(node),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>layoutCollector-&gt;GetEndPageIndex(node))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;<sp/>spanning<sp/>{0}<sp/>pages.&quot;</highlight><highlight class="normal">,<sp/>layoutCollector-&gt;GetNumPagesSpanned(node)))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>iterate<sp/>over<sp/>the<sp/>layout<sp/>entities<sp/>using<sp/>a<sp/>LayoutEnumerator.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>layoutEnumerator<sp/>=<sp/>MakeObject&lt;LayoutEnumerator&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a193cfc9be3b995831c6af2fea6650e60" kindref="member" tooltip="Represents page of a document. Page may have Column, HeaderFooter and Comment child entities.">LayoutEntityType::Page</ref>,<sp/>layoutEnumerator-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>LayoutEnumerator<sp/>can<sp/>traverse<sp/>the<sp/>collection<sp/>of<sp/>layout<sp/>entities<sp/>like<sp/>a<sp/>tree.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>apply<sp/>it<sp/>to<sp/>any<sp/>node&apos;s<sp/>corresponding<sp/>layout<sp/>entity.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">layoutEnumerator-&gt;set_Current(layoutCollector-&gt;GetEntity(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>,<sp/>1,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a9ce62112cff8eb735d9270c2e285b000" kindref="member" tooltip="Represents one or more characters in a line. This include special characters like field start/end mar...">LayoutEntityType::Span</ref>,<sp/>layoutEnumerator-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;¶&quot;</highlight><highlight class="normal">,<sp/>layoutEnumerator-&gt;get_Text());</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutCollector.h" line="298" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1ae43d24972bdcda2f34bffff9087309e1" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Layout::LayoutCollector::set_Document</definition>
+        <argsstring>(const System::SharedPtr&lt; Aspose::Words::Document &gt; &amp;value)</argsstring>
+        <name>set_Document</name>
+        <qualifiedname>Aspose::Words::Layout::LayoutCollector::set_Document</qualifiedname>
+        <param>
+          <type>const <ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Aspose::Words::Document</ref> &gt; &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1ae10b32d218710f34bcfe338fed123e81" kindref="member">Aspose::Words::Layout::LayoutCollector::get_Document</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Layout/LayoutCollector.h" line="180" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>This class allows to compute page numbers of document nodes. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>When you create a <ref refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector" kindref="compound">LayoutCollector</ref> and specify a <ref refid="class_aspose_1_1_words_1_1_document" kindref="compound">Document</ref> document object to attach to, the collector will record mapping of document nodes to layout objects when the document is formatted into pages.</para>
+<para>You will be able to find out on which page a particular document node (e.g. run, paragraph or table cell) is located by using the <ref refid="" kindref="compound">GetStartPageIndex()</ref>, <ref refid="" kindref="compound">GetEndPageIndex()</ref> and <ref refid="" kindref="compound">GetNumPagesSpanned()</ref> methods. These methods automatically build page layout model of the document and update fields if required.</para>
+<para>When you no longer need to collect layout information, it is best to set the <ref refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1ae10b32d218710f34bcfe338fed123e81" kindref="member">Document</ref> property to null to avoid unnecessary collection of more layout mappings.</para>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to see the the ranges of pages that a node spans. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>layoutCollector<sp/>=<sp/>MakeObject&lt;LayoutCollector&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Call<sp/>the<sp/>&quot;GetNumPagesSpanned&quot;<sp/>method<sp/>to<sp/>count<sp/>how<sp/>many<sp/>pages<sp/>the<sp/>content<sp/>of<sp/>our<sp/>document<sp/>spans.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Since<sp/>the<sp/>document<sp/>is<sp/>empty,<sp/>that<sp/>number<sp/>of<sp/>pages<sp/>is<sp/>currently<sp/>zero.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(doc,<sp/>layoutCollector-&gt;get_Document());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>layoutCollector-&gt;GetNumPagesSpanned(doc));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Populate<sp/>the<sp/>document<sp/>with<sp/>5<sp/>pages<sp/>of<sp/>content.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2eaed73dc1bc28ff770598bf4a0c94b4741" kindref="member" tooltip="Specifies start of new section on a new even page.">BreakType::SectionBreakEvenPage</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Section<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Before<sp/>the<sp/>layout<sp/>collector,<sp/>we<sp/>need<sp/>to<sp/>call<sp/>the<sp/>&quot;UpdatePageLayout&quot;<sp/>method<sp/>to<sp/>give<sp/>us</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>an<sp/>accurate<sp/>figure<sp/>for<sp/>any<sp/>layout-related<sp/>metric,<sp/>such<sp/>as<sp/>the<sp/>page<sp/>count.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(0,<sp/>layoutCollector-&gt;GetNumPagesSpanned(doc));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">layoutCollector-&gt;Clear();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdatePageLayout();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(5,<sp/>layoutCollector-&gt;GetNumPagesSpanned(doc));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>see<sp/>the<sp/>numbers<sp/>of<sp/>the<sp/>start<sp/>and<sp/>end<sp/>pages<sp/>of<sp/>any<sp/>node<sp/>and<sp/>their<sp/>overall<sp/>page<sp/>spans.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;NodeCollection&gt;<sp/>nodes<sp/>=<sp/>doc-&gt;GetChildNodes(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379aed36a1ef76a59ee3f15180e0441188ad" kindref="member" tooltip="Indicates all node types. Allows to select all children.">NodeType::Any</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keywordflow">for</highlight><highlight class="normal"><sp/>(</highlight><highlight class="keyword">const</highlight><highlight class="normal"><sp/></highlight><highlight class="keyword">auto</highlight><highlight class="normal">&amp;<sp/>node<sp/>:<sp/>System::IterateOver(nodes))</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;-&gt;<sp/><sp/>NodeType.{0}:<sp/>&quot;</highlight><highlight class="normal">,<sp/>node-&gt;get_NodeType())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>(String::Format(u</highlight><highlight class="stringliteral">&quot;\tStarts<sp/>on<sp/>page<sp/>{0},<sp/>ends<sp/>on<sp/>page<sp/>{1},&quot;</highlight><highlight class="normal">,<sp/>layoutCollector-&gt;GetStartPageIndex(node),</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>layoutCollector-&gt;GetEndPageIndex(node))<sp/>+</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;<sp/>spanning<sp/>{0}<sp/>pages.&quot;</highlight><highlight class="normal">,<sp/>layoutCollector-&gt;GetNumPagesSpanned(node)))</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>iterate<sp/>over<sp/>the<sp/>layout<sp/>entities<sp/>using<sp/>a<sp/>LayoutEnumerator.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>layoutEnumerator<sp/>=<sp/>MakeObject&lt;LayoutEnumerator&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a193cfc9be3b995831c6af2fea6650e60" kindref="member" tooltip="Represents page of a document. Page may have Column, HeaderFooter and Comment child entities.">LayoutEntityType::Page</ref>,<sp/>layoutEnumerator-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>The<sp/>LayoutEnumerator<sp/>can<sp/>traverse<sp/>the<sp/>collection<sp/>of<sp/>layout<sp/>entities<sp/>like<sp/>a<sp/>tree.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>also<sp/>apply<sp/>it<sp/>to<sp/>any<sp/>node&apos;s<sp/>corresponding<sp/>layout<sp/>entity.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">layoutEnumerator-&gt;set_Current(layoutCollector-&gt;GetEntity(doc-&gt;GetChild(<ref refid="namespace_aspose_1_1_words_1a344de11ed54cf046eea1f8954a396379afeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="A paragraph of text. A Paragraph node is a container for inline level elements Run,...">NodeType::Paragraph</ref>,<sp/>1,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">)));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_layout_1ab12c91b683cec496da3a374d490769a2a9ce62112cff8eb735d9270c2e285b000" kindref="member" tooltip="Represents one or more characters in a line. This include special characters like field start/end mar...">LayoutEntityType::Span</ref>,<sp/>layoutEnumerator-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;¶&quot;</highlight><highlight class="normal">,<sp/>layoutEnumerator-&gt;get_Text());</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::Layout::LayoutCollector</label>
+        <link refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::Layout::LayoutCollector</label>
+        <link refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Layout/LayoutCollector.h" line="111" column="1" bodyfile="Aspose.Words.Cpp/Layout/LayoutCollector.h" bodystart="112" bodyend="558"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1ada7e67fa8fa8f21b937314fce7e3ed31" prot="private" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutCollector</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1a78a732352245f1c1677cbc5d62dd42c7" prot="public" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutCollector</scope><name>Clear</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1ae10b32d218710f34bcfe338fed123e81" prot="public" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutCollector</scope><name>get_Document</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1a42899b16c9c7e289da89a74835b6b631" prot="public" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutCollector</scope><name>GetEndPageIndex</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1afac264eaa344dcf5faed80c1be8777bc" prot="public" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutCollector</scope><name>GetEntity</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1a7f2be9ba89d66aff8c7d03d74d9239a1" prot="public" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutCollector</scope><name>GetNumPagesSpanned</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1aea118c896c4241395d465c6a3bc95afb" prot="public" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutCollector</scope><name>GetStartPageIndex</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1adbffa932be396d04920dd2d83f11b886" prot="public" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutCollector</scope><name>LayoutCollector</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1afcc2f65f62f7674f86b2c9207c4900ef" prot="private" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutCollector</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1aee0751e3a3907449732972ce3dc06cee" prot="private" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutCollector</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1adaddb21e3dd5f84aede85d6f769061b5" prot="private" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutCollector</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1a33338e79bb9e1611cb7f07a5ec63e5de" prot="private" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutCollector</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1a2482a7e7374e18baa88a01c33a3a7def" prot="private" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutCollector</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1ae43d24972bdcda2f34bffff9087309e1" prot="public" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutCollector</scope><name>set_Document</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1a1b4351d2bb5f7691d58601f728a1d275" prot="private" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutCollector</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1a100799cc6c04a6edb52676a8dac594f1" prot="private" virt="non-virtual"><scope>Aspose::Words::Layout::LayoutCollector</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_layout_1_1_layout_collector_1aa9138f3aefe9ef6b4b9d4b0f8034bff7" prot="private" virt="virtual"><scope>Aspose::Words::Layout::LayoutCollector</scope><name>~LayoutCollector</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

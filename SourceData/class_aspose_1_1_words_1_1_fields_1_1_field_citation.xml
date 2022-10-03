@@ -1,0 +1,1070 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_fields_1_1_field_citation" kind="class" language="C++" prot="public">
+    <compoundname>Aspose::Words::Fields::FieldCitation</compoundname>
+    <basecompoundref refid="class_aspose_1_1_words_1_1_fields_1_1_field" prot="public" virt="non-virtual">Aspose::Words::Fields::Field</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::Fields::IFieldCodeTokenInfoProvider</basecompoundref>
+    <includes refid="_field_citation_8h" local="no">Aspose.Words.Cpp/Fields/FieldCitation.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a3987d4a423ec8670367c0a6a0f6090cd" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">Aspose::Words::Fields::Field</ref></type>
+        <definition>typedef Aspose::Words::Fields::Field Aspose::Words::Fields::FieldCitation::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldCitation::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="93" column="42" bodyfile="Aspose.Words.Cpp/Fields/FieldCitation.h" bodystart="93" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1ae1714a1462c233cc02065d5f044f07e4" prot="private" static="no">
+        <type>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</type>
+        <definition>typedef Aspose::Words::Fields::IFieldCodeTokenInfoProvider Aspose::Words::Fields::FieldCitation::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::Fields::FieldCitation::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="94" column="64" bodyfile="Aspose.Words.Cpp/Fields/FieldCitation.h" bodystart="94" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1ac8aa4206ee588a470810bf82513bde31" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation" kindref="compound">FieldCitation</ref></type>
+        <definition>typedef FieldCitation Aspose::Words::Fields::FieldCitation::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldCitation::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="92" column="27" bodyfile="Aspose.Words.Cpp/Fields/FieldCitation.h" bodystart="92" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1ad3293abf59f6d1c781e5872c2726540a" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field" kindref="compound">BaseType</ref>, BaseType1 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1&gt; Aspose::Words::Fields::FieldCitation::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::Fields::FieldCitation::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="96" column="37" bodyfile="Aspose.Words.Cpp/Fields/FieldCitation.h" bodystart="96" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a69a196d6939afda6e8b601b02fbfb140" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>Aspose::Words::Fields::FieldSwitchType</type>
+        <definition>Aspose::Words::Fields::FieldSwitchType Aspose::Words::Fields::FieldCitation::GetSwitchType</definition>
+        <argsstring>(System::String) override</argsstring>
+        <name>GetSwitchType</name>
+        <qualifiedname>Aspose::Words::Fields::FieldCitation::GetSwitchType</qualifiedname>
+        <param>
+          <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="674" column="44"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a639cf55c8ef04eec2b9f9fe3b6ba6469" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::Fields::FieldCitation::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::Fields::FieldCitation::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="97" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1ad7726d6e2c47769460023fd33a2489b7" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldCitation::get_AnotherSourceTag</definition>
+        <argsstring>()</argsstring>
+        <name>get_AnotherSourceTag</name>
+        <qualifiedname>Aspose::Words::Fields::FieldCitation::get_AnotherSourceTag</qualifiedname>
+        <briefdescription>
+<para>Gets or sets a value that mathes the <bold>Tag</bold> element&apos;s value of another source to be included in the citation. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with CITATION and BIBLIOGRAPHY fields. <programlisting><codeline><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>containing<sp/>bibliographical<sp/>sources<sp/>that<sp/>we<sp/>can<sp/>find<sp/>in</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>via<sp/>References<sp/>-&gt;<sp/>Citations<sp/>&amp;<sp/>Bibliography<sp/>-&gt;<sp/>Manage<sp/>Sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Bibliography.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>to<sp/>be<sp/>cited<sp/>with<sp/>one<sp/>source.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>citation<sp/>with<sp/>just<sp/>the<sp/>page<sp/>number<sp/>and<sp/>the<sp/>author<sp/>of<sp/>the<sp/>referenced<sp/>book.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldCitation<sp/>=<sp/>System::DynamicCast&lt;FieldCitation&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca6f6106935013ef3862dfb3f49db090d3" kindref="member" tooltip="Specifies the CITATION field.">FieldType::FieldCitation</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>refer<sp/>to<sp/>sources<sp/>using<sp/>their<sp/>tag<sp/>names.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SourceTag(u</highlight><highlight class="stringliteral">&quot;Book1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_PageNumber(u</highlight><highlight class="stringliteral">&quot;85&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressAuthor(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressTitle(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressYear(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>CITATION<sp/><sp/>Book1<sp/>\\p<sp/>85<sp/>\\t<sp/>\\y&quot;</highlight><highlight class="normal">,<sp/>fieldCitation-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>more<sp/>detailed<sp/>citation<sp/>which<sp/>cites<sp/>two<sp/>sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertParagraph();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>to<sp/>be<sp/>cited<sp/>with<sp/>two<sp/>sources.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation<sp/>=<sp/>System::DynamicCast&lt;FieldCitation&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca6f6106935013ef3862dfb3f49db090d3" kindref="member" tooltip="Specifies the CITATION field.">FieldType::FieldCitation</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SourceTag(u</highlight><highlight class="stringliteral">&quot;Book1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_AnotherSourceTag(u</highlight><highlight class="stringliteral">&quot;Book2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_FormatLanguageId(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_PageNumber(u</highlight><highlight class="stringliteral">&quot;19&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_Prefix(u</highlight><highlight class="stringliteral">&quot;Prefix<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_Suffix(u</highlight><highlight class="stringliteral">&quot;<sp/>Suffix&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressAuthor(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressTitle(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressYear(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_VolumeNumber(u</highlight><highlight class="stringliteral">&quot;VII&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>CITATION<sp/><sp/>Book1<sp/>\\m<sp/>Book2<sp/>\\l<sp/>en-US<sp/>\\p<sp/>19<sp/>\\f<sp/>\&quot;Prefix<sp/>\&quot;<sp/>\\s<sp/>\&quot;<sp/>Suffix\&quot;<sp/>\\v<sp/>VII&quot;</highlight><highlight class="normal">,<sp/>fieldCitation-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>a<sp/>BIBLIOGRAPHY<sp/>field<sp/>to<sp/>display<sp/>all<sp/>the<sp/>sources<sp/>within<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldBibliography<sp/>=<sp/>System::DynamicCast&lt;FieldBibliography&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf22dfaac20b21463ec2a14ebf5318220" kindref="member" tooltip="Specifies the BIBLIOGRAPHY field.">FieldType::FieldBibliography</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldBibliography-&gt;set_FormatLanguageId(u</highlight><highlight class="stringliteral">&quot;1124&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>BIBLIOGRAPHY<sp/><sp/>\\l<sp/>1124&quot;</highlight><highlight class="normal">,<sp/>fieldBibliography-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.CITATION.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="667" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a68793efba1456d4679a4ec422e8c170e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldCitation::get_FormatLanguageId</definition>
+        <argsstring>()</argsstring>
+        <name>get_FormatLanguageId</name>
+        <qualifiedname>Aspose::Words::Fields::FieldCitation::get_FormatLanguageId</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the language ID that is used in conjunction with the specified bibliographic style to format the citation in the document. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with CITATION and BIBLIOGRAPHY fields. <programlisting><codeline><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>containing<sp/>bibliographical<sp/>sources<sp/>that<sp/>we<sp/>can<sp/>find<sp/>in</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>via<sp/>References<sp/>-&gt;<sp/>Citations<sp/>&amp;<sp/>Bibliography<sp/>-&gt;<sp/>Manage<sp/>Sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Bibliography.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>to<sp/>be<sp/>cited<sp/>with<sp/>one<sp/>source.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>citation<sp/>with<sp/>just<sp/>the<sp/>page<sp/>number<sp/>and<sp/>the<sp/>author<sp/>of<sp/>the<sp/>referenced<sp/>book.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldCitation<sp/>=<sp/>System::DynamicCast&lt;FieldCitation&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca6f6106935013ef3862dfb3f49db090d3" kindref="member" tooltip="Specifies the CITATION field.">FieldType::FieldCitation</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>refer<sp/>to<sp/>sources<sp/>using<sp/>their<sp/>tag<sp/>names.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SourceTag(u</highlight><highlight class="stringliteral">&quot;Book1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_PageNumber(u</highlight><highlight class="stringliteral">&quot;85&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressAuthor(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressTitle(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressYear(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>CITATION<sp/><sp/>Book1<sp/>\\p<sp/>85<sp/>\\t<sp/>\\y&quot;</highlight><highlight class="normal">,<sp/>fieldCitation-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>more<sp/>detailed<sp/>citation<sp/>which<sp/>cites<sp/>two<sp/>sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertParagraph();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>to<sp/>be<sp/>cited<sp/>with<sp/>two<sp/>sources.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation<sp/>=<sp/>System::DynamicCast&lt;FieldCitation&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca6f6106935013ef3862dfb3f49db090d3" kindref="member" tooltip="Specifies the CITATION field.">FieldType::FieldCitation</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SourceTag(u</highlight><highlight class="stringliteral">&quot;Book1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_AnotherSourceTag(u</highlight><highlight class="stringliteral">&quot;Book2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_FormatLanguageId(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_PageNumber(u</highlight><highlight class="stringliteral">&quot;19&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_Prefix(u</highlight><highlight class="stringliteral">&quot;Prefix<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_Suffix(u</highlight><highlight class="stringliteral">&quot;<sp/>Suffix&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressAuthor(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressTitle(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressYear(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_VolumeNumber(u</highlight><highlight class="stringliteral">&quot;VII&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>CITATION<sp/><sp/>Book1<sp/>\\m<sp/>Book2<sp/>\\l<sp/>en-US<sp/>\\p<sp/>19<sp/>\\f<sp/>\&quot;Prefix<sp/>\&quot;<sp/>\\s<sp/>\&quot;<sp/>Suffix\&quot;<sp/>\\v<sp/>VII&quot;</highlight><highlight class="normal">,<sp/>fieldCitation-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>a<sp/>BIBLIOGRAPHY<sp/>field<sp/>to<sp/>display<sp/>all<sp/>the<sp/>sources<sp/>within<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldBibliography<sp/>=<sp/>System::DynamicCast&lt;FieldBibliography&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf22dfaac20b21463ec2a14ebf5318220" kindref="member" tooltip="Specifies the BIBLIOGRAPHY field.">FieldType::FieldBibliography</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldBibliography-&gt;set_FormatLanguageId(u</highlight><highlight class="stringliteral">&quot;1124&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>BIBLIOGRAPHY<sp/><sp/>\\l<sp/>1124&quot;</highlight><highlight class="normal">,<sp/>fieldBibliography-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.CITATION.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="211" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a39d988670d293db695278947dca797af" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldCitation::get_PageNumber</definition>
+        <argsstring>()</argsstring>
+        <name>get_PageNumber</name>
+        <qualifiedname>Aspose::Words::Fields::FieldCitation::get_PageNumber</qualifiedname>
+        <briefdescription>
+<para>Gets or sets a page number associated with the citation. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with CITATION and BIBLIOGRAPHY fields. <programlisting><codeline><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>containing<sp/>bibliographical<sp/>sources<sp/>that<sp/>we<sp/>can<sp/>find<sp/>in</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>via<sp/>References<sp/>-&gt;<sp/>Citations<sp/>&amp;<sp/>Bibliography<sp/>-&gt;<sp/>Manage<sp/>Sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Bibliography.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>to<sp/>be<sp/>cited<sp/>with<sp/>one<sp/>source.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>citation<sp/>with<sp/>just<sp/>the<sp/>page<sp/>number<sp/>and<sp/>the<sp/>author<sp/>of<sp/>the<sp/>referenced<sp/>book.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldCitation<sp/>=<sp/>System::DynamicCast&lt;FieldCitation&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca6f6106935013ef3862dfb3f49db090d3" kindref="member" tooltip="Specifies the CITATION field.">FieldType::FieldCitation</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>refer<sp/>to<sp/>sources<sp/>using<sp/>their<sp/>tag<sp/>names.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SourceTag(u</highlight><highlight class="stringliteral">&quot;Book1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_PageNumber(u</highlight><highlight class="stringliteral">&quot;85&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressAuthor(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressTitle(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressYear(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>CITATION<sp/><sp/>Book1<sp/>\\p<sp/>85<sp/>\\t<sp/>\\y&quot;</highlight><highlight class="normal">,<sp/>fieldCitation-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>more<sp/>detailed<sp/>citation<sp/>which<sp/>cites<sp/>two<sp/>sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertParagraph();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>to<sp/>be<sp/>cited<sp/>with<sp/>two<sp/>sources.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation<sp/>=<sp/>System::DynamicCast&lt;FieldCitation&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca6f6106935013ef3862dfb3f49db090d3" kindref="member" tooltip="Specifies the CITATION field.">FieldType::FieldCitation</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SourceTag(u</highlight><highlight class="stringliteral">&quot;Book1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_AnotherSourceTag(u</highlight><highlight class="stringliteral">&quot;Book2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_FormatLanguageId(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_PageNumber(u</highlight><highlight class="stringliteral">&quot;19&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_Prefix(u</highlight><highlight class="stringliteral">&quot;Prefix<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_Suffix(u</highlight><highlight class="stringliteral">&quot;<sp/>Suffix&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressAuthor(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressTitle(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressYear(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_VolumeNumber(u</highlight><highlight class="stringliteral">&quot;VII&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>CITATION<sp/><sp/>Book1<sp/>\\m<sp/>Book2<sp/>\\l<sp/>en-US<sp/>\\p<sp/>19<sp/>\\f<sp/>\&quot;Prefix<sp/>\&quot;<sp/>\\s<sp/>\&quot;<sp/>Suffix\&quot;<sp/>\\v<sp/>VII&quot;</highlight><highlight class="normal">,<sp/>fieldCitation-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>a<sp/>BIBLIOGRAPHY<sp/>field<sp/>to<sp/>display<sp/>all<sp/>the<sp/>sources<sp/>within<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldBibliography<sp/>=<sp/>System::DynamicCast&lt;FieldBibliography&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf22dfaac20b21463ec2a14ebf5318220" kindref="member" tooltip="Specifies the BIBLIOGRAPHY field.">FieldType::FieldBibliography</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldBibliography-&gt;set_FormatLanguageId(u</highlight><highlight class="stringliteral">&quot;1124&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>BIBLIOGRAPHY<sp/><sp/>\\l<sp/>1124&quot;</highlight><highlight class="normal">,<sp/>fieldBibliography-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.CITATION.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="553" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a930bdbf53319f92f036fc4cd541b6d33" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldCitation::get_Prefix</definition>
+        <argsstring>()</argsstring>
+        <name>get_Prefix</name>
+        <qualifiedname>Aspose::Words::Fields::FieldCitation::get_Prefix</qualifiedname>
+        <briefdescription>
+<para>Gets or sets a prefix that is prepended to the citation. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with CITATION and BIBLIOGRAPHY fields. <programlisting><codeline><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>containing<sp/>bibliographical<sp/>sources<sp/>that<sp/>we<sp/>can<sp/>find<sp/>in</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>via<sp/>References<sp/>-&gt;<sp/>Citations<sp/>&amp;<sp/>Bibliography<sp/>-&gt;<sp/>Manage<sp/>Sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Bibliography.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>to<sp/>be<sp/>cited<sp/>with<sp/>one<sp/>source.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>citation<sp/>with<sp/>just<sp/>the<sp/>page<sp/>number<sp/>and<sp/>the<sp/>author<sp/>of<sp/>the<sp/>referenced<sp/>book.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldCitation<sp/>=<sp/>System::DynamicCast&lt;FieldCitation&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca6f6106935013ef3862dfb3f49db090d3" kindref="member" tooltip="Specifies the CITATION field.">FieldType::FieldCitation</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>refer<sp/>to<sp/>sources<sp/>using<sp/>their<sp/>tag<sp/>names.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SourceTag(u</highlight><highlight class="stringliteral">&quot;Book1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_PageNumber(u</highlight><highlight class="stringliteral">&quot;85&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressAuthor(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressTitle(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressYear(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>CITATION<sp/><sp/>Book1<sp/>\\p<sp/>85<sp/>\\t<sp/>\\y&quot;</highlight><highlight class="normal">,<sp/>fieldCitation-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>more<sp/>detailed<sp/>citation<sp/>which<sp/>cites<sp/>two<sp/>sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertParagraph();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>to<sp/>be<sp/>cited<sp/>with<sp/>two<sp/>sources.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation<sp/>=<sp/>System::DynamicCast&lt;FieldCitation&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca6f6106935013ef3862dfb3f49db090d3" kindref="member" tooltip="Specifies the CITATION field.">FieldType::FieldCitation</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SourceTag(u</highlight><highlight class="stringliteral">&quot;Book1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_AnotherSourceTag(u</highlight><highlight class="stringliteral">&quot;Book2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_FormatLanguageId(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_PageNumber(u</highlight><highlight class="stringliteral">&quot;19&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_Prefix(u</highlight><highlight class="stringliteral">&quot;Prefix<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_Suffix(u</highlight><highlight class="stringliteral">&quot;<sp/>Suffix&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressAuthor(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressTitle(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressYear(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_VolumeNumber(u</highlight><highlight class="stringliteral">&quot;VII&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>CITATION<sp/><sp/>Book1<sp/>\\m<sp/>Book2<sp/>\\l<sp/>en-US<sp/>\\p<sp/>19<sp/>\\f<sp/>\&quot;Prefix<sp/>\&quot;<sp/>\\s<sp/>\&quot;<sp/>Suffix\&quot;<sp/>\\v<sp/>VII&quot;</highlight><highlight class="normal">,<sp/>fieldCitation-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>a<sp/>BIBLIOGRAPHY<sp/>field<sp/>to<sp/>display<sp/>all<sp/>the<sp/>sources<sp/>within<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldBibliography<sp/>=<sp/>System::DynamicCast&lt;FieldBibliography&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf22dfaac20b21463ec2a14ebf5318220" kindref="member" tooltip="Specifies the BIBLIOGRAPHY field.">FieldType::FieldBibliography</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldBibliography-&gt;set_FormatLanguageId(u</highlight><highlight class="stringliteral">&quot;1124&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>BIBLIOGRAPHY<sp/><sp/>\\l<sp/>1124&quot;</highlight><highlight class="normal">,<sp/>fieldBibliography-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.CITATION.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="268" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a2e33e861e91eaff4ca73352e435b7e7f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldCitation::get_SourceTag</definition>
+        <argsstring>()</argsstring>
+        <name>get_SourceTag</name>
+        <qualifiedname>Aspose::Words::Fields::FieldCitation::get_SourceTag</qualifiedname>
+        <briefdescription>
+<para>Gets or sets a value that mathes the <bold>Tag</bold> element&apos;s value of the source to insert. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with CITATION and BIBLIOGRAPHY fields. <programlisting><codeline><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>containing<sp/>bibliographical<sp/>sources<sp/>that<sp/>we<sp/>can<sp/>find<sp/>in</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>via<sp/>References<sp/>-&gt;<sp/>Citations<sp/>&amp;<sp/>Bibliography<sp/>-&gt;<sp/>Manage<sp/>Sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Bibliography.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>to<sp/>be<sp/>cited<sp/>with<sp/>one<sp/>source.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>citation<sp/>with<sp/>just<sp/>the<sp/>page<sp/>number<sp/>and<sp/>the<sp/>author<sp/>of<sp/>the<sp/>referenced<sp/>book.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldCitation<sp/>=<sp/>System::DynamicCast&lt;FieldCitation&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca6f6106935013ef3862dfb3f49db090d3" kindref="member" tooltip="Specifies the CITATION field.">FieldType::FieldCitation</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>refer<sp/>to<sp/>sources<sp/>using<sp/>their<sp/>tag<sp/>names.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SourceTag(u</highlight><highlight class="stringliteral">&quot;Book1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_PageNumber(u</highlight><highlight class="stringliteral">&quot;85&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressAuthor(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressTitle(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressYear(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>CITATION<sp/><sp/>Book1<sp/>\\p<sp/>85<sp/>\\t<sp/>\\y&quot;</highlight><highlight class="normal">,<sp/>fieldCitation-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>more<sp/>detailed<sp/>citation<sp/>which<sp/>cites<sp/>two<sp/>sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertParagraph();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>to<sp/>be<sp/>cited<sp/>with<sp/>two<sp/>sources.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation<sp/>=<sp/>System::DynamicCast&lt;FieldCitation&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca6f6106935013ef3862dfb3f49db090d3" kindref="member" tooltip="Specifies the CITATION field.">FieldType::FieldCitation</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SourceTag(u</highlight><highlight class="stringliteral">&quot;Book1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_AnotherSourceTag(u</highlight><highlight class="stringliteral">&quot;Book2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_FormatLanguageId(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_PageNumber(u</highlight><highlight class="stringliteral">&quot;19&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_Prefix(u</highlight><highlight class="stringliteral">&quot;Prefix<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_Suffix(u</highlight><highlight class="stringliteral">&quot;<sp/>Suffix&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressAuthor(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressTitle(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressYear(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_VolumeNumber(u</highlight><highlight class="stringliteral">&quot;VII&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>CITATION<sp/><sp/>Book1<sp/>\\m<sp/>Book2<sp/>\\l<sp/>en-US<sp/>\\p<sp/>19<sp/>\\f<sp/>\&quot;Prefix<sp/>\&quot;<sp/>\\s<sp/>\&quot;<sp/>Suffix\&quot;<sp/>\\v<sp/>VII&quot;</highlight><highlight class="normal">,<sp/>fieldCitation-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>a<sp/>BIBLIOGRAPHY<sp/>field<sp/>to<sp/>display<sp/>all<sp/>the<sp/>sources<sp/>within<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldBibliography<sp/>=<sp/>System::DynamicCast&lt;FieldBibliography&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf22dfaac20b21463ec2a14ebf5318220" kindref="member" tooltip="Specifies the BIBLIOGRAPHY field.">FieldType::FieldBibliography</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldBibliography-&gt;set_FormatLanguageId(u</highlight><highlight class="stringliteral">&quot;1124&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>BIBLIOGRAPHY<sp/><sp/>\\l<sp/>1124&quot;</highlight><highlight class="normal">,<sp/>fieldBibliography-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.CITATION.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="153" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a6e997e7ab542a40eb72e451b12a72144" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldCitation::get_Suffix</definition>
+        <argsstring>()</argsstring>
+        <name>get_Suffix</name>
+        <qualifiedname>Aspose::Words::Fields::FieldCitation::get_Suffix</qualifiedname>
+        <briefdescription>
+<para>Gets or sets a suffix that is appended to the citation. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with CITATION and BIBLIOGRAPHY fields. <programlisting><codeline><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>containing<sp/>bibliographical<sp/>sources<sp/>that<sp/>we<sp/>can<sp/>find<sp/>in</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>via<sp/>References<sp/>-&gt;<sp/>Citations<sp/>&amp;<sp/>Bibliography<sp/>-&gt;<sp/>Manage<sp/>Sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Bibliography.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>to<sp/>be<sp/>cited<sp/>with<sp/>one<sp/>source.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>citation<sp/>with<sp/>just<sp/>the<sp/>page<sp/>number<sp/>and<sp/>the<sp/>author<sp/>of<sp/>the<sp/>referenced<sp/>book.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldCitation<sp/>=<sp/>System::DynamicCast&lt;FieldCitation&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca6f6106935013ef3862dfb3f49db090d3" kindref="member" tooltip="Specifies the CITATION field.">FieldType::FieldCitation</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>refer<sp/>to<sp/>sources<sp/>using<sp/>their<sp/>tag<sp/>names.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SourceTag(u</highlight><highlight class="stringliteral">&quot;Book1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_PageNumber(u</highlight><highlight class="stringliteral">&quot;85&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressAuthor(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressTitle(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressYear(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>CITATION<sp/><sp/>Book1<sp/>\\p<sp/>85<sp/>\\t<sp/>\\y&quot;</highlight><highlight class="normal">,<sp/>fieldCitation-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>more<sp/>detailed<sp/>citation<sp/>which<sp/>cites<sp/>two<sp/>sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertParagraph();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>to<sp/>be<sp/>cited<sp/>with<sp/>two<sp/>sources.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation<sp/>=<sp/>System::DynamicCast&lt;FieldCitation&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca6f6106935013ef3862dfb3f49db090d3" kindref="member" tooltip="Specifies the CITATION field.">FieldType::FieldCitation</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SourceTag(u</highlight><highlight class="stringliteral">&quot;Book1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_AnotherSourceTag(u</highlight><highlight class="stringliteral">&quot;Book2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_FormatLanguageId(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_PageNumber(u</highlight><highlight class="stringliteral">&quot;19&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_Prefix(u</highlight><highlight class="stringliteral">&quot;Prefix<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_Suffix(u</highlight><highlight class="stringliteral">&quot;<sp/>Suffix&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressAuthor(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressTitle(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressYear(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_VolumeNumber(u</highlight><highlight class="stringliteral">&quot;VII&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>CITATION<sp/><sp/>Book1<sp/>\\m<sp/>Book2<sp/>\\l<sp/>en-US<sp/>\\p<sp/>19<sp/>\\f<sp/>\&quot;Prefix<sp/>\&quot;<sp/>\\s<sp/>\&quot;<sp/>Suffix\&quot;<sp/>\\v<sp/>VII&quot;</highlight><highlight class="normal">,<sp/>fieldCitation-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>a<sp/>BIBLIOGRAPHY<sp/>field<sp/>to<sp/>display<sp/>all<sp/>the<sp/>sources<sp/>within<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldBibliography<sp/>=<sp/>System::DynamicCast&lt;FieldBibliography&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf22dfaac20b21463ec2a14ebf5318220" kindref="member" tooltip="Specifies the BIBLIOGRAPHY field.">FieldType::FieldBibliography</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldBibliography-&gt;set_FormatLanguageId(u</highlight><highlight class="stringliteral">&quot;1124&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>BIBLIOGRAPHY<sp/><sp/>\\l<sp/>1124&quot;</highlight><highlight class="normal">,<sp/>fieldBibliography-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.CITATION.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="325" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1aeaa294d7a3984bca8d0e4fa004dc6c43" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldCitation::get_SuppressAuthor</definition>
+        <argsstring>()</argsstring>
+        <name>get_SuppressAuthor</name>
+        <qualifiedname>Aspose::Words::Fields::FieldCitation::get_SuppressAuthor</qualifiedname>
+        <briefdescription>
+<para>Gets or sets whether the author information is suppressed from the citation. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with CITATION and BIBLIOGRAPHY fields. <programlisting><codeline><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>containing<sp/>bibliographical<sp/>sources<sp/>that<sp/>we<sp/>can<sp/>find<sp/>in</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>via<sp/>References<sp/>-&gt;<sp/>Citations<sp/>&amp;<sp/>Bibliography<sp/>-&gt;<sp/>Manage<sp/>Sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Bibliography.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>to<sp/>be<sp/>cited<sp/>with<sp/>one<sp/>source.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>citation<sp/>with<sp/>just<sp/>the<sp/>page<sp/>number<sp/>and<sp/>the<sp/>author<sp/>of<sp/>the<sp/>referenced<sp/>book.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldCitation<sp/>=<sp/>System::DynamicCast&lt;FieldCitation&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca6f6106935013ef3862dfb3f49db090d3" kindref="member" tooltip="Specifies the CITATION field.">FieldType::FieldCitation</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>refer<sp/>to<sp/>sources<sp/>using<sp/>their<sp/>tag<sp/>names.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SourceTag(u</highlight><highlight class="stringliteral">&quot;Book1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_PageNumber(u</highlight><highlight class="stringliteral">&quot;85&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressAuthor(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressTitle(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressYear(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>CITATION<sp/><sp/>Book1<sp/>\\p<sp/>85<sp/>\\t<sp/>\\y&quot;</highlight><highlight class="normal">,<sp/>fieldCitation-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>more<sp/>detailed<sp/>citation<sp/>which<sp/>cites<sp/>two<sp/>sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertParagraph();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>to<sp/>be<sp/>cited<sp/>with<sp/>two<sp/>sources.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation<sp/>=<sp/>System::DynamicCast&lt;FieldCitation&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca6f6106935013ef3862dfb3f49db090d3" kindref="member" tooltip="Specifies the CITATION field.">FieldType::FieldCitation</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SourceTag(u</highlight><highlight class="stringliteral">&quot;Book1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_AnotherSourceTag(u</highlight><highlight class="stringliteral">&quot;Book2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_FormatLanguageId(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_PageNumber(u</highlight><highlight class="stringliteral">&quot;19&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_Prefix(u</highlight><highlight class="stringliteral">&quot;Prefix<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_Suffix(u</highlight><highlight class="stringliteral">&quot;<sp/>Suffix&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressAuthor(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressTitle(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressYear(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_VolumeNumber(u</highlight><highlight class="stringliteral">&quot;VII&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>CITATION<sp/><sp/>Book1<sp/>\\m<sp/>Book2<sp/>\\l<sp/>en-US<sp/>\\p<sp/>19<sp/>\\f<sp/>\&quot;Prefix<sp/>\&quot;<sp/>\\s<sp/>\&quot;<sp/>Suffix\&quot;<sp/>\\v<sp/>VII&quot;</highlight><highlight class="normal">,<sp/>fieldCitation-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>a<sp/>BIBLIOGRAPHY<sp/>field<sp/>to<sp/>display<sp/>all<sp/>the<sp/>sources<sp/>within<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldBibliography<sp/>=<sp/>System::DynamicCast&lt;FieldBibliography&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf22dfaac20b21463ec2a14ebf5318220" kindref="member" tooltip="Specifies the BIBLIOGRAPHY field.">FieldType::FieldBibliography</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldBibliography-&gt;set_FormatLanguageId(u</highlight><highlight class="stringliteral">&quot;1124&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>BIBLIOGRAPHY<sp/><sp/>\\l<sp/>1124&quot;</highlight><highlight class="normal">,<sp/>fieldBibliography-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.CITATION.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="382" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a232e0d1b88ddd339531925b928fab0b0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldCitation::get_SuppressTitle</definition>
+        <argsstring>()</argsstring>
+        <name>get_SuppressTitle</name>
+        <qualifiedname>Aspose::Words::Fields::FieldCitation::get_SuppressTitle</qualifiedname>
+        <briefdescription>
+<para>Gets or sets whether the title information is suppressed from the citation. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with CITATION and BIBLIOGRAPHY fields. <programlisting><codeline><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>containing<sp/>bibliographical<sp/>sources<sp/>that<sp/>we<sp/>can<sp/>find<sp/>in</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>via<sp/>References<sp/>-&gt;<sp/>Citations<sp/>&amp;<sp/>Bibliography<sp/>-&gt;<sp/>Manage<sp/>Sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Bibliography.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>to<sp/>be<sp/>cited<sp/>with<sp/>one<sp/>source.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>citation<sp/>with<sp/>just<sp/>the<sp/>page<sp/>number<sp/>and<sp/>the<sp/>author<sp/>of<sp/>the<sp/>referenced<sp/>book.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldCitation<sp/>=<sp/>System::DynamicCast&lt;FieldCitation&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca6f6106935013ef3862dfb3f49db090d3" kindref="member" tooltip="Specifies the CITATION field.">FieldType::FieldCitation</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>refer<sp/>to<sp/>sources<sp/>using<sp/>their<sp/>tag<sp/>names.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SourceTag(u</highlight><highlight class="stringliteral">&quot;Book1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_PageNumber(u</highlight><highlight class="stringliteral">&quot;85&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressAuthor(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressTitle(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressYear(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>CITATION<sp/><sp/>Book1<sp/>\\p<sp/>85<sp/>\\t<sp/>\\y&quot;</highlight><highlight class="normal">,<sp/>fieldCitation-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>more<sp/>detailed<sp/>citation<sp/>which<sp/>cites<sp/>two<sp/>sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertParagraph();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>to<sp/>be<sp/>cited<sp/>with<sp/>two<sp/>sources.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation<sp/>=<sp/>System::DynamicCast&lt;FieldCitation&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca6f6106935013ef3862dfb3f49db090d3" kindref="member" tooltip="Specifies the CITATION field.">FieldType::FieldCitation</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SourceTag(u</highlight><highlight class="stringliteral">&quot;Book1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_AnotherSourceTag(u</highlight><highlight class="stringliteral">&quot;Book2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_FormatLanguageId(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_PageNumber(u</highlight><highlight class="stringliteral">&quot;19&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_Prefix(u</highlight><highlight class="stringliteral">&quot;Prefix<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_Suffix(u</highlight><highlight class="stringliteral">&quot;<sp/>Suffix&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressAuthor(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressTitle(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressYear(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_VolumeNumber(u</highlight><highlight class="stringliteral">&quot;VII&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>CITATION<sp/><sp/>Book1<sp/>\\m<sp/>Book2<sp/>\\l<sp/>en-US<sp/>\\p<sp/>19<sp/>\\f<sp/>\&quot;Prefix<sp/>\&quot;<sp/>\\s<sp/>\&quot;<sp/>Suffix\&quot;<sp/>\\v<sp/>VII&quot;</highlight><highlight class="normal">,<sp/>fieldCitation-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>a<sp/>BIBLIOGRAPHY<sp/>field<sp/>to<sp/>display<sp/>all<sp/>the<sp/>sources<sp/>within<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldBibliography<sp/>=<sp/>System::DynamicCast&lt;FieldBibliography&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf22dfaac20b21463ec2a14ebf5318220" kindref="member" tooltip="Specifies the BIBLIOGRAPHY field.">FieldType::FieldBibliography</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldBibliography-&gt;set_FormatLanguageId(u</highlight><highlight class="stringliteral">&quot;1124&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>BIBLIOGRAPHY<sp/><sp/>\\l<sp/>1124&quot;</highlight><highlight class="normal">,<sp/>fieldBibliography-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.CITATION.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="439" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1ad9a88f5cfc457740abf271fab933144d" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::Fields::FieldCitation::get_SuppressYear</definition>
+        <argsstring>()</argsstring>
+        <name>get_SuppressYear</name>
+        <qualifiedname>Aspose::Words::Fields::FieldCitation::get_SuppressYear</qualifiedname>
+        <briefdescription>
+<para>Gets or sets whether the year information is suppressed from the citation. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with CITATION and BIBLIOGRAPHY fields. <programlisting><codeline><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>containing<sp/>bibliographical<sp/>sources<sp/>that<sp/>we<sp/>can<sp/>find<sp/>in</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>via<sp/>References<sp/>-&gt;<sp/>Citations<sp/>&amp;<sp/>Bibliography<sp/>-&gt;<sp/>Manage<sp/>Sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Bibliography.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>to<sp/>be<sp/>cited<sp/>with<sp/>one<sp/>source.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>citation<sp/>with<sp/>just<sp/>the<sp/>page<sp/>number<sp/>and<sp/>the<sp/>author<sp/>of<sp/>the<sp/>referenced<sp/>book.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldCitation<sp/>=<sp/>System::DynamicCast&lt;FieldCitation&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca6f6106935013ef3862dfb3f49db090d3" kindref="member" tooltip="Specifies the CITATION field.">FieldType::FieldCitation</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>refer<sp/>to<sp/>sources<sp/>using<sp/>their<sp/>tag<sp/>names.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SourceTag(u</highlight><highlight class="stringliteral">&quot;Book1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_PageNumber(u</highlight><highlight class="stringliteral">&quot;85&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressAuthor(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressTitle(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressYear(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>CITATION<sp/><sp/>Book1<sp/>\\p<sp/>85<sp/>\\t<sp/>\\y&quot;</highlight><highlight class="normal">,<sp/>fieldCitation-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>more<sp/>detailed<sp/>citation<sp/>which<sp/>cites<sp/>two<sp/>sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertParagraph();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>to<sp/>be<sp/>cited<sp/>with<sp/>two<sp/>sources.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation<sp/>=<sp/>System::DynamicCast&lt;FieldCitation&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca6f6106935013ef3862dfb3f49db090d3" kindref="member" tooltip="Specifies the CITATION field.">FieldType::FieldCitation</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SourceTag(u</highlight><highlight class="stringliteral">&quot;Book1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_AnotherSourceTag(u</highlight><highlight class="stringliteral">&quot;Book2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_FormatLanguageId(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_PageNumber(u</highlight><highlight class="stringliteral">&quot;19&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_Prefix(u</highlight><highlight class="stringliteral">&quot;Prefix<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_Suffix(u</highlight><highlight class="stringliteral">&quot;<sp/>Suffix&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressAuthor(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressTitle(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressYear(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_VolumeNumber(u</highlight><highlight class="stringliteral">&quot;VII&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>CITATION<sp/><sp/>Book1<sp/>\\m<sp/>Book2<sp/>\\l<sp/>en-US<sp/>\\p<sp/>19<sp/>\\f<sp/>\&quot;Prefix<sp/>\&quot;<sp/>\\s<sp/>\&quot;<sp/>Suffix\&quot;<sp/>\\v<sp/>VII&quot;</highlight><highlight class="normal">,<sp/>fieldCitation-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>a<sp/>BIBLIOGRAPHY<sp/>field<sp/>to<sp/>display<sp/>all<sp/>the<sp/>sources<sp/>within<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldBibliography<sp/>=<sp/>System::DynamicCast&lt;FieldBibliography&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf22dfaac20b21463ec2a14ebf5318220" kindref="member" tooltip="Specifies the BIBLIOGRAPHY field.">FieldType::FieldBibliography</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldBibliography-&gt;set_FormatLanguageId(u</highlight><highlight class="stringliteral">&quot;1124&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>BIBLIOGRAPHY<sp/><sp/>\\l<sp/>1124&quot;</highlight><highlight class="normal">,<sp/>fieldBibliography-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.CITATION.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="496" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a09c0757e71a24eee25aba04fa3687720" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref></type>
+        <definition>System::String Aspose::Words::Fields::FieldCitation::get_VolumeNumber</definition>
+        <argsstring>()</argsstring>
+        <name>get_VolumeNumber</name>
+        <qualifiedname>Aspose::Words::Fields::FieldCitation::get_VolumeNumber</qualifiedname>
+        <briefdescription>
+<para>Gets or sets a volume number associated with the citation. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with CITATION and BIBLIOGRAPHY fields. <programlisting><codeline><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>containing<sp/>bibliographical<sp/>sources<sp/>that<sp/>we<sp/>can<sp/>find<sp/>in</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>via<sp/>References<sp/>-&gt;<sp/>Citations<sp/>&amp;<sp/>Bibliography<sp/>-&gt;<sp/>Manage<sp/>Sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Bibliography.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>to<sp/>be<sp/>cited<sp/>with<sp/>one<sp/>source.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>citation<sp/>with<sp/>just<sp/>the<sp/>page<sp/>number<sp/>and<sp/>the<sp/>author<sp/>of<sp/>the<sp/>referenced<sp/>book.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldCitation<sp/>=<sp/>System::DynamicCast&lt;FieldCitation&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca6f6106935013ef3862dfb3f49db090d3" kindref="member" tooltip="Specifies the CITATION field.">FieldType::FieldCitation</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>refer<sp/>to<sp/>sources<sp/>using<sp/>their<sp/>tag<sp/>names.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SourceTag(u</highlight><highlight class="stringliteral">&quot;Book1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_PageNumber(u</highlight><highlight class="stringliteral">&quot;85&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressAuthor(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressTitle(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressYear(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>CITATION<sp/><sp/>Book1<sp/>\\p<sp/>85<sp/>\\t<sp/>\\y&quot;</highlight><highlight class="normal">,<sp/>fieldCitation-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>more<sp/>detailed<sp/>citation<sp/>which<sp/>cites<sp/>two<sp/>sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertParagraph();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>to<sp/>be<sp/>cited<sp/>with<sp/>two<sp/>sources.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation<sp/>=<sp/>System::DynamicCast&lt;FieldCitation&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca6f6106935013ef3862dfb3f49db090d3" kindref="member" tooltip="Specifies the CITATION field.">FieldType::FieldCitation</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SourceTag(u</highlight><highlight class="stringliteral">&quot;Book1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_AnotherSourceTag(u</highlight><highlight class="stringliteral">&quot;Book2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_FormatLanguageId(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_PageNumber(u</highlight><highlight class="stringliteral">&quot;19&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_Prefix(u</highlight><highlight class="stringliteral">&quot;Prefix<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_Suffix(u</highlight><highlight class="stringliteral">&quot;<sp/>Suffix&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressAuthor(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressTitle(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressYear(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_VolumeNumber(u</highlight><highlight class="stringliteral">&quot;VII&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>CITATION<sp/><sp/>Book1<sp/>\\m<sp/>Book2<sp/>\\l<sp/>en-US<sp/>\\p<sp/>19<sp/>\\f<sp/>\&quot;Prefix<sp/>\&quot;<sp/>\\s<sp/>\&quot;<sp/>Suffix\&quot;<sp/>\\v<sp/>VII&quot;</highlight><highlight class="normal">,<sp/>fieldCitation-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>a<sp/>BIBLIOGRAPHY<sp/>field<sp/>to<sp/>display<sp/>all<sp/>the<sp/>sources<sp/>within<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldBibliography<sp/>=<sp/>System::DynamicCast&lt;FieldBibliography&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf22dfaac20b21463ec2a14ebf5318220" kindref="member" tooltip="Specifies the BIBLIOGRAPHY field.">FieldType::FieldBibliography</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldBibliography-&gt;set_FormatLanguageId(u</highlight><highlight class="stringliteral">&quot;1124&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>BIBLIOGRAPHY<sp/><sp/>\\l<sp/>1124&quot;</highlight><highlight class="normal">,<sp/>fieldBibliography-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.CITATION.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="610" column="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1ab060adb0ac0183a9426661a68bc1f38a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldCitation::set_AnotherSourceTag</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_AnotherSourceTag</name>
+        <qualifiedname>Aspose::Words::Fields::FieldCitation::set_AnotherSourceTag</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1ad7726d6e2c47769460023fd33a2489b7" kindref="member">Aspose::Words::Fields::FieldCitation::get_AnotherSourceTag</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="670" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a6e9facb36eee0da8d06cee7c66c25b7e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldCitation::set_FormatLanguageId</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_FormatLanguageId</name>
+        <qualifiedname>Aspose::Words::Fields::FieldCitation::set_FormatLanguageId</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a68793efba1456d4679a4ec422e8c170e" kindref="member">Aspose::Words::Fields::FieldCitation::get_FormatLanguageId</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="214" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1ab07bca1b77025be6b580fcc7a5df40af" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldCitation::set_PageNumber</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_PageNumber</name>
+        <qualifiedname>Aspose::Words::Fields::FieldCitation::set_PageNumber</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a39d988670d293db695278947dca797af" kindref="member">Aspose::Words::Fields::FieldCitation::get_PageNumber</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="556" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1ae96b472f4c31fa67a897ca1075796bac" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldCitation::set_Prefix</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Prefix</name>
+        <qualifiedname>Aspose::Words::Fields::FieldCitation::set_Prefix</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a930bdbf53319f92f036fc4cd541b6d33" kindref="member">Aspose::Words::Fields::FieldCitation::get_Prefix</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="271" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a84037c2cc4bf2bcfea914cd8c563fb83" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldCitation::set_SourceTag</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_SourceTag</name>
+        <qualifiedname>Aspose::Words::Fields::FieldCitation::set_SourceTag</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a2e33e861e91eaff4ca73352e435b7e7f" kindref="member">Aspose::Words::Fields::FieldCitation::get_SourceTag</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="156" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a7e4b54bcb14597ccb86dc757845df4f0" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldCitation::set_Suffix</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_Suffix</name>
+        <qualifiedname>Aspose::Words::Fields::FieldCitation::set_Suffix</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a6e997e7ab542a40eb72e451b12a72144" kindref="member">Aspose::Words::Fields::FieldCitation::get_Suffix</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="328" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a54da44dc7ccd3afc4eb8efa7359406d5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldCitation::set_SuppressAuthor</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_SuppressAuthor</name>
+        <qualifiedname>Aspose::Words::Fields::FieldCitation::set_SuppressAuthor</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1aeaa294d7a3984bca8d0e4fa004dc6c43" kindref="member">Aspose::Words::Fields::FieldCitation::get_SuppressAuthor</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="385" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a37584e4c950e4ed8b43b670afdd6d0d4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldCitation::set_SuppressTitle</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_SuppressTitle</name>
+        <qualifiedname>Aspose::Words::Fields::FieldCitation::set_SuppressTitle</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a232e0d1b88ddd339531925b928fab0b0" kindref="member">Aspose::Words::Fields::FieldCitation::get_SuppressTitle</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="442" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a281f9a379c77efc4037ca2ebd2cbdeb3" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldCitation::set_SuppressYear</definition>
+        <argsstring>(bool value)</argsstring>
+        <name>set_SuppressYear</name>
+        <qualifiedname>Aspose::Words::Fields::FieldCitation::set_SuppressYear</qualifiedname>
+        <param>
+          <type>bool</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1ad9a88f5cfc457740abf271fab933144d" kindref="member">Aspose::Words::Fields::FieldCitation::get_SuppressYear</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="499" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a360ea62c07af3116ab0a44d97ae03fa5" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::Fields::FieldCitation::set_VolumeNumber</definition>
+        <argsstring>(const System::String &amp;value)</argsstring>
+        <name>set_VolumeNumber</name>
+        <qualifiedname>Aspose::Words::Fields::FieldCitation::set_VolumeNumber</qualifiedname>
+        <param>
+          <type>const <ref refid="class/system.string/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::String</ref> &amp;</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a09c0757e71a24eee25aba04fa3687720" kindref="member">Aspose::Words::Fields::FieldCitation::get_VolumeNumber</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="613" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Implements the CITATION field. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with CITATION and BIBLIOGRAPHY fields. <programlisting><codeline><highlight class="comment">//<sp/>Open<sp/>a<sp/>document<sp/>containing<sp/>bibliographical<sp/>sources<sp/>that<sp/>we<sp/>can<sp/>find<sp/>in</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Microsoft<sp/>Word<sp/>via<sp/>References<sp/>-&gt;<sp/>Citations<sp/>&amp;<sp/>Bibliography<sp/>-&gt;<sp/>Manage<sp/>Sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;(MyDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Bibliography.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>to<sp/>be<sp/>cited<sp/>with<sp/>one<sp/>source.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>citation<sp/>with<sp/>just<sp/>the<sp/>page<sp/>number<sp/>and<sp/>the<sp/>author<sp/>of<sp/>the<sp/>referenced<sp/>book.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldCitation<sp/>=<sp/>System::DynamicCast&lt;FieldCitation&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca6f6106935013ef3862dfb3f49db090d3" kindref="member" tooltip="Specifies the CITATION field.">FieldType::FieldCitation</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>refer<sp/>to<sp/>sources<sp/>using<sp/>their<sp/>tag<sp/>names.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SourceTag(u</highlight><highlight class="stringliteral">&quot;Book1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_PageNumber(u</highlight><highlight class="stringliteral">&quot;85&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressAuthor(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressTitle(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressYear(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>CITATION<sp/><sp/>Book1<sp/>\\p<sp/>85<sp/>\\t<sp/>\\y&quot;</highlight><highlight class="normal">,<sp/>fieldCitation-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>more<sp/>detailed<sp/>citation<sp/>which<sp/>cites<sp/>two<sp/>sources.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertParagraph();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Text<sp/>to<sp/>be<sp/>cited<sp/>with<sp/>two<sp/>sources.&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation<sp/>=<sp/>System::DynamicCast&lt;FieldCitation&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edeca6f6106935013ef3862dfb3f49db090d3" kindref="member" tooltip="Specifies the CITATION field.">FieldType::FieldCitation</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SourceTag(u</highlight><highlight class="stringliteral">&quot;Book1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_AnotherSourceTag(u</highlight><highlight class="stringliteral">&quot;Book2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_FormatLanguageId(u</highlight><highlight class="stringliteral">&quot;en-US&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_PageNumber(u</highlight><highlight class="stringliteral">&quot;19&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_Prefix(u</highlight><highlight class="stringliteral">&quot;Prefix<sp/>&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_Suffix(u</highlight><highlight class="stringliteral">&quot;<sp/>Suffix&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressAuthor(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressTitle(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_SuppressYear(</highlight><highlight class="keyword">false</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">fieldCitation-&gt;set_VolumeNumber(u</highlight><highlight class="stringliteral">&quot;VII&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>CITATION<sp/><sp/>Book1<sp/>\\m<sp/>Book2<sp/>\\l<sp/>en-US<sp/>\\p<sp/>19<sp/>\\f<sp/>\&quot;Prefix<sp/>\&quot;<sp/>\\s<sp/>\&quot;<sp/>Suffix\&quot;<sp/>\\v<sp/>VII&quot;</highlight><highlight class="normal">,<sp/>fieldCitation-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>a<sp/>BIBLIOGRAPHY<sp/>field<sp/>to<sp/>display<sp/>all<sp/>the<sp/>sources<sp/>within<sp/>the<sp/>document.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertBreak(<ref refid="namespace_aspose_1_1_words_1a7e027e6d9b3949cd64616f40db971a2ea63be6634e47079da3b4bf81bb9f8cf37" kindref="member" tooltip="Explicit page break.">BreakType::PageBreak</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>fieldBibliography<sp/>=<sp/>System::DynamicCast&lt;FieldBibliography&gt;(builder-&gt;InsertField(<ref refid="namespace_aspose_1_1_words_1_1_fields_1a07fe44a4500c375e409bae0f72c9edecaf22dfaac20b21463ec2a14ebf5318220" kindref="member" tooltip="Specifies the BIBLIOGRAPHY field.">FieldType::FieldBibliography</ref>,<sp/></highlight><highlight class="keyword">true</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">fieldBibliography-&gt;set_FormatLanguageId(u</highlight><highlight class="stringliteral">&quot;1124&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;<sp/>BIBLIOGRAPHY<sp/><sp/>\\l<sp/>1124&quot;</highlight><highlight class="normal">,<sp/>fieldBibliography-&gt;GetFieldCode());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;UpdateFields();</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Field.CITATION.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldCitation</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="2">
+        <label>Aspose::Words::Fields::Field</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>Aspose::Words::Fields::FieldCitation</label>
+        <link refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::Fields::IFieldCodeTokenInfoProvider</label>
+      </node>
+      <node id="3">
+        <label>System::Object</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/Fields/FieldCitation.h" line="90" column="1" bodyfile="Aspose.Words.Cpp/Fields/FieldCitation.h" bodystart="91" bodyend="676"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a3987d4a423ec8670367c0a6a0f6090cd" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1ae1714a1462c233cc02065d5f044f07e4" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1ad7726d6e2c47769460023fd33a2489b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>get_AnotherSourceTag</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a5c2d01019c517ea8098f296903e37a34" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>get_DisplayResult</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad5f0995c85cce833806e847cf25809b7" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>get_End</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a399c14463916724cac0015b430175589" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>get_FieldEnd</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abc40cddc1325f7fec80d8530e5287448" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>get_FieldStart</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a090c5d09915e2ead6cc54fda736dd7c2" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>get_Format</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a68793efba1456d4679a4ec422e8c170e" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>get_FormatLanguageId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ae68851d4a88a1fc867d3ddee2e4e88c4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>get_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afda4c46db80761545c89e21aae5b717d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>get_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a93719d071099487b6aea1eaa241dd6e8" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>get_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a39d988670d293db695278947dca797af" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>get_PageNumber</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a930bdbf53319f92f036fc4cd541b6d33" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>get_Prefix</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a012c93472901dc077815970a9b2ab650" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>get_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1abbc83ad66d5fb391a21980126ea96847" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>get_Separator</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a2e33e861e91eaff4ca73352e435b7e7f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>get_SourceTag</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1afa7cd5d4cf1a87b05058982f26786456" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>get_Start</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a6e997e7ab542a40eb72e451b12a72144" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>get_Suffix</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1aeaa294d7a3984bca8d0e4fa004dc6c43" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>get_SuppressAuthor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a232e0d1b88ddd339531925b928fab0b0" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>get_SuppressTitle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1ad9a88f5cfc457740abf271fab933144d" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>get_SuppressYear</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad68196653db5cfca30c1ba18ed44c76e" prot="public" virt="virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a09c0757e71a24eee25aba04fa3687720" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>get_VolumeNumber</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a578378121cced134f079765f19f64498" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa40bc0e4a5be11f0df785cc8bb2ff042" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>GetFieldCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a69a196d6939afda6e8b601b02fbfb140" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>GetSwitchType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ad26a8021af3dbdc5bf0a1360a201222f" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>Remove</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a639cf55c8ef04eec2b9f9fe3b6ba6469" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1ab060adb0ac0183a9426661a68bc1f38a" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>set_AnotherSourceTag</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a6e9facb36eee0da8d06cee7c66c25b7e" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>set_FormatLanguageId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa637d825865724665fb8ed856e664d95" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>set_IsDirty</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ac70b125adbe7f0ba5b889280cd282c47" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>set_IsLocked</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a165f748dd5ba33844f1d765f6c710f88" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>set_LocaleId</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1ab07bca1b77025be6b580fcc7a5df40af" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>set_PageNumber</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1ae96b472f4c31fa67a897ca1075796bac" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>set_Prefix</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aa6af1e900c84ae806f071098dfe8f087" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>set_Result</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a84037c2cc4bf2bcfea914cd8c563fb83" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>set_SourceTag</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a7e4b54bcb14597ccb86dc757845df4f0" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>set_Suffix</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a54da44dc7ccd3afc4eb8efa7359406d5" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>set_SuppressAuthor</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a37584e4c950e4ed8b43b670afdd6d0d4" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>set_SuppressTitle</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a281f9a379c77efc4037ca2ebd2cbdeb3" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>set_SuppressYear</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1a360ea62c07af3116ab0a44d97ae03fa5" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>set_VolumeNumber</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1ac8aa4206ee588a470810bf82513bde31" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_citation_1ad3293abf59f6d1c781e5872c2726540a" prot="private" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1ab9f908becb16b26bed76d58dbcee9929" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>Unlink</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1aaec82418b2b6493aa2827b8e282b2e82" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>Update</name></member>
+      <member refid="class_aspose_1_1_words_1_1_fields_1_1_field_1a1298d7daa07c863bf97cb3f37a4d7a99" prot="public" virt="non-virtual"><scope>Aspose::Words::Fields::FieldCitation</scope><name>Update</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,393 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="namespace_aspose_1_1_words_1_1_themes" kind="namespace" language="C++">
+    <compoundname>Aspose::Words::Themes</compoundname>
+    <innerclass refid="class_aspose_1_1_words_1_1_themes_1_1_theme" prot="public">Aspose::Words::Themes::Theme</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_themes_1_1_theme_colors" prot="public">Aspose::Words::Themes::ThemeColors</innerclass>
+    <innerclass refid="class_aspose_1_1_words_1_1_themes_1_1_theme_fonts" prot="public">Aspose::Words::Themes::ThemeFonts</innerclass>
+      <sectiondef kind="enum">
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>ThemeColor</name>
+        <qualifiedname>Aspose::Words::Themes::ThemeColor</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4a6adf97f83acf6453d4a6a4b1070f3754" prot="public">
+          <name>None</name>
+          <initializer>= -1</initializer>
+          <briefdescription>
+<para>No color. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4a11b54e82c72ddf5b3e3384d4e0557f02" prot="public">
+          <name>Dark1</name>
+          <briefdescription>
+<para>Dark main color 1. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4a26d6a7fd0126256c576c4bd9500b3348" prot="public">
+          <name>Light1</name>
+          <briefdescription>
+<para>Light main color 1. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4a78463cdf5741dcbcc24924ee5113f34d" prot="public">
+          <name>Dark2</name>
+          <briefdescription>
+<para>Dark main color 2. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4ad7e1a1897cf0559e0db7b6efa2ef24d8" prot="public">
+          <name>Light2</name>
+          <briefdescription>
+<para>Light main color 2. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4ab75b598f61eabcfa991c7ee0f6b05814" prot="public">
+          <name>Accent1</name>
+          <briefdescription>
+<para>Accent color 1. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4aac88e421dcaac0b49cb666c472dd8f3a" prot="public">
+          <name>Accent2</name>
+          <briefdescription>
+<para>Accent color 2. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4a25a2f82cda72f7f07ba95beab63ed2cf" prot="public">
+          <name>Accent3</name>
+          <briefdescription>
+<para>Accent color 3. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4a7a159bf142744e7d941f5f2fb5624193" prot="public">
+          <name>Accent4</name>
+          <briefdescription>
+<para>Accent color 4. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4acf8be04ab91865144ceedf013761d967" prot="public">
+          <name>Accent5</name>
+          <briefdescription>
+<para>Accent color 5. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4ada06350bb8cc80603d73f1e0055961bd" prot="public">
+          <name>Accent6</name>
+          <briefdescription>
+<para>Accent color 6. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4a79cd387280b73179eee47b96dadafc7b" prot="public">
+          <name>Hyperlink</name>
+          <briefdescription>
+<para>Hyperlink color. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4a1dedc688ffd87da3d6bde16bc4d79298" prot="public">
+          <name>FollowedHyperlink</name>
+          <briefdescription>
+<para>Followed hyperlink color. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4a8d993394c892dcaa8683dc4ba4fae21d" prot="public">
+          <name>Text1</name>
+          <briefdescription>
+<para>Text color 1. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4adce6920a3408ae9a8e61b75a4e5fd6ca" prot="public">
+          <name>Text2</name>
+          <briefdescription>
+<para>Text color 2. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4aaaae46e44f44681bae6763f589bd13c6" prot="public">
+          <name>Background1</name>
+          <briefdescription>
+<para>Background color 1. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4a1788073f1d25524246e956cf883c9b98" prot="public">
+          <name>Background2</name>
+          <briefdescription>
+<para>Background color 2. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies the theme colors for document themes. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with theme fonts and colors. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Define<sp/>fonts<sp/>for<sp/>languages<sp/>uses<sp/>by<sp/>default.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Theme()-&gt;get_MinorFonts()-&gt;set_Latin(u</highlight><highlight class="stringliteral">&quot;Algerian&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Theme()-&gt;get_MinorFonts()-&gt;set_EastAsian(u</highlight><highlight class="stringliteral">&quot;Aharoni&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Theme()-&gt;get_MinorFonts()-&gt;set_ComplexScript(u</highlight><highlight class="stringliteral">&quot;Andalus&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Font&gt;<sp/>font<sp/>=<sp/>doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Normal&quot;</highlight><highlight class="normal">)-&gt;get_Font();</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;Originally<sp/>the<sp/>Normal<sp/>style<sp/>theme<sp/>color<sp/>is:<sp/>{0}<sp/>and<sp/>RGB<sp/>color<sp/>is:<sp/>{1}\n&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_ThemeColor(),<sp/>font-&gt;get_Color())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>theme<sp/>font<sp/>and<sp/>color<sp/>instead<sp/>of<sp/>default<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">font-&gt;set_ThemeFont(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6fed0c378a4b4e8c1e7dc5c16dabb388" kindref="member" tooltip="Minor theme font.">ThemeFont::Minor</ref>);</highlight></codeline>
+<codeline><highlight class="normal">font-&gt;set_ThemeColor(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4aac88e421dcaac0b49cb666c472dd8f3a" kindref="member" tooltip="Accent color 2.">ThemeColor::Accent2</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6fed0c378a4b4e8c1e7dc5c16dabb388" kindref="member" tooltip="Minor theme font.">ThemeFont::Minor</ref>,<sp/>font-&gt;get_ThemeFont());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Algerian&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6fed0c378a4b4e8c1e7dc5c16dabb388" kindref="member" tooltip="Minor theme font.">ThemeFont::Minor</ref>,<sp/>font-&gt;get_ThemeFontAscii());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Algerian&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameAscii());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6fed0c378a4b4e8c1e7dc5c16dabb388" kindref="member" tooltip="Minor theme font.">ThemeFont::Minor</ref>,<sp/>font-&gt;get_ThemeFontBi());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Andalus&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameBi());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6fed0c378a4b4e8c1e7dc5c16dabb388" kindref="member" tooltip="Minor theme font.">ThemeFont::Minor</ref>,<sp/>font-&gt;get_ThemeFontFarEast());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Aharoni&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameFarEast());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6fed0c378a4b4e8c1e7dc5c16dabb388" kindref="member" tooltip="Minor theme font.">ThemeFont::Minor</ref>,<sp/>font-&gt;get_ThemeFontOther());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Algerian&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameOther());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4aac88e421dcaac0b49cb666c472dd8f3a" kindref="member" tooltip="Accent color 2.">ThemeColor::Accent2</ref>,<sp/>font-&gt;get_ThemeColor());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(<ref refid="class/system.drawing.color/_1a41736737b8045f7ffbed1c8dc84182fe" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::Empty</ref>,<sp/>font-&gt;get_Color());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>several<sp/>ways<sp/>of<sp/>reset<sp/>them<sp/>font<sp/>and<sp/>color.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>By<sp/>setting<sp/>ThemeFont.None/ThemeColor.None:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">font-&gt;set_ThemeFont(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No theme font.">ThemeFont::None</ref>);</highlight></codeline>
+<codeline><highlight class="normal">font-&gt;set_ThemeColor(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4a6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No color.">ThemeColor::None</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No theme font.">ThemeFont::None</ref>,<sp/>font-&gt;get_ThemeFont());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Algerian&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No theme font.">ThemeFont::None</ref>,<sp/>font-&gt;get_ThemeFontAscii());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Algerian&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameAscii());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No theme font.">ThemeFont::None</ref>,<sp/>font-&gt;get_ThemeFontBi());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Andalus&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameBi());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No theme font.">ThemeFont::None</ref>,<sp/>font-&gt;get_ThemeFontFarEast());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Aharoni&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameFarEast());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No theme font.">ThemeFont::None</ref>,<sp/>font-&gt;get_ThemeFontOther());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Algerian&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameOther());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4a6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No color.">ThemeColor::None</ref>,<sp/>font-&gt;get_ThemeColor());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(<ref refid="class/system.drawing.color/_1a41736737b8045f7ffbed1c8dc84182fe" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::Empty</ref>,<sp/>font-&gt;get_Color());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>By<sp/>setting<sp/>non-theme<sp/>font/color<sp/>names:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">font-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">font-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No theme font.">ThemeFont::None</ref>,<sp/>font-&gt;get_ThemeFont());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No theme font.">ThemeFont::None</ref>,<sp/>font-&gt;get_ThemeFontAscii());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameAscii());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No theme font.">ThemeFont::None</ref>,<sp/>font-&gt;get_ThemeFontBi());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameBi());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No theme font.">ThemeFont::None</ref>,<sp/>font-&gt;get_ThemeFontFarEast());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameFarEast());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No theme font.">ThemeFont::None</ref>,<sp/>font-&gt;get_ThemeFontOther());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameOther());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4a6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No color.">ThemeColor::None</ref>,<sp/>font-&gt;get_ThemeColor());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>().ToArgb(),<sp/>font-&gt;get_Color().ToArgb());</highlight></codeline>
+</programlisting></para>
+<para>Shows how to create and use themed style. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>some<sp/>style<sp/>with<sp/>theme<sp/>font<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>style<sp/>=<sp/>doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1bafeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="The style is a paragraph style.">StyleType::Paragraph</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;ThemedStyle&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_ThemeFont(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca3b329734e45b57e60f3df64c2cf412a9" kindref="member" tooltip="Major theme font.">ThemeFont::Major</ref>);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_ThemeColor(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4acf8be04ab91865144ceedf013761d967" kindref="member" tooltip="Accent color 5.">ThemeColor::Accent5</ref>);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_TintAndShade(0.3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_StyleName(u</highlight><highlight class="stringliteral">&quot;ThemedStyle&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>with<sp/>themed<sp/>style&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Themes/ThemeColor.h" line="123" column="1" bodyfile="Aspose.Words.Cpp/Themes/ThemeColor.h" bodystart="124" bodyend="176"/>
+      </memberdef>
+      <memberdef kind="enum" id="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfc" prot="public" static="no" strong="yes">
+        <type></type>
+        <name>ThemeFont</name>
+        <qualifiedname>Aspose::Words::Themes::ThemeFont</qualifiedname>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6adf97f83acf6453d4a6a4b1070f3754" prot="public">
+          <name>None</name>
+          <briefdescription>
+<para>No theme font. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca3b329734e45b57e60f3df64c2cf412a9" prot="public">
+          <name>Major</name>
+          <briefdescription>
+<para>Major theme font. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <enumvalue id="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6fed0c378a4b4e8c1e7dc5c16dabb388" prot="public">
+          <name>Minor</name>
+          <briefdescription>
+<para>Minor theme font. </para>
+          </briefdescription>
+          <detaileddescription>
+          </detaileddescription>
+        </enumvalue>
+        <briefdescription>
+<para>Specifies the types of theme font names for document themes. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with theme fonts and colors. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Define<sp/>fonts<sp/>for<sp/>languages<sp/>uses<sp/>by<sp/>default.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Theme()-&gt;get_MinorFonts()-&gt;set_Latin(u</highlight><highlight class="stringliteral">&quot;Algerian&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Theme()-&gt;get_MinorFonts()-&gt;set_EastAsian(u</highlight><highlight class="stringliteral">&quot;Aharoni&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;get_Theme()-&gt;get_MinorFonts()-&gt;set_ComplexScript(u</highlight><highlight class="stringliteral">&quot;Andalus&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Font&gt;<sp/>font<sp/>=<sp/>doc-&gt;get_Styles()-&gt;idx_get(u</highlight><highlight class="stringliteral">&quot;Normal&quot;</highlight><highlight class="normal">)-&gt;get_Font();</highlight></codeline>
+<codeline><highlight class="normal">std::cout<sp/>&lt;&lt;<sp/>String::Format(u</highlight><highlight class="stringliteral">&quot;Originally<sp/>the<sp/>Normal<sp/>style<sp/>theme<sp/>color<sp/>is:<sp/>{0}<sp/>and<sp/>RGB<sp/>color<sp/>is:<sp/>{1}\n&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_ThemeColor(),<sp/>font-&gt;get_Color())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>can<sp/>use<sp/>theme<sp/>font<sp/>and<sp/>color<sp/>instead<sp/>of<sp/>default<sp/>values.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">font-&gt;set_ThemeFont(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6fed0c378a4b4e8c1e7dc5c16dabb388" kindref="member" tooltip="Minor theme font.">ThemeFont::Minor</ref>);</highlight></codeline>
+<codeline><highlight class="normal">font-&gt;set_ThemeColor(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4aac88e421dcaac0b49cb666c472dd8f3a" kindref="member" tooltip="Accent color 2.">ThemeColor::Accent2</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6fed0c378a4b4e8c1e7dc5c16dabb388" kindref="member" tooltip="Minor theme font.">ThemeFont::Minor</ref>,<sp/>font-&gt;get_ThemeFont());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Algerian&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6fed0c378a4b4e8c1e7dc5c16dabb388" kindref="member" tooltip="Minor theme font.">ThemeFont::Minor</ref>,<sp/>font-&gt;get_ThemeFontAscii());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Algerian&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameAscii());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6fed0c378a4b4e8c1e7dc5c16dabb388" kindref="member" tooltip="Minor theme font.">ThemeFont::Minor</ref>,<sp/>font-&gt;get_ThemeFontBi());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Andalus&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameBi());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6fed0c378a4b4e8c1e7dc5c16dabb388" kindref="member" tooltip="Minor theme font.">ThemeFont::Minor</ref>,<sp/>font-&gt;get_ThemeFontFarEast());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Aharoni&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameFarEast());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6fed0c378a4b4e8c1e7dc5c16dabb388" kindref="member" tooltip="Minor theme font.">ThemeFont::Minor</ref>,<sp/>font-&gt;get_ThemeFontOther());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Algerian&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameOther());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4aac88e421dcaac0b49cb666c472dd8f3a" kindref="member" tooltip="Accent color 2.">ThemeColor::Accent2</ref>,<sp/>font-&gt;get_ThemeColor());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(<ref refid="class/system.drawing.color/_1a41736737b8045f7ffbed1c8dc84182fe" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::Empty</ref>,<sp/>font-&gt;get_Color());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>There<sp/>are<sp/>several<sp/>ways<sp/>of<sp/>reset<sp/>them<sp/>font<sp/>and<sp/>color.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>By<sp/>setting<sp/>ThemeFont.None/ThemeColor.None:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">font-&gt;set_ThemeFont(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No theme font.">ThemeFont::None</ref>);</highlight></codeline>
+<codeline><highlight class="normal">font-&gt;set_ThemeColor(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4a6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No color.">ThemeColor::None</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No theme font.">ThemeFont::None</ref>,<sp/>font-&gt;get_ThemeFont());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Algerian&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No theme font.">ThemeFont::None</ref>,<sp/>font-&gt;get_ThemeFontAscii());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Algerian&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameAscii());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No theme font.">ThemeFont::None</ref>,<sp/>font-&gt;get_ThemeFontBi());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Andalus&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameBi());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No theme font.">ThemeFont::None</ref>,<sp/>font-&gt;get_ThemeFontFarEast());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Aharoni&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameFarEast());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No theme font.">ThemeFont::None</ref>,<sp/>font-&gt;get_ThemeFontOther());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Algerian&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameOther());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4a6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No color.">ThemeColor::None</ref>,<sp/>font-&gt;get_ThemeColor());</highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(<ref refid="class/system.drawing.color/_1a41736737b8045f7ffbed1c8dc84182fe" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::Empty</ref>,<sp/>font-&gt;get_Color());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>By<sp/>setting<sp/>non-theme<sp/>font/color<sp/>names:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">font-&gt;set_Name(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">font-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No theme font.">ThemeFont::None</ref>,<sp/>font-&gt;get_ThemeFont());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_Name());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No theme font.">ThemeFont::None</ref>,<sp/>font-&gt;get_ThemeFontAscii());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameAscii());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No theme font.">ThemeFont::None</ref>,<sp/>font-&gt;get_ThemeFontBi());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameBi());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No theme font.">ThemeFont::None</ref>,<sp/>font-&gt;get_ThemeFontFarEast());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameFarEast());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No theme font.">ThemeFont::None</ref>,<sp/>font-&gt;get_ThemeFontOther());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(u</highlight><highlight class="stringliteral">&quot;Arial&quot;</highlight><highlight class="normal">,<sp/>font-&gt;get_NameOther());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4a6adf97f83acf6453d4a6a4b1070f3754" kindref="member" tooltip="No color.">ThemeColor::None</ref>,<sp/>font-&gt;get_ThemeColor());</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>().ToArgb(),<sp/>font-&gt;get_Color().ToArgb());</highlight></codeline>
+</programlisting></para>
+<para>Shows how to create and use themed style. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>some<sp/>style<sp/>with<sp/>theme<sp/>font<sp/>properties.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Style&gt;<sp/>style<sp/>=<sp/>doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1bafeaf0a320c3d678ad30dd179b7d21584" kindref="member" tooltip="The style is a paragraph style.">StyleType::Paragraph</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;ThemedStyle&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_ThemeFont(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a7b0cef2de0b2a3238a45f1f6eb8e7cfca3b329734e45b57e60f3df64c2cf412a9" kindref="member" tooltip="Major theme font.">ThemeFont::Major</ref>);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_ThemeColor(<ref refid="namespace_aspose_1_1_words_1_1_themes_1a359432108a4486015e6eb1e240c52be4acf8be04ab91865144ceedf013761d967" kindref="member" tooltip="Accent color 5.">ThemeColor::Accent5</ref>);</highlight></codeline>
+<codeline><highlight class="normal">style-&gt;get_Font()-&gt;set_TintAndShade(0.3);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;get_ParagraphFormat()-&gt;set_StyleName(u</highlight><highlight class="stringliteral">&quot;ThemedStyle&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Writeln(u</highlight><highlight class="stringliteral">&quot;Text<sp/>with<sp/>themed<sp/>style&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/Themes/ThemeFont.h" line="123" column="1" bodyfile="Aspose.Words.Cpp/Themes/ThemeFont.h" bodystart="124" bodyend="134"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>The <bold>Aspose.Words.Themes</bold> namespace provides classes that allow to access theme information in Microsoft Word documents. </para>
+    </briefdescription>
+    <detaileddescription>
+<para>A document theme can specify fonts and colors to be used in a document. <ref refid="namespace_aspose_1_1_words_1_1_themes" kindref="compound">Themes</ref> are supported in Word 2007 and higher. </para>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/BuildingBlocks/GlossaryDocument.h" line="38" column="1"/>
+  </compounddef>
+</doxygen>

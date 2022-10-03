@@ -1,0 +1,1341 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="class_aspose_1_1_words_1_1_conditional_style" kind="class" language="C++" prot="public" final="yes">
+    <compoundname>Aspose::Words::ConditionalStyle</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::IBorderAttrSource</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::IShadingAttrSource</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::IParaAttrSource</basecompoundref>
+    <basecompoundref prot="public" virt="non-virtual">Aspose::Words::IRunAttrSource</basecompoundref>
+    <includes refid="_conditional_style_8h" local="no">Aspose.Words.Cpp/ConditionalStyle.h</includes>
+      <sectiondef kind="private-type">
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_conditional_style_1a9afde43f15375f6f6ddd1bd554bad0a6" prot="private" static="no">
+        <type>Aspose::Words::IBorderAttrSource</type>
+        <definition>typedef Aspose::Words::IBorderAttrSource Aspose::Words::ConditionalStyle::BaseType</definition>
+        <argsstring></argsstring>
+        <name>BaseType</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::BaseType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="128" column="46" bodyfile="Aspose.Words.Cpp/ConditionalStyle.h" bodystart="128" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_conditional_style_1ac09cd1550fd022e4535601a462b6295d" prot="private" static="no">
+        <type>Aspose::Words::IShadingAttrSource</type>
+        <definition>typedef Aspose::Words::IShadingAttrSource Aspose::Words::ConditionalStyle::BaseType1</definition>
+        <argsstring></argsstring>
+        <name>BaseType1</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::BaseType1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="129" column="47" bodyfile="Aspose.Words.Cpp/ConditionalStyle.h" bodystart="129" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_conditional_style_1ac1e4ed12bca57012bffc191119161b39" prot="private" static="no">
+        <type>Aspose::Words::IParaAttrSource</type>
+        <definition>typedef Aspose::Words::IParaAttrSource Aspose::Words::ConditionalStyle::BaseType2</definition>
+        <argsstring></argsstring>
+        <name>BaseType2</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::BaseType2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="130" column="44" bodyfile="Aspose.Words.Cpp/ConditionalStyle.h" bodystart="130" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_conditional_style_1a3c8ab70696932b66880d4224b49ee7c8" prot="private" static="no">
+        <type>Aspose::Words::IRunAttrSource</type>
+        <definition>typedef Aspose::Words::IRunAttrSource Aspose::Words::ConditionalStyle::BaseType3</definition>
+        <argsstring></argsstring>
+        <name>BaseType3</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::BaseType3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="131" column="43" bodyfile="Aspose.Words.Cpp/ConditionalStyle.h" bodystart="131" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_conditional_style_1a84e0562c5742006c4766303b3e8bcea1" prot="private" static="no">
+        <type><ref refid="class_aspose_1_1_words_1_1_conditional_style" kindref="compound">ConditionalStyle</ref></type>
+        <definition>typedef ConditionalStyle Aspose::Words::ConditionalStyle::ThisType</definition>
+        <argsstring></argsstring>
+        <name>ThisType</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::ThisType</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="127" column="30" bodyfile="Aspose.Words.Cpp/ConditionalStyle.h" bodystart="127" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="typedef" id="class_aspose_1_1_words_1_1_conditional_style_1a54f4b9217c7df5afc9f967b2cd890774" prot="private" static="no">
+        <type><ref refid="class/system.base_types_info/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">::System::BaseTypesInfo</ref>&lt; BaseType, BaseType1, BaseType2, BaseType3 &gt;</type>
+        <definition>typedef ::System::BaseTypesInfo&lt;BaseType, BaseType1, BaseType2, BaseType3&gt; Aspose::Words::ConditionalStyle::ThisTypeBaseTypesInfo</definition>
+        <argsstring></argsstring>
+        <name>ThisTypeBaseTypesInfo</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::ThisTypeBaseTypesInfo</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="133" column="37" bodyfile="Aspose.Words.Cpp/ConditionalStyle.h" bodystart="133" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_conditional_style_1a800db7a990eec62480db5dbf5b200d82" prot="private" static="no" mutable="no">
+        <type>__TypeStub&lt; 4, 4, 4, 4 &gt;::type</type>
+        <definition>__TypeStub&lt;4,4,4,4&gt;::type Aspose::Words::ConditionalStyle::mField0</definition>
+        <argsstring></argsstring>
+        <name>mField0</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::mField0</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="871" column="23" bodyfile="Aspose.Words.Cpp/ConditionalStyle.h" bodystart="871" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_conditional_style_1a9c123841e3d65779cb01e03f9cc15218" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::ConditionalStyle::mField1</definition>
+        <argsstring></argsstring>
+        <name>mField1</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::mField1</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="872" column="23" bodyfile="Aspose.Words.Cpp/ConditionalStyle.h" bodystart="872" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_conditional_style_1a61dab7cd811b312792990ddbfe5baaa7" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::ConditionalStyle::mField2</definition>
+        <argsstring></argsstring>
+        <name>mField2</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::mField2</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="873" column="23" bodyfile="Aspose.Words.Cpp/ConditionalStyle.h" bodystart="873" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_conditional_style_1abf74cac64f030ab69898d95457c40b85" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::ConditionalStyle::mField3</definition>
+        <argsstring></argsstring>
+        <name>mField3</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::mField3</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="874" column="23" bodyfile="Aspose.Words.Cpp/ConditionalStyle.h" bodystart="874" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_conditional_style_1a17f41f1a405fac87fcbdd55e4359396d" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::ConditionalStyle::mField4</definition>
+        <argsstring></argsstring>
+        <name>mField4</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::mField4</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="875" column="23" bodyfile="Aspose.Words.Cpp/ConditionalStyle.h" bodystart="875" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_conditional_style_1ac3b1414c0dedfbcd93d566d232620786" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::ConditionalStyle::mField5</definition>
+        <argsstring></argsstring>
+        <name>mField5</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::mField5</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="876" column="23" bodyfile="Aspose.Words.Cpp/ConditionalStyle.h" bodystart="876" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_conditional_style_1a4c8983cccf19fa5803c04107e42253bf" prot="private" static="no" mutable="no">
+        <type><ref refid="class/system.weak_ptr/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::WeakPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::WeakPtr&lt;System::Object&gt; Aspose::Words::ConditionalStyle::mField6</definition>
+        <argsstring></argsstring>
+        <name>mField6</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::mField6</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="877" column="21" bodyfile="Aspose.Words.Cpp/ConditionalStyle.h" bodystart="877" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_conditional_style_1a78150f25cbdb201571dc0082bdf772c3" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::ConditionalStyle::mField7</definition>
+        <argsstring></argsstring>
+        <name>mField7</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::mField7</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="878" column="23" bodyfile="Aspose.Words.Cpp/ConditionalStyle.h" bodystart="878" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_conditional_style_1a2fd3b9e1e8f6356ee45786cf1c66d429" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::ConditionalStyle::mField8</definition>
+        <argsstring></argsstring>
+        <name>mField8</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::mField8</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="879" column="23" bodyfile="Aspose.Words.Cpp/ConditionalStyle.h" bodystart="879" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_aspose_1_1_words_1_1_conditional_style_1af2f3b3940a85c2af5293729c33240837" prot="private" static="no" mutable="no">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+        <definition>System::SharedPtr&lt;System::Object&gt; Aspose::Words::ConditionalStyle::mField9</definition>
+        <argsstring></argsstring>
+        <name>mField9</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::mField9</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="880" column="23" bodyfile="Aspose.Words.Cpp/ConditionalStyle.h" bodystart="880" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_conditional_style_1a527ca11c040d4a4d2bc28a9d4434c9cf" prot="private" static="no" const="no" explicit="no" inline="no" virt="virtual">
+        <type></type>
+        <definition>virtual Aspose::Words::ConditionalStyle::~ConditionalStyle</definition>
+        <argsstring>()</argsstring>
+        <name>~ConditionalStyle</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::~ConditionalStyle</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="865" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_conditional_style_1ad709233b672e2b2a4f440bd2a5fbd5b8" prot="private" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type></type>
+        <definition>Aspose::Words::ConditionalStyle::RTTI_INFO_DECL_EX</definition>
+        <argsstring>()</argsstring>
+        <name>RTTI_INFO_DECL_EX</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::RTTI_INFO_DECL_EX</qualifiedname>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="134" column="5"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_conditional_style_1af5e6638d86f76ef1806c4eb69dea482b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::ConditionalStyle::ClearFormatting</definition>
+        <argsstring>()</argsstring>
+        <name>ClearFormatting</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::ClearFormatting</qualifiedname>
+        <briefdescription>
+<para>Clears formatting of this conditional style. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to reset conditional table styles. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;First<sp/>row&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Last<sp/>row&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>table<sp/>style<sp/>to<sp/>color<sp/>the<sp/>borders<sp/>of<sp/>the<sp/>first<sp/>row<sp/>of<sp/>the<sp/>table<sp/>in<sp/>red.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_FirstRow()-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a1d4bef72f59c2029f4c055ca8711d8dd" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Red</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Set<sp/>the<sp/>table<sp/>style<sp/>to<sp/>color<sp/>the<sp/>borders<sp/>of<sp/>the<sp/>last<sp/>row<sp/>of<sp/>the<sp/>table<sp/>in<sp/>blue.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1ab474c53c67f5f442eb14597234e16e5b" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Blue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>two<sp/>ways<sp/>of<sp/>using<sp/>the<sp/>&quot;ClearFormatting&quot;<sp/>method<sp/>to<sp/>clear<sp/>the<sp/>conditional<sp/>styles.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>Clear<sp/>the<sp/>conditional<sp/>styles<sp/>for<sp/>a<sp/>specific<sp/>part<sp/>of<sp/>a<sp/>table:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;ClearFormatting();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASPOSE_ASSERT_EQ(<ref refid="class/system.drawing.color/_1a41736737b8045f7ffbed1c8dc84182fe" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::Empty</ref>,<sp/>tableStyle-&gt;get_ConditionalStyles()-&gt;get_FirstRow()-&gt;get_Borders()-&gt;get_Color());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>Clear<sp/>the<sp/>conditional<sp/>styles<sp/>for<sp/>the<sp/>entire<sp/>table:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;ClearFormatting();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>isEmptyColor<sp/>=<sp/>[](SharedPtr&lt;ConditionalStyle&gt;<sp/>s)</highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">return</highlight><highlight class="normal"><sp/>s-&gt;get_Borders()-&gt;get_Color()<sp/>==<sp/><ref refid="class/system.drawing.color/_1a41736737b8045f7ffbed1c8dc84182fe" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::Empty</ref>;</highlight></codeline>
+<codeline><highlight class="normal">};</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_TRUE(tableStyle-&gt;get_ConditionalStyles()-&gt;LINQ_All(isEmptyColor));</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="857" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_conditional_style_1a930aacdfc975d3545c7eaf4667bbb4af" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>bool</type>
+        <definition>bool Aspose::Words::ConditionalStyle::Equals</definition>
+        <argsstring>(System::SharedPtr&lt; System::Object &gt; obj) override</argsstring>
+        <name>Equals</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::Equals</qualifiedname>
+        <param>
+          <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class/system.object/" kindref="compound" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Object</ref> &gt;</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="858" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_conditional_style_1a9aa7f4c928e0a8fa75829ae597e13fb4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_border_collection" kindref="compound">Aspose::Words::BorderCollection</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::BorderCollection &gt; Aspose::Words::ConditionalStyle::get_Borders</definition>
+        <argsstring>()</argsstring>
+        <name>get_Borders</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::get_Borders</qualifiedname>
+        <briefdescription>
+<para>Gets the collection of default cell borders for the conditional style. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with certain area styles of a table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>4&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>custom<sp/>table<sp/>style.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Conditional<sp/>styles<sp/>are<sp/>formatting<sp/>changes<sp/>that<sp/>affect<sp/>only<sp/>some<sp/>of<sp/>the<sp/>table&apos;s<sp/>cells</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>based<sp/>on<sp/>a<sp/>predicate,<sp/>such<sp/>as<sp/>the<sp/>cells<sp/>being<sp/>in<sp/>the<sp/>last<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>ways<sp/>of<sp/>accessing<sp/>a<sp/>table<sp/>style&apos;s<sp/>conditional<sp/>styles<sp/>from<sp/>the<sp/>&quot;ConditionalStyles&quot;<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>By<sp/>style<sp/>type:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aa6f90473812d5f788bddfb1470840e651" kindref="member" tooltip="Specifies formatting of the first row of a table.">ConditionalStyleType::FirstRow</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;get_Shading()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1af90758ed5c66dd6f1681ae5becc227e0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_AliceBlue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>By<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da946369d896277a74817357a370331422" kindref="member">LineStyle::DotDash</ref>);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aa6f90473812d5f788bddfb1470840e651" kindref="member" tooltip="Specifies formatting of the first row of a table.">ConditionalStyleType::FirstRow</ref>,<sp/>tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>As<sp/>a<sp/>property:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_FirstRow()-&gt;get_ParagraphFormat()-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1ae0fabf27a56cdd6988da762600dd9007a4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is centered horizontally.">ParagraphAlignment::Center</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>padding<sp/>and<sp/>text<sp/>formatting<sp/>to<sp/>conditional<sp/>styles.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_BottomPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_LeftPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_RightPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_TopPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastColumn()-&gt;get_Font()-&gt;set_Bold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>List<sp/>all<sp/>possible<sp/>style<sp/>conditions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;ConditionalStyle&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>tableStyle-&gt;get_ConditionalStyles()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;ConditionalStyle&gt;<sp/>currentStyle<sp/>=<sp/>enumerator-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(currentStyle<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>System::EnumGetName(currentStyle-&gt;get_Type())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>the<sp/>custom<sp/>style,<sp/>which<sp/>contains<sp/>all<sp/>conditional<sp/>styles,<sp/>to<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>style<sp/>applies<sp/>some<sp/>conditional<sp/>styles<sp/>by<sp/>default.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(TableStyleOptions::FirstRow<sp/>|<sp/>TableStyleOptions::FirstColumn<sp/>|<sp/>TableStyleOptions::RowBands,<sp/>table-&gt;get_StyleOptions());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>need<sp/>to<sp/>enable<sp/>all<sp/>other<sp/>styles<sp/>ourselves<sp/>via<sp/>the<sp/>&quot;StyleOptions&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_StyleOptions(table-&gt;get_StyleOptions()<sp/>|<sp/>TableStyleOptions::LastRow<sp/>|<sp/>TableStyleOptions::LastColumn);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.ConditionalStyles.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="432" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_conditional_style_1a7cfa2062770d9d7906f19a908ff580b8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::ConditionalStyle::get_BottomPadding</definition>
+        <argsstring>()</argsstring>
+        <name>get_BottomPadding</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::get_BottomPadding</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the amount of space (in points) to add below the contents of table cells. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with certain area styles of a table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>4&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>custom<sp/>table<sp/>style.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Conditional<sp/>styles<sp/>are<sp/>formatting<sp/>changes<sp/>that<sp/>affect<sp/>only<sp/>some<sp/>of<sp/>the<sp/>table&apos;s<sp/>cells</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>based<sp/>on<sp/>a<sp/>predicate,<sp/>such<sp/>as<sp/>the<sp/>cells<sp/>being<sp/>in<sp/>the<sp/>last<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>ways<sp/>of<sp/>accessing<sp/>a<sp/>table<sp/>style&apos;s<sp/>conditional<sp/>styles<sp/>from<sp/>the<sp/>&quot;ConditionalStyles&quot;<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>By<sp/>style<sp/>type:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aa6f90473812d5f788bddfb1470840e651" kindref="member" tooltip="Specifies formatting of the first row of a table.">ConditionalStyleType::FirstRow</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;get_Shading()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1af90758ed5c66dd6f1681ae5becc227e0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_AliceBlue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>By<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da946369d896277a74817357a370331422" kindref="member">LineStyle::DotDash</ref>);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aa6f90473812d5f788bddfb1470840e651" kindref="member" tooltip="Specifies formatting of the first row of a table.">ConditionalStyleType::FirstRow</ref>,<sp/>tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>As<sp/>a<sp/>property:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_FirstRow()-&gt;get_ParagraphFormat()-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1ae0fabf27a56cdd6988da762600dd9007a4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is centered horizontally.">ParagraphAlignment::Center</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>padding<sp/>and<sp/>text<sp/>formatting<sp/>to<sp/>conditional<sp/>styles.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_BottomPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_LeftPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_RightPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_TopPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastColumn()-&gt;get_Font()-&gt;set_Bold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>List<sp/>all<sp/>possible<sp/>style<sp/>conditions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;ConditionalStyle&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>tableStyle-&gt;get_ConditionalStyles()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;ConditionalStyle&gt;<sp/>currentStyle<sp/>=<sp/>enumerator-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(currentStyle<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>System::EnumGetName(currentStyle-&gt;get_Type())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>the<sp/>custom<sp/>style,<sp/>which<sp/>contains<sp/>all<sp/>conditional<sp/>styles,<sp/>to<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>style<sp/>applies<sp/>some<sp/>conditional<sp/>styles<sp/>by<sp/>default.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(TableStyleOptions::FirstRow<sp/>|<sp/>TableStyleOptions::FirstColumn<sp/>|<sp/>TableStyleOptions::RowBands,<sp/>table-&gt;get_StyleOptions());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>need<sp/>to<sp/>enable<sp/>all<sp/>other<sp/>styles<sp/>ourselves<sp/>via<sp/>the<sp/>&quot;StyleOptions&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_StyleOptions(table-&gt;get_StyleOptions()<sp/>|<sp/>TableStyleOptions::LastRow<sp/>|<sp/>TableStyleOptions::LastColumn);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.ConditionalStyles.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="737" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_conditional_style_1aa3a49cd719bd7a3f406700e136b7befb" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_font" kindref="compound">Aspose::Words::Font</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Font &gt; Aspose::Words::ConditionalStyle::get_Font</definition>
+        <argsstring>()</argsstring>
+        <name>get_Font</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::get_Font</qualifiedname>
+        <briefdescription>
+<para>Gets the character formatting of the conditional style. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with certain area styles of a table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>4&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>custom<sp/>table<sp/>style.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Conditional<sp/>styles<sp/>are<sp/>formatting<sp/>changes<sp/>that<sp/>affect<sp/>only<sp/>some<sp/>of<sp/>the<sp/>table&apos;s<sp/>cells</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>based<sp/>on<sp/>a<sp/>predicate,<sp/>such<sp/>as<sp/>the<sp/>cells<sp/>being<sp/>in<sp/>the<sp/>last<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>ways<sp/>of<sp/>accessing<sp/>a<sp/>table<sp/>style&apos;s<sp/>conditional<sp/>styles<sp/>from<sp/>the<sp/>&quot;ConditionalStyles&quot;<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>By<sp/>style<sp/>type:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aa6f90473812d5f788bddfb1470840e651" kindref="member" tooltip="Specifies formatting of the first row of a table.">ConditionalStyleType::FirstRow</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;get_Shading()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1af90758ed5c66dd6f1681ae5becc227e0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_AliceBlue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>By<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da946369d896277a74817357a370331422" kindref="member">LineStyle::DotDash</ref>);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aa6f90473812d5f788bddfb1470840e651" kindref="member" tooltip="Specifies formatting of the first row of a table.">ConditionalStyleType::FirstRow</ref>,<sp/>tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>As<sp/>a<sp/>property:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_FirstRow()-&gt;get_ParagraphFormat()-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1ae0fabf27a56cdd6988da762600dd9007a4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is centered horizontally.">ParagraphAlignment::Center</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>padding<sp/>and<sp/>text<sp/>formatting<sp/>to<sp/>conditional<sp/>styles.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_BottomPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_LeftPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_RightPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_TopPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastColumn()-&gt;get_Font()-&gt;set_Bold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>List<sp/>all<sp/>possible<sp/>style<sp/>conditions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;ConditionalStyle&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>tableStyle-&gt;get_ConditionalStyles()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;ConditionalStyle&gt;<sp/>currentStyle<sp/>=<sp/>enumerator-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(currentStyle<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>System::EnumGetName(currentStyle-&gt;get_Type())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>the<sp/>custom<sp/>style,<sp/>which<sp/>contains<sp/>all<sp/>conditional<sp/>styles,<sp/>to<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>style<sp/>applies<sp/>some<sp/>conditional<sp/>styles<sp/>by<sp/>default.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(TableStyleOptions::FirstRow<sp/>|<sp/>TableStyleOptions::FirstColumn<sp/>|<sp/>TableStyleOptions::RowBands,<sp/>table-&gt;get_StyleOptions());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>need<sp/>to<sp/>enable<sp/>all<sp/>other<sp/>styles<sp/>ourselves<sp/>via<sp/>the<sp/>&quot;StyleOptions&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_StyleOptions(table-&gt;get_StyleOptions()<sp/>|<sp/>TableStyleOptions::LastRow<sp/>|<sp/>TableStyleOptions::LastColumn);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.ConditionalStyles.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="284" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_conditional_style_1ac8bcd3120e244cca8e4797535bf11ed8" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::ConditionalStyle::get_LeftPadding</definition>
+        <argsstring>()</argsstring>
+        <name>get_LeftPadding</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::get_LeftPadding</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the amount of space (in points) to add to the left of the contents of table cells. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with certain area styles of a table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>4&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>custom<sp/>table<sp/>style.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Conditional<sp/>styles<sp/>are<sp/>formatting<sp/>changes<sp/>that<sp/>affect<sp/>only<sp/>some<sp/>of<sp/>the<sp/>table&apos;s<sp/>cells</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>based<sp/>on<sp/>a<sp/>predicate,<sp/>such<sp/>as<sp/>the<sp/>cells<sp/>being<sp/>in<sp/>the<sp/>last<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>ways<sp/>of<sp/>accessing<sp/>a<sp/>table<sp/>style&apos;s<sp/>conditional<sp/>styles<sp/>from<sp/>the<sp/>&quot;ConditionalStyles&quot;<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>By<sp/>style<sp/>type:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aa6f90473812d5f788bddfb1470840e651" kindref="member" tooltip="Specifies formatting of the first row of a table.">ConditionalStyleType::FirstRow</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;get_Shading()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1af90758ed5c66dd6f1681ae5becc227e0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_AliceBlue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>By<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da946369d896277a74817357a370331422" kindref="member">LineStyle::DotDash</ref>);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aa6f90473812d5f788bddfb1470840e651" kindref="member" tooltip="Specifies formatting of the first row of a table.">ConditionalStyleType::FirstRow</ref>,<sp/>tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>As<sp/>a<sp/>property:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_FirstRow()-&gt;get_ParagraphFormat()-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1ae0fabf27a56cdd6988da762600dd9007a4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is centered horizontally.">ParagraphAlignment::Center</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>padding<sp/>and<sp/>text<sp/>formatting<sp/>to<sp/>conditional<sp/>styles.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_BottomPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_LeftPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_RightPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_TopPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastColumn()-&gt;get_Font()-&gt;set_Bold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>List<sp/>all<sp/>possible<sp/>style<sp/>conditions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;ConditionalStyle&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>tableStyle-&gt;get_ConditionalStyles()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;ConditionalStyle&gt;<sp/>currentStyle<sp/>=<sp/>enumerator-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(currentStyle<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>System::EnumGetName(currentStyle-&gt;get_Type())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>the<sp/>custom<sp/>style,<sp/>which<sp/>contains<sp/>all<sp/>conditional<sp/>styles,<sp/>to<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>style<sp/>applies<sp/>some<sp/>conditional<sp/>styles<sp/>by<sp/>default.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(TableStyleOptions::FirstRow<sp/>|<sp/>TableStyleOptions::FirstColumn<sp/>|<sp/>TableStyleOptions::RowBands,<sp/>table-&gt;get_StyleOptions());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>need<sp/>to<sp/>enable<sp/>all<sp/>other<sp/>styles<sp/>ourselves<sp/>via<sp/>the<sp/>&quot;StyleOptions&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_StyleOptions(table-&gt;get_StyleOptions()<sp/>|<sp/>TableStyleOptions::LastRow<sp/>|<sp/>TableStyleOptions::LastColumn);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.ConditionalStyles.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="506" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_conditional_style_1aa046f4130fbf35bfcc1464464dc6c595" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_paragraph_format" kindref="compound">Aspose::Words::ParagraphFormat</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::ParagraphFormat &gt; Aspose::Words::ConditionalStyle::get_ParagraphFormat</definition>
+        <argsstring>()</argsstring>
+        <name>get_ParagraphFormat</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::get_ParagraphFormat</qualifiedname>
+        <briefdescription>
+<para>Gets the paragraph formatting of the conditional style. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with certain area styles of a table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>4&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>custom<sp/>table<sp/>style.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Conditional<sp/>styles<sp/>are<sp/>formatting<sp/>changes<sp/>that<sp/>affect<sp/>only<sp/>some<sp/>of<sp/>the<sp/>table&apos;s<sp/>cells</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>based<sp/>on<sp/>a<sp/>predicate,<sp/>such<sp/>as<sp/>the<sp/>cells<sp/>being<sp/>in<sp/>the<sp/>last<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>ways<sp/>of<sp/>accessing<sp/>a<sp/>table<sp/>style&apos;s<sp/>conditional<sp/>styles<sp/>from<sp/>the<sp/>&quot;ConditionalStyles&quot;<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>By<sp/>style<sp/>type:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aa6f90473812d5f788bddfb1470840e651" kindref="member" tooltip="Specifies formatting of the first row of a table.">ConditionalStyleType::FirstRow</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;get_Shading()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1af90758ed5c66dd6f1681ae5becc227e0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_AliceBlue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>By<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da946369d896277a74817357a370331422" kindref="member">LineStyle::DotDash</ref>);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aa6f90473812d5f788bddfb1470840e651" kindref="member" tooltip="Specifies formatting of the first row of a table.">ConditionalStyleType::FirstRow</ref>,<sp/>tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>As<sp/>a<sp/>property:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_FirstRow()-&gt;get_ParagraphFormat()-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1ae0fabf27a56cdd6988da762600dd9007a4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is centered horizontally.">ParagraphAlignment::Center</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>padding<sp/>and<sp/>text<sp/>formatting<sp/>to<sp/>conditional<sp/>styles.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_BottomPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_LeftPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_RightPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_TopPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastColumn()-&gt;get_Font()-&gt;set_Bold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>List<sp/>all<sp/>possible<sp/>style<sp/>conditions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;ConditionalStyle&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>tableStyle-&gt;get_ConditionalStyles()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;ConditionalStyle&gt;<sp/>currentStyle<sp/>=<sp/>enumerator-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(currentStyle<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>System::EnumGetName(currentStyle-&gt;get_Type())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>the<sp/>custom<sp/>style,<sp/>which<sp/>contains<sp/>all<sp/>conditional<sp/>styles,<sp/>to<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>style<sp/>applies<sp/>some<sp/>conditional<sp/>styles<sp/>by<sp/>default.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(TableStyleOptions::FirstRow<sp/>|<sp/>TableStyleOptions::FirstColumn<sp/>|<sp/>TableStyleOptions::RowBands,<sp/>table-&gt;get_StyleOptions());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>need<sp/>to<sp/>enable<sp/>all<sp/>other<sp/>styles<sp/>ourselves<sp/>via<sp/>the<sp/>&quot;StyleOptions&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_StyleOptions(table-&gt;get_StyleOptions()<sp/>|<sp/>TableStyleOptions::LastRow<sp/>|<sp/>TableStyleOptions::LastColumn);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.ConditionalStyles.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="210" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_conditional_style_1a44dad736ab48264a0e04deb0acf074ec" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::ConditionalStyle::get_RightPadding</definition>
+        <argsstring>()</argsstring>
+        <name>get_RightPadding</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::get_RightPadding</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the amount of space (in points) to add to the right of the contents of table cells. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with certain area styles of a table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>4&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>custom<sp/>table<sp/>style.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Conditional<sp/>styles<sp/>are<sp/>formatting<sp/>changes<sp/>that<sp/>affect<sp/>only<sp/>some<sp/>of<sp/>the<sp/>table&apos;s<sp/>cells</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>based<sp/>on<sp/>a<sp/>predicate,<sp/>such<sp/>as<sp/>the<sp/>cells<sp/>being<sp/>in<sp/>the<sp/>last<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>ways<sp/>of<sp/>accessing<sp/>a<sp/>table<sp/>style&apos;s<sp/>conditional<sp/>styles<sp/>from<sp/>the<sp/>&quot;ConditionalStyles&quot;<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>By<sp/>style<sp/>type:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aa6f90473812d5f788bddfb1470840e651" kindref="member" tooltip="Specifies formatting of the first row of a table.">ConditionalStyleType::FirstRow</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;get_Shading()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1af90758ed5c66dd6f1681ae5becc227e0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_AliceBlue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>By<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da946369d896277a74817357a370331422" kindref="member">LineStyle::DotDash</ref>);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aa6f90473812d5f788bddfb1470840e651" kindref="member" tooltip="Specifies formatting of the first row of a table.">ConditionalStyleType::FirstRow</ref>,<sp/>tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>As<sp/>a<sp/>property:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_FirstRow()-&gt;get_ParagraphFormat()-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1ae0fabf27a56cdd6988da762600dd9007a4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is centered horizontally.">ParagraphAlignment::Center</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>padding<sp/>and<sp/>text<sp/>formatting<sp/>to<sp/>conditional<sp/>styles.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_BottomPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_LeftPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_RightPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_TopPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastColumn()-&gt;get_Font()-&gt;set_Bold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>List<sp/>all<sp/>possible<sp/>style<sp/>conditions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;ConditionalStyle&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>tableStyle-&gt;get_ConditionalStyles()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;ConditionalStyle&gt;<sp/>currentStyle<sp/>=<sp/>enumerator-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(currentStyle<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>System::EnumGetName(currentStyle-&gt;get_Type())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>the<sp/>custom<sp/>style,<sp/>which<sp/>contains<sp/>all<sp/>conditional<sp/>styles,<sp/>to<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>style<sp/>applies<sp/>some<sp/>conditional<sp/>styles<sp/>by<sp/>default.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(TableStyleOptions::FirstRow<sp/>|<sp/>TableStyleOptions::FirstColumn<sp/>|<sp/>TableStyleOptions::RowBands,<sp/>table-&gt;get_StyleOptions());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>need<sp/>to<sp/>enable<sp/>all<sp/>other<sp/>styles<sp/>ourselves<sp/>via<sp/>the<sp/>&quot;StyleOptions&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_StyleOptions(table-&gt;get_StyleOptions()<sp/>|<sp/>TableStyleOptions::LastRow<sp/>|<sp/>TableStyleOptions::LastColumn);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.ConditionalStyles.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="583" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_conditional_style_1a611bb425d531c657a5328ed30f9bdfbd" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace/system/_1a6b77ccd8c49df28c153be0462cdfdf49" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::SharedPtr</ref>&lt; <ref refid="class_aspose_1_1_words_1_1_shading" kindref="compound">Aspose::Words::Shading</ref> &gt;</type>
+        <definition>System::SharedPtr&lt; Aspose::Words::Shading &gt; Aspose::Words::ConditionalStyle::get_Shading</definition>
+        <argsstring>()</argsstring>
+        <name>get_Shading</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::get_Shading</qualifiedname>
+        <briefdescription>
+<para>Gets a <ref refid="class_aspose_1_1_words_1_1_shading" kindref="compound">Shading</ref> object that refers to the shading formatting for this conditional style. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with certain area styles of a table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>4&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>custom<sp/>table<sp/>style.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Conditional<sp/>styles<sp/>are<sp/>formatting<sp/>changes<sp/>that<sp/>affect<sp/>only<sp/>some<sp/>of<sp/>the<sp/>table&apos;s<sp/>cells</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>based<sp/>on<sp/>a<sp/>predicate,<sp/>such<sp/>as<sp/>the<sp/>cells<sp/>being<sp/>in<sp/>the<sp/>last<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>ways<sp/>of<sp/>accessing<sp/>a<sp/>table<sp/>style&apos;s<sp/>conditional<sp/>styles<sp/>from<sp/>the<sp/>&quot;ConditionalStyles&quot;<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>By<sp/>style<sp/>type:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aa6f90473812d5f788bddfb1470840e651" kindref="member" tooltip="Specifies formatting of the first row of a table.">ConditionalStyleType::FirstRow</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;get_Shading()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1af90758ed5c66dd6f1681ae5becc227e0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_AliceBlue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>By<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da946369d896277a74817357a370331422" kindref="member">LineStyle::DotDash</ref>);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aa6f90473812d5f788bddfb1470840e651" kindref="member" tooltip="Specifies formatting of the first row of a table.">ConditionalStyleType::FirstRow</ref>,<sp/>tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>As<sp/>a<sp/>property:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_FirstRow()-&gt;get_ParagraphFormat()-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1ae0fabf27a56cdd6988da762600dd9007a4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is centered horizontally.">ParagraphAlignment::Center</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>padding<sp/>and<sp/>text<sp/>formatting<sp/>to<sp/>conditional<sp/>styles.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_BottomPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_LeftPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_RightPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_TopPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastColumn()-&gt;get_Font()-&gt;set_Bold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>List<sp/>all<sp/>possible<sp/>style<sp/>conditions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;ConditionalStyle&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>tableStyle-&gt;get_ConditionalStyles()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;ConditionalStyle&gt;<sp/>currentStyle<sp/>=<sp/>enumerator-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(currentStyle<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>System::EnumGetName(currentStyle-&gt;get_Type())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>the<sp/>custom<sp/>style,<sp/>which<sp/>contains<sp/>all<sp/>conditional<sp/>styles,<sp/>to<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>style<sp/>applies<sp/>some<sp/>conditional<sp/>styles<sp/>by<sp/>default.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(TableStyleOptions::FirstRow<sp/>|<sp/>TableStyleOptions::FirstColumn<sp/>|<sp/>TableStyleOptions::RowBands,<sp/>table-&gt;get_StyleOptions());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>need<sp/>to<sp/>enable<sp/>all<sp/>other<sp/>styles<sp/>ourselves<sp/>via<sp/>the<sp/>&quot;StyleOptions&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_StyleOptions(table-&gt;get_StyleOptions()<sp/>|<sp/>TableStyleOptions::LastRow<sp/>|<sp/>TableStyleOptions::LastColumn);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.ConditionalStyles.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="358" column="26"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_conditional_style_1a2cc56be7f361e72f86af69d9b0a58b8e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>double</type>
+        <definition>double Aspose::Words::ConditionalStyle::get_TopPadding</definition>
+        <argsstring>()</argsstring>
+        <name>get_TopPadding</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::get_TopPadding</qualifiedname>
+        <briefdescription>
+<para>Gets or sets the amount of space (in points) to add above the contents of table cells. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with certain area styles of a table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>4&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>custom<sp/>table<sp/>style.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Conditional<sp/>styles<sp/>are<sp/>formatting<sp/>changes<sp/>that<sp/>affect<sp/>only<sp/>some<sp/>of<sp/>the<sp/>table&apos;s<sp/>cells</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>based<sp/>on<sp/>a<sp/>predicate,<sp/>such<sp/>as<sp/>the<sp/>cells<sp/>being<sp/>in<sp/>the<sp/>last<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>ways<sp/>of<sp/>accessing<sp/>a<sp/>table<sp/>style&apos;s<sp/>conditional<sp/>styles<sp/>from<sp/>the<sp/>&quot;ConditionalStyles&quot;<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>By<sp/>style<sp/>type:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aa6f90473812d5f788bddfb1470840e651" kindref="member" tooltip="Specifies formatting of the first row of a table.">ConditionalStyleType::FirstRow</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;get_Shading()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1af90758ed5c66dd6f1681ae5becc227e0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_AliceBlue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>By<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da946369d896277a74817357a370331422" kindref="member">LineStyle::DotDash</ref>);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aa6f90473812d5f788bddfb1470840e651" kindref="member" tooltip="Specifies formatting of the first row of a table.">ConditionalStyleType::FirstRow</ref>,<sp/>tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>As<sp/>a<sp/>property:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_FirstRow()-&gt;get_ParagraphFormat()-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1ae0fabf27a56cdd6988da762600dd9007a4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is centered horizontally.">ParagraphAlignment::Center</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>padding<sp/>and<sp/>text<sp/>formatting<sp/>to<sp/>conditional<sp/>styles.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_BottomPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_LeftPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_RightPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_TopPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastColumn()-&gt;get_Font()-&gt;set_Bold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>List<sp/>all<sp/>possible<sp/>style<sp/>conditions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;ConditionalStyle&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>tableStyle-&gt;get_ConditionalStyles()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;ConditionalStyle&gt;<sp/>currentStyle<sp/>=<sp/>enumerator-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(currentStyle<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>System::EnumGetName(currentStyle-&gt;get_Type())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>the<sp/>custom<sp/>style,<sp/>which<sp/>contains<sp/>all<sp/>conditional<sp/>styles,<sp/>to<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>style<sp/>applies<sp/>some<sp/>conditional<sp/>styles<sp/>by<sp/>default.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(TableStyleOptions::FirstRow<sp/>|<sp/>TableStyleOptions::FirstColumn<sp/>|<sp/>TableStyleOptions::RowBands,<sp/>table-&gt;get_StyleOptions());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>need<sp/>to<sp/>enable<sp/>all<sp/>other<sp/>styles<sp/>ourselves<sp/>via<sp/>the<sp/>&quot;StyleOptions&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_StyleOptions(table-&gt;get_StyleOptions()<sp/>|<sp/>TableStyleOptions::LastRow<sp/>|<sp/>TableStyleOptions::LastColumn);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.ConditionalStyles.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="660" column="15"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_conditional_style_1ab476905b077768f40c95ee9f6885434f" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type><ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512a" kindref="member">Aspose::Words::ConditionalStyleType</ref></type>
+        <definition>Aspose::Words::ConditionalStyleType Aspose::Words::ConditionalStyle::get_Type</definition>
+        <argsstring>()</argsstring>
+        <name>get_Type</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::get_Type</qualifiedname>
+        <briefdescription>
+<para>Gets table area to which this conditional style relates. </para>
+        </briefdescription>
+        <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with certain area styles of a table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>4&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>custom<sp/>table<sp/>style.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Conditional<sp/>styles<sp/>are<sp/>formatting<sp/>changes<sp/>that<sp/>affect<sp/>only<sp/>some<sp/>of<sp/>the<sp/>table&apos;s<sp/>cells</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>based<sp/>on<sp/>a<sp/>predicate,<sp/>such<sp/>as<sp/>the<sp/>cells<sp/>being<sp/>in<sp/>the<sp/>last<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>ways<sp/>of<sp/>accessing<sp/>a<sp/>table<sp/>style&apos;s<sp/>conditional<sp/>styles<sp/>from<sp/>the<sp/>&quot;ConditionalStyles&quot;<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>By<sp/>style<sp/>type:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aa6f90473812d5f788bddfb1470840e651" kindref="member" tooltip="Specifies formatting of the first row of a table.">ConditionalStyleType::FirstRow</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;get_Shading()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1af90758ed5c66dd6f1681ae5becc227e0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_AliceBlue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>By<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da946369d896277a74817357a370331422" kindref="member">LineStyle::DotDash</ref>);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aa6f90473812d5f788bddfb1470840e651" kindref="member" tooltip="Specifies formatting of the first row of a table.">ConditionalStyleType::FirstRow</ref>,<sp/>tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>As<sp/>a<sp/>property:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_FirstRow()-&gt;get_ParagraphFormat()-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1ae0fabf27a56cdd6988da762600dd9007a4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is centered horizontally.">ParagraphAlignment::Center</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>padding<sp/>and<sp/>text<sp/>formatting<sp/>to<sp/>conditional<sp/>styles.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_BottomPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_LeftPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_RightPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_TopPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastColumn()-&gt;get_Font()-&gt;set_Bold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>List<sp/>all<sp/>possible<sp/>style<sp/>conditions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;ConditionalStyle&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>tableStyle-&gt;get_ConditionalStyles()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;ConditionalStyle&gt;<sp/>currentStyle<sp/>=<sp/>enumerator-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(currentStyle<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>System::EnumGetName(currentStyle-&gt;get_Type())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>the<sp/>custom<sp/>style,<sp/>which<sp/>contains<sp/>all<sp/>conditional<sp/>styles,<sp/>to<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>style<sp/>applies<sp/>some<sp/>conditional<sp/>styles<sp/>by<sp/>default.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(TableStyleOptions::FirstRow<sp/>|<sp/>TableStyleOptions::FirstColumn<sp/>|<sp/>TableStyleOptions::RowBands,<sp/>table-&gt;get_StyleOptions());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>need<sp/>to<sp/>enable<sp/>all<sp/>other<sp/>styles<sp/>ourselves<sp/>via<sp/>the<sp/>&quot;StyleOptions&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_StyleOptions(table-&gt;get_StyleOptions()<sp/>|<sp/>TableStyleOptions::LastRow<sp/>|<sp/>TableStyleOptions::LastColumn);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.ConditionalStyles.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="814" column="44"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_conditional_style_1ab9c19654417586251c5ae3259abd27a2" prot="public" static="no" const="yes" explicit="no" inline="no" virt="non-virtual">
+        <type>int32_t</type>
+        <definition>int32_t Aspose::Words::ConditionalStyle::GetHashCode</definition>
+        <argsstring>() const override</argsstring>
+        <name>GetHashCode</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::GetHashCode</qualifiedname>
+        <briefdescription>
+<para>Calculates hash code for this object. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="861" column="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_conditional_style_1a15e57bc4e418de2ebc5019359594b50e" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::ConditionalStyle::set_BottomPadding</definition>
+        <argsstring>(double value)</argsstring>
+        <name>set_BottomPadding</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::set_BottomPadding</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_conditional_style_1a7cfa2062770d9d7906f19a908ff580b8" kindref="member">Aspose::Words::ConditionalStyle::get_BottomPadding</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="740" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_conditional_style_1a415a8b6f4fb64b2813ab1511aaad176b" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::ConditionalStyle::set_LeftPadding</definition>
+        <argsstring>(double value)</argsstring>
+        <name>set_LeftPadding</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::set_LeftPadding</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_conditional_style_1ac8bcd3120e244cca8e4797535bf11ed8" kindref="member">Aspose::Words::ConditionalStyle::get_LeftPadding</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="509" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_conditional_style_1a1d1cfede37b4a6f157e95b615889ea24" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::ConditionalStyle::set_RightPadding</definition>
+        <argsstring>(double value)</argsstring>
+        <name>set_RightPadding</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::set_RightPadding</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_conditional_style_1a44dad736ab48264a0e04deb0acf074ec" kindref="member">Aspose::Words::ConditionalStyle::get_RightPadding</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="586" column="13"/>
+      </memberdef>
+      <memberdef kind="function" id="class_aspose_1_1_words_1_1_conditional_style_1a57ceb1b643089b289c1743ddc8da9f47" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>void</type>
+        <definition>void Aspose::Words::ConditionalStyle::set_TopPadding</definition>
+        <argsstring>(double value)</argsstring>
+        <name>set_TopPadding</name>
+        <qualifiedname>Aspose::Words::ConditionalStyle::set_TopPadding</qualifiedname>
+        <param>
+          <type>double</type>
+          <declname>value</declname>
+        </param>
+        <briefdescription>
+<para>Setter for <ref refid="class_aspose_1_1_words_1_1_conditional_style_1a2cc56be7f361e72f86af69d9b0a58b8e" kindref="member">Aspose::Words::ConditionalStyle::get_TopPadding</ref>. </para>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="663" column="13"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Represents special formatting applied to some area of a table with assigned table style. </para>
+    </briefdescription>
+    <detaileddescription>
+<para><simplesect kind="par"><title>Examples</title><para></para>
+</simplesect>
+Shows how to work with certain area styles of a table. <programlisting><codeline><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>doc<sp/>=<sp/>MakeObject&lt;Document&gt;();</highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>builder<sp/>=<sp/>MakeObject&lt;DocumentBuilder&gt;(doc);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">SharedPtr&lt;Table&gt;<sp/>table<sp/>=<sp/>builder-&gt;StartTable();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>1&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>2&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndRow();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>3&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;InsertCell();</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;Write(u</highlight><highlight class="stringliteral">&quot;Cell<sp/>4&quot;</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal">builder-&gt;EndTable();</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Create<sp/>a<sp/>custom<sp/>table<sp/>style.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="keyword">auto</highlight><highlight class="normal"><sp/>tableStyle<sp/>=<sp/>System::DynamicCast&lt;TableStyle&gt;(doc-&gt;get_Styles()-&gt;Add(<ref refid="namespace_aspose_1_1_words_1a460532e21a1d6b973b05cec9f5a67b1ba51c45b795d5d18a3e4e0c37e8b20a141" kindref="member" tooltip="The style is a table style.">StyleType::Table</ref>,<sp/>u</highlight><highlight class="stringliteral">&quot;MyTableStyle1&quot;</highlight><highlight class="normal">));</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Conditional<sp/>styles<sp/>are<sp/>formatting<sp/>changes<sp/>that<sp/>affect<sp/>only<sp/>some<sp/>of<sp/>the<sp/>table&apos;s<sp/>cells</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>based<sp/>on<sp/>a<sp/>predicate,<sp/>such<sp/>as<sp/>the<sp/>cells<sp/>being<sp/>in<sp/>the<sp/>last<sp/>row.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Below<sp/>are<sp/>three<sp/>ways<sp/>of<sp/>accessing<sp/>a<sp/>table<sp/>style&apos;s<sp/>conditional<sp/>styles<sp/>from<sp/>the<sp/>&quot;ConditionalStyles&quot;<sp/>collection.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>1<sp/>-<sp/><sp/>By<sp/>style<sp/>type:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;idx_get(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aa6f90473812d5f788bddfb1470840e651" kindref="member" tooltip="Specifies formatting of the first row of a table.">ConditionalStyleType::FirstRow</ref>)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;get_Shading()</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>-&gt;set_BackgroundPatternColor(<ref refid="class/system.drawing.color/_1af90758ed5c66dd6f1681ae5becc227e0" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_AliceBlue</ref>());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>2<sp/>-<sp/><sp/>By<sp/>index:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Borders()-&gt;set_Color(<ref refid="class/system.drawing.color/_1a7d0b969629be27c82281c543064169f8" kindref="member" external="X:/temp/apireference/asposecpplib.containerize.api.tag">System::Drawing::Color::get_Black</ref>());</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Borders()-&gt;set_LineStyle(<ref refid="namespace_aspose_1_1_words_1a7b6888839fb40e2141c101764ad7e09da946369d896277a74817357a370331422" kindref="member">LineStyle::DotDash</ref>);</highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(<ref refid="namespace_aspose_1_1_words_1af2786fc44471a8730d414a5547c8512aa6f90473812d5f788bddfb1470840e651" kindref="member" tooltip="Specifies formatting of the first row of a table.">ConditionalStyleType::FirstRow</ref>,<sp/>tableStyle-&gt;get_ConditionalStyles()-&gt;idx_get(0)-&gt;get_Type());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>3<sp/>-<sp/><sp/>As<sp/>a<sp/>property:</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_FirstRow()-&gt;get_ParagraphFormat()-&gt;set_Alignment(<ref refid="namespace_aspose_1_1_words_1ae0fabf27a56cdd6988da762600dd9007a4f1f6016fc9f3f2353c0cc7c67b292bd" kindref="member" tooltip="Text is centered horizontally.">ParagraphAlignment::Center</ref>);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>padding<sp/>and<sp/>text<sp/>formatting<sp/>to<sp/>conditional<sp/>styles.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_BottomPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_LeftPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_RightPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastRow()-&gt;set_TopPadding(10);</highlight></codeline>
+<codeline><highlight class="normal">tableStyle-&gt;get_ConditionalStyles()-&gt;get_LastColumn()-&gt;get_Font()-&gt;set_Bold(</highlight><highlight class="keyword">true</highlight><highlight class="normal">);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>List<sp/>all<sp/>possible<sp/>style<sp/>conditions.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>SharedPtr&lt;System::Collections::Generic::IEnumerator&lt;SharedPtr&lt;ConditionalStyle&gt;&gt;&gt;<sp/>enumerator<sp/>=<sp/>tableStyle-&gt;get_ConditionalStyles()-&gt;GetEnumerator();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">while</highlight><highlight class="normal"><sp/>(enumerator-&gt;MoveNext())</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>SharedPtr&lt;ConditionalStyle&gt;<sp/>currentStyle<sp/>=<sp/>enumerator-&gt;get_Current();</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/></highlight><highlight class="keywordflow">if</highlight><highlight class="normal"><sp/>(currentStyle<sp/>!=<sp/></highlight><highlight class="keyword">nullptr</highlight><highlight class="normal">)</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>{</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>std::cout<sp/>&lt;&lt;<sp/>System::EnumGetName(currentStyle-&gt;get_Type())<sp/>&lt;&lt;<sp/>std::endl;</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
+<codeline><highlight class="normal">}</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Apply<sp/>the<sp/>custom<sp/>style,<sp/>which<sp/>contains<sp/>all<sp/>conditional<sp/>styles,<sp/>to<sp/>the<sp/>table.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_Style(tableStyle);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>Our<sp/>style<sp/>applies<sp/>some<sp/>conditional<sp/>styles<sp/>by<sp/>default.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">ASSERT_EQ(TableStyleOptions::FirstRow<sp/>|<sp/>TableStyleOptions::FirstColumn<sp/>|<sp/>TableStyleOptions::RowBands,<sp/>table-&gt;get_StyleOptions());</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal"></highlight><highlight class="comment">//<sp/>We<sp/>will<sp/>need<sp/>to<sp/>enable<sp/>all<sp/>other<sp/>styles<sp/>ourselves<sp/>via<sp/>the<sp/>&quot;StyleOptions&quot;<sp/>property.</highlight><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">table-&gt;set_StyleOptions(table-&gt;get_StyleOptions()<sp/>|<sp/>TableStyleOptions::LastRow<sp/>|<sp/>TableStyleOptions::LastColumn);</highlight></codeline>
+<codeline><highlight class="normal"></highlight></codeline>
+<codeline><highlight class="normal">doc-&gt;Save(ArtifactsDir<sp/>+<sp/>u</highlight><highlight class="stringliteral">&quot;Table.ConditionalStyles.docx&quot;</highlight><highlight class="normal">);</highlight></codeline>
+</programlisting> </para>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Aspose::Words::ConditionalStyle</label>
+        <link refid="class_aspose_1_1_words_1_1_conditional_style"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::IBorderAttrSource</label>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::IParaAttrSource</label>
+      </node>
+      <node id="5">
+        <label>Aspose::Words::IRunAttrSource</label>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::IShadingAttrSource</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="1">
+        <label>Aspose::Words::ConditionalStyle</label>
+        <link refid="class_aspose_1_1_words_1_1_conditional_style"/>
+        <childnode refid="2" relation="public-inheritance">
+        </childnode>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="public-inheritance">
+        </childnode>
+        <childnode refid="5" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="2">
+        <label>Aspose::Words::IBorderAttrSource</label>
+      </node>
+      <node id="4">
+        <label>Aspose::Words::IParaAttrSource</label>
+      </node>
+      <node id="5">
+        <label>Aspose::Words::IRunAttrSource</label>
+      </node>
+      <node id="3">
+        <label>Aspose::Words::IShadingAttrSource</label>
+      </node>
+    </collaborationgraph>
+    <location file="Aspose.Words.Cpp/ConditionalStyle.h" line="125" column="1" bodyfile="Aspose.Words.Cpp/ConditionalStyle.h" bodystart="126" bodyend="899"/>
+    <listofallmembers>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1a9afde43f15375f6f6ddd1bd554bad0a6" prot="private" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>BaseType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1ac09cd1550fd022e4535601a462b6295d" prot="private" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>BaseType1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1ac1e4ed12bca57012bffc191119161b39" prot="private" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>BaseType2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1a3c8ab70696932b66880d4224b49ee7c8" prot="private" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>BaseType3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1af5e6638d86f76ef1806c4eb69dea482b" prot="public" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>ClearFormatting</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1a930aacdfc975d3545c7eaf4667bbb4af" prot="public" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>Equals</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1a9aa7f4c928e0a8fa75829ae597e13fb4" prot="public" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>get_Borders</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1a7cfa2062770d9d7906f19a908ff580b8" prot="public" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>get_BottomPadding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1aa3a49cd719bd7a3f406700e136b7befb" prot="public" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>get_Font</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1ac8bcd3120e244cca8e4797535bf11ed8" prot="public" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>get_LeftPadding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1aa046f4130fbf35bfcc1464464dc6c595" prot="public" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>get_ParagraphFormat</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1a44dad736ab48264a0e04deb0acf074ec" prot="public" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>get_RightPadding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1a611bb425d531c657a5328ed30f9bdfbd" prot="public" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>get_Shading</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1a2cc56be7f361e72f86af69d9b0a58b8e" prot="public" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>get_TopPadding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1ab476905b077768f40c95ee9f6885434f" prot="public" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>get_Type</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1ab9c19654417586251c5ae3259abd27a2" prot="public" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>GetHashCode</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1a800db7a990eec62480db5dbf5b200d82" prot="private" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>mField0</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1a9c123841e3d65779cb01e03f9cc15218" prot="private" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>mField1</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1a61dab7cd811b312792990ddbfe5baaa7" prot="private" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>mField2</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1abf74cac64f030ab69898d95457c40b85" prot="private" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>mField3</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1a17f41f1a405fac87fcbdd55e4359396d" prot="private" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>mField4</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1ac3b1414c0dedfbcd93d566d232620786" prot="private" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>mField5</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1a4c8983cccf19fa5803c04107e42253bf" prot="private" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>mField6</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1a78150f25cbdb201571dc0082bdf772c3" prot="private" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>mField7</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1a2fd3b9e1e8f6356ee45786cf1c66d429" prot="private" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>mField8</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1af2f3b3940a85c2af5293729c33240837" prot="private" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>mField9</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1ad709233b672e2b2a4f440bd2a5fbd5b8" prot="private" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>RTTI_INFO_DECL_EX</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1a15e57bc4e418de2ebc5019359594b50e" prot="public" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>set_BottomPadding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1a415a8b6f4fb64b2813ab1511aaad176b" prot="public" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>set_LeftPadding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1a1d1cfede37b4a6f157e95b615889ea24" prot="public" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>set_RightPadding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1a57ceb1b643089b289c1743ddc8da9f47" prot="public" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>set_TopPadding</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1a84e0562c5742006c4766303b3e8bcea1" prot="private" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>ThisType</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1a54f4b9217c7df5afc9f967b2cd890774" prot="private" virt="non-virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>ThisTypeBaseTypesInfo</name></member>
+      <member refid="class_aspose_1_1_words_1_1_conditional_style_1a527ca11c040d4a4d2bc28a9d4434c9cf" prot="private" virt="virtual"><scope>Aspose::Words::ConditionalStyle</scope><name>~ConditionalStyle</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

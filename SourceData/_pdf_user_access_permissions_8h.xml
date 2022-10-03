@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.5" xml:lang="en-US">
+  <compounddef id="_pdf_user_access_permissions_8h" kind="file" language="C++">
+    <compoundname>PdfUserAccessPermissions.h</compoundname>
+    <includes local="no">cstdint</includes>
+    <includes refid="aspose__words__api__defs_8h" local="no">Aspose.Words.Cpp/aspose_words_api_defs.h</includes>
+    <includedby refid="_pdf_permissions_8h" local="no">Aspose.Words.Cpp/Saving/PdfPermissions.h</includedby>
+    <incdepgraph>
+      <node id="1">
+        <label>Aspose.Words.Cpp/Rendering/Pdf/Encryption/PdfUserAccessPermissions.h</label>
+        <link refid="_pdf_user_access_permissions_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+        <childnode refid="3" relation="include">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>Aspose.Words.Cpp/aspose_words_api_defs.h</label>
+        <link refid="aspose__words__api__defs_8h_source"/>
+      </node>
+      <node id="2">
+        <label>cstdint</label>
+      </node>
+    </incdepgraph>
+    <invincdepgraph>
+      <node id="1">
+        <label>Aspose.Words.Cpp/Rendering/Pdf/Encryption/PdfUserAccessPermissions.h</label>
+        <link refid="_pdf_user_access_permissions_8h"/>
+        <childnode refid="2" relation="include">
+        </childnode>
+      </node>
+      <node id="3">
+        <label>Aspose.Words.Cpp/Saving/PdfEncryptionDetails.h</label>
+        <link refid="_pdf_encryption_details_8h_source"/>
+      </node>
+      <node id="2">
+        <label>Aspose.Words.Cpp/Saving/PdfPermissions.h</label>
+        <link refid="_pdf_permissions_8h_source"/>
+        <childnode refid="3" relation="include">
+        </childnode>
+      </node>
+    </invincdepgraph>
+    <innernamespace refid="namespace_aspose">Aspose</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="Aspose.Words.Cpp/Rendering/Pdf/Encryption/PdfUserAccessPermissions.h"/>
+  </compounddef>
+</doxygen>
